@@ -1,0 +1,21 @@
+{
+ "_note": "Rating and staking rules the scanner obeys. The Claude review may adjust the tunable values within the bounds in kickline/review.py.",
+ "confTrim": 3,
+ "parlayConfFloor": 60,
+ "minConfForTwoStars": 58,
+ "leagueMaxStars": {"NBA": 2, "MLS": 2, "Europa League": 2, "Liga MX": 2, "MLB": 2},
+ "bandMaxStars": {"plus": 1, "-100..-149": 2},
+ "excludeFromParlays": {"leagues": ["NBA"], "bands": ["plus", "-100..-149"]},
+ "excludeFromSingles": {"leagues": ["NBA"]},
+ "collegeHugeSpread": 20,
+ "shortPriceCap": -400,
+ "shortPriceMaxStars": 3,
+ "espnGapForFactor": 5,
+ "lineMoveForFactor": 4,
+ "visionGradedReadsForFullWeight": 5,
+ "windowHours": 36,
+ "parlayWindowHours": 72,
+ "summaryRefreshMinutes": 30,
+ "oddsRefreshMinutes": 10,
+ "parlayBetHourPT": 7
+}

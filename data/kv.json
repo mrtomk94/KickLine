@@ -1,0 +1,18 @@
+{
+ "account": {
+  "createdAt": "2026-11-06T23:45:00Z",
+  "lastTicketDay": "",
+  "name": "K×V paper account (Kickline × Match Vision)",
+  "rules": [
+   "Starts with 250 paper credits on Nov 6, 2026 and runs continuously (no weekly reset). No real money; no betting site is connected.",
+   "A leg qualifies only when Kickline's pick is a moneyline or draw with 2★+ and 60%+ confidence, and a Match Vision read imported within 7 days of kickoff leans the same way.",
+   "Each scan builds one K×V parlay from the qualifying legs that start in the next 72 hours: at least 2 legs, at most 6, highest confidence first, one leg per game.",
+   "Every ticket is staked 5 credits, at most one new ticket per Pacific day, and never the same set of legs twice.",
+   "The account stops when its balance falls below 5 credits.",
+   "Tickets settle from Kickline's graded results: a win pays 5 × the ticket's decimal odds, a push or void returns the stake."
+  ],
+  "stake": 5,
+  "startCredit": 250,
+  "status": "active"
+ }
+}
