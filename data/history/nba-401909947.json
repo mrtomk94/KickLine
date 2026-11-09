@@ -1,0 +1,86 @@
+{
+ "id": "nba-401909947",
+ "sport": "nba",
+ "league": "NBA",
+ "start": "2026-11-09T00:00:00Z",
+ "home": {
+  "name": "Minnesota Timberwolves",
+  "abbr": "MIN",
+  "teamId": null,
+  "score": 115.0
+ },
+ "away": {
+  "name": "Utah Jazz",
+  "abbr": "UTAH",
+  "teamId": null,
+  "score": 100.0
+ },
+ "odds": {
+  "provider": "DraftKings"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "away": {
+   "abbr": "UTAH",
+   "stats": {
+    "fieldGoalsMade-fieldGoalsAttempted": "37-87",
+    "fieldGoalPct": "43",
+    "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "7-24",
+    "threePointFieldGoalPct": "29",
+    "freeThrowsMade-freeThrowsAttempted": "19-24",
+    "freeThrowPct": "79",
+    "totalRebounds": "37",
+    "offensiveRebounds": "11",
+    "defensiveRebounds": "26",
+    "assists": "21",
+    "steals": "10",
+    "blocks": "3",
+    "turnovers": "13",
+    "teamTurnovers": "1",
+    "totalTurnovers": "14",
+    "technicalFouls": "0",
+    "totalTechnicalFouls": "0",
+    "flagrantFouls": "0",
+    "turnoverPoints": "19",
+    "fastBreakPoints": "21",
+    "pointsInPaint": "54",
+    "fouls": "20",
+    "largestLead": "6",
+    "leadChanges": "4",
+    "leadPercentage": "9"
+   }
+  },
+  "home": {
+   "abbr": "MIN",
+   "stats": {
+    "fieldGoalsMade-fieldGoalsAttempted": "38-77",
+    "fieldGoalPct": "49",
+    "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "12-32",
+    "threePointFieldGoalPct": "38",
+    "freeThrowsMade-freeThrowsAttempted": "27-32",
+    "freeThrowPct": "84",
+    "totalRebounds": "45",
+    "offensiveRebounds": "10",
+    "defensiveRebounds": "35",
+    "assists": "18",
+    "steals": "8",
+    "blocks": "3",
+    "turnovers": "22",
+    "teamTurnovers": "0",
+    "totalTurnovers": "22",
+    "technicalFouls": "0",
+    "totalTechnicalFouls": "0",
+    "flagrantFouls": "1",
+    "turnoverPoints": "25",
+    "fastBreakPoints": "27",
+    "pointsInPaint": "50",
+    "fouls": "26",
+    "largestLead": "19",
+    "leadChanges": "4",
+    "leadPercentage": "83"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": []
+}

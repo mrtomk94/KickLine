@@ -1,0 +1,150 @@
+{
+ "id": "nfl-401873045",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-08T18:00:00Z",
+ "home": {
+  "name": "Kansas City Chiefs",
+  "abbr": "KC",
+  "teamId": null,
+  "score": 35.0
+ },
+ "away": {
+  "name": "New York Jets",
+  "abbr": "NYJ",
+  "teamId": null,
+  "score": 12.0
+ },
+ "odds": {
+  "mlAway": "+440",
+  "mlAwayOpen": "+360",
+  "mlHome": "-600",
+  "mlHomeOpen": "-470",
+  "provider": "DraftKings",
+  "spread": "KC -10",
+  "spreadOpen": "KC -9.5",
+  "total": "47.5",
+  "totalOpen": "41.5"
+ },
+ "espnWinProb": {
+  "away": 21,
+  "home": 78.8
+ },
+ "teams": {
+  "away": {
+   "abbr": "NYJ",
+   "stats": {
+    "firstDowns": "15",
+    "firstDownsPassing": "9",
+    "firstDownsRushing": "6",
+    "firstDownsPenalty": "0",
+    "thirdDownEff": "2-12",
+    "fourthDownEff": "0-2",
+    "totalOffensivePlays": "62",
+    "totalYards": "229",
+    "yardsPerPlay": "3.7",
+    "totalDrives": "11",
+    "netPassingYards": "123",
+    "completionAttempts": "18/32",
+    "yardsPerPass": "3.3",
+    "interceptions": "0",
+    "sacksYardsLost": "5-42",
+    "rushingYards": "106",
+    "rushingAttempts": "25",
+    "yardsPerRushAttempt": "4.2",
+    "redZoneAttempts": "0-1",
+    "totalPenaltiesYards": "9-57",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "31:06"
+   }
+  },
+  "home": {
+   "abbr": "KC",
+   "stats": {
+    "firstDowns": "27",
+    "firstDownsPassing": "16",
+    "firstDownsRushing": "9",
+    "firstDownsPenalty": "2",
+    "thirdDownEff": "6-11",
+    "fourthDownEff": "1-1",
+    "totalOffensivePlays": "65",
+    "totalYards": "391",
+    "yardsPerPlay": "6.0",
+    "totalDrives": "12",
+    "netPassingYards": "228",
+    "completionAttempts": "23/31",
+    "yardsPerPass": "6.9",
+    "interceptions": "0",
+    "sacksYardsLost": "2-14",
+    "rushingYards": "163",
+    "rushingAttempts": "32",
+    "yardsPerRushAttempt": "5.1",
+    "redZoneAttempts": "4-4",
+    "totalPenaltiesYards": "3-20",
+    "turnovers": "2",
+    "fumblesLost": "2",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "28:54"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "6:47",
+   "team": "NYJ",
+   "text": "Jason Sanders 23 Yd Field Goal"
+  },
+  {
+   "period": 1,
+   "clock": "4:35",
+   "team": "NYJ",
+   "text": "Jason Sanders 48 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "14:56",
+   "team": "KC",
+   "text": "Kenneth Walker III 7 Yd pass from Patrick Mahomes (Harrison Butker Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "8:12",
+   "team": "NYJ",
+   "text": "Jason Sanders 49 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "5:37",
+   "team": "KC",
+   "text": "Kenneth Walker III 25 Yd pass from Patrick Mahomes (Harrison Butker Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "2:16",
+   "team": "NYJ",
+   "text": "Jason Sanders 54 Yd Field Goal"
+  },
+  {
+   "period": 3,
+   "clock": "10:20",
+   "team": "KC",
+   "text": "Travis Kelce 1 Yd Rush (Harrison Butker Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "0:11",
+   "team": "KC",
+   "text": "Kenneth Walker III 2 Yd Rush (Harrison Butker Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "3:35",
+   "team": "KC",
+   "text": "Emmett Johnson 6 Yd Rush (Harrison Butker Kick)"
+  }
+ ]
+}

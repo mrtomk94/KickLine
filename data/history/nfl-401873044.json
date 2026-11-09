@@ -1,0 +1,135 @@
+{
+ "id": "nfl-401873044",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-08T18:00:00Z",
+ "home": {
+  "name": "Philadelphia Eagles",
+  "abbr": "PHI",
+  "teamId": null,
+  "score": 11.0
+ },
+ "away": {
+  "name": "New York Giants",
+  "abbr": "NYG",
+  "teamId": null,
+  "score": 19.0
+ },
+ "odds": {
+  "mlAway": "-166",
+  "mlAwayOpen": "+195",
+  "mlHome": "+140",
+  "mlHomeOpen": "-238",
+  "provider": "DraftKings",
+  "spread": "NYG -3.5",
+  "spreadOpen": "PHI -5.5",
+  "total": "38.5",
+  "totalOpen": "44.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "away": {
+   "abbr": "NYG",
+   "stats": {
+    "firstDowns": "15",
+    "firstDownsPassing": "9",
+    "firstDownsRushing": "5",
+    "firstDownsPenalty": "1",
+    "thirdDownEff": "6-17",
+    "fourthDownEff": "1-1",
+    "totalOffensivePlays": "64",
+    "totalYards": "243",
+    "yardsPerPlay": "3.8",
+    "totalDrives": "12",
+    "netPassingYards": "163",
+    "completionAttempts": "18/27",
+    "yardsPerPass": "4.9",
+    "interceptions": "0",
+    "sacksYardsLost": "6-35",
+    "rushingYards": "80",
+    "rushingAttempts": "31",
+    "yardsPerRushAttempt": "2.6",
+    "redZoneAttempts": "1-1",
+    "totalPenaltiesYards": "9-86",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "34:45"
+   }
+  },
+  "home": {
+   "abbr": "PHI",
+   "stats": {
+    "firstDowns": "13",
+    "firstDownsPassing": "7",
+    "firstDownsRushing": "4",
+    "firstDownsPenalty": "2",
+    "thirdDownEff": "5-18",
+    "fourthDownEff": "1-3",
+    "totalOffensivePlays": "66",
+    "totalYards": "220",
+    "yardsPerPlay": "3.3",
+    "totalDrives": "13",
+    "netPassingYards": "128",
+    "completionAttempts": "18/34",
+    "yardsPerPass": "3.1",
+    "interceptions": "0",
+    "sacksYardsLost": "7-41",
+    "rushingYards": "92",
+    "rushingAttempts": "25",
+    "yardsPerRushAttempt": "3.7",
+    "redZoneAttempts": "1-1",
+    "totalPenaltiesYards": "6-56",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "25:15"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "10:30",
+   "team": "NYG",
+   "text": "Dominic Zvada 53 Yd Field Goal"
+  },
+  {
+   "period": 1,
+   "clock": "5:31",
+   "team": "NYG",
+   "text": "Dominic Zvada 49 Yd Field Goal"
+  },
+  {
+   "period": 1,
+   "clock": "2:09",
+   "team": "PHI",
+   "text": "Saquon Barkley 3 Yd Rush (Joe Milton Run for Two-Point Conversion)"
+  },
+  {
+   "period": 3,
+   "clock": "2:25",
+   "team": "NYG",
+   "text": "Isaiah Likely 5 Yd pass from Jameis Winston (Dominic Zvada Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "9:06",
+   "team": "NYG",
+   "text": "Dominic Zvada 38 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "4:24",
+   "team": "NYG",
+   "text": "Dominic Zvada 49 Yd Field Goal "
+  },
+  {
+   "period": 4,
+   "clock": "1:56",
+   "team": "PHI",
+   "text": "Jake Elliott 45 Yd Field Goal"
+  }
+ ]
+}

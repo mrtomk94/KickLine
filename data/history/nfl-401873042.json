@@ -1,0 +1,144 @@
+{
+ "id": "nfl-401873042",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-08T18:00:00Z",
+ "home": {
+  "name": "Miami Dolphins",
+  "abbr": "MIA",
+  "teamId": null,
+  "score": 9.0
+ },
+ "away": {
+  "name": "Detroit Lions",
+  "abbr": "DET",
+  "teamId": null,
+  "score": 19.0
+ },
+ "odds": {
+  "mlAway": "-355",
+  "mlAwayOpen": "-270",
+  "mlHome": "+280",
+  "mlHomeOpen": "+220",
+  "provider": "DraftKings",
+  "spread": "DET -7",
+  "spreadOpen": "DET -6.5",
+  "total": "50.5",
+  "totalOpen": "47.5"
+ },
+ "espnWinProb": {
+  "away": 77.7,
+  "home": 22.1
+ },
+ "teams": {
+  "away": {
+   "abbr": "DET",
+   "stats": {
+    "firstDowns": "16",
+    "firstDownsPassing": "8",
+    "firstDownsRushing": "7",
+    "firstDownsPenalty": "1",
+    "thirdDownEff": "3-12",
+    "fourthDownEff": "4-4",
+    "totalOffensivePlays": "57",
+    "totalYards": "270",
+    "yardsPerPlay": "4.7",
+    "totalDrives": "8",
+    "netPassingYards": "168",
+    "completionAttempts": "18/26",
+    "yardsPerPass": "5.8",
+    "interceptions": "1",
+    "sacksYardsLost": "3-13",
+    "rushingYards": "102",
+    "rushingAttempts": "28",
+    "yardsPerRushAttempt": "3.6",
+    "redZoneAttempts": "1-4",
+    "totalPenaltiesYards": "9-63",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "31:15"
+   }
+  },
+  "home": {
+   "abbr": "MIA",
+   "stats": {
+    "firstDowns": "12",
+    "firstDownsPassing": "8",
+    "firstDownsRushing": "3",
+    "firstDownsPenalty": "1",
+    "thirdDownEff": "4-12",
+    "fourthDownEff": "1-2",
+    "totalOffensivePlays": "50",
+    "totalYards": "228",
+    "yardsPerPlay": "4.6",
+    "totalDrives": "8",
+    "netPassingYards": "151",
+    "completionAttempts": "14/26",
+    "yardsPerPass": "5.2",
+    "interceptions": "1",
+    "sacksYardsLost": "3-23",
+    "rushingYards": "77",
+    "rushingAttempts": "21",
+    "yardsPerRushAttempt": "3.7",
+    "redZoneAttempts": "0-3",
+    "totalPenaltiesYards": "11-87",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "28:45"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "8:22",
+   "team": "DET",
+   "text": "Jake Bates 28 Yd Field Goal"
+  },
+  {
+   "period": 1,
+   "clock": "1:02",
+   "team": "MIA",
+   "text": "Zane Gonzalez 34 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "3:30",
+   "team": "DET",
+   "text": "Jake Bates 40 Yd Field Goal"
+  },
+  {
+   "period": 3,
+   "clock": "9:14",
+   "team": "DET",
+   "text": "Jake Bates 33 Yd Field Goal"
+  },
+  {
+   "period": 3,
+   "clock": "4:00",
+   "team": "MIA",
+   "text": "Zane Gonzalez 52 Yd Field Goal"
+  },
+  {
+   "period": 3,
+   "clock": "1:20",
+   "team": "DET",
+   "text": "Jahmyr Gibbs 8 Yd Rush (Jake Bates Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "9:26",
+   "team": "MIA",
+   "text": "Zane Gonzalez 34 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "4:28",
+   "team": "DET",
+   "text": "Jake Bates 43 Yd Field Goal "
+  }
+ ]
+}

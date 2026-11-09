@@ -1,0 +1,259 @@
+{
+ "id": "soccer-401882807",
+ "sport": "soccer",
+ "league": "LaLiga",
+ "start": "2026-11-08T17:30:00Z",
+ "home": {
+  "name": "Villarreal",
+  "abbr": "VIL",
+  "teamId": null,
+  "score": 2.0
+ },
+ "away": {
+  "name": "Getafe",
+  "abbr": "GET",
+  "teamId": null,
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+600",
+  "mlDraw": "+370",
+  "mlHome": "-225",
+  "provider": "DraftKings",
+  "total": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "VIL",
+   "stats": {
+    "foulsCommitted": "6",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "9",
+    "saves": "1",
+    "possessionPct": "72.4",
+    "totalShots": "22",
+    "shotsOnTarget": "7",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "488",
+    "totalPasses": "566",
+    "passPct": "0.9",
+    "accurateCrosses": "3",
+    "totalCrosses": "26",
+    "crossPct": "0.1",
+    "totalLongBalls": "62",
+    "accurateLongBalls": "31",
+    "longballPct": "0.5",
+    "blockedShots": "10",
+    "effectiveTackles": "14",
+    "totalTackles": "22",
+    "tacklePct": "0.6",
+    "interceptions": "8",
+    "effectiveClearance": "18",
+    "totalClearance": "18"
+   }
+  },
+  "away": {
+   "abbr": "GET",
+   "stats": {
+    "foulsCommitted": "13",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "4",
+    "saves": "5",
+    "possessionPct": "27.6",
+    "totalShots": "9",
+    "shotsOnTarget": "1",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "133",
+    "totalPasses": "219",
+    "passPct": "0.6",
+    "accurateCrosses": "1",
+    "totalCrosses": "7",
+    "crossPct": "0.1",
+    "totalLongBalls": "62",
+    "accurateLongBalls": "24",
+    "longballPct": "0.4",
+    "blockedShots": "3",
+    "effectiveTackles": "15",
+    "totalTackles": "20",
+    "tacklePct": "0.8",
+    "interceptions": "8",
+    "effectiveClearance": "51",
+    "totalClearance": "51"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "21'",
+   "team": null,
+   "text": "Delay in match (Villarreal)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "21'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "22'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "22'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "32'",
+   "team": null,
+   "text": "Mario Martín (Getafe) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "33'",
+   "team": null,
+   "text": "Delay in match because of an injury Carlos Maciá (Villarreal)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "33'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "34'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "34'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Getafe. Ramón Terrats replaces Mario Martín."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "62'",
+   "team": null,
+   "text": "Nemanja Gudelj (Getafe) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, Villarreal. Ayoze Pérez replaces Alberto Moleiro."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Villarreal. Santi Comesaña replaces Carlos Maciá."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Villarreal. Alex Freeman replaces Santiago Mouriño."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "67'",
+   "team": null,
+   "text": "Santi Comesaña (Villarreal) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "76'",
+   "team": null,
+   "text": "Renato Veiga (Villarreal) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Villarreal. Nicolas Pepe replaces Tani Oluwaseyi."
+  },
+  {
+   "type": "Goal",
+   "clock": "80'",
+   "team": null,
+   "text": "Goal! Villarreal 1, Getafe 0. Tajon Buchanan (Villarreal) right footed shot from the left side of the six yard box to the top left corner. Assisted by Nicolas Pepe with a cross."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Getafe. Iván Azón replaces Orel Mangala."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Getafe. Francho Serrano replaces Enes Ünal."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Getafe. Kiko Femenía replaces Andrés García."
+  },
+  {
+   "type": "Substitution",
+   "clock": "84'",
+   "team": null,
+   "text": "Substitution, Villarreal. Nathan Saliba replaces Georges Mikautadze."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Goal! Villarreal 2, Getafe 0. Carlos Romero (Villarreal) right footed shot from the centre of the box to the bottom left corner. Assisted by Ayoze Pérez with a through ball."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+4'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

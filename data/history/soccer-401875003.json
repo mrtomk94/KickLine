@@ -1,0 +1,295 @@
+{
+ "id": "soccer-401875003",
+ "sport": "soccer",
+ "league": "Serie A",
+ "start": "2026-11-08T19:45:00Z",
+ "home": {
+  "name": "Fiorentina",
+  "abbr": "FIO",
+  "teamId": null,
+  "score": 2.0
+ },
+ "away": {
+  "name": "Juventus",
+  "abbr": "JUV",
+  "teamId": null,
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "+105",
+  "mlDraw": "+240",
+  "mlHome": "+230",
+  "provider": "DraftKings",
+  "total": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "FIO",
+   "stats": {
+    "foulsCommitted": "16",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "5",
+    "saves": "4",
+    "possessionPct": "41.3",
+    "totalShots": "22",
+    "shotsOnTarget": "6",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "273",
+    "totalPasses": "323",
+    "passPct": "0.8",
+    "accurateCrosses": "5",
+    "totalCrosses": "15",
+    "crossPct": "0.3",
+    "totalLongBalls": "33",
+    "accurateLongBalls": "17",
+    "longballPct": "0.5",
+    "blockedShots": "7",
+    "effectiveTackles": "13",
+    "totalTackles": "20",
+    "tacklePct": "0.7",
+    "interceptions": "6",
+    "effectiveClearance": "26",
+    "totalClearance": "26"
+   }
+  },
+  "away": {
+   "abbr": "JUV",
+   "stats": {
+    "foulsCommitted": "18",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "12",
+    "saves": "4",
+    "possessionPct": "58.7",
+    "totalShots": "18",
+    "shotsOnTarget": "6",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "386",
+    "totalPasses": "455",
+    "passPct": "0.8",
+    "accurateCrosses": "7",
+    "totalCrosses": "27",
+    "crossPct": "0.3",
+    "totalLongBalls": "42",
+    "accurateLongBalls": "17",
+    "longballPct": "0.4",
+    "blockedShots": "6",
+    "effectiveTackles": "5",
+    "totalTackles": "16",
+    "tacklePct": "0.3",
+    "interceptions": "5",
+    "effectiveClearance": "16",
+    "totalClearance": "16"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "4'",
+   "team": null,
+   "text": "Goal! Fiorentina 1, Juventus 0. Mateo Pellegrino (Fiorentina) header from very close range to the top right corner. Assisted by Pote with a cross following a corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "13'",
+   "team": null,
+   "text": "Juan Cabal (Juventus) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "18'",
+   "team": null,
+   "text": "Delay in match (Juventus)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "18'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "18'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "18'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "19'",
+   "team": null,
+   "text": "Delay in match (Juventus)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "19'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "19'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "19'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "22'",
+   "team": null,
+   "text": "Bremer (Juventus) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "32'",
+   "team": null,
+   "text": "Goal! Fiorentina 1, Juventus 1. Nick Woltemade (Juventus) right footed shot from the centre of the box to the bottom left corner. Assisted by Randal Kolo Muani following a fast break."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, Fiorentina 1, Juventus 1."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "46'",
+   "team": null,
+   "text": "Delay in match because of an injury Jhon Lucumí (Juventus)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "46'",
+   "team": null,
+   "text": "Delay in match because of an injury Mateo Pellegrino (Fiorentina)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "47'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "47'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "50'",
+   "team": null,
+   "text": "Christ Inao Oulaï (Fiorentina) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "54'",
+   "team": null,
+   "text": "Goal! Fiorentina 2, Juventus 1. Alieu Njie (Fiorentina) right footed shot from very close range to the bottom left corner following a set piece situation."
+  },
+  {
+   "type": "Substitution",
+   "clock": "56'",
+   "team": null,
+   "text": "Substitution, Juventus. Zeki Çelik replaces Juan Cabal."
+  },
+  {
+   "type": "Substitution",
+   "clock": "57'",
+   "team": null,
+   "text": "Substitution, Juventus. Edon Zhegrova replaces Nick Woltemade."
+  },
+  {
+   "type": "Substitution",
+   "clock": "57'",
+   "team": null,
+   "text": "Substitution, Juventus. Kerim Alajbegovic replaces Jérémie Boga."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Fiorentina. Marco Brescianini replaces Pote."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Fiorentina. Nicolò Fagioli replaces Christ Inao Oulaï."
+  },
+  {
+   "type": "Goal",
+   "clock": "66'",
+   "team": null,
+   "text": "Goal! Fiorentina 2, Juventus 2. Bremer (Juventus) with an attempt from very close range to the centre of the goal. Assisted by Douglas Luiz with a cross following a corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "73'",
+   "team": null,
+   "text": "Randal Kolo Muani (Juventus) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Juventus. Jeff Ekhator replaces Weston McKennie."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Fiorentina. Beto replaces Mateo Pellegrino."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Fiorentina. Wilfried Gnonto replaces Alieu Njie."
+  },
+  {
+   "type": "Substitution",
+   "clock": "89'",
+   "team": null,
+   "text": "Substitution, Juventus. Federico Gatti replaces Jhon Lucumí."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

@@ -1,0 +1,86 @@
+{
+ "id": "nba-401909951",
+ "sport": "nba",
+ "league": "NBA",
+ "start": "2026-11-09T02:00:00Z",
+ "home": {
+  "name": "Sacramento Kings",
+  "abbr": "SAC",
+  "teamId": null,
+  "score": 108.0
+ },
+ "away": {
+  "name": "Miami Heat",
+  "abbr": "MIA",
+  "teamId": null,
+  "score": 114.0
+ },
+ "odds": {
+  "provider": "DraftKings"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "away": {
+   "abbr": "MIA",
+   "stats": {
+    "fieldGoalsMade-fieldGoalsAttempted": "44-88",
+    "fieldGoalPct": "50",
+    "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "18-43",
+    "threePointFieldGoalPct": "42",
+    "freeThrowsMade-freeThrowsAttempted": "8-18",
+    "freeThrowPct": "44",
+    "totalRebounds": "36",
+    "offensiveRebounds": "8",
+    "defensiveRebounds": "28",
+    "assists": "29",
+    "steals": "7",
+    "blocks": "6",
+    "turnovers": "13",
+    "teamTurnovers": "0",
+    "totalTurnovers": "13",
+    "technicalFouls": "1",
+    "totalTechnicalFouls": "1",
+    "flagrantFouls": "0",
+    "turnoverPoints": "9",
+    "fastBreakPoints": "18",
+    "pointsInPaint": "38",
+    "fouls": "21",
+    "largestLead": "16",
+    "leadChanges": "11",
+    "leadPercentage": "82"
+   }
+  },
+  "home": {
+   "abbr": "SAC",
+   "stats": {
+    "fieldGoalsMade-fieldGoalsAttempted": "38-82",
+    "fieldGoalPct": "46",
+    "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "11-37",
+    "threePointFieldGoalPct": "30",
+    "freeThrowsMade-freeThrowsAttempted": "21-23",
+    "freeThrowPct": "91",
+    "totalRebounds": "44",
+    "offensiveRebounds": "10",
+    "defensiveRebounds": "34",
+    "assists": "24",
+    "steals": "7",
+    "blocks": "4",
+    "turnovers": "18",
+    "teamTurnovers": "2",
+    "totalTurnovers": "20",
+    "technicalFouls": "0",
+    "totalTechnicalFouls": "0",
+    "flagrantFouls": "0",
+    "turnoverPoints": "23",
+    "fastBreakPoints": "8",
+    "pointsInPaint": "46",
+    "fouls": "23",
+    "largestLead": "5",
+    "leadChanges": "11",
+    "leadPercentage": "11"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": []
+}

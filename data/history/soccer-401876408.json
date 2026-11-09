@@ -1,0 +1,241 @@
+{
+ "id": "soccer-401876408",
+ "sport": "soccer",
+ "league": "Ligue 1",
+ "start": "2026-11-08T16:15:00Z",
+ "home": {
+  "name": "Le Mans",
+  "abbr": "MNS",
+  "teamId": null,
+  "score": 1.0
+ },
+ "away": {
+  "name": "AS Monaco",
+  "abbr": "MON",
+  "teamId": null,
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "-135",
+  "mlDraw": "+310",
+  "mlHome": "+310",
+  "provider": "DraftKings",
+  "total": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "MNS",
+   "stats": {
+    "foulsCommitted": "16",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "8",
+    "saves": "2",
+    "possessionPct": "48.2",
+    "totalShots": "19",
+    "shotsOnTarget": "5",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "342",
+    "totalPasses": "419",
+    "passPct": "0.8",
+    "accurateCrosses": "9",
+    "totalCrosses": "31",
+    "crossPct": "0.3",
+    "totalLongBalls": "51",
+    "accurateLongBalls": "31",
+    "longballPct": "0.6",
+    "blockedShots": "5",
+    "effectiveTackles": "11",
+    "totalTackles": "18",
+    "tacklePct": "0.6",
+    "interceptions": "15",
+    "effectiveClearance": "21",
+    "totalClearance": "21"
+   }
+  },
+  "away": {
+   "abbr": "MON",
+   "stats": {
+    "foulsCommitted": "8",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "7",
+    "saves": "4",
+    "possessionPct": "51.8",
+    "totalShots": "5",
+    "shotsOnTarget": "3",
+    "shotPct": "0.6",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "383",
+    "totalPasses": "459",
+    "passPct": "0.8",
+    "accurateCrosses": "2",
+    "totalCrosses": "22",
+    "crossPct": "0.1",
+    "totalLongBalls": "53",
+    "accurateLongBalls": "28",
+    "longballPct": "0.5",
+    "blockedShots": "0",
+    "effectiveTackles": "5",
+    "totalTackles": "8",
+    "tacklePct": "0.6",
+    "interceptions": "12",
+    "effectiveClearance": "28",
+    "totalClearance": "28"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "31'",
+   "team": null,
+   "text": "Delay in match because of an injury Nicolas Kocik (Le Mans)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "31'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "32'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "32'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "40'",
+   "team": null,
+   "text": "Goal! Le Mans 0, Monaco 1. Mamadou Coulibaly (Monaco) left footed shot from the centre of the box to the centre of the goal."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": "First Half ends, Le Mans 0, Monaco 1."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Le Mans 0, Monaco 1."
+  },
+  {
+   "type": "Substitution",
+   "clock": "54'",
+   "team": null,
+   "text": "Substitution, Monaco. Paris Brunner replaces Aleksandr Golovin because of an injury."
+  },
+  {
+   "type": "Substitution",
+   "clock": "54'",
+   "team": null,
+   "text": "Substitution, Monaco. Takumi Minamino replaces Mathys Detourbet."
+  },
+  {
+   "type": "Substitution",
+   "clock": "54'",
+   "team": null,
+   "text": "Substitution, Monaco. Folarin Balogun replaces Matthis Abline."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Le Mans. Adnane Kharroubi replaces Jean Vercruysse."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Le Mans. Erwan Colas replaces Dame Gueye."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Monaco. Jordan Teze replaces Mamadou Coulibaly."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Le Mans. Antoine Rabillard replaces Daouda Traoré."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Le Mans. William Harhouz replaces Louis Mafouta."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Le Mans. Noa Boissé replaces Lucas Buadés."
+  },
+  {
+   "type": "Substitution",
+   "clock": "88'",
+   "team": null,
+   "text": "Substitution, Monaco. Christian Mawissa replaces Flávio Nazinho."
+  },
+  {
+   "type": "Goal - Volley",
+   "clock": "90'",
+   "team": null,
+   "text": "Goal! Le Mans 1, Monaco 1. Erwan Colas (Le Mans) right footed shot from very close range to the high centre of the goal following a corner."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "90'+6'",
+   "team": null,
+   "text": "Delay in match because of an injury Eric Dier (Monaco)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "90'+6'",
+   "team": null,
+   "text": "Delay in match because of an injury Samuel Yohou (Le Mans)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'+7'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'+7'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+9'",
+   "team": null,
+   "text": "Second Half ends, Le Mans 1, Monaco 1."
+  }
+ ],
+ "scoringPlays": []
+}

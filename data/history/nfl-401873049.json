@@ -1,0 +1,165 @@
+{
+ "id": "nfl-401873049",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-08T21:25:00Z",
+ "home": {
+  "name": "New England Patriots",
+  "abbr": "NE",
+  "teamId": null,
+  "score": 27.0
+ },
+ "away": {
+  "name": "Green Bay Packers",
+  "abbr": "GB",
+  "teamId": null,
+  "score": 45.0
+ },
+ "odds": {
+  "mlAway": "+142",
+  "mlAwayOpen": "+105",
+  "mlHome": "-170",
+  "mlHomeOpen": "-125",
+  "provider": "DraftKings",
+  "spread": "NE -3",
+  "spreadOpen": "NE -1.5",
+  "total": "46.5",
+  "totalOpen": "46.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "away": {
+   "abbr": "GB",
+   "stats": {
+    "firstDowns": "22",
+    "firstDownsPassing": "13",
+    "firstDownsRushing": "6",
+    "firstDownsPenalty": "3",
+    "thirdDownEff": "4-12",
+    "fourthDownEff": "0-1",
+    "totalOffensivePlays": "64",
+    "totalYards": "478",
+    "yardsPerPlay": "7.5",
+    "totalDrives": "14",
+    "netPassingYards": "349",
+    "completionAttempts": "23/29",
+    "yardsPerPass": "10.9",
+    "interceptions": "0",
+    "sacksYardsLost": "3-23",
+    "rushingYards": "129",
+    "rushingAttempts": "32",
+    "yardsPerRushAttempt": "4.0",
+    "redZoneAttempts": "4-5",
+    "totalPenaltiesYards": "3-14",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "35:01"
+   }
+  },
+  "home": {
+   "abbr": "NE",
+   "stats": {
+    "firstDowns": "22",
+    "firstDownsPassing": "13",
+    "firstDownsRushing": "8",
+    "firstDownsPenalty": "1",
+    "thirdDownEff": "4-9",
+    "fourthDownEff": "0-0",
+    "totalOffensivePlays": "61",
+    "totalYards": "387",
+    "yardsPerPlay": "6.3",
+    "totalDrives": "14",
+    "netPassingYards": "293",
+    "completionAttempts": "22/41",
+    "yardsPerPass": "6.5",
+    "interceptions": "3",
+    "sacksYardsLost": "4-27",
+    "rushingYards": "94",
+    "rushingAttempts": "16",
+    "yardsPerRushAttempt": "5.9",
+    "redZoneAttempts": "2-2",
+    "totalPenaltiesYards": "5-31",
+    "turnovers": "4",
+    "fumblesLost": "1",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "24:59"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "13:19",
+   "team": "GB",
+   "text": "Jordan Love 13 Yd Rush (Trey Smack Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "7:59",
+   "team": "GB",
+   "text": "Matthew Golden 5 Yd pass from Jordan Love (Trey Smack Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "13:37",
+   "team": "GB",
+   "text": "Trey Smack 41 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "9:23",
+   "team": "NE",
+   "text": "Rhamondre Stevenson 30 Yd pass from Drake Maye (Andy Borregales Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "4:45",
+   "team": "GB",
+   "text": "Kaleb Johnson 2 Yd Rush (Trey Smack Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "2:37",
+   "team": "NE",
+   "text": "Efton Chism III 8 Yd pass from Drake Maye (Andy Borregales Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "10:51",
+   "team": "GB",
+   "text": "Savion Williams 10 Yd pass from Jordan Love (Trey Smack Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "5:13",
+   "team": "GB",
+   "text": "Trey Smack 51 Yd Field Goal "
+  },
+  {
+   "period": 3,
+   "clock": "4:10",
+   "team": "GB",
+   "text": "Christian Watson 39 Yd pass from Jordan Love (Jordan Love Run for Two-Point Conversion)"
+  },
+  {
+   "period": 3,
+   "clock": "1:11",
+   "team": "NE",
+   "text": "Mack Hollins 22 Yd pass from Drake Maye (Andy Borregales Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "11:51",
+   "team": "GB",
+   "text": "Trey Smack 38 Yd Field Goal "
+  },
+  {
+   "period": 4,
+   "clock": "3:54",
+   "team": "NE",
+   "text": "Corey Kiner 4 Yd Rush (Two-Point Pass Conversion Failed)"
+  }
+ ]
+}

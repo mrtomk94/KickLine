@@ -1,0 +1,120 @@
+{
+ "id": "nfl-401873048",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-08T21:25:00Z",
+ "home": {
+  "name": "Seattle Seahawks",
+  "abbr": "SEA",
+  "teamId": null,
+  "score": 17.0
+ },
+ "away": {
+  "name": "Arizona Cardinals",
+  "abbr": "ARI",
+  "teamId": null,
+  "score": 3.0
+ },
+ "odds": {
+  "mlAway": "+360",
+  "mlAwayOpen": "+525",
+  "mlHome": "-470",
+  "mlHomeOpen": "-750",
+  "provider": "DraftKings",
+  "spread": "SEA -8.5",
+  "spreadOpen": "SEA -13.5",
+  "total": "39.5",
+  "totalOpen": "45.5"
+ },
+ "espnWinProb": {
+  "away": 32.8,
+  "home": 67
+ },
+ "teams": {
+  "away": {
+   "abbr": "ARI",
+   "stats": {
+    "firstDowns": "13",
+    "firstDownsPassing": "6",
+    "firstDownsRushing": "4",
+    "firstDownsPenalty": "3",
+    "thirdDownEff": "4-13",
+    "fourthDownEff": "1-2",
+    "totalOffensivePlays": "51",
+    "totalYards": "198",
+    "yardsPerPlay": "3.9",
+    "totalDrives": "9",
+    "netPassingYards": "148",
+    "completionAttempts": "21/30",
+    "yardsPerPass": "4.5",
+    "interceptions": "0",
+    "sacksYardsLost": "3-18",
+    "rushingYards": "50",
+    "rushingAttempts": "18",
+    "yardsPerRushAttempt": "2.8",
+    "redZoneAttempts": "0-2",
+    "totalPenaltiesYards": "9-97",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "28:21"
+   }
+  },
+  "home": {
+   "abbr": "SEA",
+   "stats": {
+    "firstDowns": "21",
+    "firstDownsPassing": "9",
+    "firstDownsRushing": "9",
+    "firstDownsPenalty": "3",
+    "thirdDownEff": "7-14",
+    "fourthDownEff": "0-0",
+    "totalOffensivePlays": "61",
+    "totalYards": "295",
+    "yardsPerPlay": "4.8",
+    "totalDrives": "9",
+    "netPassingYards": "175",
+    "completionAttempts": "19/28",
+    "yardsPerPass": "6.3",
+    "interceptions": "0",
+    "sacksYardsLost": "0-0",
+    "rushingYards": "120",
+    "rushingAttempts": "33",
+    "yardsPerRushAttempt": "3.6",
+    "redZoneAttempts": "2-2",
+    "totalPenaltiesYards": "9-83",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "31:39"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "9:23",
+   "team": "ARI",
+   "text": "Chad Ryland 28 Yd Field Goal "
+  },
+  {
+   "period": 2,
+   "clock": "14:23",
+   "team": "SEA",
+   "text": "AJ Barner 1 Yd Rush (Jason Myers Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:15",
+   "team": "SEA",
+   "text": "AJ Barner 7 Yd pass from Drew Lock (Jason Myers Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "3:50",
+   "team": "SEA",
+   "text": "Jason Myers 45 Yd Field Goal"
+  }
+ ]
+}

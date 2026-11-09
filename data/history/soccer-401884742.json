@@ -1,0 +1,277 @@
+{
+ "id": "soccer-401884742",
+ "sport": "soccer",
+ "league": "Bundesliga",
+ "start": "2026-11-08T18:30:00Z",
+ "home": {
+  "name": "TSG Hoffenheim",
+  "abbr": "TSG",
+  "teamId": null,
+  "score": 2.0
+ },
+ "away": {
+  "name": "Schalke 04",
+  "abbr": "S04",
+  "teamId": null,
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+360",
+  "mlDraw": "+320",
+  "mlHome": "-165",
+  "provider": "DraftKings",
+  "total": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "TSG",
+   "stats": {
+    "foulsCommitted": "10",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "6",
+    "wonCorners": "6",
+    "saves": "4",
+    "possessionPct": "48.8",
+    "totalShots": "15",
+    "shotsOnTarget": "7",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "367",
+    "totalPasses": "456",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "15",
+    "crossPct": "0.2",
+    "totalLongBalls": "67",
+    "accurateLongBalls": "35",
+    "longballPct": "0.5",
+    "blockedShots": "2",
+    "effectiveTackles": "11",
+    "totalTackles": "17",
+    "tacklePct": "0.6",
+    "interceptions": "13",
+    "effectiveClearance": "45",
+    "totalClearance": "45"
+   }
+  },
+  "away": {
+   "abbr": "S04",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "4",
+    "saves": "5",
+    "possessionPct": "51.2",
+    "totalShots": "23",
+    "shotsOnTarget": "6",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "348",
+    "totalPasses": "466",
+    "passPct": "0.7",
+    "accurateCrosses": "6",
+    "totalCrosses": "21",
+    "crossPct": "0.3",
+    "totalLongBalls": "53",
+    "accurateLongBalls": "17",
+    "longballPct": "0.3",
+    "blockedShots": "10",
+    "effectiveTackles": "8",
+    "totalTackles": "14",
+    "tacklePct": "0.6",
+    "interceptions": "14",
+    "effectiveClearance": "24",
+    "totalClearance": "24"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "10'",
+   "team": null,
+   "text": "Goal! Hoffenheim 1, Schalke 04 0. Fisnik Asllani (Hoffenheim) right footed shot from the centre of the box to the bottom left corner."
+  },
+  {
+   "type": "Goal",
+   "clock": "26'",
+   "team": null,
+   "text": "Goal! Hoffenheim 2, Schalke 04 0. Tim Lemperle (Hoffenheim) left footed shot from the centre of the box to the centre of the goal. Assisted by Fisnik Asllani."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": "First Half ends, Hoffenheim 2, Schalke 04 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "47'",
+   "team": null,
+   "text": "Delay in match because of an injury Loris Karius (Schalke 04)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "47'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "51'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "51'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "51'",
+   "team": null,
+   "text": "Substitution, Schalke 04. Vitalie Becker replaces Robin Gosens because of an injury."
+  },
+  {
+   "type": "Substitution",
+   "clock": "52'",
+   "team": null,
+   "text": "Substitution, Schalke 04. Kevin Müller replaces Loris Karius because of an injury."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "65'",
+   "team": null,
+   "text": "Delay in match because of an injury Mertcan Ayhan (Schalke 04)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "65'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "67'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "67'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Hoffenheim. Adam Hlozek replaces Andrej Kramaric."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Schalke 04. Junior Dina Ebimbe replaces Mertcan Ayhan because of an injury."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Schalke 04. Junior Adamu replaces Satoshi Tanaka."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "74'",
+   "team": null,
+   "text": "Delay in match (Hoffenheim)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "74'",
+   "team": null,
+   "text": "Delay in match (Schalke 04)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "75'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "75'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "76'",
+   "team": null,
+   "text": "Hwang Hee-Chan (Schalke 04) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Schalke 04. Edin Dzeko replaces Dejan Ljubicic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Hoffenheim. Bernardo replaces Mats Rots."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Hoffenheim. Adam Daghim replaces Fisnik Asllani."
+  },
+  {
+   "type": "Goal - Volley",
+   "clock": "81'",
+   "team": null,
+   "text": "Goal! Hoffenheim 2, Schalke 04 1. Junior Adamu (Schalke 04) right footed shot from very close range to the centre of the goal following a corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+6'",
+   "team": null,
+   "text": "Substitution, Hoffenheim. Max Moerstedt replaces Tim Lemperle."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+10'",
+   "team": null,
+   "text": "Adil Aouchiche (Schalke 04) is shown the yellow card."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+10'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

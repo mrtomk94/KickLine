@@ -1,0 +1,153 @@
+{
+ "id": "nfl-401873050",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-09T01:20:00Z",
+ "home": {
+  "name": "Chicago Bears",
+  "abbr": "CHI",
+  "teamId": null,
+  "score": 27.0
+ },
+ "away": {
+  "name": "Tampa Bay Buccaneers",
+  "abbr": "TB",
+  "teamId": null,
+  "score": 24.0
+ },
+ "odds": {
+  "mlAway": "+230",
+  "mlAwayOpen": "+160",
+  "mlHome": "-285",
+  "mlHomeOpen": "-192",
+  "provider": "DraftKings",
+  "spread": "CHI -6",
+  "spreadOpen": "CHI -3.5",
+  "total": "47.5",
+  "totalOpen": "48.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "away": {
+   "abbr": "TB",
+   "stats": {
+    "firstDowns": "18",
+    "firstDownsPassing": "9",
+    "firstDownsRushing": "7",
+    "firstDownsPenalty": "2",
+    "thirdDownEff": "2-12",
+    "fourthDownEff": "1-2",
+    "totalOffensivePlays": "64",
+    "totalYards": "352",
+    "yardsPerPlay": "5.5",
+    "totalDrives": "14",
+    "netPassingYards": "226",
+    "completionAttempts": "18/32",
+    "yardsPerPass": "6.3",
+    "interceptions": "2",
+    "sacksYardsLost": "4-17",
+    "rushingYards": "126",
+    "rushingAttempts": "28",
+    "yardsPerRushAttempt": "4.5",
+    "redZoneAttempts": "2-5",
+    "totalPenaltiesYards": "8-45",
+    "turnovers": "2",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "32:52"
+   }
+  },
+  "home": {
+   "abbr": "CHI",
+   "stats": {
+    "firstDowns": "15",
+    "firstDownsPassing": "11",
+    "firstDownsRushing": "4",
+    "firstDownsPenalty": "0",
+    "thirdDownEff": "7-13",
+    "fourthDownEff": "0-0",
+    "totalOffensivePlays": "60",
+    "totalYards": "349",
+    "yardsPerPlay": "5.8",
+    "totalDrives": "13",
+    "netPassingYards": "277",
+    "completionAttempts": "22/37",
+    "yardsPerPass": "7.3",
+    "interceptions": "4",
+    "sacksYardsLost": "1-2",
+    "rushingYards": "72",
+    "rushingAttempts": "22",
+    "yardsPerRushAttempt": "3.3",
+    "redZoneAttempts": "1-4",
+    "totalPenaltiesYards": "9-74",
+    "turnovers": "5",
+    "fumblesLost": "1",
+    "defensiveTouchdowns": "1",
+    "possessionTime": "27:08"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "9:38",
+   "team": "CHI",
+   "text": "Rome Odunze 9 Yd pass from Caleb Williams (Cairo Santos Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "6:00",
+   "team": "CHI",
+   "text": "Luther Burden III 56 Yd pass from Caleb Williams (Cairo Santos Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "13:48",
+   "team": "TB",
+   "text": "Chase McLaughlin 27 Yd Field Goal "
+  },
+  {
+   "period": 2,
+   "clock": "3:02",
+   "team": "CHI",
+   "text": "Cairo Santos 25 Yd Field Goal "
+  },
+  {
+   "period": 2,
+   "clock": "0:00",
+   "team": "TB",
+   "text": "Chase McLaughlin 21 Yd Field Goal "
+  },
+  {
+   "period": 3,
+   "clock": "11:37",
+   "team": "TB",
+   "text": "Bucky Irving 2 Yd Rush (Chase McLaughlin Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "3:39",
+   "team": "CHI",
+   "text": "Jaylon Johnson 67 Yd Interception Return (Cairo Santos Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "11:24",
+   "team": "TB",
+   "text": "Chase McLaughlin 35 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "2:51",
+   "team": "TB",
+   "text": "Bucky Irving 6 Yd Rush (Baker Mayfield Run for Two-Point Conversion)"
+  },
+  {
+   "period": 4,
+   "clock": "0:00",
+   "team": "CHI",
+   "text": "Cairo Santos 38 Yd Field Goal "
+  }
+ ]
+}

@@ -1,0 +1,333 @@
+{
+ "id": "soccer-401876903",
+ "sport": "soccer",
+ "league": "Liga MX",
+ "start": "2026-11-09T00:00:00Z",
+ "home": {
+  "name": "Queretaro",
+  "abbr": "QRO",
+  "teamId": null,
+  "score": 0.0
+ },
+ "away": {
+  "name": "Puebla",
+  "abbr": "PUE",
+  "teamId": null,
+  "score": 2.0
+ },
+ "odds": {
+  "provider": "DraftKings"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "QRO",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "5",
+    "wonCorners": "9",
+    "saves": "1",
+    "possessionPct": "56.5",
+    "totalShots": "21",
+    "shotsOnTarget": "5",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "377",
+    "totalPasses": "454",
+    "passPct": "0.8",
+    "accurateCrosses": "11",
+    "totalCrosses": "47",
+    "crossPct": "0.2",
+    "totalLongBalls": "59",
+    "accurateLongBalls": "29",
+    "longballPct": "0.5",
+    "blockedShots": "4",
+    "effectiveTackles": "11",
+    "totalTackles": "15",
+    "tacklePct": "0.7",
+    "interceptions": "7",
+    "effectiveClearance": "8",
+    "totalClearance": "8"
+   }
+  },
+  "away": {
+   "abbr": "PUE",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "0",
+    "saves": "5",
+    "possessionPct": "43.5",
+    "totalShots": "9",
+    "shotsOnTarget": "3",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "312",
+    "totalPasses": "376",
+    "passPct": "0.8",
+    "accurateCrosses": "1",
+    "totalCrosses": "4",
+    "crossPct": "0.3",
+    "totalLongBalls": "72",
+    "accurateLongBalls": "34",
+    "longballPct": "0.5",
+    "blockedShots": "2",
+    "effectiveTackles": "5",
+    "totalTackles": "6",
+    "tacklePct": "0.8",
+    "interceptions": "10",
+    "effectiveClearance": "49",
+    "totalClearance": "49"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "1'",
+   "team": null,
+   "text": "Delay in match (Querétaro)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "1'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "1'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "1'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "5'",
+   "team": null,
+   "text": "Delay in match (Querétaro)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "5'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "5'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "5'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "9'",
+   "team": null,
+   "text": "Goal! Querétaro 0, Puebla 1. Kevin Velasco (Puebla) left footed shot from the centre of the box to the top left corner. Assisted by Omar Moreno with a cross."
+  },
+  {
+   "type": "Goal",
+   "clock": "36'",
+   "team": null,
+   "text": "Goal! Querétaro 0, Puebla 2. Omar Moreno (Puebla) right footed shot from the centre of the box to the bottom left corner. Assisted by Kevin Velasco."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "45'",
+   "team": null,
+   "text": "Óscar Villa (Puebla) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "45'+2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "45'+3'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+4'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Querétaro. Carlos Villanueva replaces Bayron Duarte."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Querétaro 0, Puebla 2."
+  },
+  {
+   "type": "Substitution",
+   "clock": "57'",
+   "team": null,
+   "text": "Substitution, Querétaro. Jesús Arellano replaces Carlo García."
+  },
+  {
+   "type": "Substitution",
+   "clock": "57'",
+   "team": null,
+   "text": "Substitution, Querétaro. Enzo Giménez replaces Denilson Muñoz."
+  },
+  {
+   "type": "Substitution",
+   "clock": "60'",
+   "team": null,
+   "text": "Substitution, Puebla. Fernando Monárrez replaces Omar Moreno."
+  },
+  {
+   "type": "Substitution",
+   "clock": "60'",
+   "team": null,
+   "text": "Substitution, Puebla. Eduardo Mustre replaces Luifer Hernández."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "65'",
+   "team": null,
+   "text": "Iker Moreno (Puebla) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "68'",
+   "team": null,
+   "text": "Alí Ávila (Querétaro) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "68'",
+   "team": null,
+   "text": "Delay in match because of an injury Ricardo Gutiérrez (Puebla)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "68'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Querétaro. Paulo Victor replaces Daniel Parra."
+  },
+  {
+   "type": "End Delay",
+   "clock": "69'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "69'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Substitution",
+   "clock": "69'",
+   "team": null,
+   "text": "Substitution, Puebla. José Pachuca replaces Iker Moreno."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "71'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "71'",
+   "team": null,
+   "text": "Eduardo Pérez (Querétaro) is shown the yellow card."
+  },
+  {
+   "type": "End Delay",
+   "clock": "73'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "74'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Querétaro. Álex Alcalá replaces Iker Benito."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Puebla. Alonso Ramírez replaces Alejandro Organista."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Puebla. Carlos Baltazar replaces Mathías Tomás."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "83'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "84'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "86'",
+   "team": null,
+   "text": "Alonso Ramírez (Puebla) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Santiago Homenchenko (Querétaro) is shown the yellow card."
+  }
+ ],
+ "scoringPlays": []
+}

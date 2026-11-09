@@ -1,0 +1,199 @@
+{
+ "id": "soccer-401874808",
+ "sport": "soccer",
+ "league": "Serie A",
+ "start": "2026-11-08T17:00:00Z",
+ "home": {
+  "name": "Internazionale",
+  "abbr": "INT",
+  "teamId": null,
+  "score": 2.0
+ },
+ "away": {
+  "name": "Como",
+  "abbr": "COMO",
+  "teamId": null,
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+245",
+  "mlDraw": "+290",
+  "mlHome": "-115",
+  "provider": "DraftKings",
+  "total": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "INT",
+   "stats": {
+    "foulsCommitted": "13",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "8",
+    "wonCorners": "4",
+    "saves": "1",
+    "possessionPct": "43",
+    "totalShots": "14",
+    "shotsOnTarget": "4",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "439",
+    "totalPasses": "499",
+    "passPct": "0.9",
+    "accurateCrosses": "2",
+    "totalCrosses": "11",
+    "crossPct": "0.2",
+    "totalLongBalls": "47",
+    "accurateLongBalls": "31",
+    "longballPct": "0.7",
+    "blockedShots": "2",
+    "effectiveTackles": "9",
+    "totalTackles": "14",
+    "tacklePct": "0.6",
+    "interceptions": "12",
+    "effectiveClearance": "20",
+    "totalClearance": "20"
+   }
+  },
+  "away": {
+   "abbr": "COMO",
+   "stats": {
+    "foulsCommitted": "6",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "2",
+    "saves": "2",
+    "possessionPct": "57",
+    "totalShots": "5",
+    "shotsOnTarget": "1",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "595",
+    "totalPasses": "651",
+    "passPct": "0.9",
+    "accurateCrosses": "7",
+    "totalCrosses": "23",
+    "crossPct": "0.3",
+    "totalLongBalls": "29",
+    "accurateLongBalls": "16",
+    "longballPct": "0.6",
+    "blockedShots": "1",
+    "effectiveTackles": "5",
+    "totalTackles": "14",
+    "tacklePct": "0.4",
+    "interceptions": "8",
+    "effectiveClearance": "23",
+    "totalClearance": "23"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal",
+   "clock": "12'",
+   "team": null,
+   "text": "Goal! Inter Milan 1, Como 0. Francesco Pio Esposito (Inter Milan) left footed shot from very close range to the bottom right corner. Assisted by Djed Spence following a fast break."
+  },
+  {
+   "type": "Goal",
+   "clock": "19'",
+   "team": null,
+   "text": "Goal! Inter Milan 2, Como 0. Marcus Thuram (Inter Milan) right footed shot from the left side of the six yard box to the bottom left corner."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Como. Samuele Ricci replaces Máximo Perrone."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Como. Ivan Smolcic replaces Martin Baturina."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Inter Milan 2, Como 0."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "72'",
+   "team": null,
+   "text": "Francesco Pio Esposito (Inter Milan) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Inter Milan. Henrikh Mkhitaryan replaces Piotr Zielinski."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Inter Milan. Ange-Yoan Bonny replaces Francesco Pio Esposito."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Como. Maxence Caqueret replaces Lucas da Cunha."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Como. Mattia Liberali replaces Yan Couto."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Como. Kaiki replaces Álex Valle."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Inter Milan. Petar Sucic replaces Hakan Çalhanoglu."
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, Inter Milan. Andy Diouf replaces Federico Dimarco."
+  },
+  {
+   "type": "Substitution",
+   "clock": "88'",
+   "team": null,
+   "text": "Substitution, Inter Milan. Benjamin Pavard replaces Marcus Thuram."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Second Half ends, Inter Milan 2, Como 0."
+  }
+ ],
+ "scoringPlays": []
+}

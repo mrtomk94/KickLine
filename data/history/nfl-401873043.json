@@ -1,0 +1,135 @@
+{
+ "id": "nfl-401873043",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-08T18:00:00Z",
+ "home": {
+  "name": "Washington Commanders",
+  "abbr": "WSH",
+  "teamId": null,
+  "score": 13.0
+ },
+ "away": {
+  "name": "Los Angeles Rams",
+  "abbr": "LAR",
+  "teamId": null,
+  "score": 20.0
+ },
+ "odds": {
+  "mlAway": "-225",
+  "mlAwayOpen": "-205",
+  "mlHome": "+185",
+  "mlHomeOpen": "+170",
+  "provider": "DraftKings",
+  "spread": "LAR -5.5",
+  "spreadOpen": "LAR -4.5",
+  "total": "47.5",
+  "totalOpen": "50.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "away": {
+   "abbr": "LAR",
+   "stats": {
+    "firstDowns": "22",
+    "firstDownsPassing": "14",
+    "firstDownsRushing": "7",
+    "firstDownsPenalty": "1",
+    "thirdDownEff": "3-14",
+    "fourthDownEff": "3-3",
+    "totalOffensivePlays": "73",
+    "totalYards": "343",
+    "yardsPerPlay": "4.7",
+    "totalDrives": "11",
+    "netPassingYards": "219",
+    "completionAttempts": "26/43",
+    "yardsPerPass": "5.0",
+    "interceptions": "1",
+    "sacksYardsLost": "1-9",
+    "rushingYards": "124",
+    "rushingAttempts": "29",
+    "yardsPerRushAttempt": "4.3",
+    "redZoneAttempts": "2-4",
+    "totalPenaltiesYards": "10-70",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "31:52"
+   }
+  },
+  "home": {
+   "abbr": "WSH",
+   "stats": {
+    "firstDowns": "16",
+    "firstDownsPassing": "13",
+    "firstDownsRushing": "1",
+    "firstDownsPenalty": "2",
+    "thirdDownEff": "3-12",
+    "fourthDownEff": "0-1",
+    "totalOffensivePlays": "58",
+    "totalYards": "313",
+    "yardsPerPlay": "5.4",
+    "totalDrives": "11",
+    "netPassingYards": "253",
+    "completionAttempts": "24/35",
+    "yardsPerPass": "6.5",
+    "interceptions": "0",
+    "sacksYardsLost": "4-21",
+    "rushingYards": "60",
+    "rushingAttempts": "19",
+    "yardsPerRushAttempt": "3.2",
+    "redZoneAttempts": "1-2",
+    "totalPenaltiesYards": "6-39",
+    "turnovers": "2",
+    "fumblesLost": "2",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "28:08"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "9:07",
+   "team": "WSH",
+   "text": "Drew Stevens 37 Yd Field Goal"
+  },
+  {
+   "period": 1,
+   "clock": "2:10",
+   "team": "LAR",
+   "text": "Brandon McManus 33 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "14:00",
+   "team": "WSH",
+   "text": "Van Jefferson 7 Yd pass from Jayden Daniels (Drew Stevens Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:00",
+   "team": "LAR",
+   "text": "Brandon McManus 20 Yd Field Goal "
+  },
+  {
+   "period": 3,
+   "clock": "11:29",
+   "team": "LAR",
+   "text": "Blake Corum 1 Yd Rush (Brandon McManus Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "3:24",
+   "team": "WSH",
+   "text": "Drew Stevens 41 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "12:51",
+   "team": "LAR",
+   "text": "Puka Nacua 7 Yd pass from Matthew Stafford (Brandon McManus Kick)"
+  }
+ ]
+}

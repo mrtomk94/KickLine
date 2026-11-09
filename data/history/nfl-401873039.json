@@ -1,0 +1,153 @@
+{
+ "id": "nfl-401873039",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-08T18:00:00Z",
+ "home": {
+  "name": "New Orleans Saints",
+  "abbr": "NO",
+  "teamId": null,
+  "score": 23.0
+ },
+ "away": {
+  "name": "Cleveland Browns",
+  "abbr": "CLE",
+  "teamId": null,
+  "score": 22.0
+ },
+ "odds": {
+  "mlAway": "+136",
+  "mlAwayOpen": "+160",
+  "mlHome": "-162",
+  "mlHomeOpen": "-192",
+  "provider": "DraftKings",
+  "spread": "NO -3",
+  "spreadOpen": "NO -3.5",
+  "total": "42.5",
+  "totalOpen": "41.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "away": {
+   "abbr": "CLE",
+   "stats": {
+    "firstDowns": "15",
+    "firstDownsPassing": "10",
+    "firstDownsRushing": "4",
+    "firstDownsPenalty": "1",
+    "thirdDownEff": "8-18",
+    "fourthDownEff": "0-2",
+    "totalOffensivePlays": "70",
+    "totalYards": "355",
+    "yardsPerPlay": "5.1",
+    "totalDrives": "13",
+    "netPassingYards": "260",
+    "completionAttempts": "19/31",
+    "yardsPerPass": "7.2",
+    "interceptions": "0",
+    "sacksYardsLost": "5-37",
+    "rushingYards": "95",
+    "rushingAttempts": "34",
+    "yardsPerRushAttempt": "2.8",
+    "redZoneAttempts": "0-2",
+    "totalPenaltiesYards": "10-58",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "34:09"
+   }
+  },
+  "home": {
+   "abbr": "NO",
+   "stats": {
+    "firstDowns": "21",
+    "firstDownsPassing": "9",
+    "firstDownsRushing": "10",
+    "firstDownsPenalty": "2",
+    "thirdDownEff": "7-16",
+    "fourthDownEff": "0-0",
+    "totalOffensivePlays": "72",
+    "totalYards": "396",
+    "yardsPerPlay": "5.5",
+    "totalDrives": "12",
+    "netPassingYards": "236",
+    "completionAttempts": "21/35",
+    "yardsPerPass": "5.9",
+    "interceptions": "0",
+    "sacksYardsLost": "5-29",
+    "rushingYards": "160",
+    "rushingAttempts": "32",
+    "yardsPerRushAttempt": "5.0",
+    "redZoneAttempts": "2-5",
+    "totalPenaltiesYards": "4-25",
+    "turnovers": "2",
+    "fumblesLost": "2",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "34:51"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "7:20",
+   "team": "NO",
+   "text": "Charlie Smyth 30 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "10:30",
+   "team": "CLE",
+   "text": "Andre Szmyt 41 Yd Field Goal"
+  },
+  {
+   "period": 3,
+   "clock": "9:01",
+   "team": "CLE",
+   "text": "Andre Szmyt 30 Yd Field Goal"
+  },
+  {
+   "period": 3,
+   "clock": "2:26",
+   "team": "NO",
+   "text": "Charlie Smyth 27 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "5:38",
+   "team": "NO",
+   "text": "Charlie Smyth 48 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "5:21",
+   "team": "CLE",
+   "text": "KC Concepcion 64 Yd pass from Shedeur Sanders (Andre Szmyt Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "0:58",
+   "team": "NO",
+   "text": "Audric Estime 2 Yd Rush (Charlie Smyth Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "0:08",
+   "team": "CLE",
+   "text": "Andre Szmyt 51 Yd Field Goal"
+  },
+  {
+   "period": 5,
+   "clock": "4:17",
+   "team": "NO",
+   "text": "Juwan Johnson 15 Yd pass from Tyler Shough (Charlie Smyth Kick)"
+  },
+  {
+   "period": 5,
+   "clock": "1:00",
+   "team": "CLE",
+   "text": "Harold Fannin Jr. 39 Yd pass from Shedeur Sanders (Two-Point Pass Conversion Failed)"
+  }
+ ]
+}

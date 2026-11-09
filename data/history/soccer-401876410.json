@@ -1,0 +1,223 @@
+{
+ "id": "soccer-401876410",
+ "sport": "soccer",
+ "league": "Ligue 1",
+ "start": "2026-11-08T16:15:00Z",
+ "home": {
+  "name": "Brest",
+  "abbr": "BRE",
+  "teamId": null,
+  "score": 2.0
+ },
+ "away": {
+  "name": "Lyon",
+  "abbr": "LYON",
+  "teamId": null,
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+140",
+  "mlDraw": "+250",
+  "mlHome": "+180",
+  "provider": "DraftKings",
+  "total": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "BRE",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "1",
+    "saves": "2",
+    "possessionPct": "31.1",
+    "totalShots": "13",
+    "shotsOnTarget": "6",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "250",
+    "totalPasses": "313",
+    "passPct": "0.8",
+    "accurateCrosses": "0",
+    "totalCrosses": "4",
+    "crossPct": "0.0",
+    "totalLongBalls": "61",
+    "accurateLongBalls": "29",
+    "longballPct": "0.5",
+    "blockedShots": "2",
+    "effectiveTackles": "13",
+    "totalTackles": "22",
+    "tacklePct": "0.6",
+    "interceptions": "11",
+    "effectiveClearance": "36",
+    "totalClearance": "36"
+   }
+  },
+  "away": {
+   "abbr": "LYON",
+   "stats": {
+    "foulsCommitted": "10",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "8",
+    "saves": "4",
+    "possessionPct": "68.9",
+    "totalShots": "10",
+    "shotsOnTarget": "2",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "589",
+    "totalPasses": "664",
+    "passPct": "0.9",
+    "accurateCrosses": "5",
+    "totalCrosses": "36",
+    "crossPct": "0.1",
+    "totalLongBalls": "42",
+    "accurateLongBalls": "22",
+    "longballPct": "0.5",
+    "blockedShots": "3",
+    "effectiveTackles": "11",
+    "totalTackles": "21",
+    "tacklePct": "0.5",
+    "interceptions": "5",
+    "effectiveClearance": "14",
+    "totalClearance": "14"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal",
+   "clock": "22'",
+   "team": null,
+   "text": "Goal! Brest 1, Lyon 0. Noah Edjouma (Brest) left footed shot from outside the box to the bottom left corner. Assisted by Kamory Doumbia."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Brest 1, Lyon 0."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "54'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "55'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "55'",
+   "team": null,
+   "text": "Corentin Tolisso (Lyon) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, Lyon. Mads Bidstrup replaces Noah Nartey."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "62'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "63'",
+   "team": null,
+   "text": "Kaïl Boudache (Lyon) is shown the yellow card."
+  },
+  {
+   "type": "End Delay",
+   "clock": "63'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Brest. Pathé Mboup replaces Mama Baldé."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Brest. Giovani Versini replaces Noah Edjouma."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Lyon. Ernest Nuamah replaces Kaïl Boudache."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Lyon. Abner Vinícius replaces Nicolás Tagliafico."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Brest. Mamady Diambou replaces Kamory Doumbia."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Lyon. Julien Duranville replaces Keito Nakamura."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Lyon. Alejandro Gomes Rodríguez replaces Khalis Merah."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'",
+   "team": null,
+   "text": "Ludovic Ajorque (Brest) is shown the yellow card."
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Goal! Brest 2, Lyon 0. Ludovic Ajorque (Brest) converts the penalty with a left footed shot to the high centre of the goal."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+6'",
+   "team": null,
+   "text": "Second Half ends, Brest 2, Lyon 0."
+  }
+ ],
+ "scoringPlays": []
+}

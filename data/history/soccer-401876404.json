@@ -1,0 +1,205 @@
+{
+ "id": "soccer-401876404",
+ "sport": "soccer",
+ "league": "Ligue 1",
+ "start": "2026-11-08T19:45:00Z",
+ "home": {
+  "name": "Lens",
+  "abbr": "RCL",
+  "teamId": null,
+  "score": 1.0
+ },
+ "away": {
+  "name": "Marseille",
+  "abbr": "OLM",
+  "teamId": null,
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "+200",
+  "mlDraw": "+285",
+  "mlHome": "+115",
+  "provider": "DraftKings",
+  "total": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "RCL",
+   "stats": {
+    "foulsCommitted": "15",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "4",
+    "saves": "2",
+    "possessionPct": "41.3",
+    "totalShots": "13",
+    "shotsOnTarget": "6",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "350",
+    "totalPasses": "446",
+    "passPct": "0.8",
+    "accurateCrosses": "4",
+    "totalCrosses": "17",
+    "crossPct": "0.2",
+    "totalLongBalls": "60",
+    "accurateLongBalls": "23",
+    "longballPct": "0.4",
+    "blockedShots": "2",
+    "effectiveTackles": "5",
+    "totalTackles": "10",
+    "tacklePct": "0.5",
+    "interceptions": "12",
+    "effectiveClearance": "24",
+    "totalClearance": "24"
+   }
+  },
+  "away": {
+   "abbr": "OLM",
+   "stats": {
+    "foulsCommitted": "8",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "6",
+    "saves": "5",
+    "possessionPct": "58.7",
+    "totalShots": "16",
+    "shotsOnTarget": "5",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "553",
+    "totalPasses": "644",
+    "passPct": "0.9",
+    "accurateCrosses": "3",
+    "totalCrosses": "14",
+    "crossPct": "0.2",
+    "totalLongBalls": "50",
+    "accurateLongBalls": "22",
+    "longballPct": "0.4",
+    "blockedShots": "3",
+    "effectiveTackles": "6",
+    "totalTackles": "15",
+    "tacklePct": "0.4",
+    "interceptions": "10",
+    "effectiveClearance": "18",
+    "totalClearance": "18"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal",
+   "clock": "2'",
+   "team": null,
+   "text": "Goal! Lens 0, Marseille 1. Amine Gouiri (Marseille) right footed shot from the left side of the six yard box to the centre of the goal."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "20'",
+   "team": null,
+   "text": "Goal! Lens 1, Marseille 1. Florian Thauvin (Lens) header from very close range to the high centre of the goal. Assisted by Florian Sotoca with a cross."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Lens. Mezian Mesloub replaces Thorgan Hazard."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Lens. Michaël Cuisance replaces Amadou Haidara."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Marseille. Keyliane Abdallah replaces Amine Harit."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Marseille. Angel Gomes replaces Himad Abdelli."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "79'",
+   "team": null,
+   "text": "Yacine Titraoui (Lens) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "81'",
+   "team": null,
+   "text": "Amine Gouiri (Marseille) is shown the yellow card."
+  },
+  {
+   "type": "Goal",
+   "clock": "82'",
+   "team": null,
+   "text": "Goal! Lens 1, Marseille 2. Keyliane Abdallah (Marseille) right footed shot from the right side of the six yard box to the bottom right corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Lens. Ruben Aguilar replaces Jonathan Gradit."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Lens. Junior Kadile replaces Florian Sotoca."
+  },
+  {
+   "type": "Substitution",
+   "clock": "88'",
+   "team": null,
+   "text": "Substitution, Lens. Michal Skóras replaces Saud Abdulhamid."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Substitution, Marseille. Geoffrey Kondogbia replaces Tochukwu Nnadi."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Jeffrey de Lange (Marseille) is shown the yellow card."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

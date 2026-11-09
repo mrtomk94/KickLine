@@ -1,0 +1,150 @@
+{
+ "id": "nfl-401873047",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-08T21:25:00Z",
+ "home": {
+  "name": "San Francisco 49ers",
+  "abbr": "SF",
+  "teamId": null,
+  "score": 38.0
+ },
+ "away": {
+  "name": "Las Vegas Raiders",
+  "abbr": "LV",
+  "teamId": null,
+  "score": 17.0
+ },
+ "odds": {
+  "mlAway": "+380",
+  "mlAwayOpen": "+330",
+  "mlHome": "-500",
+  "mlHomeOpen": "-425",
+  "provider": "DraftKings",
+  "spread": "SF -10",
+  "spreadOpen": "SF -8.5",
+  "total": "51.5",
+  "totalOpen": "46.5"
+ },
+ "espnWinProb": {
+  "away": 16.2,
+  "home": 83.6
+ },
+ "teams": {
+  "away": {
+   "abbr": "LV",
+   "stats": {
+    "firstDowns": "14",
+    "firstDownsPassing": "11",
+    "firstDownsRushing": "2",
+    "firstDownsPenalty": "1",
+    "thirdDownEff": "6-9",
+    "fourthDownEff": "0-1",
+    "totalOffensivePlays": "47",
+    "totalYards": "240",
+    "yardsPerPlay": "5.1",
+    "totalDrives": "9",
+    "netPassingYards": "216",
+    "completionAttempts": "22/32",
+    "yardsPerPass": "6.8",
+    "interceptions": "3",
+    "sacksYardsLost": "0-0",
+    "rushingYards": "24",
+    "rushingAttempts": "15",
+    "yardsPerRushAttempt": "1.6",
+    "redZoneAttempts": "1-2",
+    "totalPenaltiesYards": "5-29",
+    "turnovers": "5",
+    "fumblesLost": "2",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "21:42"
+   }
+  },
+  "home": {
+   "abbr": "SF",
+   "stats": {
+    "firstDowns": "27",
+    "firstDownsPassing": "12",
+    "firstDownsRushing": "12",
+    "firstDownsPenalty": "3",
+    "thirdDownEff": "8-13",
+    "fourthDownEff": "2-3",
+    "totalOffensivePlays": "69",
+    "totalYards": "414",
+    "yardsPerPlay": "6.0",
+    "totalDrives": "9",
+    "netPassingYards": "224",
+    "completionAttempts": "17/25",
+    "yardsPerPass": "8.6",
+    "interceptions": "1",
+    "sacksYardsLost": "1-8",
+    "rushingYards": "190",
+    "rushingAttempts": "43",
+    "yardsPerRushAttempt": "4.4",
+    "redZoneAttempts": "3-4",
+    "totalPenaltiesYards": "7-59",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "1",
+    "possessionTime": "38:18"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "9:32",
+   "team": "SF",
+   "text": "Christian McCaffrey 1 Yd Rush (Eddy Pineiro Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "1:52",
+   "team": "SF",
+   "text": "Brock Purdy 1 Yd Rush (Eddy Pineiro Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "12:41",
+   "team": "LV",
+   "text": "Kirk Cousins 2 Yd Rush (Matt Gay Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "5:15",
+   "team": "SF",
+   "text": "Christian McCaffrey 12 Yd pass from Brock Purdy (Eddy Pineiro Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:12",
+   "team": "LV",
+   "text": "Matt Gay 50 Yd Field Goal"
+  },
+  {
+   "period": 3,
+   "clock": "14:43",
+   "team": "SF",
+   "text": "Jaden Dugger 35 Yd Interception Return (Eddy Pineiro Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "9:29",
+   "team": "LV",
+   "text": "Brock Bowers 21 Yd pass from Kirk Cousins (Matt Gay Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "0:36",
+   "team": "SF",
+   "text": "Jordan Watkins 37 Yd pass from Brock Purdy (Eddy Pineiro Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "5:21",
+   "team": "SF",
+   "text": "Eddy Pineiro 35 Yd Field Goal"
+  }
+ ]
+}

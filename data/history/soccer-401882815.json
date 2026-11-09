@@ -1,0 +1,271 @@
+{
+ "id": "soccer-401882815",
+ "sport": "soccer",
+ "league": "LaLiga",
+ "start": "2026-11-08T17:30:00Z",
+ "home": {
+  "name": "Celta Vigo",
+  "abbr": "CEL",
+  "teamId": null,
+  "score": 0.0
+ },
+ "away": {
+  "name": "Levante",
+  "abbr": "LEV",
+  "teamId": null,
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+300",
+  "mlDraw": "+275",
+  "mlHome": "-115",
+  "provider": "DraftKings",
+  "total": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "CEL",
+   "stats": {
+    "foulsCommitted": "8",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "10",
+    "wonCorners": "6",
+    "saves": "0",
+    "possessionPct": "58.7",
+    "totalShots": "23",
+    "shotsOnTarget": "8",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "562",
+    "totalPasses": "631",
+    "passPct": "0.9",
+    "accurateCrosses": "3",
+    "totalCrosses": "22",
+    "crossPct": "0.1",
+    "totalLongBalls": "46",
+    "accurateLongBalls": "25",
+    "longballPct": "0.5",
+    "blockedShots": "6",
+    "effectiveTackles": "6",
+    "totalTackles": "11",
+    "tacklePct": "0.5",
+    "interceptions": "4",
+    "effectiveClearance": "14",
+    "totalClearance": "14"
+   }
+  },
+  "away": {
+   "abbr": "LEV",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "1",
+    "saves": "9",
+    "possessionPct": "41.3",
+    "totalShots": "6",
+    "shotsOnTarget": "0",
+    "shotPct": "0.0",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "378",
+    "totalPasses": "451",
+    "passPct": "0.8",
+    "accurateCrosses": "1",
+    "totalCrosses": "5",
+    "crossPct": "0.2",
+    "totalLongBalls": "69",
+    "accurateLongBalls": "27",
+    "longballPct": "0.4",
+    "blockedShots": "1",
+    "effectiveTackles": "5",
+    "totalTackles": "9",
+    "tacklePct": "0.6",
+    "interceptions": "11",
+    "effectiveClearance": "24",
+    "totalClearance": "24"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "9'",
+   "team": null,
+   "text": "Delay in match (Celta Vigo)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "9'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "10'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "10'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "11'",
+   "team": null,
+   "text": "Delay in match because of an injury Roger Brugué (Levante)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "11'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "12'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "12'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "27'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "27'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "32'",
+   "team": null,
+   "text": "Dani Requena (Levante) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Celta Vigo. Hugo Álvarez replaces Javi Rodríguez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Levante. Adrián de la Fuente replaces Ifeanyi Ndukwe."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Levante. Iván Romero replaces Karl Etta Eyong."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Levante. Oriol Rey replaces Hugo Sotelo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Celta Vigo. Javi Galán replaces Javi Rueda."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "56'",
+   "team": null,
+   "text": "Substitution, Levante. Víctor García replaces Thiago Fernández."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "63'",
+   "team": null,
+   "text": "Adrián de la Fuente (Levante) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Celta Vigo. Hugo Burcio replaces Andrés Antañón."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "68'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "68'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Celta Vigo. Williot Swedberg replaces Couhaib Driouech."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Celta Vigo. Hugo González replaces Iago Aspas."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Levante. Marc Santos replaces Nacho Pérez."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "88'",
+   "team": null,
+   "text": "Javi Galán (Celta Vigo) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+3'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

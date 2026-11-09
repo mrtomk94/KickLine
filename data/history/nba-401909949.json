@@ -1,0 +1,86 @@
+{
+ "id": "nba-401909949",
+ "sport": "nba",
+ "league": "NBA",
+ "start": "2026-11-09T01:00:00Z",
+ "home": {
+  "name": "Milwaukee Bucks",
+  "abbr": "MIL",
+  "teamId": null,
+  "score": 97.0
+ },
+ "away": {
+  "name": "Boston Celtics",
+  "abbr": "BOS",
+  "teamId": null,
+  "score": 117.0
+ },
+ "odds": {
+  "provider": "DraftKings"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "away": {
+   "abbr": "BOS",
+   "stats": {
+    "fieldGoalsMade-fieldGoalsAttempted": "45-95",
+    "fieldGoalPct": "47",
+    "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "18-48",
+    "threePointFieldGoalPct": "38",
+    "freeThrowsMade-freeThrowsAttempted": "9-14",
+    "freeThrowPct": "64",
+    "totalRebounds": "48",
+    "offensiveRebounds": "20",
+    "defensiveRebounds": "28",
+    "assists": "27",
+    "steals": "12",
+    "blocks": "5",
+    "turnovers": "10",
+    "teamTurnovers": "0",
+    "totalTurnovers": "10",
+    "technicalFouls": "1",
+    "totalTechnicalFouls": "1",
+    "flagrantFouls": "0",
+    "turnoverPoints": "11",
+    "fastBreakPoints": "15",
+    "pointsInPaint": "44",
+    "fouls": "16",
+    "largestLead": "23",
+    "leadChanges": "1",
+    "leadPercentage": "74"
+   }
+  },
+  "home": {
+   "abbr": "MIL",
+   "stats": {
+    "fieldGoalsMade-fieldGoalsAttempted": "35-79",
+    "fieldGoalPct": "44",
+    "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "15-43",
+    "threePointFieldGoalPct": "35",
+    "freeThrowsMade-freeThrowsAttempted": "12-14",
+    "freeThrowPct": "86",
+    "totalRebounds": "36",
+    "offensiveRebounds": "9",
+    "defensiveRebounds": "27",
+    "assists": "24",
+    "steals": "5",
+    "blocks": "5",
+    "turnovers": "14",
+    "teamTurnovers": "1",
+    "totalTurnovers": "15",
+    "technicalFouls": "0",
+    "totalTechnicalFouls": "0",
+    "flagrantFouls": "0",
+    "turnoverPoints": "21",
+    "fastBreakPoints": "9",
+    "pointsInPaint": "28",
+    "fouls": "15",
+    "largestLead": "14",
+    "leadChanges": "1",
+    "leadPercentage": "25"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": []
+}

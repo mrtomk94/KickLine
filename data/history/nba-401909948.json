@@ -1,0 +1,86 @@
+{
+ "id": "nba-401909948",
+ "sport": "nba",
+ "league": "NBA",
+ "start": "2026-11-09T00:30:00Z",
+ "home": {
+  "name": "Dallas Mavericks",
+  "abbr": "DAL",
+  "teamId": null,
+  "score": 130.0
+ },
+ "away": {
+  "name": "Brooklyn Nets",
+  "abbr": "BKN",
+  "teamId": null,
+  "score": 93.0
+ },
+ "odds": {
+  "provider": "DraftKings"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "away": {
+   "abbr": "BKN",
+   "stats": {
+    "fieldGoalsMade-fieldGoalsAttempted": "31-80",
+    "fieldGoalPct": "39",
+    "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "11-39",
+    "threePointFieldGoalPct": "28",
+    "freeThrowsMade-freeThrowsAttempted": "20-28",
+    "freeThrowPct": "71",
+    "totalRebounds": "30",
+    "offensiveRebounds": "10",
+    "defensiveRebounds": "20",
+    "assists": "23",
+    "steals": "9",
+    "blocks": "4",
+    "turnovers": "16",
+    "teamTurnovers": "1",
+    "totalTurnovers": "17",
+    "technicalFouls": "0",
+    "totalTechnicalFouls": "0",
+    "flagrantFouls": "0",
+    "turnoverPoints": "24",
+    "fastBreakPoints": "19",
+    "pointsInPaint": "40",
+    "fouls": "27",
+    "largestLead": "0",
+    "leadChanges": "0",
+    "leadPercentage": "0"
+   }
+  },
+  "home": {
+   "abbr": "DAL",
+   "stats": {
+    "fieldGoalsMade-fieldGoalsAttempted": "48-84",
+    "fieldGoalPct": "57",
+    "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "14-35",
+    "threePointFieldGoalPct": "40",
+    "freeThrowsMade-freeThrowsAttempted": "20-22",
+    "freeThrowPct": "91",
+    "totalRebounds": "46",
+    "offensiveRebounds": "12",
+    "defensiveRebounds": "34",
+    "assists": "31",
+    "steals": "7",
+    "blocks": "4",
+    "turnovers": "20",
+    "teamTurnovers": "1",
+    "totalTurnovers": "21",
+    "technicalFouls": "1",
+    "totalTechnicalFouls": "1",
+    "flagrantFouls": "0",
+    "turnoverPoints": "25",
+    "fastBreakPoints": "26",
+    "pointsInPaint": "64",
+    "fouls": "25",
+    "largestLead": "37",
+    "leadChanges": "0",
+    "leadPercentage": "99"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": []
+}

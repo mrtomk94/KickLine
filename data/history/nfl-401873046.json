@@ -1,0 +1,174 @@
+{
+ "id": "nfl-401873046",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-08T21:05:00Z",
+ "home": {
+  "name": "Los Angeles Chargers",
+  "abbr": "LAC",
+  "teamId": null,
+  "score": 22.0
+ },
+ "away": {
+  "name": "Houston Texans",
+  "abbr": "HOU",
+  "teamId": null,
+  "score": 44.0
+ },
+ "odds": {
+  "mlAway": "-218",
+  "mlAwayOpen": "+110",
+  "mlHome": "+180",
+  "mlHomeOpen": "-130",
+  "provider": "DraftKings",
+  "spread": "HOU -4.5",
+  "spreadOpen": "LAC -1.5",
+  "total": "40.5",
+  "totalOpen": "43.5"
+ },
+ "espnWinProb": {
+  "away": 62,
+  "home": 37.7
+ },
+ "teams": {
+  "away": {
+   "abbr": "HOU",
+   "stats": {
+    "firstDowns": "22",
+    "firstDownsPassing": "15",
+    "firstDownsRushing": "4",
+    "firstDownsPenalty": "3",
+    "thirdDownEff": "8-14",
+    "fourthDownEff": "0-0",
+    "totalOffensivePlays": "66",
+    "totalYards": "485",
+    "yardsPerPlay": "7.3",
+    "totalDrives": "13",
+    "netPassingYards": "381",
+    "completionAttempts": "22/37",
+    "yardsPerPass": "10.0",
+    "interceptions": "1",
+    "sacksYardsLost": "1-10",
+    "rushingYards": "104",
+    "rushingAttempts": "28",
+    "yardsPerRushAttempt": "3.7",
+    "redZoneAttempts": "3-4",
+    "totalPenaltiesYards": "6-36",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "28:33"
+   }
+  },
+  "home": {
+   "abbr": "LAC",
+   "stats": {
+    "firstDowns": "14",
+    "firstDownsPassing": "7",
+    "firstDownsRushing": "5",
+    "firstDownsPenalty": "2",
+    "thirdDownEff": "5-17",
+    "fourthDownEff": "2-4",
+    "totalOffensivePlays": "68",
+    "totalYards": "315",
+    "yardsPerPlay": "4.6",
+    "totalDrives": "13",
+    "netPassingYards": "177",
+    "completionAttempts": "15/30",
+    "yardsPerPass": "4.7",
+    "interceptions": "1",
+    "sacksYardsLost": "8-40",
+    "rushingYards": "138",
+    "rushingAttempts": "30",
+    "yardsPerRushAttempt": "4.6",
+    "redZoneAttempts": "1-2",
+    "totalPenaltiesYards": "9-79",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "31:27"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "10:16",
+   "team": "HOU",
+   "text": "Xavier Hutchinson 17 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "6:14",
+   "team": "LAC",
+   "text": "Cameron Dicker 52 Yd Field Goal"
+  },
+  {
+   "period": 1,
+   "clock": "3:12",
+   "team": "HOU",
+   "text": "Ka'imi Fairbairn 56 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "8:13",
+   "team": "LAC",
+   "text": "Cameron Dicker 33 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "5:11",
+   "team": "LAC",
+   "text": "Cameron Dicker 43 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "4:28",
+   "team": "HOU",
+   "text": "Tank Dell 63 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:31",
+   "team": "HOU",
+   "text": "Kayshon Boutte 12 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "8:16",
+   "team": "HOU",
+   "text": "Nico Collins 13 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "14:12",
+   "team": "HOU",
+   "text": "Kayshon Boutte 63 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "12:47",
+   "team": "LAC",
+   "text": "Quentin Johnston 58 Yd pass from Justin Herbert (Two-Point Pass Conversion Failed)"
+  },
+  {
+   "period": 4,
+   "clock": "8:50",
+   "team": "HOU",
+   "text": "Ka'imi Fairbairn 31 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "4:19",
+   "team": "LAC",
+   "text": "Derius Davis 15 Yd pass from DJ Uiagalelei (Cameron Dicker Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "2:20",
+   "team": "HOU",
+   "text": "Ka'imi Fairbairn 41 Yd Field Goal "
+  }
+ ]
+}

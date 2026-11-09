@@ -1,0 +1,309 @@
+{
+ "id": "soccer-401876902",
+ "sport": "soccer",
+ "league": "Liga MX",
+ "start": "2026-11-09T02:00:00Z",
+ "home": {
+  "name": "Leon",
+  "abbr": "LEO",
+  "teamId": null,
+  "score": 1.0
+ },
+ "away": {
+  "name": "Guadalajara",
+  "abbr": "GDL",
+  "teamId": null,
+  "score": 1.0
+ },
+ "odds": {
+  "provider": "DraftKings"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "LEO",
+   "stats": {
+    "foulsCommitted": "10",
+    "yellowCards": "2",
+    "redCards": "1",
+    "offsides": "3",
+    "wonCorners": "2",
+    "saves": "5",
+    "possessionPct": "33.3",
+    "totalShots": "8",
+    "shotsOnTarget": "5",
+    "shotPct": "0.6",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "262",
+    "totalPasses": "338",
+    "passPct": "0.8",
+    "accurateCrosses": "2",
+    "totalCrosses": "9",
+    "crossPct": "0.2",
+    "totalLongBalls": "56",
+    "accurateLongBalls": "29",
+    "longballPct": "0.5",
+    "blockedShots": "2",
+    "effectiveTackles": "9",
+    "totalTackles": "16",
+    "tacklePct": "0.6",
+    "interceptions": "11",
+    "effectiveClearance": "28",
+    "totalClearance": "28"
+   }
+  },
+  "away": {
+   "abbr": "GDL",
+   "stats": {
+    "foulsCommitted": "10",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "6",
+    "saves": "4",
+    "possessionPct": "66.7",
+    "totalShots": "18",
+    "shotsOnTarget": "6",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "602",
+    "totalPasses": "675",
+    "passPct": "0.9",
+    "accurateCrosses": "5",
+    "totalCrosses": "25",
+    "crossPct": "0.2",
+    "totalLongBalls": "41",
+    "accurateLongBalls": "24",
+    "longballPct": "0.6",
+    "blockedShots": "4",
+    "effectiveTackles": "9",
+    "totalTackles": "12",
+    "tacklePct": "0.8",
+    "interceptions": "10",
+    "effectiveClearance": "11",
+    "totalClearance": "11"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "18'",
+   "team": null,
+   "text": "Richard Ledezma (Guadalajara) is shown the yellow card."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "20'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "21'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "23'",
+   "team": null,
+   "text": "Delay in match because of an injury Roberto Alvarado (Guadalajara)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "23'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "23'",
+   "team": null,
+   "text": "Juan Guevara (León) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Delay",
+   "clock": "24'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "24'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "39'",
+   "team": null,
+   "text": "Delay in match because of an injury Diego Campillo (Guadalajara)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "39'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "40'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "40'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+6'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins León 0, Guadalajara 0."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "51'",
+   "team": null,
+   "text": "Díber Cambindo (León) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Red Card",
+   "clock": "53'",
+   "team": null,
+   "text": "Iván Rodríguez (León) is shown the red card."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "53'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "54'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, León. Jesús Lara replaces Fernando Beltrán."
+  },
+  {
+   "type": "Substitution",
+   "clock": "60'",
+   "team": null,
+   "text": "Substitution, Guadalajara. Ricardo Marín replaces Richard Ledezma."
+  },
+  {
+   "type": "Substitution",
+   "clock": "60'",
+   "team": null,
+   "text": "Substitution, Guadalajara. Brian Gutiérrez replaces Omar Govea."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, León. Paúl Bellón replaces Díber Cambindo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, León. Christopher Mora replaces Sebastián Vegas."
+  },
+  {
+   "type": "Goal",
+   "clock": "69'",
+   "team": null,
+   "text": "Goal! León 0, Guadalajara 1. Ricardo Marín (Guadalajara) left footed shot from the centre of the box to the centre of the goal. Assisted by Daniel Aguirre."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, León. Edgar Guerra replaces Iván Moreno."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, León. Ismael Díaz replaces Juan Guevara because of an injury."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Guadalajara. Jordán Carrillo replaces Efraín Álvarez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "84'",
+   "team": null,
+   "text": "Substitution, Guadalajara. José Castillo Pérez replaces Daniel Aguirre."
+  },
+  {
+   "type": "Substitution",
+   "clock": "84'",
+   "team": null,
+   "text": "Substitution, Guadalajara. Luis Gabriel Rey replaces Rubén González."
+  },
+  {
+   "type": "Goal",
+   "clock": "87'",
+   "team": null,
+   "text": "Goal! León 1, Guadalajara 1. Paúl Bellón (León) right footed shot from the centre of the box to the bottom right corner. Assisted by Jhohan Romaña following a corner."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "89'",
+   "team": null,
+   "text": "Delay in match because of an injury Óscar García (León)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "89'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "89'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "89'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+6'",
+   "team": null,
+   "text": "Second Half ends, León 1, Guadalajara 1."
+  }
+ ],
+ "scoringPlays": []
+}

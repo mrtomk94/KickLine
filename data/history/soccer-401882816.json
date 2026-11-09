@@ -1,0 +1,247 @@
+{
+ "id": "soccer-401882816",
+ "sport": "soccer",
+ "league": "LaLiga",
+ "start": "2026-11-08T20:00:00Z",
+ "home": {
+  "name": "Atletico Madrid",
+  "abbr": "ATM",
+  "teamId": null,
+  "score": 1.0
+ },
+ "away": {
+  "name": "Barcelona",
+  "abbr": "BAR",
+  "teamId": null,
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "-120",
+  "mlDraw": "+340",
+  "mlHome": "+265",
+  "provider": "DraftKings",
+  "total": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "ATM",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "4",
+    "redCards": "0",
+    "offsides": "5",
+    "wonCorners": "4",
+    "saves": "3",
+    "possessionPct": "37",
+    "totalShots": "9",
+    "shotsOnTarget": "4",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "317",
+    "totalPasses": "391",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "6",
+    "crossPct": "0.5",
+    "totalLongBalls": "61",
+    "accurateLongBalls": "29",
+    "longballPct": "0.5",
+    "blockedShots": "1",
+    "effectiveTackles": "16",
+    "totalTackles": "30",
+    "tacklePct": "0.5",
+    "interceptions": "10",
+    "effectiveClearance": "10",
+    "totalClearance": "10"
+   }
+  },
+  "away": {
+   "abbr": "BAR",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "2",
+    "saves": "3",
+    "possessionPct": "63",
+    "totalShots": "19",
+    "shotsOnTarget": "4",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "615",
+    "totalPasses": "675",
+    "passPct": "0.9",
+    "accurateCrosses": "2",
+    "totalCrosses": "9",
+    "crossPct": "0.2",
+    "totalLongBalls": "33",
+    "accurateLongBalls": "18",
+    "longballPct": "0.5",
+    "blockedShots": "5",
+    "effectiveTackles": "13",
+    "totalTackles": "15",
+    "tacklePct": "0.9",
+    "interceptions": "7",
+    "effectiveClearance": "16",
+    "totalClearance": "16"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal",
+   "clock": "10'",
+   "team": null,
+   "text": "Goal! Atletico Madrid 1, Barcelona 0. Giuliano Simeone (Atletico Madrid) right footed shot from very close range to the centre of the goal. Assisted by Julián Alvarez."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "12'",
+   "team": null,
+   "text": "Delay in match (Barcelona)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "12'",
+   "team": null,
+   "text": "Delay in match (Atletico Madrid)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "13'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "13'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "43'",
+   "team": null,
+   "text": "Álex Baena (Atletico Madrid) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "45'",
+   "team": null,
+   "text": "Goal! Atletico Madrid 1, Barcelona 1. Fermín López (Barcelona) left footed shot from the centre of the box to the bottom right corner."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+4'",
+   "team": null,
+   "text": "First Half ends, Atletico Madrid 1, Barcelona 1."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Barcelona. Frenkie de Jong replaces Brian Fariñas."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "60'",
+   "team": null,
+   "text": "Substitution, Barcelona. Andreas Christensen replaces João Cancelo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "60'",
+   "team": null,
+   "text": "Substitution, Atletico Madrid. Alexander Sørloth replaces Lee Kang-In."
+  },
+  {
+   "type": "Goal",
+   "clock": "66'",
+   "team": null,
+   "text": "Goal! Atletico Madrid 1, Barcelona 2. Fermín López (Barcelona) right footed shot from the centre of the box to the centre of the goal. Assisted by Lamine Yamal with a through ball."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Atletico Madrid. Morten Hjulmand replaces Koke."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Atletico Madrid. Johnny Cardoso replaces Álex Baena."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "74'",
+   "team": null,
+   "text": "Marc Bernal (Barcelona) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Barcelona. Eric García replaces Marc Bernal."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Barcelona. Gavi replaces Fermín López."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Atletico Madrid. Jonathan David replaces Pablo Barrios."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Barcelona. Karim Adeyemi replaces Anthony Gordon."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "87'",
+   "team": null,
+   "text": "Marcos Llorente (Atletico Madrid) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "88'",
+   "team": null,
+   "text": "Marc Pubill (Atletico Madrid) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Morten Hjulmand (Atletico Madrid) is shown the yellow card."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Second Half ends, Atletico Madrid 1, Barcelona 2."
+  }
+ ],
+ "scoringPlays": []
+}

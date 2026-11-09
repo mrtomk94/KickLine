@@ -1,0 +1,325 @@
+{
+ "id": "soccer-401879240",
+ "sport": "soccer",
+ "league": "Premier League",
+ "start": "2026-11-08T16:30:00Z",
+ "home": {
+  "name": "Manchester United",
+  "abbr": "MAN",
+  "teamId": null,
+  "score": 4.0
+ },
+ "away": {
+  "name": "Aston Villa",
+  "abbr": "AVL",
+  "teamId": null,
+  "score": 4.0
+ },
+ "odds": {
+  "mlAway": "+210",
+  "mlDraw": "+270",
+  "mlHome": "+120",
+  "provider": "DraftKings",
+  "total": null
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "MAN",
+   "stats": {
+    "foulsCommitted": "18",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "8",
+    "saves": "3",
+    "possessionPct": "55.7",
+    "totalShots": "26",
+    "shotsOnTarget": "9",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "422",
+    "totalPasses": "484",
+    "passPct": "0.9",
+    "accurateCrosses": "5",
+    "totalCrosses": "30",
+    "crossPct": "0.2",
+    "totalLongBalls": "35",
+    "accurateLongBalls": "20",
+    "longballPct": "0.6",
+    "blockedShots": "7",
+    "effectiveTackles": "14",
+    "totalTackles": "25",
+    "tacklePct": "0.6",
+    "interceptions": "11",
+    "effectiveClearance": "12",
+    "totalClearance": "12"
+   }
+  },
+  "away": {
+   "abbr": "AVL",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "1",
+    "saves": "5",
+    "possessionPct": "44.3",
+    "totalShots": "12",
+    "shotsOnTarget": "6",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "337",
+    "totalPasses": "399",
+    "passPct": "0.8",
+    "accurateCrosses": "2",
+    "totalCrosses": "5",
+    "crossPct": "0.4",
+    "totalLongBalls": "46",
+    "accurateLongBalls": "20",
+    "longballPct": "0.4",
+    "blockedShots": "2",
+    "effectiveTackles": "6",
+    "totalTackles": "10",
+    "tacklePct": "0.6",
+    "interceptions": "11",
+    "effectiveClearance": "35",
+    "totalClearance": "35"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal",
+   "clock": "1'",
+   "team": null,
+   "text": "Goal! Manchester United 0, Aston Villa 1. Alysson (Aston Villa) left footed shot from the right side of the box to the centre of the goal. Assisted by John McGinn."
+  },
+  {
+   "type": "Goal",
+   "clock": "4'",
+   "team": null,
+   "text": "Goal! Manchester United 0, Aston Villa 2. Nicolas Jackson (Aston Villa) right footed shot from very close range to the centre of the goal following a set piece situation."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "6'",
+   "team": null,
+   "text": "Delay in match (Aston Villa)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "6'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "6'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "6'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "16'",
+   "team": null,
+   "text": "Goal! Manchester United 1, Aston Villa 2. Bruno Fernandes (Manchester United) converts the penalty with a right footed shot to the centre of the goal."
+  },
+  {
+   "type": "Goal",
+   "clock": "44'",
+   "team": null,
+   "text": "Goal! Manchester United 2, Aston Villa 2. Youri Tielemans (Manchester United) left footed shot from the centre of the box to the centre of the goal. Assisted by Noussair Mazraoui."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "44'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "45'+1'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+5'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Manchester United. Ayden Heaven replaces Harry Maguire."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "48'",
+   "team": null,
+   "text": "Goal! Manchester United 2, Aston Villa 3. John McGinn (Aston Villa) converts the penalty with a left footed shot to the bottom left corner."
+  },
+  {
+   "type": "Goal",
+   "clock": "53'",
+   "team": null,
+   "text": "Goal! Manchester United 2, Aston Villa 4. Leon Goretzka (Aston Villa) left footed shot from very close range to the bottom right corner. Assisted by Nicolas Jackson following a set piece situation."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "57'",
+   "team": null,
+   "text": "Ayden Heaven (Manchester United) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "57'",
+   "team": null,
+   "text": "Delay in match because of an injury Alysson (Aston Villa)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "57'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "58'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "58'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Manchester United. Mason Mount replaces Youri Tielemans."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Manchester United. Patrick Dorgu replaces Diogo Dalot."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Manchester United. Shea Lacey replaces Amad Diallo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Aston Villa. George Hemmings replaces John McGinn."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Aston Villa. Ross Barkley replaces Alysson."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "72'",
+   "team": null,
+   "text": "Delay in match because of an injury Johan Manzambi (Aston Villa)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "72'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "73'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "73'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Aston Villa. João Gomes replaces Johan Manzambi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Aston Villa. Ibrahim Mbaye replaces Leon Goretzka."
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, Manchester United. Joshua Zirkzee replaces Bryan Mbeumo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Aston Villa. Brian Madjo replaces Nicolas Jackson."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Goal! Manchester United 3, Aston Villa 4. Joshua Zirkzee (Manchester United) left footed shot from the centre of the box to the centre of the goal. Assisted by Patrick Dorgu with a cross."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "90'+6'",
+   "team": null,
+   "text": "Goal! Manchester United 4, Aston Villa 4. Patrick Dorgu (Manchester United) header from very close range to the centre of the goal. Assisted by Bruno Fernandes with a cross following a corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+7'",
+   "team": null,
+   "text": "Zion Suzuki (Aston Villa) is shown the yellow card."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+9'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

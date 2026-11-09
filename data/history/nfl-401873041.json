@@ -1,0 +1,141 @@
+{
+ "id": "nfl-401873041",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-08T18:00:00Z",
+ "home": {
+  "name": "Carolina Panthers",
+  "abbr": "CAR",
+  "teamId": null,
+  "score": 21.0
+ },
+ "away": {
+  "name": "Denver Broncos",
+  "abbr": "DEN",
+  "teamId": null,
+  "score": 26.0
+ },
+ "odds": {
+  "mlAway": "-155",
+  "mlAwayOpen": "-162",
+  "mlHome": "+130",
+  "mlHomeOpen": "+136",
+  "provider": "DraftKings",
+  "spread": "DEN -2.5",
+  "spreadOpen": "DEN -3",
+  "total": "44.5",
+  "totalOpen": "42.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "away": {
+   "abbr": "DEN",
+   "stats": {
+    "firstDowns": "27",
+    "firstDownsPassing": "17",
+    "firstDownsRushing": "4",
+    "firstDownsPenalty": "6",
+    "thirdDownEff": "6-10",
+    "fourthDownEff": "0-0",
+    "totalOffensivePlays": "65",
+    "totalYards": "312",
+    "yardsPerPlay": "4.8",
+    "totalDrives": "10",
+    "netPassingYards": "230",
+    "completionAttempts": "25/37",
+    "yardsPerPass": "6.1",
+    "interceptions": "1",
+    "sacksYardsLost": "1-7",
+    "rushingYards": "82",
+    "rushingAttempts": "27",
+    "yardsPerRushAttempt": "3.0",
+    "redZoneAttempts": "2-4",
+    "totalPenaltiesYards": "8-50",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "31:55"
+   }
+  },
+  "home": {
+   "abbr": "CAR",
+   "stats": {
+    "firstDowns": "28",
+    "firstDownsPassing": "18",
+    "firstDownsRushing": "5",
+    "firstDownsPenalty": "5",
+    "thirdDownEff": "3-10",
+    "fourthDownEff": "3-3",
+    "totalOffensivePlays": "62",
+    "totalYards": "353",
+    "yardsPerPlay": "5.7",
+    "totalDrives": "10",
+    "netPassingYards": "257",
+    "completionAttempts": "28/39",
+    "yardsPerPass": "6.1",
+    "interceptions": "1",
+    "sacksYardsLost": "3-19",
+    "rushingYards": "96",
+    "rushingAttempts": "20",
+    "yardsPerRushAttempt": "4.8",
+    "redZoneAttempts": "3-4",
+    "totalPenaltiesYards": "13-119",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "28:05"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "11:09",
+   "team": "DEN",
+   "text": "Wil Lutz 26 Yd Field Goal"
+  },
+  {
+   "period": 1,
+   "clock": "1:23",
+   "team": "DEN",
+   "text": "Courtland Sutton 3 Yd pass from Bo Nix (Wil Lutz Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:27",
+   "team": "CAR",
+   "text": "Tommy Tremble 10 Yd pass from Bryce Young (Ryan Fitzgerald Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:04",
+   "team": "DEN",
+   "text": "Wil Lutz 48 Yd Field Goal"
+  },
+  {
+   "period": 3,
+   "clock": "11:30",
+   "team": "CAR",
+   "text": "Darren Waller 15 Yd pass from Bryce Young (Ryan Fitzgerald Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "10:17",
+   "team": "DEN",
+   "text": "Jonah Coleman 9 Yd Rush (Two-Point Pass Conversion Failed)"
+  },
+  {
+   "period": 4,
+   "clock": "5:41",
+   "team": "DEN",
+   "text": "Pat Bryant 26 Yd pass from Bo Nix (Wil Lutz Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "3:05",
+   "team": "CAR",
+   "text": "Tetairoa McMillan 4 Yd pass from Bryce Young (Ryan Fitzgerald Kick)"
+  }
+ ]
+}
