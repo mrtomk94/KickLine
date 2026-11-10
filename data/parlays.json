@@ -10288,13 +10288,13 @@
   "size": 8,
   "status": "open"
  },
- "20261110-0628-3": {
-  "americanOdds": "-207",
-  "batch": "20261110-0628",
-  "createdAt": "2026-11-10T06:28:08Z",
-  "decimalOdds": 1.482,
-  "estHitPct": 58.5,
-  "impliedPct": 67.5,
+ "20261110-1509-10": {
+  "americanOdds": "+802",
+  "batch": "20261110-1509",
+  "createdAt": "2026-11-10T15:09:31Z",
+  "decimalOdds": 9.022,
+  "estHitPct": 5.6,
+  "impliedPct": 11.1,
   "legs": [
    {
     "confidence": 87,
@@ -10309,13 +10309,13 @@
     "start": "2026-11-12T00:30Z"
    },
    {
-    "confidence": 83,
+    "confidence": 84,
     "gameId": "ncaaf-401866458",
     "league": "College Football",
     "market": "Moneyline",
     "matchup": "WMU @ AKR",
-    "pick": "WMU ML (-600)",
-    "price": "-600",
+    "pick": "WMU ML (-625)",
+    "price": "-625",
     "sport": "ncaaf",
     "stars": 3,
     "start": "2026-11-11T00:00Z"
@@ -10331,20 +10331,7 @@
     "sport": "ncaaf",
     "stars": 3,
     "start": "2026-11-12T00:30Z"
-   }
-  ],
-  "note": "Safest of the set, about a 1-in-2 shot.",
-  "size": 3,
-  "status": "open"
- },
- "20261110-0628-3b": {
-  "americanOdds": "-121",
-  "batch": "20261110-0628",
-  "createdAt": "2026-11-10T06:28:08Z",
-  "decimalOdds": 1.829,
-  "estHitPct": 44.4,
-  "impliedPct": 54.7,
-  "legs": [
+   },
    {
     "confidence": 80,
     "gameId": "ncaaf-401869969",
@@ -10356,6 +10343,18 @@
     "sport": "ncaaf",
     "stars": 3,
     "start": "2026-11-13T02:00Z"
+   },
+   {
+    "confidence": 79,
+    "gameId": "soccer-401930244",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "TPE @ VIE",
+    "pick": "Vietnam ML (-700)",
+    "price": "-700",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-11T12:00Z"
    },
    {
     "confidence": 76,
@@ -10380,20 +10379,55 @@
     "sport": "soccer",
     "stars": 3,
     "start": "2026-11-12T19:45Z"
+   },
+   {
+    "confidence": 69,
+    "gameId": "soccer-401861152",
+    "league": "UEFA Nations League",
+    "market": "Moneyline",
+    "matchup": "LVA @ MNE",
+    "pick": "Montenegro ML (-340)",
+    "price": "-340",
+    "sport": "soccer",
+    "stars": 3,
+    "start": "2026-11-12T19:45Z"
+   },
+   {
+    "confidence": 65,
+    "gameId": "ncaaf-401866459",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "KENT @ BGSU",
+    "pick": "BGSU ML (-205)",
+    "price": "-205",
+    "sport": "ncaaf",
+    "stars": 3,
+    "start": "2026-11-11T00:00Z"
+   },
+   {
+    "confidence": 60,
+    "gameId": "ncaaf-401862824",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "MEM @ USF",
+    "pick": "MEM ML (-192)",
+    "price": "-192",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-13T01:00Z"
    }
   ],
-  "note": "Second 3-leg from candidates 4-6.",
-  "size": 3,
-  "status": "open",
-  "ticket": "3b"
+  "note": "10 legs, about a 1-in-18 shot. 10 legs qualified.",
+  "size": 10,
+  "status": "open"
  },
- "20261110-0628-4": {
-  "americanOdds": "-119",
-  "batch": "20261110-0628",
-  "createdAt": "2026-11-10T06:28:08Z",
-  "decimalOdds": 1.844,
-  "estHitPct": 46.8,
-  "impliedPct": 54.2,
+ "20261110-1509-3": {
+  "americanOdds": "-211",
+  "batch": "20261110-1509",
+  "createdAt": "2026-11-10T15:09:31Z",
+  "decimalOdds": 1.474,
+  "estHitPct": 59.2,
+  "impliedPct": 67.9,
   "legs": [
    {
     "confidence": 87,
@@ -10408,13 +10442,112 @@
     "start": "2026-11-12T00:30Z"
    },
    {
-    "confidence": 83,
+    "confidence": 84,
     "gameId": "ncaaf-401866458",
     "league": "College Football",
     "market": "Moneyline",
     "matchup": "WMU @ AKR",
-    "pick": "WMU ML (-600)",
-    "price": "-600",
+    "pick": "WMU ML (-625)",
+    "price": "-625",
+    "sport": "ncaaf",
+    "stars": 3,
+    "start": "2026-11-11T00:00Z"
+   },
+   {
+    "confidence": 81,
+    "gameId": "ncaaf-401866463",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "MASS @ TOL",
+    "pick": "TOL ML (-625)",
+    "price": "-625",
+    "sport": "ncaaf",
+    "stars": 3,
+    "start": "2026-11-12T00:30Z"
+   }
+  ],
+  "note": "Safest of the set, about a 1-in-2 shot.",
+  "size": 3,
+  "status": "open"
+ },
+ "20261110-1509-3b": {
+  "americanOdds": "-144",
+  "batch": "20261110-1509",
+  "createdAt": "2026-11-10T15:09:31Z",
+  "decimalOdds": 1.692,
+  "estHitPct": 48.0,
+  "impliedPct": 59.1,
+  "legs": [
+   {
+    "confidence": 80,
+    "gameId": "ncaaf-401869969",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "UL @ ULM",
+    "pick": "UL ML (-410)",
+    "price": "-410",
+    "sport": "ncaaf",
+    "stars": 3,
+    "start": "2026-11-13T02:00Z"
+   },
+   {
+    "confidence": 79,
+    "gameId": "soccer-401930244",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "TPE @ VIE",
+    "pick": "Vietnam ML (-700)",
+    "price": "-700",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-11T12:00Z"
+   },
+   {
+    "confidence": 76,
+    "gameId": "soccer-401861148",
+    "league": "UEFA Nations League",
+    "market": "Moneyline",
+    "matchup": "ESP @ CZE",
+    "pick": "Spain ML (-525)",
+    "price": "-525",
+    "sport": "soccer",
+    "stars": 3,
+    "start": "2026-11-12T19:45Z"
+   }
+  ],
+  "note": "Second 3-leg from candidates 4-6.",
+  "size": 3,
+  "status": "open",
+  "ticket": "3b"
+ },
+ "20261110-1509-4": {
+  "americanOdds": "-120",
+  "batch": "20261110-1509",
+  "createdAt": "2026-11-10T15:09:31Z",
+  "decimalOdds": 1.833,
+  "estHitPct": 47.4,
+  "impliedPct": 54.5,
+  "legs": [
+   {
+    "confidence": 87,
+    "gameId": "ncaaf-401866462",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "SAC @ CMU",
+    "pick": "CMU ML (-1050)",
+    "price": "-1050",
+    "sport": "ncaaf",
+    "stars": 3,
+    "start": "2026-11-12T00:30Z"
+   },
+   {
+    "confidence": 84,
+    "gameId": "ncaaf-401866458",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "WMU @ AKR",
+    "pick": "WMU ML (-625)",
+    "price": "-625",
     "sport": "ncaaf",
     "stars": 3,
     "start": "2026-11-11T00:00Z"
@@ -10448,13 +10581,13 @@
   "size": 4,
   "status": "open"
  },
- "20261110-0628-5": {
-  "americanOdds": "+119",
-  "batch": "20261110-0628",
-  "createdAt": "2026-11-10T06:28:08Z",
-  "decimalOdds": 2.195,
-  "estHitPct": 35.6,
-  "impliedPct": 45.6,
+ "20261110-1509-5": {
+  "americanOdds": "+110",
+  "batch": "20261110-1509",
+  "createdAt": "2026-11-10T15:09:31Z",
+  "decimalOdds": 2.095,
+  "estHitPct": 37.4,
+  "impliedPct": 47.7,
   "legs": [
    {
     "confidence": 87,
@@ -10469,13 +10602,13 @@
     "start": "2026-11-12T00:30Z"
    },
    {
-    "confidence": 83,
+    "confidence": 84,
     "gameId": "ncaaf-401866458",
     "league": "College Football",
     "market": "Moneyline",
     "matchup": "WMU @ AKR",
-    "pick": "WMU ML (-600)",
-    "price": "-600",
+    "pick": "WMU ML (-625)",
+    "price": "-625",
     "sport": "ncaaf",
     "stars": 3,
     "start": "2026-11-11T00:00Z"
@@ -10505,29 +10638,29 @@
     "start": "2026-11-13T02:00Z"
    },
    {
-    "confidence": 76,
-    "gameId": "soccer-401861148",
-    "league": "UEFA Nations League",
+    "confidence": 79,
+    "gameId": "soccer-401930244",
+    "league": "International Friendly",
     "market": "Moneyline",
-    "matchup": "ESP @ CZE",
-    "pick": "Spain ML (-525)",
-    "price": "-525",
+    "matchup": "TPE @ VIE",
+    "pick": "Vietnam ML (-700)",
+    "price": "-700",
     "sport": "soccer",
-    "stars": 3,
-    "start": "2026-11-12T19:45Z"
+    "stars": 2,
+    "start": "2026-11-11T12:00Z"
    }
   ],
   "note": "5 legs, about a 1-in-3 shot.",
   "size": 5,
   "status": "open"
  },
- "20261110-0628-6": {
-  "americanOdds": "+171",
-  "batch": "20261110-0628",
-  "createdAt": "2026-11-10T06:28:08Z",
-  "decimalOdds": 2.711,
-  "estHitPct": 26.0,
-  "impliedPct": 36.9,
+ "20261110-1509-6": {
+  "americanOdds": "+149",
+  "batch": "20261110-1509",
+  "createdAt": "2026-11-10T15:09:31Z",
+  "decimalOdds": 2.494,
+  "estHitPct": 28.4,
+  "impliedPct": 40.1,
   "legs": [
    {
     "confidence": 87,
@@ -10542,13 +10675,13 @@
     "start": "2026-11-12T00:30Z"
    },
    {
-    "confidence": 83,
+    "confidence": 84,
     "gameId": "ncaaf-401866458",
     "league": "College Football",
     "market": "Moneyline",
     "matchup": "WMU @ AKR",
-    "pick": "WMU ML (-600)",
-    "price": "-600",
+    "pick": "WMU ML (-625)",
+    "price": "-625",
     "sport": "ncaaf",
     "stars": 3,
     "start": "2026-11-11T00:00Z"
@@ -10578,6 +10711,18 @@
     "start": "2026-11-13T02:00Z"
    },
    {
+    "confidence": 79,
+    "gameId": "soccer-401930244",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "TPE @ VIE",
+    "pick": "Vietnam ML (-700)",
+    "price": "-700",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-11T12:00Z"
+   },
+   {
     "confidence": 76,
     "gameId": "soccer-401861148",
     "league": "UEFA Nations League",
@@ -10585,18 +10730,6 @@
     "matchup": "ESP @ CZE",
     "pick": "Spain ML (-525)",
     "price": "-525",
-    "sport": "soccer",
-    "stars": 3,
-    "start": "2026-11-12T19:45Z"
-   },
-   {
-    "confidence": 73,
-    "gameId": "soccer-401861150",
-    "league": "UEFA Nations League",
-    "market": "Moneyline",
-    "matchup": "CRO @ ENG",
-    "pick": "England ML (-425)",
-    "price": "-425",
     "sport": "soccer",
     "stars": 3,
     "start": "2026-11-12T19:45Z"
@@ -10606,13 +10739,13 @@
   "size": 6,
   "status": "open"
  },
- "20261110-0628-7": {
-  "americanOdds": "+251",
-  "batch": "20261110-0628",
-  "createdAt": "2026-11-10T06:28:08Z",
-  "decimalOdds": 3.509,
-  "estHitPct": 17.9,
-  "impliedPct": 28.5,
+ "20261110-1509-7": {
+  "americanOdds": "+208",
+  "batch": "20261110-1509",
+  "createdAt": "2026-11-10T15:09:31Z",
+  "decimalOdds": 3.081,
+  "estHitPct": 20.8,
+  "impliedPct": 32.5,
   "legs": [
    {
     "confidence": 87,
@@ -10627,13 +10760,13 @@
     "start": "2026-11-12T00:30Z"
    },
    {
-    "confidence": 83,
+    "confidence": 84,
     "gameId": "ncaaf-401866458",
     "league": "College Football",
     "market": "Moneyline",
     "matchup": "WMU @ AKR",
-    "pick": "WMU ML (-600)",
-    "price": "-600",
+    "pick": "WMU ML (-625)",
+    "price": "-625",
     "sport": "ncaaf",
     "stars": 3,
     "start": "2026-11-11T00:00Z"
@@ -10663,6 +10796,18 @@
     "start": "2026-11-13T02:00Z"
    },
    {
+    "confidence": 79,
+    "gameId": "soccer-401930244",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "TPE @ VIE",
+    "pick": "Vietnam ML (-700)",
+    "price": "-700",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-11T12:00Z"
+   },
+   {
     "confidence": 76,
     "gameId": "soccer-401861148",
     "league": "UEFA Nations League",
@@ -10685,31 +10830,19 @@
     "sport": "soccer",
     "stars": 3,
     "start": "2026-11-12T19:45Z"
-   },
-   {
-    "confidence": 69,
-    "gameId": "soccer-401861152",
-    "league": "UEFA Nations League",
-    "market": "Moneyline",
-    "matchup": "LVA @ MNE",
-    "pick": "Montenegro ML (-340)",
-    "price": "-340",
-    "sport": "soccer",
-    "stars": 3,
-    "start": "2026-11-12T19:45Z"
    }
   ],
-  "note": "7 legs, about a 1-in-6 shot.",
+  "note": "7 legs, about a 1-in-5 shot.",
   "size": 7,
   "status": "open"
  },
- "20261110-0628-8": {
-  "americanOdds": "+412",
-  "batch": "20261110-0628",
-  "createdAt": "2026-11-10T06:28:08Z",
-  "decimalOdds": 5.118,
-  "estHitPct": 11.8,
-  "impliedPct": 19.5,
+ "20261110-1509-8": {
+  "americanOdds": "+299",
+  "batch": "20261110-1509",
+  "createdAt": "2026-11-10T15:09:31Z",
+  "decimalOdds": 3.987,
+  "estHitPct": 14.3,
+  "impliedPct": 25.1,
   "legs": [
    {
     "confidence": 87,
@@ -10724,13 +10857,13 @@
     "start": "2026-11-12T00:30Z"
    },
    {
-    "confidence": 83,
+    "confidence": 84,
     "gameId": "ncaaf-401866458",
     "league": "College Football",
     "market": "Moneyline",
     "matchup": "WMU @ AKR",
-    "pick": "WMU ML (-600)",
-    "price": "-600",
+    "pick": "WMU ML (-625)",
+    "price": "-625",
     "sport": "ncaaf",
     "stars": 3,
     "start": "2026-11-11T00:00Z"
@@ -10758,6 +10891,18 @@
     "sport": "ncaaf",
     "stars": 3,
     "start": "2026-11-13T02:00Z"
+   },
+   {
+    "confidence": 79,
+    "gameId": "soccer-401930244",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "TPE @ VIE",
+    "pick": "Vietnam ML (-700)",
+    "price": "-700",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-11T12:00Z"
    },
    {
     "confidence": 76,
@@ -10794,31 +10939,19 @@
     "sport": "soccer",
     "stars": 3,
     "start": "2026-11-12T19:45Z"
-   },
-   {
-    "confidence": 66,
-    "gameId": "ncaaf-401866459",
-    "league": "College Football",
-    "market": "Moneyline",
-    "matchup": "KENT @ BGSU",
-    "pick": "BGSU ML (-218)",
-    "price": "-218",
-    "sport": "ncaaf",
-    "stars": 3,
-    "start": "2026-11-11T00:00Z"
    }
   ],
-  "note": "8 legs, about a 1-in-8 shot.",
+  "note": "8 legs, about a 1-in-7 shot.",
   "size": 8,
   "status": "open"
  },
- "20261110-0628-9": {
-  "americanOdds": "+678",
-  "batch": "20261110-0628",
-  "createdAt": "2026-11-10T06:28:08Z",
-  "decimalOdds": 7.784,
-  "estHitPct": 7.1,
-  "impliedPct": 12.8,
+ "20261110-1509-9": {
+  "americanOdds": "+493",
+  "batch": "20261110-1509",
+  "createdAt": "2026-11-10T15:09:31Z",
+  "decimalOdds": 5.932,
+  "estHitPct": 9.3,
+  "impliedPct": 16.9,
   "legs": [
    {
     "confidence": 87,
@@ -10833,13 +10966,13 @@
     "start": "2026-11-12T00:30Z"
    },
    {
-    "confidence": 83,
+    "confidence": 84,
     "gameId": "ncaaf-401866458",
     "league": "College Football",
     "market": "Moneyline",
     "matchup": "WMU @ AKR",
-    "pick": "WMU ML (-600)",
-    "price": "-600",
+    "pick": "WMU ML (-625)",
+    "price": "-625",
     "sport": "ncaaf",
     "stars": 3,
     "start": "2026-11-11T00:00Z"
@@ -10867,6 +11000,18 @@
     "sport": "ncaaf",
     "stars": 3,
     "start": "2026-11-13T02:00Z"
+   },
+   {
+    "confidence": 79,
+    "gameId": "soccer-401930244",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "TPE @ VIE",
+    "pick": "Vietnam ML (-700)",
+    "price": "-700",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-11T12:00Z"
    },
    {
     "confidence": 76,
@@ -10905,31 +11050,19 @@
     "start": "2026-11-12T19:45Z"
    },
    {
-    "confidence": 66,
+    "confidence": 65,
     "gameId": "ncaaf-401866459",
     "league": "College Football",
     "market": "Moneyline",
     "matchup": "KENT @ BGSU",
-    "pick": "BGSU ML (-218)",
-    "price": "-218",
+    "pick": "BGSU ML (-205)",
+    "price": "-205",
     "sport": "ncaaf",
     "stars": 3,
     "start": "2026-11-11T00:00Z"
-   },
-   {
-    "confidence": 60,
-    "gameId": "ncaaf-401862824",
-    "league": "College Football",
-    "market": "Moneyline",
-    "matchup": "MEM @ USF",
-    "pick": "MEM ML (-192)",
-    "price": "-192",
-    "sport": "ncaaf",
-    "stars": 2,
-    "start": "2026-11-13T01:00Z"
    }
   ],
-  "note": "9 legs, about a 1-in-14 shot. 9 legs qualified.",
+  "note": "9 legs, about a 1-in-11 shot.",
   "size": 9,
   "status": "open"
  }
