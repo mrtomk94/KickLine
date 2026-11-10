@@ -948,8 +948,8 @@
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 9.3,
-   "home": 90.7
+   "away": 7.8,
+   "home": 92.2
   },
   "home": {
    "abbr": "NY",
@@ -964,9 +964,9 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909960",
   "market": "Moneyline",
   "news": [
-   "As Jaylen Brown faces the Celtics for the first time, familiar questions linger",
-   "The historic (and absurd) longevity of Steph Curry and Kevin Durant",
-   "Victor Wembanyama scores 40 points in 25 minutes as Spurs win 9th straight"
+   "Where to watch 'Portrait of an Artist: Stephen Curry' documentary",
+   "Karabell's notebook: Harden's declining role, Garland's TOs, a rookie to watch",
+   "Raptors say Kawhi Leonard will miss at least 1 more week due to knee swelling"
   ],
   "odds": {
    "mlAway": "+670",
@@ -976,11 +976,11 @@
    "provider": "DraftKings",
    "spread": "NY -15.5",
    "spreadOpen": "NY -15.5",
-   "total": "220.5",
+   "total": "222.5",
    "totalOpen": "219.5"
   },
   "pick": "NY ML (-1040)",
-  "reason": "NY are about 88% no-vig at -1040; ESPN's model has 91%. For: form WWWLW vs LLLLL. Capped at 2★: NBA capped by lessons.",
+  "reason": "NY are about 88% no-vig at -1040; ESPN's model has 92%. For: form WWWLW vs LLLLL. Capped at 2★: NBA capped by lessons.",
   "risks": [],
   "side": "home",
   "slug": "nba",
@@ -988,7 +988,7 @@
   "stars": 2,
   "start": "2026-11-11T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Madison Square Garden, New York"
  },
  "nba-401909961": {
@@ -1006,8 +1006,8 @@
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 48.5,
-   "home": 51.5
+   "away": 48.0,
+   "home": 52.0
   },
   "home": {
    "abbr": "PHI",
@@ -1051,9 +1051,9 @@
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909961",
   "news": [
-   "As Jaylen Brown faces the Celtics for the first time, familiar questions linger",
-   "The historic (and absurd) longevity of Steph Curry and Kevin Durant",
-   "Victor Wembanyama scores 40 points in 25 minutes as Spurs win 9th straight"
+   "Where to watch 'Portrait of an Artist: Stephen Curry' documentary",
+   "Karabell's notebook: Harden's declining role, Garland's TOs, a rookie to watch",
+   "Raptors say Kawhi Leonard will miss at least 1 more week due to knee swelling"
   ],
   "odds": {
    "mlAway": "-117",
@@ -1074,11 +1074,11 @@
   "stars": 1,
   "start": "2026-11-11T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Xfinity Mobile Arena, Philadelphia"
  },
  "nba-401909962": {
-  "_lastPick": "PHX ML (-167)",
+  "_lastPick": "PHX ML (-173)",
   "away": {
    "abbr": "LAC",
    "form": "WLLLL",
@@ -1091,20 +1091,18 @@
    "short": "Clippers",
    "teamId": "12"
   },
-  "confidence": 59,
+  "confidence": 60,
   "espnId": "401909962",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 34.9,
-   "home": 65.1
+   "away": 34.2,
+   "home": 65.8
   },
   "home": {
    "abbr": "PHX",
    "form": "LWWLL",
-   "injuries": [
-    "Jordan Goodwin (G) – Out, Calf"
-   ],
+   "injuries": [],
    "name": "Phoenix Suns",
    "record": "3-6",
    "short": "Suns",
@@ -1144,13 +1142,6 @@
    ],
    "home": [
     {
-     "detail": "Calf",
-     "player": "Jordan Goodwin",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
      "detail": "Shoulder",
      "player": "Mark Williams",
      "pos": "C",
@@ -1163,14 +1154,14 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909962",
   "market": "Moneyline",
   "news": [
-   "As Jaylen Brown faces the Celtics for the first time, familiar questions linger",
-   "The historic (and absurd) longevity of Steph Curry and Kevin Durant",
-   "Victor Wembanyama scores 40 points in 25 minutes as Spurs win 9th straight"
+   "Where to watch 'Portrait of an Artist: Stephen Curry' documentary",
+   "Karabell's notebook: Harden's declining role, Garland's TOs, a rookie to watch",
+   "Raptors say Kawhi Leonard will miss at least 1 more week due to knee swelling"
   ],
   "odds": {
-   "mlAway": "+140",
+   "mlAway": "+145",
    "mlAwayOpen": "+141",
-   "mlHome": "-167",
+   "mlHome": "-173",
    "mlHomeOpen": "-168",
    "provider": "DraftKings",
    "spread": "PHX -3.5",
@@ -1178,8 +1169,8 @@
    "total": "224.5",
    "totalOpen": "225.5"
   },
-  "pick": "PHX ML (-167)",
-  "reason": "PHX are about 60% no-vig at -167; ESPN's model has 65%. For: ESPN model 65% vs market 60%.",
+  "pick": "PHX ML (-173)",
+  "reason": "PHX are about 61% no-vig at -173; ESPN's model has 66%.",
   "risks": [],
   "side": "home",
   "slug": "nba",
@@ -1187,11 +1178,11 @@
   "stars": 2,
   "start": "2026-11-11T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Mortgage Matchup Center, Phoenix"
  },
  "nba-401909963": {
-  "_lastPick": "MIA ML (-359)",
+  "_lastPick": "MIA ML (-438)",
   "away": {
    "abbr": "MIA",
    "form": "WLWLW",
@@ -1201,18 +1192,19 @@
    "short": "Heat",
    "teamId": "14"
   },
-  "confidence": 66,
+  "confidence": 69,
   "espnId": "401909963",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 58.4,
-   "home": 41.6
+   "away": 60.7,
+   "home": 39.3
   },
   "home": {
    "abbr": "UTAH",
    "form": "LLLLL",
    "injuries": [
+    "Lauri Markkanen (F) – Out, Wrist",
     "Keyonte George (G) – Out, Ankle",
     "Jusuf Nurkic (C) – Out, Foot",
     "Jaren Jackson Jr. (F) – Out, Knee"
@@ -1226,6 +1218,13 @@
   "injuriesRaw": {
    "away": [],
    "home": [
+    {
+     "detail": "Wrist",
+     "player": "Lauri Markkanen",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
     {
      "detail": "Ankle",
      "player": "Keyonte George",
@@ -1253,25 +1252,25 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909963",
   "market": "Moneyline",
   "news": [
-   "As Jaylen Brown faces the Celtics for the first time, familiar questions linger",
-   "The historic (and absurd) longevity of Steph Curry and Kevin Durant",
-   "Victor Wembanyama scores 40 points in 25 minutes as Spurs win 9th straight"
+   "Where to watch 'Portrait of an Artist: Stephen Curry' documentary",
+   "Karabell's notebook: Harden's declining role, Garland's TOs, a rookie to watch",
+   "Raptors say Kawhi Leonard will miss at least 1 more week due to knee swelling"
   ],
   "odds": {
-   "mlAway": "-359",
+   "mlAway": "-438",
    "mlAwayOpen": "-357",
-   "mlHome": "+286",
+   "mlHome": "+341",
    "mlHomeOpen": "+285",
    "provider": "DraftKings",
-   "spread": "MIA -8.5",
+   "spread": "MIA -9.5",
    "spreadOpen": "MIA -10.5",
    "total": "227.5",
    "totalOpen": "227.5"
   },
-  "pick": "MIA ML (-359)",
-  "reason": "MIA are about 75% no-vig at -359; ESPN's model has 58%. For: form WLWLW vs LLLLL.",
+  "pick": "MIA ML (-438)",
+  "reason": "MIA are about 78% no-vig at -438; ESPN's model has 61%. For: form WLWLW vs LLLLL.",
   "risks": [
-   "ESPN model only 58% vs market 75%"
+   "ESPN model only 61% vs market 78%"
   ],
   "side": "away",
   "slug": "nba",
@@ -1279,7 +1278,7 @@
   "stars": 2,
   "start": "2026-11-11T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Delta Center, Salt Lake City"
  },
  "nba-401909964": {
@@ -1302,8 +1301,8 @@
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 74.9,
-   "home": 25.1
+   "away": 74.4,
+   "home": 25.6
   },
   "home": {
    "abbr": "SAC",
@@ -1347,13 +1346,6 @@
      "pos": "F",
      "stale": true,
      "status": "Out"
-    },
-    {
-     "detail": "Ankle",
-     "player": "Izaiyah Nelson",
-     "pos": "F",
-     "stale": true,
-     "status": "Out"
     }
    ],
    "home": [
@@ -1377,9 +1369,9 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909964",
   "market": "Moneyline",
   "news": [
-   "As Jaylen Brown faces the Celtics for the first time, familiar questions linger",
-   "The historic (and absurd) longevity of Steph Curry and Kevin Durant",
-   "Victor Wembanyama scores 40 points in 25 minutes as Spurs win 9th straight"
+   "Where to watch 'Portrait of an Artist: Stephen Curry' documentary",
+   "Karabell's notebook: Harden's declining role, Garland's TOs, a rookie to watch",
+   "Raptors say Kawhi Leonard will miss at least 1 more week due to knee swelling"
   ],
   "odds": {
    "mlAway": "-229",
@@ -1387,13 +1379,13 @@
    "mlHome": "+190",
    "mlHomeOpen": "+157",
    "provider": "DraftKings",
-   "spread": "ORL -6.5",
+   "spread": "ORL -5.5",
    "spreadOpen": "ORL -5.5",
    "total": "222.5",
    "totalOpen": "221.5"
   },
   "pick": "ORL ML (-229)",
-  "reason": "ORL are about 67% no-vig at -229; ESPN's model has 75%. For: ESPN model 75% vs market 67%; line moved toward ORL (-188 → -229). Capped at 2★: NBA capped by lessons.",
+  "reason": "ORL are about 67% no-vig at -229; ESPN's model has 74%. For: ESPN model 74% vs market 67%; line moved toward ORL (-188 → -229). Capped at 2★: NBA capped by lessons.",
   "risks": [],
   "side": "away",
   "slug": "nba",
@@ -1401,7 +1393,7 @@
   "stars": 2,
   "start": "2026-11-11T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Golden 1 Center, Sacramento"
  },
  "nba-401909965": {
@@ -1420,13 +1412,13 @@
    "short": "Thunder",
    "teamId": "25"
   },
-  "confidence": 54,
+  "confidence": 53,
   "espnId": "401909965",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 60.0,
-   "home": 40.0
+   "away": 59.2,
+   "home": 40.8
   },
   "home": {
    "abbr": "POR",
@@ -1506,30 +1498,30 @@
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909965",
   "news": [
-   "As Jaylen Brown faces the Celtics for the first time, familiar questions linger",
-   "The historic (and absurd) longevity of Steph Curry and Kevin Durant",
-   "Victor Wembanyama scores 40 points in 25 minutes as Spurs win 9th straight"
+   "Where to watch 'Portrait of an Artist: Stephen Curry' documentary",
+   "Karabell's notebook: Harden's declining role, Garland's TOs, a rookie to watch",
+   "Raptors say Kawhi Leonard will miss at least 1 more week due to knee swelling"
   ],
   "odds": {
-   "mlAway": "-130",
+   "mlAway": "-125",
    "mlAwayOpen": "-122",
-   "mlHome": "+110",
+   "mlHome": "+106",
    "mlHomeOpen": "+103",
    "provider": "DraftKings",
    "spread": "OKC -1.5",
    "spreadOpen": "OKC -1.5",
-   "total": "224.5",
+   "total": "226.5",
    "totalOpen": "226.5"
   },
   "pick": "Pass",
-  "reason": "OKC about 54% no-vig at -130; no edge worth a pick.",
+  "reason": "OKC about 53% no-vig at -125; no edge worth a pick.",
   "risks": [],
   "slug": "nba",
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-11T04:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Moda Center, Portland"
  },
  "nba-401909966": {
@@ -1564,7 +1556,7 @@
   "stars": 1,
   "start": "2026-11-12T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Gainbridge Fieldhouse, Indianapolis"
  },
  "nba-401909967": {
@@ -1599,7 +1591,7 @@
   "stars": 1,
   "start": "2026-11-12T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Madison Square Garden, New York"
  },
  "nba-401909968": {
@@ -1634,7 +1626,7 @@
   "stars": 1,
   "start": "2026-11-12T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Scotiabank Arena, Toronto"
  },
  "nba-401909969": {
@@ -1669,7 +1661,7 @@
   "stars": 1,
   "start": "2026-11-12T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "United Center, Chicago"
  },
  "nba-401909970": {
@@ -1704,7 +1696,7 @@
   "stars": 1,
   "start": "2026-11-12T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "FedExForum, Memphis"
  },
  "nba-401909971": {
@@ -1739,7 +1731,7 @@
   "stars": 1,
   "start": "2026-11-12T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Fiserv Forum, Milwaukee"
  },
  "nba-401909972": {
@@ -1774,7 +1766,7 @@
   "stars": 1,
   "start": "2026-11-12T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Smoothie King Center, New Orleans"
  },
  "nba-401909973": {
@@ -1809,7 +1801,7 @@
   "stars": 1,
   "start": "2026-11-12T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Delta Center, Salt Lake City"
  },
  "nba-401909974": {
@@ -1844,7 +1836,7 @@
   "stars": 1,
   "start": "2026-11-12T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Toyota Center (Houston), Houston"
  },
  "nba-401909975": {
@@ -1879,7 +1871,7 @@
   "stars": 1,
   "start": "2026-11-12T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Moda Center, Portland"
  },
  "nba-401909976": {
@@ -1914,7 +1906,7 @@
   "stars": 1,
   "start": "2026-11-13T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Xfinity Mobile Arena, Philadelphia"
  },
  "nba-401909977": {
@@ -1949,7 +1941,7 @@
   "stars": 1,
   "start": "2026-11-13T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Capital One Arena, Washington"
  },
  "nba-401909978": {
@@ -1984,7 +1976,7 @@
   "stars": 1,
   "start": "2026-11-13T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Target Center, Minneapolis"
  },
  "nba-401909979": {
@@ -2019,7 +2011,7 @@
   "stars": 1,
   "start": "2026-11-13T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Mortgage Matchup Center, Phoenix"
  },
  "ncaaf-401862824": {
@@ -2032,7 +2024,7 @@
    "short": "Memphis",
    "teamId": "235"
   },
-  "confidence": 60,
+  "confidence": 57,
   "espnId": "401862824",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -2051,37 +2043,39 @@
   "id": "ncaaf-401862824",
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401862824",
-  "market": "Moneyline",
+  "market": null,
   "news": [
-   "Paul Finebaum shares why he likes the 24-team College Football Playoff",
-   "Sources: Oregon State QB Braden Atkinson re-signs for 2027",
-   "Heisman race after Week 10: CJ Carr, new contenders emerge"
+   "Mizzou's Drinkwitz questions need for conferences with 24-team CFP 1 check-h reaction.",
+   "Missouri's Eli Drinkwitz questions need for conferences in 24-team CFP era",
+   "Florida cancels Notre Dame series; Irish then add games vs. Washington"
   ],
   "odds": {
-   "mlAway": "-192",
+   "mlAway": "-180",
    "mlAwayOpen": "-230",
-   "mlHome": "+160",
+   "mlHome": "+150",
    "mlHomeOpen": "+190",
    "provider": "DraftKings",
-   "spread": "MEM -4",
+   "spread": "MEM -3.5",
    "spreadOpen": "MEM -6",
-   "total": "50.5",
+   "total": "49.5",
    "totalOpen": "49.5"
   },
-  "pick": "MEM ML (-192)",
-  "reason": "MEM are about 63% no-vig at -192; ESPN's model has 63%.",
-  "risks": [],
-  "side": "away",
+  "pick": "Pass",
+  "reason": "MEM about 62% no-vig at -180; no edge worth a pick.",
+  "risks": [
+   "line drifted away (-230 → -180)"
+  ],
+  "side": null,
   "slug": "college-football",
   "sport": "ncaaf",
-  "stars": 2,
+  "stars": 1,
   "start": "2026-11-13T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Raymond James Stadium, Tampa"
  },
  "ncaaf-401866458": {
-  "_lastPick": "WMU ML (-625)",
+  "_lastPick": "WMU ML (-700)",
   "away": {
    "abbr": "WMU",
    "form": "WLWWW",
@@ -2111,23 +2105,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401866458",
   "market": "Moneyline",
   "news": [
-   "Paul Finebaum shares why he likes the 24-team College Football Playoff",
-   "Sources: Oregon State QB Braden Atkinson re-signs for 2027",
-   "Heisman race after Week 10: CJ Carr, new contenders emerge"
+   "Mizzou's Drinkwitz questions need for conferences with 24-team CFP 1 check-h reaction.",
+   "Missouri's Eli Drinkwitz questions need for conferences in 24-team CFP era",
+   "Florida cancels Notre Dame series; Irish then add games vs. Washington"
   ],
   "odds": {
-   "mlAway": "-625",
+   "mlAway": "-700",
    "mlAwayOpen": "-600",
-   "mlHome": "+455",
+   "mlHome": "+500",
    "mlHomeOpen": "+440",
    "provider": "DraftKings",
-   "spread": "WMU -14",
+   "spread": "WMU -15.5",
    "spreadOpen": "WMU -13.5",
    "total": "49.5",
    "totalOpen": "47.5"
   },
-  "pick": "WMU ML (-625)",
-  "reason": "WMU are about 83% no-vig at -625; ESPN's model has 90%. For: ESPN model 90% vs market 83%; form WLWWW vs LLLLL. Capped at 3★: prices of -400 or shorter pay too little for 4-5★.",
+  "pick": "WMU ML (-700)",
+  "reason": "WMU are about 84% no-vig at -700; ESPN's model has 90%. For: ESPN model 90% vs market 84%; form WLWWW vs LLLLL. Capped at 3★: prices of -400 or shorter pay too little for 4-5★.",
   "risks": [],
   "side": "away",
   "slug": "college-football",
@@ -2135,7 +2129,7 @@
   "stars": 3,
   "start": "2026-11-11T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "InfoCision Stadium, Akron"
  },
  "ncaaf-401866459": {
@@ -2169,9 +2163,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401866459",
   "market": "Moneyline",
   "news": [
-   "Paul Finebaum shares why he likes the 24-team College Football Playoff",
-   "Sources: Oregon State QB Braden Atkinson re-signs for 2027",
-   "Heisman race after Week 10: CJ Carr, new contenders emerge"
+   "Mizzou's Drinkwitz questions need for conferences with 24-team CFP 1 check-h reaction.",
+   "Missouri's Eli Drinkwitz questions need for conferences in 24-team CFP era",
+   "Florida cancels Notre Dame series; Irish then add games vs. Washington"
   ],
   "odds": {
    "mlAway": "+170",
@@ -2179,7 +2173,7 @@
    "mlHome": "-205",
    "mlHomeOpen": "-205",
    "provider": "DraftKings",
-   "spread": "BGSU -5.5",
+   "spread": "BGSU -4.5",
    "spreadOpen": "BGSU -5.5",
    "total": "43.5",
    "totalOpen": "44.5"
@@ -2193,7 +2187,7 @@
   "stars": 3,
   "start": "2026-11-11T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Doyt L. Perry Stadium, Bowling Green"
  },
  "ncaaf-401866460": {
@@ -2205,7 +2199,7 @@
    "short": "Ohio",
    "teamId": "195"
   },
-  "confidence": 48,
+  "confidence": 47,
   "espnId": "401866460",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -2225,30 +2219,30 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401866460",
   "news": [
-   "Paul Finebaum shares why he likes the 24-team College Football Playoff",
-   "Sources: Oregon State QB Braden Atkinson re-signs for 2027",
-   "Heisman race after Week 10: CJ Carr, new contenders emerge"
+   "Mizzou's Drinkwitz questions need for conferences with 24-team CFP 1 check-h reaction.",
+   "Missouri's Eli Drinkwitz questions need for conferences in 24-team CFP era",
+   "Florida cancels Notre Dame series; Irish then add games vs. Washington"
   ],
   "odds": {
-   "mlAway": "-118",
+   "mlAway": "-115",
    "mlAwayOpen": "-102",
-   "mlHome": "-102",
+   "mlHome": "-105",
    "mlHomeOpen": "-118",
    "provider": "DraftKings",
    "spread": "OHIO -1.5",
    "spreadOpen": "M-OH -1.5",
-   "total": "46.5",
+   "total": "47.5",
    "totalOpen": "47.5"
   },
   "pick": "Pass",
-  "reason": "OHIO about 52% no-vig at -118; no edge worth a pick.",
+  "reason": "OHIO about 51% no-vig at -115; no edge worth a pick.",
   "risks": [],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-11T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Yager Stadium, Oxford"
  },
  "ncaaf-401866461": {
@@ -2280,9 +2274,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401866461",
   "news": [
-   "Paul Finebaum shares why he likes the 24-team College Football Playoff",
-   "Sources: Oregon State QB Braden Atkinson re-signs for 2027",
-   "Heisman race after Week 10: CJ Carr, new contenders emerge"
+   "Mizzou's Drinkwitz questions need for conferences with 24-team CFP 1 check-h reaction.",
+   "Missouri's Eli Drinkwitz questions need for conferences in 24-team CFP era",
+   "Florida cancels Notre Dame series; Irish then add games vs. Washington"
   ],
   "odds": {
    "mlAway": "-135",
@@ -2303,7 +2297,7 @@
   "stars": 1,
   "start": "2026-11-12T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Scheumann Stadium, Muncie"
  },
  "ncaaf-401866462": {
@@ -2337,9 +2331,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401866462",
   "market": "Moneyline",
   "news": [
-   "Paul Finebaum shares why he likes the 24-team College Football Playoff",
-   "Sources: Oregon State QB Braden Atkinson re-signs for 2027",
-   "Heisman race after Week 10: CJ Carr, new contenders emerge"
+   "Mizzou's Drinkwitz questions need for conferences with 24-team CFP 1 check-h reaction.",
+   "Missouri's Eli Drinkwitz questions need for conferences in 24-team CFP era",
+   "Florida cancels Notre Dame series; Irish then add games vs. Washington"
   ],
   "odds": {
    "mlAway": "+675",
@@ -2361,11 +2355,11 @@
   "stars": 3,
   "start": "2026-11-12T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Kelly/Shorts Stadium, Mount Pleasant"
  },
  "ncaaf-401866463": {
-  "_lastPick": "TOL ML (-625)",
+  "_lastPick": "TOL ML (-600)",
   "away": {
    "abbr": "MASS",
    "form": "WLLLL",
@@ -2395,23 +2389,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401866463",
   "market": "Moneyline",
   "news": [
-   "Paul Finebaum shares why he likes the 24-team College Football Playoff",
-   "Sources: Oregon State QB Braden Atkinson re-signs for 2027",
-   "Heisman race after Week 10: CJ Carr, new contenders emerge"
+   "Mizzou's Drinkwitz questions need for conferences with 24-team CFP 1 check-h reaction.",
+   "Missouri's Eli Drinkwitz questions need for conferences in 24-team CFP era",
+   "Florida cancels Notre Dame series; Irish then add games vs. Washington"
   ],
   "odds": {
-   "mlAway": "+455",
+   "mlAway": "+440",
    "mlAwayOpen": "+425",
-   "mlHome": "-625",
+   "mlHome": "-600",
    "mlHomeOpen": "-575",
    "provider": "DraftKings",
    "spread": "TOL -14.5",
    "spreadOpen": "TOL -14",
-   "total": "52.5",
+   "total": "51.5",
    "totalOpen": "53.5"
   },
-  "pick": "TOL ML (-625)",
-  "reason": "TOL are about 83% no-vig at -625; ESPN's model has 84%. For: form WWWLW vs WLLLL.",
+  "pick": "TOL ML (-600)",
+  "reason": "TOL are about 82% no-vig at -600; ESPN's model has 84%. For: form WWWLW vs WLLLL.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -2419,7 +2413,7 @@
   "stars": 3,
   "start": "2026-11-12T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Glass Bowl, Toledo"
  },
  "ncaaf-401869969": {
@@ -2453,9 +2447,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869969",
   "market": "Moneyline",
   "news": [
-   "Paul Finebaum shares why he likes the 24-team College Football Playoff",
-   "Sources: Oregon State QB Braden Atkinson re-signs for 2027",
-   "Heisman race after Week 10: CJ Carr, new contenders emerge"
+   "Mizzou's Drinkwitz questions need for conferences with 24-team CFP 1 check-h reaction.",
+   "Missouri's Eli Drinkwitz questions need for conferences in 24-team CFP era",
+   "Florida cancels Notre Dame series; Irish then add games vs. Washington"
   ],
   "odds": {
    "mlAway": "-410",
@@ -2463,7 +2457,7 @@
    "mlHome": "+320",
    "mlHomeOpen": "+320",
    "provider": "DraftKings",
-   "spread": "UL -11.5",
+   "spread": "UL -10.5",
    "spreadOpen": "UL -10.5",
    "total": "49.5",
    "totalOpen": "48.5"
@@ -2477,7 +2471,7 @@
   "stars": 3,
   "start": "2026-11-13T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Malone Stadium, Monroe"
  },
  "nfl-401873042": {
@@ -2934,7 +2928,7 @@
    "abbr": "WSH",
    "form": "LWLTL",
    "injuries": [
-    "Treylon Burks (WR) – Out, Foot"
+    "Lucas Patrick (G) – Doubtful, Concussion"
    ],
    "name": "Washington Commanders",
    "record": "2-5-1",
@@ -2962,11 +2956,11 @@
   "injuriesRaw": {
    "away": [
     {
-     "detail": "Foot",
-     "player": "Treylon Burks",
-     "pos": "WR",
+     "detail": "Concussion",
+     "player": "Lucas Patrick",
+     "pos": "G",
      "stale": false,
-     "status": "Out"
+     "status": "Doubtful"
     }
    ],
    "home": []
@@ -2974,9 +2968,9 @@
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873052",
   "news": [
-   "2026 NFL trade deadline updates: Jordan Davis, Andre Cisco on the move",
-   "NFL Week 10 betting odds: Lines and totals for every game",
-   "NFL betting favorites win 14 of 15 games, fuel best week for bettors"
+   "Fantasy football flex and superflex rankings for Week 10",
+   "Dolphins put QB Malik Willis on IR with groin injury",
+   "Orlovsky perplexed by the Colts not trading Jonathan Taylor"
   ],
   "odds": {
    "mlAway": "+110",
@@ -2997,7 +2991,7 @@
   "stars": 1,
   "start": "2026-11-13T01:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "MetLife Stadium, East Rutherford"
  },
  "soccer-401861145": {
@@ -3025,9 +3019,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861145",
   "news": [
-   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-   "Sunderland's Xhaka (calf) to miss Switzerland's Nations League games",
-   "Jordan Pickford is England No. 1 despite James Trafford's rise - Thomas Tuchel"
+   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
+   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
   ],
   "odds": {
    "mlAway": "-125",
@@ -3049,7 +3043,7 @@
   "stars": 1,
   "start": "2026-11-12T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Göztepe Gürsel Aksel Stadi, Izmir"
  },
  "soccer-401861146": {
@@ -3061,7 +3055,7 @@
    "short": "Cyprus",
    "teamId": "445"
   },
-  "confidence": 38,
+  "confidence": 37,
   "espnId": "401861146",
   "espnLeague": "uefa.nations",
   "espnSport": "soccer",
@@ -3077,31 +3071,31 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861146",
   "news": [
-   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-   "Sunderland's Xhaka (calf) to miss Switzerland's Nations League games",
-   "Jordan Pickford is England No. 1 despite James Trafford's rise - Thomas Tuchel"
+   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
+   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
   ],
   "odds": {
-   "mlAway": "+205",
+   "mlAway": "+200",
    "mlAwayOpen": "+210",
    "mlDraw": "+220",
-   "mlHome": "+125",
+   "mlHome": "+130",
    "mlHomeOpen": "+115",
    "provider": "DraftKings",
-   "spread": "ARM +125",
+   "spread": "ARM +130",
    "spreadOpen": "ARM -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Armenia about 41% no-vig at +125; no edge worth a pick.",
+  "reason": "Armenia about 40% no-vig at +130; no edge worth a pick.",
   "risks": [],
   "slug": "uefa.nations",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-12T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Vazgen Sargsyan Republican Stadium, Yerevan"
  },
  "soccer-401861147": {
@@ -3129,9 +3123,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861147",
   "news": [
-   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-   "Sunderland's Xhaka (calf) to miss Switzerland's Nations League games",
-   "Jordan Pickford is England No. 1 despite James Trafford's rise - Thomas Tuchel"
+   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
+   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
   ],
   "odds": {
    "mlAway": "+310",
@@ -3153,7 +3147,7 @@
   "stars": 1,
   "start": "2026-11-12T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Air Albania Stadium, Tirana"
  },
  "soccer-401861148": {
@@ -3183,9 +3177,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861148",
   "market": "Moneyline",
   "news": [
-   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-   "Sunderland's Xhaka (calf) to miss Switzerland's Nations League games",
-   "Jordan Pickford is England No. 1 despite James Trafford's rise - Thomas Tuchel"
+   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
+   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
   ],
   "odds": {
    "mlAway": "-525",
@@ -3208,7 +3202,7 @@
   "stars": 3,
   "start": "2026-11-12T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Generali Arena, Prague"
  },
  "soccer-401861149": {
@@ -3243,7 +3237,7 @@
   "stars": 1,
   "start": "2026-11-12T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "San Marino Stadium, Serravalle"
  },
  "soccer-401861150": {
@@ -3273,9 +3267,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861150",
   "market": "Moneyline",
   "news": [
-   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-   "Sunderland's Xhaka (calf) to miss Switzerland's Nations League games",
-   "Jordan Pickford is England No. 1 despite James Trafford's rise - Thomas Tuchel"
+   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
+   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
   ],
   "odds": {
    "mlAway": "+900",
@@ -3298,7 +3292,7 @@
   "stars": 3,
   "start": "2026-11-12T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Wembley Stadium, London"
  },
  "soccer-401861151": {
@@ -3326,9 +3320,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861151",
   "news": [
-   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-   "Sunderland's Xhaka (calf) to miss Switzerland's Nations League games",
-   "Jordan Pickford is England No. 1 despite James Trafford's rise - Thomas Tuchel"
+   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
+   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
   ],
   "odds": {
    "mlAway": "-140",
@@ -3350,7 +3344,7 @@
   "stars": 1,
   "start": "2026-11-12T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "San Siro, Milano"
  },
  "soccer-401861152": {
@@ -3380,9 +3374,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861152",
   "market": "Moneyline",
   "news": [
-   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-   "Sunderland's Xhaka (calf) to miss Switzerland's Nations League games",
-   "Jordan Pickford is England No. 1 despite James Trafford's rise - Thomas Tuchel"
+   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
+   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
   ],
   "odds": {
    "mlAway": "+800",
@@ -3405,8 +3399,542 @@
   "stars": 3,
   "start": "2026-11-12T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Podgorica City Stadium, Podgorica"
+ },
+ "soccer-401861153": {
+  "_lastPick": "Azerbaijan ML (-390)",
+  "away": {
+   "abbr": "AZE",
+   "form": "WDDW",
+   "name": "Azerbaijan",
+   "record": "1-2-0",
+   "short": "Azerbaijan",
+   "teamId": "581"
+  },
+  "confidence": 70,
+  "espnId": "401861153",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "LIE",
+   "form": "LDLL",
+   "name": "Liechtenstein",
+   "record": "0-1-1",
+   "short": "Liechtenstein",
+   "teamId": "589"
+  },
+  "id": "soccer-401861153",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861153",
+  "market": "Moneyline",
+  "news": [
+   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
+   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+  ],
+  "odds": {
+   "mlAway": "-390",
+   "mlAwayOpen": "-370",
+   "mlDraw": "+400",
+   "mlHome": "+1000",
+   "mlHomeOpen": "+900",
+   "provider": "DraftKings",
+   "spread": "AZE -390",
+   "spreadOpen": "AZE -1.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Azerbaijan ML (-390)",
+  "reason": "Azerbaijan are about 73% no-vig at -390.",
+  "risks": [],
+  "side": "away",
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 2,
+  "start": "2026-11-13T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-10T21:17:02Z",
+  "venue": "Rheinpark Stadion, Vaduz"
+ },
+ "soccer-401861154": {
+  "away": {
+   "abbr": "EST",
+   "form": "DWDD",
+   "name": "Estonia",
+   "record": "1-3-0",
+   "short": "Estonia",
+   "teamId": "444"
+  },
+  "confidence": 41,
+  "espnId": "401861154",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "LUX",
+   "form": "LLLW",
+   "name": "Luxembourg",
+   "record": "1-0-3",
+   "short": "Luxembourg",
+   "teamId": "582"
+  },
+  "id": "soccer-401861154",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861154",
+  "news": [
+   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
+   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+  ],
+  "odds": {
+   "mlAway": "+255",
+   "mlAwayOpen": "+250",
+   "mlDraw": "+215",
+   "mlHome": "+110",
+   "mlHomeOpen": "+105",
+   "provider": "DraftKings",
+   "spread": "LUX +110",
+   "spreadOpen": "LUX -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Luxembourg about 44% no-vig at +110; no edge worth a pick.",
+  "risks": [],
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-13T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-10T21:17:02Z",
+  "venue": "Stade de Luxembourg, Luxembourg City"
+ },
+ "soccer-401861155": {
+  "away": {
+   "abbr": "GIB",
+   "form": "WDDD",
+   "name": "Gibraltar",
+   "record": "0-2-0",
+   "short": "Gibraltar",
+   "teamId": "16721"
+  },
+  "confidence": 47,
+  "espnId": "401861155",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "AND",
+   "form": "LLDL",
+   "name": "Andorra",
+   "record": "0-1-2",
+   "short": "Andorra",
+   "teamId": "587"
+  },
+  "id": "soccer-401861155",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861155",
+  "news": [
+   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
+   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+  ],
+  "odds": {
+   "mlAway": "+390",
+   "mlAwayOpen": "+400",
+   "mlDraw": "+200",
+   "mlHome": "-120",
+   "mlHomeOpen": "-125",
+   "provider": "DraftKings",
+   "spread": "AND -120",
+   "spreadOpen": "AND -0.5",
+   "total": "1.5",
+   "totalOpen": "1.5"
+  },
+  "pick": "Pass",
+  "reason": "Andorra about 50% no-vig at -120; no edge worth a pick.",
+  "risks": [],
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-13T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-10T21:17:02Z",
+  "venue": "Estadi de la FAF d'Encamp, Encamp"
+ },
+ "soccer-401861156": {
+  "away": {
+   "abbr": "SUI",
+   "form": "WWWW",
+   "name": "Switzerland",
+   "record": "4-0-0",
+   "short": "Switzerland",
+   "teamId": "475"
+  },
+  "confidence": 54,
+  "espnId": "401861156",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "SVN",
+   "form": "WLWD",
+   "name": "Slovenia",
+   "record": "2-1-1",
+   "short": "Slovenia",
+   "teamId": "472"
+  },
+  "id": "soccer-401861156",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861156",
+  "news": [
+   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
+   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+  ],
+  "odds": {
+   "mlAway": "-160",
+   "mlAwayOpen": "-165",
+   "mlDraw": "+260",
+   "mlHome": "+425",
+   "mlHomeOpen": "+400",
+   "provider": "DraftKings",
+   "spread": "SUI -160",
+   "spreadOpen": "SUI -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Switzerland about 57% no-vig at -160; no edge worth a pick.",
+  "risks": [],
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-13T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-10T21:17:02Z",
+  "venue": "Ljudski vrt, Maribor"
+ },
+ "soccer-401861157": {
+  "away": {
+   "abbr": "ISL",
+   "form": "DWWD",
+   "name": "Iceland",
+   "record": "2-2-0",
+   "short": "Iceland",
+   "teamId": "470"
+  },
+  "confidence": 48,
+  "espnId": "401861157",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "BUL",
+   "form": "WLDL",
+   "name": "Bulgaria",
+   "record": "1-1-2",
+   "short": "Bulgaria",
+   "teamId": "462"
+  },
+  "id": "soccer-401861157",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861157",
+  "news": [
+   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
+   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+  ],
+  "odds": {
+   "mlAway": "-125",
+   "mlAwayOpen": "-120",
+   "mlDraw": "+245",
+   "mlHome": "+320",
+   "mlHomeOpen": "+300",
+   "provider": "DraftKings",
+   "spread": "ISL -125",
+   "spreadOpen": "ISL -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Iceland about 51% no-vig at -125; no edge worth a pick.",
+  "risks": [],
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-13T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-10T21:17:02Z",
+  "venue": "Hristo Botev Stadium, Plovdiv, Plovdiv"
+ },
+ "soccer-401861158": {
+  "_lastPick": "Germany ML (-370)",
+  "away": {
+   "abbr": "GER",
+   "form": "DWLD",
+   "name": "Germany",
+   "record": "1-2-1",
+   "short": "Germany",
+   "teamId": "481"
+  },
+  "confidence": 70,
+  "espnId": "401861158",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "SRB",
+   "form": "LLLL",
+   "name": "Serbia",
+   "record": "0-0-4",
+   "short": "Serbia",
+   "teamId": "6757"
+  },
+  "id": "soccer-401861158",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861158",
+  "market": "Moneyline",
+  "news": [
+   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
+   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+  ],
+  "odds": {
+   "mlAway": "-370",
+   "mlAwayOpen": "-370",
+   "mlDraw": "+475",
+   "mlHome": "+750",
+   "mlHomeOpen": "+650",
+   "provider": "DraftKings",
+   "spread": "GER -370",
+   "spreadOpen": "GER -1.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Germany ML (-370)",
+  "reason": "Germany are about 73% no-vig at -370.",
+  "risks": [],
+  "side": "away",
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 2,
+  "start": "2026-11-13T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-10T21:17:02Z",
+  "venue": "Rajko Mitic Stadium, Belgrade"
+ },
+ "soccer-401861159": {
+  "away": {
+   "abbr": "GRE",
+   "form": "DDWW",
+   "name": "Greece",
+   "record": "2-2-0",
+   "short": "Greece",
+   "teamId": "455"
+  },
+  "confidence": 57,
+  "espnId": "401861159",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "NED",
+   "form": "WDWD",
+   "name": "Netherlands",
+   "record": "2-2-0",
+   "short": "Netherlands",
+   "teamId": "449"
+  },
+  "id": "soccer-401861159",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861159",
+  "news": [
+   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
+   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+  ],
+  "odds": {
+   "mlAway": "+450",
+   "mlAwayOpen": "+500",
+   "mlDraw": "+340",
+   "mlHome": "-205",
+   "mlHomeOpen": "-260",
+   "provider": "DraftKings",
+   "spread": "NED -205",
+   "spreadOpen": "NED -1.5",
+   "total": "2.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Pass",
+  "reason": "Netherlands about 62% no-vig at -205; no edge worth a pick.",
+  "risks": [
+   "line drifted away (-260 → -205)"
+  ],
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-13T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-10T21:17:02Z",
+  "venue": "Johan Cruijff Arena, Amsterdam"
+ },
+ "soccer-401861160": {
+  "_lastPick": "Slovakia ML (-290)",
+  "away": {
+   "abbr": "FRO",
+   "form": "DDDD",
+   "name": "Faroe Islands",
+   "record": "0-4-0",
+   "short": "Faroe Islands",
+   "teamId": "447"
+  },
+  "confidence": 67,
+  "espnId": "401861160",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "SVK",
+   "form": "WDWW",
+   "name": "Slovakia",
+   "record": "3-1-0",
+   "short": "Slovakia",
+   "teamId": "468"
+  },
+  "id": "soccer-401861160",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861160",
+  "market": "Moneyline",
+  "news": [
+   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
+   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+  ],
+  "odds": {
+   "mlAway": "+750",
+   "mlAwayOpen": "+700",
+   "mlDraw": "+360",
+   "mlHome": "-290",
+   "mlHomeOpen": "-300",
+   "provider": "DraftKings",
+   "spread": "SVK -290",
+   "spreadOpen": "SVK -1.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Slovakia ML (-290)",
+  "reason": "Slovakia are about 69% no-vig at -290. For: form WDWW vs DDDD.",
+  "risks": [],
+  "side": "home",
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 3,
+  "start": "2026-11-13T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-10T21:17:02Z",
+  "venue": "Košická futbalová aréna (KFA), Kosice"
+ },
+ "soccer-401861161": {
+  "_lastPick": "Scotland ML (-550)",
+  "away": {
+   "abbr": "MKD",
+   "form": "LLLL",
+   "name": "North Macedonia",
+   "record": "0-0-4",
+   "short": "North Macedonia",
+   "teamId": "463"
+  },
+  "confidence": 76,
+  "espnId": "401861161",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "SCO",
+   "form": "LWLD",
+   "name": "Scotland",
+   "record": "1-1-2",
+   "short": "Scotland",
+   "teamId": "580"
+  },
+  "id": "soccer-401861161",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861161",
+  "market": "Moneyline",
+  "news": [
+   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
+   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+  ],
+  "odds": {
+   "mlAway": "+1200",
+   "mlAwayOpen": "+1000",
+   "mlDraw": "+550",
+   "mlHome": "-550",
+   "mlHomeOpen": "-500",
+   "provider": "DraftKings",
+   "spread": "SCO -550",
+   "spreadOpen": "SCO -1.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Scotland ML (-550)",
+  "reason": "Scotland are about 79% no-vig at -550.",
+  "risks": [],
+  "side": "home",
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 2,
+  "start": "2026-11-13T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-10T21:17:02Z",
+  "venue": "Hampden Park, Glasgow"
+ },
+ "soccer-401861162": {
+  "away": {
+   "abbr": "KAZ",
+   "form": "DLLD",
+   "name": "Kazakhstan",
+   "record": "0-2-2",
+   "short": "Kazakhstan",
+   "teamId": "2619"
+  },
+  "confidence": 32,
+  "espnId": "401861162",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "MDA",
+   "form": "LWDL",
+   "name": "Moldova",
+   "record": "1-1-2",
+   "short": "Moldova",
+   "teamId": "483"
+  },
+  "id": "soccer-401861162",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861162",
+  "news": [
+   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
+   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+  ],
+  "odds": {
+   "mlAway": "+180",
+   "mlAwayOpen": "+180",
+   "mlDraw": "+190",
+   "mlHome": "+160",
+   "mlHomeOpen": "+160",
+   "provider": "DraftKings",
+   "spread": "MDA +160",
+   "spreadOpen": "MDA -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Moldova about 35% no-vig at +160; no edge worth a pick.",
+  "risks": [],
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-13T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-10T21:17:02Z",
+  "venue": "Stadionul Zimbru, Chisinau"
  },
  "soccer-401906458": {
   "away": {
@@ -3438,7 +3966,7 @@
   "stars": 1,
   "start": "2026-11-12T06:10Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Go Media Stadium, Auckland"
  },
  "soccer-401916338": {
@@ -3471,7 +3999,7 @@
   "stars": 1,
   "start": "2026-11-13T12:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Singapore National Stadium, Singapore"
  },
  "soccer-401919978": {
@@ -3523,11 +4051,11 @@
   "stars": 1,
   "start": "2026-11-13T14:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Abdullah bin Khalifa Stadium, Ar-Rayyan"
  },
  "soccer-401930244": {
-  "_lastPick": "Vietnam ML (-700)",
+  "_lastPick": "Vietnam ML (-650)",
   "away": {
    "abbr": "TPE",
    "name": "Chinese Taipei",
@@ -3555,19 +4083,19 @@
    "Socceroos name seven uncapped players to face Qatar, Jordan"
   ],
   "odds": {
-   "mlAway": "+1200",
+   "mlAway": "+1300",
    "mlAwayOpen": "+1200",
-   "mlDraw": "+800",
-   "mlHome": "-700",
+   "mlDraw": "+750",
+   "mlHome": "-650",
    "mlHomeOpen": "-750",
    "provider": "DraftKings",
-   "spread": "VIE -700",
+   "spread": "VIE -650",
    "spreadOpen": "VIE -2.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
-  "pick": "Vietnam ML (-700)",
-  "reason": "Vietnam are about 82% no-vig at -700.",
+  "pick": "Vietnam ML (-650)",
+  "reason": "Vietnam are about 82% no-vig at -650.",
   "risks": [],
   "side": "home",
   "slug": "fifa.friendly",
@@ -3575,7 +4103,7 @@
   "stars": 2,
   "start": "2026-11-11T12:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Thien Truong Stadium, Nam Dinh"
  },
  "soccer-401930962": {
@@ -3608,7 +4136,7 @@
   "stars": 1,
   "start": "2026-11-12T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Pakhtakor Markaziy Stadium, Tashkent"
  },
  "soccer-401931296": {
@@ -3641,7 +4169,7 @@
   "stars": 1,
   "start": "2026-11-12T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Ta' Qali National Stadium, Attard"
  },
  "soccer-401931476": {
@@ -3674,7 +4202,7 @@
   "stars": 1,
   "start": "2026-11-13T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Jassim Bin Hamad Stadium, Doha"
  },
  "soccer-401931957": {
@@ -3707,7 +4235,7 @@
   "stars": 1,
   "start": "2026-11-13T14:10Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Mohammed bin Zayed Stadium, Abu Dhabi"
  },
  "soccer-401931978": {
@@ -3740,7 +4268,7 @@
   "stars": 1,
   "start": "2026-11-13T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Al-Sadaqua Walsalam Stadium, Jaber Al-Ahmad International Stadium"
  },
  "soccer-401933115": {
@@ -3773,7 +4301,7 @@
   "stars": 1,
   "start": "2026-11-12T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "S. Darius and S. Gireno Stadium, Kaunas"
  },
  "soccer-401933636": {
@@ -3806,7 +4334,7 @@
   "stars": 1,
   "start": "2026-11-13T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T15:09:31Z",
+  "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Basra International Stadium, Basra"
  }
 }
