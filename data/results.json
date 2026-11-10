@@ -282,6 +282,138 @@
   "stars": 2,
   "start": "2026-11-08T23:00:00Z"
  },
+ "nba-401909953": {
+  "awayScore": 112.0,
+  "confidence": 72,
+  "espnWinProb": {
+   "away": 75.9,
+   "home": 24.1
+  },
+  "final": "CLE 112 – CHA 124",
+  "gradedAt": "2026-11-10T06:28:08Z",
+  "homeScore": 124.0,
+  "league": "NBA",
+  "market": "Moneyline",
+  "matchup": "CLE @ CHA",
+  "note": "Final CLE 112 – CHA 124; the pick lost.",
+  "oddsAtPick": "-336",
+  "outcome": "loss",
+  "pick": "CLE ML (-336)",
+  "reason": "CLE are about 74% no-vig at -336; ESPN's model has 76%.",
+  "sport": "nba",
+  "stars": 2,
+  "start": "2026-11-10T00:00Z"
+ },
+ "nba-401909954": {
+  "awayScore": 111.0,
+  "confidence": 74,
+  "espnWinProb": {
+   "away": 22.5,
+   "home": 77.5
+  },
+  "final": "WSH 111 – DET 122",
+  "gradedAt": "2026-11-10T06:28:08Z",
+  "homeScore": 122.0,
+  "league": "NBA",
+  "market": "Moneyline",
+  "matchup": "WSH @ DET",
+  "note": "Final WSH 111 – DET 122; the pick won.",
+  "oddsAtPick": "-411",
+  "outcome": "win",
+  "pick": "DET ML (-411)",
+  "reason": "DET are about 77% no-vig at -411; ESPN's model has 78%.",
+  "sport": "nba",
+  "stars": 2,
+  "start": "2026-11-10T00:00Z"
+ },
+ "nba-401909956": {
+  "awayScore": 122.0,
+  "confidence": 64,
+  "espnWinProb": {
+   "away": 26.5,
+   "home": 73.5
+  },
+  "final": "IND 122 – DAL 125",
+  "gradedAt": "2026-11-10T06:28:08Z",
+  "homeScore": 125.0,
+  "league": "NBA",
+  "market": "Moneyline",
+  "matchup": "IND @ DAL",
+  "note": "Final IND 122 – DAL 125; the pick won.",
+  "oddsAtPick": "-191",
+  "outcome": "win",
+  "pick": "DAL ML (-191)",
+  "reason": "DAL are about 63% no-vig at -191; ESPN's model has 74%. For: ESPN model 74% vs market 63%.",
+  "sport": "nba",
+  "stars": 2,
+  "start": "2026-11-10T01:00Z"
+ },
+ "nba-401909957": {
+  "awayScore": 100.0,
+  "confidence": 64,
+  "espnWinProb": {
+   "away": 21.8,
+   "home": 78.2
+  },
+  "final": "DEN 100 – HOU 110",
+  "gradedAt": "2026-11-10T06:28:08Z",
+  "homeScore": 110.0,
+  "league": "NBA",
+  "market": "Moneyline",
+  "matchup": "DEN @ HOU",
+  "note": "Final DEN 100 – HOU 110; the pick won.",
+  "oddsAtPick": "-173",
+  "outcome": "win",
+  "pick": "HOU ML (-173)",
+  "reason": "HOU are about 61% no-vig at -173; ESPN's model has 78%. For: ESPN model 78% vs market 61%.",
+  "sport": "nba",
+  "stars": 2,
+  "start": "2026-11-10T01:30Z"
+ },
+ "nba-401909958": {
+  "awayScore": 122.0,
+  "confidence": 74,
+  "espnWinProb": {
+   "away": 75.7,
+   "home": 24.3
+  },
+  "final": "SA 122 – PHX 96",
+  "gradedAt": "2026-11-10T06:28:08Z",
+  "homeScore": 96.0,
+  "league": "NBA",
+  "market": "Moneyline",
+  "matchup": "SA @ PHX",
+  "note": "Final SA 122 – PHX 96; the pick won.",
+  "oddsAtPick": "-372",
+  "outcome": "win",
+  "pick": "SA ML (-372)",
+  "reason": "SA are about 76% no-vig at -372; ESPN's model has 76%. For: line moved toward SA (-243 → -372); form WWWWW vs WWLLL. Capped at 2★: NBA capped by lessons.",
+  "sport": "nba",
+  "stars": 2,
+  "start": "2026-11-10T02:00Z"
+ },
+ "nba-401909959": {
+  "awayScore": 87.0,
+  "confidence": 74,
+  "espnWinProb": {
+   "away": 29.4,
+   "home": 70.6
+  },
+  "final": "NO 87 – GS 138",
+  "gradedAt": "2026-11-10T06:28:08Z",
+  "homeScore": 138.0,
+  "league": "NBA",
+  "market": "Moneyline",
+  "matchup": "NO @ GS",
+  "note": "Final NO 87 – GS 138; the pick won.",
+  "oddsAtPick": "-569",
+  "outcome": "win",
+  "pick": "GS ML (-569)",
+  "reason": "GS are about 82% no-vig at -569; ESPN's model has 71%. For: line moved toward GS (-378 → -569).",
+  "sport": "nba",
+  "stars": 2,
+  "start": "2026-11-10T03:00Z"
+ },
  "ncaaf-401856727": {
   "confidence": 79,
   "final": "TA&M 20 – ALA 31",
@@ -1750,6 +1882,28 @@
   "sport": "nfl",
   "stars": 2,
   "start": "2026-11-09T01:20:00Z"
+ },
+ "nfl-401873051": {
+  "awayScore": 23.0,
+  "confidence": 63,
+  "espnWinProb": {
+   "away": 65.6,
+   "home": 34.1
+  },
+  "final": "BUF 23 – MIN 6",
+  "gradedAt": "2026-11-10T06:28:08Z",
+  "homeScore": 6.0,
+  "league": "NFL",
+  "market": "Moneyline",
+  "matchup": "BUF @ MIN",
+  "note": "Final BUF 23 – MIN 6; the pick won.",
+  "oddsAtPick": "-192",
+  "outcome": "win",
+  "pick": "BUF ML (-192)",
+  "reason": "BUF are about 63% no-vig at -192; ESPN's model has 66%. For: line moved toward BUF (-155 → -192); MIN QB Kyler Murray out.",
+  "sport": "nfl",
+  "stars": 2,
+  "start": "2026-11-10T01:15Z"
  },
  "soccer-401874754": {
   "confidence": 65,

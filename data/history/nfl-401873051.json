@@ -1,0 +1,138 @@
+{
+ "id": "nfl-401873051",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-10T01:15Z",
+ "home": {
+  "name": "Minnesota Vikings",
+  "abbr": "MIN",
+  "teamId": "16",
+  "score": 6.0
+ },
+ "away": {
+  "name": "Buffalo Bills",
+  "abbr": "BUF",
+  "teamId": "2",
+  "score": 23.0
+ },
+ "odds": {
+  "mlAway": "-192",
+  "mlAwayOpen": "-155",
+  "mlHome": "+160",
+  "mlHomeOpen": "+130",
+  "provider": "DraftKings",
+  "spread": "BUF -3.5",
+  "spreadOpen": "BUF -3",
+  "total": "45.5",
+  "totalOpen": "48.5"
+ },
+ "espnWinProb": {
+  "away": 65.6,
+  "home": 34.1
+ },
+ "teams": {
+  "away": {
+   "abbr": "BUF",
+   "stats": {
+    "firstDowns": "22",
+    "firstDownsPassing": "14",
+    "firstDownsRushing": "8",
+    "firstDownsPenalty": "0",
+    "thirdDownEff": "7-18",
+    "fourthDownEff": "1-1",
+    "totalOffensivePlays": "79",
+    "totalYards": "339",
+    "yardsPerPlay": "4.3",
+    "totalDrives": "13",
+    "netPassingYards": "205",
+    "completionAttempts": "21/31",
+    "yardsPerPass": "5.9",
+    "interceptions": "1",
+    "sacksYardsLost": "4-29",
+    "rushingYards": "134",
+    "rushingAttempts": "44",
+    "yardsPerRushAttempt": "3.0",
+    "redZoneAttempts": "1-3",
+    "totalPenaltiesYards": "8-62",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "42:32"
+   }
+  },
+  "home": {
+   "abbr": "MIN",
+   "stats": {
+    "firstDowns": "9",
+    "firstDownsPassing": "6",
+    "firstDownsRushing": "1",
+    "firstDownsPenalty": "2",
+    "thirdDownEff": "0-8",
+    "fourthDownEff": "0-2",
+    "totalOffensivePlays": "46",
+    "totalYards": "178",
+    "yardsPerPlay": "3.9",
+    "totalDrives": "12",
+    "netPassingYards": "127",
+    "completionAttempts": "14/32",
+    "yardsPerPass": "3.7",
+    "interceptions": "2",
+    "sacksYardsLost": "2-12",
+    "rushingYards": "51",
+    "rushingAttempts": "12",
+    "yardsPerRushAttempt": "4.3",
+    "redZoneAttempts": "0-1",
+    "totalPenaltiesYards": "4-20",
+    "turnovers": "3",
+    "fumblesLost": "1",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "17:28"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "1:57",
+   "team": "BUF",
+   "text": "Tyler Bass 39 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "4:02",
+   "team": "MIN",
+   "text": "Will Reichard 43 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "0:44",
+   "team": "BUF",
+   "text": "Keleki Latu 25 Yd pass from Josh Allen (Tyler Bass Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:05",
+   "team": "MIN",
+   "text": "Will Reichard 53 Yd Field Goal "
+  },
+  {
+   "period": 3,
+   "clock": "6:03",
+   "team": "BUF",
+   "text": "Tyler Bass 25 Yd Field Goal "
+  },
+  {
+   "period": 4,
+   "clock": "6:17",
+   "team": "BUF",
+   "text": "James Cook III 5 Yd Rush (Tyler Bass Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "4:40",
+   "team": "BUF",
+   "text": "Tyler Bass 52 Yd Field Goal"
+  }
+ ]
+}
