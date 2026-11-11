@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401866458",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-11T00:00Z",
+ "home": {
+  "name": "Akron Zips",
+  "abbr": "AKR",
+  "teamId": "2006",
+  "score": 14.0
+ },
+ "away": {
+  "name": "Western Michigan Broncos",
+  "abbr": "WMU",
+  "teamId": "2711",
+  "score": 42.0
+ },
+ "odds": {
+  "mlAway": "-700",
+  "mlAwayOpen": "-600",
+  "mlHome": "+500",
+  "mlHomeOpen": "+440",
+  "provider": "DraftKings",
+  "spread": "WMU -15.5",
+  "spreadOpen": "WMU -13.5",
+  "total": "49.5",
+  "totalOpen": "47.5"
+ },
+ "espnWinProb": {
+  "away": 89.9,
+  "home": 10.1
+ },
+ "teams": {
+  "away": {
+   "abbr": "WMU",
+   "stats": {
+    "firstDowns": "26",
+    "thirdDownEff": "13-17",
+    "fourthDownEff": "1-4",
+    "totalYards": "566",
+    "netPassingYards": "206",
+    "completionAttempts": "22/24",
+    "yardsPerPass": "8.6",
+    "rushingYards": "360",
+    "rushingAttempts": "56",
+    "yardsPerRushAttempt": "6.4",
+    "totalPenaltiesYards": "3-25",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "42:46"
+   }
+  },
+  "home": {
+   "abbr": "AKR",
+   "stats": {
+    "firstDowns": "11",
+    "thirdDownEff": "1-8",
+    "fourthDownEff": "0-1",
+    "totalYards": "233",
+    "netPassingYards": "173",
+    "completionAttempts": "12/18",
+    "yardsPerPass": "9.6",
+    "rushingYards": "60",
+    "rushingAttempts": "19",
+    "yardsPerRushAttempt": "3.2",
+    "totalPenaltiesYards": "3-22",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "17:14"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "2:19",
+   "team": "WMU",
+   "text": "Nate Levicki 3 Yd pass from Mason Reynolds (Dieter Kelly Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "12:33",
+   "team": "WMU",
+   "text": "Cole Cabana 82 Yd Run (Dieter Kelly Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "11:14",
+   "team": "AKR",
+   "text": "Marcel Williams 35 Yd pass from Cibastian Broughton (Aidan Stire Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:55",
+   "team": "WMU",
+   "text": "Jalen Buckley 1 Yd Run (Dieter Kelly Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "5:04",
+   "team": "WMU",
+   "text": "Jalen Buckley 35 Yd Run (Dieter Kelly Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "13:38",
+   "team": "WMU",
+   "text": "Keivin Boone-Nelson II 20 Yd pass from Broc Lowry (Dieter Kelly Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "11:44",
+   "team": "AKR",
+   "text": "Marcel Williams 39 Yd pass from Cibastian Broughton (Aidan Stire Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "6:53",
+   "team": "WMU",
+   "text": "Nate Levicki 10 Yd pass from Mason Reynolds (Dieter Kelly Kick)"
+  }
+ ]
+}

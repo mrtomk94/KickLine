@@ -1,0 +1,138 @@
+{
+ "id": "ncaaf-401866459",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-11T00:00Z",
+ "home": {
+  "name": "Bowling Green Falcons",
+  "abbr": "BGSU",
+  "teamId": "189",
+  "score": 33.0
+ },
+ "away": {
+  "name": "Kent State Golden Flashes",
+  "abbr": "KENT",
+  "teamId": "2309",
+  "score": 28.0
+ },
+ "odds": {
+  "mlAway": "+170",
+  "mlAwayOpen": "+170",
+  "mlHome": "-205",
+  "mlHomeOpen": "-205",
+  "provider": "DraftKings",
+  "spread": "BGSU -4.5",
+  "spreadOpen": "BGSU -5.5",
+  "total": "43.5",
+  "totalOpen": "44.5"
+ },
+ "espnWinProb": {
+  "away": 27.2,
+  "home": 72.9
+ },
+ "teams": {
+  "away": {
+   "abbr": "KENT",
+   "stats": {
+    "firstDowns": "20",
+    "thirdDownEff": "5-17",
+    "fourthDownEff": "2-4",
+    "totalYards": "409",
+    "netPassingYards": "332",
+    "completionAttempts": "19/38",
+    "yardsPerPass": "8.7",
+    "rushingYards": "77",
+    "rushingAttempts": "32",
+    "yardsPerRushAttempt": "2.4",
+    "totalPenaltiesYards": "2-17",
+    "turnovers": "2",
+    "fumblesLost": "0",
+    "interceptions": "2",
+    "possessionTime": "30:36"
+   }
+  },
+  "home": {
+   "abbr": "BGSU",
+   "stats": {
+    "firstDowns": "15",
+    "thirdDownEff": "6-14",
+    "fourthDownEff": "0-0",
+    "totalYards": "347",
+    "netPassingYards": "229",
+    "completionAttempts": "15/25",
+    "yardsPerPass": "9.2",
+    "rushingYards": "118",
+    "rushingAttempts": "36",
+    "yardsPerRushAttempt": "3.3",
+    "totalPenaltiesYards": "7-66",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "29:24"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "10:27",
+   "team": "BGSU",
+   "text": "Nakai Amachree 70 Yd pass from Austin Novosad (Travis Kenner Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "6:00",
+   "team": "KENT",
+   "text": "Dru DeShields 9 Yd Run (Tommy Newcomb Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "10:10",
+   "team": "KENT",
+   "text": "Wayne Harris 39 Yd pass from Dru DeShields (Tommy Newcomb Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "2:45",
+   "team": "BGSU",
+   "text": "Eli Jacon-Duffy 23 Yd pass from Austin Novosad (Travis Kenner Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:02",
+   "team": "BGSU",
+   "text": "Travis Kenner 46 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "8:49",
+   "team": "BGSU",
+   "text": "Blane Cleaver 1 Yd pass from Austin Novosad (Travis Kenner Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "2:59",
+   "team": "BGSU",
+   "text": "Travis Kenner 38 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "6:37",
+   "team": "KENT",
+   "text": "Wayne Harris 13 Yd pass from Dru DeShields (Tommy Newcomb Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "2:00",
+   "team": "KENT",
+   "text": "Dru DeShields 25 Yd Run (Tommy Newcomb Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "1:51",
+   "team": "BGSU",
+   "text": "Nakai Amachree 48 Yd Run (Two-Point Run Conversion Failed)"
+  }
+ ]
+}

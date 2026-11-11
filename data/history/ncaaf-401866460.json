@@ -1,0 +1,132 @@
+{
+ "id": "ncaaf-401866460",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-11T01:00Z",
+ "home": {
+  "name": "Miami (OH) RedHawks",
+  "abbr": "M-OH",
+  "teamId": "193",
+  "score": 34.0
+ },
+ "away": {
+  "name": "Ohio Bobcats",
+  "abbr": "OHIO",
+  "teamId": "195",
+  "score": 17.0
+ },
+ "odds": {
+  "mlAway": "-115",
+  "mlAwayOpen": "-102",
+  "mlHome": "-105",
+  "mlHomeOpen": "-118",
+  "provider": "DraftKings",
+  "spread": "OHIO -1.5",
+  "spreadOpen": "M-OH -1.5",
+  "total": "47.5",
+  "totalOpen": "47.5"
+ },
+ "espnWinProb": {
+  "away": 49.5,
+  "home": 50.5
+ },
+ "teams": {
+  "away": {
+   "abbr": "OHIO",
+   "stats": {
+    "firstDowns": "21",
+    "thirdDownEff": "3-17",
+    "fourthDownEff": "3-4",
+    "totalYards": "381",
+    "netPassingYards": "229",
+    "completionAttempts": "23/43",
+    "yardsPerPass": "5.3",
+    "rushingYards": "152",
+    "rushingAttempts": "37",
+    "yardsPerRushAttempt": "4.1",
+    "totalPenaltiesYards": "7-44",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "interceptions": "1",
+    "possessionTime": "35:31"
+   }
+  },
+  "home": {
+   "abbr": "M-OH",
+   "stats": {
+    "firstDowns": "15",
+    "thirdDownEff": "3-14",
+    "fourthDownEff": "1-1",
+    "totalYards": "361",
+    "netPassingYards": "153",
+    "completionAttempts": "10/25",
+    "yardsPerPass": "6.1",
+    "rushingYards": "208",
+    "rushingAttempts": "33",
+    "yardsPerRushAttempt": "6.3",
+    "totalPenaltiesYards": "7-69",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "24:29"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "10:05",
+   "team": "OHIO",
+   "text": "Riley Neer 8 Yd pass from Nick Poulos (Brack Peacock Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "13:40",
+   "team": "OHIO",
+   "text": "Duncan Brune 1 Yd Run (Brack Peacock Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "7:20",
+   "team": "OHIO",
+   "text": "Brack Peacock 22 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "1:02",
+   "team": "M-OH",
+   "text": "Maleek Huggins 15 Yd pass from Scoop Smith (Brady Stidham Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "6:58",
+   "team": "M-OH",
+   "text": "D'Shawntae Jones 1 Yd Run (Brady Stidham Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "14:16",
+   "team": "M-OH",
+   "text": "Brady Stidham 36 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "3:55",
+   "team": "M-OH",
+   "text": "Brady Stidham 25 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "1:45",
+   "team": "M-OH",
+   "text": "D'Shawntae Jones 48 Yd Run (Brady Stidham Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "1:25",
+   "team": "M-OH",
+   "text": "Amariyun Knighten 58 Yd Interception Return (Brady Stidham Kick)"
+  }
+ ]
+}
