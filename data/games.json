@@ -31,7 +31,7 @@
   "stars": 1,
   "start": "2026-11-14T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Gainbridge Fieldhouse, Indianapolis"
  },
  "nba-401909297": {
@@ -66,7 +66,7 @@
   "stars": 1,
   "start": "2026-11-14T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Kia Center, Orlando"
  },
  "nba-401909298": {
@@ -101,7 +101,7 @@
   "stars": 1,
   "start": "2026-11-14T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Kaseya Center, Miami"
  },
  "nba-401909299": {
@@ -136,7 +136,7 @@
   "stars": 1,
   "start": "2026-11-14T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "United Center, Chicago"
  },
  "nba-401909300": {
@@ -171,7 +171,7 @@
   "stars": 1,
   "start": "2026-11-14T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Smoothie King Center, New Orleans"
  },
  "nba-401909301": {
@@ -206,7 +206,7 @@
   "stars": 1,
   "start": "2026-11-14T01:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Toyota Center (Houston), Houston"
  },
  "nba-401909302": {
@@ -241,7 +241,7 @@
   "stars": 1,
   "start": "2026-11-14T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Frost Bank Center, San Antonio"
  },
  "nba-401909303": {
@@ -276,7 +276,7 @@
   "stars": 1,
   "start": "2026-11-14T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Golden 1 Center, Sacramento"
  },
  "nba-401909304": {
@@ -311,7 +311,7 @@
   "stars": 1,
   "start": "2026-11-14T03:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Intuit Dome, Inglewood"
  },
  "nba-401909960": {
@@ -919,7 +919,7 @@
    "short": "Wizards",
    "teamId": "27"
   },
-  "confidence": 52,
+  "confidence": 53,
   "espnId": "401909966",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -999,34 +999,36 @@
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909966",
   "news": [
-   "Stephen A: Jaylen Brown was a no-show against the Celtics",
-   "NBA buzz: Latest on trades, news, roster moves and intel",
-   "Kings rookie star Darius Acuff Jr. frustrated over 1-10 start: 'I'm not a loser'"
+   "NBA Wednesday Night Doubleheader Teaser",
+   "NBA awards watch: The latest on the MVP, Rookie of the Year and other races",
+   "Sources: Jazz star Lauri Markkanen out at least 1 month with fractured hand"
   ],
   "odds": {
-   "mlAway": "+121",
+   "mlAway": "+130",
    "mlAwayOpen": "+135",
-   "mlHome": "-143",
+   "mlHome": "-154",
    "mlHomeOpen": "-161",
    "provider": "DraftKings",
-   "spread": "IND -2.5",
+   "spread": "IND -3.5",
    "spreadOpen": "IND -4.5",
-   "total": "227.5",
+   "total": "228.5",
    "totalOpen": "228.5"
   },
   "pick": "Pass",
-  "reason": "IND about 57% no-vig at -143; no edge worth a pick.",
-  "risks": [],
+  "reason": "IND about 58% no-vig at -154; no edge worth a pick.",
+  "risks": [
+   "ESPN model only 52% vs market 58%"
+  ],
   "slug": "nba",
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-12T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Gainbridge Fieldhouse, Indianapolis"
  },
  "nba-401909967": {
-  "_lastPick": "NY ML (-180)",
+  "_lastPick": "NY ML (-191)",
   "away": {
    "abbr": "CLE",
    "form": "LLWLL",
@@ -1039,13 +1041,13 @@
    "short": "Cavaliers",
    "teamId": "5"
   },
-  "confidence": 61,
+  "confidence": 60,
   "espnId": "401909967",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 34.5,
-   "home": 65.5
+   "away": 39.8,
+   "home": 60.2
   },
   "home": {
    "abbr": "NY",
@@ -1090,23 +1092,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909967",
   "market": "Moneyline",
   "news": [
-   "Stephen A: Jaylen Brown was a no-show against the Celtics",
-   "NBA buzz: Latest on trades, news, roster moves and intel",
-   "Kings rookie star Darius Acuff Jr. frustrated over 1-10 start: 'I'm not a loser'"
+   "NBA Wednesday Night Doubleheader Teaser",
+   "NBA awards watch: The latest on the MVP, Rookie of the Year and other races",
+   "Sources: Jazz star Lauri Markkanen out at least 1 month with fractured hand"
   ],
   "odds": {
-   "mlAway": "+151",
+   "mlAway": "+160",
    "mlAwayOpen": "+148",
-   "mlHome": "-180",
+   "mlHome": "-191",
    "mlHomeOpen": "-177",
    "provider": "DraftKings",
    "spread": "NY -4.5",
    "spreadOpen": "NY -4.5",
-   "total": "222.5",
+   "total": "221.5",
    "totalOpen": "221.5"
   },
-  "pick": "NY ML (-180)",
-  "reason": "NY are about 62% no-vig at -180; ESPN's model has 66%. For: form WWWWL vs LLWLL.",
+  "pick": "NY ML (-191)",
+  "reason": "NY are about 63% no-vig at -191; ESPN's model has 60%. For: form WWWWL vs LLWLL.",
   "risks": [],
   "side": "home",
   "slug": "nba",
@@ -1114,21 +1116,23 @@
   "stars": 2,
   "start": "2026-11-12T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Madison Square Garden, New York"
  },
  "nba-401909968": {
-  "_lastPick": "BOS ML (-256)",
+  "_lastPick": "BOS ML (-222)",
   "away": {
    "abbr": "BOS",
    "form": "WWWWL",
-   "injuries": [],
+   "injuries": [
+    "Paul George (F) – Out, Illness"
+   ],
    "name": "Boston Celtics",
    "record": "9-2",
    "short": "Celtics",
    "teamId": "2"
   },
-  "confidence": 70,
+  "confidence": 68,
   "espnId": "401909968",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -1140,6 +1144,7 @@
    "abbr": "TOR",
    "form": "LWLWL",
    "injuries": [
+    "Trayce Jackson-Davis (F) – Out, Illness",
     "Scottie Barnes (F) – Out, Groin",
     "Kawhi Leonard (F) – Out, Knee"
    ],
@@ -1150,8 +1155,23 @@
   },
   "id": "nba-401909968",
   "injuriesRaw": {
-   "away": [],
+   "away": [
+    {
+     "detail": "Illness",
+     "player": "Paul George",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    }
+   ],
    "home": [
+    {
+     "detail": "Illness",
+     "player": "Trayce Jackson-Davis",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
     {
      "detail": "Groin",
      "player": "Scottie Barnes",
@@ -1172,23 +1192,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909968",
   "market": "Moneyline",
   "news": [
-   "Stephen A: Jaylen Brown was a no-show against the Celtics",
-   "NBA buzz: Latest on trades, news, roster moves and intel",
-   "Kings rookie star Darius Acuff Jr. frustrated over 1-10 start: 'I'm not a loser'"
+   "NBA Wednesday Night Doubleheader Teaser",
+   "NBA awards watch: The latest on the MVP, Rookie of the Year and other races",
+   "Sources: Jazz star Lauri Markkanen out at least 1 month with fractured hand"
   ],
   "odds": {
-   "mlAway": "-256",
+   "mlAway": "-222",
    "mlAwayOpen": "-220",
-   "mlHome": "+210",
+   "mlHome": "+184",
    "mlHomeOpen": "+182",
    "provider": "DraftKings",
-   "spread": "BOS -6.5",
+   "spread": "BOS -5.5",
    "spreadOpen": "BOS -6.5",
-   "total": "216.5",
+   "total": "215.5",
    "totalOpen": "215.5"
   },
-  "pick": "BOS ML (-256)",
-  "reason": "BOS are about 69% no-vig at -256; ESPN's model has 78%. For: ESPN model 78% vs market 69%. Capped at 2★: NBA capped by lessons.",
+  "pick": "BOS ML (-222)",
+  "reason": "BOS are about 66% no-vig at -222; ESPN's model has 78%. For: ESPN model 78% vs market 66%. Capped at 2★: NBA capped by lessons.",
   "risks": [],
   "side": "away",
   "slug": "nba",
@@ -1196,7 +1216,7 @@
   "stars": 2,
   "start": "2026-11-12T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Scotiabank Arena, Toronto"
  },
  "nba-401909969": {
@@ -1223,7 +1243,9 @@
   "home": {
    "abbr": "CHI",
    "form": "LLLLL",
-   "injuries": [],
+   "injuries": [
+    "Tobe Awaka (F) – Out, Back"
+   ],
    "name": "Chicago Bulls",
    "record": "1-8",
    "short": "Bulls",
@@ -1247,15 +1269,23 @@
      "status": "Out"
     }
    ],
-   "home": []
+   "home": [
+    {
+     "detail": "Back",
+     "player": "Tobe Awaka",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    }
+   ]
   },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909969",
   "market": "Moneyline",
   "news": [
-   "Stephen A: Jaylen Brown was a no-show against the Celtics",
-   "NBA buzz: Latest on trades, news, roster moves and intel",
-   "Kings rookie star Darius Acuff Jr. frustrated over 1-10 start: 'I'm not a loser'"
+   "NBA Wednesday Night Doubleheader Teaser",
+   "NBA awards watch: The latest on the MVP, Rookie of the Year and other races",
+   "Sources: Jazz star Lauri Markkanen out at least 1 month with fractured hand"
   ],
   "odds": {
    "mlAway": "-1200",
@@ -1263,9 +1293,9 @@
    "mlHome": "+750",
    "mlHomeOpen": "+451",
    "provider": "DraftKings",
-   "spread": "SA -14.5",
+   "spread": "SA -15.5",
    "spreadOpen": "SA -14.5",
-   "total": "238.5",
+   "total": "237.5",
    "totalOpen": "237.5"
   },
   "pick": "SA ML (-1200)",
@@ -1277,7 +1307,7 @@
   "stars": 2,
   "start": "2026-11-12T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "United Center, Chicago"
  },
  "nba-401909970": {
@@ -1351,23 +1381,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909970",
   "market": null,
   "news": [
-   "Stephen A: Jaylen Brown was a no-show against the Celtics",
-   "NBA buzz: Latest on trades, news, roster moves and intel",
-   "Kings rookie star Darius Acuff Jr. frustrated over 1-10 start: 'I'm not a loser'"
+   "NBA Wednesday Night Doubleheader Teaser",
+   "NBA awards watch: The latest on the MVP, Rookie of the Year and other races",
+   "Sources: Jazz star Lauri Markkanen out at least 1 month with fractured hand"
   ],
   "odds": {
-   "mlAway": "-166",
+   "mlAway": "-173",
    "mlAwayOpen": "-156",
-   "mlHome": "+140",
+   "mlHome": "+145",
    "mlHomeOpen": "+131",
    "provider": "DraftKings",
-   "spread": "DEN -3.5",
+   "spread": "DEN -4.5",
    "spreadOpen": "DEN -4.5",
    "total": "230.5",
    "totalOpen": "228.5"
   },
   "pick": "Pass",
-  "reason": "DEN about 60% no-vig at -166; no edge worth a pick.",
+  "reason": "DEN about 61% no-vig at -173; no edge worth a pick.",
   "risks": [],
   "side": null,
   "slug": "nba",
@@ -1375,21 +1405,23 @@
   "stars": 1,
   "start": "2026-11-12T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "FedExForum, Memphis"
  },
  "nba-401909971": {
-  "_lastPick": "LAL ML (-750)",
+  "_lastPick": "LAL ML (-840)",
   "away": {
    "abbr": "LAL",
    "form": "WWWWW",
-   "injuries": [],
+   "injuries": [
+    "Quentin Grimes (G) – Out, Finger"
+   ],
    "name": "Los Angeles Lakers",
    "record": "10-2",
    "short": "Lakers",
    "teamId": "13"
   },
-  "confidence": 83,
+  "confidence": 84,
   "espnId": "401909971",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -1401,7 +1433,7 @@
    "abbr": "MIL",
    "form": "LLLLL",
    "injuries": [
-    "Tyler Herro (G) – Out, Knee"
+    "Myles Turner (C) – Out, Rest"
    ],
    "name": "Milwaukee Bucks",
    "record": "1-10",
@@ -1410,12 +1442,20 @@
   },
   "id": "nba-401909971",
   "injuriesRaw": {
-   "away": [],
+   "away": [
+    {
+     "detail": "Finger",
+     "player": "Quentin Grimes",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    }
+   ],
    "home": [
     {
-     "detail": "Knee",
-     "player": "Tyler Herro",
-     "pos": "G",
+     "detail": "Rest",
+     "player": "Myles Turner",
+     "pos": "C",
      "stale": false,
      "status": "Out"
     }
@@ -1425,14 +1465,14 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909971",
   "market": "Moneyline",
   "news": [
-   "Stephen A: Jaylen Brown was a no-show against the Celtics",
-   "NBA buzz: Latest on trades, news, roster moves and intel",
-   "Kings rookie star Darius Acuff Jr. frustrated over 1-10 start: 'I'm not a loser'"
+   "NBA Wednesday Night Doubleheader Teaser",
+   "NBA awards watch: The latest on the MVP, Rookie of the Year and other races",
+   "Sources: Jazz star Lauri Markkanen out at least 1 month with fractured hand"
   ],
   "odds": {
-   "mlAway": "-750",
+   "mlAway": "-840",
    "mlAwayOpen": "-650",
-   "mlHome": "+529",
+   "mlHome": "+580",
    "mlHomeOpen": "+473",
    "provider": "DraftKings",
    "spread": "LAL -14.5",
@@ -1440,8 +1480,8 @@
    "total": "229.5",
    "totalOpen": "233.5"
   },
-  "pick": "LAL ML (-750)",
-  "reason": "LAL are about 85% no-vig at -750; ESPN's model has 86%. For: form WWWWW vs LLLLL. Capped at 2★: NBA capped by lessons.",
+  "pick": "LAL ML (-840)",
+  "reason": "LAL are about 86% no-vig at -840; ESPN's model has 86%. For: form WWWWW vs LLLLL. Capped at 2★: NBA capped by lessons.",
   "risks": [],
   "side": "away",
   "slug": "nba",
@@ -1449,7 +1489,7 @@
   "stars": 2,
   "start": "2026-11-12T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Fiserv Forum, Milwaukee"
  },
  "nba-401909972": {
@@ -1458,14 +1498,15 @@
    "abbr": "BKN",
    "form": "LLWLW",
    "injuries": [
-    "Egor Demin (G) – Out, Leg"
+    "Nolan Traore (G) – Out, Calf",
+    "Mikel Brown Jr. (G) – Out, Illness"
    ],
    "name": "Brooklyn Nets",
    "record": "2-8",
    "short": "Nets",
    "teamId": "17"
   },
-  "confidence": 58,
+  "confidence": 55,
   "espnId": "401909972",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -1477,6 +1518,7 @@
    "abbr": "NO",
    "form": "LLLWW",
    "injuries": [
+    "Bennedict Mathurin (G) – Out, Thumb",
     "Trendon Watford (F) – Out, Ankle",
     "Yves Missi (C) – Out, Knee"
    ],
@@ -1489,14 +1531,28 @@
   "injuriesRaw": {
    "away": [
     {
-     "detail": "Leg",
-     "player": "Egor Demin",
+     "detail": "Calf",
+     "player": "Nolan Traore",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Illness",
+     "player": "Mikel Brown Jr.",
      "pos": "G",
      "stale": false,
      "status": "Out"
     }
    ],
    "home": [
+    {
+     "detail": "Thumb",
+     "player": "Bennedict Mathurin",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
     {
      "detail": "Ankle",
      "player": "Trendon Watford",
@@ -1515,37 +1571,37 @@
   },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909972",
-  "market": "Moneyline",
+  "market": null,
   "news": [
-   "Stephen A: Jaylen Brown was a no-show against the Celtics",
-   "NBA buzz: Latest on trades, news, roster moves and intel",
-   "Kings rookie star Darius Acuff Jr. frustrated over 1-10 start: 'I'm not a loser'"
+   "NBA Wednesday Night Doubleheader Teaser",
+   "NBA awards watch: The latest on the MVP, Rookie of the Year and other races",
+   "Sources: Jazz star Lauri Markkanen out at least 1 month with fractured hand"
   ],
   "odds": {
-   "mlAway": "+156",
+   "mlAway": "+131",
    "mlAwayOpen": "+138",
-   "mlHome": "-186",
+   "mlHome": "-155",
    "mlHomeOpen": "-164",
    "provider": "DraftKings",
-   "spread": "NO -4.5",
+   "spread": "NO -3.5",
    "spreadOpen": "NO -4.5",
-   "total": "230.5",
+   "total": "228.5",
    "totalOpen": "230.5"
   },
-  "pick": "NO ML (-186)",
-  "reason": "NO are about 62% no-vig at -186; ESPN's model has 58%.",
+  "pick": "Pass",
+  "reason": "NO about 58% no-vig at -155; no edge worth a pick.",
   "risks": [],
-  "side": "home",
+  "side": null,
   "slug": "nba",
   "sport": "nba",
-  "stars": 2,
+  "stars": 1,
   "start": "2026-11-12T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Smoothie King Center, New Orleans"
  },
  "nba-401909973": {
-  "_lastPick": "ORL ML (-166)",
+  "_lastPick": "ORL ML (-179)",
   "away": {
    "abbr": "ORL",
    "form": "WLLLL",
@@ -1559,18 +1615,19 @@
    "short": "Magic",
    "teamId": "19"
   },
-  "confidence": 57,
+  "confidence": 59,
   "espnId": "401909973",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 61.3,
-   "home": 38.7
+   "away": 63.6,
+   "home": 36.4
   },
   "home": {
    "abbr": "UTAH",
    "form": "LLLLL",
    "injuries": [
+    "Lauri Markkanen (F) – Out, Hand",
     "Jusuf Nurkic (C) – Out, Foot",
     "Jaren Jackson Jr. (F) – Out, Knee"
    ],
@@ -1602,16 +1659,16 @@
      "pos": "F",
      "stale": false,
      "status": "Out"
-    },
-    {
-     "detail": "Hamstring",
-     "player": "Noah Penda",
-     "pos": "F",
-     "stale": true,
-     "status": "Out"
     }
    ],
    "home": [
+    {
+     "detail": "Hand",
+     "player": "Lauri Markkanen",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
     {
      "detail": "Foot",
      "player": "Jusuf Nurkic",
@@ -1630,43 +1687,42 @@
   },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909973",
-  "market": null,
+  "market": "Moneyline",
   "news": [
-   "Stephen A: Jaylen Brown was a no-show against the Celtics",
-   "NBA buzz: Latest on trades, news, roster moves and intel",
-   "Kings rookie star Darius Acuff Jr. frustrated over 1-10 start: 'I'm not a loser'"
+   "NBA Wednesday Night Doubleheader Teaser",
+   "NBA awards watch: The latest on the MVP, Rookie of the Year and other races",
+   "Sources: Jazz star Lauri Markkanen out at least 1 month with fractured hand"
   ],
   "odds": {
-   "mlAway": "-161",
+   "mlAway": "-179",
    "mlAwayOpen": "-167",
-   "mlHome": "+136",
+   "mlHome": "+150",
    "mlHomeOpen": "+140",
    "provider": "DraftKings",
-   "spread": "ORL -3.5",
+   "spread": "ORL -4.5",
    "spreadOpen": "ORL -4.5",
    "total": "214.5",
    "totalOpen": "218.5"
   },
-  "pick": "Pass",
-  "reason": "ORL about 59% no-vig at -161; no edge worth a pick.",
+  "pick": "ORL ML (-179)",
+  "reason": "ORL are about 62% no-vig at -179; ESPN's model has 64%.",
   "risks": [],
-  "side": null,
+  "side": "away",
   "slug": "nba",
   "sport": "nba",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-12T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Delta Center, Salt Lake City"
  },
  "nba-401909974": {
-  "_lastPick": "HOU ML (-249)",
+  "_lastPick": "HOU ML (-264)",
   "away": {
    "abbr": "GS",
    "form": "WWWWW",
    "injuries": [
     "Gary Payton II (G) – Out, Knee",
-    "Will Richard (G) – Out, Thumb",
     "Brandon Williams (G) – Out, Hamstring",
     "Kristaps Porzingis (C) – Out, Illness"
    ],
@@ -1675,7 +1731,7 @@
    "short": "Warriors",
    "teamId": "9"
   },
-  "confidence": 64,
+  "confidence": 65,
   "espnId": "401909974",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -1701,13 +1757,6 @@
     {
      "detail": "Knee",
      "player": "Gary Payton II",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Thumb",
-     "player": "Will Richard",
      "pos": "G",
      "stale": false,
      "status": "Out"
@@ -1755,23 +1804,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909974",
   "market": "Moneyline",
   "news": [
-   "Stephen A: Jaylen Brown was a no-show against the Celtics",
-   "NBA buzz: Latest on trades, news, roster moves and intel",
-   "Kings rookie star Darius Acuff Jr. frustrated over 1-10 start: 'I'm not a loser'"
+   "NBA Wednesday Night Doubleheader Teaser",
+   "NBA awards watch: The latest on the MVP, Rookie of the Year and other races",
+   "Sources: Jazz star Lauri Markkanen out at least 1 month with fractured hand"
   ],
   "odds": {
-   "mlAway": "+205",
+   "mlAway": "+217",
    "mlAwayOpen": "+158",
-   "mlHome": "-249",
+   "mlHome": "-264",
    "mlHomeOpen": "-189",
    "provider": "DraftKings",
    "spread": "HOU -6.5",
    "spreadOpen": "HOU -5.5",
-   "total": "220.5",
+   "total": "219.5",
    "totalOpen": "222.5"
   },
-  "pick": "HOU ML (-249)",
-  "reason": "HOU are about 69% no-vig at -249; ESPN's model has 67%. For: line moved toward HOU (-189 → -249).",
+  "pick": "HOU ML (-264)",
+  "reason": "HOU are about 70% no-vig at -264; ESPN's model has 67%. For: line moved toward HOU (-189 → -264).",
   "risks": [
    "opponent in better form (WWWWW)"
   ],
@@ -1781,7 +1830,7 @@
   "stars": 2,
   "start": "2026-11-12T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Toyota Center (Houston), Houston"
  },
  "nba-401909975": {
@@ -1790,17 +1839,17 @@
    "form": "LWWWW",
    "injuries": [
     "Jaylin Williams (F) – Out, Back",
+    "Ajay Mitchell (G) – Out, Ankle",
     "Thomas Sorber (C) – Out, Knee",
     "Cason Wallace (G) – Out, Shoulder",
-    "Chet Holmgren (C) – Out, Knee",
-    "Jalen Williams (G) – Out, Leg"
+    "Chet Holmgren (C) – Out, Knee"
    ],
    "name": "Oklahoma City Thunder",
    "record": "8-3",
    "short": "Thunder",
    "teamId": "25"
   },
-  "confidence": 50,
+  "confidence": 49,
   "espnId": "401909975",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -1812,8 +1861,9 @@
    "abbr": "POR",
    "form": "WLLWW",
    "injuries": [
-    "Ja Morant (G) – Out, Hamstring",
-    "Vit Krejci (G) – Out, Ankle"
+    "Chris Youngblood (G) – Out, Foot",
+    "Vit Krejci (G) – Out, Ankle",
+    "Ja Morant (G) – Out, Hamstring"
    ],
    "name": "Portland Trail Blazers",
    "record": "7-3",
@@ -1827,6 +1877,13 @@
      "detail": "Back",
      "player": "Jaylin Williams",
      "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Ajay Mitchell",
+     "pos": "G",
      "stale": false,
      "status": "Out"
     },
@@ -1850,19 +1907,12 @@
      "pos": "C",
      "stale": false,
      "status": "Out"
-    },
-    {
-     "detail": "Leg",
-     "player": "Jalen Williams",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
     }
    ],
    "home": [
     {
-     "detail": "Hamstring",
-     "player": "Ja Morant",
+     "detail": "Foot",
+     "player": "Chris Youngblood",
      "pos": "G",
      "stale": false,
      "status": "Out"
@@ -1870,6 +1920,13 @@
     {
      "detail": "Ankle",
      "player": "Vit Krejci",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "Ja Morant",
      "pos": "G",
      "stale": false,
      "status": "Out"
@@ -1886,30 +1943,32 @@
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909975",
   "news": [
-   "Stephen A: Jaylen Brown was a no-show against the Celtics",
-   "NBA buzz: Latest on trades, news, roster moves and intel",
-   "Kings rookie star Darius Acuff Jr. frustrated over 1-10 start: 'I'm not a loser'"
+   "NBA Wednesday Night Doubleheader Teaser",
+   "NBA awards watch: The latest on the MVP, Rookie of the Year and other races",
+   "Sources: Jazz star Lauri Markkanen out at least 1 month with fractured hand"
   ],
   "odds": {
-   "mlAway": "-117",
+   "mlAway": "+124",
    "mlAwayOpen": "-132",
-   "mlHome": "-101",
+   "mlHome": "-147",
    "mlHomeOpen": "+111",
    "provider": "DraftKings",
-   "spread": "OKC -1.5",
+   "spread": "POR -2.5",
    "spreadOpen": "OKC -2.5",
-   "total": "225.5",
+   "total": "224.5",
    "totalOpen": "224.5"
   },
   "pick": "Pass",
-  "reason": "OKC about 52% no-vig at -117; no edge worth a pick.",
-  "risks": [],
+  "reason": "POR about 57% no-vig at -147; no edge worth a pick.",
+  "risks": [
+   "ESPN model only 45% vs market 57%"
+  ],
   "slug": "nba",
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-12T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Moda Center, Portland"
  },
  "nba-401909976": {
@@ -1944,7 +2003,7 @@
   "stars": 1,
   "start": "2026-11-13T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Xfinity Mobile Arena, Philadelphia"
  },
  "nba-401909977": {
@@ -1979,7 +2038,7 @@
   "stars": 1,
   "start": "2026-11-13T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Capital One Arena, Washington"
  },
  "nba-401909978": {
@@ -2014,7 +2073,7 @@
   "stars": 1,
   "start": "2026-11-13T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Target Center, Minneapolis"
  },
  "nba-401909979": {
@@ -2049,8 +2108,181 @@
   "stars": 1,
   "start": "2026-11-13T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Mortgage Matchup Center, Phoenix"
+ },
+ "ncaaf-401856857": {
+  "_lastPick": "UCF ML (-162)",
+  "away": {
+   "abbr": "ASU",
+   "form": "WLWLW",
+   "name": "Arizona State Sun Devils",
+   "record": "5-4",
+   "short": "Arizona St",
+   "teamId": "9"
+  },
+  "confidence": 60,
+  "espnId": "401856857",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 32.4,
+   "home": 67.6
+  },
+  "home": {
+   "abbr": "UCF",
+   "form": "WLWLL",
+   "name": "UCF Knights",
+   "record": "5-4",
+   "short": "UCF",
+   "teamId": "2116"
+  },
+  "id": "ncaaf-401856857",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401856857",
+  "market": "Moneyline",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "+136",
+   "mlAwayOpen": "+120",
+   "mlHome": "-162",
+   "mlHomeOpen": "-142",
+   "provider": "DraftKings",
+   "spread": "UCF -3",
+   "spreadOpen": "UCF -2.5",
+   "total": "48.5",
+   "totalOpen": "52.5"
+  },
+  "pick": "UCF ML (-162)",
+  "reason": "UCF are about 59% no-vig at -162; ESPN's model has 68%. For: ESPN model 68% vs market 59%.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-14T20:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Acrisure Bounce House, Orlando"
+ },
+ "ncaaf-401856858": {
+  "_lastPick": "BYU ML (-298)",
+  "away": {
+   "abbr": "BAY",
+   "form": "WWLLW",
+   "name": "Baylor Bears",
+   "record": "6-3",
+   "short": "Baylor",
+   "teamId": "239"
+  },
+  "confidence": 67,
+  "espnId": "401856858",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 31.5,
+   "home": 68.5
+  },
+  "home": {
+   "abbr": "BYU",
+   "form": "LWLWW",
+   "name": "#10 BYU",
+   "record": "7-2",
+   "short": "BYU",
+   "teamId": "252"
+  },
+  "id": "ncaaf-401856858",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401856858",
+  "market": "Moneyline",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "+240",
+   "mlAwayOpen": "+245",
+   "mlHome": "-298",
+   "mlHomeOpen": "-305",
+   "provider": "DraftKings",
+   "spread": "BYU -7.5",
+   "spreadOpen": "BYU -7.5",
+   "total": "48.5",
+   "totalOpen": "47.5"
+  },
+  "pick": "BYU ML (-298)",
+  "reason": "BYU are about 72% no-vig at -298; ESPN's model has 68%.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-14T20:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "LaVell Edwards Stadium, Provo"
+ },
+ "ncaaf-401856859": {
+  "away": {
+   "abbr": "CIN",
+   "form": "LLWLL",
+   "name": "Cincinnati Bearcats",
+   "record": "5-4",
+   "short": "Cincinnati",
+   "teamId": "2132"
+  },
+  "confidence": 52,
+  "espnId": "401856859",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 48.9,
+   "home": 51.1
+  },
+  "home": {
+   "abbr": "ISU",
+   "form": "LWLLW",
+   "name": "Iowa State Cyclones",
+   "record": "4-5",
+   "short": "Iowa State",
+   "teamId": "66"
+  },
+  "id": "ncaaf-401856859",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401856859",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "+130",
+   "mlAwayOpen": "-105",
+   "mlHome": "-155",
+   "mlHomeOpen": "-115",
+   "provider": "DraftKings",
+   "spread": "ISU -3",
+   "spreadOpen": "ISU -1.5",
+   "total": "59.5",
+   "totalOpen": "60.5"
+  },
+  "pick": "Pass",
+  "reason": "ISU about 58% no-vig at -155; no edge worth a pick.",
+  "risks": [
+   "ESPN model only 51% vs market 58%"
+  ],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-14T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Jack Trice Stadium, Ames"
  },
  "ncaaf-401856860": {
   "_lastPick": "HOU ML (-380)",
@@ -2083,9 +2315,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856860",
   "market": "Moneyline",
   "news": [
-   "Kicks For Kids unites Duke University and Duke Children's Hospital",
-   "Why Jordan Rodgers has an issue with Tennessee's CFP rank behind Bama",
-   "Why Miami, Indiana had their significant drops in the CFP rankings"
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
   ],
   "odds": {
    "mlAway": "-380",
@@ -2107,8 +2339,349 @@
   "stars": 4,
   "start": "2026-11-14T03:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Folsom Field, Boulder"
+ },
+ "ncaaf-401856862": {
+  "_lastPick": "TCU ML (-395)",
+  "away": {
+   "abbr": "KSU",
+   "form": "LLLWL",
+   "name": "Kansas State Wildcats",
+   "record": "4-5",
+   "short": "Kansas St",
+   "teamId": "2306"
+  },
+  "confidence": 73,
+  "espnId": "401856862",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 25.8,
+   "home": 74.2
+  },
+  "home": {
+   "abbr": "TCU",
+   "form": "LWLWL",
+   "name": "TCU Horned Frogs",
+   "record": "4-5",
+   "short": "TCU",
+   "teamId": "2628"
+  },
+  "id": "ncaaf-401856862",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401856862",
+  "market": "Moneyline",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "+310",
+   "mlAwayOpen": "+275",
+   "mlHome": "-395",
+   "mlHomeOpen": "-345",
+   "provider": "DraftKings",
+   "spread": "TCU -10",
+   "spreadOpen": "TCU -9.5",
+   "total": "45.5",
+   "totalOpen": "45.5"
+  },
+  "pick": "TCU ML (-395)",
+  "reason": "TCU are about 77% no-vig at -395; ESPN's model has 74%.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-14T19:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Amon G. Carter Stadium, Fort Worth"
+ },
+ "ncaaf-401856883": {
+  "_lastPick": "UGA ML (-750)",
+  "away": {
+   "abbr": "MIZ",
+   "form": "LWLWW",
+   "name": "#22 Missouri",
+   "record": "6-3",
+   "short": "Missouri",
+   "teamId": "142"
+  },
+  "confidence": 83,
+  "espnId": "401856883",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 11.2,
+   "home": 88.8
+  },
+  "home": {
+   "abbr": "UGA",
+   "form": "WWLWW",
+   "name": "#1 Georgia",
+   "record": "8-1",
+   "short": "Georgia",
+   "teamId": "61"
+  },
+  "id": "ncaaf-401856883",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401856883",
+  "market": "Moneyline",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "+525",
+   "mlAwayOpen": "+360",
+   "mlHome": "-750",
+   "mlHomeOpen": "-470",
+   "provider": "DraftKings",
+   "spread": "UGA -15.5",
+   "spreadOpen": "UGA -12.5",
+   "total": "47.5",
+   "totalOpen": "46.5"
+  },
+  "pick": "UGA ML (-750)",
+  "reason": "UGA are about 85% no-vig at -750; ESPN's model has 89%. For: line moved toward UGA (-470 → -750).",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 3,
+  "start": "2026-11-14T20:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Sanford Stadium, Athens"
+ },
+ "ncaaf-401856886": {
+  "away": {
+   "abbr": "AUB",
+   "form": "WLLWL",
+   "name": "Auburn Tigers",
+   "record": "5-4",
+   "short": "Auburn",
+   "teamId": "2"
+  },
+  "confidence": 50,
+  "espnId": "401856886",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 49.1,
+   "home": 50.9
+  },
+  "home": {
+   "abbr": "MSST",
+   "form": "LLLLL",
+   "name": "Mississippi State Bulldogs",
+   "record": "4-5",
+   "short": "Mississippi St",
+   "teamId": "344"
+  },
+  "id": "ncaaf-401856886",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401856886",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "-142",
+   "mlAwayOpen": "-148",
+   "mlHome": "+120",
+   "mlHomeOpen": "+124",
+   "provider": "DraftKings",
+   "spread": "AUB -2.5",
+   "spreadOpen": "AUB -3.5",
+   "total": "50.5",
+   "totalOpen": "51.5"
+  },
+  "pick": "Pass",
+  "reason": "AUB about 56% no-vig at -142; no edge worth a pick.",
+  "risks": [
+   "ESPN model only 49% vs market 56%"
+  ],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-14T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Davis Wade Stadium, Starkville"
+ },
+ "ncaaf-401856887": {
+  "away": {
+   "abbr": "MISS",
+   "form": "LWLWW",
+   "name": "#19 Ole Miss",
+   "record": "6-3",
+   "short": "Ole Miss",
+   "teamId": "145"
+  },
+  "confidence": 50,
+  "espnId": "401856887",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 57.3,
+   "home": 42.7
+  },
+  "home": {
+   "abbr": "OU",
+   "form": "WLWLW",
+   "name": "Oklahoma Sooners",
+   "record": "5-4",
+   "short": "Oklahoma",
+   "teamId": "201"
+  },
+  "id": "ncaaf-401856887",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401856887",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "-112",
+   "mlAwayOpen": "+154",
+   "mlHome": "-108",
+   "mlHomeOpen": "-185",
+   "provider": "DraftKings",
+   "spread": "OU -1.5",
+   "spreadOpen": "OU -4",
+   "total": "49.5",
+   "totalOpen": "53.5"
+  },
+  "pick": "Pass",
+  "reason": "MISS about 50% no-vig at -112; no edge worth a pick.",
+  "risks": [],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-14T21:15Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Memorial Stadium (Norman, OK), Norman"
+ },
+ "ncaaf-401856888": {
+  "away": {
+   "abbr": "TENN",
+   "form": "WLWWW",
+   "name": "#8 Tennessee",
+   "record": "7-2",
+   "short": "Tennessee",
+   "teamId": "2633"
+  },
+  "confidence": 54,
+  "espnId": "401856888",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 58.6,
+   "home": 41.4
+  },
+  "home": {
+   "abbr": "TA&M",
+   "form": "LLWLW",
+   "name": "Texas A&M Aggies",
+   "record": "4-5",
+   "short": "Texas A&M",
+   "teamId": "245"
+  },
+  "id": "ncaaf-401856888",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401856888",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "-135",
+   "mlAwayOpen": "+280",
+   "mlHome": "+114",
+   "mlHomeOpen": "-355",
+   "provider": "DraftKings",
+   "spread": "TENN -2.5",
+   "spreadOpen": "TA&M -9.5",
+   "total": "43.5",
+   "totalOpen": "55.5"
+  },
+  "pick": "Pass",
+  "reason": "TENN about 55% no-vig at -135; no edge worth a pick.",
+  "risks": [],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-14T20:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Kyle Field, College Station"
+ },
+ "ncaaf-401856889": {
+  "_lastPick": "ALA ML (-950)",
+  "away": {
+   "abbr": "ALA",
+   "form": "WWLLW",
+   "name": "#3 Alabama",
+   "record": "7-2",
+   "short": "Alabama",
+   "teamId": "333"
+  },
+  "confidence": 87,
+  "espnId": "401856889",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 94.8,
+   "home": 5.2
+  },
+  "home": {
+   "abbr": "VAN",
+   "form": "WLLLL",
+   "name": "Vanderbilt Commodores",
+   "record": "4-5",
+   "short": "Vanderbilt",
+   "teamId": "238"
+  },
+  "id": "ncaaf-401856889",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401856889",
+  "market": "Moneyline",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "-950",
+   "mlAwayOpen": "-1350",
+   "mlHome": "+625",
+   "mlHomeOpen": "+800",
+   "provider": "DraftKings",
+   "spread": "ALA -16.5",
+   "spreadOpen": "ALA -19.5",
+   "total": "50.5",
+   "totalOpen": "54.5"
+  },
+  "pick": "ALA ML (-950)",
+  "reason": "ALA are about 87% no-vig at -950; ESPN's model has 95%. For: ESPN model 95% vs market 87%.",
+  "risks": [],
+  "side": "away",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 3,
+  "start": "2026-11-14T17:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "FirstBank Stadium, Nashville"
  },
  "ncaaf-401858293": {
   "_lastPick": "PITT ML (-170)",
@@ -2141,9 +2714,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858293",
   "market": "Moneyline",
   "news": [
-   "Kicks For Kids unites Duke University and Duke Children's Hospital",
-   "Why Jordan Rodgers has an issue with Tennessee's CFP rank behind Bama",
-   "Why Miami, Indiana had their significant drops in the CFP rankings"
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
   ],
   "odds": {
    "mlAway": "+142",
@@ -2165,8 +2738,701 @@
   "stars": 2,
   "start": "2026-11-14T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Acrisure Stadium, Pittsburgh"
+ },
+ "ncaaf-401858294": {
+  "_lastPick": "ND ML (-5000)",
+  "away": {
+   "abbr": "BC",
+   "form": "LLWWL",
+   "name": "Boston College Eagles",
+   "record": "4-5",
+   "short": "Boston College",
+   "teamId": "103"
+  },
+  "confidence": 93,
+  "espnId": "401858294",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 1.6,
+   "home": 98.5
+  },
+  "home": {
+   "abbr": "ND",
+   "form": "WWLWW",
+   "name": "#5 Notre Dame",
+   "record": "8-1",
+   "short": "Notre Dame",
+   "teamId": "87"
+  },
+  "id": "ncaaf-401858294",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858294",
+  "market": "Moneyline",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "+1800",
+   "mlAwayOpen": "+3000",
+   "mlHome": "-5000",
+   "mlHomeOpen": "-10000",
+   "provider": "DraftKings",
+   "spread": "ND -29.5",
+   "spreadOpen": "ND -31.5",
+   "total": "52.5",
+   "totalOpen": "52.5"
+  },
+  "pick": "ND ML (-5000)",
+  "reason": "ND are about 95% no-vig at -5000; ESPN's model has 98%.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-14T20:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Notre Dame Stadium, Notre Dame"
+ },
+ "ncaaf-401858295": {
+  "_lastPick": "UVA ML (-410)",
+  "away": {
+   "abbr": "CAL",
+   "form": "LLLWL",
+   "name": "California Golden Bears",
+   "record": "3-6",
+   "short": "California",
+   "teamId": "25"
+  },
+  "confidence": 78,
+  "espnId": "401858295",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 12.9,
+   "home": 87.1
+  },
+  "home": {
+   "abbr": "UVA",
+   "form": "LLLWL",
+   "name": "Virginia Cavaliers",
+   "record": "4-5",
+   "short": "Virginia",
+   "teamId": "258"
+  },
+  "id": "ncaaf-401858295",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858295",
+  "market": "Moneyline",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "+320",
+   "mlAwayOpen": "+380",
+   "mlHome": "-410",
+   "mlHomeOpen": "-500",
+   "provider": "DraftKings",
+   "spread": "UVA -10",
+   "spreadOpen": "UVA -12.5",
+   "total": "46.5",
+   "totalOpen": "47.5"
+  },
+  "pick": "UVA ML (-410)",
+  "reason": "UVA are about 77% no-vig at -410; ESPN's model has 87%. For: ESPN model 87% vs market 77%.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 3,
+  "start": "2026-11-14T20:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Scott Stadium, Charlottesville"
+ },
+ "ncaaf-401858296": {
+  "_lastPick": "MIA ML (-575)",
+  "away": {
+   "abbr": "DUKE",
+   "form": "WWWLL",
+   "name": "Duke Blue Devils",
+   "record": "7-2",
+   "short": "Duke",
+   "teamId": "150"
+  },
+  "confidence": 79,
+  "espnId": "401858296",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 12.0,
+   "home": 88.0
+  },
+  "home": {
+   "abbr": "MIA",
+   "form": "LWWWW",
+   "name": "#7 Miami",
+   "record": "8-1",
+   "short": "Miami",
+   "teamId": "2390"
+  },
+  "id": "ncaaf-401858296",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858296",
+  "market": "Moneyline",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "+425",
+   "mlAwayOpen": "+950",
+   "mlHome": "-575",
+   "mlHomeOpen": "-1650",
+   "provider": "DraftKings",
+   "spread": "MIA -13.5",
+   "spreadOpen": "MIA -20.5",
+   "total": "54.5",
+   "totalOpen": "55.5"
+  },
+  "pick": "MIA ML (-575)",
+  "reason": "MIA are about 82% no-vig at -575; ESPN's model has 88%. For: ESPN model 88% vs market 82%.",
+  "risks": [
+   "line drifted away (-1650 → -575)"
+  ],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 3,
+  "start": "2026-11-14T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Hard Rock Stadium, Miami Gardens"
+ },
+ "ncaaf-401858297": {
+  "_lastPick": "CLEM ML (-550)",
+  "away": {
+   "abbr": "GT",
+   "form": "LLLLW",
+   "name": "Georgia Tech Yellow Jackets",
+   "record": "2-7",
+   "short": "Georgia Tech",
+   "teamId": "59"
+  },
+  "confidence": 79,
+  "espnId": "401858297",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 15.7,
+   "home": 84.3
+  },
+  "home": {
+   "abbr": "CLEM",
+   "form": "WWLWL",
+   "name": "Clemson Tigers",
+   "record": "6-3",
+   "short": "Clemson",
+   "teamId": "228"
+  },
+  "id": "ncaaf-401858297",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858297",
+  "market": "Moneyline",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "+410",
+   "mlAwayOpen": "+425",
+   "mlHome": "-550",
+   "mlHomeOpen": "-575",
+   "provider": "DraftKings",
+   "spread": "CLEM -13.5",
+   "spreadOpen": "CLEM -13.5",
+   "total": "47.5",
+   "totalOpen": "49.5"
+  },
+  "pick": "CLEM ML (-550)",
+  "reason": "CLEM are about 81% no-vig at -550; ESPN's model has 84%.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-14T17:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Memorial Stadium (Clemson, SC), Clemson"
+ },
+ "ncaaf-401858300": {
+  "away": {
+   "abbr": "SYR",
+   "form": "LWWLL",
+   "name": "Syracuse Orange",
+   "record": "4-5",
+   "short": "Syracuse",
+   "teamId": "183"
+  },
+  "confidence": 52,
+  "espnId": "401858300",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 53.4,
+   "home": 46.6
+  },
+  "home": {
+   "abbr": "NCSU",
+   "form": "LWLLW",
+   "name": "NC State Wolfpack",
+   "record": "4-5",
+   "short": "NC State",
+   "teamId": "152"
+  },
+  "id": "ncaaf-401858300",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858300",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "-142",
+   "mlAwayOpen": "-118",
+   "mlHome": "+120",
+   "mlHomeOpen": "-102",
+   "provider": "DraftKings",
+   "spread": "SYR -3",
+   "spreadOpen": "SYR -1.5",
+   "total": "53.5",
+   "totalOpen": "56.5"
+  },
+  "pick": "Pass",
+  "reason": "SYR about 56% no-vig at -142; no edge worth a pick.",
+  "risks": [],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-14T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Carter-Finley Stadium, Raleigh"
+ },
+ "ncaaf-401858301": {
+  "away": {
+   "abbr": "WAKE",
+   "form": "WWWWW",
+   "name": "#13 Wake Forest",
+   "record": "8-1",
+   "short": "Wake Forest",
+   "teamId": "154"
+  },
+  "confidence": 43,
+  "espnId": "401858301",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 59.1,
+   "home": 40.9
+  },
+  "home": {
+   "abbr": "SMU",
+   "form": "WLWWW",
+   "name": "SMU Mustangs",
+   "record": "7-2",
+   "short": "SMU",
+   "teamId": "2567"
+  },
+  "id": "ncaaf-401858301",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858301",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "-110",
+   "mlAwayOpen": "-162",
+   "mlHome": "-110",
+   "mlHomeOpen": "+136",
+   "provider": "DraftKings",
+   "spread": "SMU -1.5",
+   "spreadOpen": "WAKE -3.5",
+   "total": "61.5",
+   "totalOpen": "55.5"
+  },
+  "pick": "Pass",
+  "reason": "SMU about 50% no-vig at -110; no edge worth a pick.",
+  "risks": [
+   "ESPN model only 41% vs market 50%"
+  ],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-14T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Gerald J. Ford Stadium, Dallas"
+ },
+ "ncaaf-401858518": {
+  "_lastPick": "IU ML (-380)",
+  "away": {
+   "abbr": "USC",
+   "form": "WLWWL",
+   "name": "#18 USC",
+   "record": "7-2",
+   "short": "USC",
+   "teamId": "30"
+  },
+  "confidence": 74,
+  "espnId": "401858518",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 21.8,
+   "home": 78.2
+  },
+  "home": {
+   "abbr": "IU",
+   "form": "WWLWW",
+   "name": "#9 Indiana",
+   "record": "8-1",
+   "short": "Indiana",
+   "teamId": "84"
+  },
+  "id": "ncaaf-401858518",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858518",
+  "market": "Moneyline",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "+300",
+   "mlAwayOpen": "+320",
+   "mlHome": "-380",
+   "mlHomeOpen": "-410",
+   "provider": "DraftKings",
+   "spread": "IU -10",
+   "spreadOpen": "IU -10.5",
+   "total": "50.5",
+   "totalOpen": "58.5"
+  },
+  "pick": "IU ML (-380)",
+  "reason": "IU are about 76% no-vig at -380; ESPN's model has 78%.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-14T20:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Memorial Stadium (Bloomington, IN), Bloomington"
+ },
+ "ncaaf-401858520": {
+  "_lastPick": "WIS ML (-325)",
+  "away": {
+   "abbr": "WIS",
+   "form": "WLWLW",
+   "name": "Wisconsin Badgers",
+   "record": "6-3",
+   "short": "Wisconsin",
+   "teamId": "275"
+  },
+  "confidence": 72,
+  "espnId": "401858520",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 77.3,
+   "home": 22.7
+  },
+  "home": {
+   "abbr": "MD",
+   "form": "WLLLL",
+   "name": "Maryland Terrapins",
+   "record": "3-6",
+   "short": "Maryland",
+   "teamId": "120"
+  },
+  "id": "ncaaf-401858520",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858520",
+  "market": "Moneyline",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "-325",
+   "mlAwayOpen": "-270",
+   "mlHome": "+260",
+   "mlHomeOpen": "+220",
+   "provider": "DraftKings",
+   "spread": "WIS -8.5",
+   "spreadOpen": "WIS -7.5",
+   "total": "43.5",
+   "totalOpen": "43.5"
+  },
+  "pick": "WIS ML (-325)",
+  "reason": "WIS are about 73% no-vig at -325; ESPN's model has 77%.",
+  "risks": [],
+  "side": "away",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-14T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "SECU Stadium, College Park"
+ },
+ "ncaaf-401858521": {
+  "away": {
+   "abbr": "WASH",
+   "form": "LWWLL",
+   "name": "Washington Huskies",
+   "record": "5-4",
+   "short": "Washington",
+   "teamId": "264"
+  },
+  "confidence": 54,
+  "espnId": "401858521",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 51.8,
+   "home": 48.2
+  },
+  "home": {
+   "abbr": "MSU",
+   "form": "WLLLL",
+   "name": "Michigan State Spartans",
+   "record": "3-6",
+   "short": "Michigan St",
+   "teamId": "127"
+  },
+  "id": "ncaaf-401858521",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858521",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "-170",
+   "mlAwayOpen": "-155",
+   "mlHome": "+142",
+   "mlHomeOpen": "+130",
+   "provider": "DraftKings",
+   "spread": "WASH -3.5",
+   "spreadOpen": "WASH -3.5",
+   "total": "43.5",
+   "totalOpen": "45.5"
+  },
+  "pick": "Pass",
+  "reason": "WASH about 60% no-vig at -170; no edge worth a pick.",
+  "risks": [
+   "ESPN model only 52% vs market 60%"
+  ],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-14T21:15Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Spartan Stadium, East Lansing"
+ },
+ "ncaaf-401858522": {
+  "_lastPick": "OSU ML (-470)",
+  "away": {
+   "abbr": "NU",
+   "form": "LLWWW",
+   "name": "Northwestern Wildcats",
+   "record": "6-3",
+   "short": "Northwestern",
+   "teamId": "77"
+  },
+  "confidence": 79,
+  "espnId": "401858522",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 14.6,
+   "home": 85.4
+  },
+  "home": {
+   "abbr": "OSU",
+   "form": "LLWWW",
+   "name": "#20 Ohio State",
+   "record": "6-3",
+   "short": "Ohio State",
+   "teamId": "194"
+  },
+  "id": "ncaaf-401858522",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858522",
+  "market": "Moneyline",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "+360",
+   "mlAwayOpen": "+295",
+   "mlHome": "-470",
+   "mlHomeOpen": "-375",
+   "provider": "DraftKings",
+   "spread": "OSU -12.5",
+   "spreadOpen": "OSU -9.5",
+   "total": "45.5",
+   "totalOpen": "48.5"
+  },
+  "pick": "OSU ML (-470)",
+  "reason": "OSU are about 79% no-vig at -470; ESPN's model has 85%. For: ESPN model 85% vs market 79%.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 3,
+  "start": "2026-11-14T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Ohio Stadium, Columbus"
+ },
+ "ncaaf-401858523": {
+  "_lastPick": "ORE ML (-440)",
+  "away": {
+   "abbr": "MICH",
+   "form": "LWLWL",
+   "name": "Michigan Wolverines",
+   "record": "5-4",
+   "short": "Michigan",
+   "teamId": "130"
+  },
+  "confidence": 78,
+  "espnId": "401858523",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 14.2,
+   "home": 85.8
+  },
+  "home": {
+   "abbr": "ORE",
+   "form": "WWLWL",
+   "name": "#16 Oregon",
+   "record": "6-3",
+   "short": "Oregon",
+   "teamId": "2483"
+  },
+  "id": "ncaaf-401858523",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858523",
+  "market": "Moneyline",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "+340",
+   "mlAwayOpen": "+425",
+   "mlHome": "-440",
+   "mlHomeOpen": "-575",
+   "provider": "DraftKings",
+   "spread": "ORE -10.5",
+   "spreadOpen": "ORE -13.5",
+   "total": "38.5",
+   "totalOpen": "53.5"
+  },
+  "pick": "ORE ML (-440)",
+  "reason": "ORE are about 78% no-vig at -440; ESPN's model has 86%. For: ESPN model 86% vs market 78%.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 3,
+  "start": "2026-11-14T20:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Autzen Stadium, Eugene"
+ },
+ "ncaaf-401858525": {
+  "_lastPick": "NEB ML (-575)",
+  "away": {
+   "abbr": "NEB",
+   "form": "LLLLW",
+   "name": "Nebraska Cornhuskers",
+   "record": "5-4",
+   "short": "Nebraska",
+   "teamId": "158"
+  },
+  "confidence": 81,
+  "espnId": "401858525",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 87.1,
+   "home": 12.9
+  },
+  "home": {
+   "abbr": "RUTG",
+   "form": "LLLWL",
+   "name": "Rutgers Scarlet Knights",
+   "record": "2-7",
+   "short": "Rutgers",
+   "teamId": "164"
+  },
+  "id": "ncaaf-401858525",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858525",
+  "market": "Moneyline",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "-575",
+   "mlAwayOpen": "-535",
+   "mlHome": "+425",
+   "mlHomeOpen": "+400",
+   "provider": "DraftKings",
+   "spread": "NEB -14",
+   "spreadOpen": "NEB -12.5",
+   "total": "52.5",
+   "totalOpen": "54.5"
+  },
+  "pick": "NEB ML (-575)",
+  "reason": "NEB are about 82% no-vig at -575; ESPN's model has 87%. For: ESPN model 87% vs market 82%.",
+  "risks": [],
+  "side": "away",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 3,
+  "start": "2026-11-14T17:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "SHI Stadium, Piscataway"
  },
  "ncaaf-401858526": {
   "_lastPick": "UCLA ML (-395)",
@@ -2199,9 +3465,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858526",
   "market": "Moneyline",
   "news": [
-   "Kicks For Kids unites Duke University and Duke Children's Hospital",
-   "Why Jordan Rodgers has an issue with Tennessee's CFP rank behind Bama",
-   "Why Miami, Indiana had their significant drops in the CFP rankings"
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
   ],
   "odds": {
    "mlAway": "+310",
@@ -2223,8 +3489,126 @@
   "stars": 2,
   "start": "2026-11-14T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Rose Bowl, Pasadena"
+ },
+ "ncaaf-401860916": {
+  "_lastPick": "TXST ML (-375)",
+  "away": {
+   "abbr": "FRES",
+   "form": "LWLLW",
+   "name": "Fresno State Bulldogs",
+   "record": "5-4",
+   "short": "Fresno St",
+   "teamId": "278"
+  },
+  "confidence": 69,
+  "espnId": "401860916",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 33.6,
+   "home": 66.4
+  },
+  "home": {
+   "abbr": "TXST",
+   "form": "WLWWL",
+   "name": "Texas State Bobcats",
+   "record": "5-4",
+   "short": "Texas St",
+   "teamId": "326"
+  },
+  "id": "ncaaf-401860916",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401860916",
+  "market": "Moneyline",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "+295",
+   "mlAwayOpen": "+240",
+   "mlHome": "-375",
+   "mlHomeOpen": "-298",
+   "provider": "DraftKings",
+   "spread": "TXST -10",
+   "spreadOpen": "TXST -7",
+   "total": "59.5",
+   "totalOpen": "58.5"
+  },
+  "pick": "TXST ML (-375)",
+  "reason": "TXST are about 76% no-vig at -375; ESPN's model has 66%. For: line moved toward TXST (-298 → -375).",
+  "risks": [
+   "ESPN model only 66% vs market 76%"
+  ],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-14T21:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "UFCU Stadium, San Marcos"
+ },
+ "ncaaf-401861967": {
+  "_lastPick": "JMU ML (-192)",
+  "away": {
+   "abbr": "JMU",
+   "form": "WLLWW",
+   "name": "James Madison Dukes",
+   "record": "8-2",
+   "short": "James Madison",
+   "teamId": "256"
+  },
+  "confidence": 65,
+  "espnId": "401861967",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 75.1,
+   "home": 24.9
+  },
+  "home": {
+   "abbr": "CONN",
+   "form": "LLWWL",
+   "name": "UConn Huskies",
+   "record": "4-5",
+   "short": "UConn",
+   "teamId": "41"
+  },
+  "id": "ncaaf-401861967",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401861967",
+  "market": "Moneyline",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "-192",
+   "mlAwayOpen": "-118",
+   "mlHome": "+160",
+   "mlHomeOpen": "-102",
+   "provider": "DraftKings",
+   "spread": "JMU -4",
+   "spreadOpen": "JMU -1.5",
+   "total": "57.5",
+   "totalOpen": "56.5"
+  },
+  "pick": "JMU ML (-192)",
+  "reason": "JMU are about 63% no-vig at -192; ESPN's model has 75%. For: ESPN model 75% vs market 63%; line moved toward JMU (-118 → -192).",
+  "risks": [],
+  "side": "away",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 4,
+  "start": "2026-11-14T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Pratt & Whitney Stadium, East Hartford"
  },
  "ncaaf-401862824": {
   "_lastPick": "MEM ML (-192)",
@@ -2257,9 +3641,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862824",
   "market": null,
   "news": [
-   "Kicks For Kids unites Duke University and Duke Children's Hospital",
-   "Why Jordan Rodgers has an issue with Tennessee's CFP rank behind Bama",
-   "Why Miami, Indiana had their significant drops in the CFP rankings"
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
   ],
   "odds": {
    "mlAway": "-175",
@@ -2283,8 +3667,299 @@
   "stars": 1,
   "start": "2026-11-13T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Raymond James Stadium, Tampa"
+ },
+ "ncaaf-401862825": {
+  "_lastPick": "ECU ML (-455)",
+  "away": {
+   "abbr": "ECU",
+   "form": "WWLLW",
+   "name": "East Carolina Pirates",
+   "record": "5-4",
+   "short": "East Carolina",
+   "teamId": "151"
+  },
+  "confidence": 79,
+  "espnId": "401862825",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 87.9,
+   "home": 12.1
+  },
+  "home": {
+   "abbr": "CLT",
+   "form": "LLWLL",
+   "name": "Charlotte 49ers",
+   "record": "1-8",
+   "short": "Charlotte",
+   "teamId": "2429"
+  },
+  "id": "ncaaf-401862825",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401862825",
+  "market": "Moneyline",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "-455",
+   "mlAwayOpen": "-600",
+   "mlHome": "+350",
+   "mlHomeOpen": "+440",
+   "provider": "DraftKings",
+   "spread": "ECU -11.5",
+   "spreadOpen": "ECU -13.5",
+   "total": "45.5",
+   "totalOpen": "47.5"
+  },
+  "pick": "ECU ML (-455)",
+  "reason": "ECU are about 79% no-vig at -455; ESPN's model has 88%. For: ESPN model 88% vs market 79%.",
+  "risks": [],
+  "side": "away",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 3,
+  "start": "2026-11-14T18:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Jerry Richardson Stadium, Charlotte"
+ },
+ "ncaaf-401862826": {
+  "_lastPick": "TLSA ML (-218)",
+  "away": {
+   "abbr": "FAU",
+   "form": "WLWLW",
+   "name": "Florida Atlantic Owls",
+   "record": "6-3",
+   "short": "FAU",
+   "teamId": "2226"
+  },
+  "confidence": 67,
+  "espnId": "401862826",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 23.4,
+   "home": 76.6
+  },
+  "home": {
+   "abbr": "TLSA",
+   "form": "WLWLL",
+   "name": "Tulsa Golden Hurricane",
+   "record": "5-4",
+   "short": "Tulsa",
+   "teamId": "202"
+  },
+  "id": "ncaaf-401862826",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401862826",
+  "market": "Moneyline",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "+180",
+   "mlAwayOpen": "+170",
+   "mlHome": "-218",
+   "mlHomeOpen": "-205",
+   "provider": "DraftKings",
+   "spread": "TLSA -5.5",
+   "spreadOpen": "TLSA -5.5",
+   "total": "74.5",
+   "totalOpen": "66.5"
+  },
+  "pick": "TLSA ML (-218)",
+  "reason": "TLSA are about 66% no-vig at -218; ESPN's model has 77%. For: ESPN model 77% vs market 66%.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 3,
+  "start": "2026-11-14T20:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "H. A. Chapman Stadium, Tulsa"
+ },
+ "ncaaf-401862828": {
+  "away": {
+   "abbr": "TULN",
+   "form": "LWLWL",
+   "name": "Tulane Green Wave",
+   "record": "4-5",
+   "short": "Tulane",
+   "teamId": "2655"
+  },
+  "confidence": 45,
+  "espnId": "401862828",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 58.8,
+   "home": 41.2
+  },
+  "home": {
+   "abbr": "RICE",
+   "form": "LLLLL",
+   "name": "Rice Owls",
+   "record": "1-8",
+   "short": "Rice",
+   "teamId": "242"
+  },
+  "id": "ncaaf-401862828",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401862828",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "+110",
+   "mlAwayOpen": "-112",
+   "mlHome": "-130",
+   "mlHomeOpen": "-108",
+   "provider": "DraftKings",
+   "spread": "RICE -2.5",
+   "spreadOpen": "TULN -1.5",
+   "total": "47.5",
+   "totalOpen": "46.5"
+  },
+  "pick": "Pass",
+  "reason": "RICE about 54% no-vig at -130; no edge worth a pick.",
+  "risks": [
+   "ESPN model only 41% vs market 54%",
+   "opponent in better form (LWLWL)"
+  ],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-14T19:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "First Community Stadium, Houston"
+ },
+ "ncaaf-401862829": {
+  "away": {
+   "abbr": "UAB",
+   "form": "WLWLW",
+   "name": "UAB Blazers",
+   "record": "5-4",
+   "short": "UAB",
+   "teamId": "5"
+  },
+  "confidence": 56,
+  "espnId": "401862829",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 32.1,
+   "home": 67.9
+  },
+  "home": {
+   "abbr": "TEM",
+   "form": "LLLLW",
+   "name": "Temple Owls",
+   "record": "2-7",
+   "short": "Temple",
+   "teamId": "218"
+  },
+  "id": "ncaaf-401862829",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401862829",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "+114",
+   "mlAwayOpen": "+105",
+   "mlHome": "-135",
+   "mlHomeOpen": "-125",
+   "provider": "DraftKings",
+   "spread": "TEM -2.5",
+   "spreadOpen": "TEM -2.5",
+   "total": "48.5",
+   "totalOpen": "51.5"
+  },
+  "pick": "Pass",
+  "reason": "TEM about 55% no-vig at -135; no edge worth a pick.",
+  "risks": [
+   "opponent in better form (WLWLW)"
+  ],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-14T18:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Lincoln Financial Field, Philadelphia"
+ },
+ "ncaaf-401864536": {
+  "_lastPick": "NEV ML (-270)",
+  "away": {
+   "abbr": "NEV",
+   "form": "LLWLW",
+   "name": "Nevada Wolf Pack",
+   "record": "3-6",
+   "short": "Nevada",
+   "teamId": "2440"
+  },
+  "confidence": 67,
+  "espnId": "401864536",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 74.2,
+   "home": 25.8
+  },
+  "home": {
+   "abbr": "NIU",
+   "form": "LLLLL",
+   "name": "Northern Illinois Huskies",
+   "record": "0-9",
+   "short": "N Illinois",
+   "teamId": "2459"
+  },
+  "id": "ncaaf-401864536",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401864536",
+  "market": "Moneyline",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "-270",
+   "mlAwayOpen": "-425",
+   "mlHome": "+220",
+   "mlHomeOpen": "+330",
+   "provider": "DraftKings",
+   "spread": "NEV -7",
+   "spreadOpen": "NEV -10.5",
+   "total": "47.5",
+   "totalOpen": "46.5"
+  },
+  "pick": "NEV ML (-270)",
+  "reason": "NEV are about 70% no-vig at -270; ESPN's model has 74%.",
+  "risks": [
+   "line drifted away (-425 → -270)"
+  ],
+  "side": "away",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-14T20:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Huskie Stadium, Dekalb"
  },
  "ncaaf-401866458": {
   "_lastPick": "WMU ML (-700)",
@@ -2486,9 +4161,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401866461",
   "news": [
-   "Kicks For Kids unites Duke University and Duke Children's Hospital",
-   "Why Jordan Rodgers has an issue with Tennessee's CFP rank behind Bama",
-   "Why Miami, Indiana had their significant drops in the CFP rankings"
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
   ],
   "odds": {
    "mlAway": "-122",
@@ -2509,11 +4184,11 @@
   "stars": 1,
   "start": "2026-11-12T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Scheumann Stadium, Muncie"
  },
  "ncaaf-401866462": {
-  "_lastPick": "CMU ML (-1200)",
+  "_lastPick": "CMU ML (-1000)",
   "away": {
    "abbr": "SAC",
    "form": "LWLLL",
@@ -2522,7 +4197,7 @@
    "short": "Sacramento St",
    "teamId": "16"
   },
-  "confidence": 87,
+  "confidence": 86,
   "espnId": "401866462",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -2543,23 +4218,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401866462",
   "market": "Moneyline",
   "news": [
-   "Kicks For Kids unites Duke University and Duke Children's Hospital",
-   "Why Jordan Rodgers has an issue with Tennessee's CFP rank behind Bama",
-   "Why Miami, Indiana had their significant drops in the CFP rankings"
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
   ],
   "odds": {
-   "mlAway": "+750",
+   "mlAway": "+650",
    "mlAwayOpen": "+525",
-   "mlHome": "-1200",
+   "mlHome": "-1000",
    "mlHomeOpen": "-750",
    "provider": "DraftKings",
-   "spread": "CMU -18.5",
+   "spread": "CMU -17.5",
    "spreadOpen": "CMU -15.5",
-   "total": "43.5",
+   "total": "42.5",
    "totalOpen": "44.5"
   },
-  "pick": "CMU ML (-1200)",
-  "reason": "CMU are about 89% no-vig at -1200; ESPN's model has 93%. For: line moved toward CMU (-750 → -1200).",
+  "pick": "CMU ML (-1000)",
+  "reason": "CMU are about 87% no-vig at -1000; ESPN's model has 93%. For: ESPN model 93% vs market 87%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -2567,7 +4242,7 @@
   "stars": 3,
   "start": "2026-11-12T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Kelly/Shorts Stadium, Mount Pleasant"
  },
  "ncaaf-401866463": {
@@ -2601,9 +4276,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401866463",
   "market": "Moneyline",
   "news": [
-   "Kicks For Kids unites Duke University and Duke Children's Hospital",
-   "Why Jordan Rodgers has an issue with Tennessee's CFP rank behind Bama",
-   "Why Miami, Indiana had their significant drops in the CFP rankings"
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
   ],
   "odds": {
    "mlAway": "+440",
@@ -2613,7 +4288,7 @@
    "provider": "DraftKings",
    "spread": "TOL -14",
    "spreadOpen": "TOL -14",
-   "total": "51.5",
+   "total": "52.5",
    "totalOpen": "53.5"
   },
   "pick": "TOL ML (-600)",
@@ -2625,11 +4300,124 @@
   "stars": 3,
   "start": "2026-11-12T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Glass Bowl, Toledo"
  },
+ "ncaaf-401869937": {
+  "away": {
+   "abbr": "ARST",
+   "form": "LWWLL",
+   "name": "Arkansas State Red Wolves",
+   "record": "4-5",
+   "short": "Arkansas St",
+   "teamId": "2032"
+  },
+  "confidence": 49,
+  "espnId": "401869937",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 47.5,
+   "home": 52.5
+  },
+  "home": {
+   "abbr": "CCU",
+   "form": "LWLWL",
+   "name": "Coastal Carolina Chanticleers",
+   "record": "3-6",
+   "short": "Coastal",
+   "teamId": "324"
+  },
+  "id": "ncaaf-401869937",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401869937",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "-102",
+   "mlAwayOpen": "-102",
+   "mlHome": "-118",
+   "mlHomeOpen": "-118",
+   "provider": "DraftKings",
+   "spread": "CCU -1.5",
+   "spreadOpen": "CCU -1.5",
+   "total": "51.5",
+   "totalOpen": "50.5"
+  },
+  "pick": "Pass",
+  "reason": "CCU about 52% no-vig at -118; no edge worth a pick.",
+  "risks": [],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-14T18:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Brooks Stadium (SC), Conway"
+ },
+ "ncaaf-401869952": {
+  "_lastPick": "GASO ML (-205)",
+  "away": {
+   "abbr": "GASO",
+   "form": "WWWLW",
+   "name": "Georgia Southern Eagles",
+   "record": "5-4",
+   "short": "GA Southern",
+   "teamId": "290"
+  },
+  "confidence": 60,
+  "espnId": "401869952",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 61.2,
+   "home": 38.8
+  },
+  "home": {
+   "abbr": "GAST",
+   "form": "WLLLW",
+   "name": "Georgia State Panthers",
+   "record": "5-4",
+   "short": "Georgia St",
+   "teamId": "2247"
+  },
+  "id": "ncaaf-401869952",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401869952",
+  "market": "Moneyline",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "-205",
+   "mlAwayOpen": "-205",
+   "mlHome": "+170",
+   "mlHomeOpen": "+170",
+   "provider": "DraftKings",
+   "spread": "GASO -5.5",
+   "spreadOpen": "GASO -5.5",
+   "total": "56.5",
+   "totalOpen": "55.5"
+  },
+  "pick": "GASO ML (-205)",
+  "reason": "GASO are about 64% no-vig at -205; ESPN's model has 61%.",
+  "risks": [],
+  "side": "away",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-14T20:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Center Parc Stadium, Atlanta"
+ },
  "ncaaf-401869969": {
-  "_lastPick": "UL ML (-410)",
+  "_lastPick": "UL ML (-395)",
   "away": {
    "abbr": "UL",
    "form": "WLWLW",
@@ -2638,7 +4426,7 @@
    "short": "Louisiana",
    "teamId": "309"
   },
-  "confidence": 80,
+  "confidence": 79,
   "espnId": "401869969",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -2659,14 +4447,14 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869969",
   "market": "Moneyline",
   "news": [
-   "Kicks For Kids unites Duke University and Duke Children's Hospital",
-   "Why Jordan Rodgers has an issue with Tennessee's CFP rank behind Bama",
-   "Why Miami, Indiana had their significant drops in the CFP rankings"
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
   ],
   "odds": {
-   "mlAway": "-410",
+   "mlAway": "-395",
    "mlAwayOpen": "-410",
-   "mlHome": "+320",
+   "mlHome": "+310",
    "mlHomeOpen": "+320",
    "provider": "DraftKings",
    "spread": "UL -10.5",
@@ -2674,8 +4462,8 @@
    "total": "49.5",
    "totalOpen": "48.5"
   },
-  "pick": "UL ML (-410)",
-  "reason": "UL are about 77% no-vig at -410; ESPN's model has 91%. For: ESPN model 91% vs market 77%.",
+  "pick": "UL ML (-395)",
+  "reason": "UL are about 77% no-vig at -395; ESPN's model has 91%. For: ESPN model 91% vs market 77%.",
   "risks": [],
   "side": "away",
   "slug": "college-football",
@@ -2683,296 +4471,353 @@
   "stars": 3,
   "start": "2026-11-13T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Malone Stadium, Monroe"
  },
- "nfl-401873042": {
+ "ncaaf-401870752": {
+  "_lastPick": "JXST ML (-285)",
   "away": {
-   "abbr": "DET",
-   "name": "Detroit Lions",
-   "record": "5-2"
+   "abbr": "JXST",
+   "form": "WWWWW",
+   "name": "Jacksonville State Gamecocks",
+   "record": "7-2",
+   "short": "Jax State",
+   "teamId": "55"
   },
-  "confidence": 73,
-  "espnId": "401873042",
-  "espnLeague": "nfl",
+  "confidence": 69,
+  "espnId": "401870752",
+  "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 77.7,
-   "home": 22.1
+   "away": 72.1,
+   "home": 27.9
   },
   "home": {
-   "abbr": "MIA",
-   "name": "Miami Dolphins",
-   "record": "1-6"
+   "abbr": "WKU",
+   "form": "LLWWL",
+   "name": "Western Kentucky Hilltoppers",
+   "record": "3-6",
+   "short": "Western KY",
+   "teamId": "98"
   },
-  "id": "nfl-401873042",
-  "league": "NFL",
-  "link": "https://www.espn.com/nfl/game/_/gameId/401873042",
+  "id": "ncaaf-401870752",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401870752",
   "market": "Moneyline",
   "news": [
-   "DET moneyline moved from -270 to -355",
-   "Lions beat Arizona 45-21 last month"
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
   ],
   "odds": {
-   "mlAway": "-355",
-   "mlAwayOpen": "-270",
-   "mlHome": "+280",
-   "mlHomeOpen": "+220",
+   "mlAway": "-285",
+   "mlAwayOpen": "-205",
+   "mlHome": "+230",
+   "mlHomeOpen": "+170",
    "provider": "DraftKings",
-   "spread": "DET -7",
-   "spreadOpen": "DET -6.5",
-   "total": "50.5",
-   "totalOpen": "47.5"
+   "spread": "JXST -7.5",
+   "spreadOpen": "JXST -6",
+   "total": "54.5",
+   "totalOpen": "52.5"
   },
-  "pick": "DET ML (-355)",
-  "reason": "Detroit (5-2) is about 75% no-vig and ESPN's current model has them at 78%, so market and model agree. Miami is 1-6 and money has moved Detroit from -270 to -355. NFL moneylines are 19-8 here; a 3★ lean on the road favorite.",
-  "risks": [
-   "Road favorite in Miami heat",
-   "No current injury report retrieved for either team"
-  ],
-  "sport": "nfl",
+  "pick": "JXST ML (-285)",
+  "reason": "JXST are about 71% no-vig at -285; ESPN's model has 72%. For: line moved toward JXST (-205 → -285); form WWWWW vs LLWWL.",
+  "risks": [],
+  "side": "away",
+  "slug": "college-football",
+  "sport": "ncaaf",
   "stars": 3,
-  "start": "2026-11-08T18:00:00Z",
-  "updatedAt": "2026-11-08T16:30:00Z",
-  "venue": "Hard Rock Stadium, Miami Gardens"
+  "start": "2026-11-14T20:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Houchens Industries-L.T. Smith Stadium, Bowling Green"
  },
- "nfl-401873045": {
+ "ncaaf-401870769": {
+  "_lastPick": "KENN ML (-290)",
   "away": {
-   "abbr": "NYJ",
-   "injuries": [
-    "Garrett Wilson (WR) – Out, concussion"
-   ],
-   "name": "New York Jets",
-   "record": "2-6"
+   "abbr": "KENN",
+   "form": "WWLLL",
+   "name": "Kennesaw State Owls",
+   "record": "3-6",
+   "short": "Kennesaw St",
+   "teamId": "338"
   },
-  "confidence": 77,
-  "espnId": "401873045",
-  "espnLeague": "nfl",
+  "confidence": 67,
+  "espnId": "401870769",
+  "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 21,
-   "home": 78.8
+   "away": 68.6,
+   "home": 31.4
   },
   "home": {
-   "abbr": "KC",
-   "injuries": [
-    "Mansoor Delane (CB) – Out, shoulder"
-   ],
-   "name": "Kansas City Chiefs",
-   "record": "5-2"
-  },
-  "id": "nfl-401873045",
-  "league": "NFL",
-  "link": "https://www.espn.com/nfl/game/_/gameId/401873045",
-  "market": "Moneyline",
-  "news": [
-   "Jets lost 38-33 at home to the Raiders",
-   "KC moneyline moved from -470 to -600",
-   "Total jumped from 41.5 to 47.5"
-  ],
-  "odds": {
-   "mlAway": "+440",
-   "mlAwayOpen": "+360",
-   "mlHome": "-600",
-   "mlHomeOpen": "-470",
-   "provider": "DraftKings",
-   "spread": "KC -10",
-   "spreadOpen": "KC -9.5",
-   "total": "47.5",
-   "totalOpen": "41.5"
-  },
-  "pick": "KC ML (-600)",
-  "reason": "Kansas City is about 82% no-vig at home to a 2-6 Jets team that just gave up 38 to Las Vegas, and money has pushed the price from -470 to -600. ESPN's model (an older run) has KC near 79%. NFL moneylines are 19-8 here, but at -600 there is little value, so 2★ and trimmed to 77%.",
-  "risks": [
-   "Very steep price",
-   "KC lost 20-3 at Seattle two weeks ago",
-   "Total move hints at a shootout"
-  ],
-  "sport": "nfl",
-  "stars": 2,
-  "start": "2026-11-08T18:00:00Z",
-  "updatedAt": "2026-11-08T16:30:00Z",
-  "venue": "Arrowhead Stadium, Kansas City"
- },
- "nfl-401873046": {
-  "away": {
-   "abbr": "HOU",
-   "form": "LWWLL",
-   "injuries": [
-    "Jaylin Noel (WR) – IR, toe"
-   ],
-   "name": "Houston Texans"
-  },
-  "confidence": 62,
-  "espnId": "401873046",
-  "espnLeague": "nfl",
-  "espnSport": "football",
-  "espnWinProb": {
-   "away": 62,
-   "home": 37.7
-  },
-  "home": {
-   "abbr": "LAC",
+   "abbr": "SHSU",
    "form": "LLLLL",
-   "injuries": [
-    "Deane Leonard (CB) – Out, concussion",
-    "Brenen Thompson (WR) – Doubtful, quadriceps"
-   ],
-   "name": "Los Angeles Chargers",
-   "record": "0-7"
+   "name": "Sam Houston Bearkats",
+   "record": "1-8",
+   "short": "Sam Houston",
+   "teamId": "2534"
   },
-  "id": "nfl-401873046",
-  "league": "NFL",
-  "link": "https://www.espn.com/nfl/game/_/gameId/401873046",
+  "id": "ncaaf-401870769",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401870769",
   "market": "Moneyline",
   "news": [
-   "Chargers 0-7",
-   "Line flipped from LAC -1.5 to HOU -4.5"
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
   ],
   "odds": {
-   "mlAway": "-218",
-   "mlAwayOpen": "+110",
-   "mlHome": "+180",
-   "mlHomeOpen": "-130",
+   "mlAway": "-290",
+   "mlAwayOpen": "-305",
+   "mlHome": "+235",
+   "mlHomeOpen": "+245",
    "provider": "DraftKings",
-   "spread": "HOU -4.5",
-   "spreadOpen": "LAC -1.5",
-   "total": "40.5",
-   "totalOpen": "43.5"
+   "spread": "KENN -7.5",
+   "spreadOpen": "KENN -7.5",
+   "total": "46.5",
+   "totalOpen": "44.5"
   },
-  "pick": "HOU ML (-218)",
-  "reason": "The Chargers are 0-7 and ESPN's model gives Houston 62%, close to the 66% no-vig price after a big swing (now HOU -4.5, -218). Both QBs are active, and no injury explains the whole move. A 2★ lean on the road favorite. The price has stretched further to -238 (about 68% no-vig); confidence held at 62.",
-  "risks": [
-   "No clear news behind the move",
-   "Houston 2-3 in last five",
-   "Road favorite"
-  ],
-  "sport": "nfl",
+  "pick": "KENN ML (-290)",
+  "reason": "KENN are about 71% no-vig at -290; ESPN's model has 69%.",
+  "risks": [],
+  "side": "away",
+  "slug": "college-football",
+  "sport": "ncaaf",
   "stars": 2,
-  "start": "2026-11-08T21:05:00Z",
-  "updatedAt": "2026-11-08T16:30:00Z",
-  "venue": "SoFi Stadium, Inglewood"
+  "start": "2026-11-14T19:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Elliott T. Bowers Stadium, Huntsville"
  },
- "nfl-401873047": {
+ "ncaaf-401870796": {
   "away": {
-   "abbr": "LV",
-   "form": "WLLLL",
-   "injuries": [
-    "Patrick Johnson (DE) – IR, neck"
-   ],
-   "name": "Las Vegas Raiders",
-   "record": "4-4"
+   "abbr": "NMSU",
+   "form": "LLWLW",
+   "name": "New Mexico State Aggies",
+   "record": "3-6",
+   "short": "New Mexico St",
+   "teamId": "166"
   },
-  "confidence": 77,
-  "espnId": "401873047",
-  "espnLeague": "nfl",
+  "confidence": 52,
+  "espnId": "401870796",
+  "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 16.2,
-   "home": 83.6
+   "away": 41.5,
+   "home": 58.5
   },
   "home": {
-   "abbr": "SF",
-   "form": "LWWWW",
-   "injuries": [
-    "Brandon Aiyuk (WR) – Out, personal",
-    "Deebo Samuel Sr. (WR) – Out, hamstring"
-   ],
-   "name": "San Francisco 49ers",
-   "record": "6-1"
+   "abbr": "MOST",
+   "form": "LWLWL",
+   "name": "Missouri State Bears",
+   "record": "3-6",
+   "short": "Missouri St",
+   "teamId": "2623"
   },
-  "id": "nfl-401873047",
-  "league": "NFL",
-  "link": "https://www.espn.com/nfl/game/_/gameId/401873047",
-  "market": "Moneyline",
+  "id": "ncaaf-401870796",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401870796",
   "news": [
-   "Kirk Cousins brings a lift to the Raiders",
-   "SF moneyline moved from -425 to -535",
-   "Total up six points to 52.5"
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
   ],
   "odds": {
-   "mlAway": "+380",
-   "mlAwayOpen": "+330",
-   "mlHome": "-500",
-   "mlHomeOpen": "-425",
+   "mlAway": "+105",
+   "mlAwayOpen": "-105",
+   "mlHome": "-125",
+   "mlHomeOpen": "-115",
    "provider": "DraftKings",
-   "spread": "SF -10",
-   "spreadOpen": "SF -8.5",
-   "total": "51.5",
-   "totalOpen": "46.5"
+   "spread": "MOST -1.5",
+   "spreadOpen": "MOST -1.5",
+   "total": "48.5",
+   "totalOpen": "50.5"
   },
-  "pick": "SF ML (-500)",
-  "reason": "San Francisco (6-1) is about 81% no-vig and ESPN's current model has them at 84%, so market and model agree. Las Vegas has lost four of five, with the only win a shootout at the Jets. McCaffrey and Bosa are questionable, so 2★ at a steep price.",
-  "risks": [
-   "McCaffrey and Bosa questionable",
-   "SF lost at Atlanta two weeks ago",
-   "SF without Aiyuk and Samuel at WR"
-  ],
-  "sport": "nfl",
-  "stars": 2,
-  "start": "2026-11-08T21:25:00Z",
-  "updatedAt": "2026-11-08T16:30:00Z",
-  "venue": "Levi's Stadium, Santa Clara"
+  "pick": "Pass",
+  "reason": "MOST about 53% no-vig at -125; no edge worth a pick.",
+  "risks": [],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-14T20:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Robert W. Plaster Stadium, Springfield"
  },
- "nfl-401873048": {
+ "ncaaf-401871060": {
+  "_lastPick": "DEL ML (-205)",
   "away": {
-   "abbr": "ARI",
-   "form": "WLWLL",
-   "injuries": [
-    "Kendrick Bourne (WR) – Out"
-   ],
-   "name": "Arizona Cardinals"
+   "abbr": "FIU",
+   "form": "WLLLW",
+   "name": "Florida International Panthers",
+   "record": "4-5",
+   "short": "FIU",
+   "teamId": "2229"
   },
   "confidence": 63,
-  "espnId": "401873048",
-  "espnLeague": "nfl",
+  "espnId": "401871060",
+  "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 32.8,
-   "home": 67
+   "away": 32.2,
+   "home": 67.8
   },
   "home": {
-   "abbr": "SEA",
-   "form": "LWLLW",
-   "injuries": [
-    "Charles Cross (OT) – Questionable, ankle",
-    "Rashid Shaheed (WR) – Questionable, knee",
-    "Leonard Williams (DT) – Questionable, stinger"
-   ],
-   "name": "Seattle Seahawks"
+   "abbr": "DEL",
+   "form": "LWWLL",
+   "name": "Delaware Blue Hens",
+   "record": "4-5",
+   "short": "Delaware",
+   "teamId": "48"
   },
-  "id": "nfl-401873048",
-  "league": "NFL",
-  "link": "https://www.espn.com/nfl/game/_/gameId/401873048",
+  "id": "ncaaf-401871060",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401871060",
   "market": "Moneyline",
   "news": [
-   "Seahawks lost 34-17 at home to the Bears",
-   "Line drifted from SEA -13.5 to -12.5",
-   "Reports: Gardner Minshew to start at QB for Arizona"
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
   ],
   "odds": {
-   "mlAway": "+360",
-   "mlAwayOpen": "+525",
-   "mlHome": "-470",
-   "mlHomeOpen": "-750",
+   "mlAway": "+170",
+   "mlAwayOpen": "+170",
+   "mlHome": "-205",
+   "mlHomeOpen": "-218",
    "provider": "DraftKings",
-   "spread": "SEA -8.5",
-   "spreadOpen": "SEA -13.5",
-   "total": "39.5",
-   "totalOpen": "45.5"
+   "spread": "DEL -4.5",
+   "spreadOpen": "DEL -6.5",
+   "total": "53.5",
+   "totalOpen": "50.5"
   },
-  "pick": "SEA ML (-470)",
-  "reason": "Seattle has collapsed from -750 to -470 (spread 13.5 to 8.5), confirmed by both ESPN feeds, and ESPN's model has Seattle at only 67% against about 79% no-vig. Reports mention QB Sam Darnold being ruled out, which would explain the move, but that could not be confirmed for this week. Lowered to 63%: the market drift and model gap both point toward Arizona.",
-  "risks": [
-   "Possible Seattle QB absence behind the 5-point move",
-   "ESPN model 12 points below the market",
-   "Seattle 2-3 in last five"
-  ],
-  "sport": "nfl",
+  "pick": "DEL ML (-205)",
+  "reason": "DEL are about 64% no-vig at -205; ESPN's model has 68%.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
   "stars": 2,
-  "start": "2026-11-08T21:25:00Z",
-  "updatedAt": "2026-11-08T16:30:00Z",
-  "venue": "Lumen Field, Seattle"
+  "start": "2026-11-14T20:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Delaware Stadium, Newark"
+ },
+ "ncaaf-401871061": {
+  "_lastPick": "LIB ML (-1600)",
+  "away": {
+   "abbr": "MTSU",
+   "form": "WLWWL",
+   "name": "Middle Tennessee Blue Raiders",
+   "record": "5-4",
+   "short": "MTSU",
+   "teamId": "2393"
+  },
+  "confidence": 89,
+  "espnId": "401871061",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 5.2,
+   "home": 94.8
+  },
+  "home": {
+   "abbr": "LIB",
+   "form": "WWWWW",
+   "name": "Liberty Flames",
+   "record": "8-1",
+   "short": "Liberty",
+   "teamId": "2335"
+  },
+  "id": "ncaaf-401871061",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401871061",
+  "market": "Moneyline",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "+900",
+   "mlAwayOpen": "+1100",
+   "mlHome": "-1600",
+   "mlHomeOpen": "-2100",
+   "provider": "DraftKings",
+   "spread": "LIB -20.5",
+   "spreadOpen": "LIB -20.5",
+   "total": "53.5",
+   "totalOpen": "54.5"
+  },
+  "pick": "LIB ML (-1600)",
+  "reason": "LIB are about 90% no-vig at -1600; ESPN's model has 95%.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-14T20:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Williams Stadium (VA), Lynchburg"
+ },
+ "ncaaf-401871099": {
+  "_lastPick": "LT ML (-950)",
+  "away": {
+   "abbr": "USM",
+   "form": "LWWLL",
+   "name": "Southern Miss Golden Eagles",
+   "record": "3-6",
+   "short": "Southern Miss",
+   "teamId": "2572"
+  },
+  "confidence": 85,
+  "espnId": "401871099",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 11.5,
+   "home": 88.5
+  },
+  "home": {
+   "abbr": "LT",
+   "form": "WWWWW",
+   "name": "Louisiana Tech Bulldogs",
+   "record": "7-2",
+   "short": "Louisiana Tech",
+   "teamId": "2348"
+  },
+  "id": "ncaaf-401871099",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401871099",
+  "market": "Moneyline",
+  "news": [
+   "Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27",
+   "Tom Luginbill: Texas Tech needs to win out",
+   "Top 25 betting lines: LSU favored over Texas, and Indiana over USC"
+  ],
+  "odds": {
+   "mlAway": "+625",
+   "mlAwayOpen": "+850",
+   "mlHome": "-950",
+   "mlHomeOpen": "-1450",
+   "provider": "DraftKings",
+   "spread": "LT -17.5",
+   "spreadOpen": "LT -18.5",
+   "total": "55.5",
+   "totalOpen": "54.5"
+  },
+  "pick": "LT ML (-950)",
+  "reason": "LT are about 87% no-vig at -950; ESPN's model has 88%. For: form WWWWW vs LWWLL.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 3,
+  "start": "2026-11-14T22:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Joe Aillet Stadium, Ruston"
  },
  "nfl-401873050": {
   "away": {
@@ -3140,7 +4985,9 @@
    "abbr": "WSH",
    "form": "LWLTL",
    "injuries": [
-    "Lucas Patrick (G) – Doubtful, Concussion",
+    "Treylon Burks (WR) – Out",
+    "Colson Yankoff (TE) – Out, Knee",
+    "Lucas Patrick (G) – Out, Concussion",
     "Dyami Brown (WR) – Injured Reserve, Calf",
     "Daron Payne (DT) – Injured Reserve, Foot"
    ],
@@ -3161,7 +5008,9 @@
    "abbr": "NYG",
    "form": "WWLTW",
    "injuries": [
-    "Cam Skattebo (RB) – Out"
+    "Colton Hood (CB) – Out",
+    "Cam Skattebo (RB) – Out",
+    "Tyrone Tracy Jr. (RB) – Injured Reserve, Hamstring"
    ],
    "name": "New York Giants",
    "record": "5-2-1",
@@ -3172,11 +5021,25 @@
   "injuriesRaw": {
    "away": [
     {
+     "detail": "",
+     "player": "Treylon Burks",
+     "pos": "WR",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Colson Yankoff",
+     "pos": "TE",
+     "stale": false,
+     "status": "Out"
+    },
+    {
      "detail": "Concussion",
      "player": "Lucas Patrick",
      "pos": "G",
      "stale": false,
-     "status": "Doubtful"
+     "status": "Out"
     },
     {
      "detail": "Calf",
@@ -3196,19 +5059,33 @@
    "home": [
     {
      "detail": "",
+     "player": "Colton Hood",
+     "pos": "CB",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "",
      "player": "Cam Skattebo",
      "pos": "RB",
      "stale": false,
      "status": "Out"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "Tyrone Tracy Jr.",
+     "pos": "RB",
+     "stale": false,
+     "status": "Injured Reserve"
     }
    ]
   },
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873052",
   "news": [
-   "Fantasy football: Prep for Week 11 'Bye-mageddon' by stashing these players now",
-   "Why Jeff Saturday has 'no hope' for the Cowboys",
-   "Quinshon Judkins' Week 10 fantasy outlook"
+   "Sean McVay: Rams optimistic WR Davante Adams will return 'sooner than later'",
+   "Cardinals coach: Carson Beck's been a pro since he's been here",
+   "Cardinals to start rookie QB Carson Beck against Rams"
   ],
   "odds": {
    "mlAway": "+120",
@@ -3218,7 +5095,7 @@
    "provider": "DraftKings",
    "spread": "NYG -2.5",
    "spreadOpen": "NYG -1.5",
-   "total": "41.5",
+   "total": "40.5",
    "totalOpen": "47.5"
   },
   "pick": "Pass",
@@ -3231,7 +5108,7 @@
   "stars": 1,
   "start": "2026-11-13T01:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "MetLife Stadium, East Rutherford"
  },
  "soccer-401861145": {
@@ -3259,9 +5136,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861145",
   "news": [
+   "Kylian Mbappé (hamstring) to miss France clash with Italy",
    "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
-   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'"
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries"
   ],
   "odds": {
    "mlAway": "-130",
@@ -3283,7 +5160,7 @@
   "stars": 1,
   "start": "2026-11-12T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Göztepe Gürsel Aksel Stadi, Izmir"
  },
  "soccer-401861146": {
@@ -3295,7 +5172,7 @@
    "short": "Cyprus",
    "teamId": "445"
   },
-  "confidence": 37,
+  "confidence": 33,
   "espnId": "401861146",
   "espnLeague": "uefa.nations",
   "espnSport": "soccer",
@@ -3311,31 +5188,33 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861146",
   "news": [
+   "Kylian Mbappé (hamstring) to miss France clash with Italy",
    "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
-   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'"
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries"
   ],
   "odds": {
    "mlAway": "+200",
    "mlAwayOpen": "+210",
-   "mlDraw": "+215",
-   "mlHome": "+135",
+   "mlDraw": "+195",
+   "mlHome": "+145",
    "mlHomeOpen": "+115",
    "provider": "DraftKings",
-   "spread": "ARM +135",
+   "spread": "ARM +145",
    "spreadOpen": "ARM -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Armenia about 40% no-vig at +135; no edge worth a pick.",
-  "risks": [],
+  "reason": "Armenia about 38% no-vig at +145; no edge worth a pick.",
+  "risks": [
+   "line drifted away (+115 → +145)"
+  ],
   "slug": "uefa.nations",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-12T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Vazgen Sargsyan Republican Stadium, Yerevan"
  },
  "soccer-401861147": {
@@ -3347,7 +5226,7 @@
    "short": "Finland",
    "teamId": "458"
   },
-  "confidence": 46,
+  "confidence": 43,
   "espnId": "401861147",
   "espnLeague": "uefa.nations",
   "espnSport": "soccer",
@@ -3363,31 +5242,31 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861147",
   "news": [
+   "Kylian Mbappé (hamstring) to miss France clash with Italy",
    "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
-   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'"
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries"
   ],
   "odds": {
-   "mlAway": "+320",
+   "mlAway": "+310",
    "mlAwayOpen": "+275",
-   "mlDraw": "+220",
-   "mlHome": "-110",
+   "mlDraw": "+200",
+   "mlHome": "+100",
    "mlHomeOpen": "+100",
    "provider": "DraftKings",
-   "spread": "ALB -110",
+   "spread": "ALB +100",
    "spreadOpen": "ALB -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Albania about 49% no-vig at -110; no edge worth a pick.",
+  "reason": "Albania about 46% no-vig at +100; no edge worth a pick.",
   "risks": [],
   "slug": "uefa.nations",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-12T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Air Albania Stadium, Tirana"
  },
  "soccer-401861148": {
@@ -3400,7 +5279,7 @@
    "short": "Spain",
    "teamId": "164"
   },
-  "confidence": 76,
+  "confidence": 75,
   "espnId": "401861148",
   "espnLeague": "uefa.nations",
   "espnSport": "soccer",
@@ -3417,15 +5296,15 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861148",
   "market": "Moneyline",
   "news": [
+   "Kylian Mbappé (hamstring) to miss France clash with Italy",
    "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
-   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'"
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries"
   ],
   "odds": {
    "mlAway": "-525",
    "mlAwayOpen": "-650",
-   "mlDraw": "+600",
-   "mlHome": "+950",
+   "mlDraw": "+550",
+   "mlHome": "+1000",
    "mlHomeOpen": "+1100",
    "provider": "DraftKings",
    "spread": "ESP -525",
@@ -3434,7 +5313,7 @@
    "totalOpen": "3.5"
   },
   "pick": "Spain ML (-525)",
-  "reason": "Spain are about 78% no-vig at -525. For: form WWWWW vs LLLL.",
+  "reason": "Spain are about 77% no-vig at -525. For: form WWWWW vs LLLL.",
   "risks": [],
   "side": "away",
   "slug": "uefa.nations",
@@ -3442,7 +5321,7 @@
   "stars": 3,
   "start": "2026-11-12T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Generali Arena, Prague"
  },
  "soccer-401861149": {
@@ -3477,7 +5356,7 @@
   "stars": 1,
   "start": "2026-11-12T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "San Marino Stadium, Serravalle"
  },
  "soccer-401861150": {
@@ -3507,9 +5386,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861150",
   "market": "Moneyline",
   "news": [
+   "Kylian Mbappé (hamstring) to miss France clash with Italy",
    "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
-   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'"
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries"
   ],
   "odds": {
    "mlAway": "+900",
@@ -3532,7 +5411,7 @@
   "stars": 3,
   "start": "2026-11-12T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Wembley Stadium, London"
  },
  "soccer-401861151": {
@@ -3544,7 +5423,7 @@
    "short": "France",
    "teamId": "478"
   },
-  "confidence": 45,
+  "confidence": 46,
   "espnId": "401861151",
   "espnLeague": "uefa.nations",
   "espnSport": "soccer",
@@ -3560,35 +5439,35 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861151",
   "news": [
+   "Kylian Mbappé (hamstring) to miss France clash with Italy",
    "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
-   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'"
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries"
   ],
   "odds": {
-   "mlAway": "-110",
+   "mlAway": "-115",
    "mlAwayOpen": "-120",
-   "mlDraw": "+255",
-   "mlHome": "+260",
+   "mlDraw": "+260",
+   "mlHome": "+270",
    "mlHomeOpen": "+290",
    "provider": "DraftKings",
-   "spread": "FRA -110",
+   "spread": "FRA -115",
    "spreadOpen": "FRA -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "France about 48% no-vig at -110; no edge worth a pick.",
+  "reason": "France about 49% no-vig at -115; no edge worth a pick.",
   "risks": [],
   "slug": "uefa.nations",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-12T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "San Siro, Milano"
  },
  "soccer-401861152": {
-  "_lastPick": "Montenegro ML (-380)",
+  "_lastPick": "Montenegro ML (-360)",
   "away": {
    "abbr": "LVA",
    "form": "LLDL",
@@ -3614,24 +5493,24 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861152",
   "market": "Moneyline",
   "news": [
+   "Kylian Mbappé (hamstring) to miss France clash with Italy",
    "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
-   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'"
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries"
   ],
   "odds": {
    "mlAway": "+850",
    "mlAwayOpen": "+650",
    "mlDraw": "+425",
-   "mlHome": "-380",
+   "mlHome": "-360",
    "mlHomeOpen": "-280",
    "provider": "DraftKings",
-   "spread": "MNE -380",
+   "spread": "MNE -360",
    "spreadOpen": "MNE -1.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
-  "pick": "Montenegro ML (-380)",
-  "reason": "Montenegro are about 73% no-vig at -380. For: line moved toward Montenegro (-280 → -380); form DWWW vs LLDL.",
+  "pick": "Montenegro ML (-360)",
+  "reason": "Montenegro are about 73% no-vig at -360. For: line moved toward Montenegro (-280 → -360); form DWWW vs LLDL.",
   "risks": [],
   "side": "home",
   "slug": "uefa.nations",
@@ -3639,7 +5518,7 @@
   "stars": 3,
   "start": "2026-11-12T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Podgorica City Stadium, Podgorica"
  },
  "soccer-401861153": {
@@ -3669,9 +5548,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861153",
   "market": "Moneyline",
   "news": [
+   "Kylian Mbappé (hamstring) to miss France clash with Italy",
    "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
-   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'"
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries"
   ],
   "odds": {
    "mlAway": "-390",
@@ -3694,7 +5573,7 @@
   "stars": 2,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Rheinpark Stadion, Vaduz"
  },
  "soccer-401861154": {
@@ -3722,9 +5601,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861154",
   "news": [
+   "Kylian Mbappé (hamstring) to miss France clash with Italy",
    "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
-   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'"
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries"
   ],
   "odds": {
    "mlAway": "+255",
@@ -3746,7 +5625,7 @@
   "stars": 1,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Stade de Luxembourg, Luxembourg City"
  },
  "soccer-401861155": {
@@ -3774,9 +5653,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861155",
   "news": [
+   "Kylian Mbappé (hamstring) to miss France clash with Italy",
    "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
-   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'"
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries"
   ],
   "odds": {
    "mlAway": "+390",
@@ -3798,7 +5677,7 @@
   "stars": 1,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Estadi de la FAF d'Encamp, Encamp"
  },
  "soccer-401861156": {
@@ -3826,9 +5705,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861156",
   "news": [
+   "Kylian Mbappé (hamstring) to miss France clash with Italy",
    "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
-   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'"
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries"
   ],
   "odds": {
    "mlAway": "-155",
@@ -3850,7 +5729,7 @@
   "stars": 1,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Ljudski vrt, Maribor"
  },
  "soccer-401861157": {
@@ -3878,9 +5757,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861157",
   "news": [
+   "Kylian Mbappé (hamstring) to miss France clash with Italy",
    "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
-   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'"
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries"
   ],
   "odds": {
    "mlAway": "-125",
@@ -3902,7 +5781,7 @@
   "stars": 1,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Hristo Botev Stadium, Plovdiv, Plovdiv"
  },
  "soccer-401861158": {
@@ -3932,9 +5811,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861158",
   "market": "Moneyline",
   "news": [
+   "Kylian Mbappé (hamstring) to miss France clash with Italy",
    "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
-   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'"
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries"
   ],
   "odds": {
    "mlAway": "-380",
@@ -3957,7 +5836,7 @@
   "stars": 2,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Rajko Mitic Stadium, Belgrade"
  },
  "soccer-401861159": {
@@ -3985,9 +5864,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861159",
   "news": [
+   "Kylian Mbappé (hamstring) to miss France clash with Italy",
    "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
-   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'"
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries"
   ],
   "odds": {
    "mlAway": "+450",
@@ -4011,7 +5890,7 @@
   "stars": 1,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Johan Cruijff Arena, Amsterdam"
  },
  "soccer-401861160": {
@@ -4041,9 +5920,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861160",
   "market": "Moneyline",
   "news": [
+   "Kylian Mbappé (hamstring) to miss France clash with Italy",
    "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
-   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'"
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries"
   ],
   "odds": {
    "mlAway": "+700",
@@ -4066,7 +5945,7 @@
   "stars": 3,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Košická futbalová aréna (KFA), Kosice"
  },
  "soccer-401861161": {
@@ -4096,9 +5975,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861161",
   "market": "Moneyline",
   "news": [
+   "Kylian Mbappé (hamstring) to miss France clash with Italy",
    "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
-   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'"
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries"
   ],
   "odds": {
    "mlAway": "+1200",
@@ -4121,7 +6000,7 @@
   "stars": 2,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Hampden Park, Glasgow"
  },
  "soccer-401861162": {
@@ -4149,9 +6028,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861162",
   "news": [
+   "Kylian Mbappé (hamstring) to miss France clash with Italy",
    "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
-   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'"
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries"
   ],
   "odds": {
    "mlAway": "+180",
@@ -4173,7 +6052,7 @@
   "stars": 1,
   "start": "2026-11-13T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Stadionul Zimbru, Chisinau"
  },
  "soccer-401861163": {
@@ -4201,9 +6080,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861163",
   "news": [
+   "Kylian Mbappé (hamstring) to miss France clash with Italy",
    "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
-   "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'"
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries"
   ],
   "odds": {
    "mlAway": "+300",
@@ -4225,11 +6104,384 @@
   "stars": 1,
   "start": "2026-11-14T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Stadiumi Fadil Vokrri, Prishtina"
  },
+ "soccer-401861164": {
+  "away": {
+   "abbr": "HUN",
+   "form": "WWDL",
+   "name": "Hungary",
+   "record": "2-1-1",
+   "short": "Hungary",
+   "teamId": "480"
+  },
+  "confidence": 35,
+  "espnId": "401861164",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "GEO",
+   "form": "DLDL",
+   "name": "Georgia",
+   "record": "0-2-2",
+   "short": "Georgia",
+   "teamId": "584"
+  },
+  "id": "soccer-401861164",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861164",
+  "news": [
+   "Kylian Mbappé (hamstring) to miss France clash with Italy",
+   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries"
+  ],
+  "odds": {
+   "mlAway": "+145",
+   "mlAwayOpen": "+175",
+   "mlDraw": "+200",
+   "mlHome": "+195",
+   "mlHomeOpen": "+150",
+   "provider": "DraftKings",
+   "spread": "HUN +145",
+   "spreadOpen": "GEO -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Hungary about 38% no-vig at +145; no edge worth a pick.",
+  "risks": [],
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-14T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Mikheil Meskhi Stadioni, Tbilisi"
+ },
+ "soccer-401861165": {
+  "_lastPick": "Norway ML (-500)",
+  "away": {
+   "abbr": "WAL",
+   "form": "LWLL",
+   "name": "Wales",
+   "record": "1-0-3",
+   "short": "Wales",
+   "teamId": "578"
+  },
+  "confidence": 74,
+  "espnId": "401861165",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "NOR",
+   "form": "LLLW",
+   "name": "Norway",
+   "record": "1-0-3",
+   "short": "Norway",
+   "teamId": "464"
+  },
+  "id": "soccer-401861165",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861165",
+  "market": "Moneyline",
+  "news": [
+   "Kylian Mbappé (hamstring) to miss France clash with Italy",
+   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries"
+  ],
+  "odds": {
+   "mlAway": "+950",
+   "mlAwayOpen": "+750",
+   "mlDraw": "+550",
+   "mlHome": "-500",
+   "mlHomeOpen": "-450",
+   "provider": "DraftKings",
+   "spread": "NOR -500",
+   "spreadOpen": "NOR -1.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Norway ML (-500)",
+  "reason": "Norway are about 77% no-vig at -500.",
+  "risks": [],
+  "side": "home",
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 2,
+  "start": "2026-11-14T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Ullevaal Stadion, Oslo"
+ },
+ "soccer-401861166": {
+  "_lastPick": "Sweden ML (-200)",
+  "away": {
+   "abbr": "BIH",
+   "form": "WDWD",
+   "name": "Bosnia-Herzegovina",
+   "record": "2-2-0",
+   "short": "Bosnia-Herz",
+   "teamId": "452"
+  },
+  "confidence": 58,
+  "espnId": "401861166",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "SWE",
+   "form": "WDWW",
+   "name": "Sweden",
+   "record": "3-1-0",
+   "short": "Sweden",
+   "teamId": "466"
+  },
+  "id": "soccer-401861166",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861166",
+  "market": "Moneyline",
+  "news": [
+   "Kylian Mbappé (hamstring) to miss France clash with Italy",
+   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries"
+  ],
+  "odds": {
+   "mlAway": "+475",
+   "mlAwayOpen": "+450",
+   "mlDraw": "+310",
+   "mlHome": "-200",
+   "mlHomeOpen": "-205",
+   "provider": "DraftKings",
+   "spread": "SWE -200",
+   "spreadOpen": "SWE -1.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Sweden ML (-200)",
+  "reason": "Sweden are about 61% no-vig at -200.",
+  "risks": [],
+  "side": "home",
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 2,
+  "start": "2026-11-14T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Friends Arena, Stockholm"
+ },
+ "soccer-401861167": {
+  "_lastPick": "Portugal ML (-200)",
+  "away": {
+   "abbr": "DEN",
+   "form": "WLWL",
+   "name": "Denmark",
+   "record": "2-0-2",
+   "short": "Denmark",
+   "teamId": "479"
+  },
+  "confidence": 59,
+  "espnId": "401861167",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "POR",
+   "form": "WWWW",
+   "name": "Portugal",
+   "record": "4-0-0",
+   "short": "Portugal",
+   "teamId": "482"
+  },
+  "id": "soccer-401861167",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861167",
+  "market": "Moneyline",
+  "news": [
+   "Kylian Mbappé (hamstring) to miss France clash with Italy",
+   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries"
+  ],
+  "odds": {
+   "mlAway": "+450",
+   "mlAwayOpen": "+425",
+   "mlDraw": "+340",
+   "mlHome": "-200",
+   "mlHomeOpen": "-220",
+   "provider": "DraftKings",
+   "spread": "POR -200",
+   "spreadOpen": "POR -1.5",
+   "total": "3.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Portugal ML (-200)",
+  "reason": "Portugal are about 62% no-vig at -200.",
+  "risks": [],
+  "side": "home",
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 2,
+  "start": "2026-11-14T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Estádio Municipal de Braga, Braga"
+ },
+ "soccer-401861168": {
+  "away": {
+   "abbr": "POL",
+   "form": "LWLD",
+   "name": "Poland",
+   "record": "1-1-2",
+   "short": "Poland",
+   "teamId": "471"
+  },
+  "confidence": 48,
+  "espnId": "401861168",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "ROU",
+   "form": "LLLL",
+   "name": "Romania",
+   "record": "0-0-4",
+   "short": "Romania",
+   "teamId": "473"
+  },
+  "id": "soccer-401861168",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861168",
+  "news": [
+   "Kylian Mbappé (hamstring) to miss France clash with Italy",
+   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries"
+  ],
+  "odds": {
+   "mlAway": "-125",
+   "mlAwayOpen": "-105",
+   "mlDraw": "+275",
+   "mlHome": "+280",
+   "mlHomeOpen": "+230",
+   "provider": "DraftKings",
+   "spread": "POL -125",
+   "spreadOpen": "POL -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Poland about 51% no-vig at -125; no edge worth a pick.",
+  "risks": [],
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-14T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "National Arena, Bucuresti"
+ },
+ "soccer-401861169": {
+  "away": {
+   "abbr": "UKR",
+   "form": "LLDW",
+   "name": "Ukraine",
+   "record": "1-1-2",
+   "short": "Ukraine",
+   "teamId": "457"
+  },
+  "confidence": 37,
+  "espnId": "401861169",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "NIR",
+   "form": "DWDW",
+   "name": "Northern Ireland",
+   "record": "2-2-0",
+   "short": "N Ireland",
+   "teamId": "586"
+  },
+  "id": "soccer-401861169",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861169",
+  "news": [
+   "Kylian Mbappé (hamstring) to miss France clash with Italy",
+   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries"
+  ],
+  "odds": {
+   "mlAway": "+215",
+   "mlAwayOpen": "+205",
+   "mlDraw": "+200",
+   "mlHome": "+130",
+   "mlHomeOpen": "+125",
+   "provider": "DraftKings",
+   "spread": "NIR +130",
+   "spreadOpen": "NIR -0.5",
+   "total": "1.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "N Ireland about 40% no-vig at +130; no edge worth a pick.",
+  "risks": [],
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-14T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Windsor Park, Belfast"
+ },
+ "soccer-401861170": {
+  "away": {
+   "abbr": "IRL",
+   "form": "DDWL",
+   "name": "Republic of Ireland",
+   "record": "1-2-1",
+   "short": "Rep Ireland",
+   "teamId": "476"
+  },
+  "confidence": 56,
+  "espnId": "401861170",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "AUT",
+   "form": "DDWW",
+   "name": "Austria",
+   "record": "2-2-0",
+   "short": "Austria",
+   "teamId": "474"
+  },
+  "id": "soccer-401861170",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861170",
+  "news": [
+   "Kylian Mbappé (hamstring) to miss France clash with Italy",
+   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries"
+  ],
+  "odds": {
+   "mlAway": "+425",
+   "mlAwayOpen": "+400",
+   "mlDraw": "+295",
+   "mlHome": "-175",
+   "mlHomeOpen": "-180",
+   "provider": "DraftKings",
+   "spread": "AUT -175",
+   "spreadOpen": "AUT -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Austria about 59% no-vig at -175; no edge worth a pick.",
+  "risks": [],
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-14T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T22:17:00Z",
+  "venue": "Raiffeisen Arena (Linz), Linz"
+ },
  "soccer-401906458": {
-  "_lastPick": "New Zealand ML (-330)",
+  "_lastPick": "New Zealand ML (-400)",
   "away": {
    "abbr": "IND",
    "form": "WLLD",
@@ -4237,7 +6489,7 @@
    "short": "India",
    "teamId": "4385"
   },
-  "confidence": 69,
+  "confidence": 72,
   "espnId": "401906458",
   "espnLeague": "fifa.friendly",
   "espnSport": "soccer",
@@ -4258,27 +6510,27 @@
    "Socceroos name seven uncapped players to face Qatar, Jordan"
   ],
   "odds": {
-   "mlAway": "+800",
+   "mlAway": "+950",
    "mlAwayOpen": "+750",
-   "mlDraw": "+450",
-   "mlHome": "-330",
+   "mlDraw": "+500",
+   "mlHome": "-400",
    "mlHomeOpen": "-310",
    "provider": "DraftKings",
-   "spread": "NZL -330",
+   "spread": "NZL -400",
    "spreadOpen": "NZL -1.5",
-   "total": "2.5",
+   "total": "3.5",
    "totalOpen": "2.5"
   },
-  "pick": "New Zealand ML (-330)",
-  "reason": "New Zealand are about 72% no-vig at -330.",
+  "pick": "New Zealand ML (-400)",
+  "reason": "New Zealand are about 75% no-vig at -400. For: line moved toward New Zealand (-310 → -400).",
   "risks": [],
   "side": "home",
   "slug": "fifa.friendly",
   "sport": "soccer",
-  "stars": 2,
+  "stars": 3,
   "start": "2026-11-12T06:10Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Go Media Stadium, Auckland"
  },
  "soccer-401916337": {
@@ -4328,7 +6580,7 @@
   "stars": 1,
   "start": "2026-11-14T10:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Singapore National Stadium, Singapore"
  },
  "soccer-401916338": {
@@ -4361,7 +6613,7 @@
   "stars": 1,
   "start": "2026-11-13T12:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Singapore National Stadium, Singapore"
  },
  "soccer-401919978": {
@@ -4413,7 +6665,7 @@
   "stars": 1,
   "start": "2026-11-13T14:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Abdullah bin Khalifa Stadium, Ar-Rayyan"
  },
  "soccer-401921325": {
@@ -4466,7 +6718,7 @@
   "stars": 2,
   "start": "2026-11-14T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Pascual Guerrero, Cali"
  },
  "soccer-401930236": {
@@ -4499,7 +6751,7 @@
   "stars": 1,
   "start": "2026-11-14T12:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Zhaoqing New District Sports Center Stadium, Zhaoqing"
  },
  "soccer-401930243": {
@@ -4532,7 +6784,7 @@
   "stars": 1,
   "start": "2026-11-14T12:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Thien Truong Stadium, Nam Dinh"
  },
  "soccer-401930244": {
@@ -4637,7 +6889,7 @@
   "stars": 1,
   "start": "2026-11-13T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Alberto José Armando (La Bombonera), Buenos Aires"
  },
  "soccer-401930878": {
@@ -4670,7 +6922,7 @@
   "stars": 1,
   "start": "2026-11-14T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Estadio Alejandro Villanueva, Lima"
  },
  "soccer-401930879": {
@@ -4703,7 +6955,7 @@
   "stars": 1,
   "start": "2026-11-14T06:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Tianhe Stadium, Guangzhou"
  },
  "soccer-401930898": {
@@ -4736,7 +6988,7 @@
   "stars": 1,
   "start": "2026-11-14T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Estadio Olímpico Atahualpa, Quito"
  },
  "soccer-401930962": {
@@ -4769,7 +7021,7 @@
   "stars": 1,
   "start": "2026-11-12T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Pakhtakor Markaziy Stadium, Tashkent"
  },
  "soccer-401931296": {
@@ -4799,26 +7051,26 @@
    "Socceroos name seven uncapped players to face Qatar, Jordan"
   ],
   "odds": {
-   "mlAway": "+450",
+   "mlAway": "+475",
    "mlAwayOpen": "+400",
-   "mlDraw": "+295",
-   "mlHome": "-175",
+   "mlDraw": "+285",
+   "mlHome": "-165",
    "mlHomeOpen": "-155",
    "provider": "DraftKings",
-   "spread": "MLT -175",
+   "spread": "MLT -165",
    "spreadOpen": "MLT -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Malta about 59% no-vig at -175; no edge worth a pick.",
+  "reason": "Malta about 59% no-vig at -165; no edge worth a pick.",
   "risks": [],
   "slug": "fifa.friendly",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-12T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Ta' Qali National Stadium, Attard"
  },
  "soccer-401931476": {
@@ -4851,7 +7103,7 @@
   "stars": 1,
   "start": "2026-11-13T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Jassim Bin Hamad Stadium, Doha"
  },
  "soccer-401931957": {
@@ -4884,7 +7136,7 @@
   "stars": 1,
   "start": "2026-11-13T14:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Mohammed bin Zayed Stadium, Abu Dhabi"
  },
  "soccer-401931978": {
@@ -4917,7 +7169,7 @@
   "stars": 1,
   "start": "2026-11-13T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Al-Sadaqua Walsalam Stadium, Jaber Al-Ahmad International Stadium"
  },
  "soccer-401932237": {
@@ -4950,7 +7202,7 @@
   "stars": 1,
   "start": "2026-11-14T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Basra International Stadium, Basra"
  },
  "soccer-401933115": {
@@ -4981,26 +7233,26 @@
    "Socceroos name seven uncapped players to face Qatar, Jordan"
   ],
   "odds": {
-   "mlAway": "+160",
+   "mlAway": "+165",
    "mlAwayOpen": "+160",
    "mlDraw": "+210",
-   "mlHome": "+175",
+   "mlHome": "+180",
    "mlHomeOpen": "+175",
    "provider": "DraftKings",
-   "spread": "SUR +160",
+   "spread": "SUR +165",
    "spreadOpen": "SUR -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Suriname about 36% no-vig at +160; no edge worth a pick.",
+  "reason": "Suriname about 36% no-vig at +165; no edge worth a pick.",
   "risks": [],
   "slug": "fifa.friendly",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-12T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "S. Darius and S. Gireno Stadium, Kaunas"
  },
  "soccer-401933636": {
@@ -5033,7 +7285,7 @@
   "stars": 1,
   "start": "2026-11-13T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z",
+  "updatedAt": "2026-11-11T22:17:00Z",
   "venue": "Basra International Stadium, Basra"
  },
  "soccer-401933864": {
@@ -5066,6 +7318,6 @@
   "stars": 1,
   "start": "2026-11-14T05:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-11T15:39:33Z"
+  "updatedAt": "2026-11-11T22:17:00Z"
  }
 }
