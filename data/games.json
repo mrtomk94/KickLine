@@ -1,614 +1,178 @@
 {
- "nba-401909952": {
+ "nba-401909296": {
   "away": {
-   "abbr": "LAL",
-   "form": "WWWWW",
-   "injuries": [
-    "Austin Reaves (G) – Out, Illness",
-    "Quentin Grimes (G) – Out, Finger"
-   ],
-   "name": "Los Angeles Lakers",
-   "record": "9-2",
-   "short": "Lakers",
-   "teamId": "13"
-  },
-  "confidence": 52,
-  "espnId": "401909952",
-  "espnLeague": "nba",
-  "espnSport": "basketball",
-  "espnWinProb": {
-   "away": 46.5,
-   "home": 53.5
-  },
-  "home": {
-   "abbr": "ATL",
-   "form": "WWWWL",
-   "injuries": [
-    "Asa Newell (F) – Out, Toe",
-    "Keshon Gilbert (G) – Out, Knee"
-   ],
-   "name": "Atlanta Hawks",
-   "record": "7-4",
-   "short": "Hawks",
-   "teamId": "1"
-  },
-  "id": "nba-401909952",
-  "injuriesRaw": {
-   "away": [
-    {
-     "detail": "Illness",
-     "player": "Austin Reaves",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Finger",
-     "player": "Quentin Grimes",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    }
-   ],
-   "home": [
-    {
-     "detail": "Toe",
-     "player": "Asa Newell",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Keshon Gilbert",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Foot",
-     "player": "Mouhamed Gueye",
-     "pos": "F",
-     "stale": true,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Henri Veesaar",
-     "pos": "C",
-     "stale": true,
-     "status": "Out"
-    }
-   ]
-  },
-  "league": "NBA",
-  "link": "https://www.espn.com/nba/game/_/gameId/401909952",
-  "news": [
-   "Doc Rivers says he apologized to Giannis Antetokounmpo while clarifying critiques",
-   "Luka Doncic returns for Lakers; Austin Reaves, Quentin Grimes out vs. Hawks",
-   "Bronny James gets into verbal exchange with Pistons fans during Lakers' win"
-  ],
-  "odds": {
-   "mlAway": "+121",
-   "mlAwayOpen": "-133",
-   "mlHome": "-144",
-   "mlHomeOpen": "+112",
-   "provider": "DraftKings",
-   "spread": "ATL -2.5",
-   "spreadOpen": "LAL -2.5",
-   "total": "233.5",
-   "totalOpen": "236.5"
-  },
-  "pick": "Pass",
-  "reason": "ATL about 57% no-vig at -144; no edge worth a pick.",
-  "risks": [],
-  "slug": "nba",
-  "sport": "nba",
-  "stars": 1,
-  "start": "2026-11-10T00:00Z",
-  "state": "pre",
-  "updatedAt": "2026-11-09T23:57:16Z",
-  "venue": "State Farm Arena, Atlanta"
- },
- "nba-401909953": {
-  "_lastPick": "CLE ML (-336)",
-  "away": {
-   "abbr": "CLE",
-   "form": "LWLLW",
-   "injuries": [
-    "Sam Merrill (G) – Out, Elbow",
-    "Jaylon Tyson (G) – Out, Ankle"
-   ],
-   "name": "Cleveland Cavaliers",
-   "record": "5-5",
-   "short": "Cavaliers",
-   "teamId": "5"
-  },
-  "confidence": 72,
-  "espnId": "401909953",
-  "espnLeague": "nba",
-  "espnSport": "basketball",
-  "espnWinProb": {
-   "away": 75.9,
-   "home": 24.1
-  },
-  "home": {
-   "abbr": "CHA",
-   "form": "LLLLL",
-   "injuries": [
-    "Moussa Diabate (F) – Out, Quadriceps",
-    "Grant Williams (F) – Out, Hamstring",
-    "Kon Knueppel (G) – Out, Hamstring",
-    "Dennis Schroder (G) – Out, Hamstring",
-    "Brandon Miller (F) – Out, Groin"
-   ],
-   "name": "Charlotte Hornets",
-   "record": "3-7",
-   "short": "Hornets",
-   "teamId": "30"
-  },
-  "id": "nba-401909953",
-  "injuriesRaw": {
-   "away": [
-    {
-     "detail": "Elbow",
-     "player": "Sam Merrill",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Ankle",
-     "player": "Jaylon Tyson",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    }
-   ],
-   "home": [
-    {
-     "detail": "Quadriceps",
-     "player": "Moussa Diabate",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Hamstring",
-     "player": "Grant Williams",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Hamstring",
-     "player": "Kon Knueppel",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Hamstring",
-     "player": "Dennis Schroder",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Groin",
-     "player": "Brandon Miller",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    }
-   ]
-  },
-  "league": "NBA",
-  "link": "https://www.espn.com/nba/game/_/gameId/401909953",
-  "market": "Moneyline",
-  "news": [
-   "Luka Doncic returns for Lakers; Austin Reaves, Quentin Grimes out vs. Hawks",
-   "Bronny James gets into verbal exchange with Pistons fans during Lakers' win",
-   "NBA buzz: Latest on trades, news, roster moves and intel"
-  ],
-  "odds": {
-   "mlAway": "-336",
-   "mlAwayOpen": "-309",
-   "mlHome": "+270",
-   "mlHomeOpen": "+250",
-   "provider": "DraftKings",
-   "spread": "CLE -8.5",
-   "spreadOpen": "CLE -9.5",
-   "total": "215.5",
-   "totalOpen": "217.5"
-  },
-  "pick": "CLE ML (-336)",
-  "reason": "CLE are about 74% no-vig at -336; ESPN's model has 76%.",
-  "risks": [],
-  "side": "away",
-  "slug": "nba",
-  "sport": "nba",
-  "stars": 2,
-  "start": "2026-11-10T00:00Z",
-  "state": "pre",
-  "updatedAt": "2026-11-09T23:57:16Z",
-  "venue": "Spectrum Center, Charlotte"
- },
- "nba-401909954": {
-  "_lastPick": "DET ML (-411)",
-  "away": {
-   "abbr": "WSH",
-   "form": "LLLWW",
-   "injuries": [
-    "Bilal Coulibaly (G) – Out, Hand",
-    "Tristan Vukcevic (F) – Out, Hip",
-    "Reece Beekman (G) – Out, Shoulder",
-    "Justin Champagnie (F) – Out, Foot"
-   ],
-   "name": "Washington Wizards",
-   "record": "4-6",
-   "short": "Wizards",
-   "teamId": "27"
-  },
-  "confidence": 74,
-  "espnId": "401909954",
-  "espnLeague": "nba",
-  "espnSport": "basketball",
-  "espnWinProb": {
-   "away": 22.5,
-   "home": 77.5
-  },
-  "home": {
-   "abbr": "DET",
-   "form": "LLWWW",
-   "injuries": [
-    "Isaiah Joe (G) – Out, Hip",
-    "Jalen Duren (C) – Out, Hamstring"
-   ],
-   "name": "Detroit Pistons",
-   "record": "6-3",
-   "short": "Pistons",
-   "teamId": "8"
-  },
-  "id": "nba-401909954",
-  "injuriesRaw": {
-   "away": [
-    {
-     "detail": "Hand",
-     "player": "Bilal Coulibaly",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Hip",
-     "player": "Tristan Vukcevic",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Shoulder",
-     "player": "Reece Beekman",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Foot",
-     "player": "Justin Champagnie",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Jamir Watkins",
-     "pos": "G",
-     "stale": true,
-     "status": "Out"
-    }
-   ],
-   "home": [
-    {
-     "detail": "Hip",
-     "player": "Isaiah Joe",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Hamstring",
-     "player": "Jalen Duren",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    }
-   ]
-  },
-  "league": "NBA",
-  "link": "https://www.espn.com/nba/game/_/gameId/401909954",
-  "market": "Moneyline",
-  "news": [
-   "Luka Doncic returns for Lakers; Austin Reaves, Quentin Grimes out vs. Hawks",
-   "Bronny James gets into verbal exchange with Pistons fans during Lakers' win",
-   "NBA buzz: Latest on trades, news, roster moves and intel"
-  ],
-  "odds": {
-   "mlAway": "+323",
-   "mlAwayOpen": "+348",
-   "mlHome": "-411",
-   "mlHomeOpen": "-448",
-   "provider": "DraftKings",
-   "spread": "DET -9.5",
-   "spreadOpen": "DET -11.5",
-   "total": "218.5",
-   "totalOpen": "218.5"
-  },
-  "pick": "DET ML (-411)",
-  "reason": "DET are about 77% no-vig at -411; ESPN's model has 78%.",
-  "risks": [],
-  "side": "home",
-  "slug": "nba",
-  "sport": "nba",
-  "stars": 2,
-  "start": "2026-11-10T00:00Z",
-  "state": "pre",
-  "updatedAt": "2026-11-09T23:57:16Z",
-  "venue": "Little Caesars Arena, Detroit"
- },
- "nba-401909955": {
-  "away": {
-   "abbr": "MEM",
-   "form": "LLLWW",
-   "injuries": [
-    "Scotty Pippen Jr. (G) – Out, Back",
-    "Isaiah Stewart (C) – Out, Knee",
-    "Richie Saunders (G) – Out, Knee"
-   ],
-   "name": "Memphis Grizzlies",
-   "record": "6-3",
-   "short": "Grizzlies",
-   "teamId": "29"
-  },
-  "confidence": 48,
-  "espnId": "401909955",
-  "espnLeague": "nba",
-  "espnSport": "basketball",
-  "espnWinProb": {
-   "away": 50.4,
-   "home": 49.6
-  },
-  "home": {
-   "abbr": "TOR",
-   "form": "WLWLL",
-   "injuries": [
-    "Immanuel Quickley (G) – Out, Hamstring",
-    "Collin Murray-Boyles (F) – Out, Illness",
-    "Scottie Barnes (F) – Out, Groin",
-    "Nate Bittle (C) – Out, Foot",
-    "Kawhi Leonard (F) – Out, Knee"
-   ],
-   "name": "Toronto Raptors",
+   "abbr": "NY",
+   "name": "New York Knicks",
    "record": "5-4",
-   "short": "Raptors",
-   "teamId": "28"
+   "short": "Knicks",
+   "teamId": "18"
   },
-  "id": "nba-401909955",
-  "injuriesRaw": {
-   "away": [
-    {
-     "detail": "Back",
-     "player": "Scotty Pippen Jr.",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Isaiah Stewart",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Richie Saunders",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    }
-   ],
-   "home": [
-    {
-     "detail": "Hamstring",
-     "player": "Immanuel Quickley",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Illness",
-     "player": "Collin Murray-Boyles",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Groin",
-     "player": "Scottie Barnes",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Foot",
-     "player": "Nate Bittle",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Kawhi Leonard",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    }
-   ]
-  },
-  "league": "NBA",
-  "link": "https://www.espn.com/nba/game/_/gameId/401909955",
-  "news": [
-   "Luka Doncic returns for Lakers; Austin Reaves, Quentin Grimes out vs. Hawks",
-   "Bronny James gets into verbal exchange with Pistons fans during Lakers' win",
-   "NBA buzz: Latest on trades, news, roster moves and intel"
-  ],
-  "odds": {
-   "mlAway": "-119",
-   "mlAwayOpen": "+117",
-   "mlHome": "+101",
-   "mlHomeOpen": "-139",
-   "provider": "DraftKings",
-   "spread": "MEM -1.5",
-   "spreadOpen": "TOR -2.5",
-   "total": "225.5",
-   "totalOpen": "228.5"
-  },
-  "pick": "Pass",
-  "reason": "MEM about 52% no-vig at -119; no edge worth a pick.",
-  "risks": [],
-  "slug": "nba",
-  "sport": "nba",
-  "stars": 1,
-  "start": "2026-11-10T00:30Z",
-  "state": "pre",
-  "updatedAt": "2026-11-09T23:57:16Z",
-  "venue": "Scotiabank Arena, Toronto"
- },
- "nba-401909956": {
-  "_lastPick": "DAL ML (-191)",
-  "away": {
+  "espnId": "401909296",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
    "abbr": "IND",
-   "form": "LWLLL",
-   "injuries": [
-    "Tyrese Haliburton (G) – Out, Hamstring",
-    "Johnny Furphy (G) – Out, Knee",
-    "Ben Sheppard (G) – Out, Knee"
-   ],
    "name": "Indiana Pacers",
-   "record": "3-7",
+   "record": "3-8",
    "short": "Pacers",
    "teamId": "11"
   },
-  "confidence": 64,
-  "espnId": "401909956",
-  "espnLeague": "nba",
-  "espnSport": "basketball",
-  "espnWinProb": {
-   "away": 26.5,
-   "home": 73.5
-  },
-  "home": {
-   "abbr": "DAL",
-   "form": "WWLLW",
-   "injuries": [
-    "Morez Johnson Jr. (F) – Out, Leg",
-    "Sergio de Larrea (F) – Out, Knee",
-    "Tarik Biberovic (F) – Out, Heel",
-    "Dereck Lively II (C) – Out, Foot"
-   ],
-   "name": "Dallas Mavericks",
-   "record": "6-4",
-   "short": "Mavericks",
-   "teamId": "6"
-  },
-  "id": "nba-401909956",
-  "injuriesRaw": {
-   "away": [
-    {
-     "detail": "Hamstring",
-     "player": "Tyrese Haliburton",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Johnny Furphy",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Ben Sheppard",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    }
-   ],
-   "home": [
-    {
-     "detail": "Leg",
-     "player": "Morez Johnson Jr.",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Sergio de Larrea",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Heel",
-     "player": "Tarik Biberovic",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Foot",
-     "player": "Dereck Lively II",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    }
-   ]
-  },
+  "id": "nba-401909296",
   "league": "NBA",
-  "link": "https://www.espn.com/nba/game/_/gameId/401909956",
-  "market": "Moneyline",
-  "news": [
-   "Luka Doncic returns for Lakers; Austin Reaves, Quentin Grimes out vs. Hawks",
-   "Bronny James gets into verbal exchange with Pistons fans during Lakers' win",
-   "NBA buzz: Latest on trades, news, roster moves and intel"
-  ],
+  "link": "https://www.espn.com/nba/game/_/gameId/401909296",
   "odds": {
-   "mlAway": "+160",
-   "mlAwayOpen": "+142",
-   "mlHome": "-191",
-   "mlHomeOpen": "-169",
-   "provider": "DraftKings",
-   "spread": "DAL -4.5",
-   "spreadOpen": "DAL -4.5",
-   "total": "226.5",
-   "totalOpen": "222.5"
+   "provider": "DraftKings"
   },
-  "pick": "DAL ML (-191)",
-  "reason": "DAL are about 63% no-vig at -191; ESPN's model has 74%. For: ESPN model 74% vs market 63%.",
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
   "risks": [],
-  "side": "home",
   "slug": "nba",
   "sport": "nba",
-  "stars": 2,
-  "start": "2026-11-10T01:00Z",
+  "stars": 1,
+  "start": "2026-11-14T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-09T23:57:16Z",
-  "venue": "American Airlines Center, Dallas"
+  "updatedAt": "2026-11-11T01:18:36Z",
+  "venue": "Gainbridge Fieldhouse, Indianapolis"
+ },
+ "nba-401909297": {
+  "away": {
+   "abbr": "MIL",
+   "name": "Milwaukee Bucks",
+   "record": "1-9",
+   "short": "Bucks",
+   "teamId": "15"
+  },
+  "espnId": "401909297",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "ORL",
+   "name": "Orlando Magic",
+   "record": "2-7",
+   "short": "Magic",
+   "teamId": "19"
+  },
+  "id": "nba-401909297",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401909297",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-14T00:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T01:18:36Z",
+  "venue": "Kia Center, Orlando"
+ },
+ "nba-401909298": {
+  "away": {
+   "abbr": "CLE",
+   "name": "Cleveland Cavaliers",
+   "record": "5-6",
+   "short": "Cavaliers",
+   "teamId": "5"
+  },
+  "espnId": "401909298",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "MIA",
+   "name": "Miami Heat",
+   "record": "4-6",
+   "short": "Heat",
+   "teamId": "14"
+  },
+  "id": "nba-401909298",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401909298",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-14T01:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T01:18:36Z",
+  "venue": "Kaseya Center, Miami"
+ },
+ "nba-401909299": {
+  "away": {
+   "abbr": "ATL",
+   "name": "Atlanta Hawks",
+   "record": "7-5",
+   "short": "Hawks",
+   "teamId": "1"
+  },
+  "espnId": "401909299",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "CHI",
+   "name": "Chicago Bulls",
+   "record": "1-8",
+   "short": "Bulls",
+   "teamId": "4"
+  },
+  "id": "nba-401909299",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401909299",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-14T01:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T01:18:36Z",
+  "venue": "United Center, Chicago"
+ },
+ "nba-401909300": {
+  "away": {
+   "abbr": "MEM",
+   "name": "Memphis Grizzlies",
+   "record": "7-3",
+   "short": "Grizzlies",
+   "teamId": "29"
+  },
+  "espnId": "401909300",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "NO",
+   "name": "New Orleans Pelicans",
+   "record": "4-7",
+   "short": "Pelicans",
+   "teamId": "3"
+  },
+  "id": "nba-401909300",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401909300",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-14T01:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T01:18:36Z",
+  "venue": "Smoothie King Center, New Orleans"
  },
  "nba-401909957": {
   "_lastPick": "HOU ML (-173)",
@@ -987,7 +551,7 @@
   "sport": "nba",
   "stars": 2,
   "start": "2026-11-11T00:30Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Madison Square Garden, New York"
  },
@@ -1073,7 +637,7 @@
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-11T01:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Xfinity Mobile Arena, Philadelphia"
  },
@@ -1096,8 +660,8 @@
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 34.2,
-   "home": 65.8
+   "away": 34.5,
+   "home": 65.5
   },
   "home": {
    "abbr": "PHX",
@@ -1154,19 +718,19 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909962",
   "market": "Moneyline",
   "news": [
-   "Where to watch 'Portrait of an Artist: Stephen Curry' documentary",
-   "Karabell's notebook: Harden's declining role, Garland's TOs, a rookie to watch",
-   "Raptors say Kawhi Leonard will miss at least 1 more week due to knee swelling"
+   "Shams shares his insights into history of Jayson Tatum and Jaylen Brown's relationship",
+   "Jason Cadee: Anthony moves effortlessly down the court",
+   "NBA buzz: Latest on trades, news, roster moves and intel"
   ],
   "odds": {
    "mlAway": "+145",
    "mlAwayOpen": "+141",
    "mlHome": "-173",
    "mlHomeOpen": "-168",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "PHX -3.5",
    "spreadOpen": "PHX -4.5",
-   "total": "224.5",
+   "total": "223.5",
    "totalOpen": "225.5"
   },
   "pick": "PHX ML (-173)",
@@ -1178,11 +742,11 @@
   "stars": 2,
   "start": "2026-11-11T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Mortgage Matchup Center, Phoenix"
  },
  "nba-401909963": {
-  "_lastPick": "MIA ML (-438)",
+  "_lastPick": "MIA ML (-352)",
   "away": {
    "abbr": "MIA",
    "form": "WLWLW",
@@ -1192,13 +756,13 @@
    "short": "Heat",
    "teamId": "14"
   },
-  "confidence": 69,
+  "confidence": 67,
   "espnId": "401909963",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 60.7,
-   "home": 39.3
+   "away": 61.2,
+   "home": 38.8
   },
   "home": {
    "abbr": "UTAH",
@@ -1252,25 +816,25 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909963",
   "market": "Moneyline",
   "news": [
-   "Where to watch 'Portrait of an Artist: Stephen Curry' documentary",
-   "Karabell's notebook: Harden's declining role, Garland's TOs, a rookie to watch",
-   "Raptors say Kawhi Leonard will miss at least 1 more week due to knee swelling"
+   "Shams shares his insights into history of Jayson Tatum and Jaylen Brown's relationship",
+   "Jason Cadee: Anthony moves effortlessly down the court",
+   "NBA buzz: Latest on trades, news, roster moves and intel"
   ],
   "odds": {
-   "mlAway": "-438",
+   "mlAway": "-352",
    "mlAwayOpen": "-357",
-   "mlHome": "+341",
+   "mlHome": "+282",
    "mlHomeOpen": "+285",
-   "provider": "DraftKings",
-   "spread": "MIA -9.5",
+   "provider": "Draft Kings",
+   "spread": "MIA -8.5",
    "spreadOpen": "MIA -10.5",
    "total": "227.5",
    "totalOpen": "227.5"
   },
-  "pick": "MIA ML (-438)",
-  "reason": "MIA are about 78% no-vig at -438; ESPN's model has 61%. For: form WLWLW vs LLLLL.",
+  "pick": "MIA ML (-352)",
+  "reason": "MIA are about 75% no-vig at -352; ESPN's model has 61%. For: form WLWLW vs LLLLL.",
   "risks": [
-   "ESPN model only 61% vs market 78%"
+   "ESPN model only 61% vs market 75%"
   ],
   "side": "away",
   "slug": "nba",
@@ -1278,11 +842,11 @@
   "stars": 2,
   "start": "2026-11-11T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Delta Center, Salt Lake City"
  },
  "nba-401909964": {
-  "_lastPick": "ORL ML (-229)",
+  "_lastPick": "ORL ML (-217)",
   "away": {
    "abbr": "ORL",
    "form": "LLLLW",
@@ -1296,13 +860,13 @@
    "short": "Magic",
    "teamId": "19"
   },
-  "confidence": 67,
+  "confidence": 65,
   "espnId": "401909964",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 74.4,
-   "home": 25.6
+   "away": 71.6,
+   "home": 28.4
   },
   "home": {
    "abbr": "SAC",
@@ -1369,23 +933,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909964",
   "market": "Moneyline",
   "news": [
-   "Where to watch 'Portrait of an Artist: Stephen Curry' documentary",
-   "Karabell's notebook: Harden's declining role, Garland's TOs, a rookie to watch",
-   "Raptors say Kawhi Leonard will miss at least 1 more week due to knee swelling"
+   "Shams shares his insights into history of Jayson Tatum and Jaylen Brown's relationship",
+   "Jason Cadee: Anthony moves effortlessly down the court",
+   "NBA buzz: Latest on trades, news, roster moves and intel"
   ],
   "odds": {
-   "mlAway": "-229",
+   "mlAway": "-217",
    "mlAwayOpen": "-188",
-   "mlHome": "+190",
+   "mlHome": "+180",
    "mlHomeOpen": "+157",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "ORL -5.5",
    "spreadOpen": "ORL -5.5",
    "total": "222.5",
    "totalOpen": "221.5"
   },
-  "pick": "ORL ML (-229)",
-  "reason": "ORL are about 67% no-vig at -229; ESPN's model has 74%. For: ESPN model 74% vs market 67%; line moved toward ORL (-188 → -229). Capped at 2★: NBA capped by lessons.",
+  "pick": "ORL ML (-217)",
+  "reason": "ORL are about 66% no-vig at -217; ESPN's model has 72%. For: ESPN model 72% vs market 66%. Capped at 2★: NBA capped by lessons.",
   "risks": [],
   "side": "away",
   "slug": "nba",
@@ -1393,7 +957,7 @@
   "stars": 2,
   "start": "2026-11-11T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Golden 1 Center, Sacramento"
  },
  "nba-401909965": {
@@ -1417,8 +981,8 @@
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 59.2,
-   "home": 40.8
+   "away": 60.0,
+   "home": 40.0
   },
   "home": {
    "abbr": "POR",
@@ -1498,16 +1062,16 @@
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909965",
   "news": [
-   "Where to watch 'Portrait of an Artist: Stephen Curry' documentary",
-   "Karabell's notebook: Harden's declining role, Garland's TOs, a rookie to watch",
-   "Raptors say Kawhi Leonard will miss at least 1 more week due to knee swelling"
+   "Shams shares his insights into history of Jayson Tatum and Jaylen Brown's relationship",
+   "Jason Cadee: Anthony moves effortlessly down the court",
+   "NBA buzz: Latest on trades, news, roster moves and intel"
   ],
   "odds": {
    "mlAway": "-125",
    "mlAwayOpen": "-122",
    "mlHome": "+106",
    "mlHomeOpen": "+103",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "OKC -1.5",
    "spreadOpen": "OKC -1.5",
    "total": "226.5",
@@ -1521,42 +1085,129 @@
   "stars": 1,
   "start": "2026-11-11T04:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Moda Center, Portland"
  },
  "nba-401909966": {
   "away": {
    "abbr": "WSH",
+   "form": "LLLLW",
+   "injuries": [
+    "Tristan Vukcevic (F) – Out, Hip",
+    "Reece Beekman (G) – Out, Shoulder",
+    "Justin Champagnie (F) – Out, Foot"
+   ],
    "name": "Washington Wizards",
    "record": "4-7",
    "short": "Wizards",
    "teamId": "27"
   },
+  "confidence": 53,
   "espnId": "401909966",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 47.9,
+   "home": 52.1
+  },
   "home": {
    "abbr": "IND",
+   "form": "LLWLL",
+   "injuries": [
+    "Tyrese Haliburton (G) – Out, Hamstring",
+    "Johnny Furphy (G) – Out, Knee",
+    "Ben Sheppard (G) – Out, Knee"
+   ],
    "name": "Indiana Pacers",
    "record": "3-8",
    "short": "Pacers",
    "teamId": "11"
   },
   "id": "nba-401909966",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Hip",
+     "player": "Tristan Vukcevic",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Shoulder",
+     "player": "Reece Beekman",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Foot",
+     "player": "Justin Champagnie",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Jamir Watkins",
+     "pos": "G",
+     "stale": true,
+     "status": "Out"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Hamstring",
+     "player": "Tyrese Haliburton",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Johnny Furphy",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Ben Sheppard",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909966",
+  "news": [
+   "Shams shares his insights into history of Jayson Tatum and Jaylen Brown's relationship",
+   "Jason Cadee: Anthony moves effortlessly down the court",
+   "NBA buzz: Latest on trades, news, roster moves and intel"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+135",
+   "mlAwayOpen": "+135",
+   "mlHome": "-160",
+   "mlHomeOpen": "-161",
+   "provider": "Draft Kings",
+   "spread": "IND -4.5",
+   "spreadOpen": "IND -4.5",
+   "total": "226.5",
+   "totalOpen": "228.5"
   },
   "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
-  "risks": [],
+  "reason": "IND about 59% no-vig at -160; no edge worth a pick.",
+  "risks": [
+   "ESPN model only 52% vs market 59%"
+  ],
   "slug": "nba",
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-12T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Gainbridge Fieldhouse, Indianapolis"
  },
  "nba-401909967": {
@@ -1591,7 +1242,7 @@
   "stars": 1,
   "start": "2026-11-12T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Madison Square Garden, New York"
  },
  "nba-401909968": {
@@ -1626,77 +1277,183 @@
   "stars": 1,
   "start": "2026-11-12T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Scotiabank Arena, Toronto"
  },
  "nba-401909969": {
+  "_lastPick": "SA ML (-940)",
   "away": {
    "abbr": "SA",
+   "form": "WWWWW",
+   "injuries": [
+    "Tobias Harris (F) – Out, Calf"
+   ],
    "name": "San Antonio Spurs",
    "record": "9-2",
    "short": "Spurs",
    "teamId": "24"
   },
+  "confidence": 86,
   "espnId": "401909969",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 88.6,
+   "home": 11.4
+  },
   "home": {
    "abbr": "CHI",
+   "form": "LLLLL",
+   "injuries": [],
    "name": "Chicago Bulls",
    "record": "1-8",
    "short": "Bulls",
    "teamId": "4"
   },
   "id": "nba-401909969",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Calf",
+     "player": "Tobias Harris",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Jayden Quaintance",
+     "pos": "F",
+     "stale": true,
+     "status": "Out"
+    }
+   ],
+   "home": []
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909969",
+  "market": "Moneyline",
+  "news": [
+   "Shams shares his insights into history of Jayson Tatum and Jaylen Brown's relationship",
+   "Jason Cadee: Anthony moves effortlessly down the court",
+   "NBA buzz: Latest on trades, news, roster moves and intel"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "-940",
+   "mlAwayOpen": "-610",
+   "mlHome": "+630",
+   "mlHomeOpen": "+451",
+   "provider": "Draft Kings",
+   "spread": "SA -15.5",
+   "spreadOpen": "SA -14.5",
+   "total": "238.5",
+   "totalOpen": "237.5"
   },
-  "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "pick": "SA ML (-940)",
+  "reason": "SA are about 87% no-vig at -940; ESPN's model has 89%. For: line moved toward SA (-610 → -940); form WWWWW vs LLLLL. Capped at 2★: NBA capped by lessons.",
   "risks": [],
+  "side": "away",
   "slug": "nba",
   "sport": "nba",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-12T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "United Center, Chicago"
  },
  "nba-401909970": {
   "away": {
    "abbr": "DEN",
+   "form": "LWWLW",
+   "injuries": [],
    "name": "Denver Nuggets",
    "record": "5-4",
    "short": "Nuggets",
    "teamId": "7"
   },
+  "confidence": 56,
   "espnId": "401909970",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 59.2,
+   "home": 40.8
+  },
   "home": {
    "abbr": "MEM",
+   "form": "WLLLW",
+   "injuries": [
+    "Scotty Pippen Jr. (G) – Out, Back",
+    "Quinten Post (C) – Out, Head",
+    "Richie Saunders (G) – Out, Knee"
+   ],
    "name": "Memphis Grizzlies",
    "record": "7-3",
    "short": "Grizzlies",
    "teamId": "29"
   },
   "id": "nba-401909970",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Knee",
+     "player": "Julian Strawther",
+     "pos": "G",
+     "stale": true,
+     "status": "Out"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Back",
+     "player": "Scotty Pippen Jr.",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Head",
+     "player": "Quinten Post",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Richie Saunders",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909970",
+  "news": [
+   "Shams shares his insights into history of Jayson Tatum and Jaylen Brown's relationship",
+   "Jason Cadee: Anthony moves effortlessly down the court",
+   "NBA buzz: Latest on trades, news, roster moves and intel"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "-156",
+   "mlAwayOpen": "-156",
+   "mlHome": "+131",
+   "mlHomeOpen": "+131",
+   "provider": "Draft Kings",
+   "spread": "DEN -4.5",
+   "spreadOpen": "DEN -4.5",
+   "total": "228.5",
+   "totalOpen": "228.5"
   },
   "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "reason": "DEN about 58% no-vig at -156; no edge worth a pick.",
   "risks": [],
   "slug": "nba",
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-12T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "FedExForum, Memphis"
  },
  "nba-401909971": {
@@ -1731,42 +1488,96 @@
   "stars": 1,
   "start": "2026-11-12T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Fiserv Forum, Milwaukee"
  },
  "nba-401909972": {
   "away": {
    "abbr": "BKN",
+   "form": "LLWLW",
+   "injuries": [
+    "Egor Demin (G) – Out, Leg"
+   ],
    "name": "Brooklyn Nets",
    "record": "2-8",
    "short": "Nets",
    "teamId": "17"
   },
+  "confidence": 57,
   "espnId": "401909972",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 41.8,
+   "home": 58.2
+  },
   "home": {
    "abbr": "NO",
+   "form": "LLLWW",
+   "injuries": [
+    "Trendon Watford (F) – Out, Ankle",
+    "Yves Missi (C) – Out, Knee"
+   ],
    "name": "New Orleans Pelicans",
    "record": "4-7",
    "short": "Pelicans",
    "teamId": "3"
   },
   "id": "nba-401909972",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Leg",
+     "player": "Egor Demin",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Ankle",
+     "player": "Trendon Watford",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Yves Missi",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909972",
+  "news": [
+   "Shams shares his insights into history of Jayson Tatum and Jaylen Brown's relationship",
+   "Jason Cadee: Anthony moves effortlessly down the court",
+   "NBA buzz: Latest on trades, news, roster moves and intel"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+146",
+   "mlAwayOpen": "+138",
+   "mlHome": "-174",
+   "mlHomeOpen": "-164",
+   "provider": "Draft Kings",
+   "spread": "NO -5.5",
+   "spreadOpen": "NO -4.5",
+   "total": "229.5",
+   "totalOpen": "230.5"
   },
   "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "reason": "NO about 61% no-vig at -174; no edge worth a pick.",
   "risks": [],
   "slug": "nba",
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-12T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Smoothie King Center, New Orleans"
  },
  "nba-401909973": {
@@ -1801,42 +1612,132 @@
   "stars": 1,
   "start": "2026-11-12T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Delta Center, Salt Lake City"
  },
  "nba-401909974": {
+  "_lastPick": "HOU ML (-189)",
   "away": {
    "abbr": "GS",
+   "form": "WWWWW",
+   "injuries": [
+    "Gary Payton II (G) – Out, Knee",
+    "Will Richard (G) – Out, Thumb",
+    "Brandon Williams (G) – Out, Hamstring",
+    "Kristaps Porzingis (C) – Out, Illness"
+   ],
    "name": "Golden State Warriors",
    "record": "8-3",
    "short": "Warriors",
    "teamId": "9"
   },
+  "confidence": 61,
   "espnId": "401909974",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 32.8,
+   "home": 67.2
+  },
   "home": {
    "abbr": "HOU",
+   "form": "WLLWW",
+   "injuries": [
+    "Clint Capela (C) – Out, Ankle",
+    "Steven Adams (C) – Out, Calf"
+   ],
    "name": "Houston Rockets",
    "record": "8-3",
    "short": "Rockets",
    "teamId": "10"
   },
   "id": "nba-401909974",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Knee",
+     "player": "Gary Payton II",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Thumb",
+     "player": "Will Richard",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "Brandon Williams",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Illness",
+     "player": "Kristaps Porzingis",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Moses Moody",
+     "pos": "G",
+     "stale": true,
+     "status": "Out"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Ankle",
+     "player": "Clint Capela",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Calf",
+     "player": "Steven Adams",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909974",
+  "market": "Moneyline",
+  "news": [
+   "Shams shares his insights into history of Jayson Tatum and Jaylen Brown's relationship",
+   "Jason Cadee: Anthony moves effortlessly down the court",
+   "NBA buzz: Latest on trades, news, roster moves and intel"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+158",
+   "mlAwayOpen": "+158",
+   "mlHome": "-189",
+   "mlHomeOpen": "-189",
+   "provider": "Draft Kings",
+   "spread": "HOU -4.5",
+   "spreadOpen": "HOU -5.5",
+   "total": "223.5",
+   "totalOpen": "222.5"
   },
-  "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
-  "risks": [],
+  "pick": "HOU ML (-189)",
+  "reason": "HOU are about 63% no-vig at -189; ESPN's model has 67%.",
+  "risks": [
+   "opponent in better form (WWWWW)"
+  ],
+  "side": "home",
   "slug": "nba",
   "sport": "nba",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-12T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Toyota Center (Houston), Houston"
  },
  "nba-401909975": {
@@ -1871,7 +1772,7 @@
   "stars": 1,
   "start": "2026-11-12T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Moda Center, Portland"
  },
  "nba-401909976": {
@@ -1906,7 +1807,7 @@
   "stars": 1,
   "start": "2026-11-13T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Xfinity Mobile Arena, Philadelphia"
  },
  "nba-401909977": {
@@ -1941,7 +1842,7 @@
   "stars": 1,
   "start": "2026-11-13T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Capital One Arena, Washington"
  },
  "nba-401909978": {
@@ -1976,7 +1877,7 @@
   "stars": 1,
   "start": "2026-11-13T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Target Center, Minneapolis"
  },
  "nba-401909979": {
@@ -2011,8 +1912,66 @@
   "stars": 1,
   "start": "2026-11-13T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Mortgage Matchup Center, Phoenix"
+ },
+ "ncaaf-401858293": {
+  "_lastPick": "PITT ML (-170)",
+  "away": {
+   "abbr": "FSU",
+   "form": "WLLLW",
+   "name": "Florida State Seminoles",
+   "record": "4-5",
+   "short": "Florida St",
+   "teamId": "52"
+  },
+  "confidence": 58,
+  "espnId": "401858293",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 38.0,
+   "home": 62.0
+  },
+  "home": {
+   "abbr": "PITT",
+   "form": "WLLLW",
+   "name": "Pittsburgh Panthers",
+   "record": "6-3",
+   "short": "Pitt",
+   "teamId": "221"
+  },
+  "id": "ncaaf-401858293",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858293",
+  "market": "Moneyline",
+  "news": [
+   "Shane Beamer: 'There's nothing like the SEC Championship Game'",
+   "Mizzou's Drinkwitz: Smart's 'program is the benchmark for the SEC'",
+   "Sources: Michigan QBs Carr, Underwood both expected to play"
+  ],
+  "odds": {
+   "mlAway": "+142",
+   "mlAwayOpen": "+120",
+   "mlHome": "-170",
+   "mlHomeOpen": "-142",
+   "provider": "Draft Kings",
+   "spread": "PITT -3.5",
+   "spreadOpen": "PITT -3",
+   "total": "53.5",
+   "totalOpen": "53.5"
+  },
+  "pick": "PITT ML (-170)",
+  "reason": "PITT are about 60% no-vig at -170; ESPN's model has 62%. For: line moved toward PITT (-142 → -170).",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-14T00:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T01:18:36Z",
+  "venue": "Acrisure Stadium, Pittsburgh"
  },
  "ncaaf-401862824": {
   "_lastPick": "MEM ML (-192)",
@@ -2045,16 +2004,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862824",
   "market": null,
   "news": [
-   "Mizzou's Drinkwitz questions need for conferences with 24-team CFP 1 check-h reaction.",
-   "Missouri's Eli Drinkwitz questions need for conferences in 24-team CFP era",
-   "Florida cancels Notre Dame series; Irish then add games vs. Washington"
+   "Shane Beamer: 'There's nothing like the SEC Championship Game'",
+   "Mizzou's Drinkwitz: Smart's 'program is the benchmark for the SEC'",
+   "Sources: Michigan QBs Carr, Underwood both expected to play"
   ],
   "odds": {
    "mlAway": "-180",
    "mlAwayOpen": "-230",
    "mlHome": "+150",
    "mlHomeOpen": "+190",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "MEM -3.5",
    "spreadOpen": "MEM -6",
    "total": "49.5",
@@ -2071,7 +2030,7 @@
   "stars": 1,
   "start": "2026-11-13T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Raymond James Stadium, Tampa"
  },
  "ncaaf-401866458": {
@@ -2128,7 +2087,7 @@
   "sport": "ncaaf",
   "stars": 3,
   "start": "2026-11-11T00:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "InfoCision Stadium, Akron"
  },
@@ -2186,7 +2145,7 @@
   "sport": "ncaaf",
   "stars": 3,
   "start": "2026-11-11T00:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Doyt L. Perry Stadium, Bowling Green"
  },
@@ -2241,7 +2200,7 @@
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-11T01:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-10T21:17:02Z",
   "venue": "Yager Stadium, Oxford"
  },
@@ -2274,19 +2233,19 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401866461",
   "news": [
-   "Mizzou's Drinkwitz questions need for conferences with 24-team CFP 1 check-h reaction.",
-   "Missouri's Eli Drinkwitz questions need for conferences in 24-team CFP era",
-   "Florida cancels Notre Dame series; Irish then add games vs. Washington"
+   "Shane Beamer: 'There's nothing like the SEC Championship Game'",
+   "Mizzou's Drinkwitz: Smart's 'program is the benchmark for the SEC'",
+   "Sources: Michigan QBs Carr, Underwood both expected to play"
   ],
   "odds": {
    "mlAway": "-135",
    "mlAwayOpen": "-142",
    "mlHome": "+114",
    "mlHomeOpen": "+120",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "BUF -2.5",
    "spreadOpen": "BUFF -3",
-   "total": "51.5",
+   "total": "50.5",
    "totalOpen": "51.5"
   },
   "pick": "Pass",
@@ -2297,7 +2256,7 @@
   "stars": 1,
   "start": "2026-11-12T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Scheumann Stadium, Muncie"
  },
  "ncaaf-401866462": {
@@ -2331,16 +2290,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401866462",
   "market": "Moneyline",
   "news": [
-   "Mizzou's Drinkwitz questions need for conferences with 24-team CFP 1 check-h reaction.",
-   "Missouri's Eli Drinkwitz questions need for conferences in 24-team CFP era",
-   "Florida cancels Notre Dame series; Irish then add games vs. Washington"
+   "Shane Beamer: 'There's nothing like the SEC Championship Game'",
+   "Mizzou's Drinkwitz: Smart's 'program is the benchmark for the SEC'",
+   "Sources: Michigan QBs Carr, Underwood both expected to play"
   ],
   "odds": {
    "mlAway": "+675",
    "mlAwayOpen": "+525",
    "mlHome": "-1050",
    "mlHomeOpen": "-750",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "CMU -18.5",
    "spreadOpen": "CMU -15.5",
    "total": "43.5",
@@ -2355,7 +2314,7 @@
   "stars": 3,
   "start": "2026-11-12T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Kelly/Shorts Stadium, Mount Pleasant"
  },
  "ncaaf-401866463": {
@@ -2389,16 +2348,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401866463",
   "market": "Moneyline",
   "news": [
-   "Mizzou's Drinkwitz questions need for conferences with 24-team CFP 1 check-h reaction.",
-   "Missouri's Eli Drinkwitz questions need for conferences in 24-team CFP era",
-   "Florida cancels Notre Dame series; Irish then add games vs. Washington"
+   "Shane Beamer: 'There's nothing like the SEC Championship Game'",
+   "Mizzou's Drinkwitz: Smart's 'program is the benchmark for the SEC'",
+   "Sources: Michigan QBs Carr, Underwood both expected to play"
   ],
   "odds": {
    "mlAway": "+440",
    "mlAwayOpen": "+425",
    "mlHome": "-600",
    "mlHomeOpen": "-575",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "TOL -14.5",
    "spreadOpen": "TOL -14",
    "total": "51.5",
@@ -2413,7 +2372,7 @@
   "stars": 3,
   "start": "2026-11-12T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Glass Bowl, Toledo"
  },
  "ncaaf-401869969": {
@@ -2447,16 +2406,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869969",
   "market": "Moneyline",
   "news": [
-   "Mizzou's Drinkwitz questions need for conferences with 24-team CFP 1 check-h reaction.",
-   "Missouri's Eli Drinkwitz questions need for conferences in 24-team CFP era",
-   "Florida cancels Notre Dame series; Irish then add games vs. Washington"
+   "Shane Beamer: 'There's nothing like the SEC Championship Game'",
+   "Mizzou's Drinkwitz: Smart's 'program is the benchmark for the SEC'",
+   "Sources: Michigan QBs Carr, Underwood both expected to play"
   ],
   "odds": {
    "mlAway": "-410",
    "mlAwayOpen": "-410",
    "mlHome": "+320",
    "mlHomeOpen": "+320",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "UL -10.5",
    "spreadOpen": "UL -10.5",
    "total": "49.5",
@@ -2471,7 +2430,7 @@
   "stars": 3,
   "start": "2026-11-13T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Malone Stadium, Monroe"
  },
  "nfl-401873042": {
@@ -2928,7 +2887,9 @@
    "abbr": "WSH",
    "form": "LWLTL",
    "injuries": [
-    "Lucas Patrick (G) – Doubtful, Concussion"
+    "Lucas Patrick (G) – Doubtful, Concussion",
+    "Dyami Brown (WR) – Injured Reserve, Calf",
+    "Daron Payne (DT) – Injured Reserve, Foot"
    ],
    "name": "Washington Commanders",
    "record": "2-5-1",
@@ -2946,7 +2907,9 @@
   "home": {
    "abbr": "NYG",
    "form": "WWLTW",
-   "injuries": [],
+   "injuries": [
+    "Cam Skattebo (RB) – Out"
+   ],
    "name": "New York Giants",
    "record": "5-2-1",
    "short": "Giants",
@@ -2961,37 +2924,61 @@
      "pos": "G",
      "stale": false,
      "status": "Doubtful"
+    },
+    {
+     "detail": "Calf",
+     "player": "Dyami Brown",
+     "pos": "WR",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Foot",
+     "player": "Daron Payne",
+     "pos": "DT",
+     "stale": false,
+     "status": "Injured Reserve"
     }
    ],
-   "home": []
+   "home": [
+    {
+     "detail": "",
+     "player": "Cam Skattebo",
+     "pos": "RB",
+     "stale": false,
+     "status": "Out"
+    }
+   ]
   },
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873052",
   "news": [
-   "Fantasy football flex and superflex rankings for Week 10",
-   "Dolphins put QB Malik Willis on IR with groin injury",
-   "Orlovsky perplexed by the Colts not trading Jonathan Taylor"
+   "Raiders name Fernando Mendoza starting QB after trading away Kirk Cousins",
+   "Get ready for Chargers vs. Ravens on Monday Night Football",
+   "What the Kirk Cousins trade means for the Vikings and the Raiders"
   ],
   "odds": {
-   "mlAway": "+110",
+   "mlAway": "+114",
    "mlAwayOpen": "+105",
-   "mlHome": "-130",
+   "mlHome": "-135",
    "mlHomeOpen": "-125",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "NYG -2.5",
    "spreadOpen": "NYG -1.5",
    "total": "41.5",
    "totalOpen": "47.5"
   },
   "pick": "Pass",
-  "reason": "NYG about 54% no-vig at -130; no edge worth a pick.",
-  "risks": [],
+  "reason": "NYG about 55% no-vig at -135; no edge worth a pick.",
+  "risks": [
+   "ESPN model only 50% vs market 55%"
+  ],
   "slug": "nfl",
   "sport": "nfl",
   "stars": 1,
   "start": "2026-11-13T01:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "MetLife Stadium, East Rutherford"
  },
  "soccer-401861145": {
@@ -3019,9 +3006,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861145",
   "news": [
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
    "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
-   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
-   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener"
   ],
   "odds": {
    "mlAway": "-125",
@@ -3043,7 +3030,7 @@
   "stars": 1,
   "start": "2026-11-12T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Göztepe Gürsel Aksel Stadi, Izmir"
  },
  "soccer-401861146": {
@@ -3071,9 +3058,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861146",
   "news": [
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
    "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
-   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
-   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener"
   ],
   "odds": {
    "mlAway": "+200",
@@ -3095,7 +3082,7 @@
   "stars": 1,
   "start": "2026-11-12T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Vazgen Sargsyan Republican Stadium, Yerevan"
  },
  "soccer-401861147": {
@@ -3123,9 +3110,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861147",
   "news": [
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
    "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
-   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
-   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener"
   ],
   "odds": {
    "mlAway": "+310",
@@ -3147,7 +3134,7 @@
   "stars": 1,
   "start": "2026-11-12T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Air Albania Stadium, Tirana"
  },
  "soccer-401861148": {
@@ -3177,9 +3164,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861148",
   "market": "Moneyline",
   "news": [
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
    "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
-   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
-   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener"
   ],
   "odds": {
    "mlAway": "-525",
@@ -3202,7 +3189,7 @@
   "stars": 3,
   "start": "2026-11-12T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Generali Arena, Prague"
  },
  "soccer-401861149": {
@@ -3237,7 +3224,7 @@
   "stars": 1,
   "start": "2026-11-12T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "San Marino Stadium, Serravalle"
  },
  "soccer-401861150": {
@@ -3267,9 +3254,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861150",
   "market": "Moneyline",
   "news": [
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
    "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
-   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
-   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener"
   ],
   "odds": {
    "mlAway": "+900",
@@ -3292,7 +3279,7 @@
   "stars": 3,
   "start": "2026-11-12T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Wembley Stadium, London"
  },
  "soccer-401861151": {
@@ -3320,9 +3307,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861151",
   "news": [
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
    "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
-   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
-   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener"
   ],
   "odds": {
    "mlAway": "-140",
@@ -3344,7 +3331,7 @@
   "stars": 1,
   "start": "2026-11-12T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "San Siro, Milano"
  },
  "soccer-401861152": {
@@ -3374,9 +3361,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861152",
   "market": "Moneyline",
   "news": [
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
    "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
-   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
-   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener"
   ],
   "odds": {
    "mlAway": "+800",
@@ -3399,7 +3386,7 @@
   "stars": 3,
   "start": "2026-11-12T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Podgorica City Stadium, Podgorica"
  },
  "soccer-401861153": {
@@ -3429,9 +3416,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861153",
   "market": "Moneyline",
   "news": [
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
    "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
-   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
-   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener"
   ],
   "odds": {
    "mlAway": "-390",
@@ -3454,7 +3441,7 @@
   "stars": 2,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Rheinpark Stadion, Vaduz"
  },
  "soccer-401861154": {
@@ -3482,9 +3469,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861154",
   "news": [
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
    "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
-   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
-   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener"
   ],
   "odds": {
    "mlAway": "+255",
@@ -3506,7 +3493,7 @@
   "stars": 1,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Stade de Luxembourg, Luxembourg City"
  },
  "soccer-401861155": {
@@ -3534,9 +3521,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861155",
   "news": [
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
    "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
-   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
-   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener"
   ],
   "odds": {
    "mlAway": "+390",
@@ -3558,7 +3545,7 @@
   "stars": 1,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Estadi de la FAF d'Encamp, Encamp"
  },
  "soccer-401861156": {
@@ -3586,9 +3573,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861156",
   "news": [
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
    "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
-   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
-   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener"
   ],
   "odds": {
    "mlAway": "-160",
@@ -3610,7 +3597,7 @@
   "stars": 1,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Ljudski vrt, Maribor"
  },
  "soccer-401861157": {
@@ -3638,9 +3625,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861157",
   "news": [
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
    "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
-   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
-   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener"
   ],
   "odds": {
    "mlAway": "-125",
@@ -3662,7 +3649,7 @@
   "stars": 1,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Hristo Botev Stadium, Plovdiv, Plovdiv"
  },
  "soccer-401861158": {
@@ -3692,9 +3679,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861158",
   "market": "Moneyline",
   "news": [
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
    "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
-   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
-   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener"
   ],
   "odds": {
    "mlAway": "-370",
@@ -3717,7 +3704,7 @@
   "stars": 2,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Rajko Mitic Stadium, Belgrade"
  },
  "soccer-401861159": {
@@ -3745,9 +3732,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861159",
   "news": [
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
    "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
-   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
-   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener"
   ],
   "odds": {
    "mlAway": "+450",
@@ -3771,7 +3758,7 @@
   "stars": 1,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Johan Cruijff Arena, Amsterdam"
  },
  "soccer-401861160": {
@@ -3801,9 +3788,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861160",
   "market": "Moneyline",
   "news": [
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
    "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
-   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
-   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener"
   ],
   "odds": {
    "mlAway": "+750",
@@ -3826,7 +3813,7 @@
   "stars": 3,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Košická futbalová aréna (KFA), Kosice"
  },
  "soccer-401861161": {
@@ -3856,9 +3843,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861161",
   "market": "Moneyline",
   "news": [
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
    "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
-   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
-   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener"
   ],
   "odds": {
    "mlAway": "+1200",
@@ -3881,7 +3868,7 @@
   "stars": 2,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Hampden Park, Glasgow"
  },
  "soccer-401861162": {
@@ -3909,9 +3896,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861162",
   "news": [
+   "France woes mount as Tchouaméni, Thuram leave squad due to injuries",
    "Jobe Bellingham: Playing for England with brother Jude would be 'huge bonus'",
-   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener",
-   "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'"
+   "Scott McTominay had heart shocked 2 days before Scotland's World Cup opener"
   ],
   "odds": {
    "mlAway": "+180",
@@ -3933,7 +3920,7 @@
   "stars": 1,
   "start": "2026-11-13T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Stadionul Zimbru, Chisinau"
  },
  "soccer-401906458": {
@@ -3966,7 +3953,7 @@
   "stars": 1,
   "start": "2026-11-12T06:10Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Go Media Stadium, Auckland"
  },
  "soccer-401916338": {
@@ -3999,7 +3986,7 @@
   "stars": 1,
   "start": "2026-11-13T12:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Singapore National Stadium, Singapore"
  },
  "soccer-401919978": {
@@ -4051,18 +4038,51 @@
   "stars": 1,
   "start": "2026-11-13T14:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Abdullah bin Khalifa Stadium, Ar-Rayyan"
  },
+ "soccer-401921325": {
+  "away": {
+   "abbr": "CHI",
+   "name": "Chile",
+   "short": "Chile",
+   "teamId": "207"
+  },
+  "espnId": "401921325",
+  "espnLeague": "fifa.friendly",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "COL",
+   "name": "Colombia",
+   "short": "Colombia",
+   "teamId": "208"
+  },
+  "id": "soccer-401921325",
+  "league": "International Friendly",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401921325",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "fifa.friendly",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-14T00:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T01:18:36Z",
+  "venue": "Pascual Guerrero, Cali"
+ },
  "soccer-401930244": {
-  "_lastPick": "Vietnam ML (-650)",
+  "_lastPick": "Vietnam ML (-800)",
   "away": {
    "abbr": "TPE",
    "name": "Chinese Taipei",
    "short": "Taipei",
    "teamId": "14561"
   },
-  "confidence": 79,
+  "confidence": 81,
   "espnId": "401930244",
   "espnLeague": "fifa.friendly",
   "espnSport": "soccer",
@@ -4083,19 +4103,19 @@
    "Socceroos name seven uncapped players to face Qatar, Jordan"
   ],
   "odds": {
-   "mlAway": "+1300",
+   "mlAway": "+1400",
    "mlAwayOpen": "+1200",
-   "mlDraw": "+750",
-   "mlHome": "-650",
+   "mlDraw": "+850",
+   "mlHome": "-800",
    "mlHomeOpen": "-750",
    "provider": "DraftKings",
-   "spread": "VIE -650",
+   "spread": "VIE -800",
    "spreadOpen": "VIE -2.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
-  "pick": "Vietnam ML (-650)",
-  "reason": "Vietnam are about 82% no-vig at -650.",
+  "pick": "Vietnam ML (-800)",
+  "reason": "Vietnam are about 84% no-vig at -800.",
   "risks": [],
   "side": "home",
   "slug": "fifa.friendly",
@@ -4103,8 +4123,127 @@
   "stars": 2,
   "start": "2026-11-11T12:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Thien Truong Stadium, Nam Dinh"
+ },
+ "soccer-401930876": {
+  "_lastPick": "Argentina ML (-185)",
+  "away": {
+   "abbr": "URU",
+   "form": "WWL",
+   "name": "Uruguay",
+   "short": "Uruguay",
+   "teamId": "212"
+  },
+  "confidence": 58,
+  "espnId": "401930876",
+  "espnLeague": "fifa.friendly",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "ARG",
+   "form": "WWWL",
+   "name": "Argentina",
+   "short": "Argentina",
+   "teamId": "202"
+  },
+  "id": "soccer-401930876",
+  "league": "International Friendly",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401930876",
+  "market": "Moneyline",
+  "news": [
+   "Keller: USMNT roster will understand if Pochettino joins Man United",
+   "Football Australia looking for 'resolution' with Socceroos' Jordan game in doubt",
+   "Socceroos name seven uncapped players to face Qatar, Jordan"
+  ],
+  "odds": {
+   "mlAway": "+500",
+   "mlAwayOpen": "+500",
+   "mlDraw": "+295",
+   "mlHome": "-185",
+   "mlHomeOpen": "-195",
+   "provider": "DraftKings",
+   "spread": "ARG -185",
+   "spreadOpen": "ARG -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Argentina ML (-185)",
+  "reason": "Argentina are about 61% no-vig at -185.",
+  "risks": [],
+  "side": "home",
+  "slug": "fifa.friendly",
+  "sport": "soccer",
+  "stars": 2,
+  "start": "2026-11-13T23:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T01:18:36Z",
+  "venue": "Alberto José Armando (La Bombonera), Buenos Aires"
+ },
+ "soccer-401930878": {
+  "away": {
+   "abbr": "BOL",
+   "name": "Bolivia",
+   "short": "Bolivia",
+   "teamId": "204"
+  },
+  "espnId": "401930878",
+  "espnLeague": "fifa.friendly",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "PER",
+   "name": "Peru",
+   "short": "Peru",
+   "teamId": "211"
+  },
+  "id": "soccer-401930878",
+  "league": "International Friendly",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401930878",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "fifa.friendly",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-14T01:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T01:18:36Z",
+  "venue": "Estadio Alejandro Villanueva, Lima"
+ },
+ "soccer-401930898": {
+  "away": {
+   "abbr": "CRC",
+   "name": "Costa Rica",
+   "short": "Costa Rica",
+   "teamId": "214"
+  },
+  "espnId": "401930898",
+  "espnLeague": "fifa.friendly",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "ECU",
+   "name": "Ecuador",
+   "short": "Ecuador",
+   "teamId": "209"
+  },
+  "id": "soccer-401930898",
+  "league": "International Friendly",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401930898",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "fifa.friendly",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-14T00:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-11T01:18:36Z",
+  "venue": "Estadio Olímpico Atahualpa, Quito"
  },
  "soccer-401930962": {
   "away": {
@@ -4136,7 +4275,7 @@
   "stars": 1,
   "start": "2026-11-12T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Pakhtakor Markaziy Stadium, Tashkent"
  },
  "soccer-401931296": {
@@ -4169,7 +4308,7 @@
   "stars": 1,
   "start": "2026-11-12T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Ta' Qali National Stadium, Attard"
  },
  "soccer-401931476": {
@@ -4202,7 +4341,7 @@
   "stars": 1,
   "start": "2026-11-13T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Jassim Bin Hamad Stadium, Doha"
  },
  "soccer-401931957": {
@@ -4235,7 +4374,7 @@
   "stars": 1,
   "start": "2026-11-13T14:10Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Mohammed bin Zayed Stadium, Abu Dhabi"
  },
  "soccer-401931978": {
@@ -4268,7 +4407,7 @@
   "stars": 1,
   "start": "2026-11-13T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Al-Sadaqua Walsalam Stadium, Jaber Al-Ahmad International Stadium"
  },
  "soccer-401933115": {
@@ -4301,7 +4440,7 @@
   "stars": 1,
   "start": "2026-11-12T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "S. Darius and S. Gireno Stadium, Kaunas"
  },
  "soccer-401933636": {
@@ -4334,7 +4473,7 @@
   "stars": 1,
   "start": "2026-11-13T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-10T21:17:02Z",
+  "updatedAt": "2026-11-11T01:18:36Z",
   "venue": "Basra International Stadium, Basra"
  }
 }
