@@ -1,0 +1,108 @@
+{
+ "id": "ncaaf-401866462",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-12T00:30Z",
+ "home": {
+  "name": "Central Michigan Chippewas",
+  "abbr": "CMU",
+  "teamId": "2117",
+  "score": 28.0
+ },
+ "away": {
+  "name": "Sacramento State Hornets",
+  "abbr": "SAC",
+  "teamId": "16",
+  "score": 7.0
+ },
+ "odds": {
+  "mlAway": "+650",
+  "mlAwayOpen": "+525",
+  "mlHome": "-1000",
+  "mlHomeOpen": "-750",
+  "provider": "DraftKings",
+  "spread": "CMU -17.5",
+  "spreadOpen": "CMU -15.5",
+  "total": "42.5",
+  "totalOpen": "44.5"
+ },
+ "espnWinProb": {
+  "away": 7.1,
+  "home": 92.9
+ },
+ "teams": {
+  "away": {
+   "abbr": "SAC",
+   "stats": {
+    "firstDowns": "10",
+    "thirdDownEff": "3-10",
+    "fourthDownEff": "1-2",
+    "totalYards": "211",
+    "netPassingYards": "103",
+    "completionAttempts": "13/28",
+    "yardsPerPass": "3.7",
+    "rushingYards": "108",
+    "rushingAttempts": "17",
+    "yardsPerRushAttempt": "6.4",
+    "totalPenaltiesYards": "4-32",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "20:12"
+   }
+  },
+  "home": {
+   "abbr": "CMU",
+   "stats": {
+    "firstDowns": "24",
+    "thirdDownEff": "11-18",
+    "fourthDownEff": "3-4",
+    "totalYards": "424",
+    "netPassingYards": "105",
+    "completionAttempts": "11/19",
+    "yardsPerPass": "5.5",
+    "rushingYards": "319",
+    "rushingAttempts": "56",
+    "yardsPerRushAttempt": "5.7",
+    "totalPenaltiesYards": "2-20",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "39:48"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "11:11",
+   "team": "CMU",
+   "text": "Jayden Clerveaux 27 Yd Run (Caden VanHuis Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "4:01",
+   "team": "SAC",
+   "text": "Isaiah Ene 37 Yd Run (Saul Marks Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:19",
+   "team": "CMU",
+   "text": "Vaughn Blue 8 Yd Run (Caden VanHuis Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "6:23",
+   "team": "CMU",
+   "text": "Brock Townsend 40 Yd Run (Caden VanHuis Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "1:05",
+   "team": "CMU",
+   "text": "Brock Townsend 6 Yd Run (Caden VanHuis Kick)"
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "id": "ncaaf-401866461",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-12T00:30Z",
+ "home": {
+  "name": "Ball State Cardinals",
+  "abbr": "BALL",
+  "teamId": "2050",
+  "score": 7.0
+ },
+ "away": {
+  "name": "Buffalo Bulls",
+  "abbr": "BUFF",
+  "teamId": "2084",
+  "score": 28.0
+ },
+ "odds": {
+  "mlAway": "-122",
+  "mlAwayOpen": "-142",
+  "mlHome": "+102",
+  "mlHomeOpen": "+120",
+  "provider": "DraftKings",
+  "spread": "BUF -1.5",
+  "spreadOpen": "BUFF -3",
+  "total": "51.5",
+  "totalOpen": "51.5"
+ },
+ "espnWinProb": {
+  "away": 65.7,
+  "home": 34.3
+ },
+ "teams": {
+  "away": {
+   "abbr": "BUFF",
+   "stats": {
+    "firstDowns": "19",
+    "thirdDownEff": "5-13",
+    "fourthDownEff": "1-1",
+    "totalYards": "350",
+    "netPassingYards": "48",
+    "completionAttempts": "5/14",
+    "yardsPerPass": "3.4",
+    "rushingYards": "302",
+    "rushingAttempts": "52",
+    "yardsPerRushAttempt": "5.8",
+    "totalPenaltiesYards": "3-25",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "31:56"
+   }
+  },
+  "home": {
+   "abbr": "BALL",
+   "stats": {
+    "firstDowns": "19",
+    "thirdDownEff": "4-15",
+    "fourthDownEff": "1-4",
+    "totalYards": "325",
+    "netPassingYards": "136",
+    "completionAttempts": "20/39",
+    "yardsPerPass": "3.5",
+    "rushingYards": "189",
+    "rushingAttempts": "33",
+    "yardsPerRushAttempt": "5.7",
+    "totalPenaltiesYards": "3-31",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "28:04"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "1:47",
+   "team": "BALL",
+   "text": "Gabe Aramboles 0 Yd Return of Blocked Punt (Brody Boehm Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "4:04",
+   "team": "BUFF",
+   "text": "Chance Morrow 14 Yd pass from Jason Wright (Oliver Hautanen Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "3:10",
+   "team": "BUFF",
+   "text": "Messiah Burch 2 Yd Run (Oliver Hautanen Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "4:04",
+   "team": "BUFF",
+   "text": "Messiah Burch 67 Yd Run (Oliver Hautanen Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "3:58",
+   "team": "BUFF",
+   "text": "Terrance Shelton Jr. 29 Yd Run (Oliver Hautanen Kick)"
+  }
+ ]
+}

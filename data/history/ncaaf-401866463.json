@@ -1,0 +1,102 @@
+{
+ "id": "ncaaf-401866463",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-12T00:30Z",
+ "home": {
+  "name": "Toledo Rockets",
+  "abbr": "TOL",
+  "teamId": "2649",
+  "score": 24.0
+ },
+ "away": {
+  "name": "Massachusetts Minutemen",
+  "abbr": "MASS",
+  "teamId": "113",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+440",
+  "mlAwayOpen": "+425",
+  "mlHome": "-600",
+  "mlHomeOpen": "-575",
+  "provider": "DraftKings",
+  "spread": "TOL -14",
+  "spreadOpen": "TOL -14",
+  "total": "52.5",
+  "totalOpen": "53.5"
+ },
+ "espnWinProb": {
+  "away": 15.8,
+  "home": 84.2
+ },
+ "teams": {
+  "away": {
+   "abbr": "MASS",
+   "stats": {
+    "firstDowns": "10",
+    "thirdDownEff": "3-15",
+    "fourthDownEff": "1-4",
+    "totalYards": "188",
+    "netPassingYards": "121",
+    "completionAttempts": "12/31",
+    "yardsPerPass": "3.9",
+    "rushingYards": "67",
+    "rushingAttempts": "28",
+    "yardsPerRushAttempt": "2.4",
+    "totalPenaltiesYards": "5-50",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "25:27"
+   }
+  },
+  "home": {
+   "abbr": "TOL",
+   "stats": {
+    "firstDowns": "17",
+    "thirdDownEff": "7-15",
+    "fourthDownEff": "0-2",
+    "totalYards": "436",
+    "netPassingYards": "197",
+    "completionAttempts": "13/22",
+    "yardsPerPass": "9.0",
+    "rushingYards": "239",
+    "rushingAttempts": "45",
+    "yardsPerRushAttempt": "5.3",
+    "totalPenaltiesYards": "10-90",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "34:33"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "4:20",
+   "team": "TOL",
+   "text": "Connor Walendzak 69 Yd Run (Reice Griffith Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "12:59",
+   "team": "TOL",
+   "text": "Reice Griffith 27 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "10:32",
+   "team": "TOL",
+   "text": "Nicholas Thompson 62 Yd Interception Return (Reice Griffith Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:51",
+   "team": "TOL",
+   "text": "Connor Walendzak 17 Yd pass from John Alan Richter (Reice Griffith Kick)"
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "id": "nba-401909973",
+ "sport": "nba",
+ "league": "NBA",
+ "start": "2026-11-12T02:00Z",
+ "home": {
+  "name": "Utah Jazz",
+  "abbr": "UTAH",
+  "teamId": "26",
+  "score": 108.0
+ },
+ "away": {
+  "name": "Orlando Magic",
+  "abbr": "ORL",
+  "teamId": "19",
+  "score": 123.0
+ },
+ "odds": {
+  "mlAway": "-179",
+  "mlAwayOpen": "-167",
+  "mlHome": "+150",
+  "mlHomeOpen": "+140",
+  "provider": "DraftKings",
+  "spread": "ORL -4.5",
+  "spreadOpen": "ORL -4.5",
+  "total": "214.5",
+  "totalOpen": "218.5"
+ },
+ "espnWinProb": {
+  "away": 63.6,
+  "home": 36.4
+ },
+ "teams": {
+  "away": {
+   "abbr": "ORL",
+   "stats": {
+    "fieldGoalsMade-fieldGoalsAttempted": "41-87",
+    "fieldGoalPct": "47",
+    "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "18-46",
+    "threePointFieldGoalPct": "39",
+    "freeThrowsMade-freeThrowsAttempted": "23-28",
+    "freeThrowPct": "82",
+    "totalRebounds": "45",
+    "offensiveRebounds": "9",
+    "defensiveRebounds": "36",
+    "assists": "24",
+    "steals": "7",
+    "blocks": "4",
+    "turnovers": "11",
+    "teamTurnovers": "2",
+    "totalTurnovers": "13",
+    "technicalFouls": "2",
+    "totalTechnicalFouls": "2",
+    "flagrantFouls": "0",
+    "turnoverPoints": "9",
+    "fastBreakPoints": "14",
+    "pointsInPaint": "40",
+    "fouls": "28",
+    "largestLead": "16",
+    "leadChanges": "19",
+    "leadPercentage": "53"
+   }
+  },
+  "home": {
+   "abbr": "UTAH",
+   "stats": {
+    "fieldGoalsMade-fieldGoalsAttempted": "33-81",
+    "fieldGoalPct": "41",
+    "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "14-44",
+    "threePointFieldGoalPct": "32",
+    "freeThrowsMade-freeThrowsAttempted": "28-34",
+    "freeThrowPct": "82",
+    "totalRebounds": "38",
+    "offensiveRebounds": "9",
+    "defensiveRebounds": "29",
+    "assists": "21",
+    "steals": "6",
+    "blocks": "8",
+    "turnovers": "11",
+    "teamTurnovers": "0",
+    "totalTurnovers": "11",
+    "technicalFouls": "1",
+    "totalTechnicalFouls": "1",
+    "flagrantFouls": "0",
+    "turnoverPoints": "14",
+    "fastBreakPoints": "3",
+    "pointsInPaint": "28",
+    "fouls": "23",
+    "largestLead": "6",
+    "leadChanges": "19",
+    "leadPercentage": "32"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": []
+}
