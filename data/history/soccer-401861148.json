@@ -1,0 +1,276 @@
+{
+ "id": "soccer-401861148",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-12T19:45Z",
+ "home": {
+  "name": "Czechia",
+  "abbr": "CZE",
+  "teamId": "450",
+  "score": 0.0
+ },
+ "away": {
+  "name": "Spain",
+  "abbr": "ESP",
+  "teamId": "164",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "-475",
+  "mlAwayOpen": "-650",
+  "mlDraw": "+500",
+  "mlHome": "+1000",
+  "mlHomeOpen": "+1100",
+  "provider": "DraftKings",
+  "spread": "ESP -475",
+  "spreadOpen": "ESP -2.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "CZE",
+   "stats": {
+    "foulsCommitted": "8",
+    "yellowCards": "0",
+    "redCards": "1",
+    "offsides": "2",
+    "wonCorners": "4",
+    "saves": "3",
+    "possessionPct": "29.8",
+    "totalShots": "13",
+    "shotsOnTarget": "0",
+    "shotPct": "0.0",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "233",
+    "totalPasses": "293",
+    "passPct": "0.8",
+    "accurateCrosses": "5",
+    "totalCrosses": "13",
+    "crossPct": "0.4",
+    "totalLongBalls": "52",
+    "accurateLongBalls": "18",
+    "longballPct": "0.3",
+    "blockedShots": "4",
+    "effectiveTackles": "4",
+    "totalTackles": "7",
+    "tacklePct": "0.6",
+    "interceptions": "16",
+    "effectiveClearance": "19",
+    "totalClearance": "19"
+   }
+  },
+  "away": {
+   "abbr": "ESP",
+   "stats": {
+    "foulsCommitted": "6",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "10",
+    "saves": "0",
+    "possessionPct": "70.2",
+    "totalShots": "22",
+    "shotsOnTarget": "5",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "641",
+    "totalPasses": "704",
+    "passPct": "0.9",
+    "accurateCrosses": "5",
+    "totalCrosses": "17",
+    "crossPct": "0.3",
+    "totalLongBalls": "37",
+    "accurateLongBalls": "21",
+    "longballPct": "0.6",
+    "blockedShots": "5",
+    "effectiveTackles": "5",
+    "totalTackles": "9",
+    "tacklePct": "0.6",
+    "interceptions": "6",
+    "effectiveClearance": "19",
+    "totalClearance": "19"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "11'",
+   "team": null,
+   "text": "Pedro Porro (Spain) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "23'",
+   "team": null,
+   "text": "Delay in match (Spain)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "23'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "23'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "23'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "36'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "38'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "39'",
+   "team": null,
+   "text": "Goal! Czechia 0, Spain 1. Álex Baena (Spain) converts the penalty with a right footed shot to the bottom left corner."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Czechia 0, Spain 1."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "48'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "51'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Spain. Roberto Fernández replaces Ferran Torres."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Spain. Mikel Merino replaces Yéremy Pino."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Czechia. Idris Hopi replaces Ryan Naderi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Czechia. Martin Subert replaces Lukás Provod."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "69'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "69'",
+   "team": null,
+   "text": "Mikel Merino (Spain) is shown the yellow card."
+  },
+  {
+   "type": "End Delay",
+   "clock": "72'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Red Card",
+   "clock": "72'",
+   "team": null,
+   "text": "Ladislav Krejcí (Czechia) is shown the red card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Czechia. Tomás Vlcek replaces Lukás Ambros."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Spain. Pedri replaces Fabián Ruiz."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Spain. Marc Pubill replaces Pedro Porro."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Spain. Jorge de Frutos replaces Fermín López."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Czechia. Christophe Kabongo replaces Adam Hlozek."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Czechia. Tomás Soucek replaces Lukás Cerv."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'+6'",
+   "team": null,
+   "text": "Goal! Czechia 0, Spain 2. Marc Pubill (Spain) right footed shot from the centre of the box to the bottom right corner."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+8'",
+   "team": null,
+   "text": "Second Half ends, Czechia 0, Spain 2."
+  }
+ ],
+ "scoringPlays": []
+}

@@ -1,0 +1,276 @@
+{
+ "id": "soccer-401861151",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-12T19:45Z",
+ "home": {
+  "name": "Italy",
+  "abbr": "ITA",
+  "teamId": "162",
+  "score": 3.0
+ },
+ "away": {
+  "name": "France",
+  "abbr": "FRA",
+  "teamId": "478",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "-110",
+  "mlAwayOpen": "-120",
+  "mlDraw": "+255",
+  "mlHome": "+260",
+  "mlHomeOpen": "+290",
+  "provider": "DraftKings",
+  "spread": "FRA -110",
+  "spreadOpen": "FRA -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "ITA",
+   "stats": {
+    "foulsCommitted": "10",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "4",
+    "saves": "4",
+    "possessionPct": "35.1",
+    "totalShots": "11",
+    "shotsOnTarget": "5",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "2",
+    "accuratePasses": "252",
+    "totalPasses": "315",
+    "passPct": "0.8",
+    "accurateCrosses": "5",
+    "totalCrosses": "13",
+    "crossPct": "0.4",
+    "totalLongBalls": "47",
+    "accurateLongBalls": "23",
+    "longballPct": "0.5",
+    "blockedShots": "1",
+    "effectiveTackles": "10",
+    "totalTackles": "17",
+    "tacklePct": "0.6",
+    "interceptions": "15",
+    "effectiveClearance": "31",
+    "totalClearance": "31"
+   }
+  },
+  "away": {
+   "abbr": "FRA",
+   "stats": {
+    "foulsCommitted": "18",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "3",
+    "saves": "2",
+    "possessionPct": "64.9",
+    "totalShots": "18",
+    "shotsOnTarget": "5",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "541",
+    "totalPasses": "589",
+    "passPct": "0.9",
+    "accurateCrosses": "4",
+    "totalCrosses": "20",
+    "crossPct": "0.2",
+    "totalLongBalls": "29",
+    "accurateLongBalls": "19",
+    "longballPct": "0.7",
+    "blockedShots": "4",
+    "effectiveTackles": "5",
+    "totalTackles": "9",
+    "tacklePct": "0.6",
+    "interceptions": "8",
+    "effectiveClearance": "14",
+    "totalClearance": "14"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "10'",
+   "team": null,
+   "text": "Goal! Italy 0, France 1. Michael Olise (France) right footed shot from the centre of the box to the bottom right corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "13'",
+   "team": null,
+   "text": "Jérémy Jacquet (France) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "26'",
+   "team": null,
+   "text": "Goal! Italy 1, France 1. Francesco Pio Esposito (Italy) right footed shot from the left side of the six yard box to the centre of the goal. Assisted by Nicolò Cambiaghi."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "37'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "37'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "39'",
+   "team": null,
+   "text": "Francesco Pio Esposito (Italy) is shown the yellow card."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, Italy 1, France 1."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Missed",
+   "clock": "60'",
+   "team": null,
+   "text": "Penalty missed. Sebastiano Esposito (Italy) right footed shot is close, but misses to the right."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Italy. Antonio Vergara replaces Sebastiano Esposito."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Italy. Federico Dimarco replaces Nicolò Cambiaghi."
+  },
+  {
+   "type": "Goal",
+   "clock": "63'",
+   "team": null,
+   "text": "Goal! Italy 2, France 1. Davide Frattesi (Italy) left footed shot from the centre of the box to the bottom left corner. Assisted by Federico Dimarco with a cross."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "69'",
+   "team": null,
+   "text": "Delay in match because of an injury Désiré Doué (France)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "69'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "71'",
+   "team": null,
+   "text": "Davide Frattesi (Italy) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Delay",
+   "clock": "71'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "71'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Italy. Issa Doumbia replaces Davide Frattesi."
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "75'",
+   "team": null,
+   "text": "Goal! Italy 3, France 1. Francesco Pio Esposito (Italy) converts the penalty with a right footed shot to the bottom left corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, France. Saël Kumbedi replaces Malo Gusto."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, France. Junior Kroupi replaces Bradley Barcola."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, France. Senny Mayulu replaces Désiré Doué."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, France. Andy Diouf replaces Adrien Truffert."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, France. Eduardo Camavinga replaces Rayan Cherki."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Substitution, Italy. Samuele Ricci replaces Nicolò Barella."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Substitution, Italy. Gianluca Scamacca replaces Francesco Pio Esposito."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Junior Kroupi (France) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Second Half ends, Italy 3, France 1."
+  }
+ ],
+ "scoringPlays": []
+}

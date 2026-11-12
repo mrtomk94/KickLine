@@ -1,0 +1,216 @@
+{
+ "id": "soccer-401861145",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-12T17:00Z",
+ "home": {
+  "name": "Türkiye",
+  "abbr": "TUR",
+  "teamId": "465",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Belgium",
+  "abbr": "BEL",
+  "teamId": "459",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "-120",
+  "mlAwayOpen": "-110",
+  "mlDraw": "+290",
+  "mlHome": "+260",
+  "mlHomeOpen": "+235",
+  "provider": "DraftKings",
+  "spread": "BEL -120",
+  "spreadOpen": "BEL -0.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "TUR",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "2",
+    "saves": "4",
+    "possessionPct": "53.2",
+    "totalShots": "10",
+    "shotsOnTarget": "7",
+    "shotPct": "0.7",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "456",
+    "totalPasses": "515",
+    "passPct": "0.9",
+    "accurateCrosses": "2",
+    "totalCrosses": "15",
+    "crossPct": "0.1",
+    "totalLongBalls": "48",
+    "accurateLongBalls": "30",
+    "longballPct": "0.6",
+    "blockedShots": "2",
+    "effectiveTackles": "17",
+    "totalTackles": "23",
+    "tacklePct": "0.7",
+    "interceptions": "9",
+    "effectiveClearance": "22",
+    "totalClearance": "22"
+   }
+  },
+  "away": {
+   "abbr": "BEL",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "3",
+    "saves": "6",
+    "possessionPct": "46.8",
+    "totalShots": "12",
+    "shotsOnTarget": "6",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "383",
+    "totalPasses": "452",
+    "passPct": "0.8",
+    "accurateCrosses": "1",
+    "totalCrosses": "9",
+    "crossPct": "0.1",
+    "totalLongBalls": "36",
+    "accurateLongBalls": "17",
+    "longballPct": "0.5",
+    "blockedShots": "2",
+    "effectiveTackles": "6",
+    "totalTackles": "14",
+    "tacklePct": "0.4",
+    "interceptions": "11",
+    "effectiveClearance": "16",
+    "totalClearance": "16"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal - Free-kick",
+   "clock": "20'",
+   "team": null,
+   "text": "Goal! Türkiye 1, Belgium 0. Arda Güler (Türkiye) from a free kick with a left footed shot to the top left corner."
+  },
+  {
+   "type": "Goal",
+   "clock": "27'",
+   "team": null,
+   "text": "Goal! Türkiye 1, Belgium 1. Kevin De Bruyne (Belgium) right footed shot from the centre of the box to the high centre of the goal. Assisted by Jérémy Doku."
+  },
+  {
+   "type": "Goal",
+   "clock": "30'",
+   "team": null,
+   "text": "Goal! Türkiye 1, Belgium 2. Charles De Ketelaere (Belgium) left footed shot from very close range to the bottom left corner. Assisted by Maxim De Cuyper."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "32'",
+   "team": null,
+   "text": "Ozan Kabak (Türkiye) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'",
+   "team": null,
+   "text": "First Half ends, Türkiye 1, Belgium 2."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "50'",
+   "team": null,
+   "text": "Ismail Yüksek (Türkiye) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, Türkiye. Hakan Çalhanoglu replaces Orkun Kökçü."
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, Türkiye. Deniz Gül replaces Enes Ünal."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Belgium. Dodi Lukébakio replaces Diego Moreira."
+  },
+  {
+   "type": "Substitution",
+   "clock": "69'",
+   "team": null,
+   "text": "Substitution, Belgium. Leandro Trossard replaces Kevin De Bruyne."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Türkiye. Zeki Çelik replaces Oguz Aydin."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Türkiye. Salih Özcan replaces Ismail Yüksek."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Belgium. Hugo Cuypers replaces Charles De Ketelaere."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Belgium. Mika Godts replaces Jérémy Doku."
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Türkiye. Can Uzun replaces Baris Alper Yilmaz."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Substitution, Belgium. Hans Vanaken replaces Nicolas Raskin."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Second Half ends, Türkiye 1, Belgium 2."
+  }
+ ],
+ "scoringPlays": []
+}

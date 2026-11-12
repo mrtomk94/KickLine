@@ -1,0 +1,294 @@
+{
+ "id": "soccer-401861147",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-12T19:45Z",
+ "home": {
+  "name": "Albania",
+  "abbr": "ALB",
+  "teamId": "585",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Finland",
+  "abbr": "FIN",
+  "teamId": "458",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+320",
+  "mlAwayOpen": "+275",
+  "mlDraw": "+205",
+  "mlHome": "-105",
+  "mlHomeOpen": "+100",
+  "provider": "DraftKings",
+  "spread": "ALB -105",
+  "spreadOpen": "ALB -0.5",
+  "total": "1.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "ALB",
+   "stats": {
+    "foulsCommitted": "15",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "5",
+    "saves": "1",
+    "possessionPct": "55.7",
+    "totalShots": "18",
+    "shotsOnTarget": "6",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "455",
+    "totalPasses": "518",
+    "passPct": "0.9",
+    "accurateCrosses": "5",
+    "totalCrosses": "26",
+    "crossPct": "0.2",
+    "totalLongBalls": "57",
+    "accurateLongBalls": "32",
+    "longballPct": "0.6",
+    "blockedShots": "4",
+    "effectiveTackles": "8",
+    "totalTackles": "13",
+    "tacklePct": "0.6",
+    "interceptions": "10",
+    "effectiveClearance": "23",
+    "totalClearance": "23"
+   }
+  },
+  "away": {
+   "abbr": "FIN",
+   "stats": {
+    "foulsCommitted": "16",
+    "yellowCards": "2",
+    "redCards": "1",
+    "offsides": "1",
+    "wonCorners": "0",
+    "saves": "4",
+    "possessionPct": "44.3",
+    "totalShots": "13",
+    "shotsOnTarget": "1",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "345",
+    "totalPasses": "418",
+    "passPct": "0.8",
+    "accurateCrosses": "7",
+    "totalCrosses": "13",
+    "crossPct": "0.5",
+    "totalLongBalls": "41",
+    "accurateLongBalls": "14",
+    "longballPct": "0.3",
+    "blockedShots": "2",
+    "effectiveTackles": "9",
+    "totalTackles": "14",
+    "tacklePct": "0.6",
+    "interceptions": "12",
+    "effectiveClearance": "28",
+    "totalClearance": "28"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "19'",
+   "team": null,
+   "text": "Delay in match because of an injury Rey Manaj (Albania)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "19'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "20'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "20'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "32'",
+   "team": null,
+   "text": "Leo Walta (Finland) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "35'",
+   "team": null,
+   "text": "Goal! Albania 1, Finland 0. Ernest Muçi (Albania) right footed shot from the right side of the box to the top left corner following a corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "45'",
+   "team": null,
+   "text": "Adam Markhiyev (Finland) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": "First Half ends, Albania 1, Finland 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Albania 1, Finland 0."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "50'",
+   "team": null,
+   "text": "Goal! Albania 2, Finland 0. Rey Manaj (Albania) header from the centre of the box to the bottom right corner. Assisted by Elseid Hysaj with a cross."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "58'",
+   "team": null,
+   "text": "Ylber Ramadani (Albania) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Finland. Tony Miettinen replaces Adam Ståhl."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Finland. Joel Pohjanpalo replaces Oliver Antman."
+  },
+  {
+   "type": "Red Card",
+   "clock": "67'",
+   "team": null,
+   "text": "Miro Tenho (Finland) is shown the red card."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "67'",
+   "team": null,
+   "text": "Delay in match because of an injury Ernest Muçi (Albania)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "67'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "68'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "68'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Albania. Mirlind Daku replaces Rey Manaj."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Albania. Juljan Shehu replaces Ylber Ramadani."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Finland. Luka Hyryläinen replaces Topi Keskinen."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Finland. Anssi Suhonen replaces Adam Markhiyev."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Finland. Robert Ivanov replaces Fredrik Jensen."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "79'",
+   "team": null,
+   "text": "Delay in match because of an injury Etrit Berisha (Albania)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "79'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "79'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "79'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Albania. Arbër Hoxha replaces Ernest Muçi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Albania. Luis Hasa replaces Qazim Laçi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Substitution, Albania. Myrto Uzuni replaces Stavros Pilios."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Second Half ends, Albania 2, Finland 0."
+  }
+ ],
+ "scoringPlays": []
+}

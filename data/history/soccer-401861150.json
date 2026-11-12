@@ -1,0 +1,222 @@
+{
+ "id": "soccer-401861150",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-12T19:45Z",
+ "home": {
+  "name": "England",
+  "abbr": "ENG",
+  "teamId": "448",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Croatia",
+  "abbr": "CRO",
+  "teamId": "477",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+900",
+  "mlAwayOpen": "+850",
+  "mlDraw": "+500",
+  "mlHome": "-425",
+  "mlHomeOpen": "-425",
+  "provider": "DraftKings",
+  "spread": "ENG -425",
+  "spreadOpen": "ENG -1.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "ENG",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "6",
+    "saves": "4",
+    "possessionPct": "54.2",
+    "totalShots": "15",
+    "shotsOnTarget": "4",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "496",
+    "totalPasses": "557",
+    "passPct": "0.9",
+    "accurateCrosses": "4",
+    "totalCrosses": "15",
+    "crossPct": "0.3",
+    "totalLongBalls": "49",
+    "accurateLongBalls": "30",
+    "longballPct": "0.6",
+    "blockedShots": "5",
+    "effectiveTackles": "6",
+    "totalTackles": "15",
+    "tacklePct": "0.4",
+    "interceptions": "5",
+    "effectiveClearance": "25",
+    "totalClearance": "25"
+   }
+  },
+  "away": {
+   "abbr": "CRO",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "7",
+    "saves": "1",
+    "possessionPct": "45.8",
+    "totalShots": "13",
+    "shotsOnTarget": "5",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "409",
+    "totalPasses": "467",
+    "passPct": "0.9",
+    "accurateCrosses": "4",
+    "totalCrosses": "17",
+    "crossPct": "0.2",
+    "totalLongBalls": "42",
+    "accurateLongBalls": "17",
+    "longballPct": "0.4",
+    "blockedShots": "2",
+    "effectiveTackles": "13",
+    "totalTackles": "22",
+    "tacklePct": "0.6",
+    "interceptions": "7",
+    "effectiveClearance": "18",
+    "totalClearance": "18"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "16'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "16'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "24'",
+   "team": null,
+   "text": "Goal! England 1, Croatia 0. Morgan Rogers (England) right footed shot from very close range to the bottom right corner. Assisted by Jude Bellingham."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, England 1, Croatia 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "59'",
+   "team": null,
+   "text": "Goal! England 1, Croatia 1. Petar Sucic (Croatia) right footed shot from very close range to the top left corner following a corner."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "61'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "63'",
+   "team": null,
+   "text": "Ivan Smolcic (Croatia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Delay",
+   "clock": "63'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "64'",
+   "team": null,
+   "text": "Goal! England 2, Croatia 1. Harry Kane (England) converts the penalty with a right footed shot to the centre of the goal."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Croatia. Ante Budimir replaces Igor Matanovic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Croatia. Mario Pasalic replaces Petar Sucic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Croatia. Marco Pasalic replaces Ivan Smolcic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Croatia. Luka Modric replaces Josip Misic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, England. Rio Ngumoha replaces Anthony Gordon."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, England. James Garner replaces Declan Rice."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, England. Ben White replaces Trent Alexander-Arnold."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'",
+   "team": null,
+   "text": "Substitution, Croatia. Lovro Majer replaces Mateo Kovacic."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

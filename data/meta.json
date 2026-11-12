@@ -1,12 +1,12 @@
 {
  "latest": {
-  "gamesCount": 136,
-  "note": "136 upcoming games, 5 at 4–5★, 13 parlay legs qualify.",
-  "ranAt": "2026-11-12T18:45:40Z",
+  "gamesCount": 142,
+  "note": "142 upcoming games, 5 at 4–5★, 54 parlay legs qualify.",
+  "ranAt": "2026-11-12T23:53:43Z",
   "topCount": 5
  },
  "record": {
-  "graded": 344,
+  "graded": 348,
   "lessons": [
    "Calibration: overall 203-116-1 plus voids (64%, about break-even flat ROI at posted prices, n=320); since Oct 19 121-52 (70%). Picks rated 70%+ are 48-7 (87%, +9%), 60-69% 77-37 (68%), under 60% 78-72 (52%, −9% ROI). Keep trimming raw confidence about 5 points and build parlays only from 60%+ legs.",
    "Prices of −300 or shorter are 56-9 (86%, +7%); −150 to −199 60-32 (+4%); −200 to −299 39-18 (68%, −2%); −100 to −149 44-46-1 (49%, −10%). Plus-money moneylines are 4-11 overall: 1★ or Pass.",
@@ -20,7 +20,7 @@
   "lessonsSource": "board",
   "reviewedAt": "2026-11-09T15:58:00Z",
   "stats": {
-   "graded": 344,
+   "graded": 348,
    "kvProfit": 0,
    "parlays": {
     "10": {
@@ -80,11 +80,11 @@
      "w": 4
     },
     "8": {
-     "hit": 80.0,
+     "hit": 83.3,
      "l": 1,
      "p": 0,
-     "roi": 283.4,
-     "w": 4
+     "roi": 323.2,
+     "w": 5
     },
     "9": {
      "hit": 60.0,
@@ -97,11 +97,11 @@
    "tables": {
     "all": {
      "all": {
-      "hit": 65.5,
-      "l": 118,
+      "hit": 65.6,
+      "l": 119,
       "p": 1,
-      "roi": -0.6,
-      "w": 224
+      "roi": -0.7,
+      "w": 227
      }
     },
     "band": {
@@ -120,18 +120,18 @@
       "w": 65
      },
      "-200..-299": {
-      "hit": 70.5,
-      "l": 18,
+      "hit": 69.4,
+      "l": 19,
       "p": 0,
-      "roi": 0.7,
+      "roi": -0.9,
       "w": 43
      },
      "<=-300": {
-      "hit": 87.2,
+      "hit": 87.7,
       "l": 10,
       "p": 0,
-      "roi": 7.1,
-      "w": 68
+      "roi": 7.7,
+      "w": 71
      },
      "plus": {
       "hit": 29.4,
@@ -150,18 +150,18 @@
     },
     "conf": {
      "60-69": {
-      "hit": 69.4,
-      "l": 38,
+      "hit": 68.8,
+      "l": 39,
       "p": 0,
-      "roi": 3.7,
+      "roi": 2.9,
       "w": 86
      },
      "70+": {
-      "hit": 88.1,
+      "hit": 88.6,
       "l": 8,
       "p": 0,
-      "roi": 8.7,
-      "w": 59
+      "roi": 9.3,
+      "w": 62
      },
      "<60": {
       "hit": 52.3,
@@ -201,10 +201,10 @@
       "w": 12
      },
      "International Friendly": {
-      "hit": 100.0,
-      "l": 0,
+      "hit": 66.7,
+      "l": 1,
       "p": 0,
-      "roi": 18.2,
+      "roi": -21.2,
       "w": 2
      },
      "LaLiga": {
@@ -270,6 +270,13 @@
       "roi": 19.0,
       "w": 26
      },
+     "UEFA Nations League": {
+      "hit": 100.0,
+      "l": 0,
+      "p": 0,
+      "roi": 23.4,
+      "w": 3
+     },
      "Women's International Friendly": {
       "hit": 83.3,
       "l": 1,
@@ -287,11 +294,11 @@
       "w": 2
      },
      "Moneyline": {
-      "hit": 72.3,
-      "l": 65,
+      "hit": 72.4,
+      "l": 66,
       "p": 0,
-      "roi": 4.0,
-      "w": 170
+      "roi": 3.8,
+      "w": 173
      },
      "Spread": {
       "hit": 35.5,
@@ -310,11 +317,11 @@
     },
     "recent_all": {
      "all": {
-      "hit": 72.3,
-      "l": 49,
+      "hit": 72.4,
+      "l": 50,
       "p": 0,
-      "roi": 2.4,
-      "w": 128
+      "roi": 2.2,
+      "w": 131
      }
     },
     "recent_band": {
@@ -333,34 +340,34 @@
       "w": 36
      },
      "-200..-299": {
-      "hit": 67.3,
-      "l": 16,
+      "hit": 66.0,
+      "l": 17,
       "p": 0,
-      "roi": -3.6,
+      "roi": -5.6,
       "w": 33
      },
      "<=-300": {
-      "hit": 90.9,
+      "hit": 91.4,
       "l": 5,
       "p": 0,
-      "roi": 11.0,
-      "w": 50
+      "roi": 11.7,
+      "w": 53
      }
     },
     "recent_conf": {
      "60-69": {
-      "hit": 71.1,
-      "l": 22,
+      "hit": 70.1,
+      "l": 23,
       "p": 0,
-      "roi": 2.6,
+      "roi": 1.2,
       "w": 54
      },
      "70+": {
-      "hit": 91.1,
+      "hit": 91.7,
       "l": 4,
       "p": 0,
-      "roi": 10.3,
-      "w": 41
+      "roi": 11.2,
+      "w": 44
      },
      "<60": {
       "hit": 58.9,
@@ -400,10 +407,10 @@
       "w": 2
      },
      "International Friendly": {
-      "hit": 100.0,
-      "l": 0,
+      "hit": 66.7,
+      "l": 1,
       "p": 0,
-      "roi": 18.2,
+      "roi": -21.2,
       "w": 2
      },
      "LaLiga": {
@@ -468,15 +475,22 @@
       "p": 0,
       "roi": 23.9,
       "w": 18
+     },
+     "UEFA Nations League": {
+      "hit": 100.0,
+      "l": 0,
+      "p": 0,
+      "roi": 23.4,
+      "w": 3
      }
     },
     "recent_market": {
      "Moneyline": {
-      "hit": 76.6,
-      "l": 34,
+      "hit": 76.5,
+      "l": 35,
       "p": 0,
-      "roi": 5.2,
-      "w": 111
+      "roi": 4.8,
+      "w": 114
      },
      "Total": {
       "hit": 53.1,
@@ -488,18 +502,18 @@
     },
     "recent_stars": {
      "2": {
-      "hit": 67.6,
-      "l": 46,
+      "hit": 67.1,
+      "l": 47,
       "p": 0,
-      "roi": -3.2,
+      "roi": -3.9,
       "w": 96
      },
      "3": {
-      "hit": 91.4,
+      "hit": 92.1,
       "l": 3,
       "p": 0,
-      "roi": 25.0,
-      "w": 32
+      "roi": 24.8,
+      "w": 35
      }
     },
     "stars": {
@@ -511,18 +525,18 @@
       "w": 4
      },
      "2": {
-      "hit": 64.2,
-      "l": 93,
+      "hit": 64.0,
+      "l": 94,
       "p": 1,
-      "roi": -1.9,
+      "roi": -2.2,
       "w": 167
      },
      "3": {
-      "hit": 75.7,
+      "hit": 76.7,
       "l": 17,
       "p": 0,
-      "roi": 10.2,
-      "w": 53
+      "roi": 10.7,
+      "w": 56
      }
     }
    },
@@ -577,6 +591,6 @@
     }
    }
   },
-  "updatedAt": "2026-11-12T18:45:40Z"
+  "updatedAt": "2026-11-12T23:53:43Z"
  }
 }

@@ -1,107 +1,263 @@
 {
  "nba-401909296": {
+  "_lastPick": "NY ML (-241)",
   "away": {
    "abbr": "NY",
+   "form": "LWWWW",
+   "injuries": [],
    "name": "New York Knicks",
    "record": "6-5",
    "short": "Knicks",
    "teamId": "18"
   },
+  "confidence": 69,
   "espnId": "401909296",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 77.5,
+   "home": 22.5
+  },
   "home": {
    "abbr": "IND",
+   "form": "WLLWL",
+   "injuries": [
+    "Tyrese Haliburton (G) – Out, Hamstring",
+    "Johnny Furphy (G) – Out, Knee",
+    "Ben Sheppard (G) – Out, Knee"
+   ],
    "name": "Indiana Pacers",
    "record": "4-8",
    "short": "Pacers",
    "teamId": "11"
   },
   "id": "nba-401909296",
+  "injuriesRaw": {
+   "away": [],
+   "home": [
+    {
+     "detail": "Hamstring",
+     "player": "Tyrese Haliburton",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Johnny Furphy",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Ben Sheppard",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909296",
+  "market": "Moneyline",
+  "news": [
+   "Rockets' Marcus Smart suspended three games for punch",
+   "Sources: Bulls' Caleb Wilson to have surgery on fractured hand, miss 4-6 weeks",
+   "Tim MacMahon: Yaxel Lendeborg needs to be 'go-to guy' with Steph out"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "-241",
+   "mlAwayOpen": "-130",
+   "mlHome": "+199",
+   "mlHomeOpen": "+110",
+   "provider": "DraftKings",
+   "spread": "NY -6.5",
+   "spreadOpen": "NY -2.5",
+   "total": "221.5",
+   "totalOpen": "233.5"
   },
-  "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "pick": "NY ML (-241)",
+  "reason": "NY are about 68% no-vig at -241; ESPN's model has 78%. For: ESPN model 78% vs market 68%; line moved toward NY (-130 → -241). Capped at 2★: NBA capped by lessons.",
   "risks": [],
+  "side": "away",
   "slug": "nba",
   "sport": "nba",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-14T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Gainbridge Fieldhouse, Indianapolis"
  },
  "nba-401909297": {
+  "_lastPick": "ORL ML (-319)",
   "away": {
    "abbr": "MIL",
+   "form": "LLLLL",
+   "injuries": [],
    "name": "Milwaukee Bucks",
    "record": "1-11",
    "short": "Bucks",
    "teamId": "15"
   },
+  "confidence": 72,
   "espnId": "401909297",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 23.0,
+   "home": 77.0
+  },
   "home": {
    "abbr": "ORL",
+   "form": "WWLLL",
+   "injuries": [
+    "Jalen Suggs (G) – Out, Knee",
+    "Jonathan Isaac (F) – Out, Knee",
+    "Paolo Banchero (F) – Out, Ankle"
+   ],
    "name": "Orlando Magic",
    "record": "4-7",
    "short": "Magic",
    "teamId": "19"
   },
   "id": "nba-401909297",
+  "injuriesRaw": {
+   "away": [],
+   "home": [
+    {
+     "detail": "Knee",
+     "player": "Jalen Suggs",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Jonathan Isaac",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Paolo Banchero",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909297",
+  "market": "Moneyline",
+  "news": [
+   "Rockets' Marcus Smart suspended three games for punch",
+   "Sources: Bulls' Caleb Wilson to have surgery on fractured hand, miss 4-6 weeks",
+   "Tim MacMahon: Yaxel Lendeborg needs to be 'go-to guy' with Steph out"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+257",
+   "mlAwayOpen": "+257",
+   "mlHome": "-319",
+   "mlHomeOpen": "-319",
+   "provider": "DraftKings",
+   "spread": "ORL -9.5",
+   "spreadOpen": "ORL -9.5",
+   "total": "223.5",
+   "totalOpen": "223.5"
   },
-  "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "pick": "ORL ML (-319)",
+  "reason": "ORL are about 73% no-vig at -319; ESPN's model has 77%.",
   "risks": [],
+  "side": "home",
   "slug": "nba",
   "sport": "nba",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-14T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Kia Center, Orlando"
  },
  "nba-401909298": {
   "away": {
    "abbr": "CLE",
+   "form": "WLLWL",
+   "injuries": [
+    "Evan Mobley (C) – Out, Toe",
+    "Sam Merrill (G) – Out, Elbow"
+   ],
    "name": "Cleveland Cavaliers",
    "record": "6-6",
    "short": "Cavaliers",
    "teamId": "5"
   },
+  "confidence": 47,
   "espnId": "401909298",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 55.5,
+   "home": 44.5
+  },
   "home": {
    "abbr": "MIA",
+   "form": "WWLWL",
+   "injuries": [],
    "name": "Miami Heat",
    "record": "5-6",
    "short": "Heat",
    "teamId": "14"
   },
   "id": "nba-401909298",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Toe",
+     "player": "Evan Mobley",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Elbow",
+     "player": "Sam Merrill",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    }
+   ],
+   "home": []
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909298",
+  "news": [
+   "Rockets' Marcus Smart suspended three games for punch",
+   "Sources: Bulls' Caleb Wilson to have surgery on fractured hand, miss 4-6 weeks",
+   "Tim MacMahon: Yaxel Lendeborg needs to be 'go-to guy' with Steph out"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+106",
+   "mlAwayOpen": "+105",
+   "mlHome": "-126",
+   "mlHomeOpen": "-125",
+   "provider": "DraftKings",
+   "spread": "MIA -1.5",
+   "spreadOpen": "MIA -1.5",
+   "total": "237.5",
+   "totalOpen": "237.5"
   },
   "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
-  "risks": [],
+  "reason": "MIA about 53% no-vig at -126; no edge worth a pick.",
+  "risks": [
+   "ESPN model only 44% vs market 53%"
+  ],
   "slug": "nba",
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-14T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Kaseya Center, Miami"
  },
  "nba-401909299": {
@@ -136,112 +292,348 @@
   "stars": 1,
   "start": "2026-11-14T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "United Center, Chicago"
  },
  "nba-401909300": {
   "away": {
    "abbr": "MEM",
+   "form": "LWLLL",
+   "injuries": [
+    "Quinten Post (C) – Out, Concussion",
+    "Zach Edey (C) – Out, Ankle",
+    "Scotty Pippen Jr. (G) – Out, Back",
+    "Richie Saunders (G) – Out, Knee"
+   ],
    "name": "Memphis Grizzlies",
    "record": "7-4",
    "short": "Grizzlies",
    "teamId": "29"
   },
+  "confidence": 56,
   "espnId": "401909300",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 62.5,
+   "home": 37.5
+  },
   "home": {
    "abbr": "NO",
+   "form": "LLLLW",
+   "injuries": [
+    "Trendon Watford (F) – Out, Ankle",
+    "Yves Missi (C) – Out, Knee"
+   ],
    "name": "New Orleans Pelicans",
    "record": "4-8",
    "short": "Pelicans",
    "teamId": "3"
   },
   "id": "nba-401909300",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Concussion",
+     "player": "Quinten Post",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Zach Edey",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Back",
+     "player": "Scotty Pippen Jr.",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Richie Saunders",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Ankle",
+     "player": "Trendon Watford",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Yves Missi",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909300",
+  "news": [
+   "Rockets' Marcus Smart suspended three games for punch",
+   "Sources: Bulls' Caleb Wilson to have surgery on fractured hand, miss 4-6 weeks",
+   "Tim MacMahon: Yaxel Lendeborg needs to be 'go-to guy' with Steph out"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "-141",
+   "mlAwayOpen": "-141",
+   "mlHome": "+119",
+   "mlHomeOpen": "+119",
+   "provider": "DraftKings",
+   "spread": "MEM -4.5",
+   "spreadOpen": "MEM -4.5",
+   "total": "234.5",
+   "totalOpen": "234.5"
   },
   "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "reason": "MEM about 56% no-vig at -141; no edge worth a pick.",
   "risks": [],
   "slug": "nba",
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-14T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Smoothie King Center, New Orleans"
  },
  "nba-401909301": {
+  "_lastPick": "HOU ML (-1580)",
   "away": {
    "abbr": "UTAH",
+   "form": "LLLLL",
+   "injuries": [
+    "Trey Alexander (G) – Out, Ankle",
+    "Lauri Markkanen (F) – Out, Hand",
+    "Jusuf Nurkic (C) – Out, Foot",
+    "Jaren Jackson Jr. (F) – Out, Knee"
+   ],
    "name": "Utah Jazz",
    "record": "1-11",
    "short": "Jazz",
    "teamId": "26"
   },
+  "confidence": 88,
   "espnId": "401909301",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 11.8,
+   "home": 88.2
+  },
   "home": {
    "abbr": "HOU",
+   "form": "WWLLW",
+   "injuries": [
+    "Clint Capela (C) – Out, Ankle",
+    "Steven Adams (C) – Out, Calf"
+   ],
    "name": "Houston Rockets",
    "record": "9-3",
    "short": "Rockets",
    "teamId": "10"
   },
   "id": "nba-401909301",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Ankle",
+     "player": "Trey Alexander",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hand",
+     "player": "Lauri Markkanen",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Foot",
+     "player": "Jusuf Nurkic",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Jaren Jackson Jr.",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Ankle",
+     "player": "Clint Capela",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Calf",
+     "player": "Steven Adams",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909301",
+  "market": "Moneyline",
+  "news": [
+   "Rockets' Marcus Smart suspended three games for punch",
+   "Sources: Bulls' Caleb Wilson to have surgery on fractured hand, miss 4-6 weeks",
+   "Tim MacMahon: Yaxel Lendeborg needs to be 'go-to guy' with Steph out"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+900",
+   "mlAwayOpen": "+900",
+   "mlHome": "-1580",
+   "mlHomeOpen": "-1580",
+   "provider": "DraftKings",
+   "spread": "HOU -17.5",
+   "spreadOpen": "HOU -17.5",
+   "total": "217.5",
+   "totalOpen": "217.5"
   },
-  "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "pick": "HOU ML (-1580)",
+  "reason": "HOU are about 90% no-vig at -1580; ESPN's model has 88%. For: form WWLLW vs LLLLL.",
   "risks": [],
+  "side": "home",
   "slug": "nba",
   "sport": "nba",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-14T01:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Toyota Center (Houston), Houston"
  },
  "nba-401909302": {
+  "_lastPick": "SA ML (-750)",
   "away": {
    "abbr": "GS",
+   "form": "LWWWW",
+   "injuries": [
+    "Stephen Curry (G) – Out, Abdomen",
+    "Brandon Williams (G) – Out, Hamstring",
+    "Kristaps Porzingis (C) – Out, Illness"
+   ],
    "name": "Golden State Warriors",
    "record": "8-4",
    "short": "Warriors",
    "teamId": "9"
   },
+  "confidence": 82,
   "espnId": "401909302",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 14.2,
+   "home": 85.8
+  },
   "home": {
    "abbr": "SA",
+   "form": "WWWWW",
+   "injuries": [
+    "Tobias Harris (F) – Out, Calf"
+   ],
    "name": "San Antonio Spurs",
    "record": "10-2",
    "short": "Spurs",
    "teamId": "24"
   },
   "id": "nba-401909302",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Abdomen",
+     "player": "Stephen Curry",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "Brandon Williams",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Illness",
+     "player": "Kristaps Porzingis",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Moses Moody",
+     "pos": "G",
+     "stale": true,
+     "status": "Out"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Calf",
+     "player": "Tobias Harris",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Jayden Quaintance",
+     "pos": "F",
+     "stale": true,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909302",
+  "market": "Moneyline",
+  "news": [
+   "Rockets' Marcus Smart suspended three games for punch",
+   "Sources: Bulls' Caleb Wilson to have surgery on fractured hand, miss 4-6 weeks",
+   "Tim MacMahon: Yaxel Lendeborg needs to be 'go-to guy' with Steph out"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+528",
+   "mlAwayOpen": "+390",
+   "mlHome": "-750",
+   "mlHomeOpen": "-520",
+   "provider": "DraftKings",
+   "spread": "SA -13.5",
+   "total": "218.5"
   },
-  "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "pick": "SA ML (-750)",
+  "reason": "SA are about 85% no-vig at -750; ESPN's model has 86%. For: line moved toward SA (-520 → -750). Capped at 2★: NBA capped by lessons.",
   "risks": [],
+  "side": "home",
   "slug": "nba",
   "sport": "nba",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-14T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Frost Bank Center, San Antonio"
  },
  "nba-401909303": {
@@ -276,7 +668,7 @@
   "stars": 1,
   "start": "2026-11-14T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Golden 1 Center, Sacramento"
  },
  "nba-401909304": {
@@ -311,7 +703,7 @@
   "stars": 1,
   "start": "2026-11-14T03:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Intuit Dome, Inglewood"
  },
  "nba-401909966": {
@@ -1381,7 +1773,7 @@
   "venue": "Moda Center, Portland"
  },
  "nba-401909976": {
-  "_lastPick": "PHI ML (-269)",
+  "_lastPick": "PHI ML (-288)",
   "away": {
    "abbr": "TOR",
    "form": "LLWLW",
@@ -1396,13 +1788,13 @@
    "short": "Raptors",
    "teamId": "28"
   },
-  "confidence": 66,
+  "confidence": 67,
   "espnId": "401909976",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 26.9,
-   "home": 73.1
+   "away": 27.3,
+   "home": 72.7
   },
   "home": {
    "abbr": "PHI",
@@ -1484,25 +1876,25 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909976",
   "market": "Moneyline",
   "news": [
-   "76ers Joel Embiid (foot) questionable, LeBron James (back) out vs. Raptors",
-   "Thursday's fantasy hoops adds, top NBA bets: Ride hot streaks of Jenkins, Allen",
-   "Warriors' Stephen Curry out at least 2 weeks with oblique tear"
+   "Rockets' Marcus Smart suspended three games for punch",
+   "Sources: Bulls' Caleb Wilson to have surgery on fractured hand, miss 4-6 weeks",
+   "Tim MacMahon: Yaxel Lendeborg needs to be 'go-to guy' with Steph out"
   ],
   "odds": {
-   "mlAway": "+221",
+   "mlAway": "+235",
    "mlAwayOpen": "+341",
-   "mlHome": "-269",
+   "mlHome": "-288",
    "mlHomeOpen": "-410",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "PHI -7.5",
    "spreadOpen": "PHI -9.5",
-   "total": "224.5",
+   "total": "223.5",
    "totalOpen": "221.5"
   },
-  "pick": "PHI ML (-269)",
-  "reason": "PHI are about 70% no-vig at -269; ESPN's model has 73%.",
+  "pick": "PHI ML (-288)",
+  "reason": "PHI are about 71% no-vig at -288; ESPN's model has 73%.",
   "risks": [
-   "line drifted away (-410 → -269)"
+   "line drifted away (-410 → -288)"
   ],
   "side": "home",
   "slug": "nba",
@@ -1510,11 +1902,11 @@
   "stars": 2,
   "start": "2026-11-13T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Xfinity Mobile Arena, Philadelphia"
  },
  "nba-401909977": {
-  "_lastPick": "DET ML (-467)",
+  "_lastPick": "DET ML (-438)",
   "away": {
    "abbr": "DET",
    "form": "WLLWW",
@@ -1601,25 +1993,25 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909977",
   "market": "Moneyline",
   "news": [
-   "76ers Joel Embiid (foot) questionable, LeBron James (back) out vs. Raptors",
-   "Thursday's fantasy hoops adds, top NBA bets: Ride hot streaks of Jenkins, Allen",
-   "Warriors' Stephen Curry out at least 2 weeks with oblique tear"
+   "Rockets' Marcus Smart suspended three games for punch",
+   "Sources: Bulls' Caleb Wilson to have surgery on fractured hand, miss 4-6 weeks",
+   "Tim MacMahon: Yaxel Lendeborg needs to be 'go-to guy' with Steph out"
   ],
   "odds": {
-   "mlAway": "-467",
+   "mlAway": "-438",
    "mlAwayOpen": "-369",
-   "mlHome": "+360",
+   "mlHome": "+341",
    "mlHomeOpen": "+293",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "DET -10.5",
    "spreadOpen": "DET -9.5",
-   "total": "220.5",
+   "total": "223.5",
    "totalOpen": "220.5"
   },
-  "pick": "DET ML (-467)",
-  "reason": "DET are about 79% no-vig at -467; ESPN's model has 72%. For: form WLLWW vs LLLLL.",
+  "pick": "DET ML (-438)",
+  "reason": "DET are about 78% no-vig at -438; ESPN's model has 72%. For: form WLLWW vs LLLLL.",
   "risks": [
-   "ESPN model only 72% vs market 79%"
+   "ESPN model only 72% vs market 78%"
   ],
   "side": "away",
   "slug": "nba",
@@ -1627,7 +2019,7 @@
   "stars": 2,
   "start": "2026-11-13T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Capital One Arena, Washington"
  },
  "nba-401909978": {
@@ -1710,16 +2102,16 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909978",
   "market": "Moneyline",
   "news": [
-   "76ers Joel Embiid (foot) questionable, LeBron James (back) out vs. Raptors",
-   "Thursday's fantasy hoops adds, top NBA bets: Ride hot streaks of Jenkins, Allen",
-   "Warriors' Stephen Curry out at least 2 weeks with oblique tear"
+   "Rockets' Marcus Smart suspended three games for punch",
+   "Sources: Bulls' Caleb Wilson to have surgery on fractured hand, miss 4-6 weeks",
+   "Tim MacMahon: Yaxel Lendeborg needs to be 'go-to guy' with Steph out"
   ],
   "odds": {
    "mlAway": "+185",
    "mlAwayOpen": "+155",
    "mlHome": "-223",
    "mlHomeOpen": "-185",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "MIN -5.5",
    "spreadOpen": "MIN -4.5",
    "total": "225.5",
@@ -1734,16 +2126,15 @@
   "stars": 2,
   "start": "2026-11-13T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Target Center, Minneapolis"
  },
  "nba-401909979": {
-  "_lastPick": "PHX ML (-244)",
+  "_lastPick": "PHX ML (-229)",
   "away": {
    "abbr": "CHA",
    "form": "WLLLL",
    "injuries": [
-    "Grant Williams (F) – Out, Hamstring",
     "Brandon Miller (F) – Out, Groin",
     "Kon Knueppel (G) – Out, Hamstring",
     "Dennis Schroder (G) – Out, Hamstring"
@@ -1753,13 +2144,13 @@
    "short": "Hornets",
    "teamId": "30"
   },
-  "confidence": 67,
+  "confidence": 65,
   "espnId": "401909979",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 26.9,
-   "home": 73.1
+   "away": 29.8,
+   "home": 70.2
   },
   "home": {
    "abbr": "PHX",
@@ -1773,13 +2164,6 @@
   "id": "nba-401909979",
   "injuriesRaw": {
    "away": [
-    {
-     "detail": "Hamstring",
-     "player": "Grant Williams",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
     {
      "detail": "Groin",
      "player": "Brandon Miller",
@@ -1816,23 +2200,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909979",
   "market": "Moneyline",
   "news": [
-   "76ers Joel Embiid (foot) questionable, LeBron James (back) out vs. Raptors",
-   "Thursday's fantasy hoops adds, top NBA bets: Ride hot streaks of Jenkins, Allen",
-   "Warriors' Stephen Curry out at least 2 weeks with oblique tear"
+   "Rockets' Marcus Smart suspended three games for punch",
+   "Sources: Bulls' Caleb Wilson to have surgery on fractured hand, miss 4-6 weeks",
+   "Tim MacMahon: Yaxel Lendeborg needs to be 'go-to guy' with Steph out"
   ],
   "odds": {
-   "mlAway": "+201",
+   "mlAway": "+190",
    "mlAwayOpen": "+206",
-   "mlHome": "-244",
+   "mlHome": "-229",
    "mlHomeOpen": "-250",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "PHX -6.5",
    "spreadOpen": "PHX -7.5",
    "total": "214.5",
    "totalOpen": "213.5"
   },
-  "pick": "PHX ML (-244)",
-  "reason": "PHX are about 68% no-vig at -244; ESPN's model has 73%.",
+  "pick": "PHX ML (-229)",
+  "reason": "PHX are about 67% no-vig at -229; ESPN's model has 70%.",
   "risks": [],
   "side": "home",
   "slug": "nba",
@@ -1840,7 +2224,7 @@
   "stars": 2,
   "start": "2026-11-13T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Mortgage Matchup Center, Phoenix"
  },
  "nba-401909980": {
@@ -1875,7 +2259,7 @@
   "stars": 1,
   "start": "2026-11-15T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Smoothie King Center, New Orleans"
  },
  "nba-401909981": {
@@ -1910,7 +2294,7 @@
   "stars": 1,
   "start": "2026-11-15T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Rocket Arena, Cleveland"
  },
  "nba-401909982": {
@@ -1945,7 +2329,7 @@
   "stars": 1,
   "start": "2026-11-15T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Kaseya Center, Miami"
  },
  "nba-401909983": {
@@ -1980,7 +2364,7 @@
   "stars": 1,
   "start": "2026-11-15T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "FedExForum, Memphis"
  },
  "nba-401909984": {
@@ -2015,7 +2399,7 @@
   "stars": 1,
   "start": "2026-11-15T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Target Center, Minneapolis"
  },
  "nba-401909985": {
@@ -2050,11 +2434,186 @@
   "stars": 1,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Xfinity Mobile Arena, Philadelphia"
  },
+ "nba-401909986": {
+  "away": {
+   "abbr": "LAL",
+   "name": "Los Angeles Lakers",
+   "record": "11-2",
+   "short": "Lakers",
+   "teamId": "13"
+  },
+  "espnId": "401909986",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "PHX",
+   "name": "Phoenix Suns",
+   "record": "4-6",
+   "short": "Suns",
+   "teamId": "21"
+  },
+  "id": "nba-401909986",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401909986",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-15T21:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-12T23:53:43Z",
+  "venue": "Mortgage Matchup Center, Phoenix"
+ },
+ "nba-401909987": {
+  "away": {
+   "abbr": "CHA",
+   "name": "Charlotte Hornets",
+   "record": "4-7",
+   "short": "Hornets",
+   "teamId": "30"
+  },
+  "espnId": "401909987",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "LAC",
+   "name": "LA Clippers",
+   "record": "2-8",
+   "short": "Clippers",
+   "teamId": "12"
+  },
+  "id": "nba-401909987",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401909987",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-15T21:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-12T23:53:43Z",
+  "venue": "Intuit Dome, Inglewood"
+ },
+ "nba-401909988": {
+  "away": {
+   "abbr": "SA",
+   "name": "San Antonio Spurs",
+   "record": "10-2",
+   "short": "Spurs",
+   "teamId": "24"
+  },
+  "espnId": "401909988",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "UTAH",
+   "name": "Utah Jazz",
+   "record": "1-11",
+   "short": "Jazz",
+   "teamId": "26"
+  },
+  "id": "nba-401909988",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401909988",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-15T22:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-12T23:53:43Z",
+  "venue": "Delta Center, Salt Lake City"
+ },
+ "nba-401909989": {
+  "away": {
+   "abbr": "DAL",
+   "name": "Dallas Mavericks",
+   "record": "7-4",
+   "short": "Mavericks",
+   "teamId": "6"
+  },
+  "espnId": "401909989",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "BOS",
+   "name": "Boston Celtics",
+   "record": "10-2",
+   "short": "Celtics",
+   "teamId": "2"
+  },
+  "id": "nba-401909989",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401909989",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-15T23:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-12T23:53:43Z",
+  "venue": "TD Garden, Boston"
+ },
+ "nba-401909990": {
+  "away": {
+   "abbr": "NY",
+   "name": "New York Knicks",
+   "record": "6-5",
+   "short": "Knicks",
+   "teamId": "18"
+  },
+  "espnId": "401909990",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "TOR",
+   "name": "Toronto Raptors",
+   "record": "5-6",
+   "short": "Raptors",
+   "teamId": "28"
+  },
+  "id": "nba-401909990",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401909990",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-15T23:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-12T23:53:43Z",
+  "venue": "Scotiabank Arena, Toronto"
+ },
  "ncaaf-401856857": {
-  "_lastPick": "UCF ML (-162)",
+  "_lastPick": "UCF ML (-155)",
   "away": {
    "abbr": "ASU",
    "form": "WLWLW",
@@ -2063,7 +2622,7 @@
    "short": "Arizona St",
    "teamId": "9"
   },
-  "confidence": 60,
+  "confidence": 59,
   "espnId": "401856857",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -2084,23 +2643,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856857",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
-   "mlAway": "+136",
+   "mlAway": "+130",
    "mlAwayOpen": "+120",
-   "mlHome": "-162",
+   "mlHome": "-155",
    "mlHomeOpen": "-142",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UCF -3",
    "spreadOpen": "UCF -2.5",
    "total": "48.5",
    "totalOpen": "52.5"
   },
-  "pick": "UCF ML (-162)",
-  "reason": "UCF are about 59% no-vig at -162; ESPN's model has 68%. For: ESPN model 68% vs market 59%.",
+  "pick": "UCF ML (-155)",
+  "reason": "UCF are about 58% no-vig at -155; ESPN's model has 68%. For: ESPN model 68% vs market 58%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -2108,7 +2667,7 @@
   "stars": 2,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Acrisure Bounce House, Orlando"
  },
  "ncaaf-401856858": {
@@ -2142,19 +2701,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856858",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "+230",
    "mlAwayOpen": "+245",
    "mlHome": "-285",
    "mlHomeOpen": "-305",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "BYU -7.5",
    "spreadOpen": "BYU -7.5",
-   "total": "48.5",
+   "total": "49.5",
    "totalOpen": "47.5"
   },
   "pick": "BYU ML (-285)",
@@ -2166,7 +2725,7 @@
   "stars": 2,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "LaVell Edwards Stadium, Provo"
  },
  "ncaaf-401856859": {
@@ -2198,16 +2757,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856859",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "+124",
    "mlAwayOpen": "-105",
    "mlHome": "-148",
    "mlHomeOpen": "-115",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "ISU -3",
    "spreadOpen": "ISU -1.5",
    "total": "59.5",
@@ -2223,7 +2782,7 @@
   "stars": 1,
   "start": "2026-11-14T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Jack Trice Stadium, Ames"
  },
  "ncaaf-401856860": {
@@ -2257,16 +2816,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856860",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "-360",
    "mlAwayOpen": "-395",
    "mlHome": "+285",
    "mlHomeOpen": "+310",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "HOU -9.5",
    "spreadOpen": "HOU -10.5",
    "total": "51.5",
@@ -2281,7 +2840,7 @@
   "stars": 4,
   "start": "2026-11-14T03:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Folsom Field, Boulder"
  },
  "ncaaf-401856861": {
@@ -2313,16 +2872,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856861",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "+120",
    "mlAwayOpen": "+114",
    "mlHome": "-142",
    "mlHomeOpen": "-135",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "WVU -3",
    "spreadOpen": "WVU -2.5",
    "total": "67.5",
@@ -2336,7 +2895,7 @@
   "stars": 1,
   "start": "2026-11-14T22:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Milan Puskar Stadium, Morgantown"
  },
  "ncaaf-401856862": {
@@ -2370,16 +2929,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856862",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "+310",
    "mlAwayOpen": "+275",
    "mlHome": "-395",
    "mlHomeOpen": "-345",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "TCU -10.5",
    "spreadOpen": "TCU -9.5",
    "total": "44.5",
@@ -2394,7 +2953,7 @@
   "stars": 2,
   "start": "2026-11-14T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Amon G. Carter Stadium, Fort Worth"
  },
  "ncaaf-401856863": {
@@ -2426,19 +2985,19 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856863",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "+142",
    "mlAwayOpen": "-625",
    "mlHome": "-170",
    "mlHomeOpen": "+455",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "OKST -3.5",
    "spreadOpen": "TTU -15.5",
-   "total": "72.5",
+   "total": "73.5",
    "totalOpen": "61.5"
   },
   "pick": "Pass",
@@ -2451,7 +3010,7 @@
   "stars": 1,
   "start": "2026-11-15T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Boone Pickens Stadium, Stillwater"
  },
  "ncaaf-401856864": {
@@ -2483,16 +3042,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856864",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "-135",
    "mlAwayOpen": "-118",
    "mlHome": "+114",
    "mlHomeOpen": "-102",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UTAH -2.5",
    "spreadOpen": "UTAH -1.5",
    "total": "54.5",
@@ -2506,7 +3065,7 @@
   "stars": 1,
   "start": "2026-11-15T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Casino Del Sol Stadium, Tucson"
  },
  "ncaaf-401856882": {
@@ -2540,16 +3099,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856882",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "-290",
    "mlAwayOpen": "-340",
    "mlHome": "+235",
    "mlHomeOpen": "+270",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "SC -7",
    "spreadOpen": "SC -8.5",
    "total": "51.5",
@@ -2564,7 +3123,7 @@
   "stars": 4,
   "start": "2026-11-15T00:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Donald W. Reynolds Razorback Stadium, Fayetteville"
  },
  "ncaaf-401856883": {
@@ -2598,17 +3157,17 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856883",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "+525",
    "mlAwayOpen": "+360",
    "mlHome": "-750",
    "mlHomeOpen": "-470",
-   "provider": "Draft Kings",
-   "spread": "UGA -15.5",
+   "provider": "DraftKings",
+   "spread": "UGA -16.5",
    "spreadOpen": "UGA -12.5",
    "total": "47.5",
    "totalOpen": "46.5"
@@ -2622,7 +3181,7 @@
   "stars": 3,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Sanford Stadium, Athens"
  },
  "ncaaf-401856884": {
@@ -2634,7 +3193,7 @@
    "short": "Florida",
    "teamId": "57"
   },
-  "confidence": 56,
+  "confidence": 55,
   "espnId": "401856884",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -2654,32 +3213,32 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856884",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
-   "mlAway": "+145",
+   "mlAway": "+140",
    "mlAwayOpen": "+100",
-   "mlHome": "-175",
+   "mlHome": "-166",
    "mlHomeOpen": "-120",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UK -3.5",
    "spreadOpen": "UK -1.5",
    "total": "52.5",
    "totalOpen": "55.5"
   },
   "pick": "Pass",
-  "reason": "UK about 61% no-vig at -175; no edge worth a pick.",
+  "reason": "UK about 60% no-vig at -166; no edge worth a pick.",
   "risks": [
-   "ESPN model only 54% vs market 61%"
+   "ESPN model only 54% vs market 60%"
   ],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-14T23:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Kroger Field, Lexington"
  },
  "ncaaf-401856885": {
@@ -2711,16 +3270,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856885",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "+154",
    "mlAwayOpen": "-155",
    "mlHome": "-185",
    "mlHomeOpen": "+130",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "LSU -4",
    "spreadOpen": "TEX -3",
    "total": "46.5",
@@ -2736,7 +3295,7 @@
   "stars": 1,
   "start": "2026-11-15T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Tiger Stadium (LA), Baton Rouge"
  },
  "ncaaf-401856886": {
@@ -2768,16 +3327,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856886",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "-142",
    "mlAwayOpen": "-148",
    "mlHome": "+120",
    "mlHomeOpen": "+124",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "AUB -2.5",
    "spreadOpen": "AUB -3.5",
    "total": "50.5",
@@ -2793,7 +3352,7 @@
   "stars": 1,
   "start": "2026-11-14T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Davis Wade Stadium, Starkville"
  },
  "ncaaf-401856887": {
@@ -2825,16 +3384,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856887",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "-108",
    "mlAwayOpen": "+154",
    "mlHome": "-112",
    "mlHomeOpen": "-185",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "OU -1.5",
    "spreadOpen": "OU -4",
    "total": "49.5",
@@ -2851,7 +3410,7 @@
   "stars": 1,
   "start": "2026-11-14T21:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Memorial Stadium (Norman, OK), Norman"
  },
  "ncaaf-401856888": {
@@ -2883,16 +3442,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856888",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "-135",
    "mlAwayOpen": "+280",
    "mlHome": "+114",
    "mlHomeOpen": "-355",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "TENN -2.5",
    "spreadOpen": "TA&M -9.5",
    "total": "43.5",
@@ -2906,7 +3465,7 @@
   "stars": 1,
   "start": "2026-11-14T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Kyle Field, College Station"
  },
  "ncaaf-401856889": {
@@ -2940,16 +3499,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856889",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "-950",
    "mlAwayOpen": "-1350",
    "mlHome": "+625",
    "mlHomeOpen": "+800",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "ALA -17.5",
    "spreadOpen": "ALA -19.5",
    "total": "50.5",
@@ -2964,7 +3523,7 @@
   "stars": 3,
   "start": "2026-11-14T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "FirstBank Stadium, Nashville"
  },
  "ncaaf-401858293": {
@@ -2998,16 +3557,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858293",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "+142",
    "mlAwayOpen": "+120",
    "mlHome": "-170",
    "mlHomeOpen": "-142",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "PITT -3.5",
    "spreadOpen": "PITT -3",
    "total": "52.5",
@@ -3022,7 +3581,7 @@
   "stars": 2,
   "start": "2026-11-14T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Acrisure Stadium, Pittsburgh"
  },
  "ncaaf-401858294": {
@@ -3056,16 +3615,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858294",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "+1800",
    "mlAwayOpen": "+3000",
    "mlHome": "-5000",
    "mlHomeOpen": "-10000",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "ND -29.5",
    "spreadOpen": "ND -31.5",
    "total": "52.5",
@@ -3080,7 +3639,7 @@
   "stars": 2,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Notre Dame Stadium, Notre Dame"
  },
  "ncaaf-401858295": {
@@ -3114,16 +3673,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858295",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "+320",
    "mlAwayOpen": "+380",
    "mlHome": "-410",
    "mlHomeOpen": "-500",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UVA -10",
    "spreadOpen": "UVA -12.5",
    "total": "46.5",
@@ -3138,11 +3697,11 @@
   "stars": 3,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Scott Stadium, Charlottesville"
  },
  "ncaaf-401858296": {
-  "_lastPick": "MIA ML (-575)",
+  "_lastPick": "MIA ML (-550)",
   "away": {
    "abbr": "DUKE",
    "form": "WWWLL",
@@ -3172,25 +3731,25 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858296",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
-   "mlAway": "+425",
+   "mlAway": "+410",
    "mlAwayOpen": "+950",
-   "mlHome": "-575",
+   "mlHome": "-550",
    "mlHomeOpen": "-1650",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "MIA -13.5",
    "spreadOpen": "MIA -20.5",
    "total": "54.5",
    "totalOpen": "55.5"
   },
-  "pick": "MIA ML (-575)",
-  "reason": "MIA are about 82% no-vig at -575; ESPN's model has 88%. For: ESPN model 88% vs market 82%.",
+  "pick": "MIA ML (-550)",
+  "reason": "MIA are about 81% no-vig at -550; ESPN's model has 88%. For: ESPN model 88% vs market 81%.",
   "risks": [
-   "line drifted away (-1650 → -575)"
+   "line drifted away (-1650 → -550)"
   ],
   "side": "home",
   "slug": "college-football",
@@ -3198,11 +3757,11 @@
   "stars": 3,
   "start": "2026-11-14T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Hard Rock Stadium, Miami Gardens"
  },
  "ncaaf-401858297": {
-  "_lastPick": "CLEM ML (-550)",
+  "_lastPick": "CLEM ML (-575)",
   "away": {
    "abbr": "GT",
    "form": "LLLLW",
@@ -3211,7 +3770,7 @@
    "short": "Georgia Tech",
    "teamId": "59"
   },
-  "confidence": 79,
+  "confidence": 80,
   "espnId": "401858297",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -3232,23 +3791,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858297",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
-   "mlAway": "+410",
+   "mlAway": "+425",
    "mlAwayOpen": "+425",
-   "mlHome": "-550",
+   "mlHome": "-575",
    "mlHomeOpen": "-575",
-   "provider": "Draft Kings",
-   "spread": "CLEM -13.5",
+   "provider": "DraftKings",
+   "spread": "CLEM -14",
    "spreadOpen": "CLEM -13.5",
-   "total": "47.5",
+   "total": "48.5",
    "totalOpen": "49.5"
   },
-  "pick": "CLEM ML (-550)",
-  "reason": "CLEM are about 81% no-vig at -550; ESPN's model has 84%.",
+  "pick": "CLEM ML (-575)",
+  "reason": "CLEM are about 82% no-vig at -575; ESPN's model has 84%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -3256,7 +3815,7 @@
   "stars": 2,
   "start": "2026-11-14T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Memorial Stadium (Clemson, SC), Clemson"
  },
  "ncaaf-401858298": {
@@ -3290,16 +3849,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858298",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "-180",
    "mlAwayOpen": "-135",
    "mlHome": "+150",
    "mlHomeOpen": "+114",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "LOU -3.5",
    "spreadOpen": "LOU -2.5",
    "total": "59.5",
@@ -3314,7 +3873,7 @@
   "stars": 2,
   "start": "2026-11-15T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Kenan Stadium, Chapel Hill"
  },
  "ncaaf-401858299": {
@@ -3348,17 +3907,17 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858299",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "+500",
    "mlAwayOpen": "+600",
    "mlHome": "-700",
    "mlHomeOpen": "-900",
-   "provider": "Draft Kings",
-   "spread": "VT -14.5",
+   "provider": "DraftKings",
+   "spread": "VT -15.5",
    "spreadOpen": "VT -16.5",
    "total": "58.5",
    "totalOpen": "59.5"
@@ -3372,7 +3931,7 @@
   "stars": 3,
   "start": "2026-11-15T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Lane Stadium, Blacksburg"
  },
  "ncaaf-401858300": {
@@ -3404,16 +3963,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858300",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "-148",
    "mlAwayOpen": "-118",
    "mlHome": "+124",
    "mlHomeOpen": "-102",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "SYR -3",
    "spreadOpen": "SYR -1.5",
    "total": "53.5",
@@ -3427,7 +3986,7 @@
   "stars": 1,
   "start": "2026-11-14T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Carter-Finley Stadium, Raleigh"
  },
  "ncaaf-401858301": {
@@ -3459,16 +4018,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858301",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "-105",
    "mlAwayOpen": "-162",
    "mlHome": "-115",
    "mlHomeOpen": "+136",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "SMU -1.5",
    "spreadOpen": "WAKE -3.5",
    "total": "60.5",
@@ -3484,7 +4043,7 @@
   "stars": 1,
   "start": "2026-11-14T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Gerald J. Ford Stadium, Dallas"
  },
  "ncaaf-401858518": {
@@ -3518,16 +4077,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858518",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "+270",
    "mlAwayOpen": "+320",
    "mlHome": "-340",
    "mlHomeOpen": "-410",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "IU -8.5",
    "spreadOpen": "IU -10.5",
    "total": "50.5",
@@ -3542,11 +4101,11 @@
   "stars": 2,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Memorial Stadium (Bloomington, IN), Bloomington"
  },
  "ncaaf-401858519": {
-  "_lastPick": "IOWA ML (-900)",
+  "_lastPick": "IOWA ML (-950)",
   "away": {
    "abbr": "PUR",
    "form": "LLLWW",
@@ -3576,31 +4135,31 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858519",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
-   "mlAway": "+600",
+   "mlAway": "+625",
    "mlAwayOpen": "+455",
-   "mlHome": "-900",
+   "mlHome": "-950",
    "mlHomeOpen": "-625",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "IOWA -17.5",
    "spreadOpen": "IOWA -16.5",
    "total": "47.5",
    "totalOpen": "45.5"
   },
-  "pick": "IOWA ML (-900)",
-  "reason": "IOWA are about 86% no-vig at -900; ESPN's model has 87%.",
+  "pick": "IOWA ML (-950)",
+  "reason": "IOWA are about 87% no-vig at -950; ESPN's model has 87%. For: line moved toward IOWA (-625 → -950).",
   "risks": [],
   "side": "home",
   "slug": "college-football",
   "sport": "ncaaf",
-  "stars": 2,
+  "stars": 3,
   "start": "2026-11-15T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Kinnick Stadium, Iowa City"
  },
  "ncaaf-401858520": {
@@ -3634,16 +4193,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858520",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "-345",
    "mlAwayOpen": "-270",
    "mlHome": "+275",
    "mlHomeOpen": "+220",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "WIS -8.5",
    "spreadOpen": "WIS -7.5",
    "total": "42.5",
@@ -3658,7 +4217,7 @@
   "stars": 3,
   "start": "2026-11-14T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "SECU Stadium, College Park"
  },
  "ncaaf-401858521": {
@@ -3690,16 +4249,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858521",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "-170",
    "mlAwayOpen": "-155",
    "mlHome": "+142",
    "mlHomeOpen": "+130",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "WASH -3.5",
    "spreadOpen": "WASH -3.5",
    "total": "42.5",
@@ -3715,7 +4274,7 @@
   "stars": 1,
   "start": "2026-11-14T21:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Spartan Stadium, East Lansing"
  },
  "ncaaf-401858522": {
@@ -3749,16 +4308,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858522",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "+410",
    "mlAwayOpen": "+295",
    "mlHome": "-550",
    "mlHomeOpen": "-375",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "OSU -14",
    "spreadOpen": "OSU -9.5",
    "total": "44.5",
@@ -3773,7 +4332,7 @@
   "stars": 3,
   "start": "2026-11-14T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Ohio Stadium, Columbus"
  },
  "ncaaf-401858523": {
@@ -3807,16 +4366,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858523",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "+330",
    "mlAwayOpen": "+425",
    "mlHome": "-425",
    "mlHomeOpen": "-575",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "ORE -10.5",
    "spreadOpen": "ORE -13.5",
    "total": "38.5",
@@ -3833,7 +4392,7 @@
   "stars": 3,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Autzen Stadium, Eugene"
  },
  "ncaaf-401858524": {
@@ -3867,16 +4426,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858524",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "+280",
    "mlAwayOpen": "+220",
    "mlHome": "-355",
    "mlHomeOpen": "-270",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "PSU -9.5",
    "spreadOpen": "PSU -7",
    "total": "41.5",
@@ -3891,7 +4450,7 @@
   "stars": 4,
   "start": "2026-11-15T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Beaver Stadium, University Park"
  },
  "ncaaf-401858525": {
@@ -3925,17 +4484,17 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858525",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "-675",
    "mlAwayOpen": "-535",
    "mlHome": "+490",
    "mlHomeOpen": "+400",
-   "provider": "Draft Kings",
-   "spread": "NEB -14.5",
+   "provider": "DraftKings",
+   "spread": "NEB -15.5",
    "spreadOpen": "NEB -12.5",
    "total": "51.5",
    "totalOpen": "54.5"
@@ -3949,7 +4508,7 @@
   "stars": 2,
   "start": "2026-11-14T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "SHI Stadium, Piscataway"
  },
  "ncaaf-401858526": {
@@ -3983,16 +4542,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858526",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "+310",
    "mlAwayOpen": "+380",
    "mlHome": "-395",
    "mlHomeOpen": "-500",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UCLA -10",
    "spreadOpen": "UCLA -12.5",
    "total": "47.5",
@@ -4007,7 +4566,7 @@
   "stars": 2,
   "start": "2026-11-14T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Rose Bowl, Pasadena"
  },
  "ncaaf-401860914": {
@@ -4041,19 +4600,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401860914",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "+470",
    "mlAwayOpen": "+150",
    "mlHome": "-650",
    "mlHomeOpen": "-180",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "BOIS -14.5",
    "spreadOpen": "BOIS -4.5",
-   "total": "64.5",
+   "total": "63.5",
    "totalOpen": "62.5"
   },
   "pick": "BOIS ML (-650)",
@@ -4065,7 +4624,7 @@
   "stars": 3,
   "start": "2026-11-14T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Albertsons Stadium, Boise"
  },
  "ncaaf-401860915": {
@@ -4097,16 +4656,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401860915",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "-142",
    "mlAwayOpen": "-130",
    "mlHome": "+120",
    "mlHomeOpen": "+110",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "USU -2.5",
    "spreadOpen": "USU -2.5",
    "total": "42.5",
@@ -4120,7 +4679,7 @@
   "stars": 1,
   "start": "2026-11-15T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Snapdragon Stadium, San Diego"
  },
  "ncaaf-401860916": {
@@ -4154,16 +4713,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401860916",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "+295",
    "mlAwayOpen": "+240",
    "mlHome": "-375",
    "mlHomeOpen": "-298",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "TXST -9.5",
    "spreadOpen": "TXST -7",
    "total": "59.5",
@@ -4180,11 +4739,11 @@
   "stars": 2,
   "start": "2026-11-14T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "UFCU Stadium, San Marcos"
  },
  "ncaaf-401860917": {
-  "_lastPick": "WSU ML (-360)",
+  "_lastPick": "WSU ML (-340)",
   "away": {
    "abbr": "CSU",
    "form": "LLWLL",
@@ -4214,23 +4773,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401860917",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
-   "mlAway": "+285",
+   "mlAway": "+270",
    "mlAwayOpen": "+170",
-   "mlHome": "-360",
+   "mlHome": "-340",
    "mlHomeOpen": "-205",
-   "provider": "Draft Kings",
-   "spread": "WSU -9.5",
+   "provider": "DraftKings",
+   "spread": "WSU -8.5",
    "spreadOpen": "WSU -6.5",
    "total": "66.5",
    "totalOpen": "62.5"
   },
-  "pick": "WSU ML (-360)",
-  "reason": "WSU are about 75% no-vig at -360; ESPN's model has 70%. For: line moved toward WSU (-205 → -360).",
+  "pick": "WSU ML (-340)",
+  "reason": "WSU are about 74% no-vig at -340; ESPN's model has 70%. For: line moved toward WSU (-205 → -340).",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -4238,7 +4797,7 @@
   "stars": 2,
   "start": "2026-11-15T03:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Martin Stadium, Pullman"
  },
  "ncaaf-401861967": {
@@ -4272,16 +4831,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401861967",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "-192",
    "mlAwayOpen": "-118",
    "mlHome": "+160",
    "mlHomeOpen": "-102",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "JMU -4",
    "spreadOpen": "JMU -1.5",
    "total": "57.5",
@@ -4296,7 +4855,7 @@
   "stars": 4,
   "start": "2026-11-14T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Pratt & Whitney Stadium, East Hartford"
  },
  "ncaaf-401862824": {
@@ -4309,7 +4868,7 @@
    "short": "Memphis",
    "teamId": "235"
   },
-  "confidence": 57,
+  "confidence": 60,
   "espnId": "401862824",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -4328,35 +4887,33 @@
   "id": "ncaaf-401862824",
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401862824",
-  "market": null,
+  "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
-   "mlAway": "-185",
+   "mlAway": "-192",
    "mlAwayOpen": "-230",
-   "mlHome": "+154",
+   "mlHome": "+160",
    "mlHomeOpen": "+190",
-   "provider": "Draft Kings",
-   "spread": "MEM -4",
+   "provider": "DraftKings",
+   "spread": "MEM -4.5",
    "spreadOpen": "MEM -6",
-   "total": "49.5",
+   "total": "50.5",
    "totalOpen": "49.5"
   },
-  "pick": "Pass",
-  "reason": "MEM about 62% no-vig at -185; no edge worth a pick.",
-  "risks": [
-   "line drifted away (-230 → -185)"
-  ],
-  "side": null,
+  "pick": "MEM ML (-192)",
+  "reason": "MEM are about 63% no-vig at -192; ESPN's model has 63%.",
+  "risks": [],
+  "side": "away",
   "slug": "college-football",
   "sport": "ncaaf",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-13T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Raymond James Stadium, Tampa"
  },
  "ncaaf-401862825": {
@@ -4390,17 +4947,17 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862825",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "-455",
    "mlAwayOpen": "-600",
    "mlHome": "+350",
    "mlHomeOpen": "+440",
-   "provider": "Draft Kings",
-   "spread": "ECU -11.5",
+   "provider": "DraftKings",
+   "spread": "ECU -12.5",
    "spreadOpen": "ECU -13.5",
    "total": "45.5",
    "totalOpen": "47.5"
@@ -4414,7 +4971,7 @@
   "stars": 3,
   "start": "2026-11-14T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Jerry Richardson Stadium, Charlotte"
  },
  "ncaaf-401862826": {
@@ -4448,16 +5005,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862826",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "+180",
    "mlAwayOpen": "+170",
    "mlHome": "-218",
    "mlHomeOpen": "-205",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "TLSA -5.5",
    "spreadOpen": "TLSA -5.5",
    "total": "74.5",
@@ -4472,7 +5029,7 @@
   "stars": 3,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "H. A. Chapman Stadium, Tulsa"
  },
  "ncaaf-401862827": {
@@ -4504,19 +5061,19 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401862827",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "-125",
    "mlAwayOpen": "-112",
    "mlHome": "+105",
    "mlHomeOpen": "-108",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UNT -2.5",
    "spreadOpen": "UNT -1.5",
-   "total": "76.5",
+   "total": "75.5",
    "totalOpen": "75.5"
   },
   "pick": "Pass",
@@ -4527,7 +5084,7 @@
   "stars": 1,
   "start": "2026-11-15T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Alamodome, San Antonio"
  },
  "ncaaf-401862828": {
@@ -4559,19 +5116,19 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401862828",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "+114",
    "mlAwayOpen": "-112",
    "mlHome": "-135",
    "mlHomeOpen": "-108",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "RICE -2.5",
    "spreadOpen": "TULN -1.5",
-   "total": "47.5",
+   "total": "48.5",
    "totalOpen": "46.5"
   },
   "pick": "Pass",
@@ -4585,7 +5142,7 @@
   "stars": 1,
   "start": "2026-11-14T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "First Community Stadium, Houston"
  },
  "ncaaf-401862829": {
@@ -4617,19 +5174,19 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401862829",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "+114",
    "mlAwayOpen": "+105",
    "mlHome": "-135",
    "mlHomeOpen": "-125",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "TEM -2.5",
    "spreadOpen": "TEM -2.5",
-   "total": "48.5",
+   "total": "47.5",
    "totalOpen": "51.5"
   },
   "pick": "Pass",
@@ -4642,7 +5199,7 @@
   "stars": 1,
   "start": "2026-11-14T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Lincoln Financial Field, Philadelphia"
  },
  "ncaaf-401864536": {
@@ -4676,16 +5233,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864536",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "-270",
    "mlAwayOpen": "-425",
    "mlHome": "+220",
    "mlHomeOpen": "+330",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "NEV -7",
    "spreadOpen": "NEV -10.5",
    "total": "47.5",
@@ -4702,7 +5259,7 @@
   "stars": 2,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Huskie Stadium, Dekalb"
  },
  "ncaaf-401864537": {
@@ -4736,16 +5293,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864537",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "-245",
    "mlAwayOpen": "-395",
    "mlHome": "+200",
    "mlHomeOpen": "+310",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "NDSU -6.5",
    "spreadOpen": "NDSU -9.5",
    "total": "38.5",
@@ -4762,7 +5319,7 @@
   "stars": 2,
   "start": "2026-11-15T04:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Clarence T.C. Ching Athletics Complex, Honolulu"
  },
  "ncaaf-401864538": {
@@ -4796,16 +5353,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864538",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "+360",
    "mlAwayOpen": "+310",
    "mlHome": "-470",
    "mlHomeOpen": "-395",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "AF -12.5",
    "spreadOpen": "AFA -10.5",
    "total": "47.5",
@@ -4820,11 +5377,11 @@
   "stars": 2,
   "start": "2026-11-15T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Falcon Stadium, USAF Academy"
  },
  "ncaaf-401864539": {
-  "_lastPick": "UNM ML (-600)",
+  "_lastPick": "UNM ML (-625)",
   "away": {
    "abbr": "UNLV",
    "form": "LWLWW",
@@ -4854,23 +5411,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864539",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
-   "mlAway": "+440",
+   "mlAway": "+455",
    "mlAwayOpen": "+470",
-   "mlHome": "-600",
+   "mlHome": "-625",
    "mlHomeOpen": "-650",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UNM -14.5",
    "spreadOpen": "UNM -13.5",
    "total": "46.5",
    "totalOpen": "47.5"
   },
-  "pick": "UNM ML (-600)",
-  "reason": "UNM are about 82% no-vig at -600; ESPN's model has 87%.",
+  "pick": "UNM ML (-625)",
+  "reason": "UNM are about 83% no-vig at -625; ESPN's model has 87%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -4878,7 +5435,7 @@
   "stars": 2,
   "start": "2026-11-15T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "University Stadium (NM), Albuquerque"
  },
  "ncaaf-401864540": {
@@ -4912,16 +5469,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864540",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "-325",
    "mlAwayOpen": "-360",
    "mlHome": "+260",
    "mlHomeOpen": "+285",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "WYO -8.5",
    "spreadOpen": "WYO -10",
    "total": "39.5",
@@ -4936,7 +5493,7 @@
   "stars": 4,
   "start": "2026-11-15T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Sun Bowl, El Paso"
  },
  "ncaaf-401866458": {
@@ -5255,16 +5812,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401869928",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "-120",
    "mlAwayOpen": "-135",
    "mlHome": "+100",
    "mlHomeOpen": "+114",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "APP -1.5",
    "spreadOpen": "APP -2.5",
    "total": "54.5",
@@ -5278,7 +5835,7 @@
   "stars": 1,
   "start": "2026-11-14T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Joan C. Edwards Stadium, Huntington"
  },
  "ncaaf-401869937": {
@@ -5310,16 +5867,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401869937",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "-102",
    "mlAwayOpen": "-102",
    "mlHome": "-118",
    "mlHomeOpen": "-118",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "CCU -1.5",
    "spreadOpen": "CCU -1.5",
    "total": "51.5",
@@ -5333,7 +5890,7 @@
   "stars": 1,
   "start": "2026-11-14T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Brooks Stadium (SC), Conway"
  },
  "ncaaf-401869952": {
@@ -5367,16 +5924,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869952",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "-225",
    "mlAwayOpen": "-205",
    "mlHome": "+185",
    "mlHomeOpen": "+170",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "GASO -6",
    "spreadOpen": "GASO -5.5",
    "total": "56.5",
@@ -5393,7 +5950,7 @@
   "stars": 2,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Center Parc Stadium, Atlanta"
  },
  "ncaaf-401869969": {
@@ -5427,16 +5984,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869969",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "-395",
    "mlAwayOpen": "-410",
    "mlHome": "+310",
    "mlHomeOpen": "+320",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UL -10.5",
    "spreadOpen": "UL -10.5",
    "total": "47.5",
@@ -5451,7 +6008,7 @@
   "stars": 3,
   "start": "2026-11-13T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Malone Stadium, Monroe"
  },
  "ncaaf-401870752": {
@@ -5485,16 +6042,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401870752",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "-298",
    "mlAwayOpen": "-205",
    "mlHome": "+240",
    "mlHomeOpen": "+170",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "JXST -7.5",
    "spreadOpen": "JXST -6",
    "total": "54.5",
@@ -5509,11 +6066,11 @@
   "stars": 3,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Houchens Industries-L.T. Smith Stadium, Bowling Green"
  },
  "ncaaf-401870769": {
-  "_lastPick": "KENN ML (-290)",
+  "_lastPick": "KENN ML (-278)",
   "away": {
    "abbr": "KENN",
    "form": "WWLLL",
@@ -5543,23 +6100,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401870769",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
-   "mlAway": "-290",
+   "mlAway": "-278",
    "mlAwayOpen": "-305",
-   "mlHome": "+235",
+   "mlHome": "+225",
    "mlHomeOpen": "+245",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "KENN -7",
    "spreadOpen": "KENN -7.5",
    "total": "46.5",
    "totalOpen": "44.5"
   },
-  "pick": "KENN ML (-290)",
-  "reason": "KENN are about 71% no-vig at -290; ESPN's model has 69%.",
+  "pick": "KENN ML (-278)",
+  "reason": "KENN are about 71% no-vig at -278; ESPN's model has 69%.",
   "risks": [],
   "side": "away",
   "slug": "college-football",
@@ -5567,7 +6124,7 @@
   "stars": 2,
   "start": "2026-11-14T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Elliott T. Bowers Stadium, Huntsville"
  },
  "ncaaf-401870796": {
@@ -5599,16 +6156,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401870796",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "+100",
    "mlAwayOpen": "-105",
    "mlHome": "-120",
    "mlHomeOpen": "-115",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "MOST -1.5",
    "spreadOpen": "MOST -1.5",
    "total": "49.5",
@@ -5622,7 +6179,7 @@
   "stars": 1,
   "start": "2026-11-14T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Robert W. Plaster Stadium, Springfield"
  },
  "ncaaf-401871060": {
@@ -5656,16 +6213,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871060",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "+170",
    "mlAwayOpen": "+170",
    "mlHome": "-205",
    "mlHomeOpen": "-218",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "DEL -4.5",
    "spreadOpen": "DEL -6.5",
    "total": "53.5",
@@ -5680,7 +6237,7 @@
   "stars": 2,
   "start": "2026-11-14T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Delaware Stadium, Newark"
  },
  "ncaaf-401871061": {
@@ -5714,16 +6271,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871061",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "+950",
    "mlAwayOpen": "+1100",
    "mlHome": "-1650",
    "mlHomeOpen": "-2100",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "LIB -21",
    "spreadOpen": "LIB -20.5",
    "total": "53.5",
@@ -5738,11 +6295,11 @@
   "stars": 2,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Williams Stadium (VA), Lynchburg"
  },
  "ncaaf-401871099": {
-  "_lastPick": "LT ML (-900)",
+  "_lastPick": "LT ML (-950)",
   "away": {
    "abbr": "USM",
    "form": "LWWLL",
@@ -5772,23 +6329,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871099",
   "market": "Moneyline",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
-   "mlAway": "+600",
+   "mlAway": "+625",
    "mlAwayOpen": "+850",
-   "mlHome": "-900",
+   "mlHome": "-950",
    "mlHomeOpen": "-1450",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "LT -17.5",
    "spreadOpen": "LT -18.5",
    "total": "56.5",
    "totalOpen": "54.5"
   },
-  "pick": "LT ML (-900)",
-  "reason": "LT are about 86% no-vig at -900; ESPN's model has 88%. For: form WWWWW vs LWWLL.",
+  "pick": "LT ML (-950)",
+  "reason": "LT are about 87% no-vig at -950; ESPN's model has 88%. For: form WWWWW vs LWWLL.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -5796,7 +6353,7 @@
   "stars": 3,
   "start": "2026-11-14T22:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Joe Aillet Stadium, Ruston"
  },
  "ncaaf-401871100": {
@@ -5828,16 +6385,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401871100",
   "news": [
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
    "Top 25 betting lines: LSU favored over Texas, and Indiana over USC",
-   "Florida set to give QB Aaron Philo another start vs. Kentucky, source confirms",
-   "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks"
+   "Wake Forest awards second-year coach Dickert with extension"
   ],
   "odds": {
    "mlAway": "+130",
    "mlAwayOpen": "+102",
    "mlHome": "-155",
    "mlHomeOpen": "-122",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "USA -3",
    "spreadOpen": "USA -2.5",
    "total": "55.5",
@@ -5851,7 +6408,7 @@
   "stars": 1,
   "start": "2026-11-15T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Hancock Whitney Stadium, Mobile"
  },
  "nfl-401873052": {
@@ -5860,17 +6417,17 @@
    "form": "LWLTL",
    "injuries": [
     "Lucas Patrick (G) – Out, Concussion",
-    "Treylon Burks (WR) – Out",
     "Colson Yankoff (TE) – Out, Knee",
     "Dyami Brown (WR) – Injured Reserve, Calf",
-    "Daron Payne (DT) – Injured Reserve, Foot"
+    "Daron Payne (DT) – Injured Reserve, Foot",
+    "Jeremy McNichols (RB) – Injured Reserve, Foot"
    ],
    "name": "Washington Commanders",
    "record": "2-5-1",
    "short": "Commanders",
    "teamId": "28"
   },
-  "confidence": 50,
+  "confidence": 49,
   "espnId": "401873052",
   "espnLeague": "nfl",
   "espnSport": "football",
@@ -5882,9 +6439,8 @@
    "abbr": "NYG",
    "form": "WWLTW",
    "injuries": [
-    "Colton Hood (CB) – Out",
-    "Cam Skattebo (RB) – Out",
-    "Tyrone Tracy Jr. (RB) – Injured Reserve, Hamstring"
+    "Tyrone Tracy Jr. (RB) – Injured Reserve, Hamstring",
+    "Tremaine Edmunds (LB) – Injured Reserve, Chest"
    ],
    "name": "New York Giants",
    "record": "5-2-1",
@@ -5898,13 +6454,6 @@
      "detail": "Concussion",
      "player": "Lucas Patrick",
      "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "",
-     "player": "Treylon Burks",
-     "pos": "WR",
      "stale": false,
      "status": "Out"
     },
@@ -5928,28 +6477,42 @@
      "pos": "DT",
      "stale": false,
      "status": "Injured Reserve"
+    },
+    {
+     "detail": "Foot",
+     "player": "Jeremy McNichols",
+     "pos": "RB",
+     "stale": false,
+     "status": "Injured Reserve"
     }
    ],
    "home": [
-    {
-     "detail": "",
-     "player": "Colton Hood",
-     "pos": "CB",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "",
-     "player": "Cam Skattebo",
-     "pos": "RB",
-     "stale": false,
-     "status": "Out"
-    },
     {
      "detail": "Hamstring",
      "player": "Tyrone Tracy Jr.",
      "pos": "RB",
      "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Chest",
+     "player": "Tremaine Edmunds",
+     "pos": "LB",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Foot",
+     "player": "Braxton Berrios",
+     "pos": "WR",
+     "stale": true,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Neck",
+     "player": "Chauncey Golston",
+     "pos": "DE",
+     "stale": true,
      "status": "Injured Reserve"
     }
    ]
@@ -5957,32 +6520,30 @@
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873052",
   "news": [
-   "Fantasy football rankings for Week 10: Quarterback",
-   "Fantasy football rankings for Week 10: Running back",
-   "Fantasy football rankings for Week 10: Wide receiver"
+   "Cardinals' rookie QB Carson Beck makes his NFL debut against stellar Rams defense",
+   "Raiders QB Fernando Mendoza’s first start will come against the Seahawks' NFL-best defense",
+   "GM Joe Hortiz says Chargers were listening to trade offers, none were enticing"
   ],
   "odds": {
-   "mlAway": "+114",
+   "mlAway": "+105",
    "mlAwayOpen": "+105",
-   "mlHome": "-135",
+   "mlHome": "-125",
    "mlHomeOpen": "-125",
-   "provider": "Draft Kings",
-   "spread": "NYG -2.5",
+   "provider": "DraftKings",
+   "spread": "NYG -1.5",
    "spreadOpen": "NYG -1.5",
    "total": "40.5",
    "totalOpen": "47.5"
   },
   "pick": "Pass",
-  "reason": "NYG about 55% no-vig at -135; no edge worth a pick.",
-  "risks": [
-   "ESPN model only 50% vs market 55%"
-  ],
+  "reason": "NYG about 53% no-vig at -125; no edge worth a pick.",
+  "risks": [],
   "slug": "nfl",
   "sport": "nfl",
   "stars": 1,
   "start": "2026-11-13T01:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "MetLife Stadium, East Rutherford"
  },
  "nfl-401873053": {
@@ -5990,8 +6551,6 @@
    "abbr": "NE",
    "form": "LWLWW",
    "injuries": [
-    "Rhamondre Stevenson (RB) – Doubtful, Knee",
-    "TreVeyon Henderson (RB) – Out, Illness",
     "Ben Brown (C) – Out, Knee"
    ],
    "name": "New England Patriots",
@@ -6011,8 +6570,9 @@
    "abbr": "DET",
    "form": "WWWWL",
    "injuries": [
+    "D.J. Reed (CB) – Out, Hip",
     "Kerby Joseph (S) – Out, Knee",
-    "Jacob Saylors (RB) – Out"
+    "Cade Mays (C) – Out, Ankle"
    ],
    "name": "Detroit Lions",
    "record": "6-2",
@@ -6024,20 +6584,6 @@
    "away": [
     {
      "detail": "Knee",
-     "player": "Rhamondre Stevenson",
-     "pos": "RB",
-     "stale": false,
-     "status": "Doubtful"
-    },
-    {
-     "detail": "Illness",
-     "player": "TreVeyon Henderson",
-     "pos": "RB",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
      "player": "Ben Brown",
      "pos": "C",
      "stale": false,
@@ -6046,6 +6592,13 @@
    ],
    "home": [
     {
+     "detail": "Hip",
+     "player": "D.J. Reed",
+     "pos": "CB",
+     "stale": false,
+     "status": "Out"
+    },
+    {
      "detail": "Knee",
      "player": "Kerby Joseph",
      "pos": "S",
@@ -6053,9 +6606,9 @@
      "status": "Out"
     },
     {
-     "detail": "",
-     "player": "Jacob Saylors",
-     "pos": "RB",
+     "detail": "Ankle",
+     "player": "Cade Mays",
+     "pos": "C",
      "stale": false,
      "status": "Out"
     }
@@ -6064,16 +6617,16 @@
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873053",
   "news": [
-   "Fantasy football rankings for Week 10: Quarterback",
-   "Fantasy football rankings for Week 10: Running back",
-   "Fantasy football rankings for Week 10: Wide receiver"
+   "Cardinals' rookie QB Carson Beck makes his NFL debut against stellar Rams defense",
+   "Raiders QB Fernando Mendoza’s first start will come against the Seahawks' NFL-best defense",
+   "GM Joe Hortiz says Chargers were listening to trade offers, none were enticing"
   ],
   "odds": {
    "mlAway": "+130",
    "mlAwayOpen": "+105",
    "mlHome": "-155",
    "mlHomeOpen": "-125",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "DET -2.5",
    "spreadOpen": "DET -1.5",
    "total": "51.5",
@@ -6089,7 +6642,7 @@
   "stars": 1,
   "start": "2026-11-15T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "FC Bayern Munich Stadium, Munich"
  },
  "nfl-401873054": {
@@ -6123,16 +6676,16 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873054",
   "market": "Moneyline",
   "news": [
-   "Fantasy football rankings for Week 10: Quarterback",
-   "Fantasy football rankings for Week 10: Running back",
-   "Fantasy football rankings for Week 10: Wide receiver"
+   "Cardinals' rookie QB Carson Beck makes his NFL debut against stellar Rams defense",
+   "Raiders QB Fernando Mendoza’s first start will come against the Seahawks' NFL-best defense",
+   "GM Joe Hortiz says Chargers were listening to trade offers, none were enticing"
   ],
   "odds": {
    "mlAway": "-440",
    "mlAwayOpen": "-340",
    "mlHome": "+340",
    "mlHomeOpen": "+270",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "BUF -8.5",
    "spreadOpen": "BUF -7",
    "total": "50.5",
@@ -6147,7 +6700,7 @@
   "stars": 3,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "MetLife Stadium, East Rutherford"
  },
  "nfl-401873055": {
@@ -6155,10 +6708,10 @@
    "abbr": "CAR",
    "form": "LLLWW",
    "injuries": [
-    "Damien Lewis (G) – Out",
-    "Will Lee III (CB) – Out",
+    "Xavier Legette (WR) – Injured Reserve, Knee",
+    "Jonathon Brooks (RB) – Injured Reserve, Groin",
     "Jaelan Phillips (LB) – Out",
-    "Jonathon Brooks (RB) – Injured Reserve, Groin"
+    "Mike Jackson (CB) – Injured Reserve, Groin"
    ],
    "name": "Carolina Panthers",
    "record": "3-5",
@@ -6176,7 +6729,9 @@
   "home": {
    "abbr": "NO",
    "form": "WLWLL",
-   "injuries": [],
+   "injuries": [
+    "Travis Etienne Jr. (RB) – Injured Reserve, Hamstring"
+   ],
    "name": "New Orleans Saints",
    "record": "3-5",
    "short": "Saints",
@@ -6186,18 +6741,18 @@
   "injuriesRaw": {
    "away": [
     {
-     "detail": "",
-     "player": "Damien Lewis",
-     "pos": "G",
+     "detail": "Knee",
+     "player": "Xavier Legette",
+     "pos": "WR",
      "stale": false,
-     "status": "Out"
+     "status": "Injured Reserve"
     },
     {
-     "detail": "",
-     "player": "Will Lee III",
-     "pos": "CB",
+     "detail": "Groin",
+     "player": "Jonathon Brooks",
+     "pos": "RB",
      "stale": false,
-     "status": "Out"
+     "status": "Injured Reserve"
     },
     {
      "detail": "",
@@ -6208,27 +6763,35 @@
     },
     {
      "detail": "Groin",
-     "player": "Jonathon Brooks",
-     "pos": "RB",
+     "player": "Mike Jackson",
+     "pos": "CB",
      "stale": false,
      "status": "Injured Reserve"
     }
    ],
-   "home": []
+   "home": [
+    {
+     "detail": "Hamstring",
+     "player": "Travis Etienne Jr.",
+     "pos": "RB",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ]
   },
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873055",
   "news": [
-   "Fantasy football rankings for Week 10: Quarterback",
-   "Fantasy football rankings for Week 10: Running back",
-   "Fantasy football rankings for Week 10: Wide receiver"
+   "Cardinals' rookie QB Carson Beck makes his NFL debut against stellar Rams defense",
+   "Raiders QB Fernando Mendoza’s first start will come against the Seahawks' NFL-best defense",
+   "GM Joe Hortiz says Chargers were listening to trade offers, none were enticing"
   ],
   "odds": {
    "mlAway": "+110",
    "mlAwayOpen": "+105",
    "mlHome": "-130",
    "mlHomeOpen": "-125",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "NO -2.5",
    "spreadOpen": "NO -1.5",
    "total": "48.5",
@@ -6242,7 +6805,7 @@
   "stars": 1,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Caesars Superdome, New Orleans"
  },
  "nfl-401873056": {
@@ -6300,16 +6863,16 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873056",
   "market": "Moneyline",
   "news": [
-   "Fantasy football rankings for Week 10: Quarterback",
-   "Fantasy football rankings for Week 10: Running back",
-   "Fantasy football rankings for Week 10: Wide receiver"
+   "Cardinals' rookie QB Carson Beck makes his NFL debut against stellar Rams defense",
+   "Raiders QB Fernando Mendoza’s first start will come against the Seahawks' NFL-best defense",
+   "GM Joe Hortiz says Chargers were listening to trade offers, none were enticing"
   ],
   "odds": {
    "mlAway": "-225",
    "mlAwayOpen": "-218",
    "mlHome": "+185",
    "mlHomeOpen": "+180",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "HOU -4.5",
    "spreadOpen": "HOU -4.5",
    "total": "40.5",
@@ -6324,7 +6887,7 @@
   "stars": 3,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Huntington Bank Field, Cleveland"
  },
  "nfl-401873057": {
@@ -6351,10 +6914,7 @@
   "home": {
    "abbr": "TEN",
    "form": "LLWLL",
-   "injuries": [
-    "Tommy Townsend (P) – Out",
-    "Jaylon Jones (CB) – Out"
-   ],
+   "injuries": [],
    "name": "Tennessee Titans",
    "record": "1-7",
    "short": "Titans",
@@ -6371,37 +6931,22 @@
      "status": "Injured Reserve"
     }
    ],
-   "home": [
-    {
-     "detail": "",
-     "player": "Tommy Townsend",
-     "pos": "P",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "",
-     "player": "Jaylon Jones",
-     "pos": "CB",
-     "stale": false,
-     "status": "Out"
-    }
-   ]
+   "home": []
   },
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873057",
   "market": "Moneyline",
   "news": [
-   "Fantasy football rankings for Week 10: Quarterback",
-   "Fantasy football rankings for Week 10: Running back",
-   "Fantasy football rankings for Week 10: Wide receiver"
+   "Cardinals' rookie QB Carson Beck makes his NFL debut against stellar Rams defense",
+   "Raiders QB Fernando Mendoza’s first start will come against the Seahawks' NFL-best defense",
+   "GM Joe Hortiz says Chargers were listening to trade offers, none were enticing"
   ],
   "odds": {
    "mlAway": "-600",
    "mlAwayOpen": "-135",
    "mlHome": "+440",
    "mlHomeOpen": "+114",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "JAX -10.5",
    "spreadOpen": "JAX -2.5",
    "total": "46.5",
@@ -6416,7 +6961,7 @@
   "stars": 3,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Nissan Stadium, Nashville"
  },
  "nfl-401873058": {
@@ -6425,7 +6970,8 @@
    "abbr": "KC",
    "form": "WLLWW",
    "injuries": [
-    "Mansoor Delane (CB) – Out"
+    "L'Jarius Sneed (CB) – Injured Reserve, Knee",
+    "Omarr Norman-Lott (DT) – Out, Knee - ACL"
    ],
    "name": "Kansas City Chiefs",
    "record": "6-2",
@@ -6444,7 +6990,6 @@
    "abbr": "ATL",
    "form": "LLWLL",
    "injuries": [
-    "Cameron Williams (OL) – Injured Reserve",
     "Zachariah Branch (WR) – Doubtful, Hamstring"
    ],
    "name": "Atlanta Falcons",
@@ -6456,21 +7001,21 @@
   "injuriesRaw": {
    "away": [
     {
-     "detail": "",
-     "player": "Mansoor Delane",
+     "detail": "Knee",
+     "player": "L'Jarius Sneed",
      "pos": "CB",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Knee - ACL",
+     "player": "Omarr Norman-Lott",
+     "pos": "DT",
      "stale": false,
      "status": "Out"
     }
    ],
    "home": [
-    {
-     "detail": "",
-     "player": "Cameron Williams",
-     "pos": "OL",
-     "stale": false,
-     "status": "Injured Reserve"
-    },
     {
      "detail": "Hamstring",
      "player": "Zachariah Branch",
@@ -6484,16 +7029,16 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873058",
   "market": "Moneyline",
   "news": [
-   "Fantasy football rankings for Week 10: Quarterback",
-   "Fantasy football rankings for Week 10: Running back",
-   "Fantasy football rankings for Week 10: Wide receiver"
+   "Cardinals' rookie QB Carson Beck makes his NFL debut against stellar Rams defense",
+   "Raiders QB Fernando Mendoza’s first start will come against the Seahawks' NFL-best defense",
+   "GM Joe Hortiz says Chargers were listening to trade offers, none were enticing"
   ],
   "odds": {
    "mlAway": "-180",
    "mlAwayOpen": "-225",
    "mlHome": "+150",
    "mlHomeOpen": "+185",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "KC -3",
    "spreadOpen": "KC -4.5",
    "total": "46.5",
@@ -6510,7 +7055,7 @@
   "stars": 2,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Mercedes-Benz Stadium, Atlanta"
  },
  "nfl-401873059": {
@@ -6519,9 +7064,7 @@
    "abbr": "MIA",
    "form": "LLWLL",
    "injuries": [
-    "Darrell Baker Jr. (CB) – Out, Knee",
-    "Malik Willis (QB) – Injured Reserve, Abdomen",
-    "Jaylen Wright (RB) – Out"
+    "Darrell Baker Jr. (CB) – Out, Knee"
    ],
    "name": "Miami Dolphins",
    "record": "1-7",
@@ -6540,8 +7083,8 @@
    "abbr": "IND",
    "form": "LLLLL",
    "injuries": [
-    "Justin Walley (CB) – Out",
-    "Arden Key (DE) – Injured Reserve, Hamstring"
+    "Arden Key (DE) – Injured Reserve, Hamstring",
+    "Alec Pierce (WR) – Injured Reserve, Heel"
    ],
    "name": "Indianapolis Colts",
    "record": "2-7",
@@ -6557,34 +7100,20 @@
      "pos": "CB",
      "stale": false,
      "status": "Out"
-    },
-    {
-     "detail": "Abdomen",
-     "player": "Malik Willis",
-     "pos": "QB",
-     "stale": false,
-     "status": "Injured Reserve"
-    },
-    {
-     "detail": "",
-     "player": "Jaylen Wright",
-     "pos": "RB",
-     "stale": false,
-     "status": "Out"
     }
    ],
    "home": [
     {
-     "detail": "",
-     "player": "Justin Walley",
-     "pos": "CB",
-     "stale": false,
-     "status": "Out"
-    },
-    {
      "detail": "Hamstring",
      "player": "Arden Key",
      "pos": "DE",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Heel",
+     "player": "Alec Pierce",
+     "pos": "WR",
      "stale": false,
      "status": "Injured Reserve"
     }
@@ -6594,16 +7123,16 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873059",
   "market": "Moneyline",
   "news": [
-   "Fantasy football rankings for Week 10: Quarterback",
-   "Fantasy football rankings for Week 10: Running back",
-   "Fantasy football rankings for Week 10: Wide receiver"
+   "Cardinals' rookie QB Carson Beck makes his NFL debut against stellar Rams defense",
+   "Raiders QB Fernando Mendoza’s first start will come against the Seahawks' NFL-best defense",
+   "GM Joe Hortiz says Chargers were listening to trade offers, none were enticing"
   ],
   "odds": {
    "mlAway": "+170",
    "mlAwayOpen": "+235",
    "mlHome": "-205",
    "mlHomeOpen": "-290",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "IND -3.5",
    "spreadOpen": "IND -6.5",
    "total": "38.5",
@@ -6620,7 +7149,7 @@
   "stars": 3,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Lucas Oil Stadium, Indianapolis"
  },
  "nfl-401873060": {
@@ -6645,7 +7174,6 @@
    "abbr": "GB",
    "form": "WWLWW",
    "injuries": [
-    "Josh Jacobs (RB) – Out, Finger",
     "Zaire Franklin (LB) – Doubtful, Shin"
    ],
    "name": "Green Bay Packers",
@@ -6658,13 +7186,6 @@
    "away": [],
    "home": [
     {
-     "detail": "Finger",
-     "player": "Josh Jacobs",
-     "pos": "RB",
-     "stale": false,
-     "status": "Out"
-    },
-    {
      "detail": "Shin",
      "player": "Zaire Franklin",
      "pos": "LB",
@@ -6676,33 +7197,262 @@
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873060",
   "news": [
-   "Fantasy football rankings for Week 10: Quarterback",
-   "Fantasy football rankings for Week 10: Running back",
-   "Fantasy football rankings for Week 10: Wide receiver"
+   "Cardinals' rookie QB Carson Beck makes his NFL debut against stellar Rams defense",
+   "Raiders QB Fernando Mendoza’s first start will come against the Seahawks' NFL-best defense",
+   "GM Joe Hortiz says Chargers were listening to trade offers, none were enticing"
   ],
   "odds": {
-   "mlAway": "+130",
+   "mlAway": "+124",
    "mlAwayOpen": "+185",
-   "mlHome": "-155",
+   "mlHome": "-148",
    "mlHomeOpen": "-225",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "GB -3",
    "spreadOpen": "GB -4.5",
    "total": "41.5",
    "totalOpen": "45.5"
   },
   "pick": "Pass",
-  "reason": "GB about 58% no-vig at -155; no edge worth a pick.",
+  "reason": "GB about 57% no-vig at -148; no edge worth a pick.",
   "risks": [
-   "line drifted away (-225 → -155)"
+   "line drifted away (-225 → -148)"
   ],
   "slug": "nfl",
   "sport": "nfl",
   "stars": 1,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Lambeau Field, Green Bay"
+ },
+ "nfl-401873061": {
+  "_lastPick": "LAR ML (-500)",
+  "away": {
+   "abbr": "LAR",
+   "form": "WWWLL",
+   "injuries": [],
+   "name": "Los Angeles Rams",
+   "record": "5-4",
+   "short": "Rams",
+   "teamId": "14"
+  },
+  "confidence": 80,
+  "espnId": "401873061",
+  "espnLeague": "nfl",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 87.4,
+   "home": 12.5
+  },
+  "home": {
+   "abbr": "ARI",
+   "form": "LWLWL",
+   "injuries": [
+    "Zachary Carter (DT) – Injured Reserve, Knee"
+   ],
+   "name": "Arizona Cardinals",
+   "record": "3-6",
+   "short": "Cardinals",
+   "teamId": "22"
+  },
+  "id": "nfl-401873061",
+  "injuriesRaw": {
+   "away": [],
+   "home": [
+    {
+     "detail": "Knee",
+     "player": "Zachary Carter",
+     "pos": "DT",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ]
+  },
+  "league": "NFL",
+  "link": "https://www.espn.com/nfl/game/_/gameId/401873061",
+  "market": "Moneyline",
+  "news": [
+   "Cardinals' rookie QB Carson Beck makes his NFL debut against stellar Rams defense",
+   "Raiders QB Fernando Mendoza’s first start will come against the Seahawks' NFL-best defense",
+   "GM Joe Hortiz says Chargers were listening to trade offers, none were enticing"
+  ],
+  "odds": {
+   "mlAway": "-500",
+   "mlAwayOpen": "-535",
+   "mlHome": "+380",
+   "mlHomeOpen": "+400",
+   "provider": "DraftKings",
+   "spread": "LAR -9.5",
+   "spreadOpen": "LAR -10.5",
+   "total": "39.5",
+   "totalOpen": "47.5"
+  },
+  "pick": "LAR ML (-500)",
+  "reason": "LAR are about 80% no-vig at -500; ESPN's model has 87%. For: ESPN model 87% vs market 80%.",
+  "risks": [],
+  "side": "away",
+  "slug": "nfl",
+  "sport": "nfl",
+  "stars": 3,
+  "start": "2026-11-15T21:05Z",
+  "state": "pre",
+  "updatedAt": "2026-11-12T23:53:43Z",
+  "venue": "State Farm Stadium, Glendale"
+ },
+ "nfl-401873062": {
+  "_lastPick": "SEA ML (-298)",
+  "away": {
+   "abbr": "SEA",
+   "form": "WLWLL",
+   "injuries": [],
+   "name": "Seattle Seahawks",
+   "record": "5-4",
+   "short": "Seahawks",
+   "teamId": "26"
+  },
+  "confidence": 70,
+  "espnId": "401873062",
+  "espnLeague": "nfl",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 73.9,
+   "home": 25.9
+  },
+  "home": {
+   "abbr": "LV",
+   "form": "LWLLL",
+   "injuries": [
+    "Patrick Johnson (DE) – Injured Reserve, Neck"
+   ],
+   "name": "Las Vegas Raiders",
+   "record": "4-5",
+   "short": "Raiders",
+   "teamId": "13"
+  },
+  "id": "nfl-401873062",
+  "injuriesRaw": {
+   "away": [],
+   "home": [
+    {
+     "detail": "Neck",
+     "player": "Patrick Johnson",
+     "pos": "DE",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Keyron Crawford",
+     "pos": "DE",
+     "stale": true,
+     "status": "Injured Reserve"
+    }
+   ]
+  },
+  "league": "NFL",
+  "link": "https://www.espn.com/nfl/game/_/gameId/401873062",
+  "market": "Moneyline",
+  "news": [
+   "Cardinals' rookie QB Carson Beck makes his NFL debut against stellar Rams defense",
+   "Raiders QB Fernando Mendoza’s first start will come against the Seahawks' NFL-best defense",
+   "GM Joe Hortiz says Chargers were listening to trade offers, none were enticing"
+  ],
+  "odds": {
+   "mlAway": "-298",
+   "mlAwayOpen": "-340",
+   "mlHome": "+240",
+   "mlHomeOpen": "+270",
+   "provider": "DraftKings",
+   "spread": "SEA -6.5",
+   "spreadOpen": "SEA -7",
+   "total": "40.5",
+   "totalOpen": "43.5"
+  },
+  "pick": "SEA ML (-298)",
+  "reason": "SEA are about 72% no-vig at -298; ESPN's model has 74%.",
+  "risks": [],
+  "side": "away",
+  "slug": "nfl",
+  "sport": "nfl",
+  "stars": 2,
+  "start": "2026-11-15T21:05Z",
+  "state": "pre",
+  "updatedAt": "2026-11-12T23:53:43Z",
+  "venue": "Allegiant Stadium, Las Vegas"
+ },
+ "nfl-401873063": {
+  "_lastPick": "SF ML (-205)",
+  "away": {
+   "abbr": "SF",
+   "form": "WLWWW",
+   "injuries": [
+    "C.J. West (DT) – Injured Reserve, Knee"
+   ],
+   "name": "San Francisco 49ers",
+   "record": "7-1",
+   "short": "49ers",
+   "teamId": "25"
+  },
+  "confidence": 61,
+  "espnId": "401873063",
+  "espnLeague": "nfl",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 63.7,
+   "home": 36.0
+  },
+  "home": {
+   "abbr": "DAL",
+   "form": "WLWLL",
+   "injuries": [],
+   "name": "Dallas Cowboys",
+   "record": "4-5",
+   "short": "Cowboys",
+   "teamId": "6"
+  },
+  "id": "nfl-401873063",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Knee",
+     "player": "C.J. West",
+     "pos": "DT",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ],
+   "home": []
+  },
+  "league": "NFL",
+  "link": "https://www.espn.com/nfl/game/_/gameId/401873063",
+  "market": "Moneyline",
+  "news": [
+   "Cardinals' rookie QB Carson Beck makes his NFL debut against stellar Rams defense",
+   "Raiders QB Fernando Mendoza’s first start will come against the Seahawks' NFL-best defense",
+   "GM Joe Hortiz says Chargers were listening to trade offers, none were enticing"
+  ],
+  "odds": {
+   "mlAway": "-205",
+   "mlAwayOpen": "+100",
+   "mlHome": "+170",
+   "mlHomeOpen": "-120",
+   "provider": "DraftKings",
+   "spread": "SF -3.5",
+   "spreadOpen": "DAL -1.5",
+   "total": "55.5",
+   "totalOpen": "52.5"
+  },
+  "pick": "SF ML (-205)",
+  "reason": "SF are about 64% no-vig at -205; ESPN's model has 64%. For: line moved toward SF (+100 → -205).",
+  "risks": [],
+  "side": "away",
+  "slug": "nfl",
+  "sport": "nfl",
+  "stars": 2,
+  "start": "2026-11-15T21:25Z",
+  "state": "pre",
+  "updatedAt": "2026-11-12T23:53:43Z",
+  "venue": "AT&T Stadium, Arlington"
  },
  "soccer-401861145": {
   "away": {
@@ -6813,7 +7563,7 @@
    "abbr": "FIN",
    "form": "LWDW",
    "name": "Finland",
-   "record": "2-1-1",
+   "record": "2-1-2",
    "short": "Finland",
    "teamId": "458"
   },
@@ -6825,7 +7575,7 @@
    "abbr": "ALB",
    "form": "WLWW",
    "name": "Albania",
-   "record": "3-0-1",
+   "record": "4-0-1",
    "short": "Albania",
    "teamId": "585"
   },
@@ -6856,7 +7606,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-12T19:45Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-12T18:45:40Z",
   "venue": "Air Albania Stadium, Tirana"
  },
@@ -6866,7 +7616,7 @@
    "abbr": "ESP",
    "form": "WWWWW",
    "name": "Spain",
-   "record": "4-0-0",
+   "record": "5-0-0",
    "short": "Spain",
    "teamId": "164"
   },
@@ -6878,7 +7628,7 @@
    "abbr": "CZE",
    "form": "LLLL",
    "name": "Czechia",
-   "record": "0-0-4",
+   "record": "0-0-5",
    "short": "Czechia",
    "teamId": "450"
   },
@@ -6913,7 +7663,7 @@
   "sport": "soccer",
   "stars": 3,
   "start": "2026-11-12T19:45Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-12T18:45:40Z",
   "venue": "Generali Arena, Prague"
  },
@@ -6921,7 +7671,7 @@
   "away": {
    "abbr": "BLR",
    "name": "Belarus",
-   "record": "2-1-1",
+   "record": "3-1-1",
    "short": "Belarus",
    "teamId": "583"
   },
@@ -6931,7 +7681,7 @@
   "home": {
    "abbr": "SMR",
    "name": "San Marino",
-   "record": "0-0-4",
+   "record": "0-0-5",
    "short": "San Marino",
    "teamId": "588"
   },
@@ -6948,7 +7698,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-12T19:45Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-12T18:45:40Z",
   "venue": "San Marino Stadium, Serravalle"
  },
@@ -6958,7 +7708,7 @@
    "abbr": "CRO",
    "form": "LLLW",
    "name": "Croatia",
-   "record": "1-0-3",
+   "record": "1-0-4",
    "short": "Croatia",
    "teamId": "477"
   },
@@ -6970,7 +7720,7 @@
    "abbr": "ENG",
    "form": "WWWLW",
    "name": "England",
-   "record": "3-0-1",
+   "record": "4-0-1",
    "short": "England",
    "teamId": "448"
   },
@@ -7003,7 +7753,7 @@
   "sport": "soccer",
   "stars": 3,
   "start": "2026-11-12T19:45Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-12T18:45:40Z",
   "venue": "Wembley Stadium, London"
  },
@@ -7012,7 +7762,7 @@
    "abbr": "FRA",
    "form": "WDWWL",
    "name": "France",
-   "record": "3-1-0",
+   "record": "3-1-1",
    "short": "France",
    "teamId": "478"
   },
@@ -7024,7 +7774,7 @@
    "abbr": "ITA",
    "form": "WDWL",
    "name": "Italy",
-   "record": "2-1-1",
+   "record": "3-1-1",
    "short": "Italy",
    "teamId": "162"
   },
@@ -7055,7 +7805,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-12T19:45Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-12T18:45:40Z",
   "venue": "San Siro, Milano"
  },
@@ -7065,7 +7815,7 @@
    "abbr": "LVA",
    "form": "LLDL",
    "name": "Latvia",
-   "record": "0-1-3",
+   "record": "0-1-4",
    "short": "Latvia",
    "teamId": "456"
   },
@@ -7077,7 +7827,7 @@
    "abbr": "MNE",
    "form": "DWWW",
    "name": "Montenegro",
-   "record": "3-1-0",
+   "record": "4-1-0",
    "short": "Montenegro",
    "teamId": "6775"
   },
@@ -7110,12 +7860,12 @@
   "sport": "soccer",
   "stars": 3,
   "start": "2026-11-12T19:45Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-12T18:45:40Z",
   "venue": "Podgorica City Stadium, Podgorica"
  },
  "soccer-401861153": {
-  "_lastPick": "Azerbaijan ML (-390)",
+  "_lastPick": "Azerbaijan ML (-370)",
   "away": {
    "abbr": "AZE",
    "form": "WDDW",
@@ -7141,24 +7891,24 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861153",
   "market": "Moneyline",
   "news": [
-   "Harry Kane set to break England caps record against Croatia",
-   "Bellinghams for England, France 2nd-tier player among surprise squad selections",
-   "Harry Kane stats: His most eye-opening England cap, goal records"
+   "Spain welcome Yamal back, aim to extend record streak vs. England",
+   "Morgan Rogers: 'It's a lie' that Cole Palmer isn't committed to playing for England",
+   "England record-breaker Kane inspired by Modric as he chases 'biggest dream'"
   ],
   "odds": {
-   "mlAway": "-390",
+   "mlAway": "-370",
    "mlAwayOpen": "-370",
-   "mlDraw": "+400",
+   "mlDraw": "+390",
    "mlHome": "+1000",
    "mlHomeOpen": "+900",
    "provider": "DraftKings",
-   "spread": "AZE -390",
+   "spread": "AZE -370",
    "spreadOpen": "AZE -1.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
-  "pick": "Azerbaijan ML (-390)",
-  "reason": "Azerbaijan are about 73% no-vig at -390.",
+  "pick": "Azerbaijan ML (-370)",
+  "reason": "Azerbaijan are about 73% no-vig at -370.",
   "risks": [],
   "side": "away",
   "slug": "uefa.nations",
@@ -7166,7 +7916,7 @@
   "stars": 2,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Rheinpark Stadion, Vaduz"
  },
  "soccer-401861154": {
@@ -7178,7 +7928,7 @@
    "short": "Estonia",
    "teamId": "444"
   },
-  "confidence": 39,
+  "confidence": 35,
   "espnId": "401861154",
   "espnLeague": "uefa.nations",
   "espnSport": "soccer",
@@ -7194,31 +7944,33 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861154",
   "news": [
-   "Harry Kane set to break England caps record against Croatia",
-   "Bellinghams for England, France 2nd-tier player among surprise squad selections",
-   "Harry Kane stats: His most eye-opening England cap, goal records"
+   "Spain welcome Yamal back, aim to extend record streak vs. England",
+   "Morgan Rogers: 'It's a lie' that Cole Palmer isn't committed to playing for England",
+   "England record-breaker Kane inspired by Modric as he chases 'biggest dream'"
   ],
   "odds": {
-   "mlAway": "+230",
+   "mlAway": "+215",
    "mlAwayOpen": "+250",
    "mlDraw": "+205",
-   "mlHome": "+120",
+   "mlHome": "+130",
    "mlHomeOpen": "+105",
    "provider": "DraftKings",
-   "spread": "LUX +120",
+   "spread": "LUX +130",
    "spreadOpen": "LUX -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Luxembourg about 42% no-vig at +120; no edge worth a pick.",
-  "risks": [],
+  "reason": "Luxembourg about 40% no-vig at +130; no edge worth a pick.",
+  "risks": [
+   "line drifted away (+105 → +130)"
+  ],
   "slug": "uefa.nations",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Stade de Luxembourg, Luxembourg City"
  },
  "soccer-401861155": {
@@ -7230,7 +7982,7 @@
    "short": "Gibraltar",
    "teamId": "16721"
   },
-  "confidence": 50,
+  "confidence": 53,
   "espnId": "401861155",
   "espnLeague": "uefa.nations",
   "espnSport": "soccer",
@@ -7246,31 +7998,31 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861155",
   "news": [
-   "Harry Kane set to break England caps record against Croatia",
-   "Bellinghams for England, France 2nd-tier player among surprise squad selections",
-   "Harry Kane stats: His most eye-opening England cap, goal records"
+   "Spain welcome Yamal back, aim to extend record streak vs. England",
+   "Morgan Rogers: 'It's a lie' that Cole Palmer isn't committed to playing for England",
+   "England record-breaker Kane inspired by Modric as he chases 'biggest dream'"
   ],
   "odds": {
-   "mlAway": "+425",
+   "mlAway": "+500",
    "mlAwayOpen": "+400",
-   "mlDraw": "+210",
-   "mlHome": "-135",
+   "mlDraw": "+225",
+   "mlHome": "-150",
    "mlHomeOpen": "-125",
    "provider": "DraftKings",
-   "spread": "AND -135",
+   "spread": "AND -150",
    "spreadOpen": "AND -0.5",
    "total": "1.5",
    "totalOpen": "1.5"
   },
   "pick": "Pass",
-  "reason": "Andorra about 53% no-vig at -135; no edge worth a pick.",
+  "reason": "Andorra about 56% no-vig at -150; no edge worth a pick.",
   "risks": [],
   "slug": "uefa.nations",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Estadi de la FAF d'Encamp, Encamp"
  },
  "soccer-401861156": {
@@ -7282,7 +8034,7 @@
    "short": "Switzerland",
    "teamId": "475"
   },
-  "confidence": 53,
+  "confidence": 51,
   "espnId": "401861156",
   "espnLeague": "uefa.nations",
   "espnSport": "soccer",
@@ -7298,31 +8050,31 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861156",
   "news": [
-   "Harry Kane set to break England caps record against Croatia",
-   "Bellinghams for England, France 2nd-tier player among surprise squad selections",
-   "Harry Kane stats: His most eye-opening England cap, goal records"
+   "Spain welcome Yamal back, aim to extend record streak vs. England",
+   "Morgan Rogers: 'It's a lie' that Cole Palmer isn't committed to playing for England",
+   "England record-breaker Kane inspired by Modric as he chases 'biggest dream'"
   ],
   "odds": {
-   "mlAway": "-150",
+   "mlAway": "-145",
    "mlAwayOpen": "-165",
-   "mlDraw": "+245",
-   "mlHome": "+425",
+   "mlDraw": "+240",
+   "mlHome": "+400",
    "mlHomeOpen": "+400",
    "provider": "DraftKings",
-   "spread": "SUI -150",
+   "spread": "SUI -145",
    "spreadOpen": "SUI -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Switzerland about 56% no-vig at -150; no edge worth a pick.",
+  "reason": "Switzerland about 54% no-vig at -145; no edge worth a pick.",
   "risks": [],
   "slug": "uefa.nations",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Ljudski vrt, Maribor"
  },
  "soccer-401861157": {
@@ -7350,9 +8102,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861157",
   "news": [
-   "Harry Kane set to break England caps record against Croatia",
-   "Bellinghams for England, France 2nd-tier player among surprise squad selections",
-   "Harry Kane stats: His most eye-opening England cap, goal records"
+   "Spain welcome Yamal back, aim to extend record streak vs. England",
+   "Morgan Rogers: 'It's a lie' that Cole Palmer isn't committed to playing for England",
+   "England record-breaker Kane inspired by Modric as he chases 'biggest dream'"
   ],
   "odds": {
    "mlAway": "-125",
@@ -7374,11 +8126,11 @@
   "stars": 1,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Hristo Botev Stadium, Plovdiv, Plovdiv"
  },
  "soccer-401861158": {
-  "_lastPick": "Germany ML (-380)",
+  "_lastPick": "Germany ML (-390)",
   "away": {
    "abbr": "GER",
    "form": "DWLD",
@@ -7387,7 +8139,7 @@
    "short": "Germany",
    "teamId": "481"
   },
-  "confidence": 70,
+  "confidence": 71,
   "espnId": "401861158",
   "espnLeague": "uefa.nations",
   "espnSport": "soccer",
@@ -7404,24 +8156,24 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861158",
   "market": "Moneyline",
   "news": [
-   "Harry Kane set to break England caps record against Croatia",
-   "Bellinghams for England, France 2nd-tier player among surprise squad selections",
-   "Harry Kane stats: His most eye-opening England cap, goal records"
+   "Spain welcome Yamal back, aim to extend record streak vs. England",
+   "Morgan Rogers: 'It's a lie' that Cole Palmer isn't committed to playing for England",
+   "England record-breaker Kane inspired by Modric as he chases 'biggest dream'"
   ],
   "odds": {
-   "mlAway": "-380",
+   "mlAway": "-390",
    "mlAwayOpen": "-370",
-   "mlDraw": "+475",
+   "mlDraw": "+500",
    "mlHome": "+750",
    "mlHomeOpen": "+650",
    "provider": "DraftKings",
-   "spread": "GER -380",
+   "spread": "GER -390",
    "spreadOpen": "GER -1.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
-  "pick": "Germany ML (-380)",
-  "reason": "Germany are about 73% no-vig at -380.",
+  "pick": "Germany ML (-390)",
+  "reason": "Germany are about 74% no-vig at -390.",
   "risks": [],
   "side": "away",
   "slug": "uefa.nations",
@@ -7429,7 +8181,7 @@
   "stars": 2,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Rajko Mitic Stadium, Belgrade"
  },
  "soccer-401861159": {
@@ -7457,9 +8209,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861159",
   "news": [
-   "Harry Kane set to break England caps record against Croatia",
-   "Bellinghams for England, France 2nd-tier player among surprise squad selections",
-   "Harry Kane stats: His most eye-opening England cap, goal records"
+   "Spain welcome Yamal back, aim to extend record streak vs. England",
+   "Morgan Rogers: 'It's a lie' that Cole Palmer isn't committed to playing for England",
+   "England record-breaker Kane inspired by Modric as he chases 'biggest dream'"
   ],
   "odds": {
    "mlAway": "+425",
@@ -7483,11 +8235,11 @@
   "stars": 1,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Johan Cruijff Arena, Amsterdam"
  },
  "soccer-401861160": {
-  "_lastPick": "Slovakia ML (-280)",
+  "_lastPick": "Slovakia ML (-290)",
   "away": {
    "abbr": "FRO",
    "form": "DDDD",
@@ -7496,7 +8248,7 @@
    "short": "Faroe Islands",
    "teamId": "447"
   },
-  "confidence": 66,
+  "confidence": 67,
   "espnId": "401861160",
   "espnLeague": "uefa.nations",
   "espnSport": "soccer",
@@ -7513,24 +8265,24 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861160",
   "market": "Moneyline",
   "news": [
-   "Harry Kane set to break England caps record against Croatia",
-   "Bellinghams for England, France 2nd-tier player among surprise squad selections",
-   "Harry Kane stats: His most eye-opening England cap, goal records"
+   "Spain welcome Yamal back, aim to extend record streak vs. England",
+   "Morgan Rogers: 'It's a lie' that Cole Palmer isn't committed to playing for England",
+   "England record-breaker Kane inspired by Modric as he chases 'biggest dream'"
   ],
   "odds": {
-   "mlAway": "+700",
+   "mlAway": "+750",
    "mlAwayOpen": "+700",
    "mlDraw": "+360",
-   "mlHome": "-280",
+   "mlHome": "-290",
    "mlHomeOpen": "-300",
    "provider": "DraftKings",
-   "spread": "SVK -280",
+   "spread": "SVK -290",
    "spreadOpen": "SVK -1.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
-  "pick": "Slovakia ML (-280)",
-  "reason": "Slovakia are about 68% no-vig at -280. For: form WDWW vs DDDD.",
+  "pick": "Slovakia ML (-290)",
+  "reason": "Slovakia are about 69% no-vig at -290. For: form WDWW vs DDDD.",
   "risks": [],
   "side": "home",
   "slug": "uefa.nations",
@@ -7538,11 +8290,11 @@
   "stars": 3,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Košická futbalová aréna (KFA), Kosice"
  },
  "soccer-401861161": {
-  "_lastPick": "Scotland ML (-550)",
+  "_lastPick": "Scotland ML (-575)",
   "away": {
    "abbr": "MKD",
    "form": "LLLL",
@@ -7551,7 +8303,7 @@
    "short": "North Macedonia",
    "teamId": "463"
   },
-  "confidence": 76,
+  "confidence": 75,
   "espnId": "401861161",
   "espnLeague": "uefa.nations",
   "espnSport": "soccer",
@@ -7568,24 +8320,24 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861161",
   "market": "Moneyline",
   "news": [
-   "Harry Kane set to break England caps record against Croatia",
-   "Bellinghams for England, France 2nd-tier player among surprise squad selections",
-   "Harry Kane stats: His most eye-opening England cap, goal records"
+   "Spain welcome Yamal back, aim to extend record streak vs. England",
+   "Morgan Rogers: 'It's a lie' that Cole Palmer isn't committed to playing for England",
+   "England record-breaker Kane inspired by Modric as he chases 'biggest dream'"
   ],
   "odds": {
-   "mlAway": "+1200",
+   "mlAway": "+1300",
    "mlAwayOpen": "+1000",
-   "mlDraw": "+550",
-   "mlHome": "-550",
+   "mlDraw": "+500",
+   "mlHome": "-575",
    "mlHomeOpen": "-500",
    "provider": "DraftKings",
-   "spread": "SCO -550",
+   "spread": "SCO -575",
    "spreadOpen": "SCO -1.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
-  "pick": "Scotland ML (-550)",
-  "reason": "Scotland are about 79% no-vig at -550.",
+  "pick": "Scotland ML (-575)",
+  "reason": "Scotland are about 78% no-vig at -575.",
   "risks": [],
   "side": "home",
   "slug": "uefa.nations",
@@ -7593,7 +8345,7 @@
   "stars": 2,
   "start": "2026-11-13T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Hampden Park, Glasgow"
  },
  "soccer-401861162": {
@@ -7621,9 +8373,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861162",
   "news": [
-   "Harry Kane set to break England caps record against Croatia",
-   "Bellinghams for England, France 2nd-tier player among surprise squad selections",
-   "Harry Kane stats: His most eye-opening England cap, goal records"
+   "Spain welcome Yamal back, aim to extend record streak vs. England",
+   "Morgan Rogers: 'It's a lie' that Cole Palmer isn't committed to playing for England",
+   "England record-breaker Kane inspired by Modric as he chases 'biggest dream'"
   ],
   "odds": {
    "mlAway": "+180",
@@ -7645,7 +8397,7 @@
   "stars": 1,
   "start": "2026-11-13T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Stadionul Zimbru, Chisinau"
  },
  "soccer-401861163": {
@@ -7673,9 +8425,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861163",
   "news": [
-   "Harry Kane set to break England caps record against Croatia",
-   "Bellinghams for England, France 2nd-tier player among surprise squad selections",
-   "Harry Kane stats: His most eye-opening England cap, goal records"
+   "Spain welcome Yamal back, aim to extend record streak vs. England",
+   "Morgan Rogers: 'It's a lie' that Cole Palmer isn't committed to playing for England",
+   "England record-breaker Kane inspired by Modric as he chases 'biggest dream'"
   ],
   "odds": {
    "mlAway": "+310",
@@ -7697,7 +8449,7 @@
   "stars": 1,
   "start": "2026-11-14T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Stadiumi Fadil Vokrri, Prishtina"
  },
  "soccer-401861164": {
@@ -7725,9 +8477,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861164",
   "news": [
-   "Harry Kane set to break England caps record against Croatia",
-   "Bellinghams for England, France 2nd-tier player among surprise squad selections",
-   "Harry Kane stats: His most eye-opening England cap, goal records"
+   "Spain welcome Yamal back, aim to extend record streak vs. England",
+   "Morgan Rogers: 'It's a lie' that Cole Palmer isn't committed to playing for England",
+   "England record-breaker Kane inspired by Modric as he chases 'biggest dream'"
   ],
   "odds": {
    "mlAway": "+145",
@@ -7749,11 +8501,11 @@
   "stars": 1,
   "start": "2026-11-14T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Mikheil Meskhi Stadioni, Tbilisi"
  },
  "soccer-401861165": {
-  "_lastPick": "Norway ML (-500)",
+  "_lastPick": "Norway ML (-475)",
   "away": {
    "abbr": "WAL",
    "form": "LWLL",
@@ -7762,7 +8514,7 @@
    "short": "Wales",
    "teamId": "578"
   },
-  "confidence": 74,
+  "confidence": 73,
   "espnId": "401861165",
   "espnLeague": "uefa.nations",
   "espnSport": "soccer",
@@ -7779,24 +8531,24 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861165",
   "market": "Moneyline",
   "news": [
-   "Harry Kane set to break England caps record against Croatia",
-   "Bellinghams for England, France 2nd-tier player among surprise squad selections",
-   "Harry Kane stats: His most eye-opening England cap, goal records"
+   "Spain welcome Yamal back, aim to extend record streak vs. England",
+   "Morgan Rogers: 'It's a lie' that Cole Palmer isn't committed to playing for England",
+   "England record-breaker Kane inspired by Modric as he chases 'biggest dream'"
   ],
   "odds": {
-   "mlAway": "+950",
+   "mlAway": "+900",
    "mlAwayOpen": "+750",
    "mlDraw": "+550",
-   "mlHome": "-500",
+   "mlHome": "-475",
    "mlHomeOpen": "-450",
    "provider": "DraftKings",
-   "spread": "NOR -500",
+   "spread": "NOR -475",
    "spreadOpen": "NOR -1.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
-  "pick": "Norway ML (-500)",
-  "reason": "Norway are about 77% no-vig at -500.",
+  "pick": "Norway ML (-475)",
+  "reason": "Norway are about 76% no-vig at -475.",
   "risks": [],
   "side": "home",
   "slug": "uefa.nations",
@@ -7804,7 +8556,7 @@
   "stars": 2,
   "start": "2026-11-14T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Ullevaal Stadion, Oslo"
  },
  "soccer-401861166": {
@@ -7834,9 +8586,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861166",
   "market": "Moneyline",
   "news": [
-   "Harry Kane set to break England caps record against Croatia",
-   "Bellinghams for England, France 2nd-tier player among surprise squad selections",
-   "Harry Kane stats: His most eye-opening England cap, goal records"
+   "Spain welcome Yamal back, aim to extend record streak vs. England",
+   "Morgan Rogers: 'It's a lie' that Cole Palmer isn't committed to playing for England",
+   "England record-breaker Kane inspired by Modric as he chases 'biggest dream'"
   ],
   "odds": {
    "mlAway": "+475",
@@ -7859,7 +8611,7 @@
   "stars": 2,
   "start": "2026-11-14T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Friends Arena, Stockholm"
  },
  "soccer-401861167": {
@@ -7889,9 +8641,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861167",
   "market": "Moneyline",
   "news": [
-   "Harry Kane set to break England caps record against Croatia",
-   "Bellinghams for England, France 2nd-tier player among surprise squad selections",
-   "Harry Kane stats: His most eye-opening England cap, goal records"
+   "Spain welcome Yamal back, aim to extend record streak vs. England",
+   "Morgan Rogers: 'It's a lie' that Cole Palmer isn't committed to playing for England",
+   "England record-breaker Kane inspired by Modric as he chases 'biggest dream'"
   ],
   "odds": {
    "mlAway": "+450",
@@ -7914,7 +8666,7 @@
   "stars": 2,
   "start": "2026-11-14T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Estádio Municipal de Braga, Braga"
  },
  "soccer-401861168": {
@@ -7942,9 +8694,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861168",
   "news": [
-   "Harry Kane set to break England caps record against Croatia",
-   "Bellinghams for England, France 2nd-tier player among surprise squad selections",
-   "Harry Kane stats: His most eye-opening England cap, goal records"
+   "Spain welcome Yamal back, aim to extend record streak vs. England",
+   "Morgan Rogers: 'It's a lie' that Cole Palmer isn't committed to playing for England",
+   "England record-breaker Kane inspired by Modric as he chases 'biggest dream'"
   ],
   "odds": {
    "mlAway": "-130",
@@ -7966,7 +8718,7 @@
   "stars": 1,
   "start": "2026-11-14T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "National Arena, Bucuresti"
  },
  "soccer-401861169": {
@@ -7994,9 +8746,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861169",
   "news": [
-   "Harry Kane set to break England caps record against Croatia",
-   "Bellinghams for England, France 2nd-tier player among surprise squad selections",
-   "Harry Kane stats: His most eye-opening England cap, goal records"
+   "Spain welcome Yamal back, aim to extend record streak vs. England",
+   "Morgan Rogers: 'It's a lie' that Cole Palmer isn't committed to playing for England",
+   "England record-breaker Kane inspired by Modric as he chases 'biggest dream'"
   ],
   "odds": {
    "mlAway": "+205",
@@ -8018,7 +8770,7 @@
   "stars": 1,
   "start": "2026-11-14T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Windsor Park, Belfast"
  },
  "soccer-401861170": {
@@ -8046,9 +8798,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861170",
   "news": [
-   "Harry Kane set to break England caps record against Croatia",
-   "Bellinghams for England, France 2nd-tier player among surprise squad selections",
-   "Harry Kane stats: His most eye-opening England cap, goal records"
+   "Spain welcome Yamal back, aim to extend record streak vs. England",
+   "Morgan Rogers: 'It's a lie' that Cole Palmer isn't committed to playing for England",
+   "England record-breaker Kane inspired by Modric as he chases 'biggest dream'"
   ],
   "odds": {
    "mlAway": "+425",
@@ -8070,14 +8822,14 @@
   "stars": 1,
   "start": "2026-11-14T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Raiffeisen Arena (Linz), Linz"
  },
  "soccer-401861171": {
   "away": {
    "abbr": "ARM",
    "name": "Armenia",
-   "record": "1-1-2",
+   "record": "1-2-2",
    "short": "Armenia",
    "teamId": "579"
   },
@@ -8087,7 +8839,7 @@
   "home": {
    "abbr": "LVA",
    "name": "Latvia",
-   "record": "0-1-3",
+   "record": "0-1-4",
    "short": "Latvia",
    "teamId": "456"
   },
@@ -8105,14 +8857,14 @@
   "stars": 1,
   "start": "2026-11-15T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Skonto Stadions, Riga"
  },
  "soccer-401861172": {
   "away": {
    "abbr": "MNE",
    "name": "Montenegro",
-   "record": "3-1-0",
+   "record": "4-1-0",
    "short": "Montenegro",
    "teamId": "6775"
   },
@@ -8122,7 +8874,7 @@
   "home": {
    "abbr": "CYP",
    "name": "Cyprus",
-   "record": "2-1-1",
+   "record": "2-2-1",
    "short": "Cyprus",
    "teamId": "445"
   },
@@ -8140,14 +8892,14 @@
   "stars": 1,
   "start": "2026-11-15T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Alphamega Stadium, Kolossi"
  },
  "soccer-401861173": {
   "away": {
    "abbr": "ALB",
    "name": "Albania",
-   "record": "3-0-1",
+   "record": "4-0-1",
    "short": "Albania",
    "teamId": "585"
   },
@@ -8157,7 +8909,7 @@
   "home": {
    "abbr": "BLR",
    "name": "Belarus",
-   "record": "2-1-1",
+   "record": "3-1-1",
    "short": "Belarus",
    "teamId": "583"
   },
@@ -8175,14 +8927,14 @@
   "stars": 1,
   "start": "2026-11-15T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Illovszky Rudolf Stadion, Budapest"
  },
  "soccer-401861174": {
   "away": {
    "abbr": "SMR",
    "name": "San Marino",
-   "record": "0-0-4",
+   "record": "0-0-5",
    "short": "San Marino",
    "teamId": "588"
   },
@@ -8192,7 +8944,7 @@
   "home": {
    "abbr": "FIN",
    "name": "Finland",
-   "record": "2-1-1",
+   "record": "2-1-2",
    "short": "Finland",
    "teamId": "458"
   },
@@ -8210,8 +8962,148 @@
   "stars": 1,
   "start": "2026-11-15T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Bolt Arena, Helsinki"
+ },
+ "soccer-401861175": {
+  "away": {
+   "abbr": "ENG",
+   "name": "England",
+   "record": "4-0-1",
+   "short": "England",
+   "teamId": "448"
+  },
+  "espnId": "401861175",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "ESP",
+   "name": "Spain",
+   "record": "5-0-0",
+   "short": "Spain",
+   "teamId": "164"
+  },
+  "id": "soccer-401861175",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861175",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-15T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-12T23:53:43Z",
+  "venue": "Riyadh Air Metropolitano, Madrid"
+ },
+ "soccer-401861176": {
+  "away": {
+   "abbr": "ITA",
+   "name": "Italy",
+   "record": "3-1-1",
+   "short": "Italy",
+   "teamId": "162"
+  },
+  "espnId": "401861176",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "BEL",
+   "name": "Belgium",
+   "record": "3-0-2",
+   "short": "Belgium",
+   "teamId": "459"
+  },
+  "id": "soccer-401861176",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861176",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-15T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-12T23:53:43Z",
+  "venue": "King Baudouin Stadium, Brussels"
+ },
+ "soccer-401861177": {
+  "away": {
+   "abbr": "TUR",
+   "name": "Türkiye",
+   "record": "0-0-5",
+   "short": "Türkiye",
+   "teamId": "465"
+  },
+  "espnId": "401861177",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "FRA",
+   "name": "France",
+   "record": "3-1-1",
+   "short": "France",
+   "teamId": "478"
+  },
+  "id": "soccer-401861177",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861177",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-15T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-12T23:53:43Z",
+  "venue": "Stade Atlantique, Bordeaux"
+ },
+ "soccer-401861178": {
+  "away": {
+   "abbr": "CZE",
+   "name": "Czechia",
+   "record": "0-0-5",
+   "short": "Czechia",
+   "teamId": "450"
+  },
+  "espnId": "401861178",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "CRO",
+   "name": "Croatia",
+   "record": "1-0-4",
+   "short": "Croatia",
+   "teamId": "477"
+  },
+  "id": "soccer-401861178",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861178",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-15T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-12T23:53:43Z",
+  "venue": "Opus Arena, Osijek"
  },
  "soccer-401876988": {
   "away": {
@@ -8257,7 +9149,7 @@
   "stars": 1,
   "start": "2026-11-14T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Estadio Corregidora, Santiago de Querétaro"
  },
  "soccer-401906458": {
@@ -8343,7 +9235,7 @@
   "stars": 1,
   "start": "2026-11-15T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "One New Zealand Stadium, Christchurch"
  },
  "soccer-401916337": {
@@ -8369,9 +9261,9 @@
   "league": "International Friendly",
   "link": "https://www.espn.com/soccer/match/_/gameId/401916337",
   "news": [
+   "Australia friendly with Jordan relocated due to player security concerns",
    "Socceroos camp in 'good spirits' as call to play in Jordan looms",
-   "Football Australia boss flies to Amman for crisis talks over Jordan friendly",
-   "Keller: USMNT roster will understand if Pochettino joins Man United"
+   "Football Australia boss flies to Amman for crisis talks over Jordan friendly"
   ],
   "odds": {
    "mlAway": "-120",
@@ -8393,11 +9285,11 @@
   "stars": 1,
   "start": "2026-11-14T10:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Singapore National Stadium, Singapore"
  },
  "soccer-401916338": {
-  "_lastPick": "Paraguay ML (-1400)",
+  "_lastPick": "Paraguay ML (-1600)",
   "away": {
    "abbr": "PAR",
    "form": "WW",
@@ -8405,7 +9297,7 @@
    "short": "Paraguay",
    "teamId": "210"
   },
-  "confidence": 85,
+  "confidence": 86,
   "espnId": "401916338",
   "espnLeague": "fifa.friendly",
   "espnSport": "soccer",
@@ -8421,24 +9313,24 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401916338",
   "market": "Moneyline",
   "news": [
+   "Australia friendly with Jordan relocated due to player security concerns",
    "Socceroos camp in 'good spirits' as call to play in Jordan looms",
-   "Football Australia boss flies to Amman for crisis talks over Jordan friendly",
-   "Keller: USMNT roster will understand if Pochettino joins Man United"
+   "Football Australia boss flies to Amman for crisis talks over Jordan friendly"
   ],
   "odds": {
-   "mlAway": "-1400",
+   "mlAway": "-1600",
    "mlAwayOpen": "-1400",
-   "mlDraw": "+1100",
-   "mlHome": "+2200",
+   "mlDraw": "+1200",
+   "mlHome": "+2500",
    "mlHomeOpen": "+1900",
    "provider": "DraftKings",
-   "spread": "PAR -1400",
+   "spread": "PAR -1600",
    "spreadOpen": "PAR -2.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
-  "pick": "Paraguay ML (-1400)",
-  "reason": "Paraguay are about 88% no-vig at -1400.",
+  "pick": "Paraguay ML (-1600)",
+  "reason": "Paraguay are about 89% no-vig at -1600.",
   "risks": [],
   "side": "away",
   "slug": "fifa.friendly",
@@ -8446,7 +9338,7 @@
   "stars": 2,
   "start": "2026-11-13T12:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Singapore National Stadium, Singapore"
  },
  "soccer-401919978": {
@@ -8472,9 +9364,9 @@
   "league": "International Friendly",
   "link": "https://www.espn.com/soccer/match/_/gameId/401919978",
   "news": [
+   "Australia friendly with Jordan relocated due to player security concerns",
    "Socceroos camp in 'good spirits' as call to play in Jordan looms",
-   "Football Australia boss flies to Amman for crisis talks over Jordan friendly",
-   "Keller: USMNT roster will understand if Pochettino joins Man United"
+   "Football Australia boss flies to Amman for crisis talks over Jordan friendly"
   ],
   "odds": {
    "mlAway": "+110",
@@ -8498,7 +9390,7 @@
   "stars": 1,
   "start": "2026-11-13T14:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Abdullah bin Khalifa Stadium, Ar-Rayyan"
  },
  "soccer-401921325": {
@@ -8526,9 +9418,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401921325",
   "market": "Moneyline",
   "news": [
+   "Australia friendly with Jordan relocated due to player security concerns",
    "Socceroos camp in 'good spirits' as call to play in Jordan looms",
-   "Football Australia boss flies to Amman for crisis talks over Jordan friendly",
-   "Keller: USMNT roster will understand if Pochettino joins Man United"
+   "Football Australia boss flies to Amman for crisis talks over Jordan friendly"
   ],
   "odds": {
    "mlAway": "+600",
@@ -8551,7 +9443,7 @@
   "stars": 2,
   "start": "2026-11-14T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Pascual Guerrero, Cali"
  },
  "soccer-401930236": {
@@ -8584,7 +9476,7 @@
   "stars": 1,
   "start": "2026-11-14T12:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Zhaoqing New District Sports Center Stadium, Zhaoqing"
  },
  "soccer-401930243": {
@@ -8617,7 +9509,7 @@
   "stars": 1,
   "start": "2026-11-14T12:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Thien Truong Stadium, Nam Dinh"
  },
  "soccer-401930244": {
@@ -8697,14 +9589,14 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401930876",
   "market": null,
   "news": [
+   "Australia friendly with Jordan relocated due to player security concerns",
    "Socceroos camp in 'good spirits' as call to play in Jordan looms",
-   "Football Australia boss flies to Amman for crisis talks over Jordan friendly",
-   "Keller: USMNT roster will understand if Pochettino joins Man United"
+   "Football Australia boss flies to Amman for crisis talks over Jordan friendly"
   ],
   "odds": {
-   "mlAway": "+475",
+   "mlAway": "+500",
    "mlAwayOpen": "+500",
-   "mlDraw": "+290",
+   "mlDraw": "+295",
    "mlHome": "-175",
    "mlHomeOpen": "-195",
    "provider": "DraftKings",
@@ -8722,7 +9614,7 @@
   "stars": 1,
   "start": "2026-11-13T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Alberto José Armando (La Bombonera), Buenos Aires"
  },
  "soccer-401930878": {
@@ -8748,9 +9640,9 @@
   "league": "International Friendly",
   "link": "https://www.espn.com/soccer/match/_/gameId/401930878",
   "news": [
+   "Australia friendly with Jordan relocated due to player security concerns",
    "Socceroos camp in 'good spirits' as call to play in Jordan looms",
-   "Football Australia boss flies to Amman for crisis talks over Jordan friendly",
-   "Keller: USMNT roster will understand if Pochettino joins Man United"
+   "Football Australia boss flies to Amman for crisis talks over Jordan friendly"
   ],
   "odds": {
    "mlAway": "+475",
@@ -8772,7 +9664,7 @@
   "stars": 1,
   "start": "2026-11-14T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Estadio Alejandro Villanueva, Lima"
  },
  "soccer-401930879": {
@@ -8805,11 +9697,11 @@
   "stars": 1,
   "start": "2026-11-14T06:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Tianhe Stadium, Guangzhou"
  },
  "soccer-401930898": {
-  "_lastPick": "Ecuador ML (-400)",
+  "_lastPick": "Ecuador ML (-425)",
   "away": {
    "abbr": "CRC",
    "form": "WWLL",
@@ -8833,24 +9725,24 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401930898",
   "market": "Moneyline",
   "news": [
+   "Australia friendly with Jordan relocated due to player security concerns",
    "Socceroos camp in 'good spirits' as call to play in Jordan looms",
-   "Football Australia boss flies to Amman for crisis talks over Jordan friendly",
-   "Keller: USMNT roster will understand if Pochettino joins Man United"
+   "Football Australia boss flies to Amman for crisis talks over Jordan friendly"
   ],
   "odds": {
    "mlAway": "+1000",
    "mlAwayOpen": "+700",
    "mlDraw": "+475",
-   "mlHome": "-400",
+   "mlHome": "-425",
    "mlHomeOpen": "-270",
    "provider": "DraftKings",
-   "spread": "ECU -400",
+   "spread": "ECU -425",
    "spreadOpen": "ECU -1.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
-  "pick": "Ecuador ML (-400)",
-  "reason": "Ecuador are about 75% no-vig at -400. For: line moved toward Ecuador (-270 → -400).",
+  "pick": "Ecuador ML (-425)",
+  "reason": "Ecuador are about 75% no-vig at -425. For: line moved toward Ecuador (-270 → -425).",
   "risks": [
    "opponent in better form (WWLL)"
   ],
@@ -8860,7 +9752,7 @@
   "stars": 3,
   "start": "2026-11-14T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Estadio Olímpico Atahualpa, Quito"
  },
  "soccer-401930962": {
@@ -8956,7 +9848,7 @@
    "short": "South Korea",
    "teamId": "451"
   },
-  "confidence": 48,
+  "confidence": 46,
   "espnId": "401931476",
   "espnLeague": "fifa.friendly",
   "espnSport": "soccer",
@@ -8971,24 +9863,24 @@
   "league": "International Friendly",
   "link": "https://www.espn.com/soccer/match/_/gameId/401931476",
   "news": [
+   "Australia friendly with Jordan relocated due to player security concerns",
    "Socceroos camp in 'good spirits' as call to play in Jordan looms",
-   "Football Australia boss flies to Amman for crisis talks over Jordan friendly",
-   "Keller: USMNT roster will understand if Pochettino joins Man United"
+   "Football Australia boss flies to Amman for crisis talks over Jordan friendly"
   ],
   "odds": {
-   "mlAway": "-120",
+   "mlAway": "-110",
    "mlAwayOpen": "-115",
-   "mlDraw": "+255",
-   "mlHome": "+340",
+   "mlDraw": "+240",
+   "mlHome": "+320",
    "mlHomeOpen": "+320",
    "provider": "DraftKings",
-   "spread": "KOR -120",
+   "spread": "KOR -110",
    "spreadOpen": "KOR -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "South Korea about 52% no-vig at -120; no edge worth a pick.",
+  "reason": "South Korea about 50% no-vig at -110; no edge worth a pick.",
   "risks": [
    "opponent in better form (WWWWW)"
   ],
@@ -8997,7 +9889,7 @@
   "stars": 1,
   "start": "2026-11-13T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Jassim Bin Hamad Stadium, Doha"
  },
  "soccer-401931957": {
@@ -9023,12 +9915,12 @@
   "league": "International Friendly",
   "link": "https://www.espn.com/soccer/match/_/gameId/401931957",
   "news": [
+   "Australia friendly with Jordan relocated due to player security concerns",
    "Socceroos camp in 'good spirits' as call to play in Jordan looms",
-   "Football Australia boss flies to Amman for crisis talks over Jordan friendly",
-   "Keller: USMNT roster will understand if Pochettino joins Man United"
+   "Football Australia boss flies to Amman for crisis talks over Jordan friendly"
   ],
   "odds": {
-   "mlAway": "+275",
+   "mlAway": "+270",
    "mlAwayOpen": "+250",
    "mlDraw": "+230",
    "mlHome": "+105",
@@ -9047,7 +9939,7 @@
   "stars": 1,
   "start": "2026-11-13T14:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Mohammed bin Zayed Stadium, Abu Dhabi"
  },
  "soccer-401931978": {
@@ -9073,9 +9965,9 @@
   "league": "International Friendly",
   "link": "https://www.espn.com/soccer/match/_/gameId/401931978",
   "news": [
+   "Australia friendly with Jordan relocated due to player security concerns",
    "Socceroos camp in 'good spirits' as call to play in Jordan looms",
-   "Football Australia boss flies to Amman for crisis talks over Jordan friendly",
-   "Keller: USMNT roster will understand if Pochettino joins Man United"
+   "Football Australia boss flies to Amman for crisis talks over Jordan friendly"
   ],
   "odds": {
    "mlAway": "+120",
@@ -9097,7 +9989,7 @@
   "stars": 1,
   "start": "2026-11-13T16:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Al-Sadaqua Walsalam Stadium, Jaber Al-Ahmad International Stadium"
  },
  "soccer-401932237": {
@@ -9130,7 +10022,7 @@
   "stars": 1,
   "start": "2026-11-14T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Basra International Stadium, Basra"
  },
  "soccer-401933115": {
@@ -9213,7 +10105,7 @@
   "stars": 1,
   "start": "2026-11-13T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Basra International Stadium, Basra"
  },
  "soccer-401933837": {
@@ -9246,7 +10138,7 @@
   "stars": 1,
   "start": "2026-11-15T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Stadion De Vliert, Den Bosch"
  },
  "soccer-401933864": {
@@ -9279,7 +10171,7 @@
   "stars": 1,
   "start": "2026-11-14T05:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-12T18:45:40Z",
+  "updatedAt": "2026-11-12T23:53:43Z",
   "venue": "Stade Louis Ganivet"
  }
 }

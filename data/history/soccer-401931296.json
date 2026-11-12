@@ -1,0 +1,56 @@
+{
+ "id": "soccer-401931296",
+ "sport": "soccer",
+ "league": "International Friendly",
+ "start": "2026-11-12T17:30Z",
+ "home": {
+  "name": "Malta",
+  "abbr": "MLT",
+  "teamId": "453",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Eswatini",
+  "abbr": "SWZ",
+  "teamId": "6686",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+550",
+  "mlAwayOpen": "+400",
+  "mlDraw": "+320",
+  "mlHome": "-205",
+  "mlHomeOpen": "-155",
+  "provider": "DraftKings",
+  "spread": "MLT -205",
+  "spreadOpen": "MLT -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "MLT",
+   "stats": {}
+  },
+  "away": {
+   "abbr": "SWZ",
+   "stats": {}
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Goal",
+   "clock": "45'",
+   "team": null,
+   "text": "Philani Mkhontfo (Eswatini) Goal at 45'"
+  },
+  {
+   "type": "Goal",
+   "clock": "46'",
+   "team": null,
+   "text": "Basil Tuma (Malta) Goal at 46'"
+  }
+ ],
+ "scoringPlays": []
+}

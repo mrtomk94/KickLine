@@ -1,0 +1,246 @@
+{
+ "id": "soccer-401861146",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-12T17:00Z",
+ "home": {
+  "name": "Armenia",
+  "abbr": "ARM",
+  "teamId": "579",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Cyprus",
+  "abbr": "CYP",
+  "teamId": "445",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+130",
+  "mlAwayOpen": "+210",
+  "mlDraw": "+215",
+  "mlHome": "+210",
+  "mlHomeOpen": "+115",
+  "provider": "DraftKings",
+  "spread": "CYP +130",
+  "spreadOpen": "ARM -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "ARM",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "11",
+    "saves": "1",
+    "possessionPct": "68.6",
+    "totalShots": "26",
+    "shotsOnTarget": "7",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "505",
+    "totalPasses": "561",
+    "passPct": "0.9",
+    "accurateCrosses": "8",
+    "totalCrosses": "36",
+    "crossPct": "0.2",
+    "totalLongBalls": "53",
+    "accurateLongBalls": "30",
+    "longballPct": "0.6",
+    "blockedShots": "12",
+    "effectiveTackles": "7",
+    "totalTackles": "12",
+    "tacklePct": "0.6",
+    "interceptions": "10",
+    "effectiveClearance": "12",
+    "totalClearance": "12"
+   }
+  },
+  "away": {
+   "abbr": "CYP",
+   "stats": {
+    "foulsCommitted": "10",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "4",
+    "saves": "6",
+    "possessionPct": "31.4",
+    "totalShots": "10",
+    "shotsOnTarget": "2",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "190",
+    "totalPasses": "260",
+    "passPct": "0.7",
+    "accurateCrosses": "4",
+    "totalCrosses": "12",
+    "crossPct": "0.3",
+    "totalLongBalls": "48",
+    "accurateLongBalls": "14",
+    "longballPct": "0.3",
+    "blockedShots": "2",
+    "effectiveTackles": "13",
+    "totalTackles": "20",
+    "tacklePct": "0.7",
+    "interceptions": "10",
+    "effectiveClearance": "34",
+    "totalClearance": "34"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "9'",
+   "team": null,
+   "text": "Goal! Armenia 0, Cyprus 1. Iasonas Pikis (Cyprus) left footed shot from the centre of the box to the bottom right corner. Assisted by Ioannis Pittas with a cross."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "44'",
+   "team": null,
+   "text": "Loizos Loizou (Cyprus) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": "First Half ends, Armenia 0, Cyprus 1."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "50'",
+   "team": null,
+   "text": "Iasonas Pikis (Cyprus) is shown the yellow card."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "58'",
+   "team": null,
+   "text": "Goal! Armenia 1, Cyprus 1. Artur Gharibyan (Armenia) header from the centre of the box to the bottom left corner. Assisted by Artur Serobyan with a cross."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "60'",
+   "team": null,
+   "text": "Georgi Harutyunyan (Armenia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, Cyprus. Ioannis Kosti replaces Marcus Edwards."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "72'",
+   "team": null,
+   "text": "Narek Grigoryan (Armenia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Armenia. Edgar Sevikyan replaces Narek Grigoryan."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Armenia. Gor Manvelyan replaces Artur Serobyan."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Armenia. Grant-Leon Ranos replaces Artur Gharibyan."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Cyprus. Stavros Georgiou replaces Loizos Loizou."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "81'",
+   "team": null,
+   "text": "Edgar Sevikyan (Armenia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "84'",
+   "team": null,
+   "text": "Delay in match because of an injury Nayair Tiknizyan (Armenia)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "84'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "85'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "85'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Armenia. Hovhannes Harutyunyan replaces Ugochukwu Iwu."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Armenia. Narek Hovhannisyan replaces Zhirayr Shaghoyan."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Substitution, Cyprus. Kostakis Artymatas replaces Grigoris Kastanos."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Substitution, Cyprus. Angelos Neophytou replaces Iasonas Pikis."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Second Half ends, Armenia 1, Cyprus 1."
+  }
+ ],
+ "scoringPlays": []
+}
