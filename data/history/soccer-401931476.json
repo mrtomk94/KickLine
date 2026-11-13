@@ -1,0 +1,264 @@
+{
+ "id": "soccer-401931476",
+ "sport": "soccer",
+ "league": "International Friendly",
+ "start": "2026-11-13T14:30Z",
+ "home": {
+  "name": "Saudi Arabia",
+  "abbr": "KSA",
+  "teamId": "655",
+  "score": 3.0
+ },
+ "away": {
+  "name": "South Korea",
+  "abbr": "KOR",
+  "teamId": "451",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "-125",
+  "mlAwayOpen": "-115",
+  "mlDraw": "+245",
+  "mlHome": "+360",
+  "mlHomeOpen": "+320",
+  "provider": "DraftKings",
+  "spread": "KOR -125",
+  "spreadOpen": "KOR -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "KSA",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "2",
+    "saves": "4",
+    "possessionPct": "53",
+    "totalShots": "8",
+    "shotsOnTarget": "5",
+    "shotPct": "0.6",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "475",
+    "totalPasses": "568",
+    "passPct": "0.8",
+    "accurateCrosses": "2",
+    "totalCrosses": "7",
+    "crossPct": "0.3",
+    "totalLongBalls": "72",
+    "accurateLongBalls": "36",
+    "longballPct": "0.5",
+    "blockedShots": "0",
+    "effectiveTackles": "10",
+    "totalTackles": "17",
+    "tacklePct": "0.6",
+    "interceptions": "13",
+    "effectiveClearance": "20",
+    "totalClearance": "20"
+   }
+  },
+  "away": {
+   "abbr": "KOR",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "2",
+    "saves": "2",
+    "possessionPct": "47",
+    "totalShots": "15",
+    "shotsOnTarget": "6",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "422",
+    "totalPasses": "496",
+    "passPct": "0.9",
+    "accurateCrosses": "4",
+    "totalCrosses": "18",
+    "crossPct": "0.2",
+    "totalLongBalls": "57",
+    "accurateLongBalls": "32",
+    "longballPct": "0.6",
+    "blockedShots": "3",
+    "effectiveTackles": "1",
+    "totalTackles": "4",
+    "tacklePct": "0.3",
+    "interceptions": "13",
+    "effectiveClearance": "14",
+    "totalClearance": "14"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "25'",
+   "team": null,
+   "text": "Cho Hyun-Taek (Korea Republic) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "Goal! Saudi Arabia 1, Korea Republic 0. Marwan Al Sahafi (Saudi Arabia) right footed shot from a difficult angle on the right to the centre of the goal. Assisted by Abdullah Al Hamddan."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Korea Republic. Lee Myung-Jae replaces Cho Hyun-Taek."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Saudi Arabia. Saud Abdulhamid replaces Mohammed Al Qahtani."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Saudi Arabia. Abdullah Al Salem replaces Abdullah Al Hamddan."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "47'",
+   "team": null,
+   "text": "Goal! Saudi Arabia 1, Korea Republic 1. Oh Hyeon-Gyu (Korea Republic) right footed shot from the centre of the box to the bottom left corner. Assisted by Seol Young-Woo."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "54'",
+   "team": null,
+   "text": "Mohamed Kanno (Saudi Arabia) is shown the yellow card."
+  },
+  {
+   "type": "Goal",
+   "clock": "56'",
+   "team": null,
+   "text": "Goal! Saudi Arabia 2, Korea Republic 1. Mohamed Kanno (Saudi Arabia) right footed shot from the centre of the box to the bottom right corner. Assisted by Saud Abdulhamid."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "59'",
+   "team": null,
+   "text": "Goal! Saudi Arabia 3, Korea Republic 1. Abdulelah Al Amri (Saudi Arabia) header from the left side of the six yard box to the centre of the goal. Assisted by Nasser Al Dawsari with a cross following a"
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Saudi Arabia. Musab Al Juwayr replaces Mohamed Kanno."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Saudi Arabia. Sultan Mandash replaces Mohammed Abu Al Shamat."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Saudi Arabia. Ahmed Al Ghamdi replaces Marwan Al Sahafi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Saudi Arabia. Faris Abdi replaces Moteb Al Harbi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Korea Republic. Kim Ji-Soo replaces Lee Han-Beom."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Korea Republic. Lee Jae-Sung replaces Park Jin-Seob."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Korea Republic. Oh Se-Hun replaces Oh Hyeon-Gyu."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Korea Republic. Choi Jun replaces Seol Young-Woo."
+  },
+  {
+   "type": "Goal",
+   "clock": "68'",
+   "team": null,
+   "text": "Goal! Saudi Arabia 3, Korea Republic 2. Lee Jae-Sung (Korea Republic) left footed shot from the left side of the six yard box to the centre of the goal. Assisted by Hwang Hee-Chan."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Saudi Arabia. Ali Lajami replaces Abdulelah Al Amri."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Saudi Arabia. Mukhtar Ali replaces Abdullah Al Khaibari."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Korea Republic. Eom Ji-Sung replaces Hwang Hee-Chan."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Saudi Arabia. Sultan Tanker replaces Nasser Al Dawsari."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Saudi Arabia. Abdulmalik Al Oyayari replaces Hassan Al Tambakti."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+7'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

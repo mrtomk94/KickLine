@@ -1,0 +1,270 @@
+{
+ "id": "soccer-401919978",
+ "sport": "soccer",
+ "league": "International Friendly",
+ "start": "2026-11-13T14:45Z",
+ "home": {
+  "name": "Qatar",
+  "abbr": "QAT",
+  "teamId": "4398",
+  "score": 0.0
+ },
+ "away": {
+  "name": "Australia",
+  "abbr": "AUS",
+  "teamId": "628",
+  "score": 3.0
+ },
+ "odds": {
+  "mlAway": "-105",
+  "mlAwayOpen": "+120",
+  "mlDraw": "+245",
+  "mlHome": "+285",
+  "mlHomeOpen": "+220",
+  "provider": "DraftKings",
+  "spread": "AUS -105",
+  "spreadOpen": "AUS -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "QAT",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "5",
+    "wonCorners": "1",
+    "saves": "4",
+    "possessionPct": "45.3",
+    "totalShots": "3",
+    "shotsOnTarget": "0",
+    "shotPct": "0.0",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "451",
+    "totalPasses": "523",
+    "passPct": "0.9",
+    "accurateCrosses": "1",
+    "totalCrosses": "3",
+    "crossPct": "0.3",
+    "totalLongBalls": "59",
+    "accurateLongBalls": "17",
+    "longballPct": "0.3",
+    "blockedShots": "2",
+    "effectiveTackles": "18",
+    "totalTackles": "26",
+    "tacklePct": "0.7",
+    "interceptions": "9",
+    "effectiveClearance": "23",
+    "totalClearance": "23"
+   }
+  },
+  "away": {
+   "abbr": "AUS",
+   "stats": {
+    "foulsCommitted": "15",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "4",
+    "saves": "0",
+    "possessionPct": "54.7",
+    "totalShots": "14",
+    "shotsOnTarget": "7",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "561",
+    "totalPasses": "622",
+    "passPct": "0.9",
+    "accurateCrosses": "4",
+    "totalCrosses": "13",
+    "crossPct": "0.3",
+    "totalLongBalls": "39",
+    "accurateLongBalls": "19",
+    "longballPct": "0.5",
+    "blockedShots": "2",
+    "effectiveTackles": "7",
+    "totalTackles": "9",
+    "tacklePct": "0.8",
+    "interceptions": "10",
+    "effectiveClearance": "7",
+    "totalClearance": "7"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal",
+   "clock": "5'",
+   "team": null,
+   "text": "Goal! Qatar 0, Australia 1. Riley McGree (Australia) left footed shot from the centre of the box to the centre of the goal."
+  },
+  {
+   "type": "Goal",
+   "clock": "32'",
+   "team": null,
+   "text": "Goal! Qatar 0, Australia 2. Tete Yengi (Australia) right footed shot from the centre of the box to the bottom left corner. Assisted by Connor Metcalfe with a through ball."
+  },
+  {
+   "type": "Goal",
+   "clock": "40'",
+   "team": null,
+   "text": "Goal! Qatar 0, Australia 3. Nestory Irankunda (Australia) right footed shot from outside the box to the bottom left corner. Assisted by Connor Metcalfe."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Qatar. Homam El Amin replaces Ahmed Fathy."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Qatar. Yusuf Abdurisag replaces Hassan Al Haydos."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Australia. Kusini Yengi replaces Tete Yengi."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Qatar. Bassam Al Rawi replaces Boualem Khoukhi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Qatar. Edmílson Junior replaces Almoez Ali."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Qatar. Ahmed Alaa replaces Karim Boudiaf."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Qatar. Tarek Salman replaces Ayoub Al Oui."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Qatar. Jassem Gaber replaces Sultan Al Brake."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Qatar. Niall Mason replaces Issa Laye."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Australia. Eli Adams replaces Riley McGree."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Australia. Marcus Younis replaces Nestory Irankunda."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Australia. Gianni Stensness replaces Alessandro Circati."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Australia. Jason Geria replaces Paul Okon-Engstler."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Australia. Sam Klein replaces Jacob Italiano."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "67'",
+   "team": null,
+   "text": "Assim Madibo (Qatar) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Qatar. Abdulaziz Hatem replaces Akram Afif."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Qatar. Mohammad Al Manai replaces Assim Madibo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Australia. Kasey Bos replaces Aziz Behich."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Australia. Diesel Herrington replaces Lucas Herrington."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "84'",
+   "team": null,
+   "text": "Eli Adams (Australia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Abdulaziz Hatem (Qatar) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Second Half ends, Qatar 0, Australia 3."
+  }
+ ],
+ "scoringPlays": []
+}

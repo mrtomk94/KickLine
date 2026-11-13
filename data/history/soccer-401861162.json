@@ -1,0 +1,252 @@
+{
+ "id": "soccer-401861162",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-13T17:00Z",
+ "home": {
+  "name": "Moldova",
+  "abbr": "MDA",
+  "teamId": "483",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Kazakhstan",
+  "abbr": "KAZ",
+  "teamId": "2619",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+190",
+  "mlAwayOpen": "+180",
+  "mlDraw": "+190",
+  "mlHome": "+150",
+  "mlHomeOpen": "+160",
+  "provider": "DraftKings",
+  "spread": "MDA +150",
+  "spreadOpen": "MDA -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "MDA",
+   "stats": {
+    "foulsCommitted": "8",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "2",
+    "saves": "4",
+    "possessionPct": "55.5",
+    "totalShots": "14",
+    "shotsOnTarget": "5",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "406",
+    "totalPasses": "489",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "14",
+    "crossPct": "0.2",
+    "totalLongBalls": "52",
+    "accurateLongBalls": "19",
+    "longballPct": "0.4",
+    "blockedShots": "2",
+    "effectiveTackles": "12",
+    "totalTackles": "19",
+    "tacklePct": "0.6",
+    "interceptions": "11",
+    "effectiveClearance": "21",
+    "totalClearance": "21"
+   }
+  },
+  "away": {
+   "abbr": "KAZ",
+   "stats": {
+    "foulsCommitted": "19",
+    "yellowCards": "0",
+    "redCards": "1",
+    "offsides": "2",
+    "wonCorners": "3",
+    "saves": "3",
+    "possessionPct": "44.5",
+    "totalShots": "11",
+    "shotsOnTarget": "5",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "300",
+    "totalPasses": "390",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "12",
+    "crossPct": "0.3",
+    "totalLongBalls": "60",
+    "accurateLongBalls": "23",
+    "longballPct": "0.4",
+    "blockedShots": "3",
+    "effectiveTackles": "9",
+    "totalTackles": "16",
+    "tacklePct": "0.6",
+    "interceptions": "6",
+    "effectiveClearance": "15",
+    "totalClearance": "15"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "39'",
+   "team": null,
+   "text": "Goal! Moldova 1, Kazakhstan 0. Petru Popescu (Moldova) left footed shot from outside the box to the top left corner following a fast break."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, Moldova 1, Kazakhstan 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Kazakhstan. Yan Vorogovskiy replaces Nauryzbek Zhagorov."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Moldova 1, Kazakhstan 0."
+  },
+  {
+   "type": "Goal",
+   "clock": "51'",
+   "team": null,
+   "text": "Goal! Moldova 1, Kazakhstan 1. Islam Chesnokov (Kazakhstan) left footed shot from outside the box to the bottom right corner. Assisted by Ramazan Orazov."
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, Moldova. Nichita Motpan replaces Vladimir Fratea."
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, Moldova. Alexandru Betivu replaces Nicky Clescenco."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "65'",
+   "team": null,
+   "text": "Delay in match (Moldova)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "65'",
+   "team": null,
+   "text": "Delay in match because of an injury Ramazan Orazov (Kazakhstan)."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Moldova. Danila Forov replaces Ioan-Calin Revenco."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Moldova. Victor Bogaciuc replaces Vadim Rata."
+  },
+  {
+   "type": "End Delay",
+   "clock": "66'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "66'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Substitution",
+   "clock": "69'",
+   "team": null,
+   "text": "Substitution, Kazakhstan. Islambek Kuat replaces Ramazan Orazov."
+  },
+  {
+   "type": "Substitution",
+   "clock": "69'",
+   "team": null,
+   "text": "Substitution, Kazakhstan. Galymzhan Kenzhebek replaces Zhasulan Amir."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "73'",
+   "team": null,
+   "text": "Iurie Iovu (Moldova) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal - Volley",
+   "clock": "77'",
+   "team": null,
+   "text": "Goal! Moldova 2, Kazakhstan 1. Petru Popescu (Moldova) left footed shot from the centre of the box to the high centre of the goal. Assisted by Nichita Motpan with a cross."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Kazakhstan. Aybol Abiken replaces Dinmukhamed Karaman."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Kazakhstan. Aybar Zhaksylykov replaces Islam Chesnokov."
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, Moldova. Mihail Stefan replaces Vladislav Baboglo."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Petru Popescu (Moldova) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Maksim Samorodov (Kazakhstan) is shown the yellow card."
+  },
+  {
+   "type": "Red Card",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Second yellow card to Maksim Samorodov (Kazakhstan)."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}
