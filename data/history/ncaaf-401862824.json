@@ -1,0 +1,168 @@
+{
+ "id": "ncaaf-401862824",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-13T01:00Z",
+ "home": {
+  "name": "South Florida Bulls",
+  "abbr": "USF",
+  "teamId": "58",
+  "score": 41.0
+ },
+ "away": {
+  "name": "Memphis Tigers",
+  "abbr": "MEM",
+  "teamId": "235",
+  "score": 52.0
+ },
+ "odds": {
+  "mlAway": "-192",
+  "mlAwayOpen": "-230",
+  "mlHome": "+160",
+  "mlHomeOpen": "+190",
+  "provider": "DraftKings",
+  "spread": "MEM -4.5",
+  "spreadOpen": "MEM -6",
+  "total": "50.5",
+  "totalOpen": "49.5"
+ },
+ "espnWinProb": {
+  "away": 62.7,
+  "home": 37.3
+ },
+ "teams": {
+  "away": {
+   "abbr": "MEM",
+   "stats": {
+    "firstDowns": "25",
+    "thirdDownEff": "6-13",
+    "fourthDownEff": "0-1",
+    "totalYards": "581",
+    "netPassingYards": "313",
+    "completionAttempts": "15/31",
+    "yardsPerPass": "10.1",
+    "rushingYards": "268",
+    "rushingAttempts": "37",
+    "yardsPerRushAttempt": "7.2",
+    "totalPenaltiesYards": "6-46",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "22:25"
+   }
+  },
+  "home": {
+   "abbr": "USF",
+   "stats": {
+    "firstDowns": "29",
+    "thirdDownEff": "5-17",
+    "fourthDownEff": "5-8",
+    "totalYards": "552",
+    "netPassingYards": "271",
+    "completionAttempts": "22/38",
+    "yardsPerPass": "7.1",
+    "rushingYards": "281",
+    "rushingAttempts": "52",
+    "yardsPerRushAttempt": "5.4",
+    "totalPenaltiesYards": "4-24",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "37:35"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "9:23",
+   "team": "MEM",
+   "text": "Marcus Stokes 47 Yd Run (Philippe Laforge Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "5:35",
+   "team": "MEM",
+   "text": "Hunter Tipton 7 Yd pass from Marcus Stokes (Philippe Laforge Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "3:34",
+   "team": "MEM",
+   "text": "Marcus Stokes 8 Yd Run (Philippe Laforge Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "9:12",
+   "team": "USF",
+   "text": "Nico Gramatica 47 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "4:13",
+   "team": "USF",
+   "text": "Mudia Reuben 3 Yd pass from Luke Kromenhoek (Nico Gramatica Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:50",
+   "team": "MEM",
+   "text": "Jaylin Carter 1 Yd Run (Philippe Laforge Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:49",
+   "team": "USF",
+   "text": "Mudia Reuben 19 Yd pass from Luke Kromenhoek (Nico Gramatica Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "9:55",
+   "team": "USF",
+   "text": "Jason Collins Jr. 13 Yd pass from Luke Kromenhoek (Nico Gramatica Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "9:01",
+   "team": "MEM",
+   "text": "Stonka Burnside 12 Yd pass from Marcus Stokes (Philippe Laforge Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "8:51",
+   "team": "USF",
+   "text": "Jason Collins Jr. 75 Yd Run (Nico Gramatica Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "6:49",
+   "team": "MEM",
+   "text": "Philippe Laforge 27 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "1:42",
+   "team": "USF",
+   "text": "Luke Kromenhoek 23 Yd Run (Nico Gramatica Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "8:04",
+   "team": "USF",
+   "text": "Nico Gramatica 38 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "7:34",
+   "team": "MEM",
+   "text": "Jemyri Davis 76 Yd pass from Marcus Stokes (Philippe Laforge Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "0:44",
+   "team": "MEM",
+   "text": "Jaylin Carter 26 Yd Run (Philippe Laforge Kick)"
+  }
+ ]
+}
