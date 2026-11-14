@@ -1,0 +1,342 @@
+{
+ "id": "soccer-401916337",
+ "sport": "soccer",
+ "league": "International Friendly",
+ "start": "2026-11-14T10:15Z",
+ "home": {
+  "name": "Japan",
+  "abbr": "JPN",
+  "teamId": "627",
+  "score": 3.0
+ },
+ "away": {
+  "name": "Brazil",
+  "abbr": "BRA",
+  "teamId": "205",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "-120",
+  "mlAwayOpen": "-125",
+  "mlDraw": "+300",
+  "mlHome": "+280",
+  "mlHomeOpen": "+285",
+  "provider": "DraftKings",
+  "spread": "BRA -120",
+  "spreadOpen": "BRA -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "JPN",
+   "stats": {
+    "foulsCommitted": "21",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "1",
+    "saves": "4",
+    "possessionPct": "42.4",
+    "totalShots": "8",
+    "shotsOnTarget": "4",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "320",
+    "totalPasses": "377",
+    "passPct": "0.8",
+    "accurateCrosses": "4",
+    "totalCrosses": "17",
+    "crossPct": "0.2",
+    "totalLongBalls": "37",
+    "accurateLongBalls": "15",
+    "longballPct": "0.4",
+    "blockedShots": "2",
+    "effectiveTackles": "18",
+    "totalTackles": "27",
+    "tacklePct": "0.7",
+    "interceptions": "15",
+    "effectiveClearance": "25",
+    "totalClearance": "25"
+   }
+  },
+  "away": {
+   "abbr": "BRA",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "2",
+    "redCards": "1",
+    "offsides": "0",
+    "wonCorners": "9",
+    "saves": "1",
+    "possessionPct": "57.6",
+    "totalShots": "17",
+    "shotsOnTarget": "6",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "446",
+    "totalPasses": "513",
+    "passPct": "0.9",
+    "accurateCrosses": "6",
+    "totalCrosses": "20",
+    "crossPct": "0.3",
+    "totalLongBalls": "39",
+    "accurateLongBalls": "21",
+    "longballPct": "0.5",
+    "blockedShots": "3",
+    "effectiveTackles": "10",
+    "totalTackles": "19",
+    "tacklePct": "0.5",
+    "interceptions": "14",
+    "effectiveClearance": "25",
+    "totalClearance": "25"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "6'",
+   "team": null,
+   "text": "Delay in match because of an injury Gabriel Magalhães (Brazil)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "6'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "7'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "7'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "15'",
+   "team": null,
+   "text": "Goal! Japan 1, Brazil 0. Takefusa Kubo (Japan) left footed shot from the centre of the box to the bottom right corner. Assisted by Ritsu Doan with a through ball."
+  },
+  {
+   "type": "Goal",
+   "clock": "19'",
+   "team": null,
+   "text": "Goal! Japan 2, Brazil 0. Keito Nakamura (Japan) right footed shot from the centre of the box to the bottom left corner. Assisted by Shuto Nakano with a cross."
+  },
+  {
+   "type": "Goal",
+   "clock": "33'",
+   "team": null,
+   "text": "Goal! Japan 2, Brazil 1. Vinícius Júnior (Brazil) right footed shot from outside the box to the top left corner. Assisted by Bruno Guimarães."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "39'",
+   "team": null,
+   "text": "Delay in match because of an injury Bruno Guimarães (Brazil)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "39'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "39'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "39'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "43'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "44'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": "First Half ends, Japan 2, Brazil 1."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Japan 2, Brazil 1."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "46'",
+   "team": null,
+   "text": "Delay in match because of an injury Carlos Augusto (Brazil)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "46'",
+   "team": null,
+   "text": "Delay in match because of an injury Ritsu Doan (Japan)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "47'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "47'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, Brazil. Alisson Santana replaces Estêvão."
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, Brazil. Marlon Gomes replaces André."
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, Brazil. Jonathan Jesus replaces Jair Cunha."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Japan. Yukinari Sugawara replaces Shuto Nakano."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Japan. Kaishu Sano replaces Takefusa Kubo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Brazil. Endrick replaces Raphinha."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Japan. Junya Ito replaces Keito Nakamura."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Japan. Koki Ogawa replaces Daizen Maeda."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Japan. Takumi Minamino replaces Daichi Kamada."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Japan. Tatsuhiro Sakamoto replaces Ritsu Doan."
+  },
+  {
+   "type": "Goal",
+   "clock": "75'",
+   "team": null,
+   "text": "Goal! Japan 2, Brazil 2. Vinícius Júnior (Brazil) right footed shot from outside the box to the bottom left corner. Assisted by Bruno Guimarães following a corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Brazil. Vanderson replaces Wesley."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Brazil. João Gomes replaces Andrey Santos."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Japan. Ko Itakura replaces Koki Machida."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Japan. Junnosuke Suzuki replaces Hiroki Ito."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Japan. Kodai Sano replaces Ao Tanaka."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "87'",
+   "team": null,
+   "text": "Junnosuke Suzuki (Japan) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "87'",
+   "team": null,
+   "text": "Endrick (Brazil) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "87'",
+   "team": null,
+   "text": "Vinícius Júnior (Brazil) is shown the yellow card."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Goal! Japan 3, Brazil 2. Tatsuhiro Sakamoto (Japan) right footed shot from the right side of the six yard box to the top left corner.Goal confirmed following VAR Review."
+  }
+ ],
+ "scoringPlays": []
+}
