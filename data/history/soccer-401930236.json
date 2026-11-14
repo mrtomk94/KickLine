@@ -1,0 +1,342 @@
+{
+ "id": "soccer-401930236",
+ "sport": "soccer",
+ "league": "International Friendly",
+ "start": "2026-11-14T12:00Z",
+ "home": {
+  "name": "China",
+  "abbr": "CHN",
+  "teamId": "658",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Malaysia",
+  "abbr": "MAS",
+  "teamId": "2405",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+450",
+  "mlAwayOpen": "+500",
+  "mlDraw": "+340",
+  "mlHome": "-185",
+  "mlHomeOpen": "-205",
+  "provider": "DraftKings",
+  "spread": "CHN -185",
+  "spreadOpen": "CHN -1.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "CHN",
+   "stats": {
+    "foulsCommitted": "7",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "6",
+    "wonCorners": "1",
+    "saves": "2",
+    "possessionPct": "43",
+    "totalShots": "10",
+    "shotsOnTarget": "3",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "317",
+    "totalPasses": "383",
+    "passPct": "0.8",
+    "accurateCrosses": "6",
+    "totalCrosses": "13",
+    "crossPct": "0.5",
+    "totalLongBalls": "61",
+    "accurateLongBalls": "28",
+    "longballPct": "0.5",
+    "blockedShots": "0",
+    "effectiveTackles": "10",
+    "totalTackles": "16",
+    "tacklePct": "0.6",
+    "interceptions": "8",
+    "effectiveClearance": "32",
+    "totalClearance": "32"
+   }
+  },
+  "away": {
+   "abbr": "MAS",
+   "stats": {
+    "foulsCommitted": "7",
+    "yellowCards": "1",
+    "redCards": "1",
+    "offsides": "4",
+    "wonCorners": "5",
+    "saves": "1",
+    "possessionPct": "57",
+    "totalShots": "10",
+    "shotsOnTarget": "2",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "425",
+    "totalPasses": "506",
+    "passPct": "0.8",
+    "accurateCrosses": "5",
+    "totalCrosses": "19",
+    "crossPct": "0.3",
+    "totalLongBalls": "49",
+    "accurateLongBalls": "23",
+    "longballPct": "0.5",
+    "blockedShots": "4",
+    "effectiveTackles": "16",
+    "totalTackles": "20",
+    "tacklePct": "0.8",
+    "interceptions": "8",
+    "effectiveClearance": "21",
+    "totalClearance": "21"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "4'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "10'",
+   "team": null,
+   "text": "Goal! China PR 1, Malaysia 0. Wang Yudong (China PR) header from the left side of the six yard box to the high centre of the goal. Assisted by Lin Liangming with a cross."
+  },
+  {
+   "type": "Goal",
+   "clock": "19'",
+   "team": null,
+   "text": "Goal! China PR 2, Malaysia 0. Zhang Yuning (China PR) right footed shot from the centre of the box to the centre of the goal. Assisted by Wang Shangyuan with a through ball."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "37'",
+   "team": null,
+   "text": "Delay in match because of an injury Zhang Yuning (China PR)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "37'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "37'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "37'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "45'",
+   "team": null,
+   "text": "Delay in match because of an injury Yang Xi (China PR)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "45'+1'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "45'+3'",
+   "team": null,
+   "text": "Delay in match (China PR). VAR checking."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "45'+3'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "45'+4'",
+   "team": null,
+   "text": "Dominic Tan (Malaysia) is shown the yellow card."
+  },
+  {
+   "type": "End Delay",
+   "clock": "45'+4'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "45'+4'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+9'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Malaysia. Haziq Kutty replaces Rodney Celvin."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, China PR. Bunyamin Abdusalam replaces Wang Yudong."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Malaysia. Richard Chin replaces Ubaidullah Shamsul."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "53'",
+   "team": null,
+   "text": "Fergus Tierney (Malaysia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "53'",
+   "team": null,
+   "text": "Delay in match because of an injury Han Pengfei (China PR)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "53'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "54'",
+   "team": null,
+   "text": "Substitution, China PR. Mao Weijie replaces Liu Yang."
+  },
+  {
+   "type": "End Delay",
+   "clock": "54'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "54'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, China PR. Behram Abduweli replaces Zhang Yuning."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, China PR. Wu Xi replaces Wang Shangyuan."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Malaysia. Endrick replaces Romel Morales."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Malaysia. Safwan Mazlan replaces Dominic Tan."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "78'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "79'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, China PR. Hu Hetao replaces Yang Mingyang."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, China PR. Huang Jiahui replaces Xu Bin."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, China PR. Jiang Shenglong replaces Han Pengfei."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Malaysia. G. Pavithran replaces Ramadhan Saifullah."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Malaysia. Paulo Josué replaces Ryan Lambert."
+  }
+ ],
+ "scoringPlays": []
+}

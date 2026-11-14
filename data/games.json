@@ -1028,7 +1028,7 @@
   "venue": "Intuit Dome, Inglewood"
  },
  "nba-401909980": {
-  "_lastPick": "DEN ML (-597)",
+  "_lastPick": "DEN ML (-670)",
   "away": {
    "abbr": "DEN",
    "form": "WLWWL",
@@ -1038,7 +1038,7 @@
    "short": "Nuggets",
    "teamId": "7"
   },
-  "confidence": 79,
+  "confidence": 80,
   "espnId": "401909980",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -1050,11 +1050,11 @@
    "abbr": "NO",
    "form": "LLLLL",
    "injuries": [
-    "Dejounte Murray (G) – Out, Ankle",
-    "Bryce McGowens (G) – Out, Elbow",
     "Yves Missi (C) – Out, Knee",
+    "Trendon Watford (F) – Out, Ankle",
+    "Bryce McGowens (G) – Out, Elbow",
     "Trey Murphy III (F) – Out, Knee",
-    "Trendon Watford (F) – Out, Ankle"
+    "Dejounte Murray (G) – Out, Ankle"
    ],
    "name": "New Orleans Pelicans",
    "record": "4-9",
@@ -1074,9 +1074,16 @@
    ],
    "home": [
     {
+     "detail": "Knee",
+     "player": "Yves Missi",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    },
+    {
      "detail": "Ankle",
-     "player": "Dejounte Murray",
-     "pos": "G",
+     "player": "Trendon Watford",
+     "pos": "F",
      "stale": false,
      "status": "Out"
     },
@@ -1089,13 +1096,6 @@
     },
     {
      "detail": "Knee",
-     "player": "Yves Missi",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
      "player": "Trey Murphy III",
      "pos": "F",
      "stale": false,
@@ -1103,8 +1103,8 @@
     },
     {
      "detail": "Ankle",
-     "player": "Trendon Watford",
-     "pos": "F",
+     "player": "Dejounte Murray",
+     "pos": "G",
      "stale": false,
      "status": "Out"
     }
@@ -1114,23 +1114,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909980",
   "market": "Moneyline",
   "news": [
-   "The price of a pro hoop dream starts with a $200 G League tryout",
-   "Oklahoma City visits Sacramento following Gilgeous-Alexander's 40-point game",
-   "Minnesota takes on Chicago, aims for 5th straight home win"
+   "Fantasy basketball adds and NBA bets: Fire up Fears, Bey on Saturday",
+   "Josh Hart searching for answers after zero-point outing in Knicks loss",
+   "The price of a pro hoop dream starts with a $200 G League tryout"
   ],
   "odds": {
-   "mlAway": "-597",
+   "mlAway": "-670",
    "mlAwayOpen": "-556",
-   "mlHome": "+443",
+   "mlHome": "+483",
    "mlHomeOpen": "+417",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "DEN -12.5",
    "spreadOpen": "DEN -10.5",
    "total": "235.5",
    "totalOpen": "234.5"
   },
-  "pick": "DEN ML (-597)",
-  "reason": "DEN are about 82% no-vig at -597; ESPN's model has 80%. For: form WLWWL vs LLLLL.",
+  "pick": "DEN ML (-670)",
+  "reason": "DEN are about 84% no-vig at -670; ESPN's model has 80%. For: form WLWWL vs LLLLL.",
   "risks": [],
   "side": "away",
   "slug": "nba",
@@ -1138,7 +1138,7 @@
   "stars": 2,
   "start": "2026-11-15T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Smoothie King Center, New Orleans"
  },
  "nba-401909981": {
@@ -1155,7 +1155,7 @@
    "short": "Mavericks",
    "teamId": "6"
   },
-  "confidence": 51,
+  "confidence": 49,
   "espnId": "401909981",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -1167,8 +1167,7 @@
    "abbr": "CLE",
    "form": "LWLLW",
    "injuries": [
-    "Evan Mobley (C) – Out, Toe",
-    "Sam Merrill (G) – Out, Elbow"
+    "Evan Mobley (C) – Out, Toe"
    ],
    "name": "Cleveland Cavaliers",
    "record": "6-7",
@@ -1207,52 +1206,38 @@
      "pos": "C",
      "stale": false,
      "status": "Out"
-    },
-    {
-     "detail": "Elbow",
-     "player": "Sam Merrill",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Back",
-     "player": "Nae'Qwan Tomlin",
-     "pos": "F",
-     "stale": true,
-     "status": "Out"
     }
    ]
   },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909981",
   "news": [
-   "The price of a pro hoop dream starts with a $200 G League tryout",
-   "Oklahoma City visits Sacramento following Gilgeous-Alexander's 40-point game",
-   "Minnesota takes on Chicago, aims for 5th straight home win"
+   "Fantasy basketball adds and NBA bets: Fire up Fears, Bey on Saturday",
+   "Josh Hart searching for answers after zero-point outing in Knicks loss",
+   "The price of a pro hoop dream starts with a $200 G League tryout"
   ],
   "odds": {
-   "mlAway": "-109",
+   "mlAway": "-196",
    "mlAwayOpen": "+118",
-   "mlHome": "-109",
+   "mlHome": "+164",
    "mlHomeOpen": "-140",
-   "provider": "Draft Kings",
-   "spread": "CLE -1.5",
+   "provider": "DraftKings",
+   "spread": "DAL -4.5",
    "spreadOpen": "CLE -3.5",
-   "total": "231.5",
+   "total": "227.5",
    "totalOpen": "231.5"
   },
   "pick": "Pass",
-  "reason": "CLE about 50% no-vig at -109; no edge worth a pick.",
+  "reason": "DAL about 64% no-vig at -196; no edge worth a pick.",
   "risks": [
-   "line drifted away (-140 → -109)"
+   "ESPN model only 34% vs market 64%"
   ],
   "slug": "nba",
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-15T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Rocket Arena, Cleveland"
  },
  "nba-401909982": {
@@ -1268,7 +1253,7 @@
    "short": "Pistons",
    "teamId": "8"
   },
-  "confidence": 57,
+  "confidence": 55,
   "espnId": "401909982",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -1279,10 +1264,7 @@
   "home": {
    "abbr": "MIA",
    "form": "WWWLW",
-   "injuries": [
-    "Klay Thompson (G) – Out, Ankle",
-    "Pelle Larsson (G) – Out, Illness"
-   ],
+   "injuries": [],
    "name": "Miami Heat",
    "record": "6-6",
    "short": "Heat",
@@ -1306,52 +1288,37 @@
      "status": "Out"
     }
    ],
-   "home": [
-    {
-     "detail": "Ankle",
-     "player": "Klay Thompson",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Illness",
-     "player": "Pelle Larsson",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    }
-   ]
+   "home": []
   },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909982",
   "news": [
-   "The price of a pro hoop dream starts with a $200 G League tryout",
-   "Oklahoma City visits Sacramento following Gilgeous-Alexander's 40-point game",
-   "Minnesota takes on Chicago, aims for 5th straight home win"
+   "Fantasy basketball adds and NBA bets: Fire up Fears, Bey on Saturday",
+   "Josh Hart searching for answers after zero-point outing in Knicks loss",
+   "The price of a pro hoop dream starts with a $200 G League tryout"
   ],
   "odds": {
-   "mlAway": "-191",
+   "mlAway": "-173",
    "mlAwayOpen": "-186",
-   "mlHome": "+160",
+   "mlHome": "+146",
    "mlHomeOpen": "+156",
-   "provider": "Draft Kings",
-   "spread": "DET -5.5",
+   "provider": "DraftKings",
+   "spread": "DET -3.5",
    "spreadOpen": "DET -5.5",
    "total": "229.5",
    "totalOpen": "226.5"
   },
   "pick": "Pass",
-  "reason": "DET about 63% no-vig at -191; no edge worth a pick.",
+  "reason": "DET about 61% no-vig at -173; no edge worth a pick.",
   "risks": [
-   "ESPN model only 55% vs market 63%"
+   "ESPN model only 55% vs market 61%"
   ],
   "slug": "nba",
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-15T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Kaseya Center, Miami"
  },
  "nba-401909983": {
@@ -1365,7 +1332,7 @@
    "short": "Nets",
    "teamId": "17"
   },
-  "confidence": 59,
+  "confidence": 55,
   "espnId": "401909983",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -1377,8 +1344,6 @@
    "abbr": "MEM",
    "form": "WLWLL",
    "injuries": [
-    "Quinten Post (C) – Out, Concussion",
-    "Zach Edey (C) – Out, Ankle",
     "Scotty Pippen Jr. (G) – Out, Back",
     "Richie Saunders (G) – Out, Knee"
    ],
@@ -1391,20 +1356,6 @@
   "injuriesRaw": {
    "away": [],
    "home": [
-    {
-     "detail": "Concussion",
-     "player": "Quinten Post",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Ankle",
-     "player": "Zach Edey",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    },
     {
      "detail": "Back",
      "player": "Scotty Pippen Jr.",
@@ -1423,42 +1374,43 @@
   },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909983",
-  "market": "Moneyline",
+  "market": null,
   "news": [
-   "The price of a pro hoop dream starts with a $200 G League tryout",
-   "Oklahoma City visits Sacramento following Gilgeous-Alexander's 40-point game",
-   "Minnesota takes on Chicago, aims for 5th straight home win"
+   "Fantasy basketball adds and NBA bets: Fire up Fears, Bey on Saturday",
+   "Josh Hart searching for answers after zero-point outing in Knicks loss",
+   "The price of a pro hoop dream starts with a $200 G League tryout"
   ],
   "odds": {
-   "mlAway": "+140",
+   "mlAway": "+121",
    "mlAwayOpen": "+163",
-   "mlHome": "-167",
+   "mlHome": "-143",
    "mlHomeOpen": "-195",
-   "provider": "Draft Kings",
-   "spread": "MEM -3.5",
+   "provider": "DraftKings",
+   "spread": "MEM -2.5",
    "spreadOpen": "MEM -5.5",
    "total": "228.5",
    "totalOpen": "225.5"
   },
-  "pick": "MEM ML (-167)",
-  "reason": "MEM are about 60% no-vig at -167; ESPN's model has 66%. For: ESPN model 66% vs market 60%.",
-  "risks": [],
-  "side": "home",
+  "pick": "Pass",
+  "reason": "MEM about 57% no-vig at -143; no edge worth a pick.",
+  "risks": [
+   "line drifted away (-195 → -143)"
+  ],
+  "side": null,
   "slug": "nba",
   "sport": "nba",
-  "stars": 2,
+  "stars": 1,
   "start": "2026-11-15T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "FedExForum, Memphis"
  },
  "nba-401909984": {
-  "_lastPick": "MIN ML (-930)",
+  "_lastPick": "MIN ML (-1020)",
   "away": {
    "abbr": "CHI",
    "form": "WLLLL",
    "injuries": [
-    "Dailyn Swain (G) – Out, Back",
     "Tobe Awaka (F) – Out, Back",
     "Caleb Wilson (F) – Out, Hand"
    ],
@@ -1489,13 +1441,6 @@
   "id": "nba-401909984",
   "injuriesRaw": {
    "away": [
-    {
-     "detail": "Back",
-     "player": "Dailyn Swain",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
     {
      "detail": "Back",
      "player": "Tobe Awaka",
@@ -1532,23 +1477,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909984",
   "market": "Moneyline",
   "news": [
-   "The price of a pro hoop dream starts with a $200 G League tryout",
-   "Oklahoma City visits Sacramento following Gilgeous-Alexander's 40-point game",
-   "Minnesota takes on Chicago, aims for 5th straight home win"
+   "Fantasy basketball adds and NBA bets: Fire up Fears, Bey on Saturday",
+   "Josh Hart searching for answers after zero-point outing in Knicks loss",
+   "The price of a pro hoop dream starts with a $200 G League tryout"
   ],
   "odds": {
-   "mlAway": "+620",
+   "mlAway": "+660",
    "mlAwayOpen": "+580",
-   "mlHome": "-930",
+   "mlHome": "-1020",
    "mlHomeOpen": "-840",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "MIN -15.5",
    "spreadOpen": "MIN -14.5",
    "total": "235.5",
    "totalOpen": "236.5"
   },
-  "pick": "MIN ML (-930)",
-  "reason": "MIN are about 87% no-vig at -930; ESPN's model has 89%. For: form WWWWW vs WLLLL. Capped at 2★: NBA capped by lessons.",
+  "pick": "MIN ML (-1020)",
+  "reason": "MIN are about 87% no-vig at -1020; ESPN's model has 89%. For: form WWWWW vs WLLLL. Capped at 2★: NBA capped by lessons.",
   "risks": [],
   "side": "home",
   "slug": "nba",
@@ -1556,7 +1501,7 @@
   "stars": 2,
   "start": "2026-11-15T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Target Center, Minneapolis"
  },
  "nba-401909985": {
@@ -1591,7 +1536,7 @@
   "stars": 1,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Xfinity Mobile Arena, Philadelphia"
  },
  "nba-401909986": {
@@ -1626,7 +1571,7 @@
   "stars": 1,
   "start": "2026-11-15T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Mortgage Matchup Center, Phoenix"
  },
  "nba-401909987": {
@@ -1661,7 +1606,7 @@
   "stars": 1,
   "start": "2026-11-15T21:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Intuit Dome, Inglewood"
  },
  "nba-401909988": {
@@ -1696,7 +1641,7 @@
   "stars": 1,
   "start": "2026-11-15T22:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Delta Center, Salt Lake City"
  },
  "nba-401909989": {
@@ -1731,7 +1676,7 @@
   "stars": 1,
   "start": "2026-11-15T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "TD Garden, Boston"
  },
  "nba-401909990": {
@@ -1766,7 +1711,7 @@
   "stars": 1,
   "start": "2026-11-15T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Scotiabank Arena, Toronto"
  },
  "nba-401909991": {
@@ -1801,7 +1746,7 @@
   "stars": 1,
   "start": "2026-11-16T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Capital One Arena, Washington"
  },
  "nba-401909992": {
@@ -1836,7 +1781,7 @@
   "stars": 1,
   "start": "2026-11-16T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Fiserv Forum, Milwaukee"
  },
  "nba-401909993": {
@@ -1871,7 +1816,7 @@
   "stars": 1,
   "start": "2026-11-16T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Golden 1 Center, Sacramento"
  },
  "nba-401909994": {
@@ -1906,7 +1851,7 @@
   "stars": 1,
   "start": "2026-11-17T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "TD Garden, Boston"
  },
  "nba-401909995": {
@@ -1941,7 +1886,7 @@
   "stars": 1,
   "start": "2026-11-17T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Rocket Arena, Cleveland"
  },
  "nba-401909996": {
@@ -1976,7 +1921,7 @@
   "stars": 1,
   "start": "2026-11-17T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Capital One Arena, Washington"
  },
  "nba-401909997": {
@@ -2011,7 +1956,7 @@
   "stars": 1,
   "start": "2026-11-17T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Barclays Center, Brooklyn"
  },
  "nba-401909998": {
@@ -2046,7 +1991,7 @@
   "stars": 1,
   "start": "2026-11-17T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Kaseya Center, Miami"
  },
  "nba-401909999": {
@@ -2081,7 +2026,7 @@
   "stars": 1,
   "start": "2026-11-17T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Target Center, Minneapolis"
  },
  "nba-401910000": {
@@ -2116,7 +2061,7 @@
   "stars": 1,
   "start": "2026-11-17T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Smoothie King Center, New Orleans"
  },
  "nba-401910001": {
@@ -2151,7 +2096,7 @@
   "stars": 1,
   "start": "2026-11-17T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Ball Arena, Denver"
  },
  "ncaaf-401856857": {
@@ -2185,19 +2130,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856857",
   "market": "Moneyline",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
    "mlAway": "+145",
    "mlAwayOpen": "+120",
    "mlHome": "-175",
    "mlHomeOpen": "-142",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UCF -3.5",
    "spreadOpen": "UCF -2.5",
-   "total": "47.5",
+   "total": "46.5",
    "totalOpen": "52.5"
   },
   "pick": "UCF ML (-175)",
@@ -2209,11 +2154,11 @@
   "stars": 2,
   "start": "2026-11-14T22:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Acrisure Bounce House, Orlando"
  },
  "ncaaf-401856858": {
-  "_lastPick": "BYU ML (-325)",
+  "_lastPick": "BYU ML (-310)",
   "away": {
    "abbr": "BAY",
    "form": "WWLLW",
@@ -2243,33 +2188,31 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856858",
   "market": "Moneyline",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
-   "mlAway": "+260",
+   "mlAway": "+250",
    "mlAwayOpen": "+245",
-   "mlHome": "-325",
+   "mlHome": "-310",
    "mlHomeOpen": "-305",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "BYU -8.5",
    "spreadOpen": "BYU -7.5",
    "total": "50.5",
    "totalOpen": "47.5"
   },
-  "pick": "BYU ML (-325)",
-  "reason": "BYU are about 73% no-vig at -325; ESPN's model has 68%.",
-  "risks": [
-   "ESPN model only 68% vs market 73%"
-  ],
+  "pick": "BYU ML (-310)",
+  "reason": "BYU are about 73% no-vig at -310; ESPN's model has 68%.",
+  "risks": [],
   "side": "home",
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 2,
   "start": "2026-11-15T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "LaVell Edwards Stadium, Provo"
  },
  "ncaaf-401856859": {
@@ -2325,7 +2268,7 @@
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-14T17:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T14:18:43Z",
   "venue": "Jack Trice Stadium, Ames"
  },
@@ -2396,7 +2339,7 @@
    "short": "Kansas",
    "teamId": "2305"
   },
-  "confidence": 52,
+  "confidence": 50,
   "espnId": "401856861",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -2416,30 +2359,30 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856861",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
-   "mlAway": "+120",
+   "mlAway": "+105",
    "mlAwayOpen": "+114",
-   "mlHome": "-142",
+   "mlHome": "-125",
    "mlHomeOpen": "-135",
-   "provider": "Draft Kings",
-   "spread": "WVU -2.5",
+   "provider": "DraftKings",
+   "spread": "WVU -1.5",
    "spreadOpen": "WVU -2.5",
    "total": "68.5",
    "totalOpen": "64.5"
   },
   "pick": "Pass",
-  "reason": "WVU about 56% no-vig at -142; no edge worth a pick.",
+  "reason": "WVU about 53% no-vig at -125; no edge worth a pick.",
   "risks": [],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Milan Puskar Stadium, Morgantown"
  },
  "ncaaf-401856862": {
@@ -2498,7 +2441,7 @@
   "sport": "ncaaf",
   "stars": 2,
   "start": "2026-11-14T19:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T14:18:43Z",
   "venue": "Amon G. Carter Stadium, Fort Worth"
  },
@@ -2531,16 +2474,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856863",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
    "mlAway": "+142",
    "mlAwayOpen": "-625",
    "mlHome": "-170",
    "mlHomeOpen": "+455",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "OKST -3.5",
    "spreadOpen": "TTU -15.5",
    "total": "73.5",
@@ -2556,7 +2499,7 @@
   "stars": 1,
   "start": "2026-11-15T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Boone Pickens Stadium, Stillwater"
  },
  "ncaaf-401856864": {
@@ -2568,7 +2511,7 @@
    "short": "Utah",
    "teamId": "254"
   },
-  "confidence": 52,
+  "confidence": 51,
   "espnId": "401856864",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -2588,30 +2531,30 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856864",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
-   "mlAway": "-118",
+   "mlAway": "-112",
    "mlAwayOpen": "-118",
-   "mlHome": "-102",
+   "mlHome": "-108",
    "mlHomeOpen": "-102",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UTAH -1.5",
    "spreadOpen": "UTAH -1.5",
    "total": "55.5",
    "totalOpen": "51.5"
   },
   "pick": "Pass",
-  "reason": "UTAH about 52% no-vig at -118; no edge worth a pick.",
+  "reason": "UTAH about 50% no-vig at -112; no edge worth a pick.",
   "risks": [],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-15T03:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Casino Del Sol Stadium, Tucson"
  },
  "ncaaf-401856882": {
@@ -2645,16 +2588,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856882",
   "market": "Moneyline",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
    "mlAway": "-325",
    "mlAwayOpen": "-340",
    "mlHome": "+260",
    "mlHomeOpen": "+270",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "SC -7.5",
    "spreadOpen": "SC -8.5",
    "total": "51.5",
@@ -2669,11 +2612,11 @@
   "stars": 3,
   "start": "2026-11-15T00:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Donald W. Reynolds Razorback Stadium, Fayetteville"
  },
  "ncaaf-401856883": {
-  "_lastPick": "UGA ML (-750)",
+  "_lastPick": "UGA ML (-800)",
   "away": {
    "abbr": "MIZ",
    "form": "LWLWW",
@@ -2682,7 +2625,7 @@
    "short": "Missouri",
    "teamId": "142"
   },
-  "confidence": 83,
+  "confidence": 84,
   "espnId": "401856883",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -2703,23 +2646,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856883",
   "market": "Moneyline",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
-   "mlAway": "+525",
+   "mlAway": "+550",
    "mlAwayOpen": "+360",
-   "mlHome": "-750",
+   "mlHome": "-800",
    "mlHomeOpen": "-470",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UGA -16.5",
    "spreadOpen": "UGA -12.5",
-   "total": "47.5",
+   "total": "48.5",
    "totalOpen": "46.5"
   },
-  "pick": "UGA ML (-750)",
-  "reason": "UGA are about 85% no-vig at -750; ESPN's model has 89%. For: line moved toward UGA (-470 → -750).",
+  "pick": "UGA ML (-800)",
+  "reason": "UGA are about 85% no-vig at -800; ESPN's model has 89%. For: line moved toward UGA (-470 → -800).",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -2727,7 +2670,7 @@
   "stars": 3,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Sanford Stadium, Athens"
  },
  "ncaaf-401856884": {
@@ -2759,30 +2702,30 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856884",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
-   "mlAway": "+124",
+   "mlAway": "+130",
    "mlAwayOpen": "+100",
-   "mlHome": "-148",
+   "mlHome": "-155",
    "mlHomeOpen": "-120",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UK -3",
    "spreadOpen": "UK -1.5",
    "total": "52.5",
    "totalOpen": "55.5"
   },
   "pick": "Pass",
-  "reason": "UK about 57% no-vig at -148; no edge worth a pick.",
+  "reason": "UK about 58% no-vig at -155; no edge worth a pick.",
   "risks": [],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-14T23:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Kroger Field, Lexington"
  },
  "ncaaf-401856885": {
@@ -2814,16 +2757,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856885",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
    "mlAway": "+170",
    "mlAwayOpen": "-155",
    "mlHome": "-205",
    "mlHomeOpen": "+130",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "LSU -4.5",
    "spreadOpen": "TEX -3",
    "total": "46.5",
@@ -2839,7 +2782,7 @@
   "stars": 1,
   "start": "2026-11-15T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Tiger Stadium (LA), Baton Rouge"
  },
  "ncaaf-401856886": {
@@ -2871,16 +2814,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856886",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
    "mlAway": "-142",
    "mlAwayOpen": "-148",
    "mlHome": "+120",
    "mlHomeOpen": "+124",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "AUB -2.5",
    "spreadOpen": "AUB -3.5",
    "total": "51.5",
@@ -2896,7 +2839,7 @@
   "stars": 1,
   "start": "2026-11-14T21:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Davis Wade Stadium, Starkville"
  },
  "ncaaf-401856887": {
@@ -2928,19 +2871,19 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856887",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
    "mlAway": "+124",
    "mlAwayOpen": "+154",
    "mlHome": "-148",
    "mlHomeOpen": "-185",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "OU -2.5",
    "spreadOpen": "OU -4",
-   "total": "49.5",
+   "total": "48.5",
    "totalOpen": "53.5"
   },
   "pick": "Pass",
@@ -2954,7 +2897,7 @@
   "stars": 1,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Memorial Stadium (Norman, OK), Norman"
  },
  "ncaaf-401856888": {
@@ -2986,30 +2929,30 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856888",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
-   "mlAway": "-112",
+   "mlAway": "-115",
    "mlAwayOpen": "+280",
-   "mlHome": "-108",
+   "mlHome": "-105",
    "mlHomeOpen": "-355",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "TENN -1.5",
    "spreadOpen": "TA&M -9.5",
    "total": "43.5",
    "totalOpen": "55.5"
   },
   "pick": "Pass",
-  "reason": "TENN about 50% no-vig at -112; no edge worth a pick.",
+  "reason": "TENN about 51% no-vig at -115; no edge worth a pick.",
   "risks": [],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-14T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Kyle Field, College Station"
  },
  "ncaaf-401856889": {
@@ -3068,7 +3011,7 @@
   "sport": "ncaaf",
   "stars": 3,
   "start": "2026-11-14T17:45Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T14:18:43Z",
   "venue": "FirstBank Stadium, Nashville"
  },
@@ -3161,16 +3104,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858294",
   "market": "Moneyline",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
    "mlAway": "+1800",
    "mlAwayOpen": "+3000",
    "mlHome": "-5000",
    "mlHomeOpen": "-10000",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "ND -29.5",
    "spreadOpen": "ND -31.5",
    "total": "51.5",
@@ -3185,7 +3128,7 @@
   "stars": 2,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Notre Dame Stadium, Notre Dame"
  },
  "ncaaf-401858295": {
@@ -3219,16 +3162,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858295",
   "market": "Moneyline",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
    "mlAway": "+360",
    "mlAwayOpen": "+380",
    "mlHome": "-470",
    "mlHomeOpen": "-500",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UVA -11.5",
    "spreadOpen": "UVA -12.5",
    "total": "46.5",
@@ -3243,7 +3186,7 @@
   "stars": 3,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Scott Stadium, Charlottesville"
  },
  "ncaaf-401858296": {
@@ -3302,7 +3245,7 @@
   "sport": "ncaaf",
   "stars": 3,
   "start": "2026-11-14T17:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T14:18:43Z",
   "venue": "Hard Rock Stadium, Miami Gardens"
  },
@@ -3360,12 +3303,12 @@
   "sport": "ncaaf",
   "stars": 2,
   "start": "2026-11-14T17:30Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T14:18:43Z",
   "venue": "Memorial Stadium (Clemson, SC), Clemson"
  },
  "ncaaf-401858298": {
-  "_lastPick": "LOU ML (-180)",
+  "_lastPick": "LOU ML (-175)",
   "away": {
    "abbr": "LOU",
    "form": "WWWWL",
@@ -3395,23 +3338,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858298",
   "market": "Moneyline",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
-   "mlAway": "-180",
+   "mlAway": "-175",
    "mlAwayOpen": "-135",
-   "mlHome": "+150",
+   "mlHome": "+145",
    "mlHomeOpen": "+114",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "LOU -3.5",
    "spreadOpen": "LOU -2.5",
    "total": "57.5",
    "totalOpen": "59.5"
   },
-  "pick": "LOU ML (-180)",
-  "reason": "LOU are about 62% no-vig at -180; ESPN's model has 60%. For: line moved toward LOU (-135 → -180).",
+  "pick": "LOU ML (-175)",
+  "reason": "LOU are about 61% no-vig at -175; ESPN's model has 60%. For: line moved toward LOU (-135 → -175).",
   "risks": [],
   "side": "away",
   "slug": "college-football",
@@ -3419,11 +3362,11 @@
   "stars": 2,
   "start": "2026-11-15T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Kenan Stadium, Chapel Hill"
  },
  "ncaaf-401858299": {
-  "_lastPick": "VT ML (-750)",
+  "_lastPick": "VT ML (-850)",
   "away": {
    "abbr": "STAN",
    "form": "LWWLL",
@@ -3432,7 +3375,7 @@
    "short": "Stanford",
    "teamId": "24"
   },
-  "confidence": 84,
+  "confidence": 85,
   "espnId": "401858299",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -3453,31 +3396,31 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858299",
   "market": "Moneyline",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
-   "mlAway": "+525",
+   "mlAway": "+575",
    "mlAwayOpen": "+600",
-   "mlHome": "-750",
+   "mlHome": "-850",
    "mlHomeOpen": "-900",
-   "provider": "Draft Kings",
-   "spread": "VT -15.5",
+   "provider": "DraftKings",
+   "spread": "VT -17.5",
    "spreadOpen": "VT -16.5",
    "total": "57.5",
    "totalOpen": "59.5"
   },
-  "pick": "VT ML (-750)",
-  "reason": "VT are about 85% no-vig at -750; ESPN's model has 90%. For: ESPN model 90% vs market 85%.",
+  "pick": "VT ML (-850)",
+  "reason": "VT are about 86% no-vig at -850; ESPN's model has 90%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
   "sport": "ncaaf",
-  "stars": 3,
+  "stars": 2,
   "start": "2026-11-15T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Lane Stadium, Blacksburg"
  },
  "ncaaf-401858300": {
@@ -3531,7 +3474,7 @@
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-14T17:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T14:18:43Z",
   "venue": "Carter-Finley Stadium, Raleigh"
  },
@@ -3588,7 +3531,7 @@
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-14T17:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T14:18:43Z",
   "venue": "Gerald J. Ford Stadium, Dallas"
  },
@@ -3623,19 +3566,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858518",
   "market": "Moneyline",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
    "mlAway": "+270",
    "mlAwayOpen": "+320",
    "mlHome": "-340",
    "mlHomeOpen": "-410",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "IU -9.5",
    "spreadOpen": "IU -10.5",
-   "total": "50.5",
+   "total": "51.5",
    "totalOpen": "58.5"
   },
   "pick": "IU ML (-340)",
@@ -3647,7 +3590,7 @@
   "stars": 2,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Memorial Stadium (Bloomington, IN), Bloomington"
  },
  "ncaaf-401858519": {
@@ -3681,16 +3624,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858519",
   "market": "Moneyline",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
    "mlAway": "+650",
    "mlAwayOpen": "+455",
    "mlHome": "-1000",
    "mlHomeOpen": "-625",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "IOWA -17.5",
    "spreadOpen": "IOWA -16.5",
    "total": "47.5",
@@ -3705,7 +3648,7 @@
   "stars": 3,
   "start": "2026-11-15T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Kinnick Stadium, Iowa City"
  },
  "ncaaf-401858520": {
@@ -3762,7 +3705,7 @@
   "sport": "ncaaf",
   "stars": 2,
   "start": "2026-11-14T17:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T14:18:43Z",
   "venue": "SECU Stadium, College Park"
  },
@@ -3795,16 +3738,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858521",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
    "mlAway": "-135",
    "mlAwayOpen": "-155",
    "mlHome": "+114",
    "mlHomeOpen": "+130",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "WASH -2.5",
    "spreadOpen": "WASH -3.5",
    "total": "44.5",
@@ -3818,7 +3761,7 @@
   "stars": 1,
   "start": "2026-11-14T22:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Spartan Stadium, East Lansing"
  },
  "ncaaf-401858522": {
@@ -3875,12 +3818,12 @@
   "sport": "ncaaf",
   "stars": 3,
   "start": "2026-11-14T17:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T14:18:43Z",
   "venue": "Ohio Stadium, Columbus"
  },
  "ncaaf-401858523": {
-  "_lastPick": "ORE ML (-425)",
+  "_lastPick": "ORE ML (-395)",
   "away": {
    "abbr": "MICH",
    "form": "LWLWL",
@@ -3889,7 +3832,7 @@
    "short": "Michigan",
    "teamId": "130"
   },
-  "confidence": 76,
+  "confidence": 75,
   "espnId": "401858523",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -3910,25 +3853,25 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858523",
   "market": "Moneyline",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
-   "mlAway": "+330",
+   "mlAway": "+310",
    "mlAwayOpen": "+425",
-   "mlHome": "-425",
+   "mlHome": "-395",
    "mlHomeOpen": "-575",
-   "provider": "Draft Kings",
-   "spread": "ORE -10.5",
+   "provider": "DraftKings",
+   "spread": "ORE -10",
    "spreadOpen": "ORE -13.5",
-   "total": "38.5",
+   "total": "39.5",
    "totalOpen": "53.5"
   },
-  "pick": "ORE ML (-425)",
-  "reason": "ORE are about 78% no-vig at -425; ESPN's model has 86%. For: ESPN model 86% vs market 78%.",
+  "pick": "ORE ML (-395)",
+  "reason": "ORE are about 77% no-vig at -395; ESPN's model has 86%. For: ESPN model 86% vs market 77%.",
   "risks": [
-   "line drifted away (-575 → -425)"
+   "line drifted away (-575 → -395)"
   ],
   "side": "home",
   "slug": "college-football",
@@ -3936,11 +3879,11 @@
   "stars": 3,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Autzen Stadium, Eugene"
  },
  "ncaaf-401858524": {
-  "_lastPick": "PSU ML (-455)",
+  "_lastPick": "PSU ML (-500)",
   "away": {
    "abbr": "MINN",
    "form": "LLWLW",
@@ -3970,23 +3913,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858524",
   "market": "Moneyline",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
-   "mlAway": "+350",
+   "mlAway": "+380",
    "mlAwayOpen": "+220",
-   "mlHome": "-455",
+   "mlHome": "-500",
    "mlHomeOpen": "-270",
-   "provider": "Draft Kings",
-   "spread": "PSU -11.5",
+   "provider": "DraftKings",
+   "spread": "PSU -12.5",
    "spreadOpen": "PSU -7",
    "total": "42.5",
    "totalOpen": "43.5"
   },
-  "pick": "PSU ML (-455)",
-  "reason": "PSU are about 79% no-vig at -455; ESPN's model has 84%. For: line moved toward PSU (-270 → -455).",
+  "pick": "PSU ML (-500)",
+  "reason": "PSU are about 80% no-vig at -500; ESPN's model has 84%. For: line moved toward PSU (-270 → -500).",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -3994,7 +3937,7 @@
   "stars": 3,
   "start": "2026-11-15T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Beaver Stadium, University Park"
  },
  "ncaaf-401858525": {
@@ -4051,7 +3994,7 @@
   "sport": "ncaaf",
   "stars": 2,
   "start": "2026-11-14T17:30Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T14:18:43Z",
   "venue": "SHI Stadium, Piscataway"
  },
@@ -4114,7 +4057,7 @@
   "venue": "Rose Bowl, Pasadena"
  },
  "ncaaf-401860914": {
-  "_lastPick": "BOIS ML (-675)",
+  "_lastPick": "BOIS ML (-700)",
   "away": {
    "abbr": "ORST",
    "form": "LLWWW",
@@ -4144,23 +4087,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401860914",
   "market": "Moneyline",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
-   "mlAway": "+490",
+   "mlAway": "+500",
    "mlAwayOpen": "+150",
-   "mlHome": "-675",
+   "mlHome": "-700",
    "mlHomeOpen": "-180",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "BOIS -16.5",
    "spreadOpen": "BOIS -4.5",
-   "total": "63.5",
+   "total": "64.5",
    "totalOpen": "62.5"
   },
-  "pick": "BOIS ML (-675)",
-  "reason": "BOIS are about 84% no-vig at -675; ESPN's model has 82%. For: line moved toward BOIS (-180 → -675).",
+  "pick": "BOIS ML (-700)",
+  "reason": "BOIS are about 84% no-vig at -700; ESPN's model has 82%. For: line moved toward BOIS (-180 → -700).",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -4168,7 +4111,7 @@
   "stars": 3,
   "start": "2026-11-14T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Albertsons Stadium, Boise"
  },
  "ncaaf-401860915": {
@@ -4200,17 +4143,17 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401860915",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
    "mlAway": "-148",
    "mlAwayOpen": "-130",
    "mlHome": "+124",
    "mlHomeOpen": "+110",
-   "provider": "Draft Kings",
-   "spread": "USU -2.5",
+   "provider": "DraftKings",
+   "spread": "USU -3",
    "spreadOpen": "USU -2.5",
    "total": "43.5",
    "totalOpen": "44.5"
@@ -4223,7 +4166,7 @@
   "stars": 1,
   "start": "2026-11-15T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Snapdragon Stadium, San Diego"
  },
  "ncaaf-401860916": {
@@ -4257,19 +4200,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401860916",
   "market": "Moneyline",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
    "mlAway": "+295",
    "mlAwayOpen": "+240",
    "mlHome": "-375",
    "mlHomeOpen": "-298",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "TXST -10",
    "spreadOpen": "TXST -7",
-   "total": "59.5",
+   "total": "60.5",
    "totalOpen": "58.5"
   },
   "pick": "TXST ML (-375)",
@@ -4283,11 +4226,11 @@
   "stars": 2,
   "start": "2026-11-14T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "UFCU Stadium, San Marcos"
  },
  "ncaaf-401860917": {
-  "_lastPick": "WSU ML (-340)",
+  "_lastPick": "WSU ML (-325)",
   "away": {
    "abbr": "CSU",
    "form": "LLWLL",
@@ -4296,7 +4239,7 @@
    "short": "Colorado St",
    "teamId": "36"
   },
-  "confidence": 70,
+  "confidence": 69,
   "espnId": "401860917",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -4317,23 +4260,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401860917",
   "market": "Moneyline",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
-   "mlAway": "+270",
+   "mlAway": "+260",
    "mlAwayOpen": "+170",
-   "mlHome": "-340",
+   "mlHome": "-325",
    "mlHomeOpen": "-205",
-   "provider": "Draft Kings",
-   "spread": "WSU -9.5",
+   "provider": "DraftKings",
+   "spread": "WSU -8.5",
    "spreadOpen": "WSU -6.5",
-   "total": "65.5",
+   "total": "64.5",
    "totalOpen": "62.5"
   },
-  "pick": "WSU ML (-340)",
-  "reason": "WSU are about 74% no-vig at -340; ESPN's model has 70%. For: line moved toward WSU (-205 → -340).",
+  "pick": "WSU ML (-325)",
+  "reason": "WSU are about 73% no-vig at -325; ESPN's model has 70%. For: line moved toward WSU (-205 → -325).",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -4341,7 +4284,7 @@
   "stars": 2,
   "start": "2026-11-15T03:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Martin Stadium, Pullman"
  },
  "ncaaf-401861967": {
@@ -4398,7 +4341,7 @@
   "sport": "ncaaf",
   "stars": 4,
   "start": "2026-11-14T17:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T14:18:43Z",
   "venue": "Pratt & Whitney Stadium, East Hartford"
  },
@@ -4456,7 +4399,7 @@
   "sport": "ncaaf",
   "stars": 3,
   "start": "2026-11-14T18:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T14:18:43Z",
   "venue": "Jerry Richardson Stadium, Charlotte"
  },
@@ -4491,16 +4434,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862826",
   "market": "Moneyline",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
    "mlAway": "+195",
    "mlAwayOpen": "+170",
    "mlHome": "-238",
    "mlHomeOpen": "-205",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "TLSA -6.5",
    "spreadOpen": "TLSA -5.5",
    "total": "73.5",
@@ -4515,7 +4458,7 @@
   "stars": 3,
   "start": "2026-11-15T00:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "H. A. Chapman Stadium, Tulsa"
  },
  "ncaaf-401862827": {
@@ -4547,16 +4490,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401862827",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
    "mlAway": "-130",
    "mlAwayOpen": "-112",
    "mlHome": "+110",
    "mlHomeOpen": "-108",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UNT -2.5",
    "spreadOpen": "UNT -1.5",
    "total": "76.5",
@@ -4570,7 +4513,7 @@
   "stars": 1,
   "start": "2026-11-15T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Alamodome, San Antonio"
  },
  "ncaaf-401862828": {
@@ -4582,7 +4525,7 @@
    "short": "Tulane",
    "teamId": "2655"
   },
-  "confidence": 49,
+  "confidence": 50,
   "espnId": "401862828",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -4602,25 +4545,25 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401862828",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
-   "mlAway": "+140",
+   "mlAway": "+150",
    "mlAwayOpen": "-112",
-   "mlHome": "-166",
+   "mlHome": "-180",
    "mlHomeOpen": "-108",
-   "provider": "Draft Kings",
-   "spread": "RICE -3",
+   "provider": "DraftKings",
+   "spread": "RICE -3.5",
    "spreadOpen": "TULN -1.5",
    "total": "48.5",
    "totalOpen": "46.5"
   },
   "pick": "Pass",
-  "reason": "RICE about 60% no-vig at -166; no edge worth a pick.",
+  "reason": "RICE about 62% no-vig at -180; no edge worth a pick.",
   "risks": [
-   "ESPN model only 42% vs market 60%",
+   "ESPN model only 42% vs market 62%",
    "opponent in better form (LWLWL)"
   ],
   "slug": "college-football",
@@ -4628,7 +4571,7 @@
   "stars": 1,
   "start": "2026-11-14T21:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "First Community Stadium, Houston"
  },
  "ncaaf-401862829": {
@@ -4684,12 +4627,12 @@
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-14T18:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T14:18:43Z",
   "venue": "Lincoln Financial Field, Philadelphia"
  },
  "ncaaf-401864536": {
-  "_lastPick": "NEV ML (-230)",
+  "_lastPick": "NEV ML (-238)",
   "away": {
    "abbr": "NEV",
    "form": "LLWLW",
@@ -4719,25 +4662,25 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864536",
   "market": "Moneyline",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
-   "mlAway": "-230",
+   "mlAway": "-238",
    "mlAwayOpen": "-425",
-   "mlHome": "+190",
+   "mlHome": "+195",
    "mlHomeOpen": "+330",
-   "provider": "Draft Kings",
-   "spread": "NEV -5.5",
+   "provider": "DraftKings",
+   "spread": "NEV -6",
    "spreadOpen": "NEV -10.5",
    "total": "47.5",
    "totalOpen": "46.5"
   },
-  "pick": "NEV ML (-230)",
-  "reason": "NEV are about 67% no-vig at -230; ESPN's model has 74%. For: ESPN model 74% vs market 67%.",
+  "pick": "NEV ML (-238)",
+  "reason": "NEV are about 68% no-vig at -238; ESPN's model has 74%. For: ESPN model 74% vs market 68%.",
   "risks": [
-   "line drifted away (-425 → -230)"
+   "line drifted away (-425 → -238)"
   ],
   "side": "away",
   "slug": "college-football",
@@ -4745,7 +4688,7 @@
   "stars": 3,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Huskie Stadium, Dekalb"
  },
  "ncaaf-401864537": {
@@ -4779,19 +4722,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864537",
   "market": "Moneyline",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
    "mlAway": "-270",
    "mlAwayOpen": "-395",
    "mlHome": "+220",
    "mlHomeOpen": "+310",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "NDSU -7",
    "spreadOpen": "NDSU -9.5",
-   "total": "38.5",
+   "total": "39.5",
    "totalOpen": "42.5"
   },
   "pick": "NDSU ML (-270)",
@@ -4805,7 +4748,7 @@
   "stars": 2,
   "start": "2026-11-15T04:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Clarence T.C. Ching Athletics Complex, Honolulu"
  },
  "ncaaf-401864538": {
@@ -4839,16 +4782,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864538",
   "market": "Moneyline",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
    "mlAway": "+425",
    "mlAwayOpen": "+310",
    "mlHome": "-575",
    "mlHomeOpen": "-395",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "AF -14",
    "spreadOpen": "AFA -10.5",
    "total": "48.5",
@@ -4863,11 +4806,11 @@
   "stars": 3,
   "start": "2026-11-15T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Falcon Stadium, USAF Academy"
  },
  "ncaaf-401864539": {
-  "_lastPick": "UNM ML (-800)",
+  "_lastPick": "UNM ML (-950)",
   "away": {
    "abbr": "UNLV",
    "form": "LWLWW",
@@ -4876,7 +4819,7 @@
    "short": "UNLV",
    "teamId": "2439"
   },
-  "confidence": 83,
+  "confidence": 84,
   "espnId": "401864539",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -4897,23 +4840,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864539",
   "market": "Moneyline",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
-   "mlAway": "+550",
+   "mlAway": "+625",
    "mlAwayOpen": "+470",
-   "mlHome": "-800",
+   "mlHome": "-950",
    "mlHomeOpen": "-650",
-   "provider": "Draft Kings",
-   "spread": "UNM -16.5",
+   "provider": "DraftKings",
+   "spread": "UNM -17.5",
    "spreadOpen": "UNM -13.5",
    "total": "46.5",
    "totalOpen": "47.5"
   },
-  "pick": "UNM ML (-800)",
-  "reason": "UNM are about 85% no-vig at -800; ESPN's model has 87%.",
+  "pick": "UNM ML (-950)",
+  "reason": "UNM are about 87% no-vig at -950; ESPN's model has 87%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -4921,7 +4864,7 @@
   "stars": 2,
   "start": "2026-11-15T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "University Stadium (NM), Albuquerque"
  },
  "ncaaf-401864540": {
@@ -4955,16 +4898,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864540",
   "market": "Moneyline",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
    "mlAway": "-285",
    "mlAwayOpen": "-360",
    "mlHome": "+230",
    "mlHomeOpen": "+285",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "WYO -7",
    "spreadOpen": "WYO -10",
    "total": "40.5",
@@ -4981,7 +4924,7 @@
   "stars": 4,
   "start": "2026-11-15T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Sun Bowl, El Paso"
  },
  "ncaaf-401869928": {
@@ -5013,16 +4956,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401869928",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
    "mlAway": "-120",
    "mlAwayOpen": "-135",
    "mlHome": "+100",
    "mlHomeOpen": "+114",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "APP -1.5",
    "spreadOpen": "APP -2.5",
    "total": "54.5",
@@ -5036,7 +4979,7 @@
   "stars": 1,
   "start": "2026-11-14T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Joan C. Edwards Stadium, Huntington"
  },
  "ncaaf-401869937": {
@@ -5090,7 +5033,7 @@
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-14T18:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T14:18:43Z",
   "venue": "Brooks Stadium (SC), Conway"
  },
@@ -5125,19 +5068,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869952",
   "market": "Moneyline",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
    "mlAway": "-225",
    "mlAwayOpen": "-205",
    "mlHome": "+185",
    "mlHomeOpen": "+170",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "GASO -6",
    "spreadOpen": "GASO -5.5",
-   "total": "56.5",
+   "total": "55.5",
    "totalOpen": "55.5"
   },
   "pick": "GASO ML (-225)",
@@ -5151,7 +5094,7 @@
   "stars": 2,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Center Parc Stadium, Atlanta"
  },
  "ncaaf-401870752": {
@@ -5185,16 +5128,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401870752",
   "market": "Moneyline",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
    "mlAway": "-298",
    "mlAwayOpen": "-205",
    "mlHome": "+240",
    "mlHomeOpen": "+170",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "JXST -7.5",
    "spreadOpen": "JXST -6",
    "total": "54.5",
@@ -5209,7 +5152,7 @@
   "stars": 3,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Houchens Industries-L.T. Smith Stadium, Bowling Green"
  },
  "ncaaf-401870769": {
@@ -5266,7 +5209,7 @@
   "sport": "ncaaf",
   "stars": 2,
   "start": "2026-11-14T19:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T14:18:43Z",
   "venue": "Elliott T. Bowers Stadium, Huntsville"
  },
@@ -5299,16 +5242,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401870796",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
    "mlAway": "+100",
    "mlAwayOpen": "-105",
    "mlHome": "-120",
    "mlHomeOpen": "-115",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "MOST -1.5",
    "spreadOpen": "MOST -1.5",
    "total": "49.5",
@@ -5322,7 +5265,7 @@
   "stars": 1,
   "start": "2026-11-14T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Robert W. Plaster Stadium, Springfield"
  },
  "ncaaf-401871060": {
@@ -5356,16 +5299,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871060",
   "market": "Moneyline",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
    "mlAway": "+154",
    "mlAwayOpen": "+170",
    "mlHome": "-185",
    "mlHomeOpen": "-218",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "DEL -3.5",
    "spreadOpen": "DEL -6.5",
    "total": "54.5",
@@ -5380,7 +5323,7 @@
   "stars": 2,
   "start": "2026-11-14T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Delaware Stadium, Newark"
  },
  "ncaaf-401871061": {
@@ -5414,16 +5357,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871061",
   "market": "Moneyline",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
    "mlAway": "+950",
    "mlAwayOpen": "+1100",
    "mlHome": "-1650",
    "mlHomeOpen": "-2100",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "LIB -21",
    "spreadOpen": "LIB -20.5",
    "total": "53.5",
@@ -5438,7 +5381,7 @@
   "stars": 2,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Williams Stadium (VA), Lynchburg"
  },
  "ncaaf-401871099": {
@@ -5472,16 +5415,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871099",
   "market": "Moneyline",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
    "mlAway": "+625",
    "mlAwayOpen": "+850",
    "mlHome": "-950",
    "mlHomeOpen": "-1450",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "LT -17.5",
    "spreadOpen": "LT -18.5",
    "total": "56.5",
@@ -5496,7 +5439,7 @@
   "stars": 3,
   "start": "2026-11-14T22:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Joe Aillet Stadium, Ruston"
  },
  "ncaaf-401871100": {
@@ -5528,16 +5471,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401871100",
   "news": [
-   "Colorado upsets No. 14 Houston for 1st AP top-15 win since 2007",
-   "Ole Miss-Oklahoma bumped to Sunday despite Sooners AD's 'strong objection'",
-   "Colorado beats No. 14 Houston 42-32 for 1st AP top-15 win since 2007 with Sanders on hot seat"
+   "Watch best moments and top plays live from Week 11",
+   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
    "mlAway": "+130",
    "mlAwayOpen": "+102",
    "mlHome": "-155",
    "mlHomeOpen": "-122",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "USA -3",
    "spreadOpen": "USA -2.5",
    "total": "55.5",
@@ -5551,7 +5494,7 @@
   "stars": 1,
   "start": "2026-11-15T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Hancock Whitney Stadium, Mobile"
  },
  "nfl-401873053": {
@@ -5615,16 +5558,16 @@
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873053",
   "news": [
-   "NFL Week 10 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-   "Falcons insist winning still the goal despite trading Jessie Bates III",
-   "Why the Raiders named Fernando Mendoza as the starter"
+   "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
+   "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
+   "Fantasy football rankings Week 10: PPR and superflex"
   ],
   "odds": {
    "mlAway": "+124",
    "mlAwayOpen": "+105",
    "mlHome": "-148",
    "mlHomeOpen": "-125",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "DET -2.5",
    "spreadOpen": "DET -1.5",
    "total": "49.5",
@@ -5638,7 +5581,7 @@
   "stars": 1,
   "start": "2026-11-15T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "FC Bayern Munich Stadium, Munich"
  },
  "nfl-401873054": {
@@ -5667,9 +5610,7 @@
   "home": {
    "abbr": "NYJ",
    "form": "LLLLW",
-   "injuries": [
-    "Trevin Wallace (LB) – Out, Groin"
-   ],
+   "injuries": [],
    "name": "New York Jets",
    "record": "2-7",
    "short": "Jets",
@@ -5700,30 +5641,22 @@
      "status": "Injured Reserve"
     }
    ],
-   "home": [
-    {
-     "detail": "Groin",
-     "player": "Trevin Wallace",
-     "pos": "LB",
-     "stale": false,
-     "status": "Out"
-    }
-   ]
+   "home": []
   },
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873054",
   "market": "Moneyline",
   "news": [
-   "NFL Week 10 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-   "Falcons insist winning still the goal despite trading Jessie Bates III",
-   "Why the Raiders named Fernando Mendoza as the starter"
+   "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
+   "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
+   "Fantasy football rankings Week 10: PPR and superflex"
   ],
   "odds": {
    "mlAway": "-425",
    "mlAwayOpen": "-340",
    "mlHome": "+330",
    "mlHomeOpen": "+270",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "BUF -8.5",
    "spreadOpen": "BUF -7",
    "total": "50.5",
@@ -5738,7 +5671,7 @@
   "stars": 3,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "MetLife Stadium, East Rutherford"
  },
  "nfl-401873055": {
@@ -5746,9 +5679,8 @@
    "abbr": "CAR",
    "form": "LLLWW",
    "injuries": [
-    "Mike Jackson (CB) – Injured Reserve, Groin",
-    "Xavier Legette (WR) – Injured Reserve, Knee",
-    "Jonathon Brooks (RB) – Injured Reserve, Groin"
+    "Jonathon Brooks (RB) – Injured Reserve, Groin",
+    "Mike Jackson (CB) – Injured Reserve, Groin"
    ],
    "name": "Carolina Panthers",
    "record": "3-5",
@@ -5767,10 +5699,10 @@
    "abbr": "NO",
    "form": "WLWLL",
    "injuries": [
+    "Travis Etienne Jr. (RB) – Injured Reserve, Hamstring",
     "Erik McCoy (C) – Out, Biceps",
     "Christen Miller (DT) – Out, Knee",
-    "Taliese Fuaga (OT) – Out, Knee",
-    "CJ Donaldson (RB) – Out, Shoulder"
+    "Taliese Fuaga (OT) – Out, Knee"
    ],
    "name": "New Orleans Saints",
    "record": "3-5",
@@ -5782,27 +5714,27 @@
    "away": [
     {
      "detail": "Groin",
-     "player": "Mike Jackson",
-     "pos": "CB",
-     "stale": false,
-     "status": "Injured Reserve"
-    },
-    {
-     "detail": "Knee",
-     "player": "Xavier Legette",
-     "pos": "WR",
+     "player": "Jonathon Brooks",
+     "pos": "RB",
      "stale": false,
      "status": "Injured Reserve"
     },
     {
      "detail": "Groin",
-     "player": "Jonathon Brooks",
-     "pos": "RB",
+     "player": "Mike Jackson",
+     "pos": "CB",
      "stale": false,
      "status": "Injured Reserve"
     }
    ],
    "home": [
+    {
+     "detail": "Hamstring",
+     "player": "Travis Etienne Jr.",
+     "pos": "RB",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
     {
      "detail": "Biceps",
      "player": "Erik McCoy",
@@ -5823,29 +5755,22 @@
      "pos": "OT",
      "stale": false,
      "status": "Out"
-    },
-    {
-     "detail": "Shoulder",
-     "player": "CJ Donaldson",
-     "pos": "RB",
-     "stale": false,
-     "status": "Out"
     }
    ]
   },
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873055",
   "news": [
-   "NFL Week 10 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-   "Falcons insist winning still the goal despite trading Jessie Bates III",
-   "Why the Raiders named Fernando Mendoza as the starter"
+   "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
+   "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
+   "Fantasy football rankings Week 10: PPR and superflex"
   ],
   "odds": {
    "mlAway": "+114",
    "mlAwayOpen": "+105",
    "mlHome": "-135",
    "mlHomeOpen": "-125",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "NO -2.5",
    "spreadOpen": "NO -1.5",
    "total": "48.5",
@@ -5861,7 +5786,7 @@
   "stars": 1,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Caesars Superdome, New Orleans"
  },
  "nfl-401873056": {
@@ -5870,10 +5795,8 @@
    "abbr": "HOU",
    "form": "WLWWL",
    "injuries": [
-    "Keylan Rutledge (G) – Out, Neck",
-    "Danielle Hunter (DE) – Out, Hamstring",
-    "Brevin Jordan (TE) – Out, Finger",
-    "Azeez Al-Shaair (LB) – Out, Groin"
+    "David Montgomery (RB) – Out, Groin",
+    "Keylan Rutledge (G) – Out, Neck"
    ],
    "name": "Houston Texans",
    "record": "3-5",
@@ -5892,7 +5815,7 @@
    "abbr": "CLE",
    "form": "LLWWL",
    "injuries": [
-    "Michael Burton (FB) – Out, Calf",
+    "Michael Burton (FB) – Injured Reserve, Calf",
     "Ronnie Hickman (S) – Out, Concussion",
     "Kalia Davis (DT) – Injured Reserve, Quadriceps"
    ],
@@ -5905,30 +5828,16 @@
   "injuriesRaw": {
    "away": [
     {
+     "detail": "Groin",
+     "player": "David Montgomery",
+     "pos": "RB",
+     "stale": false,
+     "status": "Out"
+    },
+    {
      "detail": "Neck",
      "player": "Keylan Rutledge",
      "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Hamstring",
-     "player": "Danielle Hunter",
-     "pos": "DE",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Finger",
-     "player": "Brevin Jordan",
-     "pos": "TE",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Groin",
-     "player": "Azeez Al-Shaair",
-     "pos": "LB",
      "stale": false,
      "status": "Out"
     }
@@ -5939,7 +5848,7 @@
      "player": "Michael Burton",
      "pos": "FB",
      "stale": false,
-     "status": "Out"
+     "status": "Injured Reserve"
     },
     {
      "detail": "Concussion",
@@ -5968,16 +5877,16 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873056",
   "market": "Moneyline",
   "news": [
-   "NFL Week 10 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-   "Falcons insist winning still the goal despite trading Jessie Bates III",
-   "Why the Raiders named Fernando Mendoza as the starter"
+   "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
+   "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
+   "Fantasy football rankings Week 10: PPR and superflex"
   ],
   "odds": {
    "mlAway": "-238",
    "mlAwayOpen": "-218",
    "mlHome": "+195",
    "mlHomeOpen": "+180",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "HOU -4.5",
    "spreadOpen": "HOU -4.5",
    "total": "40.5",
@@ -5992,11 +5901,11 @@
   "stars": 3,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Huntington Bank Field, Cleveland"
  },
  "nfl-401873057": {
-  "_lastPick": "JAX ML (-700)",
+  "_lastPick": "JAX ML (-750)",
   "away": {
    "abbr": "JAX",
    "form": "WWLWW",
@@ -6004,7 +5913,8 @@
     "B.J. Green II (DE) – Injured Reserve, Forearm",
     "Jessie Bates III (S) – Out, Coach's Decision",
     "Cam'Ron Silmon-Craig (S) – Out, Coach's Decision",
-    "Eric Murray (S) – Injured Reserve, Elbow"
+    "Eric Murray (S) – Injured Reserve, Elbow",
+    "DaVon Hamilton (DT) – Injured Reserve, Knee"
    ],
    "name": "Jacksonville Jaguars",
    "record": "6-2",
@@ -6063,6 +5973,13 @@
      "pos": "S",
      "stale": false,
      "status": "Injured Reserve"
+    },
+    {
+     "detail": "Knee",
+     "player": "DaVon Hamilton",
+     "pos": "DT",
+     "stale": false,
+     "status": "Injured Reserve"
     }
    ],
    "home": [
@@ -6100,23 +6017,23 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873057",
   "market": "Moneyline",
   "news": [
-   "NFL Week 10 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-   "Falcons insist winning still the goal despite trading Jessie Bates III",
-   "Why the Raiders named Fernando Mendoza as the starter"
+   "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
+   "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
+   "Fantasy football rankings Week 10: PPR and superflex"
   ],
   "odds": {
-   "mlAway": "-700",
+   "mlAway": "-750",
    "mlAwayOpen": "-135",
-   "mlHome": "+500",
+   "mlHome": "+525",
    "mlHomeOpen": "+114",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "JAX -10.5",
    "spreadOpen": "JAX -2.5",
    "total": "46.5",
    "totalOpen": "45.5"
   },
-  "pick": "JAX ML (-700)",
-  "reason": "JAX are about 84% no-vig at -700; ESPN's model has 84%. For: line moved toward JAX (-135 → -700); form WWLWW vs LLWLL.",
+  "pick": "JAX ML (-750)",
+  "reason": "JAX are about 85% no-vig at -750; ESPN's model has 84%. For: line moved toward JAX (-135 → -750); form WWLWW vs LLWLL.",
   "risks": [],
   "side": "away",
   "slug": "nfl",
@@ -6124,15 +6041,16 @@
   "stars": 3,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Nissan Stadium, Nashville"
  },
  "nfl-401873058": {
-  "_lastPick": "KC ML (-175)",
+  "_lastPick": "KC ML (-166)",
   "away": {
    "abbr": "KC",
    "form": "WLLWW",
    "injuries": [
+    "Kenneth Walker III (RB) – Out, Groin",
     "Jaylon Moore (OT) – Out, Ankle",
     "Peter Woods (DT) – Out, Neck"
    ],
@@ -6141,7 +6059,7 @@
    "short": "Chiefs",
    "teamId": "12"
   },
-  "confidence": 63,
+  "confidence": 62,
   "espnId": "401873058",
   "espnLeague": "nfl",
   "espnSport": "football",
@@ -6164,6 +6082,13 @@
   "id": "nfl-401873058",
   "injuriesRaw": {
    "away": [
+    {
+     "detail": "Groin",
+     "player": "Kenneth Walker III",
+     "pos": "RB",
+     "stale": false,
+     "status": "Out"
+    },
     {
      "detail": "Ankle",
      "player": "Jaylon Moore",
@@ -6200,25 +6125,25 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873058",
   "market": "Moneyline",
   "news": [
-   "NFL Week 10 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-   "Falcons insist winning still the goal despite trading Jessie Bates III",
-   "Why the Raiders named Fernando Mendoza as the starter"
+   "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
+   "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
+   "Fantasy football rankings Week 10: PPR and superflex"
   ],
   "odds": {
-   "mlAway": "-175",
+   "mlAway": "-166",
    "mlAwayOpen": "-225",
-   "mlHome": "+145",
+   "mlHome": "+140",
    "mlHomeOpen": "+185",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "KC -3",
    "spreadOpen": "KC -4.5",
    "total": "47.5",
    "totalOpen": "45.5"
   },
-  "pick": "KC ML (-175)",
-  "reason": "KC are about 61% no-vig at -175; ESPN's model has 78%. For: ESPN model 78% vs market 61%.",
+  "pick": "KC ML (-166)",
+  "reason": "KC are about 60% no-vig at -166; ESPN's model has 78%. For: ESPN model 78% vs market 60%.",
   "risks": [
-   "line drifted away (-225 → -175)"
+   "line drifted away (-225 → -166)"
   ],
   "side": "away",
   "slug": "nfl",
@@ -6226,7 +6151,7 @@
   "stars": 2,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Mercedes-Benz Stadium, Atlanta"
  },
  "nfl-401873059": {
@@ -6258,10 +6183,11 @@
    "abbr": "IND",
    "form": "LLLLL",
    "injuries": [
+    "Akeem Davis-Gaither (LB) – Injured Reserve, Knee",
+    "Mo Alie-Cox (TE) – Injured Reserve, Groin",
+    "Will Mallory (TE) – Out, Hamstring",
     "Jalen Travis (OT) – Out, Knee",
-    "Jaylon Carlies (LB) – Out, Neck",
-    "Jerry Tillery (DT) – Out, Calf",
-    "Luke Rhodes (LS) – Out, Hamstring"
+    "Jaylon Carlies (LB) – Out, Neck"
    ],
    "name": "Indianapolis Colts",
    "record": "2-7",
@@ -6310,6 +6236,27 @@
    "home": [
     {
      "detail": "Knee",
+     "player": "Akeem Davis-Gaither",
+     "pos": "LB",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Groin",
+     "player": "Mo Alie-Cox",
+     "pos": "TE",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "Will Mallory",
+     "pos": "TE",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
      "player": "Jalen Travis",
      "pos": "OT",
      "stale": false,
@@ -6321,20 +6268,6 @@
      "pos": "LB",
      "stale": false,
      "status": "Out"
-    },
-    {
-     "detail": "Calf",
-     "player": "Jerry Tillery",
-     "pos": "DT",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Hamstring",
-     "player": "Luke Rhodes",
-     "pos": "LS",
-     "stale": false,
-     "status": "Out"
     }
    ]
   },
@@ -6342,19 +6275,19 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873059",
   "market": "Moneyline",
   "news": [
-   "NFL Week 10 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-   "Falcons insist winning still the goal despite trading Jessie Bates III",
-   "Why the Raiders named Fernando Mendoza as the starter"
+   "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
+   "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
+   "Fantasy football rankings Week 10: PPR and superflex"
   ],
   "odds": {
    "mlAway": "+180",
    "mlAwayOpen": "+235",
    "mlHome": "-218",
    "mlHomeOpen": "-290",
-   "provider": "Draft Kings",
-   "spread": "IND -3.5",
+   "provider": "DraftKings",
+   "spread": "IND -4.5",
    "spreadOpen": "IND -6.5",
-   "total": "38.5",
+   "total": "37.5",
    "totalOpen": "47.5"
   },
   "pick": "IND ML (-218)",
@@ -6368,7 +6301,7 @@
   "stars": 3,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Lucas Oil Stadium, Indianapolis"
  },
  "nfl-401873060": {
@@ -6398,6 +6331,7 @@
    "abbr": "GB",
    "form": "WWLWW",
    "injuries": [
+    "Josh Jacobs (RB) – Out, Finger",
     "Sean Rhyan (G) – Out, Ankle"
    ],
    "name": "Green Bay Packers",
@@ -6439,6 +6373,13 @@
    ],
    "home": [
     {
+     "detail": "Finger",
+     "player": "Josh Jacobs",
+     "pos": "RB",
+     "stale": false,
+     "status": "Out"
+    },
+    {
      "detail": "Ankle",
      "player": "Sean Rhyan",
      "pos": "G",
@@ -6450,16 +6391,16 @@
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873060",
   "news": [
-   "NFL Week 10 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-   "Falcons insist winning still the goal despite trading Jessie Bates III",
-   "Why the Raiders named Fernando Mendoza as the starter"
+   "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
+   "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
+   "Fantasy football rankings Week 10: PPR and superflex"
   ],
   "odds": {
    "mlAway": "+124",
    "mlAwayOpen": "+185",
    "mlHome": "-148",
    "mlHomeOpen": "-225",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "GB -2.5",
    "spreadOpen": "GB -4.5",
    "total": "42.5",
@@ -6475,7 +6416,7 @@
   "stars": 1,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Lambeau Field, Green Bay"
  },
  "nfl-401873061": {
@@ -6551,16 +6492,16 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873061",
   "market": "Moneyline",
   "news": [
-   "NFL Week 10 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-   "Falcons insist winning still the goal despite trading Jessie Bates III",
-   "Why the Raiders named Fernando Mendoza as the starter"
+   "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
+   "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
+   "Fantasy football rankings Week 10: PPR and superflex"
   ],
   "odds": {
    "mlAway": "-500",
    "mlAwayOpen": "-535",
    "mlHome": "+380",
    "mlHomeOpen": "+400",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "LAR -9.5",
    "spreadOpen": "LAR -10.5",
    "total": "39.5",
@@ -6575,7 +6516,7 @@
   "stars": 3,
   "start": "2026-11-15T21:05Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "State Farm Stadium, Glendale"
  },
  "nfl-401873062": {
@@ -6680,16 +6621,16 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873062",
   "market": "Moneyline",
   "news": [
-   "NFL Week 10 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-   "Falcons insist winning still the goal despite trading Jessie Bates III",
-   "Why the Raiders named Fernando Mendoza as the starter"
+   "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
+   "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
+   "Fantasy football rankings Week 10: PPR and superflex"
   ],
   "odds": {
    "mlAway": "-305",
    "mlAwayOpen": "-340",
    "mlHome": "+245",
    "mlHomeOpen": "+270",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "SEA -6.5",
    "spreadOpen": "SEA -7",
    "total": "40.5",
@@ -6706,11 +6647,11 @@
   "stars": 2,
   "start": "2026-11-15T21:05Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Allegiant Stadium, Las Vegas"
  },
  "nfl-401873063": {
-  "_lastPick": "SF ML (-218)",
+  "_lastPick": "SF ML (-205)",
   "away": {
    "abbr": "SF",
    "form": "WLWWW",
@@ -6722,7 +6663,7 @@
    "short": "49ers",
    "teamId": "25"
   },
-  "confidence": 62,
+  "confidence": 61,
   "espnId": "401873063",
   "espnLeague": "nfl",
   "espnSport": "football",
@@ -6734,9 +6675,8 @@
    "abbr": "DAL",
    "form": "WLWLL",
    "injuries": [
-    "Donovan Ezeiruaku (LB) – Out, Ankle",
-    "Jonathan Mingo (WR) – Out, Ankle",
-    "Juanyeh Thomas (S) – Doubtful, Ribs"
+    "Tyler Goodson (RB) – Injured Reserve, Knee - ACL + MCL",
+    "Donovan Ezeiruaku (LB) – Out, Ankle"
    ],
    "name": "Dallas Cowboys",
    "record": "4-5",
@@ -6756,25 +6696,18 @@
    ],
    "home": [
     {
+     "detail": "Knee - ACL + MCL",
+     "player": "Tyler Goodson",
+     "pos": "RB",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
      "detail": "Ankle",
      "player": "Donovan Ezeiruaku",
      "pos": "LB",
      "stale": false,
      "status": "Out"
-    },
-    {
-     "detail": "Ankle",
-     "player": "Jonathan Mingo",
-     "pos": "WR",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Ribs",
-     "player": "Juanyeh Thomas",
-     "pos": "S",
-     "stale": false,
-     "status": "Doubtful"
     }
    ]
   },
@@ -6782,23 +6715,23 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873063",
   "market": "Moneyline",
   "news": [
-   "NFL Week 10 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-   "Falcons insist winning still the goal despite trading Jessie Bates III",
-   "Why the Raiders named Fernando Mendoza as the starter"
+   "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
+   "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
+   "Fantasy football rankings Week 10: PPR and superflex"
   ],
   "odds": {
-   "mlAway": "-218",
+   "mlAway": "-205",
    "mlAwayOpen": "+100",
-   "mlHome": "+180",
+   "mlHome": "+170",
    "mlHomeOpen": "-120",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "SF -4.5",
    "spreadOpen": "DAL -1.5",
    "total": "55.5",
    "totalOpen": "52.5"
   },
-  "pick": "SF ML (-218)",
-  "reason": "SF are about 66% no-vig at -218; ESPN's model has 64%. For: line moved toward SF (+100 → -218).",
+  "pick": "SF ML (-205)",
+  "reason": "SF are about 64% no-vig at -205; ESPN's model has 64%. For: line moved toward SF (+100 → -205).",
   "risks": [],
   "side": "away",
   "slug": "nfl",
@@ -6806,11 +6739,11 @@
   "stars": 2,
   "start": "2026-11-15T21:25Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "AT&T Stadium, Arlington"
  },
  "nfl-401873064": {
-  "_lastPick": "CIN ML (-185)",
+  "_lastPick": "CIN ML (-180)",
   "away": {
    "abbr": "PIT",
    "form": "WWWWL",
@@ -6823,7 +6756,7 @@
    "short": "Steelers",
    "teamId": "23"
   },
-  "confidence": 63,
+  "confidence": 62,
   "espnId": "401873064",
   "espnLeague": "nfl",
   "espnSport": "football",
@@ -6876,13 +6809,6 @@
      "pos": "WR",
      "stale": true,
      "status": "Injured Reserve"
-    },
-    {
-     "detail": "Knee",
-     "player": "Gennings Dunker",
-     "pos": "G",
-     "stale": true,
-     "status": "Injured Reserve"
     }
    ],
    "home": [
@@ -6927,23 +6853,23 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873064",
   "market": "Moneyline",
   "news": [
-   "NFL Week 10 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-   "Falcons insist winning still the goal despite trading Jessie Bates III",
-   "Why the Raiders named Fernando Mendoza as the starter"
+   "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
+   "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
+   "Fantasy football rankings Week 10: PPR and superflex"
   ],
   "odds": {
-   "mlAway": "+154",
+   "mlAway": "+150",
    "mlAwayOpen": "+160",
-   "mlHome": "-185",
+   "mlHome": "-180",
    "mlHomeOpen": "-192",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "CIN -3.5",
    "spreadOpen": "CIN -3.5",
    "total": "49.5",
    "totalOpen": "47.5"
   },
-  "pick": "CIN ML (-185)",
-  "reason": "CIN are about 62% no-vig at -185; ESPN's model has 70%. For: ESPN model 70% vs market 62%.",
+  "pick": "CIN ML (-180)",
+  "reason": "CIN are about 62% no-vig at -180; ESPN's model has 70%. For: ESPN model 70% vs market 62%.",
   "risks": [],
   "side": "home",
   "slug": "nfl",
@@ -6951,7 +6877,7 @@
   "stars": 2,
   "start": "2026-11-16T01:20Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Paycor Stadium, Cincinnati"
  },
  "nfl-401873065": {
@@ -6979,6 +6905,7 @@
    "abbr": "BAL",
    "form": "LLLLW",
    "injuries": [
+    "Jaylinn Hawkins (S) – Out, Knee",
     "Lamar Jackson (QB) – Injured Reserve, Thumb",
     "Tyler Huntley (QB) – Injured Reserve, Toe",
     "Adam Randall (RB) – Injured Reserve, Neck"
@@ -7008,6 +6935,13 @@
    ],
    "home": [
     {
+     "detail": "Knee",
+     "player": "Jaylinn Hawkins",
+     "pos": "S",
+     "stale": false,
+     "status": "Out"
+    },
+    {
      "detail": "Thumb",
      "player": "Lamar Jackson",
      "pos": "QB",
@@ -7033,16 +6967,16 @@
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873065",
   "news": [
-   "NFL Week 10 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-   "Falcons insist winning still the goal despite trading Jessie Bates III",
-   "Why the Raiders named Fernando Mendoza as the starter"
+   "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
+   "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
+   "Fantasy football rankings Week 10: PPR and superflex"
   ],
   "odds": {
    "mlAway": "+180",
    "mlAwayOpen": "+120",
    "mlHome": "-218",
    "mlHomeOpen": "-142",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "BAL -4.5",
    "spreadOpen": "BAL -2.5",
    "total": "38.5",
@@ -7058,7 +6992,7 @@
   "stars": 1,
   "start": "2026-11-17T01:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "M&T Bank Stadium, Baltimore"
  },
  "soccer-401861153": {
@@ -7545,64 +7479,12 @@
   "updatedAt": "2026-11-13T12:50:12Z",
   "venue": "Hampden Park, Glasgow"
  },
- "soccer-401861162": {
-  "away": {
-   "abbr": "KAZ",
-   "form": "DLLD",
-   "name": "Kazakhstan",
-   "record": "0-2-3",
-   "short": "Kazakhstan",
-   "teamId": "2619"
-  },
-  "confidence": 34,
-  "espnId": "401861162",
-  "espnLeague": "uefa.nations",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "MDA",
-   "form": "LWDL",
-   "name": "Moldova",
-   "record": "2-1-2",
-   "short": "Moldova",
-   "teamId": "483"
-  },
-  "id": "soccer-401861162",
-  "league": "UEFA Nations League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401861162",
-  "news": [
-   "Spain vs. England is 'winner takes it all' - Thomas Tuchel",
-   "Wales boss Craig Bellamy lays out plan for stopping Erling Haaland",
-   "Tuchel: White needs to open a new chapter after being booed by England fans"
-  ],
-  "odds": {
-   "mlAway": "+190",
-   "mlAwayOpen": "+180",
-   "mlDraw": "+190",
-   "mlHome": "+150",
-   "mlHomeOpen": "+160",
-   "provider": "DraftKings",
-   "spread": "MDA +150",
-   "spreadOpen": "MDA -0.5",
-   "total": "2.5",
-   "totalOpen": "2.5"
-  },
-  "pick": "Pass",
-  "reason": "Moldova about 37% no-vig at +150; no edge worth a pick.",
-  "risks": [],
-  "slug": "uefa.nations",
-  "sport": "soccer",
-  "stars": 1,
-  "start": "2026-11-13T17:00Z",
-  "state": "post",
-  "updatedAt": "2026-11-13T12:50:12Z",
-  "venue": "Stadionul Zimbru, Chisinau"
- },
  "soccer-401861163": {
   "away": {
    "abbr": "ISR",
    "form": "DDLL",
    "name": "Israel",
-   "record": "0-2-2",
+   "record": "0-3-2",
    "short": "Israel",
    "teamId": "461"
   },
@@ -7614,7 +7496,7 @@
    "abbr": "KOS",
    "form": "DDLW",
    "name": "Kosovo",
-   "record": "1-2-1",
+   "record": "1-3-1",
    "short": "Kosovo",
    "teamId": "18272"
   },
@@ -7645,7 +7527,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-14T14:00Z",
-  "state": "in",
+  "state": "post",
   "updatedAt": "2026-11-14T07:18:43Z",
   "venue": "Stadiumi Fadil Vokrri, Prishtina"
  },
@@ -7654,7 +7536,7 @@
    "abbr": "HUN",
    "form": "WWDL",
    "name": "Hungary",
-   "record": "2-1-1",
+   "record": "3-1-1",
    "short": "Hungary",
    "teamId": "480"
   },
@@ -7666,7 +7548,7 @@
    "abbr": "GEO",
    "form": "DLDL",
    "name": "Georgia",
-   "record": "0-2-2",
+   "record": "0-2-3",
    "short": "Georgia",
    "teamId": "584"
   },
@@ -7697,7 +7579,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-14T17:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-14T14:18:43Z",
   "venue": "Mikheil Meskhi Stadioni, Tbilisi"
  },
@@ -7707,7 +7589,7 @@
    "abbr": "WAL",
    "form": "LWLL",
    "name": "Wales",
-   "record": "1-0-3",
+   "record": "1-0-4",
    "short": "Wales",
    "teamId": "578"
   },
@@ -7719,7 +7601,7 @@
    "abbr": "NOR",
    "form": "LLLW",
    "name": "Norway",
-   "record": "1-0-3",
+   "record": "2-0-3",
    "short": "Norway",
    "teamId": "464"
   },
@@ -7752,12 +7634,12 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-14T17:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-14T14:18:43Z",
   "venue": "Ullevaal Stadion, Oslo"
  },
  "soccer-401861166": {
-  "_lastPick": "Sweden ML (-235)",
+  "_lastPick": "Sweden ML (-230)",
   "away": {
    "abbr": "BIH",
    "form": "WDWD",
@@ -7766,7 +7648,7 @@
    "short": "Bosnia-Herz",
    "teamId": "452"
   },
-  "confidence": 61,
+  "confidence": 62,
   "espnId": "401861166",
   "espnLeague": "uefa.nations",
   "espnSport": "soccer",
@@ -7790,17 +7672,17 @@
   "odds": {
    "mlAway": "+550",
    "mlAwayOpen": "+450",
-   "mlDraw": "+330",
-   "mlHome": "-235",
+   "mlDraw": "+340",
+   "mlHome": "-230",
    "mlHomeOpen": "-205",
    "provider": "DraftKings",
-   "spread": "SWE -235",
+   "spread": "SWE -230",
    "spreadOpen": "SWE -1.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
-  "pick": "Sweden ML (-235)",
-  "reason": "Sweden are about 64% no-vig at -235.",
+  "pick": "Sweden ML (-230)",
+  "reason": "Sweden are about 65% no-vig at -230.",
   "risks": [],
   "side": "home",
   "slug": "uefa.nations",
@@ -7808,7 +7690,7 @@
   "stars": 2,
   "start": "2026-11-14T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Friends Arena, Stockholm"
  },
  "soccer-401861167": {
@@ -7821,7 +7703,7 @@
    "short": "Denmark",
    "teamId": "479"
   },
-  "confidence": 57,
+  "confidence": 54,
   "espnId": "401861167",
   "espnLeague": "uefa.nations",
   "espnSport": "soccer",
@@ -7843,27 +7725,29 @@
    "'This is the way': Xavi lauds Netherlands after tying record Nations League win"
   ],
   "odds": {
-   "mlAway": "+400",
+   "mlAway": "+390",
    "mlAwayOpen": "+425",
-   "mlDraw": "+320",
-   "mlHome": "-185",
+   "mlDraw": "+310",
+   "mlHome": "-175",
    "mlHomeOpen": "-220",
    "provider": "DraftKings",
-   "spread": "POR -185",
+   "spread": "POR -175",
    "spreadOpen": "POR -1.5",
    "total": "3.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Portugal about 60% no-vig at -185; no edge worth a pick.",
-  "risks": [],
+  "reason": "Portugal about 59% no-vig at -175; no edge worth a pick.",
+  "risks": [
+   "line drifted away (-220 → -175)"
+  ],
   "side": null,
   "slug": "uefa.nations",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-14T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Estádio Municipal de Braga, Braga"
  },
  "soccer-401861168": {
@@ -7875,7 +7759,7 @@
    "short": "Poland",
    "teamId": "471"
   },
-  "confidence": 53,
+  "confidence": 54,
   "espnId": "401861168",
   "espnLeague": "uefa.nations",
   "espnSport": "soccer",
@@ -7896,26 +7780,26 @@
    "'This is the way': Xavi lauds Netherlands after tying record Nations League win"
   ],
   "odds": {
-   "mlAway": "-155",
+   "mlAway": "-160",
    "mlAwayOpen": "-105",
    "mlDraw": "+295",
-   "mlHome": "+360",
+   "mlHome": "+370",
    "mlHomeOpen": "+230",
    "provider": "DraftKings",
-   "spread": "POL -155",
+   "spread": "POL -160",
    "spreadOpen": "POL -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Poland about 56% no-vig at -155; no edge worth a pick.",
+  "reason": "Poland about 57% no-vig at -160; no edge worth a pick.",
   "risks": [],
   "slug": "uefa.nations",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-14T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "National Arena, Bucuresti"
  },
  "soccer-401861169": {
@@ -7927,7 +7811,7 @@
    "short": "Ukraine",
    "teamId": "457"
   },
-  "confidence": 32,
+  "confidence": 31,
   "espnId": "401861169",
   "espnLeague": "uefa.nations",
   "espnSport": "soccer",
@@ -7948,28 +7832,28 @@
    "'This is the way': Xavi lauds Netherlands after tying record Nations League win"
   ],
   "odds": {
-   "mlAway": "+205",
+   "mlAway": "+195",
    "mlAwayOpen": "+205",
-   "mlDraw": "+180",
-   "mlHome": "+150",
+   "mlDraw": "+185",
+   "mlHome": "+155",
    "mlHomeOpen": "+125",
    "provider": "DraftKings",
-   "spread": "NIR +150",
+   "spread": "NIR +155",
    "spreadOpen": "NIR -0.5",
    "total": "1.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "N Ireland about 37% no-vig at +150; no edge worth a pick.",
+  "reason": "N Ireland about 36% no-vig at +155; no edge worth a pick.",
   "risks": [
-   "line drifted away (+125 → +150)"
+   "line drifted away (+125 → +155)"
   ],
   "slug": "uefa.nations",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-14T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Windsor Park, Belfast"
  },
  "soccer-401861170": {
@@ -7981,7 +7865,7 @@
    "short": "Rep Ireland",
    "teamId": "476"
   },
-  "confidence": 55,
+  "confidence": 54,
   "espnId": "401861170",
   "espnLeague": "uefa.nations",
   "espnSport": "soccer",
@@ -8002,26 +7886,26 @@
    "'This is the way': Xavi lauds Netherlands after tying record Nations League win"
   ],
   "odds": {
-   "mlAway": "+425",
+   "mlAway": "+400",
    "mlAwayOpen": "+400",
-   "mlDraw": "+280",
-   "mlHome": "-170",
+   "mlDraw": "+270",
+   "mlHome": "-160",
    "mlHomeOpen": "-180",
    "provider": "DraftKings",
-   "spread": "AUT -170",
+   "spread": "AUT -160",
    "spreadOpen": "AUT -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Austria about 58% no-vig at -170; no edge worth a pick.",
+  "reason": "Austria about 57% no-vig at -160; no edge worth a pick.",
   "risks": [],
   "slug": "uefa.nations",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-14T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Raiffeisen Arena (Linz), Linz"
  },
  "soccer-401861171": {
@@ -8033,7 +7917,7 @@
    "short": "Armenia",
    "teamId": "579"
   },
-  "confidence": 36,
+  "confidence": 37,
   "espnId": "401861171",
   "espnLeague": "uefa.nations",
   "espnSport": "soccer",
@@ -8057,7 +7941,7 @@
    "mlAway": "+135",
    "mlAwayOpen": "+135",
    "mlDraw": "+215",
-   "mlHome": "+195",
+   "mlHome": "+200",
    "mlHomeOpen": "+195",
    "provider": "DraftKings",
    "spread": "ARM +135",
@@ -8066,14 +7950,14 @@
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Armenia about 39% no-vig at +135; no edge worth a pick.",
+  "reason": "Armenia about 40% no-vig at +135; no edge worth a pick.",
   "risks": [],
   "slug": "uefa.nations",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-15T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Skonto Stadions, Riga"
  },
  "soccer-401861172": {
@@ -8125,7 +8009,7 @@
   "stars": 1,
   "start": "2026-11-15T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Alphamega Stadium, Kolossi"
  },
  "soccer-401861173": {
@@ -8160,7 +8044,7 @@
   "stars": 1,
   "start": "2026-11-15T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Illovszky Rudolf Stadion, Budapest"
  },
  "soccer-401861174": {
@@ -8215,7 +8099,7 @@
   "stars": 2,
   "start": "2026-11-15T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Bolt Arena, Helsinki"
  },
  "soccer-401861175": {
@@ -8267,7 +8151,7 @@
   "stars": 1,
   "start": "2026-11-15T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Riyadh Air Metropolitano, Madrid"
  },
  "soccer-401861176": {
@@ -8319,7 +8203,7 @@
   "stars": 1,
   "start": "2026-11-15T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "King Baudouin Stadium, Brussels"
  },
  "soccer-401861177": {
@@ -8374,7 +8258,7 @@
   "stars": 3,
   "start": "2026-11-15T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Stade Atlantique, Bordeaux"
  },
  "soccer-401861178": {
@@ -8429,7 +8313,7 @@
   "stars": 1,
   "start": "2026-11-15T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Opus Arena, Osijek"
  },
  "soccer-401861179": {
@@ -8484,7 +8368,7 @@
   "stars": 2,
   "start": "2026-11-16T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Europa Point Stadium, Gibraltar"
  },
  "soccer-401861180": {
@@ -8496,7 +8380,7 @@
    "short": "Moldova",
    "teamId": "483"
   },
-  "confidence": 47,
+  "confidence": 49,
   "espnId": "401861180",
   "espnLeague": "uefa.nations",
   "espnSport": "soccer",
@@ -8517,19 +8401,19 @@
    "'This is the way': Xavi lauds Netherlands after tying record Nations League win"
   ],
   "odds": {
-   "mlAway": "+340",
+   "mlAway": "+360",
    "mlAwayOpen": "+360",
-   "mlDraw": "+235",
-   "mlHome": "-125",
+   "mlDraw": "+245",
+   "mlHome": "-135",
    "mlHomeOpen": "-130",
    "provider": "DraftKings",
-   "spread": "FRO -125",
+   "spread": "FRO -135",
    "spreadOpen": "FRO -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Faroe Islands about 51% no-vig at -125; no edge worth a pick.",
+  "reason": "Faroe Islands about 53% no-vig at -135; no edge worth a pick.",
   "risks": [
    "opponent in better form (WLWDL)"
   ],
@@ -8538,7 +8422,7 @@
   "stars": 1,
   "start": "2026-11-16T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Tórsvollur, Tórshavn"
  },
  "soccer-401861181": {
@@ -8550,7 +8434,7 @@
    "short": "Slovakia",
    "teamId": "468"
   },
-  "confidence": 47,
+  "confidence": 51,
   "espnId": "401861181",
   "espnLeague": "uefa.nations",
   "espnSport": "soccer",
@@ -8571,28 +8455,26 @@
    "'This is the way': Xavi lauds Netherlands after tying record Nations League win"
   ],
   "odds": {
-   "mlAway": "-125",
+   "mlAway": "-135",
    "mlAwayOpen": "-155",
-   "mlDraw": "+250",
-   "mlHome": "+310",
+   "mlDraw": "+270",
+   "mlHome": "+320",
    "mlHomeOpen": "+380",
    "provider": "DraftKings",
-   "spread": "SVK -125",
+   "spread": "SVK -135",
    "spreadOpen": "SVK -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Slovakia about 51% no-vig at -125; no edge worth a pick.",
-  "risks": [
-   "line drifted away (-155 → -125)"
-  ],
+  "reason": "Slovakia about 53% no-vig at -135; no edge worth a pick.",
+  "risks": [],
   "slug": "uefa.nations",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-16T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Astana Arena, Astana"
  },
  "soccer-401861182": {
@@ -8647,7 +8529,7 @@
   "stars": 2,
   "start": "2026-11-16T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Laugardalsvöllur, Reykjavik"
  },
  "soccer-401861183": {
@@ -8699,11 +8581,11 @@
   "stars": 1,
   "start": "2026-11-16T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "A. Le Coq Arena, Tallinn"
  },
  "soccer-401861184": {
-  "_lastPick": "Lithuania ML (-1200)",
+  "_lastPick": "Lithuania ML (-1100)",
   "away": {
    "abbr": "LIE",
    "form": "LLDLL",
@@ -8734,19 +8616,19 @@
    "'This is the way': Xavi lauds Netherlands after tying record Nations League win"
   ],
   "odds": {
-   "mlAway": "+2000",
+   "mlAway": "+1900",
    "mlAwayOpen": "+2000",
-   "mlDraw": "+800",
-   "mlHome": "-1200",
+   "mlDraw": "+750",
+   "mlHome": "-1100",
    "mlHomeOpen": "-1200",
    "provider": "DraftKings",
-   "spread": "LTU -1200",
+   "spread": "LTU -1100",
    "spreadOpen": "LTU -2.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
-  "pick": "Lithuania ML (-1200)",
-  "reason": "Lithuania are about 85% no-vig at -1200.",
+  "pick": "Lithuania ML (-1100)",
+  "reason": "Lithuania are about 85% no-vig at -1100.",
   "risks": [],
   "side": "home",
   "slug": "uefa.nations",
@@ -8754,7 +8636,7 @@
   "stars": 2,
   "start": "2026-11-16T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "S. Darius and S. Gireno Stadium, Kaunas"
  },
  "soccer-401861185": {
@@ -8806,7 +8688,7 @@
   "stars": 1,
   "start": "2026-11-16T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Olympic Stadium Berlin, Berlin"
  },
  "soccer-401861186": {
@@ -8839,26 +8721,26 @@
    "'This is the way': Xavi lauds Netherlands after tying record Nations League win"
   ],
   "odds": {
-   "mlAway": "+370",
+   "mlAway": "+380",
    "mlAwayOpen": "+400",
-   "mlDraw": "+260",
-   "mlHome": "-145",
+   "mlDraw": "+265",
+   "mlHome": "-150",
    "mlHomeOpen": "-150",
    "provider": "DraftKings",
-   "spread": "SUI -145",
+   "spread": "SUI -150",
    "spreadOpen": "SUI -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Switzerland about 55% no-vig at -145; no edge worth a pick.",
+  "reason": "Switzerland about 55% no-vig at -150; no edge worth a pick.",
   "risks": [],
   "slug": "uefa.nations",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-16T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Kybunpark, St. Gallen"
  },
  "soccer-401861187": {
@@ -8910,7 +8792,7 @@
   "stars": 1,
   "start": "2026-11-16T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Toše Proeski Arena, Skopje"
  },
  "soccer-401861188": {
@@ -8965,7 +8847,7 @@
   "stars": 2,
   "start": "2026-11-16T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Panthessaliko Stadium, Volos"
  },
  "soccer-401876988": {
@@ -9012,7 +8894,7 @@
   "stars": 1,
   "start": "2026-11-14T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Estadio Corregidora, Santiago de Querétaro"
  },
  "soccer-401906463": {
@@ -9065,7 +8947,7 @@
   "stars": 2,
   "start": "2026-11-15T03:10Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "One New Zealand Stadium, Christchurch"
  },
  "soccer-401914292": {
@@ -9098,7 +8980,7 @@
   "stars": 1,
   "start": "2026-11-16T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Estadi de la FAF d'Encamp, Encamp"
  },
  "soccer-401916335": {
@@ -9131,7 +9013,7 @@
   "stars": 1,
   "start": "2026-11-17T10:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Singapore National Stadium, Singapore"
  },
  "soccer-401916336": {
@@ -9164,7 +9046,7 @@
   "stars": 1,
   "start": "2026-11-17T13:10Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Singapore National Stadium, Singapore"
  },
  "soccer-401916337": {
@@ -9217,57 +9099,37 @@
   "updatedAt": "2026-11-14T07:18:43Z",
   "venue": "Singapore National Stadium, Singapore"
  },
- "soccer-401919978": {
+ "soccer-401919974": {
   "away": {
    "abbr": "AUS",
-   "form": "LD",
    "name": "Australia",
    "short": "Australia",
    "teamId": "628"
   },
-  "confidence": 44,
-  "espnId": "401919978",
+  "espnId": "401919974",
   "espnLeague": "fifa.friendly",
   "espnSport": "soccer",
   "home": {
-   "abbr": "QAT",
-   "form": "LDWW",
-   "name": "Qatar",
-   "short": "Qatar",
-   "teamId": "4398"
+   "abbr": "JOR",
+   "name": "Jordan",
+   "short": "Jordan",
+   "teamId": "2917"
   },
-  "id": "soccer-401919978",
+  "id": "soccer-401919974",
   "league": "International Friendly",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401919978",
-  "news": [
-   "Australia friendly with Jordan relocated due to player security concerns",
-   "Socceroos camp in 'good spirits' as call to play in Jordan looms",
-   "Football Australia boss flies to Amman for crisis talks over Jordan friendly"
-  ],
+  "link": "https://www.espn.com/soccer/match/_/gameId/401919974",
   "odds": {
-   "mlAway": "-105",
-   "mlAwayOpen": "+120",
-   "mlDraw": "+245",
-   "mlHome": "+285",
-   "mlHomeOpen": "+220",
-   "provider": "DraftKings",
-   "spread": "AUS -105",
-   "spreadOpen": "AUS -0.5",
-   "total": "2.5",
-   "totalOpen": "2.5"
+   "provider": "DraftKings"
   },
   "pick": "Pass",
-  "reason": "Australia about 48% no-vig at -105; no edge worth a pick.",
-  "risks": [
-   "opponent in better form (LDWW)"
-  ],
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
   "slug": "fifa.friendly",
   "sport": "soccer",
   "stars": 1,
-  "start": "2026-11-13T14:45Z",
-  "state": "post",
-  "updatedAt": "2026-11-13T12:50:12Z",
-  "venue": "Abdullah bin Khalifa Stadium, Ar-Rayyan"
+  "start": "2026-11-17T16:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-14T19:16:12Z"
  },
  "soccer-401921325": {
   "_lastPick": "Colombia ML (-235)",
@@ -9405,7 +9267,7 @@
   "stars": 1,
   "start": "2026-11-17T06:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Zhaoqing New District Sports Center Stadium, Zhaoqing"
  },
  "soccer-401930242": {
@@ -9438,7 +9300,7 @@
   "stars": 1,
   "start": "2026-11-17T12:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Thien Truong Stadium, Nam Dinh"
  },
  "soccer-401930243": {
@@ -9682,7 +9544,7 @@
   "stars": 1,
   "start": "2026-11-17T12:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Zhaoqing New District Sports Center Stadium, Zhaoqing"
  },
  "soccer-401930898": {
@@ -9740,57 +9602,38 @@
   "updatedAt": "2026-11-13T20:16:40Z",
   "venue": "Estadio Olímpico Atahualpa, Quito"
  },
- "soccer-401931476": {
+ "soccer-401930978": {
   "away": {
-   "abbr": "KOR",
-   "form": "WDLW",
-   "name": "South Korea",
-   "short": "South Korea",
-   "teamId": "451"
+   "abbr": "VEN",
+   "name": "Venezuela",
+   "short": "Venezuela",
+   "teamId": "213"
   },
-  "confidence": 48,
-  "espnId": "401931476",
+  "espnId": "401930978",
   "espnLeague": "fifa.friendly",
   "espnSport": "soccer",
   "home": {
-   "abbr": "KSA",
-   "form": "WWWWW",
-   "name": "Saudi Arabia",
-   "short": "Saudi Arabia",
-   "teamId": "655"
+   "abbr": "RUS",
+   "name": "Russia",
+   "short": "Russia",
+   "teamId": "454"
   },
-  "id": "soccer-401931476",
+  "id": "soccer-401930978",
   "league": "International Friendly",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401931476",
-  "news": [
-   "Australia friendly with Jordan relocated due to player security concerns",
-   "Socceroos camp in 'good spirits' as call to play in Jordan looms",
-   "Football Australia boss flies to Amman for crisis talks over Jordan friendly"
-  ],
+  "link": "https://www.espn.com/soccer/match/_/gameId/401930978",
   "odds": {
-   "mlAway": "-125",
-   "mlAwayOpen": "-115",
-   "mlDraw": "+245",
-   "mlHome": "+360",
-   "mlHomeOpen": "+320",
-   "provider": "DraftKings",
-   "spread": "KOR -125",
-   "spreadOpen": "KOR -0.5",
-   "total": "2.5",
-   "totalOpen": "2.5"
+   "provider": "DraftKings"
   },
   "pick": "Pass",
-  "reason": "South Korea about 52% no-vig at -125; no edge worth a pick.",
-  "risks": [
-   "opponent in better form (WWWWW)"
-  ],
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
   "slug": "fifa.friendly",
   "sport": "soccer",
   "stars": 1,
-  "start": "2026-11-13T14:30Z",
-  "state": "post",
-  "updatedAt": "2026-11-13T12:50:12Z",
-  "venue": "Jassim Bin Hamad Stadium, Doha"
+  "start": "2026-11-17T16:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-14T19:16:12Z",
+  "venue": "Krasnodar Stadium, Krasnodar"
  },
  "soccer-401931477": {
   "away": {
@@ -9822,58 +9665,41 @@
   "stars": 1,
   "start": "2026-11-17T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Abdullah bin Khalifa Stadium, Ar-Rayyan"
  },
- "soccer-401931978": {
+ "soccer-401931495": {
   "away": {
-   "abbr": "SYR",
-   "form": "LD",
-   "name": "Syria",
-   "short": "Syria",
-   "teamId": "4380"
+   "abbr": "UZB",
+   "name": "Uzbekistan",
+   "short": "Uzbekistan",
+   "teamId": "2570"
   },
-  "confidence": 40,
-  "espnId": "401931978",
+  "espnId": "401931495",
   "espnLeague": "fifa.friendly",
   "espnSport": "soccer",
   "home": {
-   "abbr": "KUW",
-   "form": "LLL",
-   "name": "Kuwait",
-   "short": "Kuwait",
-   "teamId": "841"
+   "abbr": "KSA",
+   "name": "Saudi Arabia",
+   "short": "Saudi Arabia",
+   "teamId": "655"
   },
-  "id": "soccer-401931978",
+  "id": "soccer-401931495",
   "league": "International Friendly",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401931978",
-  "news": [
-   "Australia friendly with Jordan relocated due to player security concerns",
-   "Socceroos camp in 'good spirits' as call to play in Jordan looms",
-   "Football Australia boss flies to Amman for crisis talks over Jordan friendly"
-  ],
+  "link": "https://www.espn.com/soccer/match/_/gameId/401931495",
   "odds": {
-   "mlAway": "+120",
-   "mlAwayOpen": "+120",
-   "mlDraw": "+235",
-   "mlHome": "+230",
-   "mlHomeOpen": "+240",
-   "provider": "DraftKings",
-   "spread": "SYR +120",
-   "spreadOpen": "SYR -0.5",
-   "total": "2.5",
-   "totalOpen": "2.5"
+   "provider": "DraftKings"
   },
   "pick": "Pass",
-  "reason": "Syria about 43% no-vig at +120; no edge worth a pick.",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
   "risks": [],
   "slug": "fifa.friendly",
   "sport": "soccer",
   "stars": 1,
-  "start": "2026-11-13T16:30Z",
-  "state": "post",
-  "updatedAt": "2026-11-13T12:50:12Z",
-  "venue": "Al-Sadaqua Walsalam Stadium, Jaber Al-Ahmad International Stadium"
+  "start": "2026-11-17T15:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-14T19:16:12Z",
+  "venue": "Jassim Bin Hamad Stadium, Doha"
  },
  "soccer-401932237": {
   "_lastPick": "Iran ML (-225)",
@@ -9927,7 +9753,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-14T15:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-14T14:18:43Z",
   "venue": "Basra International Stadium, Basra"
  },
@@ -9961,8 +9787,41 @@
   "stars": 1,
   "start": "2026-11-17T14:10Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Hazza Bin Zayed Stadium, Al Ain"
+ },
+ "soccer-401933615": {
+  "away": {
+   "abbr": "IRN",
+   "name": "Iran",
+   "short": "Iran",
+   "teamId": "469"
+  },
+  "espnId": "401933615",
+  "espnLeague": "fifa.friendly",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "IRQ",
+   "name": "Iraq",
+   "short": "Iraq",
+   "teamId": "4375"
+  },
+  "id": "soccer-401933615",
+  "league": "International Friendly",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401933615",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "fifa.friendly",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-17T16:15Z",
+  "state": "pre",
+  "updatedAt": "2026-11-14T19:16:12Z",
+  "venue": "Basra International Stadium, Basra"
  },
  "soccer-401933635": {
   "away": {
@@ -9994,60 +9853,7 @@
   "stars": 1,
   "start": "2026-11-17T13:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
-  "venue": "Basra International Stadium, Basra"
- },
- "soccer-401933636": {
-  "_lastPick": "Iraq ML (-275)",
-  "away": {
-   "abbr": "LIB",
-   "form": "LW",
-   "name": "Lebanon",
-   "short": "Lebanon",
-   "teamId": "4388"
-  },
-  "confidence": 66,
-  "espnId": "401933636",
-  "espnLeague": "fifa.friendly",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "IRQ",
-   "form": "LWD",
-   "name": "Iraq",
-   "short": "Iraq",
-   "teamId": "4375"
-  },
-  "id": "soccer-401933636",
-  "league": "International Friendly",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401933636",
-  "market": "Moneyline",
-  "news": [
-   "Australia friendly with Jordan relocated due to player security concerns",
-   "Socceroos camp in 'good spirits' as call to play in Jordan looms",
-   "Football Australia boss flies to Amman for crisis talks over Jordan friendly"
-  ],
-  "odds": {
-   "mlAway": "+800",
-   "mlAwayOpen": "+850",
-   "mlDraw": "+370",
-   "mlHome": "-275",
-   "mlHomeOpen": "-280",
-   "provider": "DraftKings",
-   "spread": "IRQ -275",
-   "spreadOpen": "IRQ -1.5",
-   "total": "2.5",
-   "totalOpen": "2.5"
-  },
-  "pick": "Iraq ML (-275)",
-  "reason": "Iraq are about 69% no-vig at -275.",
-  "risks": [],
-  "side": "home",
-  "slug": "fifa.friendly",
-  "sport": "soccer",
-  "stars": 2,
-  "start": "2026-11-13T15:00Z",
-  "state": "post",
-  "updatedAt": "2026-11-13T12:50:12Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Basra International Stadium, Basra"
  },
  "soccer-401933837": {
@@ -10080,7 +9886,7 @@
   "stars": 1,
   "start": "2026-11-15T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Stadion De Vliert, Den Bosch"
  },
  "soccer-401933864": {
@@ -10146,7 +9952,7 @@
   "stars": 1,
   "start": "2026-11-17T05:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T14:18:43Z",
+  "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Stade Louis Ganivet"
  }
 }

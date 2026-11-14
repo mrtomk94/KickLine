@@ -1,0 +1,204 @@
+{
+ "id": "soccer-401861163",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-14T14:00Z",
+ "home": {
+  "name": "Kosovo",
+  "abbr": "KOS",
+  "teamId": "18272",
+  "score": 0.0
+ },
+ "away": {
+  "name": "Israel",
+  "abbr": "ISR",
+  "teamId": "461",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+310",
+  "mlAwayOpen": "+265",
+  "mlDraw": "+260",
+  "mlHome": "-125",
+  "mlHomeOpen": "-115",
+  "provider": "DraftKings",
+  "spread": "KOS -125",
+  "spreadOpen": "KOS -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "KOS",
+   "stats": {
+    "foulsCommitted": "16",
+    "yellowCards": "0",
+    "redCards": "1",
+    "offsides": "0",
+    "wonCorners": "7",
+    "saves": "3",
+    "possessionPct": "46",
+    "totalShots": "16",
+    "shotsOnTarget": "3",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "369",
+    "totalPasses": "443",
+    "passPct": "0.8",
+    "accurateCrosses": "7",
+    "totalCrosses": "31",
+    "crossPct": "0.2",
+    "totalLongBalls": "41",
+    "accurateLongBalls": "16",
+    "longballPct": "0.4",
+    "blockedShots": "5",
+    "effectiveTackles": "15",
+    "totalTackles": "19",
+    "tacklePct": "0.8",
+    "interceptions": "18",
+    "effectiveClearance": "18",
+    "totalClearance": "18"
+   }
+  },
+  "away": {
+   "abbr": "ISR",
+   "stats": {
+    "foulsCommitted": "13",
+    "yellowCards": "4",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "2",
+    "saves": "3",
+    "possessionPct": "54",
+    "totalShots": "6",
+    "shotsOnTarget": "3",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "467",
+    "totalPasses": "550",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "12",
+    "crossPct": "0.3",
+    "totalLongBalls": "50",
+    "accurateLongBalls": "19",
+    "longballPct": "0.4",
+    "blockedShots": "1",
+    "effectiveTackles": "12",
+    "totalTackles": "14",
+    "tacklePct": "0.9",
+    "interceptions": "8",
+    "effectiveClearance": "29",
+    "totalClearance": "29"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "20'",
+   "team": null,
+   "text": "Veldin Hodza (Kosovo) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "26'",
+   "team": null,
+   "text": "Eli Dasa (Israel) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, Kosovo 0, Israel 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Israel. Omri Gandelman replaces Idan Toklomati."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Israel. Ilay Feingold replaces Eli Dasa."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "62'",
+   "team": null,
+   "text": "Ilay Feingold (Israel) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Red Card",
+   "clock": "66'",
+   "team": null,
+   "text": "Second yellow card to Veldin Hodza (Kosovo) for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Kosovo. Baton Zabërgja replaces Milot Rashica."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Kosovo. Fisnik Asllani replaces Vedat Muriqi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Israel. Dor Turgeman replaces Ethane Azoulay."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "74'",
+   "team": null,
+   "text": "Omri Gandelman (Israel) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Israel. Yarden Shua replaces Idan Nachmias."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Kosovo. Dion Kacuri replaces Edon Zhegrova."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Raz Shlomo (Israel) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+4'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}
