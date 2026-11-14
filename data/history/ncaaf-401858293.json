@@ -1,0 +1,114 @@
+{
+ "id": "ncaaf-401858293",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T00:00Z",
+ "home": {
+  "name": "Pittsburgh Panthers",
+  "abbr": "PITT",
+  "teamId": "221",
+  "score": 10.0
+ },
+ "away": {
+  "name": "Florida State Seminoles",
+  "abbr": "FSU",
+  "teamId": "52",
+  "score": 16.0
+ },
+ "odds": {
+  "mlAway": "+142",
+  "mlAwayOpen": "+120",
+  "mlHome": "-170",
+  "mlHomeOpen": "-142",
+  "provider": "Draft Kings",
+  "spread": "PITT -3.5",
+  "spreadOpen": "PITT -3",
+  "total": "52.5",
+  "totalOpen": "53.5"
+ },
+ "espnWinProb": {
+  "away": 38.0,
+  "home": 62.0
+ },
+ "teams": {
+  "away": {
+   "abbr": "FSU",
+   "stats": {
+    "firstDowns": "13",
+    "thirdDownEff": "3-13",
+    "fourthDownEff": "0-0",
+    "totalYards": "260",
+    "netPassingYards": "163",
+    "completionAttempts": "16/24",
+    "yardsPerPass": "6.8",
+    "rushingYards": "97",
+    "rushingAttempts": "33",
+    "yardsPerRushAttempt": "2.9",
+    "totalPenaltiesYards": "3-35",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "30:07"
+   }
+  },
+  "home": {
+   "abbr": "PITT",
+   "stats": {
+    "firstDowns": "16",
+    "thirdDownEff": "5-15",
+    "fourthDownEff": "1-4",
+    "totalYards": "306",
+    "netPassingYards": "157",
+    "completionAttempts": "16/34",
+    "yardsPerPass": "4.6",
+    "rushingYards": "149",
+    "rushingAttempts": "37",
+    "yardsPerRushAttempt": "4.0",
+    "totalPenaltiesYards": "7-60",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "29:53"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "3:41",
+   "team": "FSU",
+   "text": "Gabe Panikowski 37 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "8:24",
+   "team": "FSU",
+   "text": "Gabe Panikowski 27 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "3:07",
+   "team": "PITT",
+   "text": "Ja'Kyrian Turner 11 Yd pass from Corey Dailey (Antonio Chadha Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "10:49",
+   "team": "FSU",
+   "text": "Amari Thomas 1 Yd Run (Gabe Panikowski Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "4:23",
+   "team": "PITT",
+   "text": "Antonio Chadha 34 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "6:27",
+   "team": "FSU",
+   "text": "Gabe Panikowski 47 Yd Field Goal  "
+  }
+ ]
+}

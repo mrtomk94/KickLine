@@ -1,0 +1,330 @@
+{
+ "id": "soccer-401921325",
+ "sport": "soccer",
+ "league": "International Friendly",
+ "start": "2026-11-14T00:00Z",
+ "home": {
+  "name": "Colombia",
+  "abbr": "COL",
+  "teamId": "208",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Chile",
+  "abbr": "CHI",
+  "teamId": "207",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+700",
+  "mlAwayOpen": "+600",
+  "mlDraw": "+380",
+  "mlHome": "-265",
+  "mlHomeOpen": "-235",
+  "provider": "DraftKings",
+  "spread": "COL -265",
+  "spreadOpen": "COL -1.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "COL",
+   "stats": {
+    "foulsCommitted": "19",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "2",
+    "saves": "0",
+    "possessionPct": "56",
+    "totalShots": "10",
+    "shotsOnTarget": "2",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "382",
+    "totalPasses": "469",
+    "passPct": "0.8",
+    "accurateCrosses": "9",
+    "totalCrosses": "16",
+    "crossPct": "0.6",
+    "totalLongBalls": "47",
+    "accurateLongBalls": "21",
+    "longballPct": "0.4",
+    "blockedShots": "2",
+    "effectiveTackles": "7",
+    "totalTackles": "13",
+    "tacklePct": "0.5",
+    "interceptions": "12",
+    "effectiveClearance": "12",
+    "totalClearance": "12"
+   }
+  },
+  "away": {
+   "abbr": "CHI",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "3",
+    "saves": "2",
+    "possessionPct": "44",
+    "totalShots": "5",
+    "shotsOnTarget": "0",
+    "shotPct": "0.0",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "277",
+    "totalPasses": "362",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "14",
+    "crossPct": "0.2",
+    "totalLongBalls": "55",
+    "accurateLongBalls": "25",
+    "longballPct": "0.5",
+    "blockedShots": "1",
+    "effectiveTackles": "7",
+    "totalTackles": "12",
+    "tacklePct": "0.6",
+    "interceptions": "13",
+    "effectiveClearance": "19",
+    "totalClearance": "19"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "12'",
+   "team": null,
+   "text": "Samuel Velásquez (Colombia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "24'",
+   "team": null,
+   "text": "Delay in match for a drinks break."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "24'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "26'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "26'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Own Goal",
+   "clock": "35'",
+   "team": null,
+   "text": "Own Goal by Guillermo Maripán, Chile. Colombia 1, Chile 0."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "39'",
+   "team": null,
+   "text": "Delay in match because of an injury Diego Ulloa (Chile)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "39'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "40'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "40'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+4'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Chile. Nils Reichmuth replaces Diego Ulloa."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Colombia. Óscar Perea replaces Nelson Deossa."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Colombia. Juan Arizala replaces Samuel Velásquez."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Colombia 1, Chile 0."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "55'",
+   "team": null,
+   "text": "Óscar Perea (Colombia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "59'",
+   "team": null,
+   "text": "Delay in match because of an injury Camilo Durán (Colombia)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "59'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "60'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "60'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "60'",
+   "team": null,
+   "text": "Substitution, Colombia. Yáser Asprilla replaces Camilo Durán because of an injury."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Chile. Ben Brereton replaces Gonzalo Tapia."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Chile. Lucas Cepeda replaces Maximiliano Gutiérrez."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "69'",
+   "team": null,
+   "text": "Daniel Muñoz (Colombia) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "69'",
+   "team": null,
+   "text": "Rodrigo Echeverría (Chile) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "71'",
+   "team": null,
+   "text": "Delay in match for a drinks break."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "71'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Colombia. Matías Orozco replaces Gustavo Puerta."
+  },
+  {
+   "type": "End Delay",
+   "clock": "73'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "73'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Chile. César Pérez replaces Rodrigo Echeverría."
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Chile. Felipe Méndez replaces Vicente Pizarro."
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Chile. Agustín Arce replaces Darío Osorio."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Colombia. Juan Rengifo replaces Jhon Arias."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Colombia. Daniel Mosquera replaces Luis Suárez."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "87'",
+   "team": null,
+   "text": "César Pérez (Chile) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+6'",
+   "team": null,
+   "text": "Second Half ends, Colombia 1, Chile 0."
+  }
+ ],
+ "scoringPlays": []
+}

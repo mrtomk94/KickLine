@@ -1,0 +1,264 @@
+{
+ "id": "soccer-401930876",
+ "sport": "soccer",
+ "league": "International Friendly",
+ "start": "2026-11-13T23:00Z",
+ "home": {
+  "name": "Argentina",
+  "abbr": "ARG",
+  "teamId": "202",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Uruguay",
+  "abbr": "URU",
+  "teamId": "212",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "+500",
+  "mlAwayOpen": "+500",
+  "mlDraw": "+310",
+  "mlHome": "-185",
+  "mlHomeOpen": "-195",
+  "provider": "DraftKings",
+  "spread": "ARG -185",
+  "spreadOpen": "ARG -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "ARG",
+   "stats": {
+    "foulsCommitted": "10",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "6",
+    "saves": "2",
+    "possessionPct": "71.6",
+    "totalShots": "17",
+    "shotsOnTarget": "6",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "674",
+    "totalPasses": "746",
+    "passPct": "0.9",
+    "accurateCrosses": "4",
+    "totalCrosses": "12",
+    "crossPct": "0.3",
+    "totalLongBalls": "42",
+    "accurateLongBalls": "26",
+    "longballPct": "0.6",
+    "blockedShots": "6",
+    "effectiveTackles": "10",
+    "totalTackles": "18",
+    "tacklePct": "0.6",
+    "interceptions": "3",
+    "effectiveClearance": "13",
+    "totalClearance": "13"
+   }
+  },
+  "away": {
+   "abbr": "URU",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "3",
+    "saves": "5",
+    "possessionPct": "28.4",
+    "totalShots": "6",
+    "shotsOnTarget": "3",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "221",
+    "totalPasses": "289",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "10",
+    "crossPct": "0.3",
+    "totalLongBalls": "53",
+    "accurateLongBalls": "25",
+    "longballPct": "0.5",
+    "blockedShots": "1",
+    "effectiveTackles": "14",
+    "totalTackles": "22",
+    "tacklePct": "0.6",
+    "interceptions": "8",
+    "effectiveClearance": "18",
+    "totalClearance": "18"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "29'",
+   "team": null,
+   "text": "Delay in match (Argentina)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "29'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "29'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "29'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, Argentina 0, Uruguay 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Argentina. Matías Soulé replaces Exequiel Palacios."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Argentina 0, Uruguay 0."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "47'",
+   "team": null,
+   "text": "Leonardo Balerdi (Argentina) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Own Goal",
+   "clock": "48'",
+   "team": null,
+   "text": "Own Goal by Leonardo Balerdi, Argentina. Argentina 0, Uruguay 1."
+  },
+  {
+   "type": "Goal",
+   "clock": "53'",
+   "team": null,
+   "text": "Goal! Argentina 0, Uruguay 2. Maxi Araújo (Uruguay) with an attempt from the left side of the six yard box to the bottom right corner. Assisted by Giorgian de Arrascaeta with a cross following a corne"
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, Uruguay. Sebastián Cáceres replaces Joaquín Piquerez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, Uruguay. Federico Valverde replaces Agustín Canobbio."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "60'",
+   "team": null,
+   "text": "Federico Valverde (Uruguay) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "60'",
+   "team": null,
+   "text": "Substitution, Argentina. Gianluca Prestianni replaces Thiago Almada."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "65'",
+   "team": null,
+   "text": "Guillermo Varela (Uruguay) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "73'",
+   "team": null,
+   "text": "Goal! Argentina 1, Uruguay 2. Julián Alvarez (Argentina) right footed shot from the centre of the box to the bottom right corner. Assisted by Gianluca Prestianni."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "75'",
+   "team": null,
+   "text": "Enzo Fernández (Argentina) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Uruguay. Federico Viñas replaces Giorgian de Arrascaeta."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Uruguay. Facundo Bernal replaces Lucas Torreira."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "77'",
+   "team": null,
+   "text": "Rodrigo Bentancur (Uruguay) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, Argentina. Román Vega replaces Facundo Medina."
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, Argentina. Agustín Giay replaces Gonzalo Montiel."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Uruguay. Rodrigo Aguirre replaces Darwin Núñez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Uruguay. Facundo Pellistri replaces Maxi Araújo."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Agustín Giay (Argentina) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Second Half ends, Argentina 1, Uruguay 2."
+  }
+ ],
+ "scoringPlays": []
+}

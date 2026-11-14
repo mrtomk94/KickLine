@@ -1,0 +1,312 @@
+{
+ "id": "soccer-401930898",
+ "sport": "soccer",
+ "league": "International Friendly",
+ "start": "2026-11-14T00:00Z",
+ "home": {
+  "name": "Ecuador",
+  "abbr": "ECU",
+  "teamId": "209",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Costa Rica",
+  "abbr": "CRC",
+  "teamId": "214",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+1100",
+  "mlAwayOpen": "+700",
+  "mlDraw": "+500",
+  "mlHome": "-400",
+  "mlHomeOpen": "-270",
+  "provider": "DraftKings",
+  "spread": "ECU -400",
+  "spreadOpen": "ECU -1.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "ECU",
+   "stats": {
+    "foulsCommitted": "6",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "11",
+    "saves": "2",
+    "possessionPct": "63.3",
+    "totalShots": "19",
+    "shotsOnTarget": "7",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "353",
+    "totalPasses": "394",
+    "passPct": "0.9",
+    "accurateCrosses": "2",
+    "totalCrosses": "13",
+    "crossPct": "0.2",
+    "totalLongBalls": "31",
+    "accurateLongBalls": "18",
+    "longballPct": "0.6",
+    "blockedShots": "5",
+    "effectiveTackles": "8",
+    "totalTackles": "15",
+    "tacklePct": "0.5",
+    "interceptions": "2",
+    "effectiveClearance": "13",
+    "totalClearance": "13"
+   }
+  },
+  "away": {
+   "abbr": "CRC",
+   "stats": {
+    "foulsCommitted": "13",
+    "yellowCards": "2",
+    "redCards": "1",
+    "offsides": "0",
+    "wonCorners": "1",
+    "saves": "5",
+    "possessionPct": "36.7",
+    "totalShots": "4",
+    "shotsOnTarget": "2",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "172",
+    "totalPasses": "232",
+    "passPct": "0.7",
+    "accurateCrosses": "1",
+    "totalCrosses": "4",
+    "crossPct": "0.3",
+    "totalLongBalls": "42",
+    "accurateLongBalls": "12",
+    "longballPct": "0.3",
+    "blockedShots": "2",
+    "effectiveTackles": "14",
+    "totalTackles": "19",
+    "tacklePct": "0.7",
+    "interceptions": "4",
+    "effectiveClearance": "16",
+    "totalClearance": "16"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal",
+   "clock": "22'",
+   "team": null,
+   "text": "Goal! Ecuador 1, Costa Rica 0. Jordy Caicedo (Ecuador) left footed shot from the left side of the box to the bottom left corner. Assisted by Piero Hincapié with a through ball."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Ecuador 1, Costa Rica 0."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "54'",
+   "team": null,
+   "text": "Delay in match because of an injury Hernán Galíndez (Ecuador)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "54'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "55'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "55'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "57'",
+   "team": null,
+   "text": "Substitution, Costa Rica. Alexis Gamboa replaces Francisco Calvo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "57'",
+   "team": null,
+   "text": "Substitution, Costa Rica. Josimar Méndez replaces Andrey Soto."
+  },
+  {
+   "type": "Substitution",
+   "clock": "57'",
+   "team": null,
+   "text": "Substitution, Costa Rica. Celso Borges replaces Roan Wilson."
+  },
+  {
+   "type": "Substitution",
+   "clock": "57'",
+   "team": null,
+   "text": "Substitution, Costa Rica. Kenyel Michel replaces Josimar Alcócer."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "58'",
+   "team": null,
+   "text": "John Yeboah (Ecuador) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "59'",
+   "team": null,
+   "text": "Delay in match because of an injury John Yeboah (Ecuador)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "59'",
+   "team": null,
+   "text": "Delay in match because of an injury Alexis Gamboa (Costa Rica)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "63'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "63'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "64'",
+   "team": null,
+   "text": "Alexis Gamboa (Costa Rica) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Costa Rica. Diego Mesén replaces Alexis Gamboa because of an injury."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Costa Rica. Gian Morera replaces Douglas López."
+  },
+  {
+   "type": "Red Card",
+   "clock": "68'",
+   "team": null,
+   "text": "Diego Mesén (Costa Rica) is shown the red card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Ecuador. Kevin Rodríguez replaces Jordy Caicedo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Ecuador. John Mercado replaces Nilson Angulo."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "75'",
+   "team": null,
+   "text": "Delay in match because of an injury Patrick Sequeira (Costa Rica)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "75'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Costa Rica. Gerald Taylor replaces Joseph Mora."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Costa Rica. Aarón Salazar replaces Manfred Ugalde."
+  },
+  {
+   "type": "End Delay",
+   "clock": "76'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "76'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "83'",
+   "team": null,
+   "text": "Goal! Ecuador 2, Costa Rica 0. Moisés Caicedo (Ecuador) converts the penalty with a right footed shot to the bottom left corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "84'",
+   "team": null,
+   "text": "Substitution, Ecuador. Óscar Zambrano replaces Moisés Caicedo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "84'",
+   "team": null,
+   "text": "Substitution, Ecuador. Gonzalo Plata replaces John Yeboah."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Ecuador. Pervis Estupiñán replaces Piero Hincapié."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'",
+   "team": null,
+   "text": "Kenay Myrie (Costa Rica) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Second Half ends, Ecuador 2, Costa Rica 0."
+  }
+ ],
+ "scoringPlays": []
+}

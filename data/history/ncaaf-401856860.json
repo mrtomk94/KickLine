@@ -1,0 +1,150 @@
+{
+ "id": "ncaaf-401856860",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T03:15Z",
+ "home": {
+  "name": "Colorado Buffaloes",
+  "abbr": "COLO",
+  "teamId": "38",
+  "score": 42.0
+ },
+ "away": {
+  "name": "#14 Houston",
+  "abbr": "HOU",
+  "teamId": "248",
+  "score": 32.0
+ },
+ "odds": {
+  "mlAway": "-325",
+  "mlAwayOpen": "-395",
+  "mlHome": "+260",
+  "mlHomeOpen": "+310",
+  "provider": "DraftKings",
+  "spread": "HOU -7.5",
+  "spreadOpen": "HOU -10.5",
+  "total": "51.5",
+  "totalOpen": "47.5"
+ },
+ "espnWinProb": {
+  "away": 83.0,
+  "home": 17.0
+ },
+ "teams": {
+  "away": {
+   "abbr": "HOU",
+   "stats": {
+    "firstDowns": "28",
+    "thirdDownEff": "9-16",
+    "fourthDownEff": "2-3",
+    "totalYards": "477",
+    "netPassingYards": "272",
+    "completionAttempts": "26/42",
+    "yardsPerPass": "6.5",
+    "rushingYards": "205",
+    "rushingAttempts": "34",
+    "yardsPerRushAttempt": "6.0",
+    "totalPenaltiesYards": "6-45",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "interceptions": "1",
+    "possessionTime": "29:58"
+   }
+  },
+  "home": {
+   "abbr": "COLO",
+   "stats": {
+    "firstDowns": "20",
+    "thirdDownEff": "10-14",
+    "fourthDownEff": "0-1",
+    "totalYards": "466",
+    "netPassingYards": "217",
+    "completionAttempts": "17/25",
+    "yardsPerPass": "8.7",
+    "rushingYards": "249",
+    "rushingAttempts": "39",
+    "yardsPerRushAttempt": "6.4",
+    "totalPenaltiesYards": "6-61",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "30:02"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "7:50",
+   "team": "HOU",
+   "text": "Jonathan Dimas 27 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "14:55",
+   "team": "HOU",
+   "text": "Makhi Hughes 8 Yd Run (Jonathan Dimas Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "9:25",
+   "team": "COLO",
+   "text": "Richard Young 38 Yd Run (Daniel Gerlach Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "6:52",
+   "team": "HOU",
+   "text": "Amare Thomas 4 Yd pass from Conner Weigman (Jonathan Dimas Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "2:36",
+   "team": "HOU",
+   "text": "Jonathan Dimas 52 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "1:49",
+   "team": "COLO",
+   "text": "DeKalon Taylor 67 Yd Run (Daniel Gerlach Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:15",
+   "team": "COLO",
+   "text": "JaQuail Smith 32 Yd Run (Daniel Gerlach Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "13:21",
+   "team": "COLO",
+   "text": "Joseph Williams 53 Yd pass from Isaac Wilson (Daniel Gerlach Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "5:26",
+   "team": "COLO",
+   "text": "Kaneal Sweetwyne 14 Yd Run (Daniel Gerlach Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "10:00",
+   "team": "HOU",
+   "text": "Patrick Overmyer 22 Yd pass from Conner Weigman (Two-Point Pass Conversion Failed)"
+  },
+  {
+   "period": 4,
+   "clock": "3:59",
+   "team": "COLO",
+   "text": "Richard Young 2 Yd Run (Daniel Gerlach Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "1:51",
+   "team": "HOU",
+   "text": "Trent Walker 4 Yd pass from Conner Weigman (Two-Point Pass Conversion Failed)"
+  }
+ ]
+}

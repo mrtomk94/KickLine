@@ -1,0 +1,120 @@
+{
+ "id": "ncaaf-401858526",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T02:00Z",
+ "home": {
+  "name": "#4 UCLA",
+  "abbr": "UCLA",
+  "teamId": "26",
+  "score": 22.0
+ },
+ "away": {
+  "name": "Illinois Fighting Illini",
+  "abbr": "ILL",
+  "teamId": "356",
+  "score": 14.0
+ },
+ "odds": {
+  "mlAway": "+330",
+  "mlAwayOpen": "+380",
+  "mlHome": "-425",
+  "mlHomeOpen": "-500",
+  "provider": "DraftKings",
+  "spread": "UCLA -10",
+  "spreadOpen": "UCLA -12.5",
+  "total": "48.5",
+  "totalOpen": "47.5"
+ },
+ "espnWinProb": {
+  "away": 26.2,
+  "home": 73.8
+ },
+ "teams": {
+  "away": {
+   "abbr": "ILL",
+   "stats": {
+    "firstDowns": "17",
+    "thirdDownEff": "8-16",
+    "fourthDownEff": "1-2",
+    "totalYards": "240",
+    "netPassingYards": "176",
+    "completionAttempts": "16/37",
+    "yardsPerPass": "4.8",
+    "rushingYards": "64",
+    "rushingAttempts": "30",
+    "yardsPerRushAttempt": "2.1",
+    "totalPenaltiesYards": "5-45",
+    "turnovers": "3",
+    "fumblesLost": "0",
+    "interceptions": "3",
+    "possessionTime": "30:19"
+   }
+  },
+  "home": {
+   "abbr": "UCLA",
+   "stats": {
+    "firstDowns": "17",
+    "thirdDownEff": "5-13",
+    "fourthDownEff": "0-1",
+    "totalYards": "361",
+    "netPassingYards": "253",
+    "completionAttempts": "16/27",
+    "yardsPerPass": "9.4",
+    "rushingYards": "108",
+    "rushingAttempts": "34",
+    "yardsPerRushAttempt": "3.2",
+    "totalPenaltiesYards": "5-60",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "29:41"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "12:37",
+   "team": "UCLA",
+   "text": "Aidan Mizell 54 Yd pass from Ty Dieffenbach (Mateen Bhaghani Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:26",
+   "team": "UCLA",
+   "text": "Mateen Bhaghani 20 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "8:27",
+   "team": "UCLA",
+   "text": "Team Safety "
+  },
+  {
+   "period": 3,
+   "clock": "1:08",
+   "team": "ILL",
+   "text": "Kaden Feagin 18 Yd pass from Katin Houser (Ethan Moczulski Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "11:38",
+   "team": "UCLA",
+   "text": "Semaj Morgan 26 Yd pass from Ty Dieffenbach (Mateen Bhaghani Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "7:14",
+   "team": "ILL",
+   "text": "Collin Dixon 7 Yd pass from Katin Houser (Ethan Moczulski Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "1:56",
+   "team": "UCLA",
+   "text": "Mateen Bhaghani 37 Yd Field Goal  "
+  }
+ ]
+}

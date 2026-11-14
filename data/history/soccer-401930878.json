@@ -1,0 +1,270 @@
+{
+ "id": "soccer-401930878",
+ "sport": "soccer",
+ "league": "International Friendly",
+ "start": "2026-11-14T01:00Z",
+ "home": {
+  "name": "Peru",
+  "abbr": "PER",
+  "teamId": "211",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Bolivia",
+  "abbr": "BOL",
+  "teamId": "204",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+370",
+  "mlAwayOpen": "+475",
+  "mlDraw": "+260",
+  "mlHome": "-130",
+  "mlHomeOpen": "-175",
+  "provider": "DraftKings",
+  "spread": "PER -130",
+  "spreadOpen": "PER -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "PER",
+   "stats": {
+    "foulsCommitted": "8",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "6",
+    "saves": "4",
+    "possessionPct": "40.6",
+    "totalShots": "9",
+    "shotsOnTarget": "4",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "305",
+    "totalPasses": "356",
+    "passPct": "0.9",
+    "accurateCrosses": "4",
+    "totalCrosses": "12",
+    "crossPct": "0.3",
+    "totalLongBalls": "48",
+    "accurateLongBalls": "31",
+    "longballPct": "0.6",
+    "blockedShots": "1",
+    "effectiveTackles": "12",
+    "totalTackles": "20",
+    "tacklePct": "0.6",
+    "interceptions": "10",
+    "effectiveClearance": "20",
+    "totalClearance": "20"
+   }
+  },
+  "away": {
+   "abbr": "BOL",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "4",
+    "saves": "2",
+    "possessionPct": "59.4",
+    "totalShots": "12",
+    "shotsOnTarget": "4",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "472",
+    "totalPasses": "525",
+    "passPct": "0.9",
+    "accurateCrosses": "2",
+    "totalCrosses": "12",
+    "crossPct": "0.2",
+    "totalLongBalls": "40",
+    "accurateLongBalls": "21",
+    "longballPct": "0.5",
+    "blockedShots": "4",
+    "effectiveTackles": "7",
+    "totalTackles": "15",
+    "tacklePct": "0.5",
+    "interceptions": "7",
+    "effectiveClearance": "14",
+    "totalClearance": "14"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "10'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "12'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "13'",
+   "team": null,
+   "text": "Goal! Peru 1, Bolivia 0. Gianluca Lapadula (Peru) converts the penalty with a left footed shot to the top left corner."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "32'",
+   "team": null,
+   "text": "Delay in match because of an injury Robson Matheus (Bolivia)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "32'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "33'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "33'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Bolivia. Carlos Melgar replaces Robson Matheus."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Peru 1, Bolivia 0."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "54'",
+   "team": null,
+   "text": "Delay in match because of an injury Gianluca Lapadula (Peru)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "54'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "55'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "55'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "55'",
+   "team": null,
+   "text": "Substitution, Peru. Adrián Ugarriza replaces Gianluca Lapadula because of an injury."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "62'",
+   "team": null,
+   "text": "Marcos López (Peru) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "66'",
+   "team": null,
+   "text": "Miguel Terceros (Bolivia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Peru. Erinson Ramírez replaces Oslimg Mora."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Peru. Jesús Pretell replaces Rodrigo Vilca."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Peru. Maxloren Castro replaces Jhonny Vidales."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "68'",
+   "team": null,
+   "text": "Óscar López (Bolivia) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Bolivia. José Flores replaces Nabil Nacif."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Bolivia. Jorge Lovera replaces Óscar López."
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, Peru. Bassco Soyer replaces Piero Magallanes."
+  },
+  {
+   "type": "Substitution",
+   "clock": "84'",
+   "team": null,
+   "text": "Substitution, Peru. Matías Lazo replaces Andy Polo."
+  },
+  {
+   "type": "Goal",
+   "clock": "87'",
+   "team": null,
+   "text": "Goal! Peru 2, Bolivia 0. Maxloren Castro (Peru) right footed shot from outside the box to the bottom right corner. Assisted by Jesús Pretell."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

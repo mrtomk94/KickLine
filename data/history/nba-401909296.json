@@ -1,0 +1,97 @@
+{
+ "id": "nba-401909296",
+ "sport": "nba",
+ "league": "NBA",
+ "start": "2026-11-14T00:00Z",
+ "home": {
+  "name": "Indiana Pacers",
+  "abbr": "IND",
+  "teamId": "11",
+  "score": 106.0
+ },
+ "away": {
+  "name": "New York Knicks",
+  "abbr": "NY",
+  "teamId": "18",
+  "score": 104.0
+ },
+ "odds": {
+  "mlAway": "-337",
+  "mlAwayOpen": "-130",
+  "mlHome": "+271",
+  "mlHomeOpen": "+110",
+  "provider": "Draft Kings",
+  "spread": "NY -8.5",
+  "spreadOpen": "NY -2.5",
+  "total": "219.5",
+  "totalOpen": "233.5"
+ },
+ "espnWinProb": {
+  "away": 77.4,
+  "home": 22.6
+ },
+ "teams": {
+  "away": {
+   "abbr": "NY",
+   "stats": {
+    "fieldGoalsMade-fieldGoalsAttempted": "39-91",
+    "fieldGoalPct": "43",
+    "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "16-46",
+    "threePointFieldGoalPct": "35",
+    "freeThrowsMade-freeThrowsAttempted": "10-13",
+    "freeThrowPct": "77",
+    "totalRebounds": "43",
+    "offensiveRebounds": "8",
+    "defensiveRebounds": "35",
+    "assists": "28",
+    "steals": "11",
+    "blocks": "3",
+    "turnovers": "13",
+    "teamTurnovers": "4",
+    "totalTurnovers": "17",
+    "technicalFouls": "2",
+    "totalTechnicalFouls": "2",
+    "flagrantFouls": "0",
+    "turnoverPoints": "7",
+    "fastBreakPoints": "15",
+    "pointsInPaint": "30",
+    "fouls": "24",
+    "largestLead": "9",
+    "leadChanges": "4",
+    "leadPercentage": "18"
+   }
+  },
+  "home": {
+   "abbr": "IND",
+   "stats": {
+    "fieldGoalsMade-fieldGoalsAttempted": "39-90",
+    "fieldGoalPct": "43",
+    "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "10-29",
+    "threePointFieldGoalPct": "34",
+    "freeThrowsMade-freeThrowsAttempted": "18-25",
+    "freeThrowPct": "72",
+    "totalRebounds": "50",
+    "offensiveRebounds": "17",
+    "defensiveRebounds": "33",
+    "assists": "23",
+    "steals": "6",
+    "blocks": "3",
+    "turnovers": "15",
+    "teamTurnovers": "2",
+    "totalTurnovers": "17",
+    "technicalFouls": "0",
+    "totalTechnicalFouls": "0",
+    "flagrantFouls": "0",
+    "turnoverPoints": "18",
+    "fastBreakPoints": "9",
+    "pointsInPaint": "50",
+    "fouls": "16",
+    "largestLead": "14",
+    "leadChanges": "4",
+    "leadPercentage": "76"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": []
+}
