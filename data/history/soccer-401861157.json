@@ -1,0 +1,288 @@
+{
+ "id": "soccer-401861157",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-13T19:45Z",
+ "home": {
+  "name": "Bulgaria",
+  "abbr": "BUL",
+  "teamId": "462",
+  "score": 0.0
+ },
+ "away": {
+  "name": "Iceland",
+  "abbr": "ISL",
+  "teamId": "470",
+  "score": 5.0
+ },
+ "odds": {
+  "mlAway": "-155",
+  "mlAwayOpen": "-120",
+  "mlDraw": "+275",
+  "mlHome": "+390",
+  "mlHomeOpen": "+300",
+  "provider": "DraftKings",
+  "spread": "ISL -155",
+  "spreadOpen": "ISL -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "BUL",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "4",
+    "saves": "3",
+    "possessionPct": "51.9",
+    "totalShots": "9",
+    "shotsOnTarget": "2",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "460",
+    "totalPasses": "547",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "14",
+    "crossPct": "0.2",
+    "totalLongBalls": "54",
+    "accurateLongBalls": "14",
+    "longballPct": "0.3",
+    "blockedShots": "2",
+    "effectiveTackles": "9",
+    "totalTackles": "11",
+    "tacklePct": "0.8",
+    "interceptions": "5",
+    "effectiveClearance": "15",
+    "totalClearance": "15"
+   }
+  },
+  "away": {
+   "abbr": "ISL",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "1",
+    "saves": "2",
+    "possessionPct": "48.1",
+    "totalShots": "16",
+    "shotsOnTarget": "7",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "424",
+    "totalPasses": "509",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "12",
+    "crossPct": "0.3",
+    "totalLongBalls": "51",
+    "accurateLongBalls": "25",
+    "longballPct": "0.5",
+    "blockedShots": "4",
+    "effectiveTackles": "10",
+    "totalTackles": "22",
+    "tacklePct": "0.5",
+    "interceptions": "10",
+    "effectiveClearance": "22",
+    "totalClearance": "22"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "9'",
+   "team": null,
+   "text": "Substitution, Iceland. Hördur Magnússon replaces Stefán Thórdarson because of an injury."
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "17'",
+   "team": null,
+   "text": "Goal! Bulgaria 0, Iceland 1. Andri Gudjohnsen (Iceland) converts the penalty with a right footed shot to the bottom left corner."
+  },
+  {
+   "type": "Goal",
+   "clock": "21'",
+   "team": null,
+   "text": "Goal! Bulgaria 0, Iceland 2. Orri Óskarsson (Iceland) right footed shot from the centre of the box to the bottom right corner. Assisted by Hördur Magnússon following a fast break."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "26'",
+   "team": null,
+   "text": "Delay in match because of an injury Kristall Ingason (Iceland)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "26'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "27'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "27'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "29'",
+   "team": null,
+   "text": "Substitution, Iceland. Arnór Sigurdsson replaces Kristall Ingason because of an injury."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "37'",
+   "team": null,
+   "text": "Delay in match because of an injury Atanas Iliev (Bulgaria)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "37'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "38'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "38'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "39'",
+   "team": null,
+   "text": "Hördur Magnússon (Iceland) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "45'+4'",
+   "team": null,
+   "text": "Kristiyan Balov (Bulgaria) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+6'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Iceland. Brynjólfur Willumsson replaces Orri Óskarsson."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Bulgaria. Marin Petkov replaces Kristiyan Balov."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Own Goal",
+   "clock": "52'",
+   "team": null,
+   "text": "Own Goal by Emil Tsenov, Bulgaria. Bulgaria 0, Iceland 3."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "55'",
+   "team": null,
+   "text": "Andrian Kraev (Bulgaria) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Bulgaria. Ivaylo Chochev replaces Georgi Rusev."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, Bulgaria. Georgi Lazarov replaces Atanas Iliev."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "66'",
+   "team": null,
+   "text": "Hákon Haraldsson (Iceland) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "68'",
+   "team": null,
+   "text": "Goal! Bulgaria 0, Iceland 4. Andri Gudjohnsen (Iceland) right footed shot from the centre of the box to the centre of the goal. Assisted by Hákon Haraldsson."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Iceland. Gylfi Sigurdsson replaces Ísak Jóhannesson."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Iceland. Aron Gunnarsson replaces Daníel Grétarsson."
+  },
+  {
+   "type": "Goal",
+   "clock": "79'",
+   "team": null,
+   "text": "Goal! Bulgaria 0, Iceland 5. Andri Gudjohnsen (Iceland) left footed shot from the centre of the box to the centre of the goal."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Bulgaria. Ivan Pankov replaces Ilia Gruev."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Bulgaria. Dimitar Velkovski replaces Lukas Petkov."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Second Half ends, Bulgaria 0, Iceland 5."
+  }
+ ],
+ "scoringPlays": []
+}

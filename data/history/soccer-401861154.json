@@ -1,0 +1,204 @@
+{
+ "id": "soccer-401861154",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-13T19:45Z",
+ "home": {
+  "name": "Luxembourg",
+  "abbr": "LUX",
+  "teamId": "582",
+  "score": 0.0
+ },
+ "away": {
+  "name": "Estonia",
+  "abbr": "EST",
+  "teamId": "444",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+215",
+  "mlAwayOpen": "+250",
+  "mlDraw": "+190",
+  "mlHome": "+140",
+  "mlHomeOpen": "+105",
+  "provider": "DraftKings",
+  "spread": "LUX +140",
+  "spreadOpen": "LUX -0.5",
+  "total": "1.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "LUX",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "2",
+    "saves": "4",
+    "possessionPct": "54",
+    "totalShots": "8",
+    "shotsOnTarget": "3",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "506",
+    "totalPasses": "579",
+    "passPct": "0.9",
+    "accurateCrosses": "1",
+    "totalCrosses": "11",
+    "crossPct": "0.1",
+    "totalLongBalls": "67",
+    "accurateLongBalls": "35",
+    "longballPct": "0.5",
+    "blockedShots": "3",
+    "effectiveTackles": "10",
+    "totalTackles": "16",
+    "tacklePct": "0.6",
+    "interceptions": "7",
+    "effectiveClearance": "15",
+    "totalClearance": "15"
+   }
+  },
+  "away": {
+   "abbr": "EST",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "2",
+    "saves": "1",
+    "possessionPct": "46",
+    "totalShots": "10",
+    "shotsOnTarget": "5",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "430",
+    "totalPasses": "494",
+    "passPct": "0.9",
+    "accurateCrosses": "3",
+    "totalCrosses": "10",
+    "crossPct": "0.3",
+    "totalLongBalls": "60",
+    "accurateLongBalls": "31",
+    "longballPct": "0.5",
+    "blockedShots": "0",
+    "effectiveTackles": "9",
+    "totalTackles": "19",
+    "tacklePct": "0.5",
+    "interceptions": "11",
+    "effectiveClearance": "25",
+    "totalClearance": "25"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "42'",
+   "team": null,
+   "text": "Goal! Luxembourg 0, Estonia 1. Maksim Paskotsi (Estonia) right footed shot from the right side of the box to the bottom left corner. Assisted by Rocco Shein."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Luxembourg 0, Estonia 1."
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, Luxembourg. Enzo dos Santos replaces Sébastien Thill."
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, Luxembourg. Omar Natami replaces Aiman Dardari."
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, Luxembourg. Enes Mahmutovic replaces Tim Hall because of an injury."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "61'",
+   "team": null,
+   "text": "Omar Natami (Luxembourg) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "69'",
+   "team": null,
+   "text": "Substitution, Estonia. Marten-Chris Paalberg replaces Mattias Männilaan."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "73'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "74'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Estonia. Karel Mustmaa replaces Rocco Shein."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Luxembourg. Jayson Videira replaces Vincent Thill."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Luxembourg. Patrick Macedo replaces Florian Bohnert."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "80'",
+   "team": null,
+   "text": "Jayson Videira (Luxembourg) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Laurent Jans (Luxembourg) is shown the yellow card."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+6'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

@@ -1,0 +1,204 @@
+{
+ "id": "soccer-401861156",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-13T19:45Z",
+ "home": {
+  "name": "Slovenia",
+  "abbr": "SVN",
+  "teamId": "472",
+  "score": 0.0
+ },
+ "away": {
+  "name": "Switzerland",
+  "abbr": "SUI",
+  "teamId": "475",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "-120",
+  "mlAwayOpen": "-165",
+  "mlDraw": "+205",
+  "mlHome": "+390",
+  "mlHomeOpen": "+400",
+  "provider": "DraftKings",
+  "spread": "SUI -120",
+  "spreadOpen": "SUI -0.5",
+  "total": "1.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "SVN",
+   "stats": {
+    "foulsCommitted": "8",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "7",
+    "saves": "3",
+    "possessionPct": "28.7",
+    "totalShots": "8",
+    "shotsOnTarget": "2",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "227",
+    "totalPasses": "320",
+    "passPct": "0.7",
+    "accurateCrosses": "2",
+    "totalCrosses": "11",
+    "crossPct": "0.2",
+    "totalLongBalls": "46",
+    "accurateLongBalls": "15",
+    "longballPct": "0.3",
+    "blockedShots": "4",
+    "effectiveTackles": "9",
+    "totalTackles": "14",
+    "tacklePct": "0.6",
+    "interceptions": "17",
+    "effectiveClearance": "24",
+    "totalClearance": "24"
+   }
+  },
+  "away": {
+   "abbr": "SUI",
+   "stats": {
+    "foulsCommitted": "5",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "11",
+    "saves": "3",
+    "possessionPct": "71.3",
+    "totalShots": "13",
+    "shotsOnTarget": "3",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "720",
+    "totalPasses": "806",
+    "passPct": "0.9",
+    "accurateCrosses": "2",
+    "totalCrosses": "21",
+    "crossPct": "0.1",
+    "totalLongBalls": "41",
+    "accurateLongBalls": "14",
+    "longballPct": "0.3",
+    "blockedShots": "3",
+    "effectiveTackles": "5",
+    "totalTackles": "11",
+    "tacklePct": "0.5",
+    "interceptions": "8",
+    "effectiveClearance": "18",
+    "totalClearance": "18"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "10'",
+   "team": null,
+   "text": "Delay in match (Switzerland)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "10'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "15'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "15'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+7'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Slovenia 0, Switzerland 0."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "50'",
+   "team": null,
+   "text": "Srdjan Kuzmic (Slovenia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Switzerland. Zeki Amdouni replaces Breel Embolo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Switzerland. Isaac Schmidt replaces Zachary Athekame."
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Slovenia. Zan Celar replaces Zan Vipotnik."
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Slovenia. Tjas Begic replaces Aljosa Matko."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "83'",
+   "team": null,
+   "text": "Jaka Bijol (Slovenia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, Switzerland. Djibril Sow replaces Michel Aebischer."
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, Switzerland. Samuel Ballet replaces Dan Ndoye."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Substitution, Switzerland. Ricardo Rodríguez replaces Fabian Rieder."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+2'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

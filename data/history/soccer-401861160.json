@@ -1,0 +1,258 @@
+{
+ "id": "soccer-401861160",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-13T19:45Z",
+ "home": {
+  "name": "Slovakia",
+  "abbr": "SVK",
+  "teamId": "468",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Faroe Islands",
+  "abbr": "FRO",
+  "teamId": "447",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "+700",
+  "mlAwayOpen": "+700",
+  "mlDraw": "+340",
+  "mlHome": "-270",
+  "mlHomeOpen": "-300",
+  "provider": "DraftKings",
+  "spread": "SVK -270",
+  "spreadOpen": "SVK -1.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "SVK",
+   "stats": {
+    "foulsCommitted": "7",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "9",
+    "saves": "2",
+    "possessionPct": "72.4",
+    "totalShots": "14",
+    "shotsOnTarget": "5",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "526",
+    "totalPasses": "618",
+    "passPct": "0.9",
+    "accurateCrosses": "6",
+    "totalCrosses": "23",
+    "crossPct": "0.3",
+    "totalLongBalls": "47",
+    "accurateLongBalls": "22",
+    "longballPct": "0.5",
+    "blockedShots": "6",
+    "effectiveTackles": "7",
+    "totalTackles": "12",
+    "tacklePct": "0.6",
+    "interceptions": "6",
+    "effectiveClearance": "33",
+    "totalClearance": "33"
+   }
+  },
+  "away": {
+   "abbr": "FRO",
+   "stats": {
+    "foulsCommitted": "17",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "5",
+    "saves": "2",
+    "possessionPct": "27.6",
+    "totalShots": "10",
+    "shotsOnTarget": "4",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "146",
+    "totalPasses": "225",
+    "passPct": "0.6",
+    "accurateCrosses": "1",
+    "totalCrosses": "17",
+    "crossPct": "0.1",
+    "totalLongBalls": "52",
+    "accurateLongBalls": "18",
+    "longballPct": "0.3",
+    "blockedShots": "3",
+    "effectiveTackles": "12",
+    "totalTackles": "20",
+    "tacklePct": "0.6",
+    "interceptions": "9",
+    "effectiveClearance": "33",
+    "totalClearance": "33"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "17'",
+   "team": null,
+   "text": "Goal! Slovakia 1, Faroe Islands 0. Erik Prekop (Slovakia) header from very close range to the bottom left corner. Assisted by Dávid Hancko with a cross."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "28'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "29'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "30'",
+   "team": null,
+   "text": "Goal! Slovakia 1, Faroe Islands 1. Viljormur Davidsen (Faroe Islands) converts the penalty with a left footed shot to the bottom left corner."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": "First Half ends, Slovakia 1, Faroe Islands 1."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Slovakia 1, Faroe Islands 1."
+  },
+  {
+   "type": "Goal",
+   "clock": "47'",
+   "team": null,
+   "text": "Goal! Slovakia 1, Faroe Islands 2. Áki Samuelsen (Faroe Islands) right footed shot from very close range to the bottom right corner. Assisted by Petur Knudsen."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "55'",
+   "team": null,
+   "text": "Martin Valjent (Slovakia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "62'",
+   "team": null,
+   "text": "Petur Knudsen (Faroe Islands) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, Slovakia. Ivan Mesík replaces Martin Valjent."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, Slovakia. Róbert Bozeník replaces Albert Rusnák."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Faroe Islands. Poul Kallsberg replaces Áki Samuelsen."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Faroe Islands. Jóannes Bjartalíd replaces Géza Turi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Faroe Islands. Adrian Justinussen replaces Hanus Sørensen."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "66'",
+   "team": null,
+   "text": "Dominik Greif (Slovakia) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "68'",
+   "team": null,
+   "text": "Jóannes Danielsen (Faroe Islands) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "74'",
+   "team": null,
+   "text": "Goal! Slovakia 2, Faroe Islands 2. Lukás Haraslín (Slovakia) right footed shot from the left side of the box to the bottom right corner.Goal confirmed following VAR Review."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "74'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "76'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Faroe Islands. Meinhard Olsen replaces Petur Knudsen."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "82'",
+   "team": null,
+   "text": "Andrias Edmundsson (Faroe Islands) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "84'",
+   "team": null,
+   "text": "Substitution, Slovakia. Nino Marcelli replaces David Strelec."
+  },
+  {
+   "type": "Substitution",
+   "clock": "84'",
+   "team": null,
+   "text": "Substitution, Slovakia. Matús Bero replaces Ludovit Reis."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Substitution, Slovakia. Tomás Bobcek replaces Erik Prekop."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Second Half ends, Slovakia 2, Faroe Islands 2."
+  }
+ ],
+ "scoringPlays": []
+}

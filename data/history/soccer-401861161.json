@@ -1,0 +1,210 @@
+{
+ "id": "soccer-401861161",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-13T19:45Z",
+ "home": {
+  "name": "Scotland",
+  "abbr": "SCO",
+  "teamId": "580",
+  "score": 2.0
+ },
+ "away": {
+  "name": "North Macedonia",
+  "abbr": "MKD",
+  "teamId": "463",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+1200",
+  "mlAwayOpen": "+1000",
+  "mlDraw": "+550",
+  "mlHome": "-550",
+  "mlHomeOpen": "-500",
+  "provider": "DraftKings",
+  "spread": "SCO -550",
+  "spreadOpen": "SCO -1.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "SCO",
+   "stats": {
+    "foulsCommitted": "16",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "9",
+    "saves": "1",
+    "possessionPct": "54.4",
+    "totalShots": "18",
+    "shotsOnTarget": "6",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "375",
+    "totalPasses": "458",
+    "passPct": "0.8",
+    "accurateCrosses": "8",
+    "totalCrosses": "25",
+    "crossPct": "0.3",
+    "totalLongBalls": "62",
+    "accurateLongBalls": "33",
+    "longballPct": "0.5",
+    "blockedShots": "5",
+    "effectiveTackles": "7",
+    "totalTackles": "13",
+    "tacklePct": "0.5",
+    "interceptions": "9",
+    "effectiveClearance": "15",
+    "totalClearance": "15"
+   }
+  },
+  "away": {
+   "abbr": "MKD",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "5",
+    "saves": "5",
+    "possessionPct": "45.6",
+    "totalShots": "7",
+    "shotsOnTarget": "2",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "301",
+    "totalPasses": "392",
+    "passPct": "0.8",
+    "accurateCrosses": "1",
+    "totalCrosses": "11",
+    "crossPct": "0.1",
+    "totalLongBalls": "76",
+    "accurateLongBalls": "29",
+    "longballPct": "0.4",
+    "blockedShots": "1",
+    "effectiveTackles": "2",
+    "totalTackles": "9",
+    "tacklePct": "0.2",
+    "interceptions": "13",
+    "effectiveClearance": "26",
+    "totalClearance": "26"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, Scotland 0, North Macedonia 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Scotland 0, North Macedonia 0."
+  },
+  {
+   "type": "Goal",
+   "clock": "54'",
+   "team": null,
+   "text": "Goal! Scotland 1, North Macedonia 0. John McGinn (Scotland) right footed shot from the centre of the box to the bottom right corner. Assisted by Ché Adams."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "57'",
+   "team": null,
+   "text": "Goal! Scotland 1, North Macedonia 1. Elmin Rastoder (North Macedonia) header from the left side of the six yard box to the bottom right corner. Assisted by Enis Bardhi with a cross following a corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, North Macedonia. Hristijan Maleski replaces Darko Churlinov."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, North Macedonia. Agon Elezi replaces Matej Gashtarov."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Scotland. Oliver McBurnie replaces Ché Adams."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "72'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "73'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "74'",
+   "team": null,
+   "text": "Goal! Scotland 2, North Macedonia 1. John McGinn (Scotland) converts the penalty with a left footed shot to the centre of the goal."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Scotland. Ryan Christie replaces Billy Gilmour."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Scotland. Aaron Hickey replaces Ben Gannon-Doak."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, North Macedonia. Azer Omeragikj replaces Elmin Rastoder."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, North Macedonia. Luka Stankovski replaces Eljif Elmas."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, North Macedonia. Boban Nikolov replaces Ljupcho Doriev."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "89'",
+   "team": null,
+   "text": "Lewis Ferguson (Scotland) is shown the yellow card."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

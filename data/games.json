@@ -85,7 +85,7 @@
   "sport": "nba",
   "stars": 2,
   "start": "2026-11-14T00:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-13T20:16:40Z",
   "venue": "Gainbridge Fieldhouse, Indianapolis"
  },
@@ -175,7 +175,7 @@
   "sport": "nba",
   "stars": 2,
   "start": "2026-11-14T00:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-13T20:16:40Z",
   "venue": "Kia Center, Orlando"
  },
@@ -192,7 +192,7 @@
    "short": "Cavaliers",
    "teamId": "5"
   },
-  "confidence": 48,
+  "confidence": 49,
   "espnId": "401909298",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -203,7 +203,10 @@
   "home": {
    "abbr": "MIA",
    "form": "WWLWL",
-   "injuries": [],
+   "injuries": [
+    "Klay Thompson (G) – Out, Ankle",
+    "Pelle Larsson (G) – Out, Illness"
+   ],
    "name": "Miami Heat",
    "record": "5-6",
    "short": "Heat",
@@ -225,43 +228,65 @@
      "pos": "G",
      "stale": false,
      "status": "Out"
+    },
+    {
+     "detail": "Back",
+     "player": "Nae'Qwan Tomlin",
+     "pos": "F",
+     "stale": true,
+     "status": "Out"
     }
    ],
-   "home": []
+   "home": [
+    {
+     "detail": "Ankle",
+     "player": "Klay Thompson",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Illness",
+     "player": "Pelle Larsson",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    }
+   ]
   },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909298",
   "news": [
-   "Fantasy hoops managers are giving up on Mikal Bridges, here's why you shouldn't",
-   "NBA buzz: Latest on trades, news, roster moves and intel",
-   "Sources: Murray wants trade from Pelicans; both sides working on resolution"
+   "Lakers' Austin Reaves day-to-day with left heel bruise",
+   "Shams: Dejounte Murray has requested a trade from the Pelicans",
+   "Fantasy hoops managers are giving up on Mikal Bridges, here's why you shouldn't"
   ],
   "odds": {
-   "mlAway": "+114",
+   "mlAway": "+120",
    "mlAwayOpen": "+105",
-   "mlHome": "-135",
+   "mlHome": "-142",
    "mlHomeOpen": "-125",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "MIA -2.5",
    "spreadOpen": "MIA -1.5",
    "total": "235.5",
    "totalOpen": "237.5"
   },
   "pick": "Pass",
-  "reason": "MIA about 55% no-vig at -135; no edge worth a pick.",
+  "reason": "MIA about 56% no-vig at -142; no edge worth a pick.",
   "risks": [
-   "ESPN model only 45% vs market 55%"
+   "ESPN model only 45% vs market 56%"
   ],
   "slug": "nba",
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-14T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Kaseya Center, Miami"
  },
  "nba-401909299": {
-  "_lastPick": "ATL ML (-277)",
+  "_lastPick": "ATL ML (-257)",
   "away": {
    "abbr": "ATL",
    "form": "LWWWW",
@@ -275,18 +300,19 @@
    "short": "Hawks",
    "teamId": "1"
   },
-  "confidence": 70,
+  "confidence": 68,
   "espnId": "401909299",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 75.0,
-   "home": 25.0
+   "away": 72.5,
+   "home": 27.5
   },
   "home": {
    "abbr": "CHI",
    "form": "LLLLL",
    "injuries": [
+    "Dailyn Swain (G) – Out, Back",
     "Tobe Awaka (F) – Out, Back",
     "Caleb Wilson (F) – Out, Hand"
    ],
@@ -330,6 +356,13 @@
    "home": [
     {
      "detail": "Back",
+     "player": "Dailyn Swain",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Back",
      "player": "Tobe Awaka",
      "pos": "F",
      "stale": false,
@@ -348,23 +381,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909299",
   "market": "Moneyline",
   "news": [
-   "Fantasy hoops managers are giving up on Mikal Bridges, here's why you shouldn't",
-   "NBA buzz: Latest on trades, news, roster moves and intel",
-   "Sources: Murray wants trade from Pelicans; both sides working on resolution"
+   "2026 NBA Cup: Schedule, format, groups, updates and more",
+   "Lakers' Austin Reaves day-to-day with left heel bruise",
+   "Shams: Dejounte Murray has requested a trade from the Pelicans"
   ],
   "odds": {
-   "mlAway": "-277",
+   "mlAway": "-257",
    "mlAwayOpen": "-263",
-   "mlHome": "+227",
+   "mlHome": "+211",
    "mlHomeOpen": "+216",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "ATL -6.5",
    "spreadOpen": "ATL -6.5",
-   "total": "245.5",
+   "total": "246.5",
    "totalOpen": "246.5"
   },
-  "pick": "ATL ML (-277)",
-  "reason": "ATL are about 71% no-vig at -277; ESPN's model has 75%. For: form LWWWW vs LLLLL. Capped at 2★: NBA capped by lessons.",
+  "pick": "ATL ML (-257)",
+  "reason": "ATL are about 69% no-vig at -257; ESPN's model has 72%. For: form LWWWW vs LLLLL. Capped at 2★: NBA capped by lessons.",
   "risks": [],
   "side": "away",
   "slug": "nba",
@@ -372,7 +405,7 @@
   "stars": 2,
   "start": "2026-11-14T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "United Center, Chicago"
  },
  "nba-401909300": {
@@ -402,9 +435,11 @@
    "abbr": "NO",
    "form": "LLLLW",
    "injuries": [
+    "Dejounte Murray (G) – Out, Ankle",
     "Bryce McGowens (G) – Out, Elbow",
     "Yves Missi (C) – Out, Knee",
-    "Trey Murphy III (F) – Out, Knee"
+    "Trey Murphy III (F) – Out, Knee",
+    "Trendon Watford (F) – Out, Ankle"
    ],
    "name": "New Orleans Pelicans",
    "record": "4-8",
@@ -445,6 +480,13 @@
    ],
    "home": [
     {
+     "detail": "Ankle",
+     "player": "Dejounte Murray",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
      "detail": "Elbow",
      "player": "Bryce McGowens",
      "pos": "G",
@@ -464,22 +506,29 @@
      "pos": "F",
      "stale": false,
      "status": "Out"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Trendon Watford",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
     }
    ]
   },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909300",
   "news": [
-   "Fantasy hoops managers are giving up on Mikal Bridges, here's why you shouldn't",
-   "NBA buzz: Latest on trades, news, roster moves and intel",
-   "Sources: Murray wants trade from Pelicans; both sides working on resolution"
+   "2026 NBA Cup: Schedule, format, groups, updates and more",
+   "Lakers' Austin Reaves day-to-day with left heel bruise",
+   "Shams: Dejounte Murray has requested a trade from the Pelicans"
   ],
   "odds": {
    "mlAway": "-162",
    "mlAwayOpen": "-141",
    "mlHome": "+136",
    "mlHomeOpen": "+119",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "MEM -3.5",
    "spreadOpen": "MEM -4.5",
    "total": "235.5",
@@ -493,7 +542,7 @@
   "stars": 1,
   "start": "2026-11-14T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Smoothie King Center, New Orleans"
  },
  "nba-401909301": {
@@ -585,16 +634,16 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909301",
   "market": "Moneyline",
   "news": [
-   "Fantasy hoops managers are giving up on Mikal Bridges, here's why you shouldn't",
-   "NBA buzz: Latest on trades, news, roster moves and intel",
-   "Sources: Murray wants trade from Pelicans; both sides working on resolution"
+   "Lakers' Austin Reaves day-to-day with left heel bruise",
+   "Shams: Dejounte Murray has requested a trade from the Pelicans",
+   "Fantasy hoops managers are giving up on Mikal Bridges, here's why you shouldn't"
   ],
   "odds": {
    "mlAway": "+740",
    "mlAwayOpen": "+900",
    "mlHome": "-1180",
    "mlHomeOpen": "-1580",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "HOU -15.5",
    "spreadOpen": "HOU -17.5",
    "total": "221.5",
@@ -609,11 +658,11 @@
   "stars": 2,
   "start": "2026-11-14T01:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Toyota Center (Houston), Houston"
  },
  "nba-401909302": {
-  "_lastPick": "SA ML (-670)",
+  "_lastPick": "SA ML (-650)",
   "away": {
    "abbr": "GS",
    "form": "LWWWW",
@@ -699,23 +748,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909302",
   "market": "Moneyline",
   "news": [
-   "Fantasy hoops managers are giving up on Mikal Bridges, here's why you shouldn't",
-   "NBA buzz: Latest on trades, news, roster moves and intel",
-   "Sources: Murray wants trade from Pelicans; both sides working on resolution"
+   "Lakers' Austin Reaves day-to-day with left heel bruise",
+   "Shams: Dejounte Murray has requested a trade from the Pelicans",
+   "Fantasy hoops managers are giving up on Mikal Bridges, here's why you shouldn't"
   ],
   "odds": {
-   "mlAway": "+487",
+   "mlAway": "+473",
    "mlAwayOpen": "+390",
-   "mlHome": "-670",
+   "mlHome": "-650",
    "mlHomeOpen": "-520",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "SA -12.5",
    "spreadOpen": "SA -11.5",
-   "total": "218.5",
+   "total": "216.5",
    "totalOpen": "234.5"
   },
-  "pick": "SA ML (-670)",
-  "reason": "SA are about 84% no-vig at -670; ESPN's model has 87%.",
+  "pick": "SA ML (-650)",
+  "reason": "SA are about 83% no-vig at -650; ESPN's model has 87%.",
   "risks": [],
   "side": "home",
   "slug": "nba",
@@ -723,7 +772,7 @@
   "stars": 2,
   "start": "2026-11-14T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Frost Bank Center, San Antonio"
  },
  "nba-401909303": {
@@ -753,6 +802,7 @@
    "abbr": "SAC",
    "form": "LLLLW",
    "injuries": [
+    "Precious Achiuwa (F) – Out, Ankle",
     "Maxime Raynaud (C) – Out, Knee"
    ],
    "name": "Sacramento Kings",
@@ -794,6 +844,13 @@
    ],
    "home": [
     {
+     "detail": "Ankle",
+     "player": "Precious Achiuwa",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
      "detail": "Knee",
      "player": "Maxime Raynaud",
      "pos": "C",
@@ -813,16 +870,16 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909303",
   "market": "Moneyline",
   "news": [
-   "Fantasy hoops managers are giving up on Mikal Bridges, here's why you shouldn't",
-   "NBA buzz: Latest on trades, news, roster moves and intel",
-   "Sources: Murray wants trade from Pelicans; both sides working on resolution"
+   "Lakers' Austin Reaves day-to-day with left heel bruise",
+   "Shams: Dejounte Murray has requested a trade from the Pelicans",
+   "Fantasy hoops managers are giving up on Mikal Bridges, here's why you shouldn't"
   ],
   "odds": {
    "mlAway": "-468",
    "mlAwayOpen": "-569",
    "mlHome": "+361",
    "mlHomeOpen": "+426",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "POR -10.5",
    "spreadOpen": "POR -10.5",
    "total": "229.5",
@@ -837,7 +894,7 @@
   "stars": 2,
   "start": "2026-11-14T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Golden 1 Center, Sacramento"
  },
  "nba-401909304": {
@@ -943,16 +1000,16 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909304",
   "market": "Moneyline",
   "news": [
-   "Fantasy hoops managers are giving up on Mikal Bridges, here's why you shouldn't",
-   "NBA buzz: Latest on trades, news, roster moves and intel",
-   "Sources: Murray wants trade from Pelicans; both sides working on resolution"
+   "2026 NBA Cup: Schedule, format, groups, updates and more",
+   "Lakers' Austin Reaves day-to-day with left heel bruise",
+   "Shams: Dejounte Murray has requested a trade from the Pelicans"
   ],
   "odds": {
    "mlAway": "-283",
    "mlAwayOpen": "-276",
    "mlHome": "+231",
    "mlHomeOpen": "+226",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "OKC -7.5",
    "spreadOpen": "OKC -7.5",
    "total": "222.5",
@@ -967,258 +1024,8 @@
   "stars": 2,
   "start": "2026-11-14T03:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Intuit Dome, Inglewood"
- },
- "nba-401909976": {
-  "_lastPick": "PHI ML (-288)",
-  "away": {
-   "abbr": "TOR",
-   "form": "LLWLW",
-   "injuries": [
-    "Trayce Jackson-Davis (F) – Out, Illness",
-    "Scottie Barnes (F) – Out, Groin",
-    "Kawhi Leonard (F) – Out, Knee",
-    "Nate Bittle (C) – Out, Foot"
-   ],
-   "name": "Toronto Raptors",
-   "record": "5-7",
-   "short": "Raptors",
-   "teamId": "28"
-  },
-  "confidence": 67,
-  "espnId": "401909976",
-  "espnLeague": "nba",
-  "espnSport": "basketball",
-  "espnWinProb": {
-   "away": 27.3,
-   "home": 72.7
-  },
-  "home": {
-   "abbr": "PHI",
-   "form": "LWLWW",
-   "injuries": [
-    "LeBron James (F) – Out, Back",
-    "Dominick Barlow (F) – Out, Back",
-    "Adem Bona (C) – Out, Back"
-   ],
-   "name": "Philadelphia 76ers",
-   "record": "10-3",
-   "short": "76ers",
-   "teamId": "20"
-  },
-  "id": "nba-401909976",
-  "injuriesRaw": {
-   "away": [
-    {
-     "detail": "Illness",
-     "player": "Trayce Jackson-Davis",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Groin",
-     "player": "Scottie Barnes",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Kawhi Leonard",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Foot",
-     "player": "Nate Bittle",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    }
-   ],
-   "home": [
-    {
-     "detail": "Back",
-     "player": "LeBron James",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Back",
-     "player": "Dominick Barlow",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Back",
-     "player": "Adem Bona",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Achilles",
-     "player": "Ariel Hukporti",
-     "pos": "C",
-     "stale": true,
-     "status": "Out"
-    }
-   ]
-  },
-  "league": "NBA",
-  "link": "https://www.espn.com/nba/game/_/gameId/401909976",
-  "market": "Moneyline",
-  "news": [
-   "Rockets' Marcus Smart suspended three games for punch",
-   "Sources: Bulls' Caleb Wilson to have surgery on fractured hand, miss 4-6 weeks",
-   "Tim MacMahon: Yaxel Lendeborg needs to be 'go-to guy' with Steph out"
-  ],
-  "odds": {
-   "mlAway": "+235",
-   "mlAwayOpen": "+341",
-   "mlHome": "-288",
-   "mlHomeOpen": "-410",
-   "provider": "DraftKings",
-   "spread": "PHI -7.5",
-   "spreadOpen": "PHI -9.5",
-   "total": "223.5",
-   "totalOpen": "221.5"
-  },
-  "pick": "PHI ML (-288)",
-  "reason": "PHI are about 71% no-vig at -288; ESPN's model has 73%.",
-  "risks": [
-   "line drifted away (-410 → -288)"
-  ],
-  "side": "home",
-  "slug": "nba",
-  "sport": "nba",
-  "stars": 2,
-  "start": "2026-11-13T00:00Z",
-  "state": "post",
-  "updatedAt": "2026-11-12T23:53:43Z",
-  "venue": "Xfinity Mobile Arena, Philadelphia"
- },
- "nba-401909977": {
-  "_lastPick": "DET ML (-438)",
-  "away": {
-   "abbr": "DET",
-   "form": "WLLWW",
-   "injuries": [
-    "Isaiah Joe (G) – Out, Hip",
-    "Jalen Duren (C) – Out, Hamstring"
-   ],
-   "name": "Detroit Pistons",
-   "record": "8-3",
-   "short": "Pistons",
-   "teamId": "8"
-  },
-  "confidence": 74,
-  "espnId": "401909977",
-  "espnLeague": "nba",
-  "espnSport": "basketball",
-  "espnWinProb": {
-   "away": 72.2,
-   "home": 27.8
-  },
-  "home": {
-   "abbr": "WSH",
-   "form": "LLLLL",
-   "injuries": [
-    "Tristan Vukcevic (F) – Out, Hip",
-    "Reece Beekman (G) – Out, Shoulder",
-    "Justin Champagnie (F) – Out, Foot"
-   ],
-   "name": "Washington Wizards",
-   "record": "4-9",
-   "short": "Wizards",
-   "teamId": "27"
-  },
-  "id": "nba-401909977",
-  "injuriesRaw": {
-   "away": [
-    {
-     "detail": "Hip",
-     "player": "Isaiah Joe",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Hamstring",
-     "player": "Jalen Duren",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    }
-   ],
-   "home": [
-    {
-     "detail": "Hip",
-     "player": "Tristan Vukcevic",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Shoulder",
-     "player": "Reece Beekman",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Foot",
-     "player": "Justin Champagnie",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Jamir Watkins",
-     "pos": "G",
-     "stale": true,
-     "status": "Out"
-    }
-   ]
-  },
-  "league": "NBA",
-  "link": "https://www.espn.com/nba/game/_/gameId/401909977",
-  "market": "Moneyline",
-  "news": [
-   "Rockets' Marcus Smart suspended three games for punch",
-   "Sources: Bulls' Caleb Wilson to have surgery on fractured hand, miss 4-6 weeks",
-   "Tim MacMahon: Yaxel Lendeborg needs to be 'go-to guy' with Steph out"
-  ],
-  "odds": {
-   "mlAway": "-438",
-   "mlAwayOpen": "-369",
-   "mlHome": "+341",
-   "mlHomeOpen": "+293",
-   "provider": "DraftKings",
-   "spread": "DET -10.5",
-   "spreadOpen": "DET -9.5",
-   "total": "223.5",
-   "totalOpen": "220.5"
-  },
-  "pick": "DET ML (-438)",
-  "reason": "DET are about 78% no-vig at -438; ESPN's model has 72%. For: form WLLWW vs LLLLL.",
-  "risks": [
-   "ESPN model only 72% vs market 78%"
-  ],
-  "side": "away",
-  "slug": "nba",
-  "sport": "nba",
-  "stars": 2,
-  "start": "2026-11-13T00:00Z",
-  "state": "post",
-  "updatedAt": "2026-11-12T23:53:43Z",
-  "venue": "Capital One Arena, Washington"
  },
  "nba-401909978": {
   "_lastPick": "MIN ML (-223)",
@@ -1457,7 +1264,7 @@
   "stars": 1,
   "start": "2026-11-15T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Smoothie King Center, New Orleans"
  },
  "nba-401909981": {
@@ -1492,7 +1299,7 @@
   "stars": 1,
   "start": "2026-11-15T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Rocket Arena, Cleveland"
  },
  "nba-401909982": {
@@ -1527,7 +1334,7 @@
   "stars": 1,
   "start": "2026-11-15T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Kaseya Center, Miami"
  },
  "nba-401909983": {
@@ -1562,7 +1369,7 @@
   "stars": 1,
   "start": "2026-11-15T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "FedExForum, Memphis"
  },
  "nba-401909984": {
@@ -1597,7 +1404,7 @@
   "stars": 1,
   "start": "2026-11-15T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Target Center, Minneapolis"
  },
  "nba-401909985": {
@@ -1632,7 +1439,7 @@
   "stars": 1,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Xfinity Mobile Arena, Philadelphia"
  },
  "nba-401909986": {
@@ -1667,7 +1474,7 @@
   "stars": 1,
   "start": "2026-11-15T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Mortgage Matchup Center, Phoenix"
  },
  "nba-401909987": {
@@ -1702,7 +1509,7 @@
   "stars": 1,
   "start": "2026-11-15T21:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Intuit Dome, Inglewood"
  },
  "nba-401909988": {
@@ -1737,7 +1544,7 @@
   "stars": 1,
   "start": "2026-11-15T22:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Delta Center, Salt Lake City"
  },
  "nba-401909989": {
@@ -1772,7 +1579,7 @@
   "stars": 1,
   "start": "2026-11-15T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "TD Garden, Boston"
  },
  "nba-401909990": {
@@ -1807,7 +1614,7 @@
   "stars": 1,
   "start": "2026-11-15T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Scotiabank Arena, Toronto"
  },
  "nba-401909991": {
@@ -1842,7 +1649,7 @@
   "stars": 1,
   "start": "2026-11-16T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Capital One Arena, Washington"
  },
  "nba-401909992": {
@@ -1877,7 +1684,7 @@
   "stars": 1,
   "start": "2026-11-16T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Fiserv Forum, Milwaukee"
  },
  "nba-401909993": {
@@ -1912,11 +1719,186 @@
   "stars": 1,
   "start": "2026-11-16T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Golden 1 Center, Sacramento"
  },
+ "nba-401909994": {
+  "away": {
+   "abbr": "ORL",
+   "name": "Orlando Magic",
+   "record": "4-7",
+   "short": "Magic",
+   "teamId": "19"
+  },
+  "espnId": "401909994",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "BOS",
+   "name": "Boston Celtics",
+   "record": "10-2",
+   "short": "Celtics",
+   "teamId": "2"
+  },
+  "id": "nba-401909994",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401909994",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-17T00:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-14T00:55:02Z",
+  "venue": "TD Garden, Boston"
+ },
+ "nba-401909995": {
+  "away": {
+   "abbr": "CHI",
+   "name": "Chicago Bulls",
+   "record": "1-9",
+   "short": "Bulls",
+   "teamId": "4"
+  },
+  "espnId": "401909995",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "CLE",
+   "name": "Cleveland Cavaliers",
+   "record": "6-6",
+   "short": "Cavaliers",
+   "teamId": "5"
+  },
+  "id": "nba-401909995",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401909995",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-17T00:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-14T00:55:02Z",
+  "venue": "Rocket Arena, Cleveland"
+ },
+ "nba-401909996": {
+  "away": {
+   "abbr": "MEM",
+   "name": "Memphis Grizzlies",
+   "record": "7-4",
+   "short": "Grizzlies",
+   "teamId": "29"
+  },
+  "espnId": "401909996",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "WSH",
+   "name": "Washington Wizards",
+   "record": "4-9",
+   "short": "Wizards",
+   "teamId": "27"
+  },
+  "id": "nba-401909996",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401909996",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-17T00:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-14T00:55:02Z",
+  "venue": "Capital One Arena, Washington"
+ },
+ "nba-401909997": {
+  "away": {
+   "abbr": "PHI",
+   "name": "Philadelphia 76ers",
+   "record": "10-3",
+   "short": "76ers",
+   "teamId": "20"
+  },
+  "espnId": "401909997",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "BKN",
+   "name": "Brooklyn Nets",
+   "record": "3-8",
+   "short": "Nets",
+   "teamId": "17"
+  },
+  "id": "nba-401909997",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401909997",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-17T00:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-14T00:55:02Z",
+  "venue": "Barclays Center, Brooklyn"
+ },
+ "nba-401909998": {
+  "away": {
+   "abbr": "HOU",
+   "name": "Houston Rockets",
+   "record": "9-3",
+   "short": "Rockets",
+   "teamId": "10"
+  },
+  "espnId": "401909998",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "MIA",
+   "name": "Miami Heat",
+   "record": "5-6",
+   "short": "Heat",
+   "teamId": "14"
+  },
+  "id": "nba-401909998",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401909998",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-17T00:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-14T00:55:02Z",
+  "venue": "Kaseya Center, Miami"
+ },
  "ncaaf-401856857": {
-  "_lastPick": "UCF ML (-155)",
+  "_lastPick": "UCF ML (-162)",
   "away": {
    "abbr": "ASU",
    "form": "WLWLW",
@@ -1925,7 +1907,7 @@
    "short": "Arizona St",
    "teamId": "9"
   },
-  "confidence": 59,
+  "confidence": 60,
   "espnId": "401856857",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -1946,23 +1928,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856857",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
-   "mlAway": "+130",
+   "mlAway": "+136",
    "mlAwayOpen": "+120",
-   "mlHome": "-155",
+   "mlHome": "-162",
    "mlHomeOpen": "-142",
-   "provider": "Draft Kings",
-   "spread": "UCF -3",
+   "provider": "DraftKings",
+   "spread": "UCF -3.5",
    "spreadOpen": "UCF -2.5",
-   "total": "48.5",
+   "total": "47.5",
    "totalOpen": "52.5"
   },
-  "pick": "UCF ML (-155)",
-  "reason": "UCF are about 58% no-vig at -155; ESPN's model has 68%. For: ESPN model 68% vs market 58%.",
+  "pick": "UCF ML (-162)",
+  "reason": "UCF are about 59% no-vig at -162; ESPN's model has 68%. For: ESPN model 68% vs market 59%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -1970,7 +1952,7 @@
   "stars": 2,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Acrisure Bounce House, Orlando"
  },
  "ncaaf-401856858": {
@@ -2004,19 +1986,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856858",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "+230",
    "mlAwayOpen": "+245",
    "mlHome": "-285",
    "mlHomeOpen": "-305",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "BYU -7.5",
    "spreadOpen": "BYU -7.5",
-   "total": "49.5",
+   "total": "50.5",
    "totalOpen": "47.5"
   },
   "pick": "BYU ML (-285)",
@@ -2028,7 +2010,7 @@
   "stars": 2,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "LaVell Edwards Stadium, Provo"
  },
  "ncaaf-401856859": {
@@ -2060,19 +2042,19 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856859",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "+124",
    "mlAwayOpen": "-105",
    "mlHome": "-148",
    "mlHomeOpen": "-115",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "ISU -3",
    "spreadOpen": "ISU -1.5",
-   "total": "58.5",
+   "total": "57.5",
    "totalOpen": "60.5"
   },
   "pick": "Pass",
@@ -2085,7 +2067,7 @@
   "stars": 1,
   "start": "2026-11-14T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Jack Trice Stadium, Ames"
  },
  "ncaaf-401856860": {
@@ -2119,16 +2101,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856860",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "-325",
    "mlAwayOpen": "-395",
    "mlHome": "+260",
    "mlHomeOpen": "+310",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "HOU -7.5",
    "spreadOpen": "HOU -10.5",
    "total": "51.5",
@@ -2143,7 +2125,7 @@
   "stars": 4,
   "start": "2026-11-14T03:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Folsom Field, Boulder"
  },
  "ncaaf-401856861": {
@@ -2175,16 +2157,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856861",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "+120",
    "mlAwayOpen": "+114",
    "mlHome": "-142",
    "mlHomeOpen": "-135",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "WVU -2.5",
    "spreadOpen": "WVU -2.5",
    "total": "67.5",
@@ -2198,11 +2180,11 @@
   "stars": 1,
   "start": "2026-11-14T22:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Milan Puskar Stadium, Morgantown"
  },
  "ncaaf-401856862": {
-  "_lastPick": "TCU ML (-485)",
+  "_lastPick": "TCU ML (-500)",
   "away": {
    "abbr": "KSU",
    "form": "LLLWL",
@@ -2211,7 +2193,7 @@
    "short": "Kansas St",
    "teamId": "2306"
   },
-  "confidence": 74,
+  "confidence": 75,
   "espnId": "401856862",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -2232,23 +2214,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856862",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
-   "mlAway": "+370",
+   "mlAway": "+380",
    "mlAwayOpen": "+275",
-   "mlHome": "-485",
+   "mlHome": "-500",
    "mlHomeOpen": "-345",
-   "provider": "Draft Kings",
-   "spread": "TCU -11.5",
+   "provider": "DraftKings",
+   "spread": "TCU -13.5",
    "spreadOpen": "TCU -9.5",
    "total": "44.5",
    "totalOpen": "45.5"
   },
-  "pick": "TCU ML (-485)",
-  "reason": "TCU are about 80% no-vig at -485; ESPN's model has 74%. For: line moved toward TCU (-345 → -485).",
+  "pick": "TCU ML (-500)",
+  "reason": "TCU are about 80% no-vig at -500; ESPN's model has 74%. For: line moved toward TCU (-345 → -500).",
   "risks": [
    "ESPN model only 74% vs market 80%"
   ],
@@ -2258,7 +2240,7 @@
   "stars": 2,
   "start": "2026-11-14T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Amon G. Carter Stadium, Fort Worth"
  },
  "ncaaf-401856863": {
@@ -2290,16 +2272,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856863",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "+142",
    "mlAwayOpen": "-625",
    "mlHome": "-170",
    "mlHomeOpen": "+455",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "OKST -3.5",
    "spreadOpen": "TTU -15.5",
    "total": "73.5",
@@ -2315,7 +2297,7 @@
   "stars": 1,
   "start": "2026-11-15T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Boone Pickens Stadium, Stillwater"
  },
  "ncaaf-401856864": {
@@ -2327,7 +2309,7 @@
    "short": "Utah",
    "teamId": "254"
   },
-  "confidence": 54,
+  "confidence": 53,
   "espnId": "401856864",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -2347,30 +2329,30 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856864",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
-   "mlAway": "-135",
+   "mlAway": "-122",
    "mlAwayOpen": "-118",
-   "mlHome": "+114",
+   "mlHome": "+102",
    "mlHomeOpen": "-102",
-   "provider": "Draft Kings",
-   "spread": "UTAH -2.5",
+   "provider": "DraftKings",
+   "spread": "UTAH -1.5",
    "spreadOpen": "UTAH -1.5",
-   "total": "54.5",
+   "total": "55.5",
    "totalOpen": "51.5"
   },
   "pick": "Pass",
-  "reason": "UTAH about 55% no-vig at -135; no edge worth a pick.",
+  "reason": "UTAH about 53% no-vig at -122; no edge worth a pick.",
   "risks": [],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-15T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Casino Del Sol Stadium, Tucson"
  },
  "ncaaf-401856882": {
@@ -2404,16 +2386,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856882",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "-325",
    "mlAwayOpen": "-340",
    "mlHome": "+260",
    "mlHomeOpen": "+270",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "SC -7.5",
    "spreadOpen": "SC -8.5",
    "total": "51.5",
@@ -2428,7 +2410,7 @@
   "stars": 3,
   "start": "2026-11-15T00:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Donald W. Reynolds Razorback Stadium, Fayetteville"
  },
  "ncaaf-401856883": {
@@ -2462,16 +2444,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856883",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "+525",
    "mlAwayOpen": "+360",
    "mlHome": "-750",
    "mlHomeOpen": "-470",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UGA -16.5",
    "spreadOpen": "UGA -12.5",
    "total": "47.5",
@@ -2486,7 +2468,7 @@
   "stars": 3,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Sanford Stadium, Athens"
  },
  "ncaaf-401856884": {
@@ -2518,30 +2500,30 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856884",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
-   "mlAway": "+130",
+   "mlAway": "+124",
    "mlAwayOpen": "+100",
-   "mlHome": "-155",
+   "mlHome": "-148",
    "mlHomeOpen": "-120",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UK -3",
    "spreadOpen": "UK -1.5",
    "total": "52.5",
    "totalOpen": "55.5"
   },
   "pick": "Pass",
-  "reason": "UK about 58% no-vig at -155; no edge worth a pick.",
+  "reason": "UK about 57% no-vig at -148; no edge worth a pick.",
   "risks": [],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-14T23:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Kroger Field, Lexington"
  },
  "ncaaf-401856885": {
@@ -2553,7 +2535,7 @@
    "short": "Texas",
    "teamId": "251"
   },
-  "confidence": 55,
+  "confidence": 57,
   "espnId": "401856885",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -2573,32 +2555,32 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856885",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
-   "mlAway": "+154",
+   "mlAway": "+170",
    "mlAwayOpen": "-155",
-   "mlHome": "-185",
+   "mlHome": "-205",
    "mlHomeOpen": "+130",
-   "provider": "Draft Kings",
-   "spread": "LSU -4",
+   "provider": "DraftKings",
+   "spread": "LSU -4.5",
    "spreadOpen": "TEX -3",
    "total": "46.5",
    "totalOpen": "54.5"
   },
   "pick": "Pass",
-  "reason": "LSU about 62% no-vig at -185; no edge worth a pick.",
+  "reason": "LSU about 64% no-vig at -205; no edge worth a pick.",
   "risks": [
-   "ESPN model only 53% vs market 62%"
+   "ESPN model only 53% vs market 64%"
   ],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-15T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Tiger Stadium (LA), Baton Rouge"
  },
  "ncaaf-401856886": {
@@ -2630,32 +2612,32 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856886",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
-   "mlAway": "-142",
+   "mlAway": "-135",
    "mlAwayOpen": "-148",
-   "mlHome": "+120",
+   "mlHome": "+114",
    "mlHomeOpen": "+124",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "AUB -2.5",
    "spreadOpen": "AUB -3.5",
-   "total": "50.5",
+   "total": "51.5",
    "totalOpen": "51.5"
   },
   "pick": "Pass",
-  "reason": "AUB about 56% no-vig at -142; no edge worth a pick.",
+  "reason": "AUB about 55% no-vig at -135; no edge worth a pick.",
   "risks": [
-   "ESPN model only 49% vs market 56%"
+   "ESPN model only 49% vs market 55%"
   ],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-14T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Davis Wade Stadium, Starkville"
  },
  "ncaaf-401856887": {
@@ -2667,7 +2649,7 @@
    "short": "Ole Miss",
    "teamId": "145"
   },
-  "confidence": 42,
+  "confidence": 46,
   "espnId": "401856887",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -2687,33 +2669,33 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856887",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
-   "mlAway": "-108",
+   "mlAway": "+120",
    "mlAwayOpen": "+154",
-   "mlHome": "-112",
+   "mlHome": "-142",
    "mlHomeOpen": "-185",
-   "provider": "Draft Kings",
-   "spread": "OU -1.5",
+   "provider": "DraftKings",
+   "spread": "OU -2.5",
    "spreadOpen": "OU -4",
    "total": "49.5",
    "totalOpen": "53.5"
   },
   "pick": "Pass",
-  "reason": "OU about 50% no-vig at -112; no edge worth a pick.",
+  "reason": "OU about 56% no-vig at -142; no edge worth a pick.",
   "risks": [
-   "ESPN model only 43% vs market 50%",
-   "line drifted away (-185 → -112)"
+   "ESPN model only 43% vs market 56%",
+   "line drifted away (-185 → -142)"
   ],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-14T21:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Memorial Stadium (Norman, OK), Norman"
  },
  "ncaaf-401856888": {
@@ -2725,7 +2707,7 @@
    "short": "Tennessee",
    "teamId": "2633"
   },
-  "confidence": 54,
+  "confidence": 51,
   "espnId": "401856888",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -2745,34 +2727,34 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856888",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
-   "mlAway": "-135",
+   "mlAway": "-118",
    "mlAwayOpen": "+280",
-   "mlHome": "+114",
+   "mlHome": "-102",
    "mlHomeOpen": "-355",
-   "provider": "Draft Kings",
-   "spread": "TENN -2.5",
+   "provider": "DraftKings",
+   "spread": "TENN -1.5",
    "spreadOpen": "TA&M -9.5",
    "total": "43.5",
    "totalOpen": "55.5"
   },
   "pick": "Pass",
-  "reason": "TENN about 55% no-vig at -135; no edge worth a pick.",
+  "reason": "TENN about 52% no-vig at -118; no edge worth a pick.",
   "risks": [],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-14T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Kyle Field, College Station"
  },
  "ncaaf-401856889": {
-  "_lastPick": "ALA ML (-800)",
+  "_lastPick": "ALA ML (-675)",
   "away": {
    "abbr": "ALA",
    "form": "WWLLW",
@@ -2781,7 +2763,7 @@
    "short": "Alabama",
    "teamId": "333"
   },
-  "confidence": 84,
+  "confidence": 83,
   "espnId": "401856889",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -2802,25 +2784,25 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856889",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
-   "mlAway": "-800",
+   "mlAway": "-675",
    "mlAwayOpen": "-1350",
-   "mlHome": "+550",
+   "mlHome": "+490",
    "mlHomeOpen": "+800",
-   "provider": "Draft Kings",
-   "spread": "ALA -15.5",
+   "provider": "DraftKings",
+   "spread": "ALA -14",
    "spreadOpen": "ALA -19.5",
-   "total": "49.5",
+   "total": "47.5",
    "totalOpen": "54.5"
   },
-  "pick": "ALA ML (-800)",
-  "reason": "ALA are about 85% no-vig at -800; ESPN's model has 95%. For: ESPN model 95% vs market 85%.",
+  "pick": "ALA ML (-675)",
+  "reason": "ALA are about 84% no-vig at -675; ESPN's model has 95%. For: ESPN model 95% vs market 84%.",
   "risks": [
-   "line drifted away (-1350 → -800)"
+   "line drifted away (-1350 → -675)"
   ],
   "side": "away",
   "slug": "college-football",
@@ -2828,7 +2810,7 @@
   "stars": 3,
   "start": "2026-11-14T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "FirstBank Stadium, Nashville"
  },
  "ncaaf-401858293": {
@@ -2885,7 +2867,7 @@
   "sport": "ncaaf",
   "stars": 2,
   "start": "2026-11-14T00:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-13T20:16:40Z",
   "venue": "Acrisure Stadium, Pittsburgh"
  },
@@ -2920,19 +2902,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858294",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "+1800",
    "mlAwayOpen": "+3000",
    "mlHome": "-5000",
    "mlHomeOpen": "-10000",
-   "provider": "Draft Kings",
-   "spread": "ND -28.5",
+   "provider": "DraftKings",
+   "spread": "ND -29.5",
    "spreadOpen": "ND -31.5",
-   "total": "52.5",
+   "total": "51.5",
    "totalOpen": "52.5"
   },
   "pick": "ND ML (-5000)",
@@ -2944,11 +2926,11 @@
   "stars": 2,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Notre Dame Stadium, Notre Dame"
  },
  "ncaaf-401858295": {
-  "_lastPick": "UVA ML (-410)",
+  "_lastPick": "UVA ML (-440)",
   "away": {
    "abbr": "CAL",
    "form": "LLLWL",
@@ -2957,7 +2939,7 @@
    "short": "California",
    "teamId": "25"
   },
-  "confidence": 78,
+  "confidence": 79,
   "espnId": "401858295",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -2978,23 +2960,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858295",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
-   "mlAway": "+320",
+   "mlAway": "+340",
    "mlAwayOpen": "+380",
-   "mlHome": "-410",
+   "mlHome": "-440",
    "mlHomeOpen": "-500",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UVA -10.5",
    "spreadOpen": "UVA -12.5",
    "total": "46.5",
    "totalOpen": "47.5"
   },
-  "pick": "UVA ML (-410)",
-  "reason": "UVA are about 77% no-vig at -410; ESPN's model has 87%. For: ESPN model 87% vs market 77%.",
+  "pick": "UVA ML (-440)",
+  "reason": "UVA are about 78% no-vig at -440; ESPN's model has 87%. For: ESPN model 87% vs market 78%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -3002,11 +2984,11 @@
   "stars": 3,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Scott Stadium, Charlottesville"
  },
  "ncaaf-401858296": {
-  "_lastPick": "MIA ML (-550)",
+  "_lastPick": "MIA ML (-575)",
   "away": {
    "abbr": "DUKE",
    "form": "WWWLL",
@@ -3036,25 +3018,25 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858296",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
-   "mlAway": "+410",
+   "mlAway": "+425",
    "mlAwayOpen": "+950",
-   "mlHome": "-550",
+   "mlHome": "-575",
    "mlHomeOpen": "-1650",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "MIA -13.5",
    "spreadOpen": "MIA -20.5",
    "total": "54.5",
    "totalOpen": "55.5"
   },
-  "pick": "MIA ML (-550)",
-  "reason": "MIA are about 81% no-vig at -550; ESPN's model has 88%. For: ESPN model 88% vs market 81%.",
+  "pick": "MIA ML (-575)",
+  "reason": "MIA are about 82% no-vig at -575; ESPN's model has 88%. For: ESPN model 88% vs market 82%.",
   "risks": [
-   "line drifted away (-1650 → -550)"
+   "line drifted away (-1650 → -575)"
   ],
   "side": "home",
   "slug": "college-football",
@@ -3062,7 +3044,7 @@
   "stars": 3,
   "start": "2026-11-14T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Hard Rock Stadium, Miami Gardens"
  },
  "ncaaf-401858297": {
@@ -3096,19 +3078,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858297",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "+455",
    "mlAwayOpen": "+425",
    "mlHome": "-625",
    "mlHomeOpen": "-575",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "CLEM -15.5",
    "spreadOpen": "CLEM -13.5",
-   "total": "49.5",
+   "total": "47.5",
    "totalOpen": "49.5"
   },
   "pick": "CLEM ML (-625)",
@@ -3120,7 +3102,7 @@
   "stars": 2,
   "start": "2026-11-14T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Memorial Stadium (Clemson, SC), Clemson"
  },
  "ncaaf-401858298": {
@@ -3154,19 +3136,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858298",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "-180",
    "mlAwayOpen": "-135",
    "mlHome": "+150",
    "mlHomeOpen": "+114",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "LOU -3.5",
    "spreadOpen": "LOU -2.5",
-   "total": "58.5",
+   "total": "57.5",
    "totalOpen": "59.5"
   },
   "pick": "LOU ML (-180)",
@@ -3178,7 +3160,7 @@
   "stars": 2,
   "start": "2026-11-15T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Kenan Stadium, Chapel Hill"
  },
  "ncaaf-401858299": {
@@ -3212,16 +3194,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858299",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "+525",
    "mlAwayOpen": "+600",
    "mlHome": "-750",
    "mlHomeOpen": "-900",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "VT -15.5",
    "spreadOpen": "VT -16.5",
    "total": "57.5",
@@ -3236,7 +3218,7 @@
   "stars": 3,
   "start": "2026-11-15T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Lane Stadium, Blacksburg"
  },
  "ncaaf-401858300": {
@@ -3268,16 +3250,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858300",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "-148",
    "mlAwayOpen": "-118",
    "mlHome": "+124",
    "mlHomeOpen": "-102",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "SYR -3",
    "spreadOpen": "SYR -1.5",
    "total": "53.5",
@@ -3291,7 +3273,7 @@
   "stars": 1,
   "start": "2026-11-14T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Carter-Finley Stadium, Raleigh"
  },
  "ncaaf-401858301": {
@@ -3323,16 +3305,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858301",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "-105",
    "mlAwayOpen": "-162",
    "mlHome": "-115",
    "mlHomeOpen": "+136",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "SMU -1.5",
    "spreadOpen": "WAKE -3.5",
    "total": "60.5",
@@ -3348,11 +3330,11 @@
   "stars": 1,
   "start": "2026-11-14T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Gerald J. Ford Stadium, Dallas"
  },
  "ncaaf-401858518": {
-  "_lastPick": "IU ML (-340)",
+  "_lastPick": "IU ML (-345)",
   "away": {
    "abbr": "USC",
    "form": "WLWWL",
@@ -3382,23 +3364,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858518",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
-   "mlAway": "+270",
+   "mlAway": "+275",
    "mlAwayOpen": "+320",
-   "mlHome": "-340",
+   "mlHome": "-345",
    "mlHomeOpen": "-410",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "IU -9.5",
    "spreadOpen": "IU -10.5",
    "total": "50.5",
    "totalOpen": "58.5"
   },
-  "pick": "IU ML (-340)",
-  "reason": "IU are about 74% no-vig at -340; ESPN's model has 78%.",
+  "pick": "IU ML (-345)",
+  "reason": "IU are about 74% no-vig at -345; ESPN's model has 78%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -3406,7 +3388,7 @@
   "stars": 2,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Memorial Stadium (Bloomington, IN), Bloomington"
  },
  "ncaaf-401858519": {
@@ -3440,16 +3422,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858519",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "+625",
    "mlAwayOpen": "+455",
    "mlHome": "-950",
    "mlHomeOpen": "-625",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "IOWA -17.5",
    "spreadOpen": "IOWA -16.5",
    "total": "47.5",
@@ -3464,7 +3446,7 @@
   "stars": 3,
   "start": "2026-11-15T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Kinnick Stadium, Iowa City"
  },
  "ncaaf-401858520": {
@@ -3498,16 +3480,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858520",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "-345",
    "mlAwayOpen": "-270",
    "mlHome": "+275",
    "mlHomeOpen": "+220",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "WIS -8.5",
    "spreadOpen": "WIS -7.5",
    "total": "42.5",
@@ -3522,7 +3504,7 @@
   "stars": 3,
   "start": "2026-11-14T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "SECU Stadium, College Park"
  },
  "ncaaf-401858521": {
@@ -3534,7 +3516,7 @@
    "short": "Washington",
    "teamId": "264"
   },
-  "confidence": 54,
+  "confidence": 51,
   "espnId": "401858521",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -3554,32 +3536,30 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858521",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
-   "mlAway": "-170",
+   "mlAway": "-135",
    "mlAwayOpen": "-155",
-   "mlHome": "+142",
+   "mlHome": "+114",
    "mlHomeOpen": "+130",
-   "provider": "Draft Kings",
-   "spread": "WASH -3.5",
+   "provider": "DraftKings",
+   "spread": "WASH -2.5",
    "spreadOpen": "WASH -3.5",
    "total": "44.5",
    "totalOpen": "45.5"
   },
   "pick": "Pass",
-  "reason": "WASH about 60% no-vig at -170; no edge worth a pick.",
-  "risks": [
-   "ESPN model only 52% vs market 60%"
-  ],
+  "reason": "WASH about 55% no-vig at -135; no edge worth a pick.",
+  "risks": [],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-14T21:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Spartan Stadium, East Lansing"
  },
  "ncaaf-401858522": {
@@ -3613,16 +3593,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858522",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "+410",
    "mlAwayOpen": "+295",
    "mlHome": "-550",
    "mlHomeOpen": "-375",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "OSU -14",
    "spreadOpen": "OSU -9.5",
    "total": "44.5",
@@ -3637,7 +3617,7 @@
   "stars": 3,
   "start": "2026-11-14T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Ohio Stadium, Columbus"
  },
  "ncaaf-401858523": {
@@ -3671,16 +3651,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858523",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "+330",
    "mlAwayOpen": "+425",
    "mlHome": "-425",
    "mlHomeOpen": "-575",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "ORE -10.5",
    "spreadOpen": "ORE -13.5",
    "total": "38.5",
@@ -3697,11 +3677,11 @@
   "stars": 3,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Autzen Stadium, Eugene"
  },
  "ncaaf-401858524": {
-  "_lastPick": "PSU ML (-355)",
+  "_lastPick": "PSU ML (-425)",
   "away": {
    "abbr": "MINN",
    "form": "LLWLW",
@@ -3710,7 +3690,7 @@
    "short": "Minnesota",
    "teamId": "135"
   },
-  "confidence": 75,
+  "confidence": 77,
   "espnId": "401858524",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -3731,31 +3711,31 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858524",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
-   "mlAway": "+280",
+   "mlAway": "+330",
    "mlAwayOpen": "+220",
-   "mlHome": "-355",
+   "mlHome": "-425",
    "mlHomeOpen": "-270",
-   "provider": "Draft Kings",
-   "spread": "PSU -9.5",
+   "provider": "DraftKings",
+   "spread": "PSU -11.5",
    "spreadOpen": "PSU -7",
    "total": "42.5",
    "totalOpen": "43.5"
   },
-  "pick": "PSU ML (-355)",
-  "reason": "PSU are about 75% no-vig at -355; ESPN's model has 84%. For: ESPN model 84% vs market 75%; line moved toward PSU (-270 → -355).",
+  "pick": "PSU ML (-425)",
+  "reason": "PSU are about 78% no-vig at -425; ESPN's model has 84%. For: ESPN model 84% vs market 78%; line moved toward PSU (-270 → -425). Capped at 3★: prices of -400 or shorter pay too little for 4-5★.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
   "sport": "ncaaf",
-  "stars": 4,
+  "stars": 3,
   "start": "2026-11-15T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Beaver Stadium, University Park"
  },
  "ncaaf-401858525": {
@@ -3789,16 +3769,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858525",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "-675",
    "mlAwayOpen": "-535",
    "mlHome": "+490",
    "mlHomeOpen": "+400",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "NEB -14.5",
    "spreadOpen": "NEB -12.5",
    "total": "51.5",
@@ -3813,11 +3793,11 @@
   "stars": 2,
   "start": "2026-11-14T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "SHI Stadium, Piscataway"
  },
  "ncaaf-401858526": {
-  "_lastPick": "UCLA ML (-395)",
+  "_lastPick": "UCLA ML (-425)",
   "away": {
    "abbr": "ILL",
    "form": "WWWWL",
@@ -3826,7 +3806,7 @@
    "short": "Illinois",
    "teamId": "356"
   },
-  "confidence": 72,
+  "confidence": 73,
   "espnId": "401858526",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -3847,23 +3827,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858526",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
-   "mlAway": "+310",
+   "mlAway": "+330",
    "mlAwayOpen": "+380",
-   "mlHome": "-395",
+   "mlHome": "-425",
    "mlHomeOpen": "-500",
-   "provider": "Draft Kings",
-   "spread": "UCLA -10.5",
+   "provider": "DraftKings",
+   "spread": "UCLA -10",
    "spreadOpen": "UCLA -12.5",
-   "total": "47.5",
+   "total": "48.5",
    "totalOpen": "47.5"
   },
-  "pick": "UCLA ML (-395)",
-  "reason": "UCLA are about 77% no-vig at -395; ESPN's model has 74%.",
+  "pick": "UCLA ML (-425)",
+  "reason": "UCLA are about 78% no-vig at -425; ESPN's model has 74%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -3871,11 +3851,11 @@
   "stars": 2,
   "start": "2026-11-14T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Rose Bowl, Pasadena"
  },
  "ncaaf-401860914": {
-  "_lastPick": "BOIS ML (-650)",
+  "_lastPick": "BOIS ML (-675)",
   "away": {
    "abbr": "ORST",
    "form": "LLWWW",
@@ -3905,23 +3885,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401860914",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
-   "mlAway": "+470",
+   "mlAway": "+490",
    "mlAwayOpen": "+150",
-   "mlHome": "-650",
+   "mlHome": "-675",
    "mlHomeOpen": "-180",
-   "provider": "Draft Kings",
-   "spread": "BOIS -14.5",
+   "provider": "DraftKings",
+   "spread": "BOIS -16.5",
    "spreadOpen": "BOIS -4.5",
    "total": "63.5",
    "totalOpen": "62.5"
   },
-  "pick": "BOIS ML (-650)",
-  "reason": "BOIS are about 83% no-vig at -650; ESPN's model has 82%. For: line moved toward BOIS (-180 → -650).",
+  "pick": "BOIS ML (-675)",
+  "reason": "BOIS are about 84% no-vig at -675; ESPN's model has 82%. For: line moved toward BOIS (-180 → -675).",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -3929,7 +3909,7 @@
   "stars": 3,
   "start": "2026-11-14T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Albertsons Stadium, Boise"
  },
  "ncaaf-401860915": {
@@ -3961,16 +3941,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401860915",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "-148",
    "mlAwayOpen": "-130",
    "mlHome": "+124",
    "mlHomeOpen": "+110",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "USU -2.5",
    "spreadOpen": "USU -2.5",
    "total": "44.5",
@@ -3984,7 +3964,7 @@
   "stars": 1,
   "start": "2026-11-15T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Snapdragon Stadium, San Diego"
  },
  "ncaaf-401860916": {
@@ -4018,16 +3998,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401860916",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "+295",
    "mlAwayOpen": "+240",
    "mlHome": "-375",
    "mlHomeOpen": "-298",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "TXST -9.5",
    "spreadOpen": "TXST -7",
    "total": "59.5",
@@ -4044,7 +4024,7 @@
   "stars": 2,
   "start": "2026-11-14T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "UFCU Stadium, San Marcos"
  },
  "ncaaf-401860917": {
@@ -4078,19 +4058,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401860917",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "+270",
    "mlAwayOpen": "+170",
    "mlHome": "-340",
    "mlHomeOpen": "-205",
-   "provider": "Draft Kings",
-   "spread": "WSU -8.5",
+   "provider": "DraftKings",
+   "spread": "WSU -9.5",
    "spreadOpen": "WSU -6.5",
-   "total": "66.5",
+   "total": "65.5",
    "totalOpen": "62.5"
   },
   "pick": "WSU ML (-340)",
@@ -4102,7 +4082,7 @@
   "stars": 2,
   "start": "2026-11-15T03:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Martin Stadium, Pullman"
  },
  "ncaaf-401861967": {
@@ -4136,16 +4116,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401861967",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "-205",
    "mlAwayOpen": "-118",
    "mlHome": "+170",
    "mlHomeOpen": "-102",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "JMU -4.5",
    "spreadOpen": "JMU -1.5",
    "total": "57.5",
@@ -4160,7 +4140,7 @@
   "stars": 4,
   "start": "2026-11-14T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Pratt & Whitney Stadium, East Hartford"
  },
  "ncaaf-401862824": {
@@ -4252,16 +4232,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862825",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "-455",
    "mlAwayOpen": "-600",
    "mlHome": "+350",
    "mlHomeOpen": "+440",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "ECU -11.5",
    "spreadOpen": "ECU -13.5",
    "total": "45.5",
@@ -4276,11 +4256,11 @@
   "stars": 3,
   "start": "2026-11-14T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Jerry Richardson Stadium, Charlotte"
  },
  "ncaaf-401862826": {
-  "_lastPick": "TLSA ML (-218)",
+  "_lastPick": "TLSA ML (-225)",
   "away": {
    "abbr": "FAU",
    "form": "WLWLW",
@@ -4310,23 +4290,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862826",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
-   "mlAway": "+180",
+   "mlAway": "+185",
    "mlAwayOpen": "+170",
-   "mlHome": "-218",
+   "mlHome": "-225",
    "mlHomeOpen": "-205",
-   "provider": "Draft Kings",
-   "spread": "TLSA -5.5",
+   "provider": "DraftKings",
+   "spread": "TLSA -6",
    "spreadOpen": "TLSA -5.5",
-   "total": "74.5",
+   "total": "73.5",
    "totalOpen": "66.5"
   },
-  "pick": "TLSA ML (-218)",
-  "reason": "TLSA are about 66% no-vig at -218; ESPN's model has 77%. For: ESPN model 77% vs market 66%.",
+  "pick": "TLSA ML (-225)",
+  "reason": "TLSA are about 66% no-vig at -225; ESPN's model has 77%. For: ESPN model 77% vs market 66%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -4334,7 +4314,7 @@
   "stars": 3,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "H. A. Chapman Stadium, Tulsa"
  },
  "ncaaf-401862827": {
@@ -4366,16 +4346,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401862827",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "-130",
    "mlAwayOpen": "-112",
    "mlHome": "+110",
    "mlHomeOpen": "-108",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UNT -2.5",
    "spreadOpen": "UNT -1.5",
    "total": "75.5",
@@ -4389,7 +4369,7 @@
   "stars": 1,
   "start": "2026-11-15T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Alamodome, San Antonio"
  },
  "ncaaf-401862828": {
@@ -4401,7 +4381,7 @@
    "short": "Tulane",
    "teamId": "2655"
   },
-  "confidence": 46,
+  "confidence": 48,
   "espnId": "401862828",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -4421,25 +4401,25 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401862828",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
-   "mlAway": "+120",
+   "mlAway": "+136",
    "mlAwayOpen": "-112",
-   "mlHome": "-142",
+   "mlHome": "-162",
    "mlHomeOpen": "-108",
-   "provider": "Draft Kings",
-   "spread": "RICE -2.5",
+   "provider": "DraftKings",
+   "spread": "RICE -3",
    "spreadOpen": "TULN -1.5",
    "total": "48.5",
    "totalOpen": "46.5"
   },
   "pick": "Pass",
-  "reason": "RICE about 56% no-vig at -142; no edge worth a pick.",
+  "reason": "RICE about 59% no-vig at -162; no edge worth a pick.",
   "risks": [
-   "ESPN model only 42% vs market 56%",
+   "ESPN model only 42% vs market 59%",
    "opponent in better form (LWLWL)"
   ],
   "slug": "college-football",
@@ -4447,7 +4427,7 @@
   "stars": 1,
   "start": "2026-11-14T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "First Community Stadium, Houston"
  },
  "ncaaf-401862829": {
@@ -4479,16 +4459,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401862829",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "+114",
    "mlAwayOpen": "+105",
    "mlHome": "-135",
    "mlHomeOpen": "-125",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "TEM -2.5",
    "spreadOpen": "TEM -2.5",
    "total": "47.5",
@@ -4504,11 +4484,11 @@
   "stars": 1,
   "start": "2026-11-14T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Lincoln Financial Field, Philadelphia"
  },
  "ncaaf-401864536": {
-  "_lastPick": "NEV ML (-238)",
+  "_lastPick": "NEV ML (-230)",
   "away": {
    "abbr": "NEV",
    "form": "LLWLW",
@@ -4538,25 +4518,25 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864536",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
-   "mlAway": "-238",
+   "mlAway": "-230",
    "mlAwayOpen": "-425",
-   "mlHome": "+195",
+   "mlHome": "+190",
    "mlHomeOpen": "+330",
-   "provider": "Draft Kings",
-   "spread": "NEV -6",
+   "provider": "DraftKings",
+   "spread": "NEV -5.5",
    "spreadOpen": "NEV -10.5",
    "total": "47.5",
    "totalOpen": "46.5"
   },
-  "pick": "NEV ML (-238)",
-  "reason": "NEV are about 68% no-vig at -238; ESPN's model has 74%. For: ESPN model 74% vs market 68%.",
+  "pick": "NEV ML (-230)",
+  "reason": "NEV are about 67% no-vig at -230; ESPN's model has 74%. For: ESPN model 74% vs market 67%.",
   "risks": [
-   "line drifted away (-425 → -238)"
+   "line drifted away (-425 → -230)"
   ],
   "side": "away",
   "slug": "college-football",
@@ -4564,11 +4544,11 @@
   "stars": 3,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Huskie Stadium, Dekalb"
  },
  "ncaaf-401864537": {
-  "_lastPick": "NDSU ML (-258)",
+  "_lastPick": "NDSU ML (-270)",
   "away": {
    "abbr": "NDSU",
    "form": "WLWLW",
@@ -4577,7 +4557,7 @@
    "short": "N Dakota St",
    "teamId": "2449"
   },
-  "confidence": 63,
+  "confidence": 64,
   "espnId": "401864537",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -4598,25 +4578,25 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864537",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
-   "mlAway": "-258",
+   "mlAway": "-270",
    "mlAwayOpen": "-395",
-   "mlHome": "+210",
+   "mlHome": "+220",
    "mlHomeOpen": "+310",
-   "provider": "Draft Kings",
-   "spread": "NDSU -6.5",
+   "provider": "DraftKings",
+   "spread": "NDSU -7",
    "spreadOpen": "NDSU -9.5",
    "total": "38.5",
    "totalOpen": "42.5"
   },
-  "pick": "NDSU ML (-258)",
-  "reason": "NDSU are about 69% no-vig at -258; ESPN's model has 67%.",
+  "pick": "NDSU ML (-270)",
+  "reason": "NDSU are about 70% no-vig at -270; ESPN's model has 67%.",
   "risks": [
-   "line drifted away (-395 → -258)"
+   "line drifted away (-395 → -270)"
   ],
   "side": "away",
   "slug": "college-football",
@@ -4624,7 +4604,7 @@
   "stars": 2,
   "start": "2026-11-15T04:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Clarence T.C. Ching Athletics Complex, Honolulu"
  },
  "ncaaf-401864538": {
@@ -4658,19 +4638,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864538",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "+360",
    "mlAwayOpen": "+310",
    "mlHome": "-470",
    "mlHomeOpen": "-395",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "AF -12.5",
    "spreadOpen": "AFA -10.5",
-   "total": "47.5",
+   "total": "48.5",
    "totalOpen": "49.5"
   },
   "pick": "AFA ML (-470)",
@@ -4682,11 +4662,11 @@
   "stars": 2,
   "start": "2026-11-15T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Falcon Stadium, USAF Academy"
  },
  "ncaaf-401864539": {
-  "_lastPick": "UNM ML (-625)",
+  "_lastPick": "UNM ML (-800)",
   "away": {
    "abbr": "UNLV",
    "form": "LWLWW",
@@ -4695,7 +4675,7 @@
    "short": "UNLV",
    "teamId": "2439"
   },
-  "confidence": 81,
+  "confidence": 83,
   "espnId": "401864539",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -4716,23 +4696,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864539",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
-   "mlAway": "+455",
+   "mlAway": "+550",
    "mlAwayOpen": "+470",
-   "mlHome": "-625",
+   "mlHome": "-800",
    "mlHomeOpen": "-650",
-   "provider": "Draft Kings",
-   "spread": "UNM -14.5",
+   "provider": "DraftKings",
+   "spread": "UNM -16.5",
    "spreadOpen": "UNM -13.5",
    "total": "46.5",
    "totalOpen": "47.5"
   },
-  "pick": "UNM ML (-625)",
-  "reason": "UNM are about 83% no-vig at -625; ESPN's model has 87%.",
+  "pick": "UNM ML (-800)",
+  "reason": "UNM are about 85% no-vig at -800; ESPN's model has 87%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -4740,11 +4720,11 @@
   "stars": 2,
   "start": "2026-11-15T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "University Stadium (NM), Albuquerque"
  },
  "ncaaf-401864540": {
-  "_lastPick": "WYO ML (-298)",
+  "_lastPick": "WYO ML (-285)",
   "away": {
    "abbr": "WYO",
    "form": "WWWWL",
@@ -4753,7 +4733,7 @@
    "short": "Wyoming",
    "teamId": "2751"
   },
-  "confidence": 73,
+  "confidence": 70,
   "espnId": "401864540",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -4774,31 +4754,33 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864540",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
-   "mlAway": "-298",
+   "mlAway": "-285",
    "mlAwayOpen": "-360",
-   "mlHome": "+240",
+   "mlHome": "+230",
    "mlHomeOpen": "+285",
-   "provider": "Draft Kings",
-   "spread": "WYO -7.5",
+   "provider": "DraftKings",
+   "spread": "WYO -7",
    "spreadOpen": "WYO -10",
    "total": "40.5",
    "totalOpen": "43.5"
   },
-  "pick": "WYO ML (-298)",
-  "reason": "WYO are about 72% no-vig at -298; ESPN's model has 79%. For: ESPN model 79% vs market 72%; form WWWWL vs LLLLL.",
-  "risks": [],
+  "pick": "WYO ML (-285)",
+  "reason": "WYO are about 71% no-vig at -285; ESPN's model has 79%. For: ESPN model 79% vs market 71%; form WWWWL vs LLLLL.",
+  "risks": [
+   "line drifted away (-360 → -285)"
+  ],
   "side": "away",
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 4,
   "start": "2026-11-15T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Sun Bowl, El Paso"
  },
  "ncaaf-401866462": {
@@ -4946,16 +4928,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401869928",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "-120",
    "mlAwayOpen": "-135",
    "mlHome": "+100",
    "mlHomeOpen": "+114",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "APP -1.5",
    "spreadOpen": "APP -2.5",
    "total": "54.5",
@@ -4969,7 +4951,7 @@
   "stars": 1,
   "start": "2026-11-14T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Joan C. Edwards Stadium, Huntington"
  },
  "ncaaf-401869937": {
@@ -5001,19 +4983,19 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401869937",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "-102",
    "mlAwayOpen": "-102",
    "mlHome": "-118",
    "mlHomeOpen": "-118",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "CCU -1.5",
    "spreadOpen": "CCU -1.5",
-   "total": "51.5",
+   "total": "52.5",
    "totalOpen": "50.5"
   },
   "pick": "Pass",
@@ -5024,7 +5006,7 @@
   "stars": 1,
   "start": "2026-11-14T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Brooks Stadium (SC), Conway"
  },
  "ncaaf-401869952": {
@@ -5058,16 +5040,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869952",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "-225",
    "mlAwayOpen": "-205",
    "mlHome": "+185",
    "mlHomeOpen": "+170",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "GASO -6",
    "spreadOpen": "GASO -5.5",
    "total": "56.5",
@@ -5084,7 +5066,7 @@
   "stars": 2,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Center Parc Stadium, Atlanta"
  },
  "ncaaf-401869969": {
@@ -5176,16 +5158,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401870752",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "-298",
    "mlAwayOpen": "-205",
    "mlHome": "+240",
    "mlHomeOpen": "+170",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "JXST -7.5",
    "spreadOpen": "JXST -6",
    "total": "54.5",
@@ -5200,7 +5182,7 @@
   "stars": 3,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Houchens Industries-L.T. Smith Stadium, Bowling Green"
  },
  "ncaaf-401870769": {
@@ -5234,16 +5216,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401870769",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "-278",
    "mlAwayOpen": "-305",
    "mlHome": "+225",
    "mlHomeOpen": "+245",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "KENN -7",
    "spreadOpen": "KENN -7.5",
    "total": "46.5",
@@ -5258,7 +5240,7 @@
   "stars": 2,
   "start": "2026-11-14T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Elliott T. Bowers Stadium, Huntsville"
  },
  "ncaaf-401870796": {
@@ -5290,16 +5272,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401870796",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "+100",
    "mlAwayOpen": "-105",
    "mlHome": "-120",
    "mlHomeOpen": "-115",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "MOST -1.5",
    "spreadOpen": "MOST -1.5",
    "total": "49.5",
@@ -5313,7 +5295,7 @@
   "stars": 1,
   "start": "2026-11-14T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Robert W. Plaster Stadium, Springfield"
  },
  "ncaaf-401871060": {
@@ -5347,19 +5329,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871060",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "+154",
    "mlAwayOpen": "+170",
    "mlHome": "-185",
    "mlHomeOpen": "-218",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "DEL -3.5",
    "spreadOpen": "DEL -6.5",
-   "total": "53.5",
+   "total": "54.5",
    "totalOpen": "50.5"
   },
   "pick": "DEL ML (-185)",
@@ -5371,7 +5353,7 @@
   "stars": 2,
   "start": "2026-11-14T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Delaware Stadium, Newark"
  },
  "ncaaf-401871061": {
@@ -5405,16 +5387,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871061",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "+950",
    "mlAwayOpen": "+1100",
    "mlHome": "-1650",
    "mlHomeOpen": "-2100",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "LIB -21",
    "spreadOpen": "LIB -20.5",
    "total": "53.5",
@@ -5429,7 +5411,7 @@
   "stars": 2,
   "start": "2026-11-14T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Williams Stadium (VA), Lynchburg"
  },
  "ncaaf-401871099": {
@@ -5463,16 +5445,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871099",
   "market": "Moneyline",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "+625",
    "mlAwayOpen": "+850",
    "mlHome": "-950",
    "mlHomeOpen": "-1450",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "LT -17.5",
    "spreadOpen": "LT -18.5",
    "total": "56.5",
@@ -5487,7 +5469,7 @@
   "stars": 3,
   "start": "2026-11-14T22:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Joe Aillet Stadium, Ruston"
  },
  "ncaaf-401871100": {
@@ -5519,16 +5501,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401871100",
   "news": [
-   "Why Philip Rivers coaching NC State makes sense to Ian Rapoport",
-   "College football games this weekend: Top 25 schedule",
-   "NC State officially hires Philip Rivers as football coach"
+   "Chris Doering dissects key storylines in three Week 11 matchups",
+   "Smart explains how Stockton has taught him more than X's and O's can",
+   "Holly Rowe previews No. 6 Texas vs. No. 21 LSU"
   ],
   "odds": {
    "mlAway": "+130",
    "mlAwayOpen": "+102",
    "mlHome": "-155",
    "mlHomeOpen": "-122",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "USA -3",
    "spreadOpen": "USA -2.5",
    "total": "55.5",
@@ -5542,7 +5524,7 @@
   "stars": 1,
   "start": "2026-11-15T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Hancock Whitney Stadium, Mobile"
  },
  "nfl-401873052": {
@@ -5684,16 +5666,13 @@
   "away": {
    "abbr": "NE",
    "form": "LWLWW",
-   "injuries": [
-    "TreVeyon Henderson (RB) – Out, Illness",
-    "Ben Brown (C) – Out, Knee"
-   ],
+   "injuries": [],
    "name": "New England Patriots",
    "record": "5-4",
    "short": "Patriots",
    "teamId": "17"
   },
-  "confidence": 53,
+  "confidence": 52,
   "espnId": "401873053",
   "espnLeague": "nfl",
   "espnSport": "football",
@@ -5716,22 +5695,7 @@
   },
   "id": "nfl-401873053",
   "injuriesRaw": {
-   "away": [
-    {
-     "detail": "Illness",
-     "player": "TreVeyon Henderson",
-     "pos": "RB",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Ben Brown",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    }
-   ],
+   "away": [],
    "home": [
     {
      "detail": "Ankle",
@@ -5759,32 +5723,30 @@
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873053",
   "news": [
-   "Jeffery Simmons has high praise for Caleb Williams",
-   "NFL Week 10 uniforms: Titans debut Rivalries look, Ravens go all-black",
-   "Sources: Eagles to release WR Hollywood Brown per request"
+   "Seahawks are hurting with injuries, but two players will return vs. Raiders",
+   "Fantasy football Week 10 inactives: Who's in and who's out?",
+   "49ers OT Williams, LB Greenlaw questionable, WR Evans out vs. Cowboys"
   ],
   "odds": {
-   "mlAway": "+130",
+   "mlAway": "+124",
    "mlAwayOpen": "+105",
-   "mlHome": "-155",
+   "mlHome": "-148",
    "mlHomeOpen": "-125",
-   "provider": "Draft Kings",
-   "spread": "DET -3",
+   "provider": "DraftKings",
+   "spread": "DET -2.5",
    "spreadOpen": "DET -1.5",
    "total": "49.5",
    "totalOpen": "48.5"
   },
   "pick": "Pass",
-  "reason": "DET about 58% no-vig at -155; no edge worth a pick.",
-  "risks": [
-   "ESPN model only 53% vs market 58%"
-  ],
+  "reason": "DET about 57% no-vig at -148; no edge worth a pick.",
+  "risks": [],
   "slug": "nfl",
   "sport": "nfl",
   "stars": 1,
   "start": "2026-11-15T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "FC Bayern Munich Stadium, Munich"
  },
  "nfl-401873054": {
@@ -5792,7 +5754,11 @@
   "away": {
    "abbr": "BUF",
    "form": "WWWWL",
-   "injuries": [],
+   "injuries": [
+    "Tyrell Shavers (WR) – Out, Knee - ACL",
+    "Spencer Brown (OT) – Doubtful, Ankle",
+    "Joshua Palmer (WR) – Injured Reserve, Hamstring"
+   ],
    "name": "Buffalo Bills",
    "record": "7-1",
    "short": "Bills",
@@ -5819,7 +5785,29 @@
   },
   "id": "nfl-401873054",
   "injuriesRaw": {
-   "away": [],
+   "away": [
+    {
+     "detail": "Knee - ACL",
+     "player": "Tyrell Shavers",
+     "pos": "WR",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Spencer Brown",
+     "pos": "OT",
+     "stale": false,
+     "status": "Doubtful"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "Joshua Palmer",
+     "pos": "WR",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ],
    "home": [
     {
      "detail": "Groin",
@@ -5834,16 +5822,16 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873054",
   "market": "Moneyline",
   "news": [
-   "Jeffery Simmons has high praise for Caleb Williams",
-   "NFL Week 10 uniforms: Titans debut Rivalries look, Ravens go all-black",
-   "Sources: Eagles to release WR Hollywood Brown per request"
+   "Seahawks are hurting with injuries, but two players will return vs. Raiders",
+   "Fantasy football Week 10 inactives: Who's in and who's out?",
+   "49ers OT Williams, LB Greenlaw questionable, WR Evans out vs. Cowboys"
   ],
   "odds": {
    "mlAway": "-425",
    "mlAwayOpen": "-340",
    "mlHome": "+330",
    "mlHomeOpen": "+270",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "BUF -8.5",
    "spreadOpen": "BUF -7",
    "total": "50.5",
@@ -5858,7 +5846,7 @@
   "stars": 3,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "MetLife Stadium, East Rutherford"
  },
  "nfl-401873055": {
@@ -5866,9 +5854,9 @@
    "abbr": "CAR",
    "form": "LLLWW",
    "injuries": [
+    "Mike Jackson (CB) – Injured Reserve, Groin",
     "Xavier Legette (WR) – Injured Reserve, Knee",
-    "Jonathon Brooks (RB) – Injured Reserve, Groin",
-    "Bobby Okereke (LB) – Out, Foot"
+    "Jonathon Brooks (RB) – Injured Reserve, Groin"
    ],
    "name": "Carolina Panthers",
    "record": "3-5",
@@ -5890,8 +5878,7 @@
     "CJ Donaldson (RB) – Out, Shoulder",
     "Travis Etienne Jr. (RB) – Injured Reserve, Hamstring",
     "Christen Miller (DT) – Out, Knee",
-    "Erik McCoy (C) – Out, Biceps",
-    "Taliese Fuaga (OT) – Out, Knee"
+    "Erik McCoy (C) – Out, Biceps"
    ],
    "name": "New Orleans Saints",
    "record": "3-5",
@@ -5901,6 +5888,13 @@
   "id": "nfl-401873055",
   "injuriesRaw": {
    "away": [
+    {
+     "detail": "Groin",
+     "player": "Mike Jackson",
+     "pos": "CB",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
     {
      "detail": "Knee",
      "player": "Xavier Legette",
@@ -5914,13 +5908,6 @@
      "pos": "RB",
      "stale": false,
      "status": "Injured Reserve"
-    },
-    {
-     "detail": "Foot",
-     "player": "Bobby Okereke",
-     "pos": "LB",
-     "stale": false,
-     "status": "Out"
     }
    ],
    "home": [
@@ -5951,29 +5938,22 @@
      "pos": "C",
      "stale": false,
      "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Taliese Fuaga",
-     "pos": "OT",
-     "stale": false,
-     "status": "Out"
     }
    ]
   },
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873055",
   "news": [
-   "Jeffery Simmons has high praise for Caleb Williams",
-   "NFL Week 10 uniforms: Titans debut Rivalries look, Ravens go all-black",
-   "Sources: Eagles to release WR Hollywood Brown per request"
+   "Seahawks are hurting with injuries, but two players will return vs. Raiders",
+   "Fantasy football Week 10 inactives: Who's in and who's out?",
+   "49ers OT Williams, LB Greenlaw questionable, WR Evans out vs. Cowboys"
   ],
   "odds": {
    "mlAway": "+114",
    "mlAwayOpen": "+105",
    "mlHome": "-135",
    "mlHomeOpen": "-125",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "NO -2.5",
    "spreadOpen": "NO -1.5",
    "total": "48.5",
@@ -5989,7 +5969,7 @@
   "stars": 1,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Caesars Superdome, New Orleans"
  },
  "nfl-401873056": {
@@ -5997,7 +5977,11 @@
   "away": {
    "abbr": "HOU",
    "form": "WLWWL",
-   "injuries": [],
+   "injuries": [
+    "Danielle Hunter (DE) – Out, Hamstring",
+    "Brevin Jordan (TE) – Out, Finger",
+    "Azeez Al-Shaair (LB) – Out, Groin"
+   ],
    "name": "Houston Texans",
    "record": "3-5",
    "short": "Texans",
@@ -6015,8 +5999,9 @@
    "abbr": "CLE",
    "form": "LLWWL",
    "injuries": [
+    "Michael Burton (FB) – Out, Calf",
     "Ronnie Hickman (S) – Out, Concussion",
-    "Michael Burton (FB) – Out, Calf"
+    "Kalia Davis (DT) – Injured Reserve, Quadriceps"
    ],
    "name": "Cleveland Browns",
    "record": "5-4",
@@ -6025,8 +6010,37 @@
   },
   "id": "nfl-401873056",
   "injuriesRaw": {
-   "away": [],
+   "away": [
+    {
+     "detail": "Hamstring",
+     "player": "Danielle Hunter",
+     "pos": "DE",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Finger",
+     "player": "Brevin Jordan",
+     "pos": "TE",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Groin",
+     "player": "Azeez Al-Shaair",
+     "pos": "LB",
+     "stale": false,
+     "status": "Out"
+    }
+   ],
    "home": [
+    {
+     "detail": "Calf",
+     "player": "Michael Burton",
+     "pos": "FB",
+     "stale": false,
+     "status": "Out"
+    },
     {
      "detail": "Concussion",
      "player": "Ronnie Hickman",
@@ -6035,11 +6049,18 @@
      "status": "Out"
     },
     {
-     "detail": "Calf",
-     "player": "Michael Burton",
-     "pos": "FB",
+     "detail": "Quadriceps",
+     "player": "Kalia Davis",
+     "pos": "DT",
      "stale": false,
-     "status": "Out"
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Back",
+     "player": "Teven Jenkins",
+     "pos": "G",
+     "stale": true,
+     "status": "Injured Reserve"
     }
    ]
   },
@@ -6047,16 +6068,16 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873056",
   "market": "Moneyline",
   "news": [
-   "Jeffery Simmons has high praise for Caleb Williams",
-   "NFL Week 10 uniforms: Titans debut Rivalries look, Ravens go all-black",
-   "Sources: Eagles to release WR Hollywood Brown per request"
+   "Seahawks are hurting with injuries, but two players will return vs. Raiders",
+   "Fantasy football Week 10 inactives: Who's in and who's out?",
+   "49ers OT Williams, LB Greenlaw questionable, WR Evans out vs. Cowboys"
   ],
   "odds": {
    "mlAway": "-238",
    "mlAwayOpen": "-218",
    "mlHome": "+195",
    "mlHomeOpen": "+180",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "HOU -4.5",
    "spreadOpen": "HOU -4.5",
    "total": "40.5",
@@ -6071,7 +6092,7 @@
   "stars": 3,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Huntington Bank Field, Cleveland"
  },
  "nfl-401873057": {
@@ -6081,7 +6102,9 @@
    "form": "WWLWW",
    "injuries": [
     "Jessie Bates III (S) – Out, Coach's Decision",
-    "B.J. Green II (DE) – Injured Reserve, Elbow"
+    "B.J. Green II (DE) – Injured Reserve, Elbow",
+    "Cam'Ron Silmon-Craig (S) – Out, Coach's Decision",
+    "Eric Murray (S) – Injured Reserve, Elbow"
    ],
    "name": "Jacksonville Jaguars",
    "record": "6-2",
@@ -6100,11 +6123,10 @@
    "abbr": "TEN",
    "form": "LLWLL",
    "injuries": [
-    "Tommy Townsend (P) – Out, Knee",
-    "Anthony Hill Jr. (LB) – Out, Neck",
     "Cody Barton (LB) – Out, Concussion",
-    "Peter Skoronski (G) – Out, Hamstring",
-    "Carnell Tate (WR) – Out, Shoulder"
+    "Anthony Hill Jr. (LB) – Out, Neck",
+    "Tommy Townsend (P) – Out, Knee",
+    "Peter Skoronski (G) – Out, Hamstring"
    ],
    "name": "Tennessee Titans",
    "record": "1-7",
@@ -6127,13 +6149,27 @@
      "pos": "DE",
      "stale": false,
      "status": "Injured Reserve"
+    },
+    {
+     "detail": "Coach's Decision",
+     "player": "Cam'Ron Silmon-Craig",
+     "pos": "S",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Elbow",
+     "player": "Eric Murray",
+     "pos": "S",
+     "stale": false,
+     "status": "Injured Reserve"
     }
    ],
    "home": [
     {
-     "detail": "Knee",
-     "player": "Tommy Townsend",
-     "pos": "P",
+     "detail": "Concussion",
+     "player": "Cody Barton",
+     "pos": "LB",
      "stale": false,
      "status": "Out"
     },
@@ -6145,9 +6181,9 @@
      "status": "Out"
     },
     {
-     "detail": "Concussion",
-     "player": "Cody Barton",
-     "pos": "LB",
+     "detail": "Knee",
+     "player": "Tommy Townsend",
+     "pos": "P",
      "stale": false,
      "status": "Out"
     },
@@ -6157,13 +6193,6 @@
      "pos": "G",
      "stale": false,
      "status": "Out"
-    },
-    {
-     "detail": "Shoulder",
-     "player": "Carnell Tate",
-     "pos": "WR",
-     "stale": false,
-     "status": "Out"
     }
    ]
   },
@@ -6171,16 +6200,16 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873057",
   "market": "Moneyline",
   "news": [
-   "Jeffery Simmons has high praise for Caleb Williams",
-   "NFL Week 10 uniforms: Titans debut Rivalries look, Ravens go all-black",
-   "Sources: Eagles to release WR Hollywood Brown per request"
+   "Seahawks are hurting with injuries, but two players will return vs. Raiders",
+   "Fantasy football Week 10 inactives: Who's in and who's out?",
+   "49ers OT Williams, LB Greenlaw questionable, WR Evans out vs. Cowboys"
   ],
   "odds": {
    "mlAway": "-700",
    "mlAwayOpen": "-135",
    "mlHome": "+500",
    "mlHomeOpen": "+114",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "JAX -10.5",
    "spreadOpen": "JAX -2.5",
    "total": "46.5",
@@ -6195,7 +6224,7 @@
   "stars": 3,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Nissan Stadium, Nashville"
  },
  "nfl-401873058": {
@@ -6204,7 +6233,8 @@
    "abbr": "KC",
    "form": "WLLWW",
    "injuries": [
-    "L'Jarius Sneed (CB) – Injured Reserve, Knee"
+    "Peter Woods (DT) – Out, Neck",
+    "Jaylon Moore (OT) – Out, Ankle"
    ],
    "name": "Kansas City Chiefs",
    "record": "6-2",
@@ -6223,8 +6253,8 @@
    "abbr": "ATL",
    "form": "LLWLL",
    "injuries": [
-    "Zachariah Branch (WR) – Out, Hamstring",
-    "Divine Deablo (LB) – Doubtful, Forearm"
+    "Divine Deablo (LB) – Doubtful, Forearm",
+    "Zachariah Branch (WR) – Out, Hamstring"
    ],
    "name": "Atlanta Falcons",
    "record": "3-6",
@@ -6235,27 +6265,34 @@
   "injuriesRaw": {
    "away": [
     {
-     "detail": "Knee",
-     "player": "L'Jarius Sneed",
-     "pos": "CB",
-     "stale": false,
-     "status": "Injured Reserve"
-    }
-   ],
-   "home": [
-    {
-     "detail": "Hamstring",
-     "player": "Zachariah Branch",
-     "pos": "WR",
+     "detail": "Neck",
+     "player": "Peter Woods",
+     "pos": "DT",
      "stale": false,
      "status": "Out"
     },
+    {
+     "detail": "Ankle",
+     "player": "Jaylon Moore",
+     "pos": "OT",
+     "stale": false,
+     "status": "Out"
+    }
+   ],
+   "home": [
     {
      "detail": "Forearm",
      "player": "Divine Deablo",
      "pos": "LB",
      "stale": false,
      "status": "Doubtful"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "Zachariah Branch",
+     "pos": "WR",
+     "stale": false,
+     "status": "Out"
     }
    ]
   },
@@ -6263,16 +6300,16 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873058",
   "market": "Moneyline",
   "news": [
-   "Jeffery Simmons has high praise for Caleb Williams",
-   "NFL Week 10 uniforms: Titans debut Rivalries look, Ravens go all-black",
-   "Sources: Eagles to release WR Hollywood Brown per request"
+   "Seahawks are hurting with injuries, but two players will return vs. Raiders",
+   "Fantasy football Week 10 inactives: Who's in and who's out?",
+   "49ers OT Williams, LB Greenlaw questionable, WR Evans out vs. Cowboys"
   ],
   "odds": {
    "mlAway": "-175",
    "mlAwayOpen": "-225",
    "mlHome": "+145",
    "mlHomeOpen": "+185",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "KC -3",
    "spreadOpen": "KC -4.5",
    "total": "47.5",
@@ -6289,25 +6326,27 @@
   "stars": 2,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Mercedes-Benz Stadium, Atlanta"
  },
  "nfl-401873059": {
-  "_lastPick": "IND ML (-205)",
+  "_lastPick": "IND ML (-218)",
   "away": {
    "abbr": "MIA",
    "form": "LLWLL",
    "injuries": [
+    "Jared Wayne (WR) – Out, Quadriceps",
     "Chris Bell (WR) – Doubtful, Knee",
     "Aaron Brewer (C) – Out, Concussion",
-    "Darrell Baker Jr. (CB) – Out, Knee"
+    "Darrell Baker Jr. (CB) – Out, Knee",
+    "Malik Willis (QB) – Injured Reserve, Abdomen"
    ],
    "name": "Miami Dolphins",
    "record": "1-7",
    "short": "Dolphins",
    "teamId": "15"
   },
-  "confidence": 66,
+  "confidence": 67,
   "espnId": "401873059",
   "espnLeague": "nfl",
   "espnSport": "football",
@@ -6319,11 +6358,10 @@
    "abbr": "IND",
    "form": "LLLLL",
    "injuries": [
+    "Akeem Davis-Gaither (LB) – Out, Knee",
+    "Mo Alie-Cox (TE) – Out, Groin",
     "Jalen Travis (OT) – Out, Knee",
-    "Luke Rhodes (LS) – Out, Hamstring",
-    "Jerry Tillery (DT) – Out, Calf",
-    "Jaylon Carlies (LB) – Out, Neck",
-    "Mo Alie-Cox (TE) – Out, Groin"
+    "Luke Rhodes (LS) – Out, Hamstring"
    ],
    "name": "Indianapolis Colts",
    "record": "2-7",
@@ -6333,6 +6371,13 @@
   "id": "nfl-401873059",
   "injuriesRaw": {
    "away": [
+    {
+     "detail": "Quadriceps",
+     "player": "Jared Wayne",
+     "pos": "WR",
+     "stale": false,
+     "status": "Out"
+    },
     {
      "detail": "Knee",
      "player": "Chris Bell",
@@ -6353,9 +6398,30 @@
      "pos": "CB",
      "stale": false,
      "status": "Out"
+    },
+    {
+     "detail": "Abdomen",
+     "player": "Malik Willis",
+     "pos": "QB",
+     "stale": false,
+     "status": "Injured Reserve"
     }
    ],
    "home": [
+    {
+     "detail": "Knee",
+     "player": "Akeem Davis-Gaither",
+     "pos": "LB",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Groin",
+     "player": "Mo Alie-Cox",
+     "pos": "TE",
+     "stale": false,
+     "status": "Out"
+    },
     {
      "detail": "Knee",
      "player": "Jalen Travis",
@@ -6369,27 +6435,6 @@
      "pos": "LS",
      "stale": false,
      "status": "Out"
-    },
-    {
-     "detail": "Calf",
-     "player": "Jerry Tillery",
-     "pos": "DT",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Neck",
-     "player": "Jaylon Carlies",
-     "pos": "LB",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Groin",
-     "player": "Mo Alie-Cox",
-     "pos": "TE",
-     "stale": false,
-     "status": "Out"
     }
    ]
   },
@@ -6397,25 +6442,25 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873059",
   "market": "Moneyline",
   "news": [
-   "Jeffery Simmons has high praise for Caleb Williams",
-   "NFL Week 10 uniforms: Titans debut Rivalries look, Ravens go all-black",
-   "Sources: Eagles to release WR Hollywood Brown per request"
+   "Seahawks are hurting with injuries, but two players will return vs. Raiders",
+   "Fantasy football Week 10 inactives: Who's in and who's out?",
+   "49ers OT Williams, LB Greenlaw questionable, WR Evans out vs. Cowboys"
   ],
   "odds": {
-   "mlAway": "+170",
+   "mlAway": "+180",
    "mlAwayOpen": "+235",
-   "mlHome": "-205",
+   "mlHome": "-218",
    "mlHomeOpen": "-290",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "IND -3.5",
    "spreadOpen": "IND -6.5",
    "total": "38.5",
    "totalOpen": "47.5"
   },
-  "pick": "IND ML (-205)",
-  "reason": "IND are about 64% no-vig at -205; ESPN's model has 82%. For: ESPN model 82% vs market 64%.",
+  "pick": "IND ML (-218)",
+  "reason": "IND are about 66% no-vig at -218; ESPN's model has 82%. For: ESPN model 82% vs market 66%.",
   "risks": [
-   "line drifted away (-290 → -205)"
+   "line drifted away (-290 → -218)"
   ],
   "side": "home",
   "slug": "nfl",
@@ -6423,20 +6468,25 @@
   "stars": 3,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Lucas Oil Stadium, Indianapolis"
  },
  "nfl-401873060": {
   "away": {
    "abbr": "MIN",
    "form": "LLWWW",
-   "injuries": [],
+   "injuries": [
+    "Blake Cashman (LB) – Out, Concussion",
+    "Tyrion Ingram-Dawkins (DE) – Out, Ankle",
+    "Jauan Jennings (WR) – Out, Calf",
+    "Kyler Murray (QB) – Out, Hamstring"
+   ],
    "name": "Minnesota Vikings",
    "record": "6-2",
    "short": "Vikings",
    "teamId": "16"
   },
-  "confidence": 52,
+  "confidence": 55,
   "espnId": "401873060",
   "espnLeague": "nfl",
   "espnSport": "football",
@@ -6448,7 +6498,10 @@
    "abbr": "GB",
    "form": "WWLWW",
    "injuries": [
-    "Warren Brinson (DT) – Injured Reserve, Calf"
+    "Zaire Franklin (LB) – Doubtful, Shin",
+    "Josh Whyle (TE) – Out, Concussion",
+    "Skyy Moore (WR) – Injured Reserve, Ankle",
+    "Chris Brooks (RB) – Injured Reserve, Ankle"
    ],
    "name": "Green Bay Packers",
    "record": "6-3",
@@ -6457,12 +6510,62 @@
   },
   "id": "nfl-401873060",
   "injuriesRaw": {
-   "away": [],
-   "home": [
+   "away": [
+    {
+     "detail": "Concussion",
+     "player": "Blake Cashman",
+     "pos": "LB",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Tyrion Ingram-Dawkins",
+     "pos": "DE",
+     "stale": false,
+     "status": "Out"
+    },
     {
      "detail": "Calf",
-     "player": "Warren Brinson",
-     "pos": "DT",
+     "player": "Jauan Jennings",
+     "pos": "WR",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "Kyler Murray",
+     "pos": "QB",
+     "stale": false,
+     "status": "Out"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Shin",
+     "player": "Zaire Franklin",
+     "pos": "LB",
+     "stale": false,
+     "status": "Doubtful"
+    },
+    {
+     "detail": "Concussion",
+     "player": "Josh Whyle",
+     "pos": "TE",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Skyy Moore",
+     "pos": "WR",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Chris Brooks",
+     "pos": "RB",
      "stale": false,
      "status": "Injured Reserve"
     }
@@ -6471,32 +6574,32 @@
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873060",
   "news": [
-   "Jeffery Simmons has high praise for Caleb Williams",
-   "NFL Week 10 uniforms: Titans debut Rivalries look, Ravens go all-black",
-   "Sources: Eagles to release WR Hollywood Brown per request"
+   "Seahawks are hurting with injuries, but two players will return vs. Raiders",
+   "Fantasy football Week 10 inactives: Who's in and who's out?",
+   "49ers OT Williams, LB Greenlaw questionable, WR Evans out vs. Cowboys"
   ],
   "odds": {
-   "mlAway": "+130",
+   "mlAway": "+136",
    "mlAwayOpen": "+185",
-   "mlHome": "-155",
+   "mlHome": "-162",
    "mlHomeOpen": "-225",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "GB -3",
    "spreadOpen": "GB -4.5",
    "total": "42.5",
    "totalOpen": "45.5"
   },
   "pick": "Pass",
-  "reason": "GB about 58% no-vig at -155; no edge worth a pick.",
+  "reason": "GB about 59% no-vig at -162; no edge worth a pick.",
   "risks": [
-   "line drifted away (-225 → -155)"
+   "line drifted away (-225 → -162)"
   ],
   "slug": "nfl",
   "sport": "nfl",
   "stars": 1,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Lambeau Field, Green Bay"
  },
  "nfl-401873061": {
@@ -6505,7 +6608,7 @@
    "abbr": "LAR",
    "form": "WWWLL",
    "injuries": [
-    "Puka Nacua (WR) – Injured Reserve, Knee - MCL"
+    "Steve Avila (G) – Out, Hamstring"
    ],
    "name": "Los Angeles Rams",
    "record": "5-4",
@@ -6536,11 +6639,11 @@
   "injuriesRaw": {
    "away": [
     {
-     "detail": "Knee - MCL",
-     "player": "Puka Nacua",
-     "pos": "WR",
+     "detail": "Hamstring",
+     "player": "Steve Avila",
+     "pos": "G",
      "stale": false,
-     "status": "Injured Reserve"
+     "status": "Out"
     }
    ],
    "home": [
@@ -6564,16 +6667,16 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873061",
   "market": "Moneyline",
   "news": [
-   "Jeffery Simmons has high praise for Caleb Williams",
-   "NFL Week 10 uniforms: Titans debut Rivalries look, Ravens go all-black",
-   "Sources: Eagles to release WR Hollywood Brown per request"
+   "Seahawks are hurting with injuries, but two players will return vs. Raiders",
+   "Fantasy football Week 10 inactives: Who's in and who's out?",
+   "49ers OT Williams, LB Greenlaw questionable, WR Evans out vs. Cowboys"
   ],
   "odds": {
    "mlAway": "-500",
    "mlAwayOpen": "-535",
    "mlHome": "+380",
    "mlHomeOpen": "+400",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "LAR -9.5",
    "spreadOpen": "LAR -10.5",
    "total": "39.5",
@@ -6588,7 +6691,7 @@
   "stars": 3,
   "start": "2026-11-15T21:05Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "State Farm Stadium, Glendale"
  },
  "nfl-401873062": {
@@ -6597,14 +6700,17 @@
    "abbr": "SEA",
    "form": "WLWLL",
    "injuries": [
-    "Charles Cross (OT) – Doubtful, Ankle"
+    "Leonard Williams (DT) – Out, Shoulder",
+    "Quenton Nelson (G) – Out, Knee",
+    "Charles Cross (OT) – Out, Ankle",
+    "Sam Darnold (QB) – Out, Quadriceps"
    ],
    "name": "Seattle Seahawks",
    "record": "5-4",
    "short": "Seahawks",
    "teamId": "26"
   },
-  "confidence": 70,
+  "confidence": 65,
   "espnId": "401873062",
   "espnLeague": "nfl",
   "espnSport": "football",
@@ -6627,11 +6733,39 @@
   "injuriesRaw": {
    "away": [
     {
+     "detail": "Shoulder",
+     "player": "Leonard Williams",
+     "pos": "DT",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Quenton Nelson",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
      "detail": "Ankle",
      "player": "Charles Cross",
      "pos": "OT",
      "stale": false,
-     "status": "Doubtful"
+     "status": "Out"
+    },
+    {
+     "detail": "Quadriceps",
+     "player": "Sam Darnold",
+     "pos": "QB",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Shoulder",
+     "player": "Elijah Arroyo",
+     "pos": "TE",
+     "stale": true,
+     "status": "Injured Reserve"
     }
    ],
    "home": [
@@ -6648,6 +6782,13 @@
      "pos": "DE",
      "stale": true,
      "status": "Injured Reserve"
+    },
+    {
+     "detail": "Knee",
+     "player": "Chigozie Anusiem",
+     "pos": "CB",
+     "stale": true,
+     "status": "Injured Reserve"
     }
    ]
   },
@@ -6655,16 +6796,16 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873062",
   "market": "Moneyline",
   "news": [
-   "Jeffery Simmons has high praise for Caleb Williams",
-   "NFL Week 10 uniforms: Titans debut Rivalries look, Ravens go all-black",
-   "Sources: Eagles to release WR Hollywood Brown per request"
+   "Seahawks are hurting with injuries, but two players will return vs. Raiders",
+   "Fantasy football Week 10 inactives: Who's in and who's out?",
+   "49ers OT Williams, LB Greenlaw questionable, WR Evans out vs. Cowboys"
   ],
   "odds": {
    "mlAway": "-305",
    "mlAwayOpen": "-340",
    "mlHome": "+245",
    "mlHomeOpen": "+270",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "SEA -6.5",
    "spreadOpen": "SEA -7",
    "total": "40.5",
@@ -6672,22 +6813,25 @@
   },
   "pick": "SEA ML (-305)",
   "reason": "SEA are about 72% no-vig at -305; ESPN's model has 74%.",
-  "risks": [],
+  "risks": [
+   "SEA QB Sam Darnold out"
+  ],
   "side": "away",
   "slug": "nfl",
   "sport": "nfl",
   "stars": 2,
   "start": "2026-11-15T21:05Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Allegiant Stadium, Las Vegas"
  },
  "nfl-401873063": {
-  "_lastPick": "SF ML (-205)",
+  "_lastPick": "SF ML (-218)",
   "away": {
    "abbr": "SF",
    "form": "WLWWW",
    "injuries": [
+    "Mike Evans (WR) – Out, Achilles",
     "C.J. West (DT) – Injured Reserve, Knee"
    ],
    "name": "San Francisco 49ers",
@@ -6695,7 +6839,7 @@
    "short": "49ers",
    "teamId": "25"
   },
-  "confidence": 61,
+  "confidence": 62,
   "espnId": "401873063",
   "espnLeague": "nfl",
   "espnSport": "football",
@@ -6706,7 +6850,11 @@
   "home": {
    "abbr": "DAL",
    "form": "WLWLL",
-   "injuries": [],
+   "injuries": [
+    "Juanyeh Thomas (S) – Doubtful, Ribs",
+    "Donovan Ezeiruaku (LB) – Out, Ankle",
+    "Jonathan Mingo (WR) – Out, Ankle"
+   ],
    "name": "Dallas Cowboys",
    "record": "4-5",
    "short": "Cowboys",
@@ -6716,6 +6864,13 @@
   "injuriesRaw": {
    "away": [
     {
+     "detail": "Achilles",
+     "player": "Mike Evans",
+     "pos": "WR",
+     "stale": false,
+     "status": "Out"
+    },
+    {
      "detail": "Knee",
      "player": "C.J. West",
      "pos": "DT",
@@ -6723,29 +6878,51 @@
      "status": "Injured Reserve"
     }
    ],
-   "home": []
+   "home": [
+    {
+     "detail": "Ribs",
+     "player": "Juanyeh Thomas",
+     "pos": "S",
+     "stale": false,
+     "status": "Doubtful"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Donovan Ezeiruaku",
+     "pos": "LB",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Jonathan Mingo",
+     "pos": "WR",
+     "stale": false,
+     "status": "Out"
+    }
+   ]
   },
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873063",
   "market": "Moneyline",
   "news": [
-   "Jeffery Simmons has high praise for Caleb Williams",
-   "NFL Week 10 uniforms: Titans debut Rivalries look, Ravens go all-black",
-   "Sources: Eagles to release WR Hollywood Brown per request"
+   "Seahawks are hurting with injuries, but two players will return vs. Raiders",
+   "Fantasy football Week 10 inactives: Who's in and who's out?",
+   "49ers OT Williams, LB Greenlaw questionable, WR Evans out vs. Cowboys"
   ],
   "odds": {
-   "mlAway": "-205",
+   "mlAway": "-218",
    "mlAwayOpen": "+100",
-   "mlHome": "+170",
+   "mlHome": "+180",
    "mlHomeOpen": "-120",
-   "provider": "Draft Kings",
-   "spread": "SF -3.5",
+   "provider": "DraftKings",
+   "spread": "SF -4.5",
    "spreadOpen": "DAL -1.5",
    "total": "55.5",
    "totalOpen": "52.5"
   },
-  "pick": "SF ML (-205)",
-  "reason": "SF are about 64% no-vig at -205; ESPN's model has 64%. For: line moved toward SF (+100 → -205).",
+  "pick": "SF ML (-218)",
+  "reason": "SF are about 66% no-vig at -218; ESPN's model has 64%. For: line moved toward SF (+100 → -218).",
   "risks": [],
   "side": "away",
   "slug": "nfl",
@@ -6753,24 +6930,24 @@
   "stars": 2,
   "start": "2026-11-15T21:25Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "AT&T Stadium, Arlington"
  },
  "nfl-401873064": {
-  "_lastPick": "CIN ML (-180)",
+  "_lastPick": "CIN ML (-185)",
   "away": {
    "abbr": "PIT",
    "form": "WWWWL",
    "injuries": [
-    "Michael Pittman Jr. (WR) – Injured Reserve, Foot",
-    "Derrick Harmon (DT) – Injured Reserve, Foot"
+    "Derrick Harmon (DT) – Injured Reserve, Foot",
+    "Michael Pittman Jr. (WR) – Injured Reserve, Foot"
    ],
    "name": "Pittsburgh Steelers",
    "record": "6-2",
    "short": "Steelers",
    "teamId": "23"
   },
-  "confidence": 62,
+  "confidence": 63,
   "espnId": "401873064",
   "espnLeague": "nfl",
   "espnSport": "football",
@@ -6782,9 +6959,10 @@
    "abbr": "CIN",
    "form": "WWWWL",
    "injuries": [
+    "Andrei Iosivas (WR) – Injured Reserve, Thumb",
+    "Kyle Dugger (S) – Out, Quadriceps",
     "Brian Parker II (OT) – Injured Reserve, Undisclosed",
     "Jalen Davis (CB) – Injured Reserve, Hamstring",
-    "Andrei Iosivas (WR) – Injured Reserve, Thumb",
     "Cashius Howell (DE) – Injured Reserve, Wrist"
    ],
    "name": "Cincinnati Bengals",
@@ -6797,15 +6975,15 @@
    "away": [
     {
      "detail": "Foot",
-     "player": "Michael Pittman Jr.",
-     "pos": "WR",
+     "player": "Derrick Harmon",
+     "pos": "DT",
      "stale": false,
      "status": "Injured Reserve"
     },
     {
      "detail": "Foot",
-     "player": "Derrick Harmon",
-     "pos": "DT",
+     "player": "Michael Pittman Jr.",
+     "pos": "WR",
      "stale": false,
      "status": "Injured Reserve"
     },
@@ -6833,6 +7011,20 @@
    ],
    "home": [
     {
+     "detail": "Thumb",
+     "player": "Andrei Iosivas",
+     "pos": "WR",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Quadriceps",
+     "player": "Kyle Dugger",
+     "pos": "S",
+     "stale": false,
+     "status": "Out"
+    },
+    {
      "detail": "Undisclosed",
      "player": "Brian Parker II",
      "pos": "OT",
@@ -6843,13 +7035,6 @@
      "detail": "Hamstring",
      "player": "Jalen Davis",
      "pos": "CB",
-     "stale": false,
-     "status": "Injured Reserve"
-    },
-    {
-     "detail": "Thumb",
-     "player": "Andrei Iosivas",
-     "pos": "WR",
      "stale": false,
      "status": "Injured Reserve"
     },
@@ -6866,23 +7051,23 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873064",
   "market": "Moneyline",
   "news": [
-   "Jeffery Simmons has high praise for Caleb Williams",
-   "NFL Week 10 uniforms: Titans debut Rivalries look, Ravens go all-black",
-   "Sources: Eagles to release WR Hollywood Brown per request"
+   "Seahawks are hurting with injuries, but two players will return vs. Raiders",
+   "Fantasy football Week 10 inactives: Who's in and who's out?",
+   "49ers OT Williams, LB Greenlaw questionable, WR Evans out vs. Cowboys"
   ],
   "odds": {
-   "mlAway": "+150",
+   "mlAway": "+154",
    "mlAwayOpen": "+160",
-   "mlHome": "-180",
+   "mlHome": "-185",
    "mlHomeOpen": "-192",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "CIN -3.5",
    "spreadOpen": "CIN -3.5",
    "total": "49.5",
    "totalOpen": "47.5"
   },
-  "pick": "CIN ML (-180)",
-  "reason": "CIN are about 62% no-vig at -180; ESPN's model has 70%. For: ESPN model 70% vs market 62%.",
+  "pick": "CIN ML (-185)",
+  "reason": "CIN are about 62% no-vig at -185; ESPN's model has 70%. For: ESPN model 70% vs market 62%.",
   "risks": [],
   "side": "home",
   "slug": "nfl",
@@ -6890,7 +7075,7 @@
   "stars": 2,
   "start": "2026-11-16T01:20Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Paycor Stadium, Cincinnati"
  },
  "soccer-401861148": {
@@ -7066,7 +7251,7 @@
    "abbr": "AZE",
    "form": "WDDW",
    "name": "Azerbaijan",
-   "record": "1-2-0",
+   "record": "2-2-0",
    "short": "Azerbaijan",
    "teamId": "581"
   },
@@ -7078,7 +7263,7 @@
    "abbr": "LIE",
    "form": "LDLL",
    "name": "Liechtenstein",
-   "record": "0-1-1",
+   "record": "0-1-2",
    "short": "Liechtenstein",
    "teamId": "589"
   },
@@ -7111,7 +7296,7 @@
   "sport": "soccer",
   "stars": 3,
   "start": "2026-11-13T19:45Z",
-  "state": "in",
+  "state": "post",
   "updatedAt": "2026-11-13T12:50:12Z",
   "venue": "Rheinpark Stadion, Vaduz"
  },
@@ -7120,7 +7305,7 @@
    "abbr": "EST",
    "form": "DWDD",
    "name": "Estonia",
-   "record": "1-3-0",
+   "record": "2-3-0",
    "short": "Estonia",
    "teamId": "444"
   },
@@ -7132,7 +7317,7 @@
    "abbr": "LUX",
    "form": "LLLW",
    "name": "Luxembourg",
-   "record": "1-0-3",
+   "record": "1-0-4",
    "short": "Luxembourg",
    "teamId": "582"
   },
@@ -7165,7 +7350,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-13T19:45Z",
-  "state": "in",
+  "state": "post",
   "updatedAt": "2026-11-13T12:50:12Z",
   "venue": "Stade de Luxembourg, Luxembourg City"
  },
@@ -7174,7 +7359,7 @@
    "abbr": "GIB",
    "form": "WDDD",
    "name": "Gibraltar",
-   "record": "0-2-0",
+   "record": "0-2-1",
    "short": "Gibraltar",
    "teamId": "16721"
   },
@@ -7186,7 +7371,7 @@
    "abbr": "AND",
    "form": "LLDL",
    "name": "Andorra",
-   "record": "0-1-2",
+   "record": "1-1-2",
    "short": "Andorra",
    "teamId": "587"
   },
@@ -7217,7 +7402,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-13T19:45Z",
-  "state": "in",
+  "state": "post",
   "updatedAt": "2026-11-13T12:50:12Z",
   "venue": "Estadi de la FAF d'Encamp, Encamp"
  },
@@ -7226,7 +7411,7 @@
    "abbr": "SUI",
    "form": "WWWW",
    "name": "Switzerland",
-   "record": "4-0-0",
+   "record": "4-1-0",
    "short": "Switzerland",
    "teamId": "475"
   },
@@ -7238,7 +7423,7 @@
    "abbr": "SVN",
    "form": "WLWD",
    "name": "Slovenia",
-   "record": "2-1-1",
+   "record": "2-2-1",
    "short": "Slovenia",
    "teamId": "472"
   },
@@ -7269,7 +7454,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-13T19:45Z",
-  "state": "in",
+  "state": "post",
   "updatedAt": "2026-11-13T12:50:12Z",
   "venue": "Ljudski vrt, Maribor"
  },
@@ -7278,7 +7463,7 @@
    "abbr": "ISL",
    "form": "DWWD",
    "name": "Iceland",
-   "record": "2-2-0",
+   "record": "3-2-0",
    "short": "Iceland",
    "teamId": "470"
   },
@@ -7290,7 +7475,7 @@
    "abbr": "BUL",
    "form": "WLDL",
    "name": "Bulgaria",
-   "record": "1-1-2",
+   "record": "1-1-3",
    "short": "Bulgaria",
    "teamId": "462"
   },
@@ -7321,7 +7506,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-13T19:45Z",
-  "state": "in",
+  "state": "post",
   "updatedAt": "2026-11-13T12:50:12Z",
   "venue": "Hristo Botev Stadium, Plovdiv, Plovdiv"
  },
@@ -7331,7 +7516,7 @@
    "abbr": "GER",
    "form": "DWLD",
    "name": "Germany",
-   "record": "1-2-1",
+   "record": "2-2-1",
    "short": "Germany",
    "teamId": "481"
   },
@@ -7343,7 +7528,7 @@
    "abbr": "SRB",
    "form": "LLLL",
    "name": "Serbia",
-   "record": "0-0-4",
+   "record": "0-0-5",
    "short": "Serbia",
    "teamId": "6757"
   },
@@ -7376,7 +7561,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-13T19:45Z",
-  "state": "in",
+  "state": "post",
   "updatedAt": "2026-11-13T12:50:12Z",
   "venue": "Rajko Mitic Stadium, Belgrade"
  },
@@ -7385,7 +7570,7 @@
    "abbr": "GRE",
    "form": "DDWW",
    "name": "Greece",
-   "record": "2-2-0",
+   "record": "2-2-1",
    "short": "Greece",
    "teamId": "455"
   },
@@ -7397,7 +7582,7 @@
    "abbr": "NED",
    "form": "WDWD",
    "name": "Netherlands",
-   "record": "2-2-0",
+   "record": "3-2-0",
    "short": "Netherlands",
    "teamId": "449"
   },
@@ -7430,7 +7615,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-13T19:45Z",
-  "state": "in",
+  "state": "post",
   "updatedAt": "2026-11-13T12:50:12Z",
   "venue": "Johan Cruijff Arena, Amsterdam"
  },
@@ -7440,7 +7625,7 @@
    "abbr": "FRO",
    "form": "DDDD",
    "name": "Faroe Islands",
-   "record": "0-4-0",
+   "record": "0-5-0",
    "short": "Faroe Islands",
    "teamId": "447"
   },
@@ -7452,7 +7637,7 @@
    "abbr": "SVK",
    "form": "WDWW",
    "name": "Slovakia",
-   "record": "3-1-0",
+   "record": "3-2-0",
    "short": "Slovakia",
    "teamId": "468"
   },
@@ -7485,7 +7670,7 @@
   "sport": "soccer",
   "stars": 3,
   "start": "2026-11-13T19:45Z",
-  "state": "in",
+  "state": "post",
   "updatedAt": "2026-11-13T12:50:12Z",
   "venue": "Košická futbalová aréna (KFA), Kosice"
  },
@@ -7495,7 +7680,7 @@
    "abbr": "MKD",
    "form": "LLLL",
    "name": "North Macedonia",
-   "record": "0-0-4",
+   "record": "0-0-5",
    "short": "North Macedonia",
    "teamId": "463"
   },
@@ -7507,7 +7692,7 @@
    "abbr": "SCO",
    "form": "LWLD",
    "name": "Scotland",
-   "record": "1-1-2",
+   "record": "2-1-2",
    "short": "Scotland",
    "teamId": "580"
   },
@@ -7540,7 +7725,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-13T19:45Z",
-  "state": "in",
+  "state": "post",
   "updatedAt": "2026-11-13T12:50:12Z",
   "venue": "Hampden Park, Glasgow"
  },
@@ -7621,9 +7806,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861163",
   "news": [
-   "Thomas Tuchel confident England 'ready' to snap Spain's record unbeaten streak",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test"
+   "'This is the way': Xavi lauds Netherlands after tying record Nations League win",
+   "McGinn brace sees Scotland edge North Macedonia",
+   "Wirtz scores as Germany see off nine-man Serbia to set up Dutch decider"
   ],
   "odds": {
    "mlAway": "+320",
@@ -7645,7 +7830,7 @@
   "stars": 1,
   "start": "2026-11-14T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Stadiumi Fadil Vokrri, Prishtina"
  },
  "soccer-401861164": {
@@ -7673,9 +7858,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861164",
   "news": [
-   "Thomas Tuchel confident England 'ready' to snap Spain's record unbeaten streak",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test"
+   "'This is the way': Xavi lauds Netherlands after tying record Nations League win",
+   "McGinn brace sees Scotland edge North Macedonia",
+   "Wirtz scores as Germany see off nine-man Serbia to set up Dutch decider"
   ],
   "odds": {
    "mlAway": "+145",
@@ -7697,7 +7882,7 @@
   "stars": 1,
   "start": "2026-11-14T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Mikheil Meskhi Stadioni, Tbilisi"
  },
  "soccer-401861165": {
@@ -7727,9 +7912,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861165",
   "market": "Moneyline",
   "news": [
-   "Thomas Tuchel confident England 'ready' to snap Spain's record unbeaten streak",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test"
+   "'This is the way': Xavi lauds Netherlands after tying record Nations League win",
+   "McGinn brace sees Scotland edge North Macedonia",
+   "Wirtz scores as Germany see off nine-man Serbia to set up Dutch decider"
   ],
   "odds": {
    "mlAway": "+900",
@@ -7752,7 +7937,7 @@
   "stars": 2,
   "start": "2026-11-14T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Ullevaal Stadion, Oslo"
  },
  "soccer-401861166": {
@@ -7782,9 +7967,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861166",
   "market": "Moneyline",
   "news": [
-   "Thomas Tuchel confident England 'ready' to snap Spain's record unbeaten streak",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test"
+   "'This is the way': Xavi lauds Netherlands after tying record Nations League win",
+   "McGinn brace sees Scotland edge North Macedonia",
+   "Wirtz scores as Germany see off nine-man Serbia to set up Dutch decider"
   ],
   "odds": {
    "mlAway": "+475",
@@ -7807,7 +7992,7 @@
   "stars": 2,
   "start": "2026-11-14T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Friends Arena, Stockholm"
  },
  "soccer-401861167": {
@@ -7837,9 +8022,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861167",
   "market": "Moneyline",
   "news": [
-   "Thomas Tuchel confident England 'ready' to snap Spain's record unbeaten streak",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test"
+   "'This is the way': Xavi lauds Netherlands after tying record Nations League win",
+   "McGinn brace sees Scotland edge North Macedonia",
+   "Wirtz scores as Germany see off nine-man Serbia to set up Dutch decider"
   ],
   "odds": {
    "mlAway": "+450",
@@ -7862,7 +8047,7 @@
   "stars": 2,
   "start": "2026-11-14T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Estádio Municipal de Braga, Braga"
  },
  "soccer-401861168": {
@@ -7890,9 +8075,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861168",
   "news": [
-   "Thomas Tuchel confident England 'ready' to snap Spain's record unbeaten streak",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test"
+   "'This is the way': Xavi lauds Netherlands after tying record Nations League win",
+   "McGinn brace sees Scotland edge North Macedonia",
+   "Wirtz scores as Germany see off nine-man Serbia to set up Dutch decider"
   ],
   "odds": {
    "mlAway": "-120",
@@ -7914,7 +8099,7 @@
   "stars": 1,
   "start": "2026-11-14T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "National Arena, Bucuresti"
  },
  "soccer-401861169": {
@@ -7942,9 +8127,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861169",
   "news": [
-   "Thomas Tuchel confident England 'ready' to snap Spain's record unbeaten streak",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test"
+   "'This is the way': Xavi lauds Netherlands after tying record Nations League win",
+   "McGinn brace sees Scotland edge North Macedonia",
+   "Wirtz scores as Germany see off nine-man Serbia to set up Dutch decider"
   ],
   "odds": {
    "mlAway": "+205",
@@ -7966,7 +8151,7 @@
   "stars": 1,
   "start": "2026-11-14T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Windsor Park, Belfast"
  },
  "soccer-401861170": {
@@ -7994,31 +8179,31 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861170",
   "news": [
-   "Thomas Tuchel confident England 'ready' to snap Spain's record unbeaten streak",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test"
+   "'This is the way': Xavi lauds Netherlands after tying record Nations League win",
+   "McGinn brace sees Scotland edge North Macedonia",
+   "Wirtz scores as Germany see off nine-man Serbia to set up Dutch decider"
   ],
   "odds": {
    "mlAway": "+425",
    "mlAwayOpen": "+400",
-   "mlDraw": "+300",
-   "mlHome": "-180",
+   "mlDraw": "+295",
+   "mlHome": "-175",
    "mlHomeOpen": "-180",
    "provider": "DraftKings",
-   "spread": "AUT -180",
+   "spread": "AUT -175",
    "spreadOpen": "AUT -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Austria about 59% no-vig at -180; no edge worth a pick.",
+  "reason": "Austria about 59% no-vig at -175; no edge worth a pick.",
   "risks": [],
   "slug": "uefa.nations",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-14T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Raiffeisen Arena (Linz), Linz"
  },
  "soccer-401861171": {
@@ -8053,7 +8238,7 @@
   "stars": 1,
   "start": "2026-11-15T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Skonto Stadions, Riga"
  },
  "soccer-401861172": {
@@ -8081,9 +8266,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861172",
   "news": [
-   "Thomas Tuchel confident England 'ready' to snap Spain's record unbeaten streak",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test"
+   "'This is the way': Xavi lauds Netherlands after tying record Nations League win",
+   "McGinn brace sees Scotland edge North Macedonia",
+   "Wirtz scores as Germany see off nine-man Serbia to set up Dutch decider"
   ],
   "odds": {
    "mlAway": "+130",
@@ -8105,7 +8290,7 @@
   "stars": 1,
   "start": "2026-11-15T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Alphamega Stadium, Kolossi"
  },
  "soccer-401861173": {
@@ -8140,7 +8325,7 @@
   "stars": 1,
   "start": "2026-11-15T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Illovszky Rudolf Stadion, Budapest"
  },
  "soccer-401861174": {
@@ -8175,7 +8360,7 @@
   "stars": 1,
   "start": "2026-11-15T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Bolt Arena, Helsinki"
  },
  "soccer-401861175": {
@@ -8203,9 +8388,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861175",
   "news": [
-   "Thomas Tuchel confident England 'ready' to snap Spain's record unbeaten streak",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test"
+   "'This is the way': Xavi lauds Netherlands after tying record Nations League win",
+   "McGinn brace sees Scotland edge North Macedonia",
+   "Wirtz scores as Germany see off nine-man Serbia to set up Dutch decider"
   ],
   "odds": {
    "mlAway": "+330",
@@ -8227,7 +8412,7 @@
   "stars": 1,
   "start": "2026-11-15T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Riyadh Air Metropolitano, Madrid"
  },
  "soccer-401861176": {
@@ -8255,9 +8440,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861176",
   "news": [
-   "Thomas Tuchel confident England 'ready' to snap Spain's record unbeaten streak",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test"
+   "'This is the way': Xavi lauds Netherlands after tying record Nations League win",
+   "McGinn brace sees Scotland edge North Macedonia",
+   "Wirtz scores as Germany see off nine-man Serbia to set up Dutch decider"
   ],
   "odds": {
    "mlAway": "+210",
@@ -8279,7 +8464,7 @@
   "stars": 1,
   "start": "2026-11-15T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "King Baudouin Stadium, Brussels"
  },
  "soccer-401861177": {
@@ -8309,12 +8494,12 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861177",
   "market": "Moneyline",
   "news": [
-   "Thomas Tuchel confident England 'ready' to snap Spain's record unbeaten streak",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test"
+   "'This is the way': Xavi lauds Netherlands after tying record Nations League win",
+   "McGinn brace sees Scotland edge North Macedonia",
+   "Wirtz scores as Germany see off nine-man Serbia to set up Dutch decider"
   ],
   "odds": {
-   "mlAway": "+850",
+   "mlAway": "+900",
    "mlAwayOpen": "+1000",
    "mlDraw": "+500",
    "mlHome": "-450",
@@ -8334,7 +8519,7 @@
   "stars": 3,
   "start": "2026-11-15T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Stade Atlantique, Bordeaux"
  },
  "soccer-401861178": {
@@ -8364,9 +8549,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861178",
   "market": "Moneyline",
   "news": [
-   "Thomas Tuchel confident England 'ready' to snap Spain's record unbeaten streak",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test"
+   "'This is the way': Xavi lauds Netherlands after tying record Nations League win",
+   "McGinn brace sees Scotland edge North Macedonia",
+   "Wirtz scores as Germany see off nine-man Serbia to set up Dutch decider"
   ],
   "odds": {
    "mlAway": "+450",
@@ -8389,7 +8574,7 @@
   "stars": 2,
   "start": "2026-11-15T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Opus Arena, Osijek"
  },
  "soccer-401861179": {
@@ -8406,7 +8591,7 @@
   "home": {
    "abbr": "GIB",
    "name": "Gibraltar",
-   "record": "0-2-0",
+   "record": "0-2-1",
    "short": "Gibraltar",
    "teamId": "16721"
   },
@@ -8424,7 +8609,7 @@
   "stars": 1,
   "start": "2026-11-16T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Europa Point Stadium, Gibraltar"
  },
  "soccer-401861180": {
@@ -8441,7 +8626,7 @@
   "home": {
    "abbr": "FRO",
    "name": "Faroe Islands",
-   "record": "0-4-0",
+   "record": "0-5-0",
    "short": "Faroe Islands",
    "teamId": "447"
   },
@@ -8459,14 +8644,14 @@
   "stars": 1,
   "start": "2026-11-16T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Tórsvollur, Tórshavn"
  },
  "soccer-401861181": {
   "away": {
    "abbr": "SVK",
    "name": "Slovakia",
-   "record": "3-1-0",
+   "record": "3-2-0",
    "short": "Slovakia",
    "teamId": "468"
   },
@@ -8494,14 +8679,14 @@
   "stars": 1,
   "start": "2026-11-16T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Astana Arena, Astana"
  },
  "soccer-401861182": {
   "away": {
    "abbr": "LUX",
    "name": "Luxembourg",
-   "record": "1-0-3",
+   "record": "1-0-4",
    "short": "Luxembourg",
    "teamId": "582"
   },
@@ -8511,7 +8696,7 @@
   "home": {
    "abbr": "ISL",
    "name": "Iceland",
-   "record": "2-2-0",
+   "record": "3-2-0",
    "short": "Iceland",
    "teamId": "470"
   },
@@ -8529,14 +8714,14 @@
   "stars": 1,
   "start": "2026-11-16T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Laugardalsvöllur, Reykjavik"
  },
  "soccer-401861183": {
   "away": {
    "abbr": "BUL",
    "name": "Bulgaria",
-   "record": "1-1-2",
+   "record": "1-1-3",
    "short": "Bulgaria",
    "teamId": "462"
   },
@@ -8546,7 +8731,7 @@
   "home": {
    "abbr": "EST",
    "name": "Estonia",
-   "record": "1-3-0",
+   "record": "2-3-0",
    "short": "Estonia",
    "teamId": "444"
   },
@@ -8564,14 +8749,14 @@
   "stars": 1,
   "start": "2026-11-16T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "A. Le Coq Arena, Tallinn"
  },
  "soccer-401861184": {
   "away": {
    "abbr": "LIE",
    "name": "Liechtenstein",
-   "record": "0-1-1",
+   "record": "0-1-2",
    "short": "Liechtenstein",
    "teamId": "589"
   },
@@ -8599,147 +8784,218 @@
   "stars": 1,
   "start": "2026-11-16T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "S. Darius and S. Gireno Stadium, Kaunas"
  },
  "soccer-401861185": {
   "away": {
    "abbr": "NED",
+   "form": "WWDWD",
    "name": "Netherlands",
-   "record": "2-2-0",
+   "record": "3-2-0",
    "short": "Netherlands",
    "teamId": "449"
   },
+  "confidence": 47,
   "espnId": "401861185",
   "espnLeague": "uefa.nations",
   "espnSport": "soccer",
   "home": {
    "abbr": "GER",
+   "form": "WDWLD",
    "name": "Germany",
-   "record": "1-2-1",
+   "record": "2-2-1",
    "short": "Germany",
    "teamId": "481"
   },
   "id": "soccer-401861185",
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861185",
+  "news": [
+   "'This is the way': Xavi lauds Netherlands after tying record Nations League win",
+   "McGinn brace sees Scotland edge North Macedonia",
+   "Wirtz scores as Germany see off nine-man Serbia to set up Dutch decider"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+250",
+   "mlAwayOpen": "+250",
+   "mlDraw": "+300",
+   "mlHome": "-120",
+   "mlHomeOpen": "-120",
+   "provider": "DraftKings",
+   "spread": "GER -120",
+   "spreadOpen": "GER -0.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
   },
   "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "reason": "Germany about 50% no-vig at -120; no edge worth a pick.",
   "risks": [],
   "slug": "uefa.nations",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-16T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Olympic Stadium Berlin, Berlin"
  },
  "soccer-401861186": {
   "away": {
    "abbr": "SCO",
+   "form": "WLWLD",
    "name": "Scotland",
-   "record": "1-1-2",
+   "record": "2-1-2",
    "short": "Scotland",
    "teamId": "580"
   },
+  "confidence": 53,
   "espnId": "401861186",
   "espnLeague": "uefa.nations",
   "espnSport": "soccer",
   "home": {
    "abbr": "SUI",
+   "form": "DWWWW",
    "name": "Switzerland",
-   "record": "4-0-0",
+   "record": "4-1-0",
    "short": "Switzerland",
    "teamId": "475"
   },
   "id": "soccer-401861186",
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861186",
+  "news": [
+   "'This is the way': Xavi lauds Netherlands after tying record Nations League win",
+   "McGinn brace sees Scotland edge North Macedonia",
+   "Wirtz scores as Germany see off nine-man Serbia to set up Dutch decider"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+400",
+   "mlAwayOpen": "+400",
+   "mlDraw": "+265",
+   "mlHome": "-150",
+   "mlHomeOpen": "-150",
+   "provider": "DraftKings",
+   "spread": "SUI -150",
+   "spreadOpen": "SUI -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "reason": "Switzerland about 56% no-vig at -150; no edge worth a pick.",
   "risks": [],
   "slug": "uefa.nations",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-16T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Kybunpark, St. Gallen"
  },
  "soccer-401861187": {
   "away": {
    "abbr": "SVN",
+   "form": "DWLWD",
    "name": "Slovenia",
-   "record": "2-1-1",
+   "record": "2-2-1",
    "short": "Slovenia",
    "teamId": "472"
   },
+  "confidence": 55,
   "espnId": "401861187",
   "espnLeague": "uefa.nations",
   "espnSport": "soccer",
   "home": {
    "abbr": "MKD",
+   "form": "LLLLL",
    "name": "North Macedonia",
-   "record": "0-0-4",
+   "record": "0-0-5",
    "short": "North Macedonia",
    "teamId": "463"
   },
   "id": "soccer-401861187",
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861187",
+  "news": [
+   "'This is the way': Xavi lauds Netherlands after tying record Nations League win",
+   "McGinn brace sees Scotland edge North Macedonia",
+   "Wirtz scores as Germany see off nine-man Serbia to set up Dutch decider"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "-165",
+   "mlAwayOpen": "-165",
+   "mlDraw": "+260",
+   "mlHome": "+450",
+   "mlHomeOpen": "+450",
+   "provider": "DraftKings",
+   "spread": "SVN -165",
+   "spreadOpen": "SVN -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "reason": "Slovenia about 58% no-vig at -165; no edge worth a pick.",
   "risks": [],
   "slug": "uefa.nations",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-16T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Toše Proeski Arena, Skopje"
  },
  "soccer-401861188": {
+  "_lastPick": "Greece ML (-230)",
   "away": {
    "abbr": "SRB",
+   "form": "LLLLL",
    "name": "Serbia",
-   "record": "0-0-4",
+   "record": "0-0-5",
    "short": "Serbia",
    "teamId": "6757"
   },
+  "confidence": 61,
   "espnId": "401861188",
   "espnLeague": "uefa.nations",
   "espnSport": "soccer",
   "home": {
    "abbr": "GRE",
+   "form": "LDDWW",
    "name": "Greece",
-   "record": "2-2-0",
+   "record": "2-2-1",
    "short": "Greece",
    "teamId": "455"
   },
   "id": "soccer-401861188",
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861188",
+  "market": "Moneyline",
+  "news": [
+   "'This is the way': Xavi lauds Netherlands after tying record Nations League win",
+   "McGinn brace sees Scotland edge North Macedonia",
+   "Wirtz scores as Germany see off nine-man Serbia to set up Dutch decider"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+500",
+   "mlAwayOpen": "+550",
+   "mlDraw": "+350",
+   "mlHome": "-230",
+   "mlHomeOpen": "-235",
+   "provider": "DraftKings",
+   "spread": "GRE -230",
+   "spreadOpen": "GRE -1.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
   },
-  "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "pick": "Greece ML (-230)",
+  "reason": "Greece are about 64% no-vig at -230.",
   "risks": [],
+  "side": "home",
   "slug": "uefa.nations",
   "sport": "soccer",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-16T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Panthessaliko Stadium, Volos"
  },
  "soccer-401876988": {
@@ -8769,7 +9025,7 @@
   "odds": {
    "mlAway": "+100",
    "mlAwayOpen": "+100",
-   "mlDraw": "+270",
+   "mlDraw": "+275",
    "mlHome": "+240",
    "mlHomeOpen": "+235",
    "provider": "DraftKings",
@@ -8786,7 +9042,7 @@
   "stars": 1,
   "start": "2026-11-14T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Estadio Corregidora, Santiago de Querétaro"
  },
  "soccer-401906463": {
@@ -8819,7 +9075,7 @@
   "stars": 1,
   "start": "2026-11-15T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "One New Zealand Stadium, Christchurch"
  },
  "soccer-401914292": {
@@ -8852,7 +9108,7 @@
   "stars": 1,
   "start": "2026-11-16T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Estadi de la FAF d'Encamp, Encamp"
  },
  "soccer-401916337": {
@@ -8878,9 +9134,9 @@
   "league": "International Friendly",
   "link": "https://www.espn.com/soccer/match/_/gameId/401916337",
   "news": [
-   "Australia friendly with Jordan relocated due to player security concerns",
-   "Socceroos camp in 'good spirits' as call to play in Jordan looms",
-   "Football Australia boss flies to Amman for crisis talks over Jordan friendly"
+   "Socceroos prove they can be the big dogs in Qatar clash",
+   "Socceroos hammer Asian champions in statement win",
+   "Australia friendly with Jordan relocated due to player security concerns"
   ],
   "odds": {
    "mlAway": "-115",
@@ -8902,7 +9158,7 @@
   "stars": 1,
   "start": "2026-11-14T10:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Singapore National Stadium, Singapore"
  },
  "soccer-401916338": {
@@ -9040,13 +9296,13 @@
    "Football Australia boss flies to Amman for crisis talks over Jordan friendly"
   ],
   "odds": {
-   "mlAway": "+650",
+   "mlAway": "+700",
    "mlAwayOpen": "+600",
-   "mlDraw": "+350",
-   "mlHome": "-235",
+   "mlDraw": "+380",
+   "mlHome": "-265",
    "mlHomeOpen": "-235",
    "provider": "DraftKings",
-   "spread": "COL -235",
+   "spread": "COL -265",
    "spreadOpen": "COL -1.5",
    "total": "2.5",
    "totalOpen": "2.5"
@@ -9059,7 +9315,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-14T00:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-13T20:16:40Z",
   "venue": "Pascual Guerrero, Cali"
  },
@@ -9088,9 +9344,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401930236",
   "market": "Moneyline",
   "news": [
-   "Australia friendly with Jordan relocated due to player security concerns",
-   "Socceroos camp in 'good spirits' as call to play in Jordan looms",
-   "Football Australia boss flies to Amman for crisis talks over Jordan friendly"
+   "Socceroos prove they can be the big dogs in Qatar clash",
+   "Socceroos hammer Asian champions in statement win",
+   "Australia friendly with Jordan relocated due to player security concerns"
   ],
   "odds": {
    "mlAway": "+475",
@@ -9113,7 +9369,7 @@
   "stars": 2,
   "start": "2026-11-14T12:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Zhaoqing New District Sports Center Stadium, Zhaoqing"
  },
  "soccer-401930243": {
@@ -9141,9 +9397,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401930243",
   "market": "Moneyline",
   "news": [
-   "Australia friendly with Jordan relocated due to player security concerns",
-   "Socceroos camp in 'good spirits' as call to play in Jordan looms",
-   "Football Australia boss flies to Amman for crisis talks over Jordan friendly"
+   "Socceroos prove they can be the big dogs in Qatar clash",
+   "Socceroos hammer Asian champions in statement win",
+   "Australia friendly with Jordan relocated due to player security concerns"
   ],
   "odds": {
    "mlAway": "-500",
@@ -9166,7 +9422,7 @@
   "stars": 2,
   "start": "2026-11-14T12:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Thien Truong Stadium, Nam Dinh"
  },
  "soccer-401930876": {
@@ -9199,13 +9455,13 @@
    "Football Australia boss flies to Amman for crisis talks over Jordan friendly"
   ],
   "odds": {
-   "mlAway": "+450",
+   "mlAway": "+500",
    "mlAwayOpen": "+500",
-   "mlDraw": "+285",
-   "mlHome": "-160",
+   "mlDraw": "+310",
+   "mlHome": "-185",
    "mlHomeOpen": "-195",
    "provider": "DraftKings",
-   "spread": "ARG -160",
+   "spread": "ARG -185",
    "spreadOpen": "ARG -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
@@ -9220,7 +9476,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-13T23:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-13T20:16:40Z",
   "venue": "Alberto José Armando (La Bombonera), Buenos Aires"
  },
@@ -9232,7 +9488,7 @@
    "short": "Bolivia",
    "teamId": "204"
   },
-  "confidence": 47,
+  "confidence": 49,
   "espnId": "401930878",
   "espnLeague": "fifa.friendly",
   "espnSport": "soccer",
@@ -9247,47 +9503,51 @@
   "league": "International Friendly",
   "link": "https://www.espn.com/soccer/match/_/gameId/401930878",
   "news": [
-   "Australia friendly with Jordan relocated due to player security concerns",
-   "Socceroos camp in 'good spirits' as call to play in Jordan looms",
-   "Football Australia boss flies to Amman for crisis talks over Jordan friendly"
+   "Socceroos prove they can be the big dogs in Qatar clash",
+   "Socceroos hammer Asian champions in statement win",
+   "Australia friendly with Jordan relocated due to player security concerns"
   ],
   "odds": {
-   "mlAway": "+350",
+   "mlAway": "+370",
    "mlAwayOpen": "+475",
-   "mlDraw": "+250",
-   "mlHome": "-125",
+   "mlDraw": "+260",
+   "mlHome": "-130",
    "mlHomeOpen": "-175",
    "provider": "DraftKings",
-   "spread": "PER -125",
+   "spread": "PER -130",
    "spreadOpen": "PER -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Peru about 52% no-vig at -125; no edge worth a pick.",
+  "reason": "Peru about 54% no-vig at -130; no edge worth a pick.",
   "risks": [
-   "line drifted away (-175 → -125)"
+   "line drifted away (-175 → -130)"
   ],
   "slug": "fifa.friendly",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-14T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Estadio Alejandro Villanueva, Lima"
  },
  "soccer-401930879": {
+  "_lastPick": "Bahrain ML (-200)",
   "away": {
    "abbr": "YEM",
+   "form": "WLL",
    "name": "Yemen",
    "short": "Yemen",
    "teamId": "6014"
   },
+  "confidence": 60,
   "espnId": "401930879",
   "espnLeague": "fifa.friendly",
   "espnSport": "soccer",
   "home": {
    "abbr": "BHR",
+   "form": "LLL",
    "name": "Bahrain",
    "short": "Bahrain",
    "teamId": "4381"
@@ -9295,18 +9555,34 @@
   "id": "soccer-401930879",
   "league": "International Friendly",
   "link": "https://www.espn.com/soccer/match/_/gameId/401930879",
+  "market": "Moneyline",
+  "news": [
+   "Socceroos prove they can be the big dogs in Qatar clash",
+   "Socceroos hammer Asian champions in statement win",
+   "Australia friendly with Jordan relocated due to player security concerns"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+550",
+   "mlAwayOpen": "+550",
+   "mlDraw": "+310",
+   "mlHome": "-200",
+   "mlHomeOpen": "-200",
+   "provider": "DraftKings",
+   "spread": "BHR -200",
+   "spreadOpen": "BHR -1.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
   },
-  "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "pick": "Bahrain ML (-200)",
+  "reason": "Bahrain are about 63% no-vig at -200.",
   "risks": [],
+  "side": "home",
   "slug": "fifa.friendly",
   "sport": "soccer",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-14T06:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Tianhe Stadium, Guangzhou"
  },
  "soccer-401930898": {
@@ -9342,10 +9618,10 @@
    "mlAway": "+1100",
    "mlAwayOpen": "+700",
    "mlDraw": "+500",
-   "mlHome": "-425",
+   "mlHome": "-400",
    "mlHomeOpen": "-270",
    "provider": "DraftKings",
-   "spread": "ECU -425",
+   "spread": "ECU -400",
    "spreadOpen": "ECU -1.5",
    "total": "2.5",
    "totalOpen": "2.5"
@@ -9360,7 +9636,7 @@
   "sport": "soccer",
   "stars": 3,
   "start": "2026-11-14T00:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-13T20:16:40Z",
   "venue": "Estadio Olímpico Atahualpa, Quito"
  },
@@ -9541,9 +9817,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401932237",
   "market": "Moneyline",
   "news": [
-   "Australia friendly with Jordan relocated due to player security concerns",
-   "Socceroos camp in 'good spirits' as call to play in Jordan looms",
-   "Football Australia boss flies to Amman for crisis talks over Jordan friendly"
+   "Socceroos prove they can be the big dogs in Qatar clash",
+   "Socceroos hammer Asian champions in statement win",
+   "Australia friendly with Jordan relocated due to player security concerns"
   ],
   "odds": {
    "mlAway": "-280",
@@ -9568,7 +9844,7 @@
   "stars": 2,
   "start": "2026-11-14T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Basra International Stadium, Basra"
  },
  "soccer-401933636": {
@@ -9654,7 +9930,7 @@
   "stars": 1,
   "start": "2026-11-15T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Stadion De Vliert, Den Bosch"
  },
  "soccer-401933864": {
@@ -9687,7 +9963,7 @@
   "stars": 1,
   "start": "2026-11-14T05:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-13T20:16:40Z",
+  "updatedAt": "2026-11-14T00:55:02Z",
   "venue": "Stade Louis Ganivet"
  }
 }
