@@ -1028,7 +1028,7 @@
   "venue": "Intuit Dome, Inglewood"
  },
  "nba-401909980": {
-  "_lastPick": "DEN ML (-670)",
+  "_lastPick": "DEN ML (-650)",
   "away": {
    "abbr": "DEN",
    "form": "WLWWL",
@@ -1043,14 +1043,13 @@
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 80.1,
-   "home": 19.9
+   "away": 80.7,
+   "home": 19.3
   },
   "home": {
    "abbr": "NO",
    "form": "LLLLL",
    "injuries": [
-    "Yves Missi (C) – Out, Knee",
     "Trendon Watford (F) – Out, Ankle",
     "Bryce McGowens (G) – Out, Elbow",
     "Trey Murphy III (F) – Out, Knee",
@@ -1073,13 +1072,6 @@
     }
    ],
    "home": [
-    {
-     "detail": "Knee",
-     "player": "Yves Missi",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    },
     {
      "detail": "Ankle",
      "player": "Trendon Watford",
@@ -1119,18 +1111,18 @@
    "The price of a pro hoop dream starts with a $200 G League tryout"
   ],
   "odds": {
-   "mlAway": "-670",
+   "mlAway": "-650",
    "mlAwayOpen": "-556",
-   "mlHome": "+483",
+   "mlHome": "+470",
    "mlHomeOpen": "+417",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "DEN -12.5",
    "spreadOpen": "DEN -10.5",
    "total": "235.5",
    "totalOpen": "234.5"
   },
-  "pick": "DEN ML (-670)",
-  "reason": "DEN are about 84% no-vig at -670; ESPN's model has 80%. For: form WLWWL vs LLLLL.",
+  "pick": "DEN ML (-650)",
+  "reason": "DEN are about 83% no-vig at -650; ESPN's model has 81%. For: form WLWWL vs LLLLL.",
   "risks": [],
   "side": "away",
   "slug": "nba",
@@ -1138,10 +1130,11 @@
   "stars": 2,
   "start": "2026-11-15T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Smoothie King Center, New Orleans"
  },
  "nba-401909981": {
+  "_lastPick": "DAL ML (-330)",
   "away": {
    "abbr": "DAL",
    "form": "LWWWL",
@@ -1155,13 +1148,13 @@
    "short": "Mavericks",
    "teamId": "6"
   },
-  "confidence": 49,
+  "confidence": 62,
   "espnId": "401909981",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 34.4,
-   "home": 65.6
+   "away": 51.0,
+   "home": 49.0
   },
   "home": {
    "abbr": "CLE",
@@ -1211,36 +1204,39 @@
   },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909981",
+  "market": "Moneyline",
   "news": [
    "Fantasy basketball adds and NBA bets: Fire up Fears, Bey on Saturday",
    "Josh Hart searching for answers after zero-point outing in Knicks loss",
    "The price of a pro hoop dream starts with a $200 G League tryout"
   ],
   "odds": {
-   "mlAway": "-196",
+   "mlAway": "-330",
    "mlAwayOpen": "+118",
-   "mlHome": "+164",
+   "mlHome": "+266",
    "mlHomeOpen": "-140",
-   "provider": "DraftKings",
-   "spread": "DAL -4.5",
+   "provider": "Draft Kings",
+   "spread": "DAL -8.5",
    "spreadOpen": "CLE -3.5",
-   "total": "227.5",
+   "total": "228.5",
    "totalOpen": "231.5"
   },
-  "pick": "Pass",
-  "reason": "DAL about 64% no-vig at -196; no edge worth a pick.",
+  "pick": "DAL ML (-330)",
+  "reason": "DAL are about 74% no-vig at -330; ESPN's model has 51%. For: line moved toward DAL (+118 → -330).",
   "risks": [
-   "ESPN model only 34% vs market 64%"
+   "ESPN model only 51% vs market 74%"
   ],
+  "side": "away",
   "slug": "nba",
   "sport": "nba",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-15T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Rocket Arena, Cleveland"
  },
  "nba-401909982": {
+  "_lastPick": "DET ML (-173)",
   "away": {
    "abbr": "DET",
    "form": "WWLLW",
@@ -1253,13 +1249,13 @@
    "short": "Pistons",
    "teamId": "8"
   },
-  "confidence": 55,
+  "confidence": 59,
   "espnId": "401909982",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 54.7,
-   "home": 45.3
+   "away": 63.7,
+   "home": 36.3
   },
   "home": {
    "abbr": "MIA",
@@ -1292,6 +1288,7 @@
   },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909982",
+  "market": "Moneyline",
   "news": [
    "Fantasy basketball adds and NBA bets: Fire up Fears, Bey on Saturday",
    "Josh Hart searching for answers after zero-point outing in Knicks loss",
@@ -1302,23 +1299,22 @@
    "mlAwayOpen": "-186",
    "mlHome": "+146",
    "mlHomeOpen": "+156",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "DET -3.5",
    "spreadOpen": "DET -5.5",
-   "total": "229.5",
+   "total": "228.5",
    "totalOpen": "226.5"
   },
-  "pick": "Pass",
-  "reason": "DET about 61% no-vig at -173; no edge worth a pick.",
-  "risks": [
-   "ESPN model only 55% vs market 61%"
-  ],
+  "pick": "DET ML (-173)",
+  "reason": "DET are about 61% no-vig at -173; ESPN's model has 64%.",
+  "risks": [],
+  "side": "away",
   "slug": "nba",
   "sport": "nba",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-15T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Kaseya Center, Miami"
  },
  "nba-401909983": {
@@ -1332,20 +1328,21 @@
    "short": "Nets",
    "teamId": "17"
   },
-  "confidence": 55,
+  "confidence": 54,
   "espnId": "401909983",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 34.3,
-   "home": 65.7
+   "away": 34.0,
+   "home": 66.0
   },
   "home": {
    "abbr": "MEM",
    "form": "WLWLL",
    "injuries": [
-    "Scotty Pippen Jr. (G) – Out, Back",
-    "Richie Saunders (G) – Out, Knee"
+    "Quinten Post (C) – Out, Concussion",
+    "Ty Jerome (G) – Out, Hip",
+    "Scotty Pippen Jr. (G) – Out, Back"
    ],
    "name": "Memphis Grizzlies",
    "record": "8-4",
@@ -1357,15 +1354,22 @@
    "away": [],
    "home": [
     {
-     "detail": "Back",
-     "player": "Scotty Pippen Jr.",
+     "detail": "Concussion",
+     "player": "Quinten Post",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hip",
+     "player": "Ty Jerome",
      "pos": "G",
      "stale": false,
      "status": "Out"
     },
     {
-     "detail": "Knee",
-     "player": "Richie Saunders",
+     "detail": "Back",
+     "player": "Scotty Pippen Jr.",
      "pos": "G",
      "stale": false,
      "status": "Out"
@@ -1381,20 +1385,20 @@
    "The price of a pro hoop dream starts with a $200 G League tryout"
   ],
   "odds": {
-   "mlAway": "+121",
+   "mlAway": "+110",
    "mlAwayOpen": "+163",
-   "mlHome": "-143",
+   "mlHome": "-130",
    "mlHomeOpen": "-195",
-   "provider": "DraftKings",
-   "spread": "MEM -2.5",
+   "provider": "Draft Kings",
+   "spread": "MEM -1.5",
    "spreadOpen": "MEM -5.5",
-   "total": "228.5",
+   "total": "227.5",
    "totalOpen": "225.5"
   },
   "pick": "Pass",
-  "reason": "MEM about 57% no-vig at -143; no edge worth a pick.",
+  "reason": "MEM about 54% no-vig at -130; no edge worth a pick.",
   "risks": [
-   "line drifted away (-195 → -143)"
+   "line drifted away (-195 → -130)"
   ],
   "side": null,
   "slug": "nba",
@@ -1402,11 +1406,11 @@
   "stars": 1,
   "start": "2026-11-15T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "FedExForum, Memphis"
  },
  "nba-401909984": {
-  "_lastPick": "MIN ML (-1020)",
+  "_lastPick": "MIN ML (-1080)",
   "away": {
    "abbr": "CHI",
    "form": "WLLLL",
@@ -1419,13 +1423,13 @@
    "short": "Bulls",
    "teamId": "4"
   },
-  "confidence": 86,
+  "confidence": 87,
   "espnId": "401909984",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 10.6,
-   "home": 89.4
+   "away": 9.3,
+   "home": 90.7
   },
   "home": {
    "abbr": "MIN",
@@ -1482,18 +1486,18 @@
    "The price of a pro hoop dream starts with a $200 G League tryout"
   ],
   "odds": {
-   "mlAway": "+660",
+   "mlAway": "+690",
    "mlAwayOpen": "+580",
-   "mlHome": "-1020",
+   "mlHome": "-1080",
    "mlHomeOpen": "-840",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "MIN -15.5",
    "spreadOpen": "MIN -14.5",
-   "total": "235.5",
+   "total": "234.5",
    "totalOpen": "236.5"
   },
-  "pick": "MIN ML (-1020)",
-  "reason": "MIN are about 87% no-vig at -1020; ESPN's model has 89%. For: form WWWWW vs WLLLL. Capped at 2★: NBA capped by lessons.",
+  "pick": "MIN ML (-1080)",
+  "reason": "MIN are about 88% no-vig at -1080; ESPN's model has 91%. For: form WWWWW vs WLLLL. Capped at 2★: NBA capped by lessons.",
   "risks": [],
   "side": "home",
   "slug": "nba",
@@ -1501,7 +1505,7 @@
   "stars": 2,
   "start": "2026-11-15T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Target Center, Minneapolis"
  },
  "nba-401909985": {
@@ -1536,7 +1540,7 @@
   "stars": 1,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Xfinity Mobile Arena, Philadelphia"
  },
  "nba-401909986": {
@@ -1571,7 +1575,7 @@
   "stars": 1,
   "start": "2026-11-15T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Mortgage Matchup Center, Phoenix"
  },
  "nba-401909987": {
@@ -1606,7 +1610,7 @@
   "stars": 1,
   "start": "2026-11-15T21:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Intuit Dome, Inglewood"
  },
  "nba-401909988": {
@@ -1641,7 +1645,7 @@
   "stars": 1,
   "start": "2026-11-15T22:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Delta Center, Salt Lake City"
  },
  "nba-401909989": {
@@ -1676,7 +1680,7 @@
   "stars": 1,
   "start": "2026-11-15T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "TD Garden, Boston"
  },
  "nba-401909990": {
@@ -1711,7 +1715,7 @@
   "stars": 1,
   "start": "2026-11-15T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Scotiabank Arena, Toronto"
  },
  "nba-401909991": {
@@ -1746,7 +1750,7 @@
   "stars": 1,
   "start": "2026-11-16T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Capital One Arena, Washington"
  },
  "nba-401909992": {
@@ -1781,7 +1785,7 @@
   "stars": 1,
   "start": "2026-11-16T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Fiserv Forum, Milwaukee"
  },
  "nba-401909993": {
@@ -1816,7 +1820,7 @@
   "stars": 1,
   "start": "2026-11-16T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Golden 1 Center, Sacramento"
  },
  "nba-401909994": {
@@ -1851,7 +1855,7 @@
   "stars": 1,
   "start": "2026-11-17T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "TD Garden, Boston"
  },
  "nba-401909995": {
@@ -1886,7 +1890,7 @@
   "stars": 1,
   "start": "2026-11-17T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Rocket Arena, Cleveland"
  },
  "nba-401909996": {
@@ -1921,7 +1925,7 @@
   "stars": 1,
   "start": "2026-11-17T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Capital One Arena, Washington"
  },
  "nba-401909997": {
@@ -1956,7 +1960,7 @@
   "stars": 1,
   "start": "2026-11-17T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Barclays Center, Brooklyn"
  },
  "nba-401909998": {
@@ -1991,7 +1995,7 @@
   "stars": 1,
   "start": "2026-11-17T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Kaseya Center, Miami"
  },
  "nba-401909999": {
@@ -2026,7 +2030,7 @@
   "stars": 1,
   "start": "2026-11-17T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Target Center, Minneapolis"
  },
  "nba-401910000": {
@@ -2061,7 +2065,7 @@
   "stars": 1,
   "start": "2026-11-17T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Smoothie King Center, New Orleans"
  },
  "nba-401910001": {
@@ -2096,7 +2100,7 @@
   "stars": 1,
   "start": "2026-11-17T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Ball Arena, Denver"
  },
  "ncaaf-401856857": {
@@ -2153,7 +2157,7 @@
   "sport": "ncaaf",
   "stars": 2,
   "start": "2026-11-14T22:30Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Acrisure Bounce House, Orlando"
  },
@@ -2188,19 +2192,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856858",
   "market": "Moneyline",
   "news": [
-   "Watch best moments and top plays live from Week 11",
-   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
-   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
+   "Darian Mensah dices up ex-team Duke as Miami rebounds from first loss",
+   "Lehigh makes goal-line stand to secure a 21-14 victory over Richmond for 15th Patriot League title",
+   "Watson throws 3 TD passes, SC State takes control of MEAC with38-24 win over NC Central"
   ],
   "odds": {
    "mlAway": "+250",
    "mlAwayOpen": "+245",
    "mlHome": "-310",
    "mlHomeOpen": "-305",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "BYU -8.5",
    "spreadOpen": "BYU -7.5",
-   "total": "50.5",
+   "total": "49.5",
    "totalOpen": "47.5"
   },
   "pick": "BYU ML (-310)",
@@ -2212,7 +2216,7 @@
   "stars": 2,
   "start": "2026-11-15T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "LaVell Edwards Stadium, Provo"
  },
  "ncaaf-401856859": {
@@ -2381,7 +2385,7 @@
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-14T20:30Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Milan Puskar Stadium, Morgantown"
  },
@@ -2391,7 +2395,7 @@
    "abbr": "KSU",
    "form": "LLLWL",
    "name": "Kansas State Wildcats",
-   "record": "4-5",
+   "record": "4-6",
    "short": "Kansas St",
    "teamId": "2306"
   },
@@ -2407,7 +2411,7 @@
    "abbr": "TCU",
    "form": "LWLWL",
    "name": "TCU Horned Frogs",
-   "record": "4-5",
+   "record": "5-5",
    "short": "TCU",
    "teamId": "2628"
   },
@@ -2441,7 +2445,7 @@
   "sport": "ncaaf",
   "stars": 2,
   "start": "2026-11-14T19:00Z",
-  "state": "in",
+  "state": "post",
   "updatedAt": "2026-11-14T14:18:43Z",
   "venue": "Amon G. Carter Stadium, Fort Worth"
  },
@@ -2454,7 +2458,7 @@
    "short": "Texas Tech",
    "teamId": "2641"
   },
-  "confidence": 54,
+  "confidence": 55,
   "espnId": "401856863",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -2474,32 +2478,32 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856863",
   "news": [
-   "Watch best moments and top plays live from Week 11",
-   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
-   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
+   "Darian Mensah dices up ex-team Duke as Miami rebounds from first loss",
+   "Lehigh makes goal-line stand to secure a 21-14 victory over Richmond for 15th Patriot League title",
+   "Watson throws 3 TD passes, SC State takes control of MEAC with38-24 win over NC Central"
   ],
   "odds": {
-   "mlAway": "+142",
+   "mlAway": "+150",
    "mlAwayOpen": "-625",
-   "mlHome": "-170",
+   "mlHome": "-180",
    "mlHomeOpen": "+455",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "OKST -3.5",
    "spreadOpen": "TTU -15.5",
    "total": "73.5",
    "totalOpen": "61.5"
   },
   "pick": "Pass",
-  "reason": "OKST about 60% no-vig at -170; no edge worth a pick.",
+  "reason": "OKST about 62% no-vig at -180; no edge worth a pick.",
   "risks": [
-   "ESPN model only 52% vs market 60%"
+   "ESPN model only 52% vs market 62%"
   ],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-15T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Boone Pickens Stadium, Stillwater"
  },
  "ncaaf-401856864": {
@@ -2531,16 +2535,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856864",
   "news": [
-   "Watch best moments and top plays live from Week 11",
-   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
-   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
+   "Darian Mensah dices up ex-team Duke as Miami rebounds from first loss",
+   "Lehigh makes goal-line stand to secure a 21-14 victory over Richmond for 15th Patriot League title",
+   "Watson throws 3 TD passes, SC State takes control of MEAC with38-24 win over NC Central"
   ],
   "odds": {
    "mlAway": "-112",
    "mlAwayOpen": "-118",
    "mlHome": "-108",
    "mlHomeOpen": "-102",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "UTAH -1.5",
    "spreadOpen": "UTAH -1.5",
    "total": "55.5",
@@ -2554,7 +2558,7 @@
   "stars": 1,
   "start": "2026-11-15T03:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Casino Del Sol Stadium, Tucson"
  },
  "ncaaf-401856882": {
@@ -2588,16 +2592,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856882",
   "market": "Moneyline",
   "news": [
-   "Watch best moments and top plays live from Week 11",
-   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
-   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
+   "Darian Mensah dices up ex-team Duke as Miami rebounds from first loss",
+   "Lehigh makes goal-line stand to secure a 21-14 victory over Richmond for 15th Patriot League title",
+   "Watson throws 3 TD passes, SC State takes control of MEAC with38-24 win over NC Central"
   ],
   "odds": {
    "mlAway": "-325",
    "mlAwayOpen": "-340",
    "mlHome": "+260",
    "mlHomeOpen": "+270",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "SC -7.5",
    "spreadOpen": "SC -8.5",
    "total": "51.5",
@@ -2612,7 +2616,7 @@
   "stars": 3,
   "start": "2026-11-15T00:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Donald W. Reynolds Razorback Stadium, Fayetteville"
  },
  "ncaaf-401856883": {
@@ -2669,7 +2673,7 @@
   "sport": "ncaaf",
   "stars": 3,
   "start": "2026-11-14T20:30Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Sanford Stadium, Athens"
  },
@@ -2702,16 +2706,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856884",
   "news": [
-   "Watch best moments and top plays live from Week 11",
-   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
-   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
+   "Darian Mensah dices up ex-team Duke as Miami rebounds from first loss",
+   "Lehigh makes goal-line stand to secure a 21-14 victory over Richmond for 15th Patriot League title",
+   "Watson throws 3 TD passes, SC State takes control of MEAC with38-24 win over NC Central"
   ],
   "odds": {
    "mlAway": "+130",
    "mlAwayOpen": "+100",
    "mlHome": "-155",
    "mlHomeOpen": "-120",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "UK -3",
    "spreadOpen": "UK -1.5",
    "total": "52.5",
@@ -2725,7 +2729,7 @@
   "stars": 1,
   "start": "2026-11-14T23:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Kroger Field, Lexington"
  },
  "ncaaf-401856885": {
@@ -2757,19 +2761,19 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856885",
   "news": [
-   "Watch best moments and top plays live from Week 11",
-   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
-   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
+   "Darian Mensah dices up ex-team Duke as Miami rebounds from first loss",
+   "Lehigh makes goal-line stand to secure a 21-14 victory over Richmond for 15th Patriot League title",
+   "Watson throws 3 TD passes, SC State takes control of MEAC with38-24 win over NC Central"
   ],
   "odds": {
    "mlAway": "+170",
    "mlAwayOpen": "-155",
    "mlHome": "-205",
    "mlHomeOpen": "+130",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "LSU -4.5",
    "spreadOpen": "TEX -3",
-   "total": "46.5",
+   "total": "47.5",
    "totalOpen": "54.5"
   },
   "pick": "Pass",
@@ -2782,7 +2786,7 @@
   "stars": 1,
   "start": "2026-11-15T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Tiger Stadium (LA), Baton Rouge"
  },
  "ncaaf-401856886": {
@@ -2838,7 +2842,7 @@
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-14T21:15Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Davis Wade Stadium, Starkville"
  },
@@ -2871,16 +2875,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856887",
   "news": [
-   "Watch best moments and top plays live from Week 11",
-   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
-   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
+   "Darian Mensah dices up ex-team Duke as Miami rebounds from first loss",
+   "Lehigh makes goal-line stand to secure a 21-14 victory over Richmond for 15th Patriot League title",
+   "Watson throws 3 TD passes, SC State takes control of MEAC with38-24 win over NC Central"
   ],
   "odds": {
    "mlAway": "+124",
    "mlAwayOpen": "+154",
    "mlHome": "-148",
    "mlHomeOpen": "-185",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "OU -2.5",
    "spreadOpen": "OU -4",
    "total": "48.5",
@@ -2897,7 +2901,7 @@
   "stars": 1,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Memorial Stadium (Norman, OK), Norman"
  },
  "ncaaf-401856888": {
@@ -2951,7 +2955,7 @@
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-14T20:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Kyle Field, College Station"
  },
@@ -2961,7 +2965,7 @@
    "abbr": "ALA",
    "form": "WWLLW",
    "name": "#3 Alabama",
-   "record": "7-2",
+   "record": "8-2",
    "short": "Alabama",
    "teamId": "333"
   },
@@ -2977,7 +2981,7 @@
    "abbr": "VAN",
    "form": "WLLLL",
    "name": "Vanderbilt Commodores",
-   "record": "4-5",
+   "record": "4-6",
    "short": "Vanderbilt",
    "teamId": "238"
   },
@@ -3011,7 +3015,7 @@
   "sport": "ncaaf",
   "stars": 3,
   "start": "2026-11-14T17:45Z",
-  "state": "in",
+  "state": "post",
   "updatedAt": "2026-11-14T14:18:43Z",
   "venue": "FirstBank Stadium, Nashville"
  },
@@ -3127,7 +3131,7 @@
   "sport": "ncaaf",
   "stars": 2,
   "start": "2026-11-14T20:30Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Notre Dame Stadium, Notre Dame"
  },
@@ -3185,7 +3189,7 @@
   "sport": "ncaaf",
   "stars": 3,
   "start": "2026-11-14T20:30Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Scott Stadium, Charlottesville"
  },
@@ -3255,7 +3259,7 @@
    "abbr": "GT",
    "form": "LLLLW",
    "name": "Georgia Tech Yellow Jackets",
-   "record": "2-7",
+   "record": "3-7",
    "short": "Georgia Tech",
    "teamId": "59"
   },
@@ -3271,7 +3275,7 @@
    "abbr": "CLEM",
    "form": "WWLWL",
    "name": "Clemson Tigers",
-   "record": "6-3",
+   "record": "6-4",
    "short": "Clemson",
    "teamId": "228"
   },
@@ -3303,12 +3307,12 @@
   "sport": "ncaaf",
   "stars": 2,
   "start": "2026-11-14T17:30Z",
-  "state": "in",
+  "state": "post",
   "updatedAt": "2026-11-14T14:18:43Z",
   "venue": "Memorial Stadium (Clemson, SC), Clemson"
  },
  "ncaaf-401858298": {
-  "_lastPick": "LOU ML (-175)",
+  "_lastPick": "LOU ML (-180)",
   "away": {
    "abbr": "LOU",
    "form": "WWWWL",
@@ -3338,23 +3342,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858298",
   "market": "Moneyline",
   "news": [
-   "Watch best moments and top plays live from Week 11",
-   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
-   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
+   "Darian Mensah dices up ex-team Duke as Miami rebounds from first loss",
+   "Lehigh makes goal-line stand to secure a 21-14 victory over Richmond for 15th Patriot League title",
+   "Watson throws 3 TD passes, SC State takes control of MEAC with38-24 win over NC Central"
   ],
   "odds": {
-   "mlAway": "-175",
+   "mlAway": "-180",
    "mlAwayOpen": "-135",
-   "mlHome": "+145",
+   "mlHome": "+150",
    "mlHomeOpen": "+114",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "LOU -3.5",
    "spreadOpen": "LOU -2.5",
    "total": "57.5",
    "totalOpen": "59.5"
   },
-  "pick": "LOU ML (-175)",
-  "reason": "LOU are about 61% no-vig at -175; ESPN's model has 60%. For: line moved toward LOU (-135 → -175).",
+  "pick": "LOU ML (-180)",
+  "reason": "LOU are about 62% no-vig at -180; ESPN's model has 60%. For: line moved toward LOU (-135 → -180).",
   "risks": [],
   "side": "away",
   "slug": "college-football",
@@ -3362,7 +3366,7 @@
   "stars": 2,
   "start": "2026-11-15T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Kenan Stadium, Chapel Hill"
  },
  "ncaaf-401858299": {
@@ -3396,16 +3400,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858299",
   "market": "Moneyline",
   "news": [
-   "Watch best moments and top plays live from Week 11",
-   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
-   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
+   "Darian Mensah dices up ex-team Duke as Miami rebounds from first loss",
+   "Lehigh makes goal-line stand to secure a 21-14 victory over Richmond for 15th Patriot League title",
+   "Watson throws 3 TD passes, SC State takes control of MEAC with38-24 win over NC Central"
   ],
   "odds": {
    "mlAway": "+575",
    "mlAwayOpen": "+600",
    "mlHome": "-850",
    "mlHomeOpen": "-900",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "VT -17.5",
    "spreadOpen": "VT -16.5",
    "total": "57.5",
@@ -3420,7 +3424,7 @@
   "stars": 2,
   "start": "2026-11-15T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Lane Stadium, Blacksburg"
  },
  "ncaaf-401858300": {
@@ -3589,12 +3593,12 @@
   "sport": "ncaaf",
   "stars": 2,
   "start": "2026-11-14T20:30Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Memorial Stadium (Bloomington, IN), Bloomington"
  },
  "ncaaf-401858519": {
-  "_lastPick": "IOWA ML (-1000)",
+  "_lastPick": "IOWA ML (-1050)",
   "away": {
    "abbr": "PUR",
    "form": "LLLWW",
@@ -3624,23 +3628,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858519",
   "market": "Moneyline",
   "news": [
-   "Watch best moments and top plays live from Week 11",
-   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
-   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
+   "Darian Mensah dices up ex-team Duke as Miami rebounds from first loss",
+   "Lehigh makes goal-line stand to secure a 21-14 victory over Richmond for 15th Patriot League title",
+   "Watson throws 3 TD passes, SC State takes control of MEAC with38-24 win over NC Central"
   ],
   "odds": {
-   "mlAway": "+650",
+   "mlAway": "+675",
    "mlAwayOpen": "+455",
-   "mlHome": "-1000",
+   "mlHome": "-1050",
    "mlHomeOpen": "-625",
-   "provider": "DraftKings",
-   "spread": "IOWA -17.5",
+   "provider": "Draft Kings",
+   "spread": "IOWA -18.5",
    "spreadOpen": "IOWA -16.5",
    "total": "47.5",
    "totalOpen": "45.5"
   },
-  "pick": "IOWA ML (-1000)",
-  "reason": "IOWA are about 87% no-vig at -1000; ESPN's model has 87%. For: line moved toward IOWA (-625 → -1000).",
+  "pick": "IOWA ML (-1050)",
+  "reason": "IOWA are about 88% no-vig at -1050; ESPN's model has 87%. For: line moved toward IOWA (-625 → -1050).",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -3648,7 +3652,7 @@
   "stars": 3,
   "start": "2026-11-15T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Kinnick Stadium, Iowa City"
  },
  "ncaaf-401858520": {
@@ -3760,7 +3764,7 @@
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-14T22:30Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Spartan Stadium, East Lansing"
  },
@@ -3878,7 +3882,7 @@
   "sport": "ncaaf",
   "stars": 3,
   "start": "2026-11-14T20:30Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Autzen Stadium, Eugene"
  },
@@ -3913,16 +3917,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858524",
   "market": "Moneyline",
   "news": [
-   "Watch best moments and top plays live from Week 11",
-   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
-   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
+   "Darian Mensah dices up ex-team Duke as Miami rebounds from first loss",
+   "Lehigh makes goal-line stand to secure a 21-14 victory over Richmond for 15th Patriot League title",
+   "Watson throws 3 TD passes, SC State takes control of MEAC with38-24 win over NC Central"
   ],
   "odds": {
    "mlAway": "+380",
    "mlAwayOpen": "+220",
    "mlHome": "-500",
    "mlHomeOpen": "-270",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "PSU -12.5",
    "spreadOpen": "PSU -7",
    "total": "42.5",
@@ -3937,7 +3941,7 @@
   "stars": 3,
   "start": "2026-11-15T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Beaver Stadium, University Park"
  },
  "ncaaf-401858525": {
@@ -3946,7 +3950,7 @@
    "abbr": "NEB",
    "form": "LLLLW",
    "name": "Nebraska Cornhuskers",
-   "record": "5-4",
+   "record": "6-4",
    "short": "Nebraska",
    "teamId": "158"
   },
@@ -3962,7 +3966,7 @@
    "abbr": "RUTG",
    "form": "LLLWL",
    "name": "Rutgers Scarlet Knights",
-   "record": "2-7",
+   "record": "2-8",
    "short": "Rutgers",
    "teamId": "164"
   },
@@ -3994,7 +3998,7 @@
   "sport": "ncaaf",
   "stars": 2,
   "start": "2026-11-14T17:30Z",
-  "state": "in",
+  "state": "post",
   "updatedAt": "2026-11-14T14:18:43Z",
   "venue": "SHI Stadium, Piscataway"
  },
@@ -4092,14 +4096,14 @@
    "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
-   "mlAway": "+500",
+   "mlAway": "+575",
    "mlAwayOpen": "+150",
-   "mlHome": "-700",
+   "mlHome": "-850",
    "mlHomeOpen": "-180",
-   "provider": "DraftKings",
-   "spread": "BOIS -16.5",
+   "provider": "Draft Kings",
+   "spread": "BOIS -17.5",
    "spreadOpen": "BOIS -4.5",
-   "total": "64.5",
+   "total": "66.5",
    "totalOpen": "62.5"
   },
   "pick": "BOIS ML (-700)",
@@ -4143,16 +4147,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401860915",
   "news": [
-   "Watch best moments and top plays live from Week 11",
-   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
-   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
+   "Darian Mensah dices up ex-team Duke as Miami rebounds from first loss",
+   "Lehigh makes goal-line stand to secure a 21-14 victory over Richmond for 15th Patriot League title",
+   "Watson throws 3 TD passes, SC State takes control of MEAC with38-24 win over NC Central"
   ],
   "odds": {
    "mlAway": "-148",
    "mlAwayOpen": "-130",
    "mlHome": "+124",
    "mlHomeOpen": "+110",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "USU -3",
    "spreadOpen": "USU -2.5",
    "total": "43.5",
@@ -4166,7 +4170,7 @@
   "stars": 1,
   "start": "2026-11-15T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Snapdragon Stadium, San Diego"
  },
  "ncaaf-401860916": {
@@ -4225,7 +4229,7 @@
   "sport": "ncaaf",
   "stars": 2,
   "start": "2026-11-14T21:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "UFCU Stadium, San Marcos"
  },
@@ -4260,16 +4264,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401860917",
   "market": "Moneyline",
   "news": [
-   "Watch best moments and top plays live from Week 11",
-   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
-   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
+   "Darian Mensah dices up ex-team Duke as Miami rebounds from first loss",
+   "Lehigh makes goal-line stand to secure a 21-14 victory over Richmond for 15th Patriot League title",
+   "Watson throws 3 TD passes, SC State takes control of MEAC with38-24 win over NC Central"
   ],
   "odds": {
    "mlAway": "+260",
    "mlAwayOpen": "+170",
    "mlHome": "-325",
    "mlHomeOpen": "-205",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "WSU -8.5",
    "spreadOpen": "WSU -6.5",
    "total": "64.5",
@@ -4282,9 +4286,9 @@
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 2,
-  "start": "2026-11-15T03:30Z",
+  "start": "2026-11-15T03:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Martin Stadium, Pullman"
  },
  "ncaaf-401861967": {
@@ -4351,7 +4355,7 @@
    "abbr": "ECU",
    "form": "WWLLW",
    "name": "East Carolina Pirates",
-   "record": "5-4",
+   "record": "6-4",
    "short": "East Carolina",
    "teamId": "151"
   },
@@ -4367,7 +4371,7 @@
    "abbr": "CLT",
    "form": "LLWLL",
    "name": "Charlotte 49ers",
-   "record": "1-8",
+   "record": "1-9",
    "short": "Charlotte",
    "teamId": "2429"
   },
@@ -4399,7 +4403,7 @@
   "sport": "ncaaf",
   "stars": 3,
   "start": "2026-11-14T18:00Z",
-  "state": "in",
+  "state": "post",
   "updatedAt": "2026-11-14T14:18:43Z",
   "venue": "Jerry Richardson Stadium, Charlotte"
  },
@@ -4434,16 +4438,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862826",
   "market": "Moneyline",
   "news": [
-   "Watch best moments and top plays live from Week 11",
-   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
-   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
+   "Darian Mensah dices up ex-team Duke as Miami rebounds from first loss",
+   "Lehigh makes goal-line stand to secure a 21-14 victory over Richmond for 15th Patriot League title",
+   "Watson throws 3 TD passes, SC State takes control of MEAC with38-24 win over NC Central"
   ],
   "odds": {
    "mlAway": "+195",
    "mlAwayOpen": "+170",
    "mlHome": "-238",
    "mlHomeOpen": "-205",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "TLSA -6.5",
    "spreadOpen": "TLSA -5.5",
    "total": "73.5",
@@ -4458,7 +4462,7 @@
   "stars": 3,
   "start": "2026-11-15T00:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "H. A. Chapman Stadium, Tulsa"
  },
  "ncaaf-401862827": {
@@ -4490,19 +4494,19 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401862827",
   "news": [
-   "Watch best moments and top plays live from Week 11",
-   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
-   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
+   "Darian Mensah dices up ex-team Duke as Miami rebounds from first loss",
+   "Lehigh makes goal-line stand to secure a 21-14 victory over Richmond for 15th Patriot League title",
+   "Watson throws 3 TD passes, SC State takes control of MEAC with38-24 win over NC Central"
   ],
   "odds": {
    "mlAway": "-130",
    "mlAwayOpen": "-112",
    "mlHome": "+110",
    "mlHomeOpen": "-108",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "UNT -2.5",
    "spreadOpen": "UNT -1.5",
-   "total": "76.5",
+   "total": "75.5",
    "totalOpen": "75.5"
   },
   "pick": "Pass",
@@ -4513,7 +4517,7 @@
   "stars": 1,
   "start": "2026-11-15T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Alamodome, San Antonio"
  },
  "ncaaf-401862828": {
@@ -4570,7 +4574,7 @@
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-14T21:30Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "First Community Stadium, Houston"
  },
@@ -4579,7 +4583,7 @@
    "abbr": "UAB",
    "form": "WLWLW",
    "name": "UAB Blazers",
-   "record": "5-4",
+   "record": "6-4",
    "short": "UAB",
    "teamId": "5"
   },
@@ -4595,7 +4599,7 @@
    "abbr": "TEM",
    "form": "LLLLW",
    "name": "Temple Owls",
-   "record": "2-7",
+   "record": "2-8",
    "short": "Temple",
    "teamId": "218"
   },
@@ -4627,7 +4631,7 @@
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-14T18:00Z",
-  "state": "in",
+  "state": "post",
   "updatedAt": "2026-11-14T14:18:43Z",
   "venue": "Lincoln Financial Field, Philadelphia"
  },
@@ -4687,7 +4691,7 @@
   "sport": "ncaaf",
   "stars": 3,
   "start": "2026-11-14T20:30Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Huskie Stadium, Dekalb"
  },
@@ -4722,16 +4726,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864537",
   "market": "Moneyline",
   "news": [
-   "Watch best moments and top plays live from Week 11",
-   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
-   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
+   "Darian Mensah dices up ex-team Duke as Miami rebounds from first loss",
+   "Lehigh makes goal-line stand to secure a 21-14 victory over Richmond for 15th Patriot League title",
+   "Watson throws 3 TD passes, SC State takes control of MEAC with38-24 win over NC Central"
   ],
   "odds": {
    "mlAway": "-270",
    "mlAwayOpen": "-395",
    "mlHome": "+220",
    "mlHomeOpen": "+310",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "NDSU -7",
    "spreadOpen": "NDSU -9.5",
    "total": "39.5",
@@ -4748,11 +4752,11 @@
   "stars": 2,
   "start": "2026-11-15T04:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Clarence T.C. Ching Athletics Complex, Honolulu"
  },
  "ncaaf-401864538": {
-  "_lastPick": "AFA ML (-575)",
+  "_lastPick": "AFA ML (-600)",
   "away": {
    "abbr": "SJSU",
    "form": "WLLWL",
@@ -4761,7 +4765,7 @@
    "short": "San José St",
    "teamId": "23"
   },
-  "confidence": 78,
+  "confidence": 79,
   "espnId": "401864538",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -4782,23 +4786,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864538",
   "market": "Moneyline",
   "news": [
-   "Watch best moments and top plays live from Week 11",
-   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
-   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
+   "Darian Mensah dices up ex-team Duke as Miami rebounds from first loss",
+   "Lehigh makes goal-line stand to secure a 21-14 victory over Richmond for 15th Patriot League title",
+   "Watson throws 3 TD passes, SC State takes control of MEAC with38-24 win over NC Central"
   ],
   "odds": {
-   "mlAway": "+425",
+   "mlAway": "+440",
    "mlAwayOpen": "+310",
-   "mlHome": "-575",
+   "mlHome": "-600",
    "mlHomeOpen": "-395",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "AF -14",
    "spreadOpen": "AFA -10.5",
-   "total": "48.5",
+   "total": "50.5",
    "totalOpen": "49.5"
   },
-  "pick": "AFA ML (-575)",
-  "reason": "AFA are about 82% no-vig at -575; ESPN's model has 81%. For: line moved toward AFA (-395 → -575).",
+  "pick": "AFA ML (-600)",
+  "reason": "AFA are about 82% no-vig at -600; ESPN's model has 81%. For: line moved toward AFA (-395 → -600).",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -4806,7 +4810,7 @@
   "stars": 3,
   "start": "2026-11-15T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Falcon Stadium, USAF Academy"
  },
  "ncaaf-401864539": {
@@ -4840,16 +4844,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864539",
   "market": "Moneyline",
   "news": [
-   "Watch best moments and top plays live from Week 11",
-   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
-   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
+   "Darian Mensah dices up ex-team Duke as Miami rebounds from first loss",
+   "Lehigh makes goal-line stand to secure a 21-14 victory over Richmond for 15th Patriot League title",
+   "Watson throws 3 TD passes, SC State takes control of MEAC with38-24 win over NC Central"
   ],
   "odds": {
    "mlAway": "+625",
    "mlAwayOpen": "+470",
    "mlHome": "-950",
    "mlHomeOpen": "-650",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "UNM -17.5",
    "spreadOpen": "UNM -13.5",
    "total": "46.5",
@@ -4864,7 +4868,7 @@
   "stars": 2,
   "start": "2026-11-15T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "University Stadium (NM), Albuquerque"
  },
  "ncaaf-401864540": {
@@ -4898,16 +4902,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864540",
   "market": "Moneyline",
   "news": [
-   "Watch best moments and top plays live from Week 11",
-   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
-   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
+   "Darian Mensah dices up ex-team Duke as Miami rebounds from first loss",
+   "Lehigh makes goal-line stand to secure a 21-14 victory over Richmond for 15th Patriot League title",
+   "Watson throws 3 TD passes, SC State takes control of MEAC with38-24 win over NC Central"
   ],
   "odds": {
    "mlAway": "-285",
    "mlAwayOpen": "-360",
    "mlHome": "+230",
    "mlHomeOpen": "+285",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "WYO -7",
    "spreadOpen": "WYO -10",
    "total": "40.5",
@@ -4924,8 +4928,43 @@
   "stars": 4,
   "start": "2026-11-15T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Sun Bowl, El Paso"
+ },
+ "ncaaf-401866465": {
+  "away": {
+   "abbr": "EMU",
+   "name": "Eastern Michigan Eagles",
+   "record": "4-6",
+   "short": "E Michigan",
+   "teamId": "2199"
+  },
+  "espnId": "401866465",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "home": {
+   "abbr": "WMU",
+   "name": "Western Michigan Broncos",
+   "record": "7-3",
+   "short": "W Michigan",
+   "teamId": "2711"
+  },
+  "id": "ncaaf-401866465",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401866465",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-17T23:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-14T23:02:28Z",
+  "venue": "Waldo Stadium, Kalamazoo"
  },
  "ncaaf-401869928": {
   "away": {
@@ -4961,12 +5000,12 @@
    "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
   ],
   "odds": {
-   "mlAway": "-120",
+   "mlAway": "-105",
    "mlAwayOpen": "-135",
-   "mlHome": "+100",
+   "mlHome": "-115",
    "mlHomeOpen": "+114",
-   "provider": "DraftKings",
-   "spread": "APP -1.5",
+   "provider": "Draft Kings",
+   "spread": "MRSH -1.5",
    "spreadOpen": "APP -2.5",
    "total": "54.5",
    "totalOpen": "53.5"
@@ -4987,7 +5026,7 @@
    "abbr": "ARST",
    "form": "LWWLL",
    "name": "Arkansas State Red Wolves",
-   "record": "4-5",
+   "record": "4-6",
    "short": "Arkansas St",
    "teamId": "2032"
   },
@@ -5003,7 +5042,7 @@
    "abbr": "CCU",
    "form": "LWLWL",
    "name": "Coastal Carolina Chanticleers",
-   "record": "3-6",
+   "record": "4-6",
    "short": "Coastal",
    "teamId": "324"
   },
@@ -5033,7 +5072,7 @@
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-14T18:00Z",
-  "state": "in",
+  "state": "post",
   "updatedAt": "2026-11-14T14:18:43Z",
   "venue": "Brooks Stadium (SC), Conway"
  },
@@ -5093,7 +5132,7 @@
   "sport": "ncaaf",
   "stars": 2,
   "start": "2026-11-14T20:30Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Center Parc Stadium, Atlanta"
  },
@@ -5151,7 +5190,7 @@
   "sport": "ncaaf",
   "stars": 3,
   "start": "2026-11-14T20:30Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Houchens Industries-L.T. Smith Stadium, Bowling Green"
  },
@@ -5161,7 +5200,7 @@
    "abbr": "KENN",
    "form": "WWLLL",
    "name": "Kennesaw State Owls",
-   "record": "3-6",
+   "record": "4-6",
    "short": "Kennesaw St",
    "teamId": "338"
   },
@@ -5177,7 +5216,7 @@
    "abbr": "SHSU",
    "form": "LLLLL",
    "name": "Sam Houston Bearkats",
-   "record": "1-8",
+   "record": "1-9",
    "short": "Sam Houston",
    "teamId": "2534"
   },
@@ -5209,7 +5248,7 @@
   "sport": "ncaaf",
   "stars": 2,
   "start": "2026-11-14T19:00Z",
-  "state": "in",
+  "state": "post",
   "updatedAt": "2026-11-14T14:18:43Z",
   "venue": "Elliott T. Bowers Stadium, Huntsville"
  },
@@ -5264,7 +5303,7 @@
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-14T20:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Robert W. Plaster Stadium, Springfield"
  },
@@ -5322,7 +5361,7 @@
   "sport": "ncaaf",
   "stars": 2,
   "start": "2026-11-14T20:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Delaware Stadium, Newark"
  },
@@ -5380,7 +5419,7 @@
   "sport": "ncaaf",
   "stars": 2,
   "start": "2026-11-14T20:30Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Williams Stadium (VA), Lynchburg"
  },
@@ -5438,7 +5477,7 @@
   "sport": "ncaaf",
   "stars": 3,
   "start": "2026-11-14T22:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Joe Aillet Stadium, Ruston"
  },
@@ -5471,16 +5510,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401871100",
   "news": [
-   "Watch best moments and top plays live from Week 11",
-   "Ohio State's Jeremiah Smith sets Big Ten receiving record",
-   "Tracking Ohio State WR Jeremiah Smith's record-setting 2026 season"
+   "Darian Mensah dices up ex-team Duke as Miami rebounds from first loss",
+   "Lehigh makes goal-line stand to secure a 21-14 victory over Richmond for 15th Patriot League title",
+   "Watson throws 3 TD passes, SC State takes control of MEAC with38-24 win over NC Central"
   ],
   "odds": {
    "mlAway": "+130",
    "mlAwayOpen": "+102",
    "mlHome": "-155",
    "mlHomeOpen": "-122",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "USA -3",
    "spreadOpen": "USA -2.5",
    "total": "55.5",
@@ -5494,14 +5533,16 @@
   "stars": 1,
   "start": "2026-11-15T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Hancock Whitney Stadium, Mobile"
  },
  "nfl-401873053": {
   "away": {
    "abbr": "NE",
    "form": "LWLWW",
-   "injuries": [],
+   "injuries": [
+    "TreVeyon Henderson (RB) – Injured Reserve, Illness"
+   ],
    "name": "New England Patriots",
    "record": "5-4",
    "short": "Patriots",
@@ -5530,7 +5571,15 @@
   },
   "id": "nfl-401873053",
   "injuriesRaw": {
-   "away": [],
+   "away": [
+    {
+     "detail": "Illness",
+     "player": "TreVeyon Henderson",
+     "pos": "RB",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ],
    "home": [
     {
      "detail": "Ankle",
@@ -5558,16 +5607,16 @@
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873053",
   "news": [
-   "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
-   "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
-   "Fantasy football rankings Week 10: PPR and superflex"
+   "Saints RB Travis Etienne Jr. activated off IR for game vs. Panthers",
+   "Patriots place RB TreVeyon Henderson on IR with still unexplained illness",
+   "Steelers activate DT Derrick Harmon from IR ahead of key Bengals clash"
   ],
   "odds": {
    "mlAway": "+124",
    "mlAwayOpen": "+105",
    "mlHome": "-148",
    "mlHomeOpen": "-125",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "DET -2.5",
    "spreadOpen": "DET -1.5",
    "total": "49.5",
@@ -5581,25 +5630,24 @@
   "stars": 1,
   "start": "2026-11-15T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "FC Bayern Munich Stadium, Munich"
  },
  "nfl-401873054": {
-  "_lastPick": "BUF ML (-425)",
+  "_lastPick": "BUF ML (-395)",
   "away": {
    "abbr": "BUF",
    "form": "WWWWL",
    "injuries": [
-    "Spencer Brown (OT) – Doubtful, Ankle",
     "Tyrell Shavers (WR) – Out, Knee - ACL",
-    "Joshua Palmer (WR) – Injured Reserve, Hamstring"
+    "Spencer Brown (OT) – Doubtful, Ankle"
    ],
    "name": "Buffalo Bills",
    "record": "7-1",
    "short": "Bills",
    "teamId": "2"
   },
-  "confidence": 78,
+  "confidence": 77,
   "espnId": "401873054",
   "espnLeague": "nfl",
   "espnSport": "football",
@@ -5620,13 +5668,6 @@
   "injuriesRaw": {
    "away": [
     {
-     "detail": "Ankle",
-     "player": "Spencer Brown",
-     "pos": "OT",
-     "stale": false,
-     "status": "Doubtful"
-    },
-    {
      "detail": "Knee - ACL",
      "player": "Tyrell Shavers",
      "pos": "WR",
@@ -5634,11 +5675,11 @@
      "status": "Out"
     },
     {
-     "detail": "Hamstring",
-     "player": "Joshua Palmer",
-     "pos": "WR",
+     "detail": "Ankle",
+     "player": "Spencer Brown",
+     "pos": "OT",
      "stale": false,
-     "status": "Injured Reserve"
+     "status": "Doubtful"
     }
    ],
    "home": []
@@ -5647,31 +5688,31 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873054",
   "market": "Moneyline",
   "news": [
-   "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
-   "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
-   "Fantasy football rankings Week 10: PPR and superflex"
+   "Saints RB Travis Etienne Jr. activated off IR for game vs. Panthers",
+   "Patriots place RB TreVeyon Henderson on IR with still unexplained illness",
+   "Steelers activate DT Derrick Harmon from IR ahead of key Bengals clash"
   ],
   "odds": {
-   "mlAway": "-425",
+   "mlAway": "-395",
    "mlAwayOpen": "-340",
-   "mlHome": "+330",
+   "mlHome": "+310",
    "mlHomeOpen": "+270",
-   "provider": "DraftKings",
-   "spread": "BUF -8.5",
+   "provider": "Draft Kings",
+   "spread": "BUF -7.5",
    "spreadOpen": "BUF -7",
    "total": "50.5",
    "totalOpen": "46.5"
   },
-  "pick": "BUF ML (-425)",
-  "reason": "BUF are about 78% no-vig at -425; ESPN's model has 83%. For: form WWWWL vs LLLLW.",
+  "pick": "BUF ML (-395)",
+  "reason": "BUF are about 77% no-vig at -395; ESPN's model has 83%. For: ESPN model 83% vs market 77%; form WWWWL vs LLLLW.",
   "risks": [],
   "side": "away",
   "slug": "nfl",
   "sport": "nfl",
-  "stars": 3,
+  "stars": 4,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "MetLife Stadium, East Rutherford"
  },
  "nfl-401873055": {
@@ -5679,8 +5720,9 @@
    "abbr": "CAR",
    "form": "LLLWW",
    "injuries": [
-    "Jonathon Brooks (RB) – Injured Reserve, Groin",
-    "Mike Jackson (CB) – Injured Reserve, Groin"
+    "Brady Christensen (G) – Injured Reserve, Hamstring",
+    "Mike Jackson (CB) – Injured Reserve, Groin",
+    "Jonathon Brooks (RB) – Injured Reserve, Groin"
    ],
    "name": "Carolina Panthers",
    "record": "3-5",
@@ -5699,9 +5741,8 @@
    "abbr": "NO",
    "form": "WLWLL",
    "injuries": [
-    "Travis Etienne Jr. (RB) – Injured Reserve, Hamstring",
     "Erik McCoy (C) – Out, Biceps",
-    "Christen Miller (DT) – Out, Knee",
+    "Christen Miller (DT) – Injured Reserve, Knee",
     "Taliese Fuaga (OT) – Out, Knee"
    ],
    "name": "New Orleans Saints",
@@ -5713,9 +5754,9 @@
   "injuriesRaw": {
    "away": [
     {
-     "detail": "Groin",
-     "player": "Jonathon Brooks",
-     "pos": "RB",
+     "detail": "Hamstring",
+     "player": "Brady Christensen",
+     "pos": "G",
      "stale": false,
      "status": "Injured Reserve"
     },
@@ -5725,16 +5766,16 @@
      "pos": "CB",
      "stale": false,
      "status": "Injured Reserve"
-    }
-   ],
-   "home": [
+    },
     {
-     "detail": "Hamstring",
-     "player": "Travis Etienne Jr.",
+     "detail": "Groin",
+     "player": "Jonathon Brooks",
      "pos": "RB",
      "stale": false,
      "status": "Injured Reserve"
-    },
+    }
+   ],
+   "home": [
     {
      "detail": "Biceps",
      "player": "Erik McCoy",
@@ -5747,7 +5788,7 @@
      "player": "Christen Miller",
      "pos": "DT",
      "stale": false,
-     "status": "Out"
+     "status": "Injured Reserve"
     },
     {
      "detail": "Knee",
@@ -5761,36 +5802,34 @@
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873055",
   "news": [
-   "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
-   "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
-   "Fantasy football rankings Week 10: PPR and superflex"
+   "Saints RB Travis Etienne Jr. activated off IR for game vs. Panthers",
+   "Patriots place RB TreVeyon Henderson on IR with still unexplained illness",
+   "Steelers activate DT Derrick Harmon from IR ahead of key Bengals clash"
   ],
   "odds": {
-   "mlAway": "+114",
+   "mlAway": "+110",
    "mlAwayOpen": "+105",
-   "mlHome": "-135",
+   "mlHome": "-130",
    "mlHomeOpen": "-125",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "NO -2.5",
    "spreadOpen": "NO -1.5",
    "total": "48.5",
    "totalOpen": "43.5"
   },
   "pick": "Pass",
-  "reason": "NO about 55% no-vig at -135; no edge worth a pick.",
-  "risks": [
-   "ESPN model only 50% vs market 55%"
-  ],
+  "reason": "NO about 54% no-vig at -130; no edge worth a pick.",
+  "risks": [],
   "slug": "nfl",
   "sport": "nfl",
   "stars": 1,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Caesars Superdome, New Orleans"
  },
  "nfl-401873056": {
-  "_lastPick": "HOU ML (-238)",
+  "_lastPick": "HOU ML (-225)",
   "away": {
    "abbr": "HOU",
    "form": "WLWWL",
@@ -5803,7 +5842,7 @@
    "short": "Texans",
    "teamId": "34"
   },
-  "confidence": 68,
+  "confidence": 67,
   "espnId": "401873056",
   "espnLeague": "nfl",
   "espnSport": "football",
@@ -5877,23 +5916,23 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873056",
   "market": "Moneyline",
   "news": [
-   "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
-   "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
-   "Fantasy football rankings Week 10: PPR and superflex"
+   "Saints RB Travis Etienne Jr. activated off IR for game vs. Panthers",
+   "Patriots place RB TreVeyon Henderson on IR with still unexplained illness",
+   "Steelers activate DT Derrick Harmon from IR ahead of key Bengals clash"
   ],
   "odds": {
-   "mlAway": "-238",
+   "mlAway": "-225",
    "mlAwayOpen": "-218",
-   "mlHome": "+195",
+   "mlHome": "+185",
    "mlHomeOpen": "+180",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "HOU -4.5",
    "spreadOpen": "HOU -4.5",
    "total": "40.5",
    "totalOpen": "38.5"
   },
-  "pick": "HOU ML (-238)",
-  "reason": "HOU are about 68% no-vig at -238; ESPN's model has 77%. For: ESPN model 77% vs market 68%.",
+  "pick": "HOU ML (-225)",
+  "reason": "HOU are about 66% no-vig at -225; ESPN's model has 77%. For: ESPN model 77% vs market 66%.",
   "risks": [],
   "side": "away",
   "slug": "nfl",
@@ -5901,11 +5940,11 @@
   "stars": 3,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Huntington Bank Field, Cleveland"
  },
  "nfl-401873057": {
-  "_lastPick": "JAX ML (-750)",
+  "_lastPick": "JAX ML (-650)",
   "away": {
    "abbr": "JAX",
    "form": "WWLWW",
@@ -5921,7 +5960,7 @@
    "short": "Jaguars",
    "teamId": "30"
   },
-  "confidence": 82,
+  "confidence": 81,
   "espnId": "401873057",
   "espnLeague": "nfl",
   "espnSport": "football",
@@ -5933,8 +5972,8 @@
    "abbr": "TEN",
    "form": "LLWLL",
    "injuries": [
-    "Tommy Townsend (P) – Out, Knee",
-    "Peter Skoronski (G) – Out, Hamstring",
+    "Peter Skoronski (G) – Injured Reserve, Hamstring",
+    "Tommy Townsend (P) – Injured Reserve, Knee",
     "Cody Barton (LB) – Out, Concussion",
     "Anthony Hill Jr. (LB) – Out, Neck"
    ],
@@ -5984,18 +6023,18 @@
    ],
    "home": [
     {
-     "detail": "Knee",
-     "player": "Tommy Townsend",
-     "pos": "P",
-     "stale": false,
-     "status": "Out"
-    },
-    {
      "detail": "Hamstring",
      "player": "Peter Skoronski",
      "pos": "G",
      "stale": false,
-     "status": "Out"
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Knee",
+     "player": "Tommy Townsend",
+     "pos": "P",
+     "stale": false,
+     "status": "Injured Reserve"
     },
     {
      "detail": "Concussion",
@@ -6017,23 +6056,23 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873057",
   "market": "Moneyline",
   "news": [
-   "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
-   "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
-   "Fantasy football rankings Week 10: PPR and superflex"
+   "Saints RB Travis Etienne Jr. activated off IR for game vs. Panthers",
+   "Patriots place RB TreVeyon Henderson on IR with still unexplained illness",
+   "Steelers activate DT Derrick Harmon from IR ahead of key Bengals clash"
   ],
   "odds": {
-   "mlAway": "-750",
+   "mlAway": "-650",
    "mlAwayOpen": "-135",
-   "mlHome": "+525",
+   "mlHome": "+470",
    "mlHomeOpen": "+114",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "JAX -10.5",
    "spreadOpen": "JAX -2.5",
    "total": "46.5",
    "totalOpen": "45.5"
   },
-  "pick": "JAX ML (-750)",
-  "reason": "JAX are about 85% no-vig at -750; ESPN's model has 84%. For: line moved toward JAX (-135 → -750); form WWLWW vs LLWLL.",
+  "pick": "JAX ML (-650)",
+  "reason": "JAX are about 83% no-vig at -650; ESPN's model has 84%. For: line moved toward JAX (-135 → -650); form WWLWW vs LLWLL.",
   "risks": [],
   "side": "away",
   "slug": "nfl",
@@ -6041,7 +6080,7 @@
   "stars": 3,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Nissan Stadium, Nashville"
  },
  "nfl-401873058": {
@@ -6071,7 +6110,7 @@
    "abbr": "ATL",
    "form": "LLWLL",
    "injuries": [
-    "Divine Deablo (LB) – Doubtful, Forearm",
+    "Divine Deablo (LB) – Out, Forearm",
     "Zachariah Branch (WR) – Out, Hamstring"
    ],
    "name": "Atlanta Falcons",
@@ -6110,7 +6149,7 @@
      "player": "Divine Deablo",
      "pos": "LB",
      "stale": false,
-     "status": "Doubtful"
+     "status": "Out"
     },
     {
      "detail": "Hamstring",
@@ -6125,16 +6164,16 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873058",
   "market": "Moneyline",
   "news": [
-   "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
-   "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
-   "Fantasy football rankings Week 10: PPR and superflex"
+   "Saints RB Travis Etienne Jr. activated off IR for game vs. Panthers",
+   "Patriots place RB TreVeyon Henderson on IR with still unexplained illness",
+   "Steelers activate DT Derrick Harmon from IR ahead of key Bengals clash"
   ],
   "odds": {
    "mlAway": "-166",
    "mlAwayOpen": "-225",
    "mlHome": "+140",
    "mlHomeOpen": "+185",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "KC -3",
    "spreadOpen": "KC -4.5",
    "total": "47.5",
@@ -6151,7 +6190,7 @@
   "stars": 2,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Mercedes-Benz Stadium, Atlanta"
  },
  "nfl-401873059": {
@@ -6275,16 +6314,16 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873059",
   "market": "Moneyline",
   "news": [
-   "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
-   "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
-   "Fantasy football rankings Week 10: PPR and superflex"
+   "Saints RB Travis Etienne Jr. activated off IR for game vs. Panthers",
+   "Patriots place RB TreVeyon Henderson on IR with still unexplained illness",
+   "Steelers activate DT Derrick Harmon from IR ahead of key Bengals clash"
   ],
   "odds": {
    "mlAway": "+180",
    "mlAwayOpen": "+235",
    "mlHome": "-218",
    "mlHomeOpen": "-290",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "IND -4.5",
    "spreadOpen": "IND -6.5",
    "total": "37.5",
@@ -6301,7 +6340,7 @@
   "stars": 3,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Lucas Oil Stadium, Indianapolis"
  },
  "nfl-401873060": {
@@ -6309,10 +6348,10 @@
    "abbr": "MIN",
    "form": "LLWWW",
    "injuries": [
+    "Kyler Murray (QB) – Out, Hamstring",
     "Tyrion Ingram-Dawkins (DE) – Out, Ankle",
     "Blake Cashman (LB) – Out, Concussion",
-    "Jauan Jennings (WR) – Out, Calf",
-    "Kyler Murray (QB) – Out, Hamstring"
+    "Jauan Jennings (WR) – Out, Calf"
    ],
    "name": "Minnesota Vikings",
    "record": "6-2",
@@ -6331,8 +6370,8 @@
    "abbr": "GB",
    "form": "WWLWW",
    "injuries": [
-    "Josh Jacobs (RB) – Out, Finger",
-    "Sean Rhyan (G) – Out, Ankle"
+    "Josh Whyle (TE) – Injured Reserve, Concussion",
+    "Josh Jacobs (RB) – Out, Finger"
    ],
    "name": "Green Bay Packers",
    "record": "6-3",
@@ -6342,6 +6381,13 @@
   "id": "nfl-401873060",
   "injuriesRaw": {
    "away": [
+    {
+     "detail": "Hamstring",
+     "player": "Kyler Murray",
+     "pos": "QB",
+     "stale": false,
+     "status": "Out"
+    },
     {
      "detail": "Ankle",
      "player": "Tyrion Ingram-Dawkins",
@@ -6362,27 +6408,20 @@
      "pos": "WR",
      "stale": false,
      "status": "Out"
-    },
-    {
-     "detail": "Hamstring",
-     "player": "Kyler Murray",
-     "pos": "QB",
-     "stale": false,
-     "status": "Out"
     }
    ],
    "home": [
     {
+     "detail": "Concussion",
+     "player": "Josh Whyle",
+     "pos": "TE",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
      "detail": "Finger",
      "player": "Josh Jacobs",
      "pos": "RB",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Ankle",
-     "player": "Sean Rhyan",
-     "pos": "G",
      "stale": false,
      "status": "Out"
     }
@@ -6391,16 +6430,16 @@
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873060",
   "news": [
-   "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
-   "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
-   "Fantasy football rankings Week 10: PPR and superflex"
+   "Saints RB Travis Etienne Jr. activated off IR for game vs. Panthers",
+   "Patriots place RB TreVeyon Henderson on IR with still unexplained illness",
+   "Steelers activate DT Derrick Harmon from IR ahead of key Bengals clash"
   ],
   "odds": {
    "mlAway": "+124",
    "mlAwayOpen": "+185",
    "mlHome": "-148",
    "mlHomeOpen": "-225",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "GB -2.5",
    "spreadOpen": "GB -4.5",
    "total": "42.5",
@@ -6416,11 +6455,11 @@
   "stars": 1,
   "start": "2026-11-15T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Lambeau Field, Green Bay"
  },
  "nfl-401873061": {
-  "_lastPick": "LAR ML (-500)",
+  "_lastPick": "LAR ML (-535)",
   "away": {
    "abbr": "LAR",
    "form": "WWWLL",
@@ -6492,23 +6531,23 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873061",
   "market": "Moneyline",
   "news": [
-   "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
-   "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
-   "Fantasy football rankings Week 10: PPR and superflex"
+   "Saints RB Travis Etienne Jr. activated off IR for game vs. Panthers",
+   "Patriots place RB TreVeyon Henderson on IR with still unexplained illness",
+   "Steelers activate DT Derrick Harmon from IR ahead of key Bengals clash"
   ],
   "odds": {
-   "mlAway": "-500",
+   "mlAway": "-535",
    "mlAwayOpen": "-535",
-   "mlHome": "+380",
+   "mlHome": "+400",
    "mlHomeOpen": "+400",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "LAR -9.5",
    "spreadOpen": "LAR -10.5",
    "total": "39.5",
    "totalOpen": "47.5"
   },
-  "pick": "LAR ML (-500)",
-  "reason": "LAR are about 80% no-vig at -500; ESPN's model has 87%. For: ESPN model 87% vs market 80%.",
+  "pick": "LAR ML (-535)",
+  "reason": "LAR are about 81% no-vig at -535; ESPN's model has 87%. For: ESPN model 87% vs market 81%.",
   "risks": [],
   "side": "away",
   "slug": "nfl",
@@ -6516,7 +6555,7 @@
   "stars": 3,
   "start": "2026-11-15T21:05Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "State Farm Stadium, Glendale"
  },
  "nfl-401873062": {
@@ -6621,16 +6660,16 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873062",
   "market": "Moneyline",
   "news": [
-   "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
-   "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
-   "Fantasy football rankings Week 10: PPR and superflex"
+   "Saints RB Travis Etienne Jr. activated off IR for game vs. Panthers",
+   "Patriots place RB TreVeyon Henderson on IR with still unexplained illness",
+   "Steelers activate DT Derrick Harmon from IR ahead of key Bengals clash"
   ],
   "odds": {
    "mlAway": "-305",
    "mlAwayOpen": "-340",
    "mlHome": "+245",
    "mlHomeOpen": "+270",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "SEA -6.5",
    "spreadOpen": "SEA -7",
    "total": "40.5",
@@ -6647,7 +6686,7 @@
   "stars": 2,
   "start": "2026-11-15T21:05Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Allegiant Stadium, Las Vegas"
  },
  "nfl-401873063": {
@@ -6656,7 +6695,7 @@
    "abbr": "SF",
    "form": "WLWWW",
    "injuries": [
-    "Mike Evans (WR) – Out, Achilles"
+    "Gracen Halton (DT) – Injured Reserve, Ankle"
    ],
    "name": "San Francisco 49ers",
    "record": "7-1",
@@ -6687,11 +6726,11 @@
   "injuriesRaw": {
    "away": [
     {
-     "detail": "Achilles",
-     "player": "Mike Evans",
-     "pos": "WR",
+     "detail": "Ankle",
+     "player": "Gracen Halton",
+     "pos": "DT",
      "stale": false,
-     "status": "Out"
+     "status": "Injured Reserve"
     }
    ],
    "home": [
@@ -6715,17 +6754,17 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873063",
   "market": "Moneyline",
   "news": [
-   "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
-   "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
-   "Fantasy football rankings Week 10: PPR and superflex"
+   "Saints RB Travis Etienne Jr. activated off IR for game vs. Panthers",
+   "Patriots place RB TreVeyon Henderson on IR with still unexplained illness",
+   "Steelers activate DT Derrick Harmon from IR ahead of key Bengals clash"
   ],
   "odds": {
    "mlAway": "-205",
    "mlAwayOpen": "+100",
    "mlHome": "+170",
    "mlHomeOpen": "-120",
-   "provider": "DraftKings",
-   "spread": "SF -4.5",
+   "provider": "Draft Kings",
+   "spread": "SF -3.5",
    "spreadOpen": "DAL -1.5",
    "total": "55.5",
    "totalOpen": "52.5"
@@ -6739,16 +6778,15 @@
   "stars": 2,
   "start": "2026-11-15T21:25Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "AT&T Stadium, Arlington"
  },
  "nfl-401873064": {
-  "_lastPick": "CIN ML (-180)",
+  "_lastPick": "CIN ML (-192)",
   "away": {
    "abbr": "PIT",
    "form": "WWWWL",
    "injuries": [
-    "Derrick Harmon (DT) – Injured Reserve, Foot",
     "Michael Pittman Jr. (WR) – Injured Reserve, Foot"
    ],
    "name": "Pittsburgh Steelers",
@@ -6756,7 +6794,7 @@
    "short": "Steelers",
    "teamId": "23"
   },
-  "confidence": 62,
+  "confidence": 63,
   "espnId": "401873064",
   "espnLeague": "nfl",
   "espnSport": "football",
@@ -6768,8 +6806,8 @@
    "abbr": "CIN",
    "form": "WWWWL",
    "injuries": [
-    "Kyle Dugger (S) – Out, Quadriceps",
     "Andrei Iosivas (WR) – Injured Reserve, Thumb",
+    "Kyle Dugger (S) – Out, Quadriceps",
     "Brian Parker II (OT) – Injured Reserve, Knee",
     "Jalen Davis (CB) – Injured Reserve, Hamstring",
     "Cashius Howell (DE) – Injured Reserve, Wrist"
@@ -6782,13 +6820,6 @@
   "id": "nfl-401873064",
   "injuriesRaw": {
    "away": [
-    {
-     "detail": "Foot",
-     "player": "Derrick Harmon",
-     "pos": "DT",
-     "stale": false,
-     "status": "Injured Reserve"
-    },
     {
      "detail": "Foot",
      "player": "Michael Pittman Jr.",
@@ -6813,18 +6844,18 @@
    ],
    "home": [
     {
-     "detail": "Quadriceps",
-     "player": "Kyle Dugger",
-     "pos": "S",
-     "stale": false,
-     "status": "Out"
-    },
-    {
      "detail": "Thumb",
      "player": "Andrei Iosivas",
      "pos": "WR",
      "stale": false,
      "status": "Injured Reserve"
+    },
+    {
+     "detail": "Quadriceps",
+     "player": "Kyle Dugger",
+     "pos": "S",
+     "stale": false,
+     "status": "Out"
     },
     {
      "detail": "Knee",
@@ -6853,23 +6884,23 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873064",
   "market": "Moneyline",
   "news": [
-   "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
-   "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
-   "Fantasy football rankings Week 10: PPR and superflex"
+   "Saints RB Travis Etienne Jr. activated off IR for game vs. Panthers",
+   "Patriots place RB TreVeyon Henderson on IR with still unexplained illness",
+   "Steelers activate DT Derrick Harmon from IR ahead of key Bengals clash"
   ],
   "odds": {
-   "mlAway": "+150",
+   "mlAway": "+160",
    "mlAwayOpen": "+160",
-   "mlHome": "-180",
+   "mlHome": "-192",
    "mlHomeOpen": "-192",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "CIN -3.5",
    "spreadOpen": "CIN -3.5",
    "total": "49.5",
    "totalOpen": "47.5"
   },
-  "pick": "CIN ML (-180)",
-  "reason": "CIN are about 62% no-vig at -180; ESPN's model has 70%. For: ESPN model 70% vs market 62%.",
+  "pick": "CIN ML (-192)",
+  "reason": "CIN are about 63% no-vig at -192; ESPN's model has 70%. For: ESPN model 70% vs market 63%.",
   "risks": [],
   "side": "home",
   "slug": "nfl",
@@ -6877,7 +6908,7 @@
   "stars": 2,
   "start": "2026-11-16T01:20Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Paycor Stadium, Cincinnati"
  },
  "nfl-401873065": {
@@ -6885,15 +6916,17 @@
    "abbr": "LAC",
    "form": "LLLLL",
    "injuries": [
-    "Trey Pipkins III (OT) – Injured Reserve, Knee",
-    "David Njoku (TE) – Injured Reserve, Lower Leg"
+    "David Njoku (TE) – Injured Reserve, Lower Leg",
+    "Kendall Williamson (S) – Out, Calf",
+    "Branson Taylor (G) – Out, Ankle",
+    "Brenen Thompson (WR) – Doubtful, Hamstring"
    ],
    "name": "Los Angeles Chargers",
    "record": "0-8",
    "short": "Chargers",
    "teamId": "24"
   },
-  "confidence": 54,
+  "confidence": 55,
   "espnId": "401873065",
   "espnLeague": "nfl",
   "espnSport": "football",
@@ -6919,18 +6952,32 @@
   "injuriesRaw": {
    "away": [
     {
-     "detail": "Knee",
-     "player": "Trey Pipkins III",
-     "pos": "OT",
-     "stale": false,
-     "status": "Injured Reserve"
-    },
-    {
      "detail": "Lower Leg",
      "player": "David Njoku",
      "pos": "TE",
      "stale": false,
      "status": "Injured Reserve"
+    },
+    {
+     "detail": "Calf",
+     "player": "Kendall Williamson",
+     "pos": "S",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Branson Taylor",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "Brenen Thompson",
+     "pos": "WR",
+     "stale": false,
+     "status": "Doubtful"
     }
    ],
    "home": [
@@ -6967,23 +7014,23 @@
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873065",
   "news": [
-   "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
-   "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
-   "Fantasy football rankings Week 10: PPR and superflex"
+   "Saints RB Travis Etienne Jr. activated off IR for game vs. Panthers",
+   "Patriots place RB TreVeyon Henderson on IR with still unexplained illness",
+   "Steelers activate DT Derrick Harmon from IR ahead of key Bengals clash"
   ],
   "odds": {
-   "mlAway": "+180",
+   "mlAway": "+185",
    "mlAwayOpen": "+120",
-   "mlHome": "-218",
+   "mlHome": "-225",
    "mlHomeOpen": "-142",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "BAL -4.5",
    "spreadOpen": "BAL -2.5",
    "total": "38.5",
    "totalOpen": "48.5"
   },
   "pick": "Pass",
-  "reason": "BAL about 66% no-vig at -218; no edge worth a pick.",
+  "reason": "BAL about 66% no-vig at -225; no edge worth a pick.",
   "risks": [
    "ESPN model only 45% vs market 66%"
   ],
@@ -6992,492 +7039,8 @@
   "stars": 1,
   "start": "2026-11-17T01:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "M&T Bank Stadium, Baltimore"
- },
- "soccer-401861153": {
-  "_lastPick": "Azerbaijan ML (-525)",
-  "away": {
-   "abbr": "AZE",
-   "form": "WDDW",
-   "name": "Azerbaijan",
-   "record": "2-2-0",
-   "short": "Azerbaijan",
-   "teamId": "581"
-  },
-  "confidence": 75,
-  "espnId": "401861153",
-  "espnLeague": "uefa.nations",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "LIE",
-   "form": "LDLL",
-   "name": "Liechtenstein",
-   "record": "0-1-2",
-   "short": "Liechtenstein",
-   "teamId": "589"
-  },
-  "id": "soccer-401861153",
-  "league": "UEFA Nations League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401861153",
-  "market": "Moneyline",
-  "news": [
-   "Spain vs. England is 'winner takes it all' - Thomas Tuchel",
-   "Wales boss Craig Bellamy lays out plan for stopping Erling Haaland",
-   "Tuchel: White needs to open a new chapter after being booed by England fans"
-  ],
-  "odds": {
-   "mlAway": "-525",
-   "mlAwayOpen": "-370",
-   "mlDraw": "+450",
-   "mlHome": "+1500",
-   "mlHomeOpen": "+900",
-   "provider": "DraftKings",
-   "spread": "AZE -525",
-   "spreadOpen": "AZE -1.5",
-   "total": "2.5",
-   "totalOpen": "2.5"
-  },
-  "pick": "Azerbaijan ML (-525)",
-  "reason": "Azerbaijan are about 78% no-vig at -525. For: line moved toward Azerbaijan (-370 → -525).",
-  "risks": [],
-  "side": "away",
-  "slug": "uefa.nations",
-  "sport": "soccer",
-  "stars": 3,
-  "start": "2026-11-13T19:45Z",
-  "state": "post",
-  "updatedAt": "2026-11-13T12:50:12Z",
-  "venue": "Rheinpark Stadion, Vaduz"
- },
- "soccer-401861154": {
-  "away": {
-   "abbr": "EST",
-   "form": "DWDD",
-   "name": "Estonia",
-   "record": "2-3-0",
-   "short": "Estonia",
-   "teamId": "444"
-  },
-  "confidence": 31,
-  "espnId": "401861154",
-  "espnLeague": "uefa.nations",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "LUX",
-   "form": "LLLW",
-   "name": "Luxembourg",
-   "record": "1-0-4",
-   "short": "Luxembourg",
-   "teamId": "582"
-  },
-  "id": "soccer-401861154",
-  "league": "UEFA Nations League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401861154",
-  "news": [
-   "Spain vs. England is 'winner takes it all' - Thomas Tuchel",
-   "Wales boss Craig Bellamy lays out plan for stopping Erling Haaland",
-   "Tuchel: White needs to open a new chapter after being booed by England fans"
-  ],
-  "odds": {
-   "mlAway": "+215",
-   "mlAwayOpen": "+250",
-   "mlDraw": "+190",
-   "mlHome": "+140",
-   "mlHomeOpen": "+105",
-   "provider": "DraftKings",
-   "spread": "LUX +140",
-   "spreadOpen": "LUX -0.5",
-   "total": "1.5",
-   "totalOpen": "2.5"
-  },
-  "pick": "Pass",
-  "reason": "Luxembourg about 36% no-vig at +155; no edge worth a pick.",
-  "risks": [
-   "line drifted away (+105 → +155)"
-  ],
-  "slug": "uefa.nations",
-  "sport": "soccer",
-  "stars": 1,
-  "start": "2026-11-13T19:45Z",
-  "state": "post",
-  "updatedAt": "2026-11-13T12:50:12Z",
-  "venue": "Stade de Luxembourg, Luxembourg City"
- },
- "soccer-401861155": {
-  "away": {
-   "abbr": "GIB",
-   "form": "WDDD",
-   "name": "Gibraltar",
-   "record": "0-2-1",
-   "short": "Gibraltar",
-   "teamId": "16721"
-  },
-  "confidence": 54,
-  "espnId": "401861155",
-  "espnLeague": "uefa.nations",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "AND",
-   "form": "LLDL",
-   "name": "Andorra",
-   "record": "1-1-2",
-   "short": "Andorra",
-   "teamId": "587"
-  },
-  "id": "soccer-401861155",
-  "league": "UEFA Nations League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401861155",
-  "news": [
-   "Spain vs. England is 'winner takes it all' - Thomas Tuchel",
-   "Wales boss Craig Bellamy lays out plan for stopping Erling Haaland",
-   "Tuchel: White needs to open a new chapter after being booed by England fans"
-  ],
-  "odds": {
-   "mlAway": "+550",
-   "mlAwayOpen": "+400",
-   "mlDraw": "+210",
-   "mlHome": "-150",
-   "mlHomeOpen": "-125",
-   "provider": "DraftKings",
-   "spread": "AND -150",
-   "spreadOpen": "AND -0.5",
-   "total": "1.5",
-   "totalOpen": "1.5"
-  },
-  "pick": "Pass",
-  "reason": "Andorra about 57% no-vig at -160; no edge worth a pick.",
-  "risks": [],
-  "slug": "uefa.nations",
-  "sport": "soccer",
-  "stars": 1,
-  "start": "2026-11-13T19:45Z",
-  "state": "post",
-  "updatedAt": "2026-11-13T12:50:12Z",
-  "venue": "Estadi de la FAF d'Encamp, Encamp"
- },
- "soccer-401861156": {
-  "away": {
-   "abbr": "SUI",
-   "form": "WWWW",
-   "name": "Switzerland",
-   "record": "4-1-0",
-   "short": "Switzerland",
-   "teamId": "475"
-  },
-  "confidence": 52,
-  "espnId": "401861156",
-  "espnLeague": "uefa.nations",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "SVN",
-   "form": "WLWD",
-   "name": "Slovenia",
-   "record": "2-2-1",
-   "short": "Slovenia",
-   "teamId": "472"
-  },
-  "id": "soccer-401861156",
-  "league": "UEFA Nations League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401861156",
-  "news": [
-   "Spain vs. England is 'winner takes it all' - Thomas Tuchel",
-   "Wales boss Craig Bellamy lays out plan for stopping Erling Haaland",
-   "Tuchel: White needs to open a new chapter after being booed by England fans"
-  ],
-  "odds": {
-   "mlAway": "-120",
-   "mlAwayOpen": "-165",
-   "mlDraw": "+205",
-   "mlHome": "+390",
-   "mlHomeOpen": "+400",
-   "provider": "DraftKings",
-   "spread": "SUI -120",
-   "spreadOpen": "SUI -0.5",
-   "total": "1.5",
-   "totalOpen": "2.5"
-  },
-  "pick": "Pass",
-  "reason": "Switzerland about 55% no-vig at -145; no edge worth a pick.",
-  "risks": [],
-  "slug": "uefa.nations",
-  "sport": "soccer",
-  "stars": 1,
-  "start": "2026-11-13T19:45Z",
-  "state": "post",
-  "updatedAt": "2026-11-13T12:50:12Z",
-  "venue": "Ljudski vrt, Maribor"
- },
- "soccer-401861157": {
-  "away": {
-   "abbr": "ISL",
-   "form": "DWWD",
-   "name": "Iceland",
-   "record": "3-2-0",
-   "short": "Iceland",
-   "teamId": "470"
-  },
-  "confidence": 52,
-  "espnId": "401861157",
-  "espnLeague": "uefa.nations",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "BUL",
-   "form": "WLDL",
-   "name": "Bulgaria",
-   "record": "1-1-3",
-   "short": "Bulgaria",
-   "teamId": "462"
-  },
-  "id": "soccer-401861157",
-  "league": "UEFA Nations League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401861157",
-  "news": [
-   "Spain vs. England is 'winner takes it all' - Thomas Tuchel",
-   "Wales boss Craig Bellamy lays out plan for stopping Erling Haaland",
-   "Tuchel: White needs to open a new chapter after being booed by England fans"
-  ],
-  "odds": {
-   "mlAway": "-155",
-   "mlAwayOpen": "-120",
-   "mlDraw": "+275",
-   "mlHome": "+390",
-   "mlHomeOpen": "+300",
-   "provider": "DraftKings",
-   "spread": "ISL -155",
-   "spreadOpen": "ISL -0.5",
-   "total": "2.5",
-   "totalOpen": "2.5"
-  },
-  "pick": "Pass",
-  "reason": "Iceland about 55% no-vig at -145; no edge worth a pick.",
-  "risks": [],
-  "slug": "uefa.nations",
-  "sport": "soccer",
-  "stars": 1,
-  "start": "2026-11-13T19:45Z",
-  "state": "post",
-  "updatedAt": "2026-11-13T12:50:12Z",
-  "venue": "Hristo Botev Stadium, Plovdiv, Plovdiv"
- },
- "soccer-401861158": {
-  "_lastPick": "Germany ML (-425)",
-  "away": {
-   "abbr": "GER",
-   "form": "DWLD",
-   "name": "Germany",
-   "record": "2-2-1",
-   "short": "Germany",
-   "teamId": "481"
-  },
-  "confidence": 72,
-  "espnId": "401861158",
-  "espnLeague": "uefa.nations",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "SRB",
-   "form": "LLLL",
-   "name": "Serbia",
-   "record": "0-0-5",
-   "short": "Serbia",
-   "teamId": "6757"
-  },
-  "id": "soccer-401861158",
-  "league": "UEFA Nations League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401861158",
-  "market": "Moneyline",
-  "news": [
-   "Spain vs. England is 'winner takes it all' - Thomas Tuchel",
-   "Wales boss Craig Bellamy lays out plan for stopping Erling Haaland",
-   "Tuchel: White needs to open a new chapter after being booed by England fans"
-  ],
-  "odds": {
-   "mlAway": "-475",
-   "mlAwayOpen": "-370",
-   "mlDraw": "+500",
-   "mlHome": "+950",
-   "mlHomeOpen": "+650",
-   "provider": "DraftKings",
-   "spread": "GER -475",
-   "spreadOpen": "GER -1.5",
-   "total": "3.5",
-   "totalOpen": "3.5"
-  },
-  "pick": "Germany ML (-425)",
-  "reason": "Germany are about 75% no-vig at -425.",
-  "risks": [],
-  "side": "away",
-  "slug": "uefa.nations",
-  "sport": "soccer",
-  "stars": 2,
-  "start": "2026-11-13T19:45Z",
-  "state": "post",
-  "updatedAt": "2026-11-13T12:50:12Z",
-  "venue": "Rajko Mitic Stadium, Belgrade"
- },
- "soccer-401861159": {
-  "away": {
-   "abbr": "GRE",
-   "form": "DDWW",
-   "name": "Greece",
-   "record": "2-2-1",
-   "short": "Greece",
-   "teamId": "455"
-  },
-  "confidence": 54,
-  "espnId": "401861159",
-  "espnLeague": "uefa.nations",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "NED",
-   "form": "WDWD",
-   "name": "Netherlands",
-   "record": "3-2-0",
-   "short": "Netherlands",
-   "teamId": "449"
-  },
-  "id": "soccer-401861159",
-  "league": "UEFA Nations League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401861159",
-  "news": [
-   "Spain vs. England is 'winner takes it all' - Thomas Tuchel",
-   "Wales boss Craig Bellamy lays out plan for stopping Erling Haaland",
-   "Tuchel: White needs to open a new chapter after being booed by England fans"
-  ],
-  "odds": {
-   "mlAway": "+475",
-   "mlAwayOpen": "+500",
-   "mlDraw": "+350",
-   "mlHome": "-220",
-   "mlHomeOpen": "-260",
-   "provider": "DraftKings",
-   "spread": "NED -220",
-   "spreadOpen": "NED -1.5",
-   "total": "3.5",
-   "totalOpen": "3.5"
-  },
-  "pick": "Pass",
-  "reason": "Netherlands about 59% no-vig at -180; no edge worth a pick.",
-  "risks": [
-   "line drifted away (-260 → -180)"
-  ],
-  "slug": "uefa.nations",
-  "sport": "soccer",
-  "stars": 1,
-  "start": "2026-11-13T19:45Z",
-  "state": "post",
-  "updatedAt": "2026-11-13T12:50:12Z",
-  "venue": "Johan Cruijff Arena, Amsterdam"
- },
- "soccer-401861160": {
-  "_lastPick": "Slovakia ML (-290)",
-  "away": {
-   "abbr": "FRO",
-   "form": "DDDD",
-   "name": "Faroe Islands",
-   "record": "0-5-0",
-   "short": "Faroe Islands",
-   "teamId": "447"
-  },
-  "confidence": 67,
-  "espnId": "401861160",
-  "espnLeague": "uefa.nations",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "SVK",
-   "form": "WDWW",
-   "name": "Slovakia",
-   "record": "3-2-0",
-   "short": "Slovakia",
-   "teamId": "468"
-  },
-  "id": "soccer-401861160",
-  "league": "UEFA Nations League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401861160",
-  "market": "Moneyline",
-  "news": [
-   "Spain vs. England is 'winner takes it all' - Thomas Tuchel",
-   "Wales boss Craig Bellamy lays out plan for stopping Erling Haaland",
-   "Tuchel: White needs to open a new chapter after being booed by England fans"
-  ],
-  "odds": {
-   "mlAway": "+700",
-   "mlAwayOpen": "+700",
-   "mlDraw": "+340",
-   "mlHome": "-270",
-   "mlHomeOpen": "-300",
-   "provider": "DraftKings",
-   "spread": "SVK -270",
-   "spreadOpen": "SVK -1.5",
-   "total": "2.5",
-   "totalOpen": "2.5"
-  },
-  "pick": "Slovakia ML (-290)",
-  "reason": "Slovakia are about 69% no-vig at -290. For: form WDWW vs DDDD.",
-  "risks": [],
-  "side": "home",
-  "slug": "uefa.nations",
-  "sport": "soccer",
-  "stars": 3,
-  "start": "2026-11-13T19:45Z",
-  "state": "post",
-  "updatedAt": "2026-11-13T12:50:12Z",
-  "venue": "Košická futbalová aréna (KFA), Kosice"
- },
- "soccer-401861161": {
-  "_lastPick": "Scotland ML (-600)",
-  "away": {
-   "abbr": "MKD",
-   "form": "LLLL",
-   "name": "North Macedonia",
-   "record": "0-0-5",
-   "short": "North Macedonia",
-   "teamId": "463"
-  },
-  "confidence": 76,
-  "espnId": "401861161",
-  "espnLeague": "uefa.nations",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "SCO",
-   "form": "LWLD",
-   "name": "Scotland",
-   "record": "2-1-2",
-   "short": "Scotland",
-   "teamId": "580"
-  },
-  "id": "soccer-401861161",
-  "league": "UEFA Nations League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401861161",
-  "market": "Moneyline",
-  "news": [
-   "Spain vs. England is 'winner takes it all' - Thomas Tuchel",
-   "Wales boss Craig Bellamy lays out plan for stopping Erling Haaland",
-   "Tuchel: White needs to open a new chapter after being booed by England fans"
-  ],
-  "odds": {
-   "mlAway": "+1200",
-   "mlAwayOpen": "+1000",
-   "mlDraw": "+550",
-   "mlHome": "-550",
-   "mlHomeOpen": "-500",
-   "provider": "DraftKings",
-   "spread": "SCO -550",
-   "spreadOpen": "SCO -1.5",
-   "total": "2.5",
-   "totalOpen": "2.5"
-  },
-  "pick": "Scotland ML (-600)",
-  "reason": "Scotland are about 79% no-vig at -600.",
-  "risks": [],
-  "side": "home",
-  "slug": "uefa.nations",
-  "sport": "soccer",
-  "stars": 2,
-  "start": "2026-11-13T19:45Z",
-  "state": "post",
-  "updatedAt": "2026-11-13T12:50:12Z",
-  "venue": "Hampden Park, Glasgow"
  },
  "soccer-401861163": {
   "away": {
@@ -7644,7 +7207,7 @@
    "abbr": "BIH",
    "form": "WDWD",
    "name": "Bosnia-Herzegovina",
-   "record": "2-2-0",
+   "record": "2-2-1",
    "short": "Bosnia-Herz",
    "teamId": "452"
   },
@@ -7656,7 +7219,7 @@
    "abbr": "SWE",
    "form": "WDWW",
    "name": "Sweden",
-   "record": "3-1-0",
+   "record": "4-1-0",
    "short": "Sweden",
    "teamId": "466"
   },
@@ -7689,7 +7252,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-14T19:45Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Friends Arena, Stockholm"
  },
@@ -7699,7 +7262,7 @@
    "abbr": "DEN",
    "form": "WLWL",
    "name": "Denmark",
-   "record": "2-0-2",
+   "record": "3-0-2",
    "short": "Denmark",
    "teamId": "479"
   },
@@ -7711,7 +7274,7 @@
    "abbr": "POR",
    "form": "WWWW",
    "name": "Portugal",
-   "record": "4-0-0",
+   "record": "4-0-1",
    "short": "Portugal",
    "teamId": "482"
   },
@@ -7746,7 +7309,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-14T19:45Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Estádio Municipal de Braga, Braga"
  },
@@ -7755,7 +7318,7 @@
    "abbr": "POL",
    "form": "LWLD",
    "name": "Poland",
-   "record": "1-1-2",
+   "record": "1-1-3",
    "short": "Poland",
    "teamId": "471"
   },
@@ -7767,7 +7330,7 @@
    "abbr": "ROU",
    "form": "LLLL",
    "name": "Romania",
-   "record": "0-0-4",
+   "record": "1-0-4",
    "short": "Romania",
    "teamId": "473"
   },
@@ -7798,7 +7361,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-14T19:45Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "National Arena, Bucuresti"
  },
@@ -7807,7 +7370,7 @@
    "abbr": "UKR",
    "form": "LLDW",
    "name": "Ukraine",
-   "record": "1-1-2",
+   "record": "1-1-3",
    "short": "Ukraine",
    "teamId": "457"
   },
@@ -7819,7 +7382,7 @@
    "abbr": "NIR",
    "form": "DWDW",
    "name": "Northern Ireland",
-   "record": "2-2-0",
+   "record": "3-2-0",
    "short": "N Ireland",
    "teamId": "586"
   },
@@ -7852,7 +7415,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-14T19:45Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Windsor Park, Belfast"
  },
@@ -7861,7 +7424,7 @@
    "abbr": "IRL",
    "form": "DDWL",
    "name": "Republic of Ireland",
-   "record": "1-2-1",
+   "record": "1-2-2",
    "short": "Rep Ireland",
    "teamId": "476"
   },
@@ -7873,7 +7436,7 @@
    "abbr": "AUT",
    "form": "DDWW",
    "name": "Austria",
-   "record": "2-2-0",
+   "record": "3-2-0",
    "short": "Austria",
    "teamId": "474"
   },
@@ -7904,7 +7467,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-14T19:45Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Raiffeisen Arena (Linz), Linz"
  },
@@ -7933,9 +7496,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861171",
   "news": [
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "'This is the way': Xavi lauds Netherlands after tying record Nations League win"
+   "Portugal's post-Ronaldo era begins with heaviest ever competitive home loss",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "Portugal routed by Denmark in 1st game since Ronaldo retirement"
   ],
   "odds": {
    "mlAway": "+135",
@@ -7957,7 +7520,7 @@
   "stars": 1,
   "start": "2026-11-15T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Skonto Stadions, Riga"
  },
  "soccer-401861172": {
@@ -7985,9 +7548,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861172",
   "news": [
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "'This is the way': Xavi lauds Netherlands after tying record Nations League win"
+   "Portugal's post-Ronaldo era begins with heaviest ever competitive home loss",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "Portugal routed by Denmark in 1st game since Ronaldo retirement"
   ],
   "odds": {
    "mlAway": "+120",
@@ -8009,7 +7572,7 @@
   "stars": 1,
   "start": "2026-11-15T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Alphamega Stadium, Kolossi"
  },
  "soccer-401861173": {
@@ -8044,7 +7607,7 @@
   "stars": 1,
   "start": "2026-11-15T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Illovszky Rudolf Stadion, Budapest"
  },
  "soccer-401861174": {
@@ -8074,9 +7637,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861174",
   "market": "Moneyline",
   "news": [
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "'This is the way': Xavi lauds Netherlands after tying record Nations League win"
+   "Portugal's post-Ronaldo era begins with heaviest ever competitive home loss",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "Portugal routed by Denmark in 1st game since Ronaldo retirement"
   ],
   "odds": {
    "mlAway": "+3000",
@@ -8087,7 +7650,7 @@
    "provider": "DraftKings",
    "spread": "FIN -4000",
    "spreadOpen": "FIN -3.5",
-   "total": "3.5",
+   "total": "4.5",
    "totalOpen": "3.5"
   },
   "pick": "Finland ML (-4000)",
@@ -8099,7 +7662,7 @@
   "stars": 2,
   "start": "2026-11-15T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Bolt Arena, Helsinki"
  },
  "soccer-401861175": {
@@ -8111,7 +7674,7 @@
    "short": "England",
    "teamId": "448"
   },
-  "confidence": 51,
+  "confidence": 50,
   "espnId": "401861175",
   "espnLeague": "uefa.nations",
   "espnSport": "soccer",
@@ -8127,31 +7690,31 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861175",
   "news": [
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "'This is the way': Xavi lauds Netherlands after tying record Nations League win"
+   "Portugal's post-Ronaldo era begins with heaviest ever competitive home loss",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "Portugal routed by Denmark in 1st game since Ronaldo retirement"
   ],
   "odds": {
-   "mlAway": "+310",
+   "mlAway": "+300",
    "mlAwayOpen": "+340",
-   "mlDraw": "+295",
-   "mlHome": "-140",
+   "mlDraw": "+285",
+   "mlHome": "-135",
    "mlHomeOpen": "-150",
    "provider": "DraftKings",
-   "spread": "ESP -140",
+   "spread": "ESP -135",
    "spreadOpen": "ESP -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Spain about 54% no-vig at -140; no edge worth a pick.",
+  "reason": "Spain about 53% no-vig at -135; no edge worth a pick.",
   "risks": [],
   "slug": "uefa.nations",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-15T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Riyadh Air Metropolitano, Madrid"
  },
  "soccer-401861176": {
@@ -8179,14 +7742,14 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861176",
   "news": [
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "'This is the way': Xavi lauds Netherlands after tying record Nations League win"
+   "Portugal's post-Ronaldo era begins with heaviest ever competitive home loss",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "Portugal routed by Denmark in 1st game since Ronaldo retirement"
   ],
   "odds": {
-   "mlAway": "+200",
+   "mlAway": "+190",
    "mlAwayOpen": "+205",
-   "mlDraw": "+260",
+   "mlDraw": "+265",
    "mlHome": "+115",
    "mlHomeOpen": "+110",
    "provider": "DraftKings",
@@ -8203,7 +7766,7 @@
   "stars": 1,
   "start": "2026-11-15T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "King Baudouin Stadium, Brussels"
  },
  "soccer-401861177": {
@@ -8233,9 +7796,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861177",
   "market": "Moneyline",
   "news": [
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "'This is the way': Xavi lauds Netherlands after tying record Nations League win"
+   "Portugal's post-Ronaldo era begins with heaviest ever competitive home loss",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "Portugal routed by Denmark in 1st game since Ronaldo retirement"
   ],
   "odds": {
    "mlAway": "+900",
@@ -8258,7 +7821,7 @@
   "stars": 3,
   "start": "2026-11-15T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Stade Atlantique, Bordeaux"
  },
  "soccer-401861178": {
@@ -8288,9 +7851,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861178",
   "market": null,
   "news": [
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "'This is the way': Xavi lauds Netherlands after tying record Nations League win"
+   "Portugal's post-Ronaldo era begins with heaviest ever competitive home loss",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "Portugal routed by Denmark in 1st game since Ronaldo retirement"
   ],
   "odds": {
    "mlAway": "+400",
@@ -8313,7 +7876,7 @@
   "stars": 1,
   "start": "2026-11-15T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Opus Arena, Osijek"
  },
  "soccer-401861179": {
@@ -8343,9 +7906,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861179",
   "market": "Moneyline",
   "news": [
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "'This is the way': Xavi lauds Netherlands after tying record Nations League win"
+   "Portugal's post-Ronaldo era begins with heaviest ever competitive home loss",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "Portugal routed by Denmark in 1st game since Ronaldo retirement"
   ],
   "odds": {
    "mlAway": "-230",
@@ -8368,7 +7931,7 @@
   "stars": 2,
   "start": "2026-11-16T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Europa Point Stadium, Gibraltar"
  },
  "soccer-401861180": {
@@ -8396,9 +7959,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861180",
   "news": [
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "'This is the way': Xavi lauds Netherlands after tying record Nations League win"
+   "Portugal's post-Ronaldo era begins with heaviest ever competitive home loss",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "Portugal routed by Denmark in 1st game since Ronaldo retirement"
   ],
   "odds": {
    "mlAway": "+360",
@@ -8422,7 +7985,7 @@
   "stars": 1,
   "start": "2026-11-16T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Tórsvollur, Tórshavn"
  },
  "soccer-401861181": {
@@ -8450,9 +8013,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861181",
   "news": [
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "'This is the way': Xavi lauds Netherlands after tying record Nations League win"
+   "Portugal's post-Ronaldo era begins with heaviest ever competitive home loss",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "Portugal routed by Denmark in 1st game since Ronaldo retirement"
   ],
   "odds": {
    "mlAway": "-135",
@@ -8474,7 +8037,7 @@
   "stars": 1,
   "start": "2026-11-16T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Astana Arena, Astana"
  },
  "soccer-401861182": {
@@ -8504,9 +8067,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861182",
   "market": "Moneyline",
   "news": [
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "'This is the way': Xavi lauds Netherlands after tying record Nations League win"
+   "Portugal's post-Ronaldo era begins with heaviest ever competitive home loss",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "Portugal routed by Denmark in 1st game since Ronaldo retirement"
   ],
   "odds": {
    "mlAway": "+750",
@@ -8529,7 +8092,7 @@
   "stars": 2,
   "start": "2026-11-16T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Laugardalsvöllur, Reykjavik"
  },
  "soccer-401861183": {
@@ -8557,9 +8120,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861183",
   "news": [
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "'This is the way': Xavi lauds Netherlands after tying record Nations League win"
+   "Portugal's post-Ronaldo era begins with heaviest ever competitive home loss",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "Portugal routed by Denmark in 1st game since Ronaldo retirement"
   ],
   "odds": {
    "mlAway": "+275",
@@ -8581,7 +8144,7 @@
   "stars": 1,
   "start": "2026-11-16T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "A. Le Coq Arena, Tallinn"
  },
  "soccer-401861184": {
@@ -8611,9 +8174,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861184",
   "market": "Moneyline",
   "news": [
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "'This is the way': Xavi lauds Netherlands after tying record Nations League win"
+   "Portugal's post-Ronaldo era begins with heaviest ever competitive home loss",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "Portugal routed by Denmark in 1st game since Ronaldo retirement"
   ],
   "odds": {
    "mlAway": "+1900",
@@ -8636,7 +8199,7 @@
   "stars": 2,
   "start": "2026-11-16T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "S. Darius and S. Gireno Stadium, Kaunas"
  },
  "soccer-401861185": {
@@ -8664,9 +8227,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861185",
   "news": [
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "'This is the way': Xavi lauds Netherlands after tying record Nations League win"
+   "Portugal's post-Ronaldo era begins with heaviest ever competitive home loss",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "Portugal routed by Denmark in 1st game since Ronaldo retirement"
   ],
   "odds": {
    "mlAway": "+250",
@@ -8688,7 +8251,7 @@
   "stars": 1,
   "start": "2026-11-16T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Olympic Stadium Berlin, Berlin"
  },
  "soccer-401861186": {
@@ -8716,9 +8279,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861186",
   "news": [
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "'This is the way': Xavi lauds Netherlands after tying record Nations League win"
+   "Portugal's post-Ronaldo era begins with heaviest ever competitive home loss",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "Portugal routed by Denmark in 1st game since Ronaldo retirement"
   ],
   "odds": {
    "mlAway": "+380",
@@ -8740,7 +8303,7 @@
   "stars": 1,
   "start": "2026-11-16T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Kybunpark, St. Gallen"
  },
  "soccer-401861187": {
@@ -8768,9 +8331,9 @@
   "league": "UEFA Nations League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401861187",
   "news": [
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "'This is the way': Xavi lauds Netherlands after tying record Nations League win"
+   "Portugal's post-Ronaldo era begins with heaviest ever competitive home loss",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "Portugal routed by Denmark in 1st game since Ronaldo retirement"
   ],
   "odds": {
    "mlAway": "-185",
@@ -8792,7 +8355,7 @@
   "stars": 1,
   "start": "2026-11-16T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Toše Proeski Arena, Skopje"
  },
  "soccer-401861188": {
@@ -8822,9 +8385,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401861188",
   "market": "Moneyline",
   "news": [
-   "Has the 'gap' closed? England's progress under Thomas Tuchel faces defining Spain test",
-   "England Nations League permutations: What they need vs. Spain and why it matters",
-   "'This is the way': Xavi lauds Netherlands after tying record Nations League win"
+   "Portugal's post-Ronaldo era begins with heaviest ever competitive home loss",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "Portugal routed by Denmark in 1st game since Ronaldo retirement"
   ],
   "odds": {
    "mlAway": "+500",
@@ -8847,8 +8410,429 @@
   "stars": 2,
   "start": "2026-11-16T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Panthessaliko Stadium, Volos"
+ },
+ "soccer-401861189": {
+  "_lastPick": "Portugal ML (-240)",
+  "away": {
+   "abbr": "POR",
+   "form": "WWWW",
+   "name": "Portugal",
+   "record": "4-0-1",
+   "short": "Portugal",
+   "teamId": "482"
+  },
+  "confidence": 63,
+  "espnId": "401861189",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "WAL",
+   "form": "LWLL",
+   "name": "Wales",
+   "record": "1-0-4",
+   "short": "Wales",
+   "teamId": "578"
+  },
+  "id": "soccer-401861189",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861189",
+  "market": "Moneyline",
+  "news": [
+   "Portugal's post-Ronaldo era begins with heaviest ever competitive home loss",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "Portugal routed by Denmark in 1st game since Ronaldo retirement"
+  ],
+  "odds": {
+   "mlAway": "-240",
+   "mlAwayOpen": "-250",
+   "mlDraw": "+360",
+   "mlHome": "+500",
+   "mlHomeOpen": "+550",
+   "provider": "DraftKings",
+   "spread": "POR -240",
+   "spreadOpen": "POR -1.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Portugal ML (-240)",
+  "reason": "Portugal are about 65% no-vig at -240. For: form WWWW vs LWLL.",
+  "risks": [],
+  "side": "away",
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 2,
+  "start": "2026-11-17T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-14T23:02:28Z",
+  "venue": "Cardiff City Stadium, Cardiff"
+ },
+ "soccer-401861190": {
+  "away": {
+   "abbr": "GEO",
+   "form": "DLDL",
+   "name": "Georgia",
+   "record": "0-2-3",
+   "short": "Georgia",
+   "teamId": "584"
+  },
+  "confidence": 40,
+  "espnId": "401861190",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "UKR",
+   "form": "LLDW",
+   "name": "Ukraine",
+   "record": "1-1-3",
+   "short": "Ukraine",
+   "teamId": "457"
+  },
+  "id": "soccer-401861190",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861190",
+  "news": [
+   "Portugal's post-Ronaldo era begins with heaviest ever competitive home loss",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "Portugal routed by Denmark in 1st game since Ronaldo retirement"
+  ],
+  "odds": {
+   "mlAway": "+215",
+   "mlAwayOpen": "+215",
+   "mlDraw": "+230",
+   "mlHome": "+115",
+   "mlHomeOpen": "+115",
+   "provider": "DraftKings",
+   "spread": "UKR +115",
+   "spreadOpen": "UKR -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Ukraine about 43% no-vig at +115; no edge worth a pick.",
+  "risks": [],
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-17T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-14T23:02:28Z",
+  "venue": "Košická futbalová aréna (KFA), Kosice"
+ },
+ "soccer-401861191": {
+  "away": {
+   "abbr": "NIR",
+   "form": "DWDW",
+   "name": "Northern Ireland",
+   "record": "3-2-0",
+   "short": "N Ireland",
+   "teamId": "586"
+  },
+  "confidence": 45,
+  "espnId": "401861191",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "HUN",
+   "form": "WWDL",
+   "name": "Hungary",
+   "record": "3-1-1",
+   "short": "Hungary",
+   "teamId": "480"
+  },
+  "id": "soccer-401861191",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861191",
+  "news": [
+   "Portugal's post-Ronaldo era begins with heaviest ever competitive home loss",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "Portugal routed by Denmark in 1st game since Ronaldo retirement"
+  ],
+  "odds": {
+   "mlAway": "+300",
+   "mlAwayOpen": "+300",
+   "mlDraw": "+225",
+   "mlHome": "-110",
+   "mlHomeOpen": "-110",
+   "provider": "DraftKings",
+   "spread": "HUN -110",
+   "spreadOpen": "HUN -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Hungary about 48% no-vig at -110; no edge worth a pick.",
+  "risks": [],
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-17T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-14T23:02:28Z",
+  "venue": "Puskás Aréna, Budapest"
+ },
+ "soccer-401861192": {
+  "away": {
+   "abbr": "KOS",
+   "form": "DDLW",
+   "name": "Kosovo",
+   "record": "1-3-1",
+   "short": "Kosovo",
+   "teamId": "18272"
+  },
+  "confidence": 41,
+  "espnId": "401861192",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "IRL",
+   "form": "DDWL",
+   "name": "Republic of Ireland",
+   "record": "1-2-2",
+   "short": "Rep Ireland",
+   "teamId": "476"
+  },
+  "id": "soccer-401861192",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861192",
+  "news": [
+   "Portugal's post-Ronaldo era begins with heaviest ever competitive home loss",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "Portugal routed by Denmark in 1st game since Ronaldo retirement"
+  ],
+  "odds": {
+   "mlAway": "+260",
+   "mlAwayOpen": "+260",
+   "mlDraw": "+210",
+   "mlHome": "+110",
+   "mlHomeOpen": "+110",
+   "provider": "DraftKings",
+   "spread": "IRL +110",
+   "spreadOpen": "IRL -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Rep Ireland about 44% no-vig at +110; no edge worth a pick.",
+  "risks": [],
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-17T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-14T23:02:28Z",
+  "venue": "Aviva Stadium, Dublin"
+ },
+ "soccer-401861193": {
+  "away": {
+   "abbr": "AUT",
+   "form": "DDWW",
+   "name": "Austria",
+   "record": "3-2-0",
+   "short": "Austria",
+   "teamId": "474"
+  },
+  "confidence": 56,
+  "espnId": "401861193",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "ISR",
+   "form": "DDLL",
+   "name": "Israel",
+   "record": "0-3-2",
+   "short": "Israel",
+   "teamId": "461"
+  },
+  "id": "soccer-401861193",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861193",
+  "news": [
+   "Portugal's post-Ronaldo era begins with heaviest ever competitive home loss",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "Portugal routed by Denmark in 1st game since Ronaldo retirement"
+  ],
+  "odds": {
+   "mlAway": "-175",
+   "mlAwayOpen": "-175",
+   "mlDraw": "+320",
+   "mlHome": "+400",
+   "mlHomeOpen": "+400",
+   "provider": "DraftKings",
+   "spread": "AUT -175",
+   "spreadOpen": "AUT -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Austria about 59% no-vig at -175; no edge worth a pick.",
+  "risks": [],
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-17T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-14T23:02:28Z",
+  "venue": "Nagyerdei Stadium, Debrecen"
+ },
+ "soccer-401861194": {
+  "away": {
+   "abbr": "NOR",
+   "form": "LLLW",
+   "name": "Norway",
+   "record": "2-0-3",
+   "short": "Norway",
+   "teamId": "464"
+  },
+  "confidence": 36,
+  "espnId": "401861194",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "DEN",
+   "form": "WLWL",
+   "name": "Denmark",
+   "record": "3-0-2",
+   "short": "Denmark",
+   "teamId": "479"
+  },
+  "id": "soccer-401861194",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861194",
+  "news": [
+   "Portugal's post-Ronaldo era begins with heaviest ever competitive home loss",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "Portugal routed by Denmark in 1st game since Ronaldo retirement"
+  ],
+  "odds": {
+   "mlAway": "+155",
+   "mlAwayOpen": "+160",
+   "mlDraw": "+270",
+   "mlHome": "+140",
+   "mlHomeOpen": "+140",
+   "provider": "DraftKings",
+   "spread": "DEN +140",
+   "spreadOpen": "DEN -0.5",
+   "total": "3.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Denmark about 39% no-vig at +140; no edge worth a pick.",
+  "risks": [],
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-17T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-14T23:02:28Z",
+  "venue": "Parken Stadium, Copenhagen"
+ },
+ "soccer-401861195": {
+  "away": {
+   "abbr": "SWE",
+   "form": "WDWW",
+   "name": "Sweden",
+   "record": "4-1-0",
+   "short": "Sweden",
+   "teamId": "466"
+  },
+  "confidence": 41,
+  "espnId": "401861195",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "POL",
+   "form": "LWLD",
+   "name": "Poland",
+   "record": "1-1-3",
+   "short": "Poland",
+   "teamId": "471"
+  },
+  "id": "soccer-401861195",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861195",
+  "news": [
+   "Portugal's post-Ronaldo era begins with heaviest ever competitive home loss",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "Portugal routed by Denmark in 1st game since Ronaldo retirement"
+  ],
+  "odds": {
+   "mlAway": "+210",
+   "mlAwayOpen": "+210",
+   "mlDraw": "+260",
+   "mlHome": "+105",
+   "mlHomeOpen": "+105",
+   "provider": "DraftKings",
+   "spread": "POL +105",
+   "spreadOpen": "POL -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Poland about 45% no-vig at +105; no edge worth a pick.",
+  "risks": [
+   "opponent in better form (WDWW)"
+  ],
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-17T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-14T23:02:28Z",
+  "venue": "Municipal Stadium Wroclaw, Wroclaw"
+ },
+ "soccer-401861196": {
+  "away": {
+   "abbr": "ROU",
+   "form": "LLLL",
+   "name": "Romania",
+   "record": "1-0-4",
+   "short": "Romania",
+   "teamId": "473"
+  },
+  "confidence": 46,
+  "espnId": "401861196",
+  "espnLeague": "uefa.nations",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "BIH",
+   "form": "WDWD",
+   "name": "Bosnia-Herzegovina",
+   "record": "2-2-1",
+   "short": "Bosnia-Herz",
+   "teamId": "452"
+  },
+  "id": "soccer-401861196",
+  "league": "UEFA Nations League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401861196",
+  "news": [
+   "Portugal's post-Ronaldo era begins with heaviest ever competitive home loss",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "Portugal routed by Denmark in 1st game since Ronaldo retirement"
+  ],
+  "odds": {
+   "mlAway": "+280",
+   "mlAwayOpen": "+280",
+   "mlDraw": "+245",
+   "mlHome": "-110",
+   "mlHomeOpen": "-110",
+   "provider": "DraftKings",
+   "spread": "BIH -110",
+   "spreadOpen": "BIH -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Bosnia-Herz about 49% no-vig at -110; no edge worth a pick.",
+  "risks": [],
+  "slug": "uefa.nations",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-17T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-14T23:02:28Z",
+  "venue": "Bilino Polje Stadium, Zenica"
  },
  "soccer-401876988": {
   "away": {
@@ -8875,13 +8859,13 @@
   "league": "Liga MX",
   "link": "https://www.espn.com/soccer/match/_/gameId/401876988",
   "odds": {
-   "mlAway": "+100",
+   "mlAway": "+105",
    "mlAwayOpen": "+100",
-   "mlDraw": "+255",
-   "mlHome": "+255",
+   "mlDraw": "+250",
+   "mlHome": "+250",
    "mlHomeOpen": "+235",
    "provider": "DraftKings",
-   "spread": "MTY +100",
+   "spread": "MTY +105",
    "spreadOpen": "MTY -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
@@ -8893,12 +8877,12 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-14T23:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-14T19:16:12Z",
   "venue": "Estadio Corregidora, Santiago de Querétaro"
  },
  "soccer-401906463": {
-  "_lastPick": "New Zealand ML (-600)",
+  "_lastPick": "New Zealand ML (-575)",
   "away": {
    "abbr": "IND",
    "form": "LWWLL",
@@ -8922,24 +8906,24 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401906463",
   "market": "Moneyline",
   "news": [
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
    "Socceroos prove they can be the big dogs in Qatar clash",
-   "Socceroos hammer Asian champions in statement win",
-   "Australia friendly with Jordan relocated due to player security concerns"
+   "Socceroos hammer Asian champions in statement win"
   ],
   "odds": {
-   "mlAway": "+1400",
+   "mlAway": "+1300",
    "mlAwayOpen": "+1200",
    "mlDraw": "+650",
-   "mlHome": "-600",
+   "mlHome": "-575",
    "mlHomeOpen": "-525",
    "provider": "DraftKings",
-   "spread": "NZL -600",
+   "spread": "NZL -575",
    "spreadOpen": "NZL -2.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
-  "pick": "New Zealand ML (-600)",
-  "reason": "New Zealand are about 81% no-vig at -600.",
+  "pick": "New Zealand ML (-575)",
+  "reason": "New Zealand are about 81% no-vig at -575.",
   "risks": [],
   "side": "home",
   "slug": "fifa.friendly",
@@ -8947,7 +8931,7 @@
   "stars": 2,
   "start": "2026-11-15T03:10Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "One New Zealand Stadium, Christchurch"
  },
  "soccer-401914292": {
@@ -8980,7 +8964,7 @@
   "stars": 1,
   "start": "2026-11-16T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Estadi de la FAF d'Encamp, Encamp"
  },
  "soccer-401916335": {
@@ -9013,7 +8997,7 @@
   "stars": 1,
   "start": "2026-11-17T10:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Singapore National Stadium, Singapore"
  },
  "soccer-401916336": {
@@ -9046,7 +9030,7 @@
   "stars": 1,
   "start": "2026-11-17T13:10Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Singapore National Stadium, Singapore"
  },
  "soccer-401916337": {
@@ -9129,7 +9113,40 @@
   "stars": 1,
   "start": "2026-11-17T16:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z"
+  "updatedAt": "2026-11-14T23:02:28Z"
+ },
+ "soccer-401921304": {
+  "away": {
+   "abbr": "COL",
+   "name": "Colombia",
+   "short": "Colombia",
+   "teamId": "208"
+  },
+  "espnId": "401921304",
+  "espnLeague": "fifa.friendly",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "CHI",
+   "name": "Chile",
+   "short": "Chile",
+   "teamId": "207"
+  },
+  "id": "soccer-401921304",
+  "league": "International Friendly",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401921304",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "fifa.friendly",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-17T23:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-14T23:02:28Z",
+  "venue": "Estadio Nacional Julio Martínez Prádanos, Santiago"
  },
  "soccer-401921325": {
   "_lastPick": "Colombia ML (-235)",
@@ -9267,7 +9284,7 @@
   "stars": 1,
   "start": "2026-11-17T06:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Zhaoqing New District Sports Center Stadium, Zhaoqing"
  },
  "soccer-401930242": {
@@ -9300,7 +9317,7 @@
   "stars": 1,
   "start": "2026-11-17T12:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Thien Truong Stadium, Nam Dinh"
  },
  "soccer-401930243": {
@@ -9355,61 +9372,6 @@
   "state": "post",
   "updatedAt": "2026-11-14T07:18:43Z",
   "venue": "Thien Truong Stadium, Nam Dinh"
- },
- "soccer-401930876": {
-  "_lastPick": "Argentina ML (-185)",
-  "away": {
-   "abbr": "URU",
-   "form": "WWL",
-   "name": "Uruguay",
-   "short": "Uruguay",
-   "teamId": "212"
-  },
-  "confidence": 53,
-  "espnId": "401930876",
-  "espnLeague": "fifa.friendly",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "ARG",
-   "form": "WWWL",
-   "name": "Argentina",
-   "short": "Argentina",
-   "teamId": "202"
-  },
-  "id": "soccer-401930876",
-  "league": "International Friendly",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401930876",
-  "market": null,
-  "news": [
-   "Australia friendly with Jordan relocated due to player security concerns",
-   "Socceroos camp in 'good spirits' as call to play in Jordan looms",
-   "Football Australia boss flies to Amman for crisis talks over Jordan friendly"
-  ],
-  "odds": {
-   "mlAway": "+500",
-   "mlAwayOpen": "+500",
-   "mlDraw": "+310",
-   "mlHome": "-185",
-   "mlHomeOpen": "-195",
-   "provider": "DraftKings",
-   "spread": "ARG -185",
-   "spreadOpen": "ARG -0.5",
-   "total": "2.5",
-   "totalOpen": "2.5"
-  },
-  "pick": "Pass",
-  "reason": "Argentina about 58% no-vig at -160; no edge worth a pick.",
-  "risks": [
-   "line drifted away (-195 → -160)"
-  ],
-  "side": null,
-  "slug": "fifa.friendly",
-  "sport": "soccer",
-  "stars": 1,
-  "start": "2026-11-13T23:00Z",
-  "state": "in",
-  "updatedAt": "2026-11-13T20:16:40Z",
-  "venue": "Alberto José Armando (La Bombonera), Buenos Aires"
  },
  "soccer-401930878": {
   "away": {
@@ -9544,8 +9506,41 @@
   "stars": 1,
   "start": "2026-11-17T12:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Zhaoqing New District Sports Center Stadium, Zhaoqing"
+ },
+ "soccer-401930895": {
+  "away": {
+   "abbr": "CRC",
+   "name": "Costa Rica",
+   "short": "Costa Rica",
+   "teamId": "214"
+  },
+  "espnId": "401930895",
+  "espnLeague": "fifa.friendly",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "ARG",
+   "name": "Argentina",
+   "short": "Argentina",
+   "teamId": "202"
+  },
+  "id": "soccer-401930895",
+  "league": "International Friendly",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401930895",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "fifa.friendly",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-17T23:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-14T23:02:28Z",
+  "venue": "Mario Alberto Kempes, Córdoba"
  },
  "soccer-401930898": {
   "_lastPick": "Ecuador ML (-425)",
@@ -9632,7 +9627,7 @@
   "stars": 1,
   "start": "2026-11-17T16:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Krasnodar Stadium, Krasnodar"
  },
  "soccer-401931477": {
@@ -9665,7 +9660,7 @@
   "stars": 1,
   "start": "2026-11-17T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Abdullah bin Khalifa Stadium, Ar-Rayyan"
  },
  "soccer-401931495": {
@@ -9698,8 +9693,40 @@
   "stars": 1,
   "start": "2026-11-17T15:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Jassim Bin Hamad Stadium, Doha"
+ },
+ "soccer-401931956": {
+  "away": {
+   "abbr": "HON",
+   "name": "Honduras",
+   "short": "Honduras",
+   "teamId": "215"
+  },
+  "espnId": "401931956",
+  "espnLeague": "fifa.friendly",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "KUW",
+   "name": "Kuwait",
+   "short": "Kuwait",
+   "teamId": "841"
+  },
+  "id": "soccer-401931956",
+  "league": "International Friendly",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401931956",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "fifa.friendly",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-17T20:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-14T23:02:28Z"
  },
  "soccer-401932237": {
   "_lastPick": "Iran ML (-225)",
@@ -9787,7 +9814,7 @@
   "stars": 1,
   "start": "2026-11-17T14:10Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Hazza Bin Zayed Stadium, Al Ain"
  },
  "soccer-401933615": {
@@ -9820,7 +9847,7 @@
   "stars": 1,
   "start": "2026-11-17T16:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Basra International Stadium, Basra"
  },
  "soccer-401933635": {
@@ -9853,7 +9880,7 @@
   "stars": 1,
   "start": "2026-11-17T13:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Basra International Stadium, Basra"
  },
  "soccer-401933837": {
@@ -9886,7 +9913,7 @@
   "stars": 1,
   "start": "2026-11-15T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Stadion De Vliert, Den Bosch"
  },
  "soccer-401933864": {
@@ -9952,7 +9979,7 @@
   "stars": 1,
   "start": "2026-11-17T05:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-14T19:16:12Z",
+  "updatedAt": "2026-11-14T23:02:28Z",
   "venue": "Stade Louis Ganivet"
  }
 }

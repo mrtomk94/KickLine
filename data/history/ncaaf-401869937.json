@@ -1,0 +1,120 @@
+{
+ "id": "ncaaf-401869937",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T18:00Z",
+ "home": {
+  "name": "Coastal Carolina Chanticleers",
+  "abbr": "CCU",
+  "teamId": "324",
+  "score": 28.0
+ },
+ "away": {
+  "name": "Arkansas State Red Wolves",
+  "abbr": "ARST",
+  "teamId": "2032",
+  "score": 21.0
+ },
+ "odds": {
+  "mlAway": "-102",
+  "mlAwayOpen": "-102",
+  "mlHome": "-118",
+  "mlHomeOpen": "-118",
+  "provider": "Draft Kings",
+  "spread": "CCU -1.5",
+  "spreadOpen": "CCU -1.5",
+  "total": "52.5",
+  "totalOpen": "50.5"
+ },
+ "espnWinProb": {
+  "away": 47.7,
+  "home": 52.3
+ },
+ "teams": {
+  "away": {
+   "abbr": "ARST",
+   "stats": {
+    "firstDowns": "20",
+    "thirdDownEff": "7-16",
+    "fourthDownEff": "2-3",
+    "totalYards": "325",
+    "netPassingYards": "217",
+    "completionAttempts": "23/40",
+    "yardsPerPass": "5.4",
+    "rushingYards": "108",
+    "rushingAttempts": "31",
+    "yardsPerRushAttempt": "3.5",
+    "totalPenaltiesYards": "4-45",
+    "turnovers": "5",
+    "fumblesLost": "4",
+    "interceptions": "1",
+    "possessionTime": "28:46"
+   }
+  },
+  "home": {
+   "abbr": "CCU",
+   "stats": {
+    "firstDowns": "16",
+    "thirdDownEff": "4-12",
+    "fourthDownEff": "0-0",
+    "totalYards": "271",
+    "netPassingYards": "208",
+    "completionAttempts": "21/24",
+    "yardsPerPass": "8.7",
+    "rushingYards": "63",
+    "rushingAttempts": "33",
+    "yardsPerRushAttempt": "1.9",
+    "totalPenaltiesYards": "3-31",
+    "turnovers": "2",
+    "fumblesLost": "2",
+    "interceptions": "0",
+    "possessionTime": "31:07"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "5:49",
+   "team": "CCU",
+   "text": "D. Bailey pass to K. English for 7 yds, for a TD (N. Cavanillas Alti KICK)"
+  },
+  {
+   "period": 1,
+   "clock": "3:12",
+   "team": "ARST",
+   "text": "C. Cobb run for 17 yds, for a TD (C. Van Andel KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "6:30",
+   "team": "ARST",
+   "text": "Ti. Carter run for 3 yds, for a TD (C. Van Andel KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "1:57",
+   "team": "CCU",
+   "text": "D. Bailey run for 2 yds, for a TD (N. Cavanillas Alti KICK)"
+  },
+  {
+   "period": 3,
+   "clock": "2:49",
+   "team": "CCU",
+   "text": "T. Owens sacked  by I. Diawara for -8 yds, R. Jean fumbled,  returned for a TD (N. Cavanillas Alti KICK)"
+  },
+  {
+   "period": 4,
+   "clock": "6:12",
+   "team": "CCU",
+   "text": "K. Edwards run for 11 yds, for a TD (N. Cavanillas Alti KICK)"
+  },
+  {
+   "period": 4,
+   "clock": "2:02",
+   "team": "ARST",
+   "text": "T. Owens run for 2 yds, for a TD (C. Van Andel KICK)"
+  }
+ ]
+}

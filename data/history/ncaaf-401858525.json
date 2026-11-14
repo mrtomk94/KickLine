@@ -1,0 +1,108 @@
+{
+ "id": "ncaaf-401858525",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T17:30Z",
+ "home": {
+  "name": "Rutgers Scarlet Knights",
+  "abbr": "RUTG",
+  "teamId": "164",
+  "score": 0.0
+ },
+ "away": {
+  "name": "Nebraska Cornhuskers",
+  "abbr": "NEB",
+  "teamId": "158",
+  "score": 31.0
+ },
+ "odds": {
+  "mlAway": "-675",
+  "mlAwayOpen": "-535",
+  "mlHome": "+490",
+  "mlHomeOpen": "+400",
+  "provider": "Draft Kings",
+  "spread": "NEB -14.5",
+  "spreadOpen": "NEB -12.5",
+  "total": "51.5",
+  "totalOpen": "54.5"
+ },
+ "espnWinProb": {
+  "away": 87.2,
+  "home": 12.8
+ },
+ "teams": {
+  "away": {
+   "abbr": "NEB",
+   "stats": {
+    "firstDowns": "26",
+    "thirdDownEff": "3-10",
+    "fourthDownEff": "1-3",
+    "totalYards": "429",
+    "netPassingYards": "192",
+    "completionAttempts": "16/25",
+    "yardsPerPass": "7.7",
+    "rushingYards": "237",
+    "rushingAttempts": "43",
+    "yardsPerRushAttempt": "5.5",
+    "totalPenaltiesYards": "6-50",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "33:09"
+   }
+  },
+  "home": {
+   "abbr": "RUTG",
+   "stats": {
+    "firstDowns": "10",
+    "thirdDownEff": "1-11",
+    "fourthDownEff": "1-3",
+    "totalYards": "143",
+    "netPassingYards": "42",
+    "completionAttempts": "7/16",
+    "yardsPerPass": "2.6",
+    "rushingYards": "101",
+    "rushingAttempts": "33",
+    "yardsPerRushAttempt": "3.1",
+    "totalPenaltiesYards": "5-40",
+    "turnovers": "2",
+    "fumblesLost": "0",
+    "interceptions": "2",
+    "possessionTime": "26:51"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "0:20",
+   "team": "NEB",
+   "text": "Luke Lindenmeyer 15 Yd pass from Anthony Colandrea (John Hohl Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:55",
+   "team": "NEB",
+   "text": "Anthony Colandrea 6 Yd Run (John Hohl Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "8:37",
+   "team": "NEB",
+   "text": "Mekhi Nelson 11 Yd Run (John Hohl Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "14:30",
+   "team": "NEB",
+   "text": "Carter Nelson 13 Yd pass from Anthony Colandrea (John Hohl Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "9:45",
+   "team": "NEB",
+   "text": "John Hohl 41 Yd Field Goal  "
+  }
+ ]
+}

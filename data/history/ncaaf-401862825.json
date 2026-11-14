@@ -1,0 +1,120 @@
+{
+ "id": "ncaaf-401862825",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T18:00Z",
+ "home": {
+  "name": "Charlotte 49ers",
+  "abbr": "CLT",
+  "teamId": "2429",
+  "score": 16.0
+ },
+ "away": {
+  "name": "East Carolina Pirates",
+  "abbr": "ECU",
+  "teamId": "151",
+  "score": 17.0
+ },
+ "odds": {
+  "mlAway": "-455",
+  "mlAwayOpen": "-600",
+  "mlHome": "+350",
+  "mlHomeOpen": "+440",
+  "provider": "Draft Kings",
+  "spread": "ECU -10.5",
+  "spreadOpen": "ECU -13.5",
+  "total": "45.5",
+  "totalOpen": "47.5"
+ },
+ "espnWinProb": {
+  "away": 87.8,
+  "home": 12.2
+ },
+ "teams": {
+  "away": {
+   "abbr": "ECU",
+   "stats": {
+    "firstDowns": "20",
+    "thirdDownEff": "8-18",
+    "fourthDownEff": "0-2",
+    "totalYards": "307",
+    "netPassingYards": "143",
+    "completionAttempts": "18/34",
+    "yardsPerPass": "4.2",
+    "rushingYards": "164",
+    "rushingAttempts": "48",
+    "yardsPerRushAttempt": "3.4",
+    "totalPenaltiesYards": "10-74",
+    "turnovers": "4",
+    "fumblesLost": "2",
+    "interceptions": "2",
+    "possessionTime": "33:07"
+   }
+  },
+  "home": {
+   "abbr": "CLT",
+   "stats": {
+    "firstDowns": "13",
+    "thirdDownEff": "3-14",
+    "fourthDownEff": "1-3",
+    "totalYards": "200",
+    "netPassingYards": "161",
+    "completionAttempts": "15/30",
+    "yardsPerPass": "5.4",
+    "rushingYards": "39",
+    "rushingAttempts": "29",
+    "yardsPerRushAttempt": "1.3",
+    "totalPenaltiesYards": "8-74",
+    "turnovers": "2",
+    "fumblesLost": "0",
+    "interceptions": "2",
+    "possessionTime": "26:53"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "3:18",
+   "team": "CLT",
+   "text": "Aiden Bui 50 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "14:53",
+   "team": "ECU",
+   "text": "Ashton Gray 7 Yd Run (Noah Perez Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "11:04",
+   "team": "CLT",
+   "text": "Jaden Barnes 11 Yd pass from Conner Harrell (Aiden Bui Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:09",
+   "team": "CLT",
+   "text": "Aiden Bui 27 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "0:00",
+   "team": "CLT",
+   "text": "Aiden Bui 37 Yd Field Goal "
+  },
+  {
+   "period": 3,
+   "clock": "8:51",
+   "team": "ECU",
+   "text": "Ashton Gray 1 Yd Run (Noah Perez Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "8:42",
+   "team": "ECU",
+   "text": "Noah Perez 43 Yd Field Goal  "
+  }
+ ]
+}

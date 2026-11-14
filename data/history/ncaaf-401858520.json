@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401858520",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T17:00Z",
+ "home": {
+  "name": "Maryland Terrapins",
+  "abbr": "MD",
+  "teamId": "120",
+  "score": 24.0
+ },
+ "away": {
+  "name": "Wisconsin Badgers",
+  "abbr": "WIS",
+  "teamId": "275",
+  "score": 21.0
+ },
+ "odds": {
+  "mlAway": "-325",
+  "mlAwayOpen": "-270",
+  "mlHome": "+260",
+  "mlHomeOpen": "+220",
+  "provider": "Draft Kings",
+  "spread": "WIS -8.5",
+  "spreadOpen": "WIS -7.5",
+  "total": "41.5",
+  "totalOpen": "43.5"
+ },
+ "espnWinProb": {
+  "away": 77.6,
+  "home": 22.4
+ },
+ "teams": {
+  "away": {
+   "abbr": "WIS",
+   "stats": {
+    "firstDowns": "15",
+    "thirdDownEff": "2-12",
+    "fourthDownEff": "1-2",
+    "totalYards": "201",
+    "netPassingYards": "99",
+    "completionAttempts": "13/25",
+    "yardsPerPass": "4.0",
+    "rushingYards": "102",
+    "rushingAttempts": "31",
+    "yardsPerRushAttempt": "3.3",
+    "totalPenaltiesYards": "3-24",
+    "turnovers": "3",
+    "fumblesLost": "3",
+    "interceptions": "0",
+    "possessionTime": "26:20"
+   }
+  },
+  "home": {
+   "abbr": "MD",
+   "stats": {
+    "firstDowns": "15",
+    "thirdDownEff": "2-13",
+    "fourthDownEff": "2-2",
+    "totalYards": "290",
+    "netPassingYards": "183",
+    "completionAttempts": "21/23",
+    "yardsPerPass": "8.0",
+    "rushingYards": "107",
+    "rushingAttempts": "39",
+    "yardsPerRushAttempt": "2.7",
+    "totalPenaltiesYards": "11-111",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "33:40"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "11:01",
+   "team": "WIS",
+   "text": "Darrion Dupree 4 Yd Run (Gavin Lahm Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "8:08",
+   "team": "WIS",
+   "text": "Gavin Lahm 37 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "3:16",
+   "team": "MD",
+   "text": "Cardell Williams 1 Yd Run (Sean O'Haire Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "8:24",
+   "team": "MD",
+   "text": "Cardell Williams 3 Yd Run (Sean O'Haire Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "4:23",
+   "team": "WIS",
+   "text": "Gavin Lahm 42 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "14:04",
+   "team": "WIS",
+   "text": "Darrion Dupree 1 Yd Run (Ryan Hopkins Pass to Eugene Hilton Jr. for Two-Point Conversion)"
+  },
+  {
+   "period": 4,
+   "clock": "2:11",
+   "team": "MD",
+   "text": "Preston Howard 39 Yd pass from Cardell Williams (Sean O'Haire Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "0:29",
+   "team": "MD",
+   "text": "Sean O'Haire 30 Yd Field Goal  "
+  }
+ ]
+}

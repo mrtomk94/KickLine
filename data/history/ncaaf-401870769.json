@@ -1,0 +1,114 @@
+{
+ "id": "ncaaf-401870769",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T19:00Z",
+ "home": {
+  "name": "Sam Houston Bearkats",
+  "abbr": "SHSU",
+  "teamId": "2534",
+  "score": 7.0
+ },
+ "away": {
+  "name": "Kennesaw State Owls",
+  "abbr": "KENN",
+  "teamId": "338",
+  "score": 26.0
+ },
+ "odds": {
+  "mlAway": "-278",
+  "mlAwayOpen": "-305",
+  "mlHome": "+225",
+  "mlHomeOpen": "+245",
+  "provider": "Draft Kings",
+  "spread": "KENN -7",
+  "spreadOpen": "KENN -7.5",
+  "total": "45.5",
+  "totalOpen": "44.5"
+ },
+ "espnWinProb": {
+  "away": 68.6,
+  "home": 31.4
+ },
+ "teams": {
+  "away": {
+   "abbr": "KENN",
+   "stats": {
+    "firstDowns": "23",
+    "thirdDownEff": "4-13",
+    "fourthDownEff": "0-0",
+    "totalYards": "271",
+    "netPassingYards": "181",
+    "completionAttempts": "22/35",
+    "yardsPerPass": "5.2",
+    "rushingYards": "90",
+    "rushingAttempts": "33",
+    "yardsPerRushAttempt": "2.7",
+    "totalPenaltiesYards": "8-80",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "29:09"
+   }
+  },
+  "home": {
+   "abbr": "SHSU",
+   "stats": {
+    "firstDowns": "13",
+    "thirdDownEff": "5-16",
+    "fourthDownEff": "1-2",
+    "totalYards": "184",
+    "netPassingYards": "89",
+    "completionAttempts": "12/24",
+    "yardsPerPass": "3.7",
+    "rushingYards": "95",
+    "rushingAttempts": "39",
+    "yardsPerRushAttempt": "2.4",
+    "totalPenaltiesYards": "9-90",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "30:51"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "10:30",
+   "team": "KENN",
+   "text": "D. Kinney 47 yd FG GOOD"
+  },
+  {
+   "period": 1,
+   "clock": "5:28",
+   "team": "KENN",
+   "text": "L. Varnes pass to B. Woods III for 19 yds, for a TD (D. Kinney KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "13:41",
+   "team": "SHSU",
+   "text": "L. Locke pass to C. Reed for 10 yds, for a TD (S. Carpenter KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "10:33",
+   "team": "KENN",
+   "text": "B. Munroe run for 6 yds, for a TD (D. Kinney KICK)"
+  },
+  {
+   "period": 3,
+   "clock": "9:43",
+   "team": "KENN",
+   "text": "D. Kinney 33 yd FG GOOD"
+  },
+  {
+   "period": 3,
+   "clock": "1:24",
+   "team": "KENN",
+   "text": "DJ Bailey pass intercepted, C. Miller return  for 88 yds, for a TD (Two-Point Conversion failed)"
+  }
+ ]
+}

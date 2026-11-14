@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401858522",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T17:00Z",
+ "home": {
+  "name": "#20 Ohio State",
+  "abbr": "OSU",
+  "teamId": "194",
+  "score": 28.0
+ },
+ "away": {
+  "name": "Northwestern Wildcats",
+  "abbr": "NU",
+  "teamId": "77",
+  "score": 19.0
+ },
+ "odds": {
+  "mlAway": "+410",
+  "mlAwayOpen": "+295",
+  "mlHome": "-550",
+  "mlHomeOpen": "-375",
+  "provider": "Draft Kings",
+  "spread": "OSU -14",
+  "spreadOpen": "OSU -9.5",
+  "total": "45.5",
+  "totalOpen": "48.5"
+ },
+ "espnWinProb": {
+  "away": 15.0,
+  "home": 85.0
+ },
+ "teams": {
+  "away": {
+   "abbr": "NU",
+   "stats": {
+    "firstDowns": "15",
+    "thirdDownEff": "6-15",
+    "fourthDownEff": "1-2",
+    "totalYards": "278",
+    "netPassingYards": "225",
+    "completionAttempts": "18/31",
+    "yardsPerPass": "7.3",
+    "rushingYards": "53",
+    "rushingAttempts": "29",
+    "yardsPerRushAttempt": "1.8",
+    "totalPenaltiesYards": "5-40",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "27:09"
+   }
+  },
+  "home": {
+   "abbr": "OSU",
+   "stats": {
+    "firstDowns": "24",
+    "thirdDownEff": "6-12",
+    "fourthDownEff": "1-1",
+    "totalYards": "369",
+    "netPassingYards": "201",
+    "completionAttempts": "21/32",
+    "yardsPerPass": "6.3",
+    "rushingYards": "168",
+    "rushingAttempts": "35",
+    "yardsPerRushAttempt": "4.8",
+    "totalPenaltiesYards": "5-60",
+    "turnovers": "3",
+    "fumblesLost": "2",
+    "interceptions": "1",
+    "possessionTime": "32:51"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "4:53",
+   "team": "NU",
+   "text": "Jackson Kleather 44 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "14:15",
+   "team": "OSU",
+   "text": "Isaiah West 4 Yd pass from Luke Fahey (Connor Hawkins Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "9:20",
+   "team": "NU",
+   "text": "Jackson Kleather 46 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "2:51",
+   "team": "OSU",
+   "text": "Bo Jackson 2 Yd Run (Connor Hawkins Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "10:01",
+   "team": "NU",
+   "text": "Nicco Marchiol 2 Yd Run (Jackson Kleather Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "2:52",
+   "team": "OSU",
+   "text": "Devin McCuin 8 Yd pass from Luke Fahey (Connor Hawkins Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "6:33",
+   "team": "OSU",
+   "text": "Jeremiah Smith 10 Yd pass from Luke Fahey (Connor Hawkins Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "0:00",
+   "team": "NU",
+   "text": "Luke Dehnicke 17 Yd pass from Nicco Marchiol  "
+  }
+ ]
+}

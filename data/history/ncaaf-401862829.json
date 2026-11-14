@@ -1,0 +1,132 @@
+{
+ "id": "ncaaf-401862829",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T18:00Z",
+ "home": {
+  "name": "Temple Owls",
+  "abbr": "TEM",
+  "teamId": "218",
+  "score": 10.0
+ },
+ "away": {
+  "name": "UAB Blazers",
+  "abbr": "UAB",
+  "teamId": "5",
+  "score": 36.0
+ },
+ "odds": {
+  "mlAway": "+114",
+  "mlAwayOpen": "+105",
+  "mlHome": "-135",
+  "mlHomeOpen": "-125",
+  "provider": "Draft Kings",
+  "spread": "TEM -2.5",
+  "spreadOpen": "TEM -2.5",
+  "total": "47.5",
+  "totalOpen": "51.5"
+ },
+ "espnWinProb": {
+  "away": 31.9,
+  "home": 68.0
+ },
+ "teams": {
+  "away": {
+   "abbr": "UAB",
+   "stats": {
+    "firstDowns": "24",
+    "thirdDownEff": "6-13",
+    "fourthDownEff": "0-0",
+    "totalYards": "499",
+    "netPassingYards": "133",
+    "completionAttempts": "11/19",
+    "yardsPerPass": "7.0",
+    "rushingYards": "366",
+    "rushingAttempts": "55",
+    "yardsPerRushAttempt": "6.7",
+    "totalPenaltiesYards": "7-51",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "37:14"
+   }
+  },
+  "home": {
+   "abbr": "TEM",
+   "stats": {
+    "firstDowns": "14",
+    "thirdDownEff": "2-12",
+    "fourthDownEff": "0-2",
+    "totalYards": "244",
+    "netPassingYards": "85",
+    "completionAttempts": "11/30",
+    "yardsPerPass": "2.8",
+    "rushingYards": "159",
+    "rushingAttempts": "30",
+    "yardsPerRushAttempt": "5.3",
+    "totalPenaltiesYards": "3-12",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "22:46"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "4:25",
+   "team": "TEM",
+   "text": "A. Sheppard pass to J. Bermudez for 12 yds, for a TD (C. Hardin KICK)"
+  },
+  {
+   "period": 1,
+   "clock": "2:54",
+   "team": "UAB",
+   "text": "Ro. Robinson II run for 9 yds, for a TD (J. Delange KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "10:33",
+   "team": "UAB",
+   "text": "J. Delange 50 yd FG GOOD"
+  },
+  {
+   "period": 2,
+   "clock": "6:11",
+   "team": "TEM",
+   "text": "C. Hardin 44 yd FG GOOD"
+  },
+  {
+   "period": 2,
+   "clock": "1:44",
+   "team": "UAB",
+   "text": "J. Delange 30 yd FG GOOD"
+  },
+  {
+   "period": 3,
+   "clock": "7:09",
+   "team": "UAB",
+   "text": "Ro. Robinson II run for 33 yds, for a TD (J. Delange KICK)"
+  },
+  {
+   "period": 4,
+   "clock": "10:56",
+   "team": "UAB",
+   "text": "A. Sheppard sacked  by M. Dean for 0 yds for a SAFETY"
+  },
+  {
+   "period": 4,
+   "clock": "8:20",
+   "team": "UAB",
+   "text": "Ro. Robinson II run for 54 yds, for a TD (J. Delange KICK)"
+  },
+  {
+   "period": 4,
+   "clock": "2:47",
+   "team": "UAB",
+   "text": "N. Rogers run for 5 yds, for a TD (J. Delange KICK)"
+  }
+ ]
+}

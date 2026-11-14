@@ -1,0 +1,144 @@
+{
+ "id": "ncaaf-401858296",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T17:00Z",
+ "home": {
+  "name": "#7 Miami",
+  "abbr": "MIA",
+  "teamId": "2390",
+  "score": 36.0
+ },
+ "away": {
+  "name": "Duke Blue Devils",
+  "abbr": "DUKE",
+  "teamId": "150",
+  "score": 25.0
+ },
+ "odds": {
+  "mlAway": "+440",
+  "mlAwayOpen": "+950",
+  "mlHome": "-600",
+  "mlHomeOpen": "-1650",
+  "provider": "Draft Kings",
+  "spread": "MIA -14",
+  "spreadOpen": "MIA -20.5",
+  "total": "54.5",
+  "totalOpen": "55.5"
+ },
+ "espnWinProb": {
+  "away": 12.1,
+  "home": 87.9
+ },
+ "teams": {
+  "away": {
+   "abbr": "DUKE",
+   "stats": {
+    "firstDowns": "19",
+    "thirdDownEff": "5-12",
+    "fourthDownEff": "2-2",
+    "totalYards": "341",
+    "netPassingYards": "211",
+    "completionAttempts": "28/44",
+    "yardsPerPass": "4.8",
+    "rushingYards": "130",
+    "rushingAttempts": "17",
+    "yardsPerRushAttempt": "7.6",
+    "totalPenaltiesYards": "4-18",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "25:47"
+   }
+  },
+  "home": {
+   "abbr": "MIA",
+   "stats": {
+    "firstDowns": "26",
+    "thirdDownEff": "6-12",
+    "fourthDownEff": "1-1",
+    "totalYards": "532",
+    "netPassingYards": "382",
+    "completionAttempts": "30/41",
+    "yardsPerPass": "9.3",
+    "rushingYards": "150",
+    "rushingAttempts": "32",
+    "yardsPerRushAttempt": "4.7",
+    "totalPenaltiesYards": "10-67",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "34:13"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 2,
+   "clock": "14:43",
+   "team": "MIA",
+   "text": "Jake Weinberg 39 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "9:27",
+   "team": "DUKE",
+   "text": "Gavin Strange 37 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "5:47",
+   "team": "MIA",
+   "text": "Mark Fletcher Jr. 4 Yd Run (Jake Weinberg Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "3:17",
+   "team": "DUKE",
+   "text": "Nate Sheppard 47 Yd Run (Gavin Strange Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:37",
+   "team": "MIA",
+   "text": "Jake Weinberg 26 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "9:48",
+   "team": "MIA",
+   "text": "Jake Weinberg 24 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "2:43",
+   "team": "MIA",
+   "text": "Javian Mallory 63 Yd pass from Darian Mensah (Two-Point Run Conversion Failed)"
+  },
+  {
+   "period": 3,
+   "clock": "0:41",
+   "team": "DUKE",
+   "text": "Nate Sheppard 5 Yd Run (Gavin Strange Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "8:06",
+   "team": "MIA",
+   "text": "Javian Mallory 2 Yd Run (Jake Weinberg Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "4:21",
+   "team": "MIA",
+   "text": "Javian Mallory 39 Yd Run (Jake Weinberg Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "0:21",
+   "team": "DUKE",
+   "text": "Jeremiah Hasley 1 Yd pass from Walker Eget (Walker Eget Pass to Nate Sheppard for Two-Point Conversion)"
+  }
+ ]
+}

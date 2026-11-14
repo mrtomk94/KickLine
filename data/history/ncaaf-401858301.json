@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401858301",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T17:00Z",
+ "home": {
+  "name": "SMU Mustangs",
+  "abbr": "SMU",
+  "teamId": "2567",
+  "score": 7.0
+ },
+ "away": {
+  "name": "#13 Wake Forest",
+  "abbr": "WAKE",
+  "teamId": "154",
+  "score": 49.0
+ },
+ "odds": {
+  "mlAway": "-102",
+  "mlAwayOpen": "-162",
+  "mlHome": "-118",
+  "mlHomeOpen": "+136",
+  "provider": "Draft Kings",
+  "spread": "SMU -1.5",
+  "spreadOpen": "WAKE -3.5",
+  "total": "60.5",
+  "totalOpen": "55.5"
+ },
+ "espnWinProb": {
+  "away": 59.0,
+  "home": 41.0
+ },
+ "teams": {
+  "away": {
+   "abbr": "WAKE",
+   "stats": {
+    "firstDowns": "23",
+    "thirdDownEff": "10-15",
+    "fourthDownEff": "2-3",
+    "totalYards": "535",
+    "netPassingYards": "249",
+    "completionAttempts": "18/30",
+    "yardsPerPass": "8.3",
+    "rushingYards": "286",
+    "rushingAttempts": "45",
+    "yardsPerRushAttempt": "6.4",
+    "totalPenaltiesYards": "6-47",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "36:59"
+   }
+  },
+  "home": {
+   "abbr": "SMU",
+   "stats": {
+    "firstDowns": "14",
+    "thirdDownEff": "3-14",
+    "fourthDownEff": "3-5",
+    "totalYards": "275",
+    "netPassingYards": "209",
+    "completionAttempts": "22/35",
+    "yardsPerPass": "6.0",
+    "rushingYards": "66",
+    "rushingAttempts": "27",
+    "yardsPerRushAttempt": "2.4",
+    "totalPenaltiesYards": "5-41",
+    "turnovers": "3",
+    "fumblesLost": "2",
+    "interceptions": "1",
+    "possessionTime": "23:01"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "11:04",
+   "team": "WAKE",
+   "text": "Ty Clark III 27 Yd Run (Connor Calvert Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "3:26",
+   "team": "WAKE",
+   "text": "Jamar Searcy 6 Yd Run (Connor Calvert Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "12:14",
+   "team": "WAKE",
+   "text": "Carlos Hernandez 44 Yd pass from Gio Lopez (Connor Calvert Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "9:42",
+   "team": "WAKE",
+   "text": "Gio Lopez 5 Yd Run (Connor Calvert Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "4:31",
+   "team": "WAKE",
+   "text": "Deuce Lawrence 1 Yd Run (Connor Calvert Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "2:02",
+   "team": "WAKE",
+   "text": "Gio Lopez 5 Yd Run (Connor Calvert Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "3:55",
+   "team": "SMU",
+   "text": "Yannick Smith 19 Yd pass from Kevin Jennings (Brendan Baird Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "13:28",
+   "team": "WAKE",
+   "text": "Steele Pizzella 25 Yd Run (Connor Calvert Kick)"
+  }
+ ]
+}

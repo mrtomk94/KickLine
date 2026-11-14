@@ -1,0 +1,150 @@
+{
+ "id": "ncaaf-401861967",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T17:00Z",
+ "home": {
+  "name": "UConn Huskies",
+  "abbr": "CONN",
+  "teamId": "41",
+  "score": 46.0
+ },
+ "away": {
+  "name": "James Madison Dukes",
+  "abbr": "JMU",
+  "teamId": "256",
+  "score": 22.0
+ },
+ "odds": {
+  "mlAway": "-205",
+  "mlAwayOpen": "-118",
+  "mlHome": "+170",
+  "mlHomeOpen": "-102",
+  "provider": "Draft Kings",
+  "spread": "JMU -4.5",
+  "spreadOpen": "JMU -1.5",
+  "total": "57.5",
+  "totalOpen": "56.5"
+ },
+ "espnWinProb": {
+  "away": 75.4,
+  "home": 24.6
+ },
+ "teams": {
+  "away": {
+   "abbr": "JMU",
+   "stats": {
+    "firstDowns": "21",
+    "thirdDownEff": "7-15",
+    "fourthDownEff": "1-2",
+    "totalYards": "331",
+    "netPassingYards": "236",
+    "completionAttempts": "27/42",
+    "yardsPerPass": "5.6",
+    "rushingYards": "95",
+    "rushingAttempts": "27",
+    "yardsPerRushAttempt": "3.5",
+    "totalPenaltiesYards": "13-130",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "28:07"
+   }
+  },
+  "home": {
+   "abbr": "CONN",
+   "stats": {
+    "firstDowns": "27",
+    "thirdDownEff": "7-12",
+    "fourthDownEff": "1-1",
+    "totalYards": "504",
+    "netPassingYards": "274",
+    "completionAttempts": "16/20",
+    "yardsPerPass": "13.7",
+    "rushingYards": "230",
+    "rushingAttempts": "48",
+    "yardsPerRushAttempt": "4.8",
+    "totalPenaltiesYards": "7-75",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "31:53"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "9:21",
+   "team": "CONN",
+   "text": "Jack O'Connor 28 Yd Field Goal  "
+  },
+  {
+   "period": 1,
+   "clock": "2:24",
+   "team": "JMU",
+   "text": "JC Evans 1 Yd Run (Two-Point Run Conversion Failed)"
+  },
+  {
+   "period": 1,
+   "clock": "2:09",
+   "team": "CONN",
+   "text": "Ky Wilson 100 Yd Kickoff Return (Jack O'Connor Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "2:02",
+   "team": "JMU",
+   "text": "Braeden Wisloski 16 Yd pass from JC Evans (Morgan Suarez Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:30",
+   "team": "CONN",
+   "text": "Shamar Porter 67 Yd pass from Kalieb Osborne (Mike Baker Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:00",
+   "team": "CONN",
+   "text": "Mike Baker 21 Yd Field Goal "
+  },
+  {
+   "period": 3,
+   "clock": "0:55",
+   "team": "CONN",
+   "text": "Cyncir Bowers 9 Yd Run (Two-Point Run Conversion Failed)"
+  },
+  {
+   "period": 4,
+   "clock": "13:12",
+   "team": "JMU",
+   "text": "Morgan Suarez 36 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "10:42",
+   "team": "CONN",
+   "text": "JD Willoughby 35 Yd pass from Kalieb Osborne (Mike Baker Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "5:44",
+   "team": "CONN",
+   "text": "Cyncir Bowers 2 Yd pass from Kalieb Osborne (Mike Baker PAT failed)"
+  },
+  {
+   "period": 4,
+   "clock": "3:53",
+   "team": "JMU",
+   "text": "JC Evans 3 Yd Run (Two-Point Pass Conversion Failed)"
+  },
+  {
+   "period": 4,
+   "clock": "2:39",
+   "team": "CONN",
+   "text": "Cyncir Bowers 17 Yd Run (Mike Baker Kick)"
+  }
+ ]
+}

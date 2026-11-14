@@ -1,0 +1,108 @@
+{
+ "id": "ncaaf-401856889",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T17:45Z",
+ "home": {
+  "name": "Vanderbilt Commodores",
+  "abbr": "VAN",
+  "teamId": "238",
+  "score": 6.0
+ },
+ "away": {
+  "name": "#3 Alabama",
+  "abbr": "ALA",
+  "teamId": "333",
+  "score": 21.0
+ },
+ "odds": {
+  "mlAway": "-675",
+  "mlAwayOpen": "-1350",
+  "mlHome": "+490",
+  "mlHomeOpen": "+800",
+  "provider": "Draft Kings",
+  "spread": "ALA -14",
+  "spreadOpen": "ALA -19.5",
+  "total": "47.5",
+  "totalOpen": "54.5"
+ },
+ "espnWinProb": {
+  "away": 94.7,
+  "home": 5.3
+ },
+ "teams": {
+  "away": {
+   "abbr": "ALA",
+   "stats": {
+    "firstDowns": "19",
+    "thirdDownEff": "6-15",
+    "fourthDownEff": "0-1",
+    "totalYards": "309",
+    "netPassingYards": "217",
+    "completionAttempts": "22/33",
+    "yardsPerPass": "6.6",
+    "rushingYards": "92",
+    "rushingAttempts": "35",
+    "yardsPerRushAttempt": "2.6",
+    "totalPenaltiesYards": "4-25",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "interceptions": "1",
+    "possessionTime": "32:11"
+   }
+  },
+  "home": {
+   "abbr": "VAN",
+   "stats": {
+    "firstDowns": "10",
+    "thirdDownEff": "2-15",
+    "fourthDownEff": "1-4",
+    "totalYards": "235",
+    "netPassingYards": "223",
+    "completionAttempts": "25/40",
+    "yardsPerPass": "5.6",
+    "rushingYards": "12",
+    "rushingAttempts": "23",
+    "yardsPerRushAttempt": "0.5",
+    "totalPenaltiesYards": "14-92",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "27:49"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 2,
+   "clock": "4:13",
+   "team": "VAN",
+   "text": "Brock Taylor 52 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "0:06",
+   "team": "ALA",
+   "text": "Marshall Pritchett 9 Yd pass from Keelon Russell (Conor Talty Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "12:18",
+   "team": "ALA",
+   "text": "Lotzeir Brooks 39 Yd pass from Keelon Russell (Conor Talty Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "8:30",
+   "team": "VAN",
+   "text": "Brock Taylor 57 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "7:13",
+   "team": "ALA",
+   "text": "Lotzeir Brooks 9 Yd pass from Keelon Russell (Conor Talty Kick)"
+  }
+ ]
+}

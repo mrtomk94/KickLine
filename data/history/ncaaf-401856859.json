@@ -1,0 +1,132 @@
+{
+ "id": "ncaaf-401856859",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T17:00Z",
+ "home": {
+  "name": "Iowa State Cyclones",
+  "abbr": "ISU",
+  "teamId": "66",
+  "score": 41.0
+ },
+ "away": {
+  "name": "Cincinnati Bearcats",
+  "abbr": "CIN",
+  "teamId": "2132",
+  "score": 13.0
+ },
+ "odds": {
+  "mlAway": "+124",
+  "mlAwayOpen": "-105",
+  "mlHome": "-148",
+  "mlHomeOpen": "-115",
+  "provider": "Draft Kings",
+  "spread": "ISU -3",
+  "spreadOpen": "ISU -1.5",
+  "total": "58.5",
+  "totalOpen": "60.5"
+ },
+ "espnWinProb": {
+  "away": 48.4,
+  "home": 51.6
+ },
+ "teams": {
+  "away": {
+   "abbr": "CIN",
+   "stats": {
+    "firstDowns": "19",
+    "thirdDownEff": "2-10",
+    "fourthDownEff": "1-5",
+    "totalYards": "401",
+    "netPassingYards": "128",
+    "completionAttempts": "17/26",
+    "yardsPerPass": "4.9",
+    "rushingYards": "273",
+    "rushingAttempts": "42",
+    "yardsPerRushAttempt": "6.5",
+    "totalPenaltiesYards": "6-70",
+    "turnovers": "2",
+    "fumblesLost": "2",
+    "interceptions": "0",
+    "possessionTime": "27:38"
+   }
+  },
+  "home": {
+   "abbr": "ISU",
+   "stats": {
+    "firstDowns": "26",
+    "thirdDownEff": "4-13",
+    "fourthDownEff": "3-3",
+    "totalYards": "551",
+    "netPassingYards": "266",
+    "completionAttempts": "15/24",
+    "yardsPerPass": "11.1",
+    "rushingYards": "285",
+    "rushingAttempts": "45",
+    "yardsPerRushAttempt": "6.3",
+    "totalPenaltiesYards": "2-10",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "32:22"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "13:31",
+   "team": "CIN",
+   "text": "Lyviel Waters 4 Yd pass from JC French IV (Stephen Rusnak Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "9:22",
+   "team": "ISU",
+   "text": "Aiden Flora 11 Yd Run (Kyle Konrardy Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "7:47",
+   "team": "ISU",
+   "text": "Aiden Flora 77 Yd Run (Kyle Konrardy Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "2:34",
+   "team": "ISU",
+   "text": "Aiden Flora 5 Yd Run (Kyle Konrardy Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "14:49",
+   "team": "ISU",
+   "text": "Cameron Pettaway 70 Yd pass from Jaylen Raynor (Kyle Konrardy Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "7:04",
+   "team": "ISU",
+   "text": "Kyle Konrardy 22 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "2:13",
+   "team": "CIN",
+   "text": "JC French IV 12 Yd pass from Malachi Henry (Stephen Rusnak PAT failed)"
+  },
+  {
+   "period": 4,
+   "clock": "5:03",
+   "team": "ISU",
+   "text": "Kyle Konrardy 24 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "1:40",
+   "team": "ISU",
+   "text": "Arnold Barnes III 32 Yd Run (Kyle Konrardy Kick)"
+  }
+ ]
+}

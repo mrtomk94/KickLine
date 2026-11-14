@@ -1,0 +1,288 @@
+{
+ "id": "soccer-401861166",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-14T19:45Z",
+ "home": {
+  "name": "Sweden",
+  "abbr": "SWE",
+  "teamId": "466",
+  "score": 3.0
+ },
+ "away": {
+  "name": "Bosnia-Herzegovina",
+  "abbr": "BIH",
+  "teamId": "452",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "+550",
+  "mlAwayOpen": "+450",
+  "mlDraw": "+340",
+  "mlHome": "-230",
+  "mlHomeOpen": "-205",
+  "provider": "DraftKings",
+  "spread": "SWE -230",
+  "spreadOpen": "SWE -1.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "SWE",
+   "stats": {
+    "foulsCommitted": "10",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "3",
+    "saves": "5",
+    "possessionPct": "42.2",
+    "totalShots": "13",
+    "shotsOnTarget": "7",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "2",
+    "accuratePasses": "302",
+    "totalPasses": "362",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "8",
+    "crossPct": "0.4",
+    "totalLongBalls": "46",
+    "accurateLongBalls": "20",
+    "longballPct": "0.4",
+    "blockedShots": "2",
+    "effectiveTackles": "10",
+    "totalTackles": "16",
+    "tacklePct": "0.6",
+    "interceptions": "12",
+    "effectiveClearance": "24",
+    "totalClearance": "24"
+   }
+  },
+  "away": {
+   "abbr": "BIH",
+   "stats": {
+    "foulsCommitted": "10",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "7",
+    "saves": "4",
+    "possessionPct": "57.8",
+    "totalShots": "16",
+    "shotsOnTarget": "7",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "417",
+    "totalPasses": "482",
+    "passPct": "0.9",
+    "accurateCrosses": "9",
+    "totalCrosses": "24",
+    "crossPct": "0.4",
+    "totalLongBalls": "56",
+    "accurateLongBalls": "30",
+    "longballPct": "0.5",
+    "blockedShots": "3",
+    "effectiveTackles": "6",
+    "totalTackles": "9",
+    "tacklePct": "0.7",
+    "interceptions": "4",
+    "effectiveClearance": "17",
+    "totalClearance": "17"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "5'",
+   "team": null,
+   "text": "Goal! Sweden 1, Bosnia and Herzegovina 0. Daniel Svensson (Sweden) header from the centre of the box to the bottom left corner. Assisted by Anthony Elanga with a cross."
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "11'",
+   "team": null,
+   "text": "Goal! Sweden 2, Bosnia and Herzegovina 0. Viktor Gyökeres (Sweden) converts the penalty with a right footed shot to the bottom right corner."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "24'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "24'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "33'",
+   "team": null,
+   "text": "Delay in match because of an injury Haris Tabakovic (Bosnia and Herzegovina)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "33'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "35'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "35'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "39'",
+   "team": null,
+   "text": "Substitution, Bosnia and Herzegovina. Ermin Mahmic replaces Haris Tabakovic because of an injury."
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "45'+2'",
+   "team": null,
+   "text": "Goal! Sweden 3, Bosnia and Herzegovina 0. Viktor Gyökeres (Sweden) converts the penalty with a right footed shot to the top left corner."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+4'",
+   "team": null,
+   "text": "First Half ends, Sweden 3, Bosnia and Herzegovina 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "47'",
+   "team": null,
+   "text": "Goal! Sweden 3, Bosnia and Herzegovina 1. Armin Gigovic (Bosnia and Herzegovina) header from the centre of the box to the bottom left corner. Assisted by Ermin Mahmic with a cross.Goal confirmed follo"
+  },
+  {
+   "type": "Start Delay",
+   "clock": "48'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "49'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Sweden. Dejan Kulusevski replaces Anthony Elanga."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Sweden. Benjamin Nygren replaces Sebastian Nanasi."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "62'",
+   "team": null,
+   "text": "Goal! Sweden 3, Bosnia and Herzegovina 2. Sead Kolasinac (Bosnia and Herzegovina) header from the left side of the six yard box to the top right corner. Assisted by Kerim Alajbegovic with a cross foll"
+  },
+  {
+   "type": "Start Delay",
+   "clock": "63'",
+   "team": null,
+   "text": "Delay in match because of an injury Kerim Alajbegovic (Bosnia and Herzegovina)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "63'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "64'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "64'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Bosnia and Herzegovina. Arjan Malic replaces Esmir Bajraktarevic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Bosnia and Herzegovina. Amar Memic replaces Stjepan Radeljic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Bosnia and Herzegovina. Benjamin Tahirovic replaces Ivan Basic."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "76'",
+   "team": null,
+   "text": "Gustaf Lagerbielke (Sweden) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Sweden. Elliot Stroud replaces Alexander Isak."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'",
+   "team": null,
+   "text": "Substitution, Sweden. Felix Beijmo replaces Daniel Svensson."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Substitution, Sweden. Jesper Karlström replaces Yasin Ayari."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+6'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

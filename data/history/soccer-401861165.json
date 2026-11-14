@@ -1,0 +1,270 @@
+{
+ "id": "soccer-401861165",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-14T17:00Z",
+ "home": {
+  "name": "Norway",
+  "abbr": "NOR",
+  "teamId": "464",
+  "score": 3.0
+ },
+ "away": {
+  "name": "Wales",
+  "abbr": "WAL",
+  "teamId": "578",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+800",
+  "mlAwayOpen": "+750",
+  "mlDraw": "+500",
+  "mlHome": "-400",
+  "mlHomeOpen": "-450",
+  "provider": "DraftKings",
+  "spread": "NOR -400",
+  "spreadOpen": "NOR -1.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "NOR",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "8",
+    "saves": "4",
+    "possessionPct": "55",
+    "totalShots": "15",
+    "shotsOnTarget": "6",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "534",
+    "totalPasses": "606",
+    "passPct": "0.9",
+    "accurateCrosses": "4",
+    "totalCrosses": "18",
+    "crossPct": "0.2",
+    "totalLongBalls": "39",
+    "accurateLongBalls": "16",
+    "longballPct": "0.4",
+    "blockedShots": "5",
+    "effectiveTackles": "6",
+    "totalTackles": "11",
+    "tacklePct": "0.5",
+    "interceptions": "12",
+    "effectiveClearance": "12",
+    "totalClearance": "12"
+   }
+  },
+  "away": {
+   "abbr": "WAL",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "2",
+    "saves": "2",
+    "possessionPct": "45",
+    "totalShots": "12",
+    "shotsOnTarget": "5",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "426",
+    "totalPasses": "504",
+    "passPct": "0.8",
+    "accurateCrosses": "1",
+    "totalCrosses": "7",
+    "crossPct": "0.1",
+    "totalLongBalls": "41",
+    "accurateLongBalls": "20",
+    "longballPct": "0.5",
+    "blockedShots": "1",
+    "effectiveTackles": "6",
+    "totalTackles": "11",
+    "tacklePct": "0.5",
+    "interceptions": "9",
+    "effectiveClearance": "25",
+    "totalClearance": "25"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "16'",
+   "team": null,
+   "text": "Ethan Ampadu (Wales) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "35'",
+   "team": null,
+   "text": "Delay in match because of an injury Daniel James (Wales)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "35'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "35'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "35'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Norway 0, Wales 0."
+  },
+  {
+   "type": "Goal",
+   "clock": "59'",
+   "team": null,
+   "text": "Goal! Norway 1, Wales 0. Antonio Nusa (Norway) right footed shot from the centre of the box to the bottom left corner following a corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Wales. Mark Harris replaces Lewis Koumas."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Norway. Andreas Schjelderup replaces Oscar Bobb."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Norway. Patrick Berg replaces Thelo Aasgaard."
+  },
+  {
+   "type": "Goal",
+   "clock": "68'",
+   "team": null,
+   "text": "Goal! Norway 2, Wales 0. Andreas Schjelderup (Norway) right footed shot from the centre of the box to the bottom right corner. Assisted by Erling Haaland."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "70'",
+   "team": null,
+   "text": "Delay in match because of an injury Neco Williams (Wales)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "70'",
+   "team": null,
+   "text": "Delay in match (Norway)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "72'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "72'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Wales. Rubin Colwill replaces Liam Cullen."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Wales. David Brooks replaces Daniel James."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Wales. Connor Roberts replaces Neco Williams because of an injury."
+  },
+  {
+   "type": "Goal",
+   "clock": "79'",
+   "team": null,
+   "text": "Goal! Norway 2, Wales 1. David Brooks (Wales) left footed shot from the centre of the box to the bottom right corner. Assisted by Harry Wilson."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Norway. Marcus Pedersen replaces Julian Ryerson."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "85'",
+   "team": null,
+   "text": "Connor Roberts (Wales) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "87'",
+   "team": null,
+   "text": "Harry Wilson (Wales) is shown the yellow card."
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "88'",
+   "team": null,
+   "text": "Goal! Norway 3, Wales 1. Erling Haaland (Norway) converts the penalty with a left footed shot to the bottom right corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Substitution, Norway. Felix Myhre replaces Martin Ødegaard."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Substitution, Norway. Leo Østigård replaces David Møller Wolfe."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+7'",
+   "team": null,
+   "text": "Second Half ends, Norway 3, Wales 1."
+  }
+ ],
+ "scoringPlays": []
+}

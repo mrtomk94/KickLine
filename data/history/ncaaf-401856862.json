@@ -1,0 +1,114 @@
+{
+ "id": "ncaaf-401856862",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T19:00Z",
+ "home": {
+  "name": "TCU Horned Frogs",
+  "abbr": "TCU",
+  "teamId": "2628",
+  "score": 20.0
+ },
+ "away": {
+  "name": "Kansas State Wildcats",
+  "abbr": "KSU",
+  "teamId": "2306",
+  "score": 10.0
+ },
+ "odds": {
+  "mlAway": "+390",
+  "mlAwayOpen": "+275",
+  "mlHome": "-520",
+  "mlHomeOpen": "-345",
+  "provider": "Draft Kings",
+  "spread": "TCU -13.5",
+  "spreadOpen": "TCU -9.5",
+  "total": "44.5",
+  "totalOpen": "45.5"
+ },
+ "espnWinProb": {
+  "away": 25.8,
+  "home": 74.2
+ },
+ "teams": {
+  "away": {
+   "abbr": "KSU",
+   "stats": {
+    "firstDowns": "17",
+    "thirdDownEff": "5-13",
+    "fourthDownEff": "0-0",
+    "totalYards": "302",
+    "netPassingYards": "244",
+    "completionAttempts": "22/33",
+    "yardsPerPass": "7.4",
+    "rushingYards": "58",
+    "rushingAttempts": "25",
+    "yardsPerRushAttempt": "2.3",
+    "totalPenaltiesYards": "4-41",
+    "turnovers": "2",
+    "fumblesLost": "2",
+    "interceptions": "0",
+    "possessionTime": "28:05"
+   }
+  },
+  "home": {
+   "abbr": "TCU",
+   "stats": {
+    "firstDowns": "18",
+    "thirdDownEff": "10-18",
+    "fourthDownEff": "0-0",
+    "totalYards": "324",
+    "netPassingYards": "225",
+    "completionAttempts": "20/34",
+    "yardsPerPass": "6.6",
+    "rushingYards": "99",
+    "rushingAttempts": "35",
+    "yardsPerRushAttempt": "2.8",
+    "totalPenaltiesYards": "1-10",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "31:55"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "8:18",
+   "team": "TCU",
+   "text": "Kari Ashley 19 Yd Run (Kyle Lemmermann Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "14:09",
+   "team": "TCU",
+   "text": "Kyle Lemmermann 29 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "10:14",
+   "team": "TCU",
+   "text": "Jacobe Hayes 5 Yd pass from Jaden Craig (Kyle Lemmermann Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "6:43",
+   "team": "KSU",
+   "text": "Luis Rodriguez 55 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "0:48",
+   "team": "KSU",
+   "text": "Jaron Tibbs 53 Yd pass from Dillon Duff (Luis Rodriguez Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "10:15",
+   "team": "TCU",
+   "text": "Kyle Lemmermann 36 Yd Field Goal  "
+  }
+ ]
+}
