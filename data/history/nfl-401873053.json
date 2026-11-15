@@ -1,0 +1,138 @@
+{
+ "id": "nfl-401873053",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-15T14:30Z",
+ "home": {
+  "name": "Detroit Lions",
+  "abbr": "DET",
+  "teamId": "8",
+  "score": 35.0
+ },
+ "away": {
+  "name": "New England Patriots",
+  "abbr": "NE",
+  "teamId": "17",
+  "score": 10.0
+ },
+ "odds": {
+  "mlAway": "+124",
+  "mlAwayOpen": "+105",
+  "mlHome": "-148",
+  "mlHomeOpen": "-125",
+  "provider": "DraftKings",
+  "spread": "DET -2.5",
+  "spreadOpen": "DET -1.5",
+  "total": "49.5",
+  "totalOpen": "48.5"
+ },
+ "espnWinProb": {
+  "away": 47.0,
+  "home": 52.6
+ },
+ "teams": {
+  "away": {
+   "abbr": "NE",
+   "stats": {
+    "firstDowns": "12",
+    "firstDownsPassing": "5",
+    "firstDownsRushing": "5",
+    "firstDownsPenalty": "2",
+    "thirdDownEff": "4-13",
+    "fourthDownEff": "0-0",
+    "totalOffensivePlays": "55",
+    "totalYards": "151",
+    "yardsPerPlay": "2.7",
+    "totalDrives": "12",
+    "netPassingYards": "90",
+    "completionAttempts": "15/28",
+    "yardsPerPass": "2.7",
+    "interceptions": "1",
+    "sacksYardsLost": "5-39",
+    "rushingYards": "61",
+    "rushingAttempts": "22",
+    "yardsPerRushAttempt": "2.8",
+    "redZoneAttempts": "1-2",
+    "totalPenaltiesYards": "7-45",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "27:03"
+   }
+  },
+  "home": {
+   "abbr": "DET",
+   "stats": {
+    "firstDowns": "22",
+    "firstDownsPassing": "10",
+    "firstDownsRushing": "12",
+    "firstDownsPenalty": "0",
+    "thirdDownEff": "8-15",
+    "fourthDownEff": "0-0",
+    "totalOffensivePlays": "68",
+    "totalYards": "494",
+    "yardsPerPlay": "7.3",
+    "totalDrives": "12",
+    "netPassingYards": "303",
+    "completionAttempts": "21/32",
+    "yardsPerPass": "8.9",
+    "interceptions": "2",
+    "sacksYardsLost": "2-7",
+    "rushingYards": "191",
+    "rushingAttempts": "34",
+    "yardsPerRushAttempt": "5.6",
+    "redZoneAttempts": "2-3",
+    "totalPenaltiesYards": "7-75",
+    "turnovers": "2",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "32:57"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "9:12",
+   "team": "NE",
+   "text": "Andy Borregales 33 Yd Field Goal"
+  },
+  {
+   "period": 1,
+   "clock": "6:13",
+   "team": "DET",
+   "text": "Amon-Ra St. Brown 56 Yd pass from Jared Goff (Jake Bates Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "12:57",
+   "team": "DET",
+   "text": "Isaac TeSlaa 12 Yd pass from Jared Goff (Jake Bates Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "2:06",
+   "team": "DET",
+   "text": "Jahmyr Gibbs 5 Yd Rush (Jake Bates Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "8:16",
+   "team": "DET",
+   "text": "Amon-Ra St. Brown 28 Yd pass from Jared Goff (Jake Bates Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "12:40",
+   "team": "NE",
+   "text": "Lan Larison 10 Yd pass from Tommy DeVito (Andy Borregales Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "8:56",
+   "team": "DET",
+   "text": "Jahmyr Gibbs 28 Yd Rush (Jake Bates Kick)"
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "id": "nfl-401873054",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-15T18:00Z",
+ "home": {
+  "name": "New York Jets",
+  "abbr": "NYJ",
+  "teamId": "20",
+  "score": 12.0
+ },
+ "away": {
+  "name": "Buffalo Bills",
+  "abbr": "BUF",
+  "teamId": "2",
+  "score": 31.0
+ },
+ "odds": {
+  "mlAway": "-500",
+  "mlAwayOpen": "-340",
+  "mlHome": "+380",
+  "mlHomeOpen": "+270",
+  "provider": "Draft Kings",
+  "spread": "BUF -8.5",
+  "spreadOpen": "BUF -7",
+  "total": "50.5",
+  "totalOpen": "46.5"
+ },
+ "espnWinProb": {
+  "away": 82.6,
+  "home": 17.3
+ },
+ "teams": {
+  "away": {
+   "abbr": "BUF",
+   "stats": {
+    "firstDowns": "19",
+    "firstDownsPassing": "6",
+    "firstDownsRushing": "11",
+    "firstDownsPenalty": "2",
+    "thirdDownEff": "2-10",
+    "fourthDownEff": "2-2",
+    "totalOffensivePlays": "54",
+    "totalYards": "389",
+    "yardsPerPlay": "7.2",
+    "totalDrives": "11",
+    "netPassingYards": "188",
+    "completionAttempts": "11/21",
+    "yardsPerPass": "8.5",
+    "interceptions": "1",
+    "sacksYardsLost": "1-8",
+    "rushingYards": "201",
+    "rushingAttempts": "32",
+    "yardsPerRushAttempt": "6.3",
+    "redZoneAttempts": "2-3",
+    "totalPenaltiesYards": "7-35",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "27:59"
+   }
+  },
+  "home": {
+   "abbr": "NYJ",
+   "stats": {
+    "firstDowns": "19",
+    "firstDownsPassing": "10",
+    "firstDownsRushing": "9",
+    "firstDownsPenalty": "0",
+    "thirdDownEff": "3-13",
+    "fourthDownEff": "1-2",
+    "totalOffensivePlays": "68",
+    "totalYards": "376",
+    "yardsPerPlay": "5.5",
+    "totalDrives": "11",
+    "netPassingYards": "267",
+    "completionAttempts": "24/41",
+    "yardsPerPass": "5.9",
+    "interceptions": "1",
+    "sacksYardsLost": "4-18",
+    "rushingYards": "109",
+    "rushingAttempts": "23",
+    "yardsPerRushAttempt": "4.7",
+    "redZoneAttempts": "0-2",
+    "totalPenaltiesYards": "7-53",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "32:01"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "2:43",
+   "team": "BUF",
+   "text": "Josh Allen 1 Yd Rush (Tyler Bass Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "12:20",
+   "team": "NYJ",
+   "text": "Jason Sanders 41 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "6:53",
+   "team": "BUF",
+   "text": "Tyler Bass 37 Yd Field Goal "
+  },
+  {
+   "period": 2,
+   "clock": "0:12",
+   "team": "NYJ",
+   "text": "Jason Sanders 27 Yd Field Goal"
+  },
+  {
+   "period": 3,
+   "clock": "10:02",
+   "team": "NYJ",
+   "text": "Jason Sanders 22 Yd Field Goal"
+  },
+  {
+   "period": 3,
+   "clock": "8:02",
+   "team": "BUF",
+   "text": "Josh Allen 1 Yd Rush (Tyler Bass Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "4:21",
+   "team": "NYJ",
+   "text": "Jason Sanders 48 Yd Field Goal"
+  },
+  {
+   "period": 3,
+   "clock": "3:42",
+   "team": "BUF",
+   "text": "DJ Moore 45 Yd pass from Josh Allen (Tyler Bass Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "4:42",
+   "team": "BUF",
+   "text": "James Cook III 74 Yd Rush (Tyler Bass Kick)"
+  }
+ ]
+}

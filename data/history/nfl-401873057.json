@@ -1,0 +1,174 @@
+{
+ "id": "nfl-401873057",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-15T18:00Z",
+ "home": {
+  "name": "Tennessee Titans",
+  "abbr": "TEN",
+  "teamId": "10",
+  "score": 23.0
+ },
+ "away": {
+  "name": "Jacksonville Jaguars",
+  "abbr": "JAX",
+  "teamId": "30",
+  "score": 40.0
+ },
+ "odds": {
+  "mlAway": "-675",
+  "mlAwayOpen": "-135",
+  "mlHome": "+490",
+  "mlHomeOpen": "+114",
+  "provider": "Draft Kings",
+  "spread": "JAX -10.5",
+  "spreadOpen": "JAX -2.5",
+  "total": "45.5",
+  "totalOpen": "45.5"
+ },
+ "espnWinProb": {
+  "away": 84.0,
+  "home": 15.9
+ },
+ "teams": {
+  "away": {
+   "abbr": "JAX",
+   "stats": {
+    "firstDowns": "27",
+    "firstDownsPassing": "19",
+    "firstDownsRushing": "7",
+    "firstDownsPenalty": "1",
+    "thirdDownEff": "7-14",
+    "fourthDownEff": "2-2",
+    "totalOffensivePlays": "72",
+    "totalYards": "459",
+    "yardsPerPlay": "6.4",
+    "totalDrives": "10",
+    "netPassingYards": "336",
+    "completionAttempts": "25/35",
+    "yardsPerPass": "9.3",
+    "interceptions": "1",
+    "sacksYardsLost": "1-16",
+    "rushingYards": "123",
+    "rushingAttempts": "36",
+    "yardsPerRushAttempt": "3.4",
+    "redZoneAttempts": "3-5",
+    "totalPenaltiesYards": "2-20",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "38:10"
+   }
+  },
+  "home": {
+   "abbr": "TEN",
+   "stats": {
+    "firstDowns": "19",
+    "firstDownsPassing": "10",
+    "firstDownsRushing": "8",
+    "firstDownsPenalty": "1",
+    "thirdDownEff": "2-11",
+    "fourthDownEff": "2-3",
+    "totalOffensivePlays": "57",
+    "totalYards": "327",
+    "yardsPerPlay": "5.7",
+    "totalDrives": "10",
+    "netPassingYards": "222",
+    "completionAttempts": "28/39",
+    "yardsPerPass": "5.6",
+    "interceptions": "1",
+    "sacksYardsLost": "1-9",
+    "rushingYards": "105",
+    "rushingAttempts": "17",
+    "yardsPerRushAttempt": "6.2",
+    "redZoneAttempts": "1-1",
+    "totalPenaltiesYards": "5-27",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "21:50"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "9:33",
+   "team": "JAX",
+   "text": "Parker Washington 2 Yd pass from Trevor Lawrence (Cam Little Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "7:04",
+   "team": "TEN",
+   "text": "Joey Slye 53 Yd Field Goal "
+  },
+  {
+   "period": 2,
+   "clock": "12:54",
+   "team": "JAX",
+   "text": "Cam Little 46 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "7:54",
+   "team": "JAX",
+   "text": "Cam Little 48 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "5:06",
+   "team": "TEN",
+   "text": "Daniel Bellinger 2 Yd pass from Cam Ward (Joey Slye Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:00",
+   "team": "JAX",
+   "text": "Cam Little 36 Yd Field Goal"
+  },
+  {
+   "period": 3,
+   "clock": "12:35",
+   "team": "TEN",
+   "text": "Joey Slye 54 Yd Field Goal"
+  },
+  {
+   "period": 3,
+   "clock": "6:28",
+   "team": "JAX",
+   "text": "Brenton Strange 3 Yd pass from Trevor Lawrence (Cam Little Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "2:13",
+   "team": "TEN",
+   "text": "Joey Slye 50 Yd Field Goal "
+  },
+  {
+   "period": 4,
+   "clock": "9:44",
+   "team": "JAX",
+   "text": "Josh Cameron 25 Yd pass from Trevor Lawrence (Cam Little Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "8:21",
+   "team": "TEN",
+   "text": "Tony Pollard 32 Yd pass from Cam Ward (Joey Slye Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "4:31",
+   "team": "JAX",
+   "text": "Cam Little 40 Yd Field Goal "
+  },
+  {
+   "period": 4,
+   "clock": "1:10",
+   "team": "JAX",
+   "text": "Bhayshul Tuten 6 Yd Rush (Cam Little Kick)"
+  }
+ ]
+}

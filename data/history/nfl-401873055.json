@@ -1,0 +1,138 @@
+{
+ "id": "nfl-401873055",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-15T18:00Z",
+ "home": {
+  "name": "New Orleans Saints",
+  "abbr": "NO",
+  "teamId": "18",
+  "score": 17.0
+ },
+ "away": {
+  "name": "Carolina Panthers",
+  "abbr": "CAR",
+  "teamId": "29",
+  "score": 20.0
+ },
+ "odds": {
+  "mlAway": "-105",
+  "mlAwayOpen": "+105",
+  "mlHome": "-115",
+  "mlHomeOpen": "-125",
+  "provider": "Draft Kings",
+  "spread": "NO -1.5",
+  "spreadOpen": "NO -1.5",
+  "total": "48.5",
+  "totalOpen": "43.5"
+ },
+ "espnWinProb": {
+  "away": 49.6,
+  "home": 50.0
+ },
+ "teams": {
+  "away": {
+   "abbr": "CAR",
+   "stats": {
+    "firstDowns": "18",
+    "firstDownsPassing": "8",
+    "firstDownsRushing": "7",
+    "firstDownsPenalty": "3",
+    "thirdDownEff": "4-14",
+    "fourthDownEff": "2-3",
+    "totalOffensivePlays": "65",
+    "totalYards": "283",
+    "yardsPerPlay": "4.4",
+    "totalDrives": "11",
+    "netPassingYards": "186",
+    "completionAttempts": "17/30",
+    "yardsPerPass": "5.6",
+    "interceptions": "0",
+    "sacksYardsLost": "3-14",
+    "rushingYards": "97",
+    "rushingAttempts": "32",
+    "yardsPerRushAttempt": "3.0",
+    "redZoneAttempts": "2-3",
+    "totalPenaltiesYards": "17-152",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "31:25"
+   }
+  },
+  "home": {
+   "abbr": "NO",
+   "stats": {
+    "firstDowns": "19",
+    "firstDownsPassing": "11",
+    "firstDownsRushing": "3",
+    "firstDownsPenalty": "5",
+    "thirdDownEff": "5-13",
+    "fourthDownEff": "1-3",
+    "totalOffensivePlays": "61",
+    "totalYards": "222",
+    "yardsPerPlay": "3.6",
+    "totalDrives": "11",
+    "netPassingYards": "173",
+    "completionAttempts": "25/35",
+    "yardsPerPass": "4.6",
+    "interceptions": "1",
+    "sacksYardsLost": "3-14",
+    "rushingYards": "49",
+    "rushingAttempts": "23",
+    "yardsPerRushAttempt": "2.1",
+    "redZoneAttempts": "2-2",
+    "totalPenaltiesYards": "3-46",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "28:35"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 2,
+   "clock": "6:43",
+   "team": "CAR",
+   "text": "Chuba Hubbard 2 Yd Rush (Ryan Fitzgerald Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "6:33",
+   "team": "NO",
+   "text": "Alvin Kamara 3 Yd Rush (Charlie Smyth Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "2:30",
+   "team": "CAR",
+   "text": "Ryan Fitzgerald 55 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "3:49",
+   "team": "NO",
+   "text": "Alvin Kamara 4 Yd pass from Tyler Shough (Charlie Smyth Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "1:49",
+   "team": "CAR",
+   "text": "Chuba Hubbard 1 Yd Rush (Ryan Fitzgerald Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "0:41",
+   "team": "NO",
+   "text": "Charlie Smyth 55 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "0:00",
+   "team": "CAR",
+   "text": "Ryan Fitzgerald 54 Yd Field Goal"
+  }
+ ]
+}

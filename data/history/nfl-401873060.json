@@ -1,0 +1,144 @@
+{
+ "id": "nfl-401873060",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-15T18:00Z",
+ "home": {
+  "name": "Green Bay Packers",
+  "abbr": "GB",
+  "teamId": "9",
+  "score": 10.0
+ },
+ "away": {
+  "name": "Minnesota Vikings",
+  "abbr": "MIN",
+  "teamId": "16",
+  "score": 30.0
+ },
+ "odds": {
+  "mlAway": "+120",
+  "mlAwayOpen": "+185",
+  "mlHome": "-142",
+  "mlHomeOpen": "-225",
+  "provider": "Draft Kings",
+  "spread": "GB -2.5",
+  "spreadOpen": "GB -4.5",
+  "total": "42.5",
+  "totalOpen": "45.5"
+ },
+ "espnWinProb": {
+  "away": 44.4,
+  "home": 55.2
+ },
+ "teams": {
+  "away": {
+   "abbr": "MIN",
+   "stats": {
+    "firstDowns": "19",
+    "firstDownsPassing": "11",
+    "firstDownsRushing": "7",
+    "firstDownsPenalty": "1",
+    "thirdDownEff": "8-16",
+    "fourthDownEff": "1-1",
+    "totalOffensivePlays": "65",
+    "totalYards": "312",
+    "yardsPerPlay": "4.8",
+    "totalDrives": "12",
+    "netPassingYards": "183",
+    "completionAttempts": "21/31",
+    "yardsPerPass": "5.4",
+    "interceptions": "1",
+    "sacksYardsLost": "3-24",
+    "rushingYards": "129",
+    "rushingAttempts": "31",
+    "yardsPerRushAttempt": "4.2",
+    "redZoneAttempts": "1-4",
+    "totalPenaltiesYards": "7-75",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "35:16"
+   }
+  },
+  "home": {
+   "abbr": "GB",
+   "stats": {
+    "firstDowns": "16",
+    "firstDownsPassing": "11",
+    "firstDownsRushing": "3",
+    "firstDownsPenalty": "2",
+    "thirdDownEff": "3-10",
+    "fourthDownEff": "1-1",
+    "totalOffensivePlays": "54",
+    "totalYards": "220",
+    "yardsPerPlay": "4.1",
+    "totalDrives": "11",
+    "netPassingYards": "164",
+    "completionAttempts": "18/29",
+    "yardsPerPass": "4.4",
+    "interceptions": "1",
+    "sacksYardsLost": "8-59",
+    "rushingYards": "56",
+    "rushingAttempts": "17",
+    "yardsPerRushAttempt": "3.3",
+    "redZoneAttempts": "0-1",
+    "totalPenaltiesYards": "6-45",
+    "turnovers": "4",
+    "fumblesLost": "3",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "24:44"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "10:20",
+   "team": "MIN",
+   "text": "Will Reichard 34 Yd Field Goal"
+  },
+  {
+   "period": 1,
+   "clock": "2:46",
+   "team": "MIN",
+   "text": "Myles Price 38 Yd pass from Kirk Cousins (Will Reichard Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "6:17",
+   "team": "MIN",
+   "text": "Aaron Jones Sr. 1 Yd Rush (Will Reichard Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "10:02",
+   "team": "MIN",
+   "text": "Will Reichard 32 Yd Field Goal"
+  },
+  {
+   "period": 3,
+   "clock": "5:37",
+   "team": "GB",
+   "text": "J. Michael Sturdivant 32 Yd pass from Jordan Love (Trey Smack Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "0:19",
+   "team": "GB",
+   "text": "Trey Smack 40 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "8:29",
+   "team": "MIN",
+   "text": "Gavin Bartholomew 20 Yd pass from Kirk Cousins (Will Reichard Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "3:56",
+   "team": "MIN",
+   "text": "Will Reichard 20 Yd Field Goal "
+  }
+ ]
+}

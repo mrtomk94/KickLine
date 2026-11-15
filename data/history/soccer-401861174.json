@@ -1,0 +1,312 @@
+{
+ "id": "soccer-401861174",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-15T17:00Z",
+ "home": {
+  "name": "Finland",
+  "abbr": "FIN",
+  "teamId": "458",
+  "score": 7.0
+ },
+ "away": {
+  "name": "San Marino",
+  "abbr": "SMR",
+  "teamId": "588",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "+3500",
+  "mlAwayOpen": "+4000",
+  "mlDraw": "+1500",
+  "mlHome": "-8000",
+  "mlHomeOpen": "-5000",
+  "provider": "DraftKings",
+  "spread": "FIN -8000",
+  "spreadOpen": "FIN -3.5",
+  "total": "4.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "FIN",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "5",
+    "saves": "0",
+    "possessionPct": "66.8",
+    "totalShots": "18",
+    "shotsOnTarget": "11",
+    "shotPct": "0.6",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "509",
+    "totalPasses": "588",
+    "passPct": "0.9",
+    "accurateCrosses": "5",
+    "totalCrosses": "10",
+    "crossPct": "0.5",
+    "totalLongBalls": "29",
+    "accurateLongBalls": "15",
+    "longballPct": "0.5",
+    "blockedShots": "2",
+    "effectiveTackles": "8",
+    "totalTackles": "13",
+    "tacklePct": "0.6",
+    "interceptions": "6",
+    "effectiveClearance": "8",
+    "totalClearance": "8"
+   }
+  },
+  "away": {
+   "abbr": "SMR",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "4",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "1",
+    "saves": "4",
+    "possessionPct": "33.2",
+    "totalShots": "6",
+    "shotsOnTarget": "2",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "225",
+    "totalPasses": "284",
+    "passPct": "0.8",
+    "accurateCrosses": "1",
+    "totalCrosses": "10",
+    "crossPct": "0.1",
+    "totalLongBalls": "45",
+    "accurateLongBalls": "23",
+    "longballPct": "0.5",
+    "blockedShots": "1",
+    "effectiveTackles": "8",
+    "totalTackles": "9",
+    "tacklePct": "0.9",
+    "interceptions": "16",
+    "effectiveClearance": "20",
+    "totalClearance": "20"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "8'",
+   "team": null,
+   "text": "Goal! Finland 1, San Marino 0. Adrian Svanbäck (Finland) right footed shot from the centre of the box to the bottom left corner. Assisted by Onni Valakari with a through ball."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "12'",
+   "team": null,
+   "text": "Lorenzo Lazzari (San Marino) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal - Free-kick",
+   "clock": "17'",
+   "team": null,
+   "text": "Goal! Finland 2, San Marino 0. Leo Walta (Finland) from a free kick with a right footed shot to the top left corner."
+  },
+  {
+   "type": "Goal",
+   "clock": "20'",
+   "team": null,
+   "text": "Goal! Finland 3, San Marino 0. Adrian Svanbäck (Finland) right footed shot from the centre of the box to the bottom right corner. Assisted by Joel Pohjanpalo with a through ball."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "22'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "25'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "26'",
+   "team": null,
+   "text": "Goal! Finland 3, San Marino 1. Nicola Nanni (San Marino) converts the penalty with a right footed shot to the centre of the goal."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "31'",
+   "team": null,
+   "text": "Marco Pasolini (San Marino) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "35'",
+   "team": null,
+   "text": "Cristian Meloni (San Marino) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "36'",
+   "team": null,
+   "text": "Goal! Finland 4, San Marino 1. Joel Pohjanpalo (Finland) right footed shot from the centre of the box to the high centre of the goal following a set piece situation."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "42'",
+   "team": null,
+   "text": "Goal! Finland 5, San Marino 1. Joel Pohjanpalo (Finland) header from the centre of the box to the bottom right corner. Assisted by Leo Walta with a cross following a set piece situation."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": "First Half ends, Finland 5, San Marino 1."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Finland. Fredrik Jensen replaces Ville Koski."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, San Marino. Enea Della Balda replaces Cristian Meloni."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Finland. Ryan Mahuta replaces Topi Keskinen."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Finland. Roman Eremenko replaces Leo Walta."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Finland 5, San Marino 1."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "47'",
+   "team": null,
+   "text": "Robert Ivanov (Finland) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "54'",
+   "team": null,
+   "text": "Alessandro Tosi (San Marino) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "55'",
+   "team": null,
+   "text": "Delay in match because of an injury Naatan Skyttä (Finland)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "55'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "56'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "56'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "56'",
+   "team": null,
+   "text": "Substitution, Finland. Daniel Håkans replaces Naatan Skyttä because of an injury."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "60'",
+   "team": null,
+   "text": "Ryan Mahuta (Finland) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, San Marino. Tommaso Benvenuti replaces Marco Pasolini."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, San Marino. Samuel Pancotti replaces Samuele Zannoni."
+  },
+  {
+   "type": "Goal",
+   "clock": "70'",
+   "team": null,
+   "text": "Goal! Finland 6, San Marino 1. Daniel Håkans (Finland) right footed shot from the right side of the box to the top right corner. Assisted by Santeri Väänänen."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, San Marino. Alessandro Golinucci replaces Lorenzo Capicchioni."
+  },
+  {
+   "type": "Goal",
+   "clock": "76'",
+   "team": null,
+   "text": "Goal! Finland 6, San Marino 2. Nicola Nanni (San Marino) right footed shot from the centre of the box to the top right corner. Assisted by Nicolas Giacopetti following a fast break."
+  },
+  {
+   "type": "Goal",
+   "clock": "78'",
+   "team": null,
+   "text": "Goal! Finland 7, San Marino 2. Adrian Svanbäck (Finland) left footed shot from the left side of the box to the bottom right corner. Assisted by Roman Eremenko."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Finland. Oliver Antman replaces Adrian Svanbäck."
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, San Marino. Andrea Contadini replaces Nicolas Giacopetti."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Second Half ends, Finland 7, San Marino 2."
+  }
+ ],
+ "scoringPlays": []
+}

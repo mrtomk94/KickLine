@@ -1,0 +1,120 @@
+{
+ "id": "ncaaf-401856887",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-15T18:00Z",
+ "home": {
+  "name": "Oklahoma Sooners",
+  "abbr": "OU",
+  "teamId": "201",
+  "score": 24.0
+ },
+ "away": {
+  "name": "#19 Ole Miss",
+  "abbr": "MISS",
+  "teamId": "145",
+  "score": 17.0
+ },
+ "odds": {
+  "mlAway": "+114",
+  "mlAwayOpen": "+154",
+  "mlHome": "-135",
+  "mlHomeOpen": "-185",
+  "provider": "Draft Kings",
+  "spread": "OU -2.5",
+  "spreadOpen": "OU -4",
+  "total": "48.5",
+  "totalOpen": "53.5"
+ },
+ "espnWinProb": {
+  "away": 60.0,
+  "home": 40.1
+ },
+ "teams": {
+  "away": {
+   "abbr": "MISS",
+   "stats": {
+    "firstDowns": "19",
+    "thirdDownEff": "4-12",
+    "fourthDownEff": "0-1",
+    "totalYards": "306",
+    "netPassingYards": "127",
+    "completionAttempts": "14/28",
+    "yardsPerPass": "4.5",
+    "rushingYards": "179",
+    "rushingAttempts": "31",
+    "yardsPerRushAttempt": "5.8",
+    "totalPenaltiesYards": "7-47",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "23:29"
+   }
+  },
+  "home": {
+   "abbr": "OU",
+   "stats": {
+    "firstDowns": "19",
+    "thirdDownEff": "9-16",
+    "fourthDownEff": "1-2",
+    "totalYards": "299",
+    "netPassingYards": "111",
+    "completionAttempts": "10/19",
+    "yardsPerPass": "5.8",
+    "rushingYards": "188",
+    "rushingAttempts": "49",
+    "yardsPerRushAttempt": "3.8",
+    "totalPenaltiesYards": "4-39",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "36:31"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "5:54",
+   "team": "OU",
+   "text": "J. Mateer run for 8 yds, for a TD (T. Sandell KICK)"
+  },
+  {
+   "period": 1,
+   "clock": "3:29",
+   "team": "OU",
+   "text": "O. Bird punt for 40 yds, I. Sategna III returns for 75 yds for a TD (T. Sandell KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "13:27",
+   "team": "MISS",
+   "text": "J. Dye run for 19 yds, for a TD (L. Carneiro KICK)"
+  },
+  {
+   "period": 3,
+   "clock": "8:21",
+   "team": "OU",
+   "text": "J. Hatton Jr. run for 5 yds, for a TD (T. Sandell KICK)"
+  },
+  {
+   "period": 4,
+   "clock": "11:45",
+   "team": "MISS",
+   "text": "T. Chambliss pass to C. Odom for 26 yds, for a TD (L. Carneiro KICK)"
+  },
+  {
+   "period": 4,
+   "clock": "4:52",
+   "team": "OU",
+   "text": "T. Sandell 41 yd FG GOOD"
+  },
+  {
+   "period": 4,
+   "clock": "0:42",
+   "team": "MISS",
+   "text": "L. Carneiro 41 yd FG GOOD"
+  }
+ ]
+}

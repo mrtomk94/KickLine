@@ -1,0 +1,180 @@
+{
+ "id": "soccer-401861171",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-15T14:00Z",
+ "home": {
+  "name": "Latvia",
+  "abbr": "LVA",
+  "teamId": "456",
+  "score": 0.0
+ },
+ "away": {
+  "name": "Armenia",
+  "abbr": "ARM",
+  "teamId": "579",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+130",
+  "mlAwayOpen": "+135",
+  "mlDraw": "+205",
+  "mlHome": "+210",
+  "mlHomeOpen": "+195",
+  "provider": "DraftKings",
+  "spread": "ARM +130",
+  "spreadOpen": "ARM -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "LVA",
+   "stats": {
+    "foulsCommitted": "13",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "13",
+    "saves": "6",
+    "possessionPct": "43.5",
+    "totalShots": "20",
+    "shotsOnTarget": "9",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "323",
+    "totalPasses": "396",
+    "passPct": "0.8",
+    "accurateCrosses": "9",
+    "totalCrosses": "26",
+    "crossPct": "0.3",
+    "totalLongBalls": "36",
+    "accurateLongBalls": "15",
+    "longballPct": "0.4",
+    "blockedShots": "6",
+    "effectiveTackles": "6",
+    "totalTackles": "11",
+    "tacklePct": "0.5",
+    "interceptions": "14",
+    "effectiveClearance": "31",
+    "totalClearance": "31"
+   }
+  },
+  "away": {
+   "abbr": "ARM",
+   "stats": {
+    "foulsCommitted": "6",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "7",
+    "saves": "9",
+    "possessionPct": "56.5",
+    "totalShots": "21",
+    "shotsOnTarget": "6",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "452",
+    "totalPasses": "530",
+    "passPct": "0.9",
+    "accurateCrosses": "2",
+    "totalCrosses": "24",
+    "crossPct": "0.1",
+    "totalLongBalls": "62",
+    "accurateLongBalls": "31",
+    "longballPct": "0.5",
+    "blockedShots": "6",
+    "effectiveTackles": "7",
+    "totalTackles": "10",
+    "tacklePct": "0.7",
+    "interceptions": "7",
+    "effectiveClearance": "22",
+    "totalClearance": "22"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "5'",
+   "team": null,
+   "text": "Oskars Vientiess (Latvia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, Latvia 0, Armenia 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Latvia 0, Armenia 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Armenia. Grant-Leon Ranos replaces Narek Grigoryan."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Armenia. Narek Hovhannisyan replaces Zhirayr Shaghoyan."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Armenia. Artur Miranyan replaces Artur Gharibyan."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Latvia. Roberts Uldrikis replaces Vladislavs Gutkovskis."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Armenia. Erik Piloyan replaces Styopa Mkrtchyan."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'",
+   "team": null,
+   "text": "Eduards Daskevics (Latvia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Substitution, Latvia. Kristaps Grabovskis replaces Eduards Daskevics because of an injury."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Substitution, Latvia. Maksims Tonisevs replaces Roberts Savalnieks."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+3'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

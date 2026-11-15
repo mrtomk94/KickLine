@@ -1,0 +1,150 @@
+{
+ "id": "nfl-401873056",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-15T18:00Z",
+ "home": {
+  "name": "Cleveland Browns",
+  "abbr": "CLE",
+  "teamId": "5",
+  "score": 27.0
+ },
+ "away": {
+  "name": "Houston Texans",
+  "abbr": "HOU",
+  "teamId": "34",
+  "score": 24.0
+ },
+ "odds": {
+  "mlAway": "-198",
+  "mlAwayOpen": "-218",
+  "mlHome": "+164",
+  "mlHomeOpen": "+180",
+  "provider": "Draft Kings",
+  "spread": "HOU -4.5",
+  "spreadOpen": "HOU -4.5",
+  "total": "41.5",
+  "totalOpen": "38.5"
+ },
+ "espnWinProb": {
+  "away": 76.6,
+  "home": 23.3
+ },
+ "teams": {
+  "away": {
+   "abbr": "HOU",
+   "stats": {
+    "firstDowns": "20",
+    "firstDownsPassing": "14",
+    "firstDownsRushing": "5",
+    "firstDownsPenalty": "1",
+    "thirdDownEff": "3-12",
+    "fourthDownEff": "0-1",
+    "totalOffensivePlays": "63",
+    "totalYards": "290",
+    "yardsPerPlay": "4.6",
+    "totalDrives": "13",
+    "netPassingYards": "202",
+    "completionAttempts": "20/38",
+    "yardsPerPass": "5.2",
+    "interceptions": "1",
+    "sacksYardsLost": "1-9",
+    "rushingYards": "88",
+    "rushingAttempts": "24",
+    "yardsPerRushAttempt": "3.7",
+    "redZoneAttempts": "3-3",
+    "totalPenaltiesYards": "13-112",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "29:38"
+   }
+  },
+  "home": {
+   "abbr": "CLE",
+   "stats": {
+    "firstDowns": "21",
+    "firstDownsPassing": "12",
+    "firstDownsRushing": "6",
+    "firstDownsPenalty": "3",
+    "thirdDownEff": "7-15",
+    "fourthDownEff": "0-0",
+    "totalOffensivePlays": "67",
+    "totalYards": "379",
+    "yardsPerPlay": "5.7",
+    "totalDrives": "14",
+    "netPassingYards": "280",
+    "completionAttempts": "25/40",
+    "yardsPerPass": "6.4",
+    "interceptions": "1",
+    "sacksYardsLost": "4-32",
+    "rushingYards": "99",
+    "rushingAttempts": "23",
+    "yardsPerRushAttempt": "4.3",
+    "redZoneAttempts": "3-5",
+    "totalPenaltiesYards": "2-47",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "30:22"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "9:29",
+   "team": "HOU",
+   "text": "Nico Collins 12 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "4:25",
+   "team": "HOU",
+   "text": "Ka'imi Fairbairn 45 Yd Field Goal "
+  },
+  {
+   "period": 2,
+   "clock": "11:21",
+   "team": "HOU",
+   "text": "Xavier Hutchinson 11 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "9:02",
+   "team": "CLE",
+   "text": "Andre Szmyt 49 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "4:12",
+   "team": "CLE",
+   "text": "Deshaun Watson 6 Yd Rush (Andre Szmyt Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "8:35",
+   "team": "CLE",
+   "text": "KC Concepcion 6 Yd Rush (Andre Szmyt Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "0:12",
+   "team": "CLE",
+   "text": "Andre Szmyt 26 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "9:17",
+   "team": "HOU",
+   "text": "Dalton Schultz 11 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "0:53",
+   "team": "CLE",
+   "text": "Quinshon Judkins 5 Yd Rush (Andre Szmyt Kick)"
+  }
+ ]
+}

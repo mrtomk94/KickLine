@@ -1,0 +1,144 @@
+{
+ "id": "nfl-401873059",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-15T18:00Z",
+ "home": {
+  "name": "Indianapolis Colts",
+  "abbr": "IND",
+  "teamId": "11",
+  "score": 24.0
+ },
+ "away": {
+  "name": "Miami Dolphins",
+  "abbr": "MIA",
+  "teamId": "15",
+  "score": 22.0
+ },
+ "odds": {
+  "mlAway": "+185",
+  "mlAwayOpen": "+235",
+  "mlHome": "-225",
+  "mlHomeOpen": "-290",
+  "provider": "Draft Kings",
+  "spread": "IND -4.5",
+  "spreadOpen": "IND -6.5",
+  "total": "37.5",
+  "totalOpen": "47.5"
+ },
+ "espnWinProb": {
+  "away": 17.8,
+  "home": 82.0
+ },
+ "teams": {
+  "away": {
+   "abbr": "MIA",
+   "stats": {
+    "firstDowns": "19",
+    "firstDownsPassing": "10",
+    "firstDownsRushing": "4",
+    "firstDownsPenalty": "5",
+    "thirdDownEff": "3-11",
+    "fourthDownEff": "0-2",
+    "totalOffensivePlays": "62",
+    "totalYards": "293",
+    "yardsPerPlay": "4.7",
+    "totalDrives": "12",
+    "netPassingYards": "215",
+    "completionAttempts": "18/33",
+    "yardsPerPass": "6.0",
+    "interceptions": "0",
+    "sacksYardsLost": "3-28",
+    "rushingYards": "78",
+    "rushingAttempts": "26",
+    "yardsPerRushAttempt": "3.0",
+    "redZoneAttempts": "1-2",
+    "totalPenaltiesYards": "3-30",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "defensiveTouchdowns": "1",
+    "possessionTime": "29:16"
+   }
+  },
+  "home": {
+   "abbr": "IND",
+   "stats": {
+    "firstDowns": "15",
+    "firstDownsPassing": "5",
+    "firstDownsRushing": "10",
+    "firstDownsPenalty": "0",
+    "thirdDownEff": "3-11",
+    "fourthDownEff": "0-1",
+    "totalOffensivePlays": "57",
+    "totalYards": "276",
+    "yardsPerPlay": "4.8",
+    "totalDrives": "12",
+    "netPassingYards": "104",
+    "completionAttempts": "11/22",
+    "yardsPerPass": "4.5",
+    "interceptions": "2",
+    "sacksYardsLost": "1-4",
+    "rushingYards": "172",
+    "rushingAttempts": "34",
+    "yardsPerRushAttempt": "5.1",
+    "redZoneAttempts": "2-2",
+    "totalPenaltiesYards": "13-83",
+    "turnovers": "2",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "1",
+    "possessionTime": "30:44"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 2,
+   "clock": "14:51",
+   "team": "IND",
+   "text": "Seth McGowan 4 Yd Rush (Spencer Shrader Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "11:54",
+   "team": "MIA",
+   "text": "Jalen Tolbert 34 Yd pass from Malik Washington (Zane Gonzalez Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:39",
+   "team": "IND",
+   "text": "Laquon Treadwell 7 Yd pass from Daniel Jones (Spencer Shrader Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "14:48",
+   "team": "IND",
+   "text": "Adetomiwa Adebawore Fumble Recovery in End Zone (Spencer Shrader Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "12:12",
+   "team": "MIA",
+   "text": "Zane Gonzalez 53 Yd Field Goal "
+  },
+  {
+   "period": 3,
+   "clock": "8:52",
+   "team": "MIA",
+   "text": "Chris Johnson 59 Yd Interception Return (Zane Gonzalez PAT Failed)"
+  },
+  {
+   "period": 3,
+   "clock": "3:40",
+   "team": "IND",
+   "text": "Spencer Shrader 51 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "14:56",
+   "team": "MIA",
+   "text": "Kyle McCord 3 Yd Rush (Two-Point Pass Conversion Failed)"
+  }
+ ]
+}
