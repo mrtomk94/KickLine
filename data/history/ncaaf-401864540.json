@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401864540",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-15T03:00Z",
+ "home": {
+  "name": "UTEP Miners",
+  "abbr": "UTEP",
+  "teamId": "2638",
+  "score": 15.0
+ },
+ "away": {
+  "name": "Wyoming Cowboys",
+  "abbr": "WYO",
+  "teamId": "2751",
+  "score": 27.0
+ },
+ "odds": {
+  "mlAway": "-285",
+  "mlAwayOpen": "-360",
+  "mlHome": "+230",
+  "mlHomeOpen": "+285",
+  "provider": "DraftKings",
+  "spread": "WYO -7",
+  "spreadOpen": "WYO -10",
+  "total": "40.5",
+  "totalOpen": "43.5"
+ },
+ "espnWinProb": {
+  "away": 78.6,
+  "home": 21.4
+ },
+ "teams": {
+  "away": {
+   "abbr": "WYO",
+   "stats": {
+    "firstDowns": "17",
+    "thirdDownEff": "2-12",
+    "fourthDownEff": "2-2",
+    "totalYards": "443",
+    "netPassingYards": "292",
+    "completionAttempts": "20/26",
+    "yardsPerPass": "11.2",
+    "rushingYards": "151",
+    "rushingAttempts": "36",
+    "yardsPerRushAttempt": "4.2",
+    "totalPenaltiesYards": "6-32",
+    "turnovers": "3",
+    "fumblesLost": "3",
+    "interceptions": "0",
+    "possessionTime": "32:11"
+   }
+  },
+  "home": {
+   "abbr": "UTEP",
+   "stats": {
+    "firstDowns": "11",
+    "thirdDownEff": "5-13",
+    "fourthDownEff": "0-2",
+    "totalYards": "305",
+    "netPassingYards": "87",
+    "completionAttempts": "11/19",
+    "yardsPerPass": "4.6",
+    "rushingYards": "218",
+    "rushingAttempts": "36",
+    "yardsPerRushAttempt": "6.1",
+    "totalPenaltiesYards": "6-46",
+    "turnovers": "2",
+    "fumblesLost": "2",
+    "interceptions": "0",
+    "possessionTime": "27:49"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "8:11",
+   "team": "UTEP",
+   "text": "Raymond Moore III 80 Yd Run (Two-Point Run Conversion Failed)"
+  },
+  {
+   "period": 1,
+   "clock": "4:23",
+   "team": "WYO",
+   "text": "Landon Pace 3 Yd pass from Markell Holman (Erik Sandvik Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "1:26",
+   "team": "WYO",
+   "text": "Samuel Harris 21 Yd pass from Landon Sims (Erik Sandvik Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "8:26",
+   "team": "WYO",
+   "text": "Samuel Harris 33 Yd Run (Erik Sandvik Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:54",
+   "team": "WYO",
+   "text": "Erik Sandvik 30 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "0:50",
+   "team": "UTEP",
+   "text": "Carlos Arreola 55 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "12:00",
+   "team": "UTEP",
+   "text": "Elijah McCoy 1 Yd Run (Two-Point Pass Conversion Failed)"
+  },
+  {
+   "period": 4,
+   "clock": "6:40",
+   "team": "WYO",
+   "text": "Erik Sandvik 41 Yd Field Goal  "
+  }
+ ]
+}

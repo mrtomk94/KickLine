@@ -1,0 +1,156 @@
+{
+ "id": "ncaaf-401856864",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-15T03:30Z",
+ "home": {
+  "name": "#23 Arizona",
+  "abbr": "ARIZ",
+  "teamId": "12",
+  "score": 39.0
+ },
+ "away": {
+  "name": "#2 Utah",
+  "abbr": "UTAH",
+  "teamId": "254",
+  "score": 40.0
+ },
+ "odds": {
+  "mlAway": "-130",
+  "mlAwayOpen": "-118",
+  "mlHome": "+110",
+  "mlHomeOpen": "-102",
+  "provider": "DraftKings",
+  "spread": "UTAH -1.5",
+  "spreadOpen": "UTAH -1.5",
+  "total": "55.5",
+  "totalOpen": "51.5"
+ },
+ "espnWinProb": {
+  "away": 60.4,
+  "home": 39.6
+ },
+ "teams": {
+  "away": {
+   "abbr": "UTAH",
+   "stats": {
+    "firstDowns": "20",
+    "thirdDownEff": "6-11",
+    "fourthDownEff": "0-0",
+    "totalYards": "500",
+    "netPassingYards": "204",
+    "completionAttempts": "13/25",
+    "yardsPerPass": "8.2",
+    "rushingYards": "296",
+    "rushingAttempts": "35",
+    "yardsPerRushAttempt": "8.5",
+    "totalPenaltiesYards": "6-45",
+    "turnovers": "3",
+    "fumblesLost": "2",
+    "interceptions": "1",
+    "possessionTime": "26:06"
+   }
+  },
+  "home": {
+   "abbr": "ARIZ",
+   "stats": {
+    "firstDowns": "21",
+    "thirdDownEff": "7-16",
+    "fourthDownEff": "0-2",
+    "totalYards": "415",
+    "netPassingYards": "356",
+    "completionAttempts": "27/43",
+    "yardsPerPass": "8.3",
+    "rushingYards": "59",
+    "rushingAttempts": "31",
+    "yardsPerRushAttempt": "1.9",
+    "totalPenaltiesYards": "5-50",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "33:54"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "9:45",
+   "team": "ARIZ",
+   "text": "Quincy Craig 1 Yd Run (Michael Salgado-Medina Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "14:55",
+   "team": "UTAH",
+   "text": "Dillon Curtis 53 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "9:48",
+   "team": "ARIZ",
+   "text": "Kedrick Reescano 5 Yd Run (Michael Salgado-Medina Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "6:27",
+   "team": "UTAH",
+   "text": "Devon Dampier 14 Yd Run (Dillon Curtis Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:34",
+   "team": "UTAH",
+   "text": "Devon Dampier 18 Yd Run (Dillon Curtis Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "11:53",
+   "team": "ARIZ",
+   "text": "Isaiah Mizell 6 Yd pass from Noah Fifita (Michael Salgado-Medina Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "10:07",
+   "team": "UTAH",
+   "text": "Byrd Ficklin 4 Yd pass from Devon Dampier (Dillon Curtis Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "3:22",
+   "team": "ARIZ",
+   "text": "Giovanni Richardson 19 Yd pass from Noah Fifita (Michael Salgado-Medina Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "14:10",
+   "team": "UTAH",
+   "text": "Dillon Curtis 39 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "11:46",
+   "team": "UTAH",
+   "text": "Daniel Bray 8 Yd Run (Two-Point Pass Conversion Failed)"
+  },
+  {
+   "period": 4,
+   "clock": "8:09",
+   "team": "ARIZ",
+   "text": "Michael Salgado-Medina 47 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "3:13",
+   "team": "ARIZ",
+   "text": "Isaiah Mizell 10 Yd pass from Noah Fifita (Noah Fifita Run for Two-Point Conversion)"
+  },
+  {
+   "period": 4,
+   "clock": "2:35",
+   "team": "UTAH",
+   "text": "Creed Whittemore 70 Yd pass from Devon Dampier (Dillon Curtis Kick)"
+  }
+ ]
+}

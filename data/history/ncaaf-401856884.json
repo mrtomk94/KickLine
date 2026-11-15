@@ -1,0 +1,114 @@
+{
+ "id": "ncaaf-401856884",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T23:15Z",
+ "home": {
+  "name": "#11 Kentucky",
+  "abbr": "UK",
+  "teamId": "96",
+  "score": 14.0
+ },
+ "away": {
+  "name": "Florida Gators",
+  "abbr": "FLA",
+  "teamId": "57",
+  "score": 21.0
+ },
+ "odds": {
+  "mlAway": "+130",
+  "mlAwayOpen": "+100",
+  "mlHome": "-155",
+  "mlHomeOpen": "-120",
+  "provider": "Draft Kings",
+  "spread": "UK -3",
+  "spreadOpen": "UK -1.5",
+  "total": "52.5",
+  "totalOpen": "55.5"
+ },
+ "espnWinProb": {
+  "away": 46.2,
+  "home": 53.8
+ },
+ "teams": {
+  "away": {
+   "abbr": "FLA",
+   "stats": {
+    "firstDowns": "19",
+    "thirdDownEff": "9-17",
+    "fourthDownEff": "0-1",
+    "totalYards": "330",
+    "netPassingYards": "119",
+    "completionAttempts": "16/24",
+    "yardsPerPass": "5.0",
+    "rushingYards": "211",
+    "rushingAttempts": "48",
+    "yardsPerRushAttempt": "4.4",
+    "totalPenaltiesYards": "6-45",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "34:07"
+   }
+  },
+  "home": {
+   "abbr": "UK",
+   "stats": {
+    "firstDowns": "14",
+    "thirdDownEff": "5-10",
+    "fourthDownEff": "0-2",
+    "totalYards": "242",
+    "netPassingYards": "181",
+    "completionAttempts": "15/26",
+    "yardsPerPass": "7.0",
+    "rushingYards": "61",
+    "rushingAttempts": "27",
+    "yardsPerRushAttempt": "2.3",
+    "totalPenaltiesYards": "5-23",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "25:53"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "1:32",
+   "team": "UK",
+   "text": "CJ Baxter 5 Yd pass from Kenny Minchey (Adam Zouagui Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "2:06",
+   "team": "FLA",
+   "text": "Team Safety "
+  },
+  {
+   "period": 3,
+   "clock": "10:06",
+   "team": "FLA",
+   "text": "Jadan Baugh 1 Yd Run (Aaron Philo Run for Two-Point Conversion)"
+  },
+  {
+   "period": 3,
+   "clock": "7:20",
+   "team": "UK",
+   "text": "Kenny Minchey 1 Yd Run (Adam Zouagui Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "3:16",
+   "team": "FLA",
+   "text": "Patrick Durkin 37 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "9:08",
+   "team": "FLA",
+   "text": "Aaron Philo 2 Yd Run (Kahleil Jackson Pass to Dallas Wilson for Two-Point Conversion)"
+  }
+ ]
+}

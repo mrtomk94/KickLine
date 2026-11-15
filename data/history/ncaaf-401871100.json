@@ -1,0 +1,120 @@
+{
+ "id": "ncaaf-401871100",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-15T00:00Z",
+ "home": {
+  "name": "South Alabama Jaguars",
+  "abbr": "USA",
+  "teamId": "6",
+  "score": 27.0
+ },
+ "away": {
+  "name": "Troy Trojans",
+  "abbr": "TROY",
+  "teamId": "2653",
+  "score": 14.0
+ },
+ "odds": {
+  "mlAway": "+130",
+  "mlAwayOpen": "+102",
+  "mlHome": "-155",
+  "mlHomeOpen": "-122",
+  "provider": "Draft Kings",
+  "spread": "USA -3",
+  "spreadOpen": "USA -2.5",
+  "total": "55.5",
+  "totalOpen": "56.5"
+ },
+ "espnWinProb": {
+  "away": 41.6,
+  "home": 58.4
+ },
+ "teams": {
+  "away": {
+   "abbr": "TROY",
+   "stats": {
+    "firstDowns": "20",
+    "thirdDownEff": "5-17",
+    "fourthDownEff": "3-6",
+    "totalYards": "354",
+    "netPassingYards": "231",
+    "completionAttempts": "24/41",
+    "yardsPerPass": "5.6",
+    "rushingYards": "123",
+    "rushingAttempts": "33",
+    "yardsPerRushAttempt": "3.7",
+    "totalPenaltiesYards": "9-95",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "32:32"
+   }
+  },
+  "home": {
+   "abbr": "USA",
+   "stats": {
+    "firstDowns": "17",
+    "thirdDownEff": "5-14",
+    "fourthDownEff": "1-1",
+    "totalYards": "368",
+    "netPassingYards": "122",
+    "completionAttempts": "9/21",
+    "yardsPerPass": "5.8",
+    "rushingYards": "246",
+    "rushingAttempts": "39",
+    "yardsPerRushAttempt": "6.3",
+    "totalPenaltiesYards": "7-65",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "27:28"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "13:34",
+   "team": "USA",
+   "text": "Trae'von Dunbar 46 Yd Run (Dylan Freebury Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "0:37",
+   "team": "USA",
+   "text": "Trae'von Dunbar 44 Yd Run (Dylan Freebury Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "11:21",
+   "team": "TROY",
+   "text": "Goose Crowder 45 Yd Run (Hayden Wolfe Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "4:02",
+   "team": "USA",
+   "text": "Dylan Freebury 29 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "10:52",
+   "team": "USA",
+   "text": "Dylan Freebury 24 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "5:11",
+   "team": "USA",
+   "text": "Bishop Davenport 28 Yd Run (Dylan Freebury Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "14:11",
+   "team": "TROY",
+   "text": "Nick Hampton 4 Yd pass from Goose Crowder (Hayden Wolfe Kick)"
+  }
+ ]
+}

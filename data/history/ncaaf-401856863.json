@@ -1,0 +1,156 @@
+{
+ "id": "ncaaf-401856863",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-15T02:30Z",
+ "home": {
+  "name": "#25 Oklahoma State",
+  "abbr": "OKST",
+  "teamId": "197",
+  "score": 27.0
+ },
+ "away": {
+  "name": "#12 Texas Tech",
+  "abbr": "TTU",
+  "teamId": "2641",
+  "score": 52.0
+ },
+ "odds": {
+  "mlAway": "+160",
+  "mlAwayOpen": "-625",
+  "mlHome": "-192",
+  "mlHomeOpen": "+455",
+  "provider": "DraftKings",
+  "spread": "OKST -4",
+  "spreadOpen": "TTU -15.5",
+  "total": "74.5",
+  "totalOpen": "61.5"
+ },
+ "espnWinProb": {
+  "away": 48.5,
+  "home": 51.5
+ },
+ "teams": {
+  "away": {
+   "abbr": "TTU",
+   "stats": {
+    "firstDowns": "17",
+    "thirdDownEff": "5-13",
+    "fourthDownEff": "0-0",
+    "totalYards": "442",
+    "netPassingYards": "268",
+    "completionAttempts": "13/24",
+    "yardsPerPass": "11.2",
+    "rushingYards": "174",
+    "rushingAttempts": "36",
+    "yardsPerRushAttempt": "4.8",
+    "totalPenaltiesYards": "7-55",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "26:51"
+   }
+  },
+  "home": {
+   "abbr": "OKST",
+   "stats": {
+    "firstDowns": "23",
+    "thirdDownEff": "5-19",
+    "fourthDownEff": "1-4",
+    "totalYards": "465",
+    "netPassingYards": "297",
+    "completionAttempts": "29/49",
+    "yardsPerPass": "6.1",
+    "rushingYards": "168",
+    "rushingAttempts": "38",
+    "yardsPerRushAttempt": "4.4",
+    "totalPenaltiesYards": "2-25",
+    "turnovers": "2",
+    "fumblesLost": "0",
+    "interceptions": "2",
+    "possessionTime": "33:09"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "14:46",
+   "team": "TTU",
+   "text": "Malcolm Simmons 97 Yd Kickoff Return (Stone Harrington Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "12:03",
+   "team": "TTU",
+   "text": "J'Koby Williams 34 Yd Run (Stone Harrington Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "0:53",
+   "team": "TTU",
+   "text": "Terrance Carter Jr. 8 Yd pass from Thomas Castellanos (Stone Harrington Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "13:30",
+   "team": "OKST",
+   "text": "Sam Keltner 40 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "7:33",
+   "team": "OKST",
+   "text": "Drew Mestemaker 13 Yd Run (Sam Keltner Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "3:55",
+   "team": "OKST",
+   "text": "Morgan McPhaul 18 Yd pass from Drew Mestemaker (Sam Keltner Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "3:38",
+   "team": "TTU",
+   "text": "Micah Hudson 80 Yd pass from Thomas Castellanos (Stone Harrington Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:10",
+   "team": "OKST",
+   "text": "Sam Keltner 24 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "12:54",
+   "team": "TTU",
+   "text": "Malcolm Simmons 45 Yd pass from Thomas Castellanos (Stone Harrington Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "14:54",
+   "team": "TTU",
+   "text": "Kenny Johnson 30 Yd pass from Thomas Castellanos (Stone Harrington Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "8:59",
+   "team": "TTU",
+   "text": "Stone Harrington 54 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "8:12",
+   "team": "TTU",
+   "text": "Cameron Dickey 2 Yd Run (Stone Harrington Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "0:54",
+   "team": "OKST",
+   "text": "William Mason 10 Yd Run (Sam Keltner Kick)"
+  }
+ ]
+}

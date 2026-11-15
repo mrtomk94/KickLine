@@ -1,0 +1,156 @@
+{
+ "id": "ncaaf-401860914",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T23:00Z",
+ "home": {
+  "name": "#24 Boise State",
+  "abbr": "BOIS",
+  "teamId": "68",
+  "score": 46.0
+ },
+ "away": {
+  "name": "Oregon State Beavers",
+  "abbr": "ORST",
+  "teamId": "204",
+  "score": 41.0
+ },
+ "odds": {
+  "mlAway": "+575",
+  "mlAwayOpen": "+150",
+  "mlHome": "-850",
+  "mlHomeOpen": "-180",
+  "provider": "Draft Kings",
+  "spread": "BOIS -17.5",
+  "spreadOpen": "BOIS -4.5",
+  "total": "66.5",
+  "totalOpen": "62.5"
+ },
+ "espnWinProb": {
+  "away": 17.9,
+  "home": 82.1
+ },
+ "teams": {
+  "away": {
+   "abbr": "ORST",
+   "stats": {
+    "firstDowns": "26",
+    "thirdDownEff": "6-9",
+    "fourthDownEff": "0-0",
+    "totalYards": "506",
+    "netPassingYards": "396",
+    "completionAttempts": "31/39",
+    "yardsPerPass": "10.2",
+    "rushingYards": "110",
+    "rushingAttempts": "28",
+    "yardsPerRushAttempt": "3.9",
+    "totalPenaltiesYards": "4-35",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "27:27"
+   }
+  },
+  "home": {
+   "abbr": "BOIS",
+   "stats": {
+    "firstDowns": "26",
+    "thirdDownEff": "5-12",
+    "fourthDownEff": "2-2",
+    "totalYards": "520",
+    "netPassingYards": "371",
+    "completionAttempts": "23/32",
+    "yardsPerPass": "11.6",
+    "rushingYards": "149",
+    "rushingAttempts": "34",
+    "yardsPerRushAttempt": "4.4",
+    "totalPenaltiesYards": "7-56",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "32:33"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "12:07",
+   "team": "ORST",
+   "text": "Jesse Legree 15 Yd pass from Maalik Murphy (Caleb Ojeda Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "3:52",
+   "team": "BOIS",
+   "text": "Rasean Jones 19 Yd pass from Maddux Madsen (Canaan Moore Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "1:47",
+   "team": "BOIS",
+   "text": "Travis Anderson 58 Yd Interception Return (Zeke Martinez Pass to Matt Wagner for Two-Point Conversion)"
+  },
+  {
+   "period": 2,
+   "clock": "12:22",
+   "team": "ORST",
+   "text": "Cornell Hatcher Jr. 2 Yd Run (Two-Point Pass Conversion Failed)"
+  },
+  {
+   "period": 2,
+   "clock": "8:46",
+   "team": "BOIS",
+   "text": "Rasean Jones 16 Yd pass from Maddux Madsen (Canaan Moore Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "2:10",
+   "team": "BOIS",
+   "text": "Sire Gaines 4 Yd Run (Canaan Moore Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:43",
+   "team": "ORST",
+   "text": "Jake Reichle 1 Yd Run (Caleb Ojeda Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:05",
+   "team": "BOIS",
+   "text": "Canaan Moore 38 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "5:40",
+   "team": "ORST",
+   "text": "Jake Reichle 5 Yd Run (Caleb Ojeda Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "14:13",
+   "team": "BOIS",
+   "text": "Matt Wagner 9 Yd pass from Maddux Madsen (Canaan Moore Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "10:37",
+   "team": "ORST",
+   "text": "Cynai Thomas 12 Yd pass from Maalik Murphy (Caleb Ojeda Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "6:16",
+   "team": "BOIS",
+   "text": "Rasean Jones 26 Yd pass from Maddux Madsen (Canaan Moore Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "4:25",
+   "team": "ORST",
+   "text": "Eric Olsen 20 Yd pass from Maalik Murphy (Caleb Ojeda Kick)"
+  }
+ ]
+}

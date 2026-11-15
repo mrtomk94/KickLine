@@ -1,0 +1,108 @@
+{
+ "id": "ncaaf-401858519",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-15T00:30Z",
+ "home": {
+  "name": "#15 Iowa",
+  "abbr": "IOWA",
+  "teamId": "2294",
+  "score": 28.0
+ },
+ "away": {
+  "name": "Purdue Boilermakers",
+  "abbr": "PUR",
+  "teamId": "2509",
+  "score": 7.0
+ },
+ "odds": {
+  "mlAway": "+675",
+  "mlAwayOpen": "+455",
+  "mlHome": "-1050",
+  "mlHomeOpen": "-625",
+  "provider": "Draft Kings",
+  "spread": "IOWA -18.5",
+  "spreadOpen": "IOWA -16.5",
+  "total": "47.5",
+  "totalOpen": "45.5"
+ },
+ "espnWinProb": {
+  "away": 12.9,
+  "home": 87.1
+ },
+ "teams": {
+  "away": {
+   "abbr": "PUR",
+   "stats": {
+    "firstDowns": "16",
+    "thirdDownEff": "5-11",
+    "fourthDownEff": "0-2",
+    "totalYards": "303",
+    "netPassingYards": "204",
+    "completionAttempts": "17/28",
+    "yardsPerPass": "7.3",
+    "rushingYards": "99",
+    "rushingAttempts": "28",
+    "yardsPerRushAttempt": "3.5",
+    "totalPenaltiesYards": "8-58",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "24:46"
+   }
+  },
+  "home": {
+   "abbr": "IOWA",
+   "stats": {
+    "firstDowns": "27",
+    "thirdDownEff": "10-15",
+    "fourthDownEff": "1-1",
+    "totalYards": "434",
+    "netPassingYards": "188",
+    "completionAttempts": "20/29",
+    "yardsPerPass": "6.5",
+    "rushingYards": "246",
+    "rushingAttempts": "44",
+    "yardsPerRushAttempt": "5.6",
+    "totalPenaltiesYards": "3-35",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "35:14"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "3:19",
+   "team": "IOWA",
+   "text": "Hank Brown 1 Yd Run (Caden Buhr Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "6:35",
+   "team": "IOWA",
+   "text": "Tony Diaz 14 Yd Run (Caden Buhr Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:49",
+   "team": "PUR",
+   "text": "George Burhenn 3 Yd pass from Ryan Browne (Jacobo Echeverria Lozano Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:05",
+   "team": "IOWA",
+   "text": "Braeden Jackson 44 Yd pass from Hank Brown (Caden Buhr Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "11:07",
+   "team": "IOWA",
+   "text": "Xavier Williams 48 Yd Run (Caden Buhr Kick)"
+  }
+ ]
+}

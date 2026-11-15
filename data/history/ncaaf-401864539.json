@@ -1,0 +1,114 @@
+{
+ "id": "ncaaf-401864539",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-15T00:30Z",
+ "home": {
+  "name": "New Mexico Lobos",
+  "abbr": "UNM",
+  "teamId": "167",
+  "score": 17.0
+ },
+ "away": {
+  "name": "UNLV Rebels",
+  "abbr": "UNLV",
+  "teamId": "2439",
+  "score": 21.0
+ },
+ "odds": {
+  "mlAway": "+625",
+  "mlAwayOpen": "+470",
+  "mlHome": "-950",
+  "mlHomeOpen": "-650",
+  "provider": "Draft Kings",
+  "spread": "UNM -17.5",
+  "spreadOpen": "UNM -13.5",
+  "total": "46.5",
+  "totalOpen": "47.5"
+ },
+ "espnWinProb": {
+  "away": 13.2,
+  "home": 86.8
+ },
+ "teams": {
+  "away": {
+   "abbr": "UNLV",
+   "stats": {
+    "firstDowns": "17",
+    "thirdDownEff": "7-15",
+    "fourthDownEff": "1-2",
+    "totalYards": "327",
+    "netPassingYards": "209",
+    "completionAttempts": "13/27",
+    "yardsPerPass": "7.7",
+    "rushingYards": "118",
+    "rushingAttempts": "33",
+    "yardsPerRushAttempt": "3.6",
+    "totalPenaltiesYards": "6-35",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "interceptions": "1",
+    "possessionTime": "26:57"
+   }
+  },
+  "home": {
+   "abbr": "UNM",
+   "stats": {
+    "firstDowns": "15",
+    "thirdDownEff": "3-13",
+    "fourthDownEff": "1-3",
+    "totalYards": "308",
+    "netPassingYards": "105",
+    "completionAttempts": "8/15",
+    "yardsPerPass": "7.0",
+    "rushingYards": "203",
+    "rushingAttempts": "48",
+    "yardsPerRushAttempt": "4.2",
+    "totalPenaltiesYards": "6-40",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "33:03"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "7:21",
+   "team": "UNM",
+   "text": "Scottre Humphrey 3 Yd Run (Nick Romero Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "10:36",
+   "team": "UNM",
+   "text": "Cade Keith 9 Yd pass from Toa Fa'avae (Nick Romero Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:38",
+   "team": "UNLV",
+   "text": "Keyan Burnett 16 Yd pass from Jackson Arnold (Ramon Villela Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "5:36",
+   "team": "UNM",
+   "text": "Nick Romero 36 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "11:40",
+   "team": "UNLV",
+   "text": "Kayden McGee 43 Yd pass from Jackson Arnold (Ramon Villela Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "7:26",
+   "team": "UNLV",
+   "text": "Jackson Arnold 44 Yd Run (Ramon Villela Kick)"
+  }
+ ]
+}

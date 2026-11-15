@@ -1,0 +1,150 @@
+{
+ "id": "ncaaf-401860917",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-15T03:45Z",
+ "home": {
+  "name": "Washington State Cougars",
+  "abbr": "WSU",
+  "teamId": "265",
+  "score": 73.0
+ },
+ "away": {
+  "name": "Colorado State Rams",
+  "abbr": "CSU",
+  "teamId": "36",
+  "score": 7.0
+ },
+ "odds": {
+  "mlAway": "+250",
+  "mlAwayOpen": "+170",
+  "mlHome": "-310",
+  "mlHomeOpen": "-205",
+  "provider": "DraftKings",
+  "spread": "WSU -8.5",
+  "spreadOpen": "WSU -6.5",
+  "total": "64.5",
+  "totalOpen": "62.5"
+ },
+ "espnWinProb": {
+  "away": 29.6,
+  "home": 70.4
+ },
+ "teams": {
+  "away": {
+   "abbr": "CSU",
+   "stats": {
+    "firstDowns": "11",
+    "thirdDownEff": "3-11",
+    "fourthDownEff": "0-3",
+    "totalYards": "274",
+    "netPassingYards": "213",
+    "completionAttempts": "15/26",
+    "yardsPerPass": "8.2",
+    "rushingYards": "61",
+    "rushingAttempts": "24",
+    "yardsPerRushAttempt": "2.5",
+    "totalPenaltiesYards": "3-40",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "interceptions": "1",
+    "possessionTime": "22:41"
+   }
+  },
+  "home": {
+   "abbr": "WSU",
+   "stats": {
+    "firstDowns": "35",
+    "thirdDownEff": "9-10",
+    "fourthDownEff": "0-0",
+    "totalYards": "674",
+    "netPassingYards": "139",
+    "completionAttempts": "14/15",
+    "yardsPerPass": "9.3",
+    "rushingYards": "535",
+    "rushingAttempts": "58",
+    "yardsPerRushAttempt": "9.2",
+    "totalPenaltiesYards": "1-10",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "37:19"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "6:36",
+   "team": "WSU",
+   "text": "Kirby Vorhees 3 Yd Run (Jack Stevens Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "0:55",
+   "team": "WSU",
+   "text": "Kirby Vorhees 98 Yd Run (Jack Stevens Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "12:27",
+   "team": "WSU",
+   "text": "Owen Eshelman 4 Yd Run (Jack Stevens Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "7:31",
+   "team": "WSU",
+   "text": "Owen Eshelman 9 Yd Run (Jack Stevens Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "2:16",
+   "team": "WSU",
+   "text": "Kirby Vorhees 14 Yd Run (Jack Stevens Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:38",
+   "team": "CSU",
+   "text": "RJ Vick 1 Yd Run (Kali Nguma Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:00",
+   "team": "WSU",
+   "text": "Jack Stevens 33 Yd Field Goal "
+  },
+  {
+   "period": 3,
+   "clock": "13:26",
+   "team": "WSU",
+   "text": "Branden Ganashamoorthy 30 Yd pass from Owen Eshelman (Jack Stevens Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "7:14",
+   "team": "WSU",
+   "text": "Owen Eshelman 1 Yd Run (Jack Stevens Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "3:48",
+   "team": "WSU",
+   "text": "Kirby Vorhees 10 Yd Run (Jack Stevens Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "12:13",
+   "team": "WSU",
+   "text": "Maxwell Woods 2 Yd Run (Jack Stevens Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "9:10",
+   "team": "WSU",
+   "text": "Julian Dugger 60 Yd Run (Miguel Arenas Kick)"
+  }
+ ]
+}

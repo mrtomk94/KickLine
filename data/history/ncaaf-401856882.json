@@ -1,0 +1,120 @@
+{
+ "id": "ncaaf-401856882",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-15T00:45Z",
+ "home": {
+  "name": "Arkansas Razorbacks",
+  "abbr": "ARK",
+  "teamId": "8",
+  "score": 34.0
+ },
+ "away": {
+  "name": "#17 South Carolina",
+  "abbr": "SC",
+  "teamId": "2579",
+  "score": 6.0
+ },
+ "odds": {
+  "mlAway": "-325",
+  "mlAwayOpen": "-340",
+  "mlHome": "+260",
+  "mlHomeOpen": "+270",
+  "provider": "Draft Kings",
+  "spread": "SC -7.5",
+  "spreadOpen": "SC -8.5",
+  "total": "51.5",
+  "totalOpen": "51.5"
+ },
+ "espnWinProb": {
+  "away": 77.2,
+  "home": 22.8
+ },
+ "teams": {
+  "away": {
+   "abbr": "SC",
+   "stats": {
+    "firstDowns": "19",
+    "thirdDownEff": "8-17",
+    "fourthDownEff": "1-3",
+    "totalYards": "369",
+    "netPassingYards": "271",
+    "completionAttempts": "24/43",
+    "yardsPerPass": "6.3",
+    "rushingYards": "98",
+    "rushingAttempts": "30",
+    "yardsPerRushAttempt": "3.3",
+    "totalPenaltiesYards": "12-91",
+    "turnovers": "4",
+    "fumblesLost": "1",
+    "interceptions": "3",
+    "possessionTime": "27:14"
+   }
+  },
+  "home": {
+   "abbr": "ARK",
+   "stats": {
+    "firstDowns": "21",
+    "thirdDownEff": "5-15",
+    "fourthDownEff": "2-2",
+    "totalYards": "355",
+    "netPassingYards": "188",
+    "completionAttempts": "15/24",
+    "yardsPerPass": "7.8",
+    "rushingYards": "167",
+    "rushingAttempts": "46",
+    "yardsPerRushAttempt": "3.6",
+    "totalPenaltiesYards": "7-65",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "32:46"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 2,
+   "clock": "12:31",
+   "team": "ARK",
+   "text": "Max Gilbert 31 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "4:10",
+   "team": "ARK",
+   "text": "Chris Marshall 23 Yd pass from KJ Jackson (Max Gilbert Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:12",
+   "team": "ARK",
+   "text": "Antonio Jordan 28 Yd pass from KJ Jackson (Max Gilbert Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "7:15",
+   "team": "SC",
+   "text": "Jabree Coleman 3 Yd Run (Two-Point Pass Conversion Failed)"
+  },
+  {
+   "period": 3,
+   "clock": "4:22",
+   "team": "ARK",
+   "text": "Joker Johnson 63 Yd Interception Return (Max Gilbert Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "7:17",
+   "team": "ARK",
+   "text": "Max Gilbert 30 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "1:50",
+   "team": "ARK",
+   "text": "Sutton Smith 7 Yd Run (Max Gilbert Kick)"
+  }
+ ]
+}

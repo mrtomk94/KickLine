@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401856885",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-15T00:30Z",
+ "home": {
+  "name": "#21 LSU",
+  "abbr": "LSU",
+  "teamId": "99",
+  "score": 21.0
+ },
+ "away": {
+  "name": "#6 Texas",
+  "abbr": "TEX",
+  "teamId": "251",
+  "score": 22.0
+ },
+ "odds": {
+  "mlAway": "+170",
+  "mlAwayOpen": "-155",
+  "mlHome": "-205",
+  "mlHomeOpen": "+130",
+  "provider": "Draft Kings",
+  "spread": "LSU -4.5",
+  "spreadOpen": "TEX -3",
+  "total": "47.5",
+  "totalOpen": "54.5"
+ },
+ "espnWinProb": {
+  "away": 47.4,
+  "home": 52.6
+ },
+ "teams": {
+  "away": {
+   "abbr": "TEX",
+   "stats": {
+    "firstDowns": "20",
+    "thirdDownEff": "7-17",
+    "fourthDownEff": "1-1",
+    "totalYards": "273",
+    "netPassingYards": "174",
+    "completionAttempts": "19/35",
+    "yardsPerPass": "5.0",
+    "rushingYards": "99",
+    "rushingAttempts": "32",
+    "yardsPerRushAttempt": "3.1",
+    "totalPenaltiesYards": "5-50",
+    "turnovers": "3",
+    "fumblesLost": "0",
+    "interceptions": "3",
+    "possessionTime": "29:38"
+   }
+  },
+  "home": {
+   "abbr": "LSU",
+   "stats": {
+    "firstDowns": "19",
+    "thirdDownEff": "7-14",
+    "fourthDownEff": "2-2",
+    "totalYards": "366",
+    "netPassingYards": "244",
+    "completionAttempts": "27/37",
+    "yardsPerPass": "6.6",
+    "rushingYards": "122",
+    "rushingAttempts": "30",
+    "yardsPerRushAttempt": "4.1",
+    "totalPenaltiesYards": "11-93",
+    "turnovers": "3",
+    "fumblesLost": "0",
+    "interceptions": "3",
+    "possessionTime": "30:22"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "10:31",
+   "team": "TEX",
+   "text": "Arch Manning 1 Yd Run (Gianni Spetic Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "5:16",
+   "team": "LSU",
+   "text": "Jackson Harris 10 Yd pass from Sam Leavitt (Scott Starzyk Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "9:17",
+   "team": "LSU",
+   "text": "Jackson Harris 9 Yd pass from Sam Leavitt (Scott Starzyk Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "3:22",
+   "team": "TEX",
+   "text": "Gianni Spetic 42 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "5:52",
+   "team": "LSU",
+   "text": "Dilin Jones 44 Yd Run (Scott Starzyk Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "1:35",
+   "team": "TEX",
+   "text": "Gianni Spetic 41 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "11:37",
+   "team": "TEX",
+   "text": "Gianni Spetic 50 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "0:03",
+   "team": "TEX",
+   "text": "Raleek Brown 4 Yd pass from Arch Manning (Two-Point Run Conversion Failed)"
+  }
+ ]
+}

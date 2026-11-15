@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401858524",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-15T00:00Z",
+ "home": {
+  "name": "Penn State Nittany Lions",
+  "abbr": "PSU",
+  "teamId": "213",
+  "score": 42.0
+ },
+ "away": {
+  "name": "Minnesota Golden Gophers",
+  "abbr": "MINN",
+  "teamId": "135",
+  "score": 14.0
+ },
+ "odds": {
+  "mlAway": "+380",
+  "mlAwayOpen": "+220",
+  "mlHome": "-500",
+  "mlHomeOpen": "-270",
+  "provider": "Draft Kings",
+  "spread": "PSU -12.5",
+  "spreadOpen": "PSU -7",
+  "total": "42.5",
+  "totalOpen": "43.5"
+ },
+ "espnWinProb": {
+  "away": 16.5,
+  "home": 83.5
+ },
+ "teams": {
+  "away": {
+   "abbr": "MINN",
+   "stats": {
+    "firstDowns": "14",
+    "thirdDownEff": "3-13",
+    "fourthDownEff": "3-4",
+    "totalYards": "226",
+    "netPassingYards": "185",
+    "completionAttempts": "16/30",
+    "yardsPerPass": "6.2",
+    "rushingYards": "41",
+    "rushingAttempts": "27",
+    "yardsPerRushAttempt": "1.5",
+    "totalPenaltiesYards": "6-40",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "27:30"
+   }
+  },
+  "home": {
+   "abbr": "PSU",
+   "stats": {
+    "firstDowns": "16",
+    "thirdDownEff": "5-12",
+    "fourthDownEff": "1-1",
+    "totalYards": "351",
+    "netPassingYards": "122",
+    "completionAttempts": "11/17",
+    "yardsPerPass": "7.2",
+    "rushingYards": "229",
+    "rushingAttempts": "41",
+    "yardsPerRushAttempt": "5.6",
+    "totalPenaltiesYards": "5-50",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "32:30"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "8:44",
+   "team": "PSU",
+   "text": "Rocco Becht 1 Yd Run (Ryan Barker Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "5:15",
+   "team": "PSU",
+   "text": "Benjamin Brahmer 19 Yd pass from Rocco Becht (Ryan Barker Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "10:10",
+   "team": "PSU",
+   "text": "Carson Hansen 46 Yd Run (Ryan Barker Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:33",
+   "team": "PSU",
+   "text": "Cam Wallace 1 Yd pass from Rocco Becht (Ryan Barker Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "8:33",
+   "team": "PSU",
+   "text": "Benjamin Brahmer 4 Yd pass from Rocco Becht (Ryan Barker Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "6:14",
+   "team": "MINN",
+   "text": "Javon Tracy 10 Yd pass from Drake Lindsey (Luke Drzewiecki Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "1:40",
+   "team": "MINN",
+   "text": "Javon Tracy 15 Yd pass from Drake Lindsey (Luke Drzewiecki Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "2:51",
+   "team": "PSU",
+   "text": "James Peoples 22 Yd pass from Alex Manske (Ryan Barker Kick)"
+  }
+ ]
+}

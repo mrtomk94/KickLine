@@ -1,0 +1,108 @@
+{
+ "id": "ncaaf-401856858",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-15T00:00Z",
+ "home": {
+  "name": "#10 BYU",
+  "abbr": "BYU",
+  "teamId": "252",
+  "score": 28.0
+ },
+ "away": {
+  "name": "Baylor Bears",
+  "abbr": "BAY",
+  "teamId": "239",
+  "score": 7.0
+ },
+ "odds": {
+  "mlAway": "+250",
+  "mlAwayOpen": "+245",
+  "mlHome": "-310",
+  "mlHomeOpen": "-305",
+  "provider": "Draft Kings",
+  "spread": "BYU -8.5",
+  "spreadOpen": "BYU -7.5",
+  "total": "49.5",
+  "totalOpen": "47.5"
+ },
+ "espnWinProb": {
+  "away": 31.9,
+  "home": 68.1
+ },
+ "teams": {
+  "away": {
+   "abbr": "BAY",
+   "stats": {
+    "firstDowns": "16",
+    "thirdDownEff": "9-16",
+    "fourthDownEff": "0-1",
+    "totalYards": "238",
+    "netPassingYards": "159",
+    "completionAttempts": "21/37",
+    "yardsPerPass": "4.3",
+    "rushingYards": "79",
+    "rushingAttempts": "23",
+    "yardsPerRushAttempt": "3.4",
+    "totalPenaltiesYards": "9-80",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "22:59"
+   }
+  },
+  "home": {
+   "abbr": "BYU",
+   "stats": {
+    "firstDowns": "23",
+    "thirdDownEff": "7-15",
+    "fourthDownEff": "2-2",
+    "totalYards": "312",
+    "netPassingYards": "123",
+    "completionAttempts": "15/25",
+    "yardsPerPass": "4.9",
+    "rushingYards": "189",
+    "rushingAttempts": "47",
+    "yardsPerRushAttempt": "4.0",
+    "totalPenaltiesYards": "7-60",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "37:01"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "9:14",
+   "team": "BYU",
+   "text": "Bear Bachmeier 8 Yd Run (Matthias Dunn Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "0:10",
+   "team": "BYU",
+   "text": "Bear Bachmeier 5 Yd Run (Matthias Dunn Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:40",
+   "team": "BYU",
+   "text": "Bear Bachmeier 1 Yd Run (Matthias Dunn Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "11:18",
+   "team": "BAY",
+   "text": "Matthew Klopfenstein 3 Yd pass from DJ Lagway (Rhett Armstrong Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "6:43",
+   "team": "BYU",
+   "text": "Jojo Phillips 23 Yd pass from Bear Bachmeier (Matthias Dunn Kick)"
+  }
+ ]
+}

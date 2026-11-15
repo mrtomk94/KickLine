@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401860915",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-15T02:30Z",
+ "home": {
+  "name": "San Diego State Aztecs",
+  "abbr": "SDSU",
+  "teamId": "21",
+  "score": 30.0
+ },
+ "away": {
+  "name": "Utah State Aggies",
+  "abbr": "USU",
+  "teamId": "328",
+  "score": 13.0
+ },
+ "odds": {
+  "mlAway": "-155",
+  "mlAwayOpen": "-130",
+  "mlHome": "+130",
+  "mlHomeOpen": "+110",
+  "provider": "DraftKings",
+  "spread": "USU -3",
+  "spreadOpen": "USU -2.5",
+  "total": "43.5",
+  "totalOpen": "44.5"
+ },
+ "espnWinProb": {
+  "away": 55.1,
+  "home": 44.9
+ },
+ "teams": {
+  "away": {
+   "abbr": "USU",
+   "stats": {
+    "firstDowns": "14",
+    "thirdDownEff": "3-14",
+    "fourthDownEff": "0-2",
+    "totalYards": "200",
+    "netPassingYards": "139",
+    "completionAttempts": "17/34",
+    "yardsPerPass": "4.1",
+    "rushingYards": "61",
+    "rushingAttempts": "29",
+    "yardsPerRushAttempt": "2.1",
+    "totalPenaltiesYards": "2-9",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "27:55"
+   }
+  },
+  "home": {
+   "abbr": "SDSU",
+   "stats": {
+    "firstDowns": "21",
+    "thirdDownEff": "8-16",
+    "fourthDownEff": "1-1",
+    "totalYards": "410",
+    "netPassingYards": "200",
+    "completionAttempts": "17/35",
+    "yardsPerPass": "5.7",
+    "rushingYards": "210",
+    "rushingAttempts": "43",
+    "yardsPerRushAttempt": "4.9",
+    "totalPenaltiesYards": "10-100",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "32:05"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "8:29",
+   "team": "USU",
+   "text": "Nehemiah Washington 0 Yd Fumble Recovery (Kian Afrookhteh Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "4:10",
+   "team": "SDSU",
+   "text": "Cooper DiLeva 31 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "1:25",
+   "team": "SDSU",
+   "text": "Lucky Sutton 4 Yd Run (Cooper DiLeva Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "7:03",
+   "team": "SDSU",
+   "text": "Kai Wallin 20 Yd pass from Cooper DiLeva (Cooper DiLeva Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "2:54",
+   "team": "SDSU",
+   "text": "Cooper DiLeva 42 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "12:06",
+   "team": "SDSU",
+   "text": "Cooper DiLeva 34 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "2:12",
+   "team": "SDSU",
+   "text": "Lucky Sutton 2 Yd Run (Cooper DiLeva Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "1:10",
+   "team": "USU",
+   "text": "Anthony Garcia 5 Yd pass from McCae Hillstead (Two-Point Pass Conversion Failed)"
+  }
+ ]
+}

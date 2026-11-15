@@ -1,0 +1,144 @@
+{
+ "id": "ncaaf-401858299",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-15T00:30Z",
+ "home": {
+  "name": "Virginia Tech Hokies",
+  "abbr": "VT",
+  "teamId": "259",
+  "score": 22.0
+ },
+ "away": {
+  "name": "Stanford Cardinal",
+  "abbr": "STAN",
+  "teamId": "24",
+  "score": 40.0
+ },
+ "odds": {
+  "mlAway": "+575",
+  "mlAwayOpen": "+600",
+  "mlHome": "-850",
+  "mlHomeOpen": "-900",
+  "provider": "Draft Kings",
+  "spread": "VT -17.5",
+  "spreadOpen": "VT -16.5",
+  "total": "57.5",
+  "totalOpen": "59.5"
+ },
+ "espnWinProb": {
+  "away": 9.6,
+  "home": 90.4
+ },
+ "teams": {
+  "away": {
+   "abbr": "STAN",
+   "stats": {
+    "firstDowns": "21",
+    "thirdDownEff": "5-14",
+    "fourthDownEff": "1-2",
+    "totalYards": "436",
+    "netPassingYards": "203",
+    "completionAttempts": "16/31",
+    "yardsPerPass": "6.5",
+    "rushingYards": "233",
+    "rushingAttempts": "41",
+    "yardsPerRushAttempt": "5.7",
+    "totalPenaltiesYards": "3-30",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "33:21"
+   }
+  },
+  "home": {
+   "abbr": "VT",
+   "stats": {
+    "firstDowns": "18",
+    "thirdDownEff": "7-17",
+    "fourthDownEff": "3-5",
+    "totalYards": "398",
+    "netPassingYards": "270",
+    "completionAttempts": "17/34",
+    "yardsPerPass": "7.9",
+    "rushingYards": "128",
+    "rushingAttempts": "39",
+    "yardsPerRushAttempt": "3.3",
+    "totalPenaltiesYards": "5-24",
+    "turnovers": "3",
+    "fumblesLost": "1",
+    "interceptions": "2",
+    "possessionTime": "26:39"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "2:33",
+   "team": "STAN",
+   "text": "Davis Warren 16 Yd Run (Emmet Kenney Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "9:06",
+   "team": "STAN",
+   "text": "Micah Ford 3 Yd Run (Emmet Kenney Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "7:40",
+   "team": "STAN",
+   "text": "Micah Ford 5 Yd Run (Emmet Kenney Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:53",
+   "team": "VT",
+   "text": "Jeffrey Overton Jr. 2 Yd Run (John Love Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:10",
+   "team": "STAN",
+   "text": "Emmet Kenney 31 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "6:15",
+   "team": "VT",
+   "text": "Davion Brown 69 Yd pass from Ethan Grunkemeyer (John Love Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "0:36",
+   "team": "STAN",
+   "text": "Emmet Kenney 46 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "11:58",
+   "team": "STAN",
+   "text": "Emmet Kenney 49 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "8:27",
+   "team": "STAN",
+   "text": "Micah Ford 2 Yd Run (Emmet Kenney Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "6:14",
+   "team": "VT",
+   "text": "Que'Sean Brown 9 Yd pass from Ethan Grunkemeyer (Ethan Grunkemeyer Pass to Luke Reynolds for Two-Point Conversion)"
+  },
+  {
+   "period": 4,
+   "clock": "2:14",
+   "team": "STAN",
+   "text": "Emmet Kenney 23 Yd Field Goal  "
+  }
+ ]
+}

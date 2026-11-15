@@ -1,0 +1,108 @@
+{
+ "id": "ncaaf-401864538",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-15T00:00Z",
+ "home": {
+  "name": "Air Force Falcons",
+  "abbr": "AFA",
+  "teamId": "2005",
+  "score": 24.0
+ },
+ "away": {
+  "name": "San José State Spartans",
+  "abbr": "SJSU",
+  "teamId": "23",
+  "score": 3.0
+ },
+ "odds": {
+  "mlAway": "+440",
+  "mlAwayOpen": "+310",
+  "mlHome": "-600",
+  "mlHomeOpen": "-395",
+  "provider": "Draft Kings",
+  "spread": "AF -14",
+  "spreadOpen": "AFA -10.5",
+  "total": "50.5",
+  "totalOpen": "49.5"
+ },
+ "espnWinProb": {
+  "away": 19.3,
+  "home": 80.7
+ },
+ "teams": {
+  "away": {
+   "abbr": "SJSU",
+   "stats": {
+    "firstDowns": "10",
+    "thirdDownEff": "2-12",
+    "fourthDownEff": "0-1",
+    "totalYards": "224",
+    "netPassingYards": "149",
+    "completionAttempts": "13/29",
+    "yardsPerPass": "5.1",
+    "rushingYards": "75",
+    "rushingAttempts": "18",
+    "yardsPerRushAttempt": "4.2",
+    "totalPenaltiesYards": "5-24",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "20:29"
+   }
+  },
+  "home": {
+   "abbr": "AFA",
+   "stats": {
+    "firstDowns": "22",
+    "thirdDownEff": "8-18",
+    "fourthDownEff": "2-5",
+    "totalYards": "451",
+    "netPassingYards": "0",
+    "completionAttempts": "0/5",
+    "yardsPerPass": "0.0",
+    "rushingYards": "452",
+    "rushingAttempts": "72",
+    "yardsPerRushAttempt": "6.3",
+    "totalPenaltiesYards": "1-10",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "39:31"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 2,
+   "clock": "10:58",
+   "team": "AFA",
+   "text": "Carter Cremascoli 38 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "3:24",
+   "team": "AFA",
+   "text": "Kemper Hodges 4 Yd Run (Carter Cremascoli Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:56",
+   "team": "AFA",
+   "text": "Evan Medders 81 Yd Run (Carter Cremascoli Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "12:22",
+   "team": "SJSU",
+   "text": "Trajan Sinatra 33 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "6:17",
+   "team": "AFA",
+   "text": "Kemper Hodges 7 Yd Run (Carter Cremascoli Kick)"
+  }
+ ]
+}
