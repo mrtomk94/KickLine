@@ -1,0 +1,114 @@
+{
+ "id": "ncaaf-401858523",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T20:30Z",
+ "home": {
+  "name": "#16 Oregon",
+  "abbr": "ORE",
+  "teamId": "2483",
+  "score": 31.0
+ },
+ "away": {
+  "name": "Michigan Wolverines",
+  "abbr": "MICH",
+  "teamId": "130",
+  "score": 7.0
+ },
+ "odds": {
+  "mlAway": "+310",
+  "mlAwayOpen": "+425",
+  "mlHome": "-395",
+  "mlHomeOpen": "-575",
+  "provider": "DraftKings",
+  "spread": "ORE -10",
+  "spreadOpen": "ORE -13.5",
+  "total": "39.5",
+  "totalOpen": "53.5"
+ },
+ "espnWinProb": {
+  "away": 14.3,
+  "home": 85.7
+ },
+ "teams": {
+  "away": {
+   "abbr": "MICH",
+   "stats": {
+    "firstDowns": "13",
+    "thirdDownEff": "4-13",
+    "fourthDownEff": "0-3",
+    "totalYards": "286",
+    "netPassingYards": "71",
+    "completionAttempts": "6/20",
+    "yardsPerPass": "3.6",
+    "rushingYards": "215",
+    "rushingAttempts": "40",
+    "yardsPerRushAttempt": "5.4",
+    "totalPenaltiesYards": "6-46",
+    "turnovers": "2",
+    "fumblesLost": "2",
+    "interceptions": "0",
+    "possessionTime": "29:39"
+   }
+  },
+  "home": {
+   "abbr": "ORE",
+   "stats": {
+    "firstDowns": "18",
+    "thirdDownEff": "6-15",
+    "fourthDownEff": "1-2",
+    "totalYards": "467",
+    "netPassingYards": "341",
+    "completionAttempts": "20/28",
+    "yardsPerPass": "12.2",
+    "rushingYards": "126",
+    "rushingAttempts": "36",
+    "yardsPerRushAttempt": "3.5",
+    "totalPenaltiesYards": "7-69",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "30:21"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "13:00",
+   "team": "ORE",
+   "text": "Jeremiah McClellan 60 Yd pass from Dylan Raiola (Gage Hurych Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "0:13",
+   "team": "ORE",
+   "text": "Da'Jaun Riggs 2 Yd pass from Dylan Raiola (Gage Hurych Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "14:49",
+   "team": "MICH",
+   "text": "Savion Hiter 70 Yd Run (Jacob Baggett Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:06",
+   "team": "ORE",
+   "text": "Dakorien Moore 59 Yd pass from Dylan Raiola (Gage Hurych Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "4:03",
+   "team": "ORE",
+   "text": "Dierre Hill Jr. 49 Yd pass from Dylan Raiola (Gage Hurych Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "0:40",
+   "team": "ORE",
+   "text": "Gage Hurych 21 Yd Field Goal  "
+  }
+ ]
+}

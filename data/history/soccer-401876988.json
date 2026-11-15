@@ -1,0 +1,306 @@
+{
+ "id": "soccer-401876988",
+ "sport": "soccer",
+ "league": "Liga MX",
+ "start": "2026-11-14T23:00Z",
+ "home": {
+  "name": "Querétaro",
+  "abbr": "QRO",
+  "teamId": "222",
+  "score": 0.0
+ },
+ "away": {
+  "name": "Monterrey",
+  "abbr": "MTY",
+  "teamId": "220",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+105",
+  "mlAwayOpen": "+100",
+  "mlDraw": "+250",
+  "mlHome": "+250",
+  "mlHomeOpen": "+235",
+  "provider": "DraftKings",
+  "spread": "MTY +105",
+  "spreadOpen": "MTY -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "QRO",
+   "stats": {
+    "foulsCommitted": "19",
+    "yellowCards": "4",
+    "redCards": "2",
+    "offsides": "2",
+    "wonCorners": "4",
+    "saves": "4",
+    "possessionPct": "27.5",
+    "totalShots": "12",
+    "shotsOnTarget": "2",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "151",
+    "totalPasses": "228",
+    "passPct": "0.7",
+    "accurateCrosses": "5",
+    "totalCrosses": "16",
+    "crossPct": "0.3",
+    "totalLongBalls": "54",
+    "accurateLongBalls": "16",
+    "longballPct": "0.3",
+    "blockedShots": "1",
+    "effectiveTackles": "10",
+    "totalTackles": "15",
+    "tacklePct": "0.7",
+    "interceptions": "2",
+    "effectiveClearance": "22",
+    "totalClearance": "22"
+   }
+  },
+  "away": {
+   "abbr": "MTY",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "6",
+    "saves": "2",
+    "possessionPct": "72.5",
+    "totalShots": "16",
+    "shotsOnTarget": "5",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "565",
+    "totalPasses": "638",
+    "passPct": "0.9",
+    "accurateCrosses": "6",
+    "totalCrosses": "18",
+    "crossPct": "0.3",
+    "totalLongBalls": "61",
+    "accurateLongBalls": "36",
+    "longballPct": "0.6",
+    "blockedShots": "3",
+    "effectiveTackles": "5",
+    "totalTackles": "7",
+    "tacklePct": "0.7",
+    "interceptions": "14",
+    "effectiveClearance": "24",
+    "totalClearance": "24"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "40'",
+   "team": null,
+   "text": "Ricardo Chávez (Monterrey) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": "First Half ends, Querétaro 0, Monterrey 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Monterrey. Aldo de Nigris replaces César Garza."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Monterrey. Luca Orellano replaces Ricardo Chávez."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "48'",
+   "team": null,
+   "text": "Goal! Querétaro 0, Monterrey 1. Diego Rossi (Monterrey) right footed shot from the left side of the six yard box to the centre of the goal."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "50'",
+   "team": null,
+   "text": "Daniel Parra (Querétaro) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Red Card",
+   "clock": "51'",
+   "team": null,
+   "text": "Guillermo Allison (Querétaro) is shown the red card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "51'",
+   "team": null,
+   "text": "Roberto de la Rosa (Monterrey) is shown the yellow card."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "52'",
+   "team": null,
+   "text": "Delay in match because of an injury Roberto de la Rosa (Monterrey)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "52'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "53'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "53'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "55'",
+   "team": null,
+   "text": "Substitution, Querétaro. José Hernández replaces Iker Benito."
+  },
+  {
+   "type": "Substitution",
+   "clock": "56'",
+   "team": null,
+   "text": "Substitution, Querétaro. Paulo Victor replaces Daniel Parra."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "58'",
+   "team": null,
+   "text": "Delay in match (Monterrey)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "58'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "59'",
+   "team": null,
+   "text": "Delay in match (Querétaro). VAR checking."
+  },
+  {
+   "type": "End Delay",
+   "clock": "60'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "60'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "60'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Monterrey. Fidel Ambríz replaces Roberto de la Rosa."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Querétaro. Denilson Muñoz replaces Carlos Villanueva."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "68'",
+   "team": null,
+   "text": "Denilson Muñoz (Querétaro) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "71'",
+   "team": null,
+   "text": "Lucas Abascia (Querétaro) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Monterrey. Jorge Rodríguez replaces Diego Rossi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Querétaro. Eduardo Pérez replaces Alí Ávila."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Querétaro. Waldo Madrid replaces Carlo García."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "79'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "80'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Red Card",
+   "clock": "80'",
+   "team": null,
+   "text": "Eduardo Pérez (Querétaro) is shown the red card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Diego Reyes (Querétaro) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+12'",
+   "team": null,
+   "text": "Second Half ends, Querétaro 0, Monterrey 1."
+  }
+ ],
+ "scoringPlays": []
+}

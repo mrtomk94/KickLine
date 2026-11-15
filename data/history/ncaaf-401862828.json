@@ -1,0 +1,120 @@
+{
+ "id": "ncaaf-401862828",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T21:30Z",
+ "home": {
+  "name": "Rice Owls",
+  "abbr": "RICE",
+  "teamId": "242",
+  "score": 17.0
+ },
+ "away": {
+  "name": "Tulane Green Wave",
+  "abbr": "TULN",
+  "teamId": "2655",
+  "score": 20.0
+ },
+ "odds": {
+  "mlAway": "+150",
+  "mlAwayOpen": "-112",
+  "mlHome": "-180",
+  "mlHomeOpen": "-108",
+  "provider": "DraftKings",
+  "spread": "RICE -3.5",
+  "spreadOpen": "TULN -1.5",
+  "total": "48.5",
+  "totalOpen": "46.5"
+ },
+ "espnWinProb": {
+  "away": 58.5,
+  "home": 41.5
+ },
+ "teams": {
+  "away": {
+   "abbr": "TULN",
+   "stats": {
+    "firstDowns": "20",
+    "thirdDownEff": "9-18",
+    "fourthDownEff": "3-4",
+    "totalYards": "351",
+    "netPassingYards": "190",
+    "completionAttempts": "19/39",
+    "yardsPerPass": "4.9",
+    "rushingYards": "161",
+    "rushingAttempts": "34",
+    "yardsPerRushAttempt": "4.7",
+    "totalPenaltiesYards": "2-20",
+    "turnovers": "2",
+    "fumblesLost": "0",
+    "interceptions": "2",
+    "possessionTime": "28:09"
+   }
+  },
+  "home": {
+   "abbr": "RICE",
+   "stats": {
+    "firstDowns": "16",
+    "thirdDownEff": "4-15",
+    "fourthDownEff": "4-6",
+    "totalYards": "256",
+    "netPassingYards": "32",
+    "completionAttempts": "5/14",
+    "yardsPerPass": "2.3",
+    "rushingYards": "224",
+    "rushingAttempts": "51",
+    "yardsPerRushAttempt": "4.4",
+    "totalPenaltiesYards": "1-15",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "31:51"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "9:22",
+   "team": "RICE",
+   "text": "Tommy Bauchiero 27 Yd Field Goal  "
+  },
+  {
+   "period": 1,
+   "clock": "2:51",
+   "team": "TULN",
+   "text": "Cooper Helmke 35 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "11:19",
+   "team": "RICE",
+   "text": "Max Mosey 4 Yd pass from Gael Ochoa (Tommy Bauchiero Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "6:27",
+   "team": "TULN",
+   "text": "Cooper Helmke 41 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "0:31",
+   "team": "RICE",
+   "text": "Jamir Benjamin 62 Yd Interception Return (Tommy Bauchiero Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "3:08",
+   "team": "TULN",
+   "text": "DJ Dugar 1 Yd Run (Cooper Helmke Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "9:50",
+   "team": "TULN",
+   "text": "Bredell Richardson 24 Yd pass from Trace Johnson (Cooper Helmke Kick)"
+  }
+ ]
+}

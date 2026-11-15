@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401858518",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T20:30Z",
+ "home": {
+  "name": "#9 Indiana",
+  "abbr": "IU",
+  "teamId": "84",
+  "score": 27.0
+ },
+ "away": {
+  "name": "#18 USC",
+  "abbr": "USC",
+  "teamId": "30",
+  "score": 13.0
+ },
+ "odds": {
+  "mlAway": "+270",
+  "mlAwayOpen": "+320",
+  "mlHome": "-340",
+  "mlHomeOpen": "-410",
+  "provider": "DraftKings",
+  "spread": "IU -9.5",
+  "spreadOpen": "IU -10.5",
+  "total": "51.5",
+  "totalOpen": "58.5"
+ },
+ "espnWinProb": {
+  "away": 21.8,
+  "home": 78.2
+ },
+ "teams": {
+  "away": {
+   "abbr": "USC",
+   "stats": {
+    "firstDowns": "21",
+    "thirdDownEff": "2-11",
+    "fourthDownEff": "0-1",
+    "totalYards": "409",
+    "netPassingYards": "311",
+    "completionAttempts": "26/42",
+    "yardsPerPass": "7.4",
+    "rushingYards": "98",
+    "rushingAttempts": "25",
+    "yardsPerRushAttempt": "3.9",
+    "totalPenaltiesYards": "8-87",
+    "turnovers": "3",
+    "fumblesLost": "0",
+    "interceptions": "3",
+    "possessionTime": "30:12"
+   }
+  },
+  "home": {
+   "abbr": "IU",
+   "stats": {
+    "firstDowns": "18",
+    "thirdDownEff": "7-13",
+    "fourthDownEff": "0-0",
+    "totalYards": "451",
+    "netPassingYards": "305",
+    "completionAttempts": "17/27",
+    "yardsPerPass": "11.3",
+    "rushingYards": "146",
+    "rushingAttempts": "35",
+    "yardsPerRushAttempt": "4.2",
+    "totalPenaltiesYards": "8-60",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "29:48"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "8:18",
+   "team": "IU",
+   "text": "Brock Schott 13 Yd pass from Grant Wilson (Nico Radicic Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "2:02",
+   "team": "USC",
+   "text": "Caden Chittenden 29 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "1:45",
+   "team": "IU",
+   "text": "Nico Radicic 21 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "0:21",
+   "team": "USC",
+   "text": "Zacharyus Williams 7 Yd pass from Jayden Maiava (Caden Chittenden Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "10:02",
+   "team": "IU",
+   "text": "Nico Radicic 24 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "4:27",
+   "team": "USC",
+   "text": "Caden Chittenden 25 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "2:39",
+   "team": "IU",
+   "text": "Khobie Martin 1 Yd Run (Nico Radicic Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "3:30",
+   "team": "IU",
+   "text": "Charlie Becker 42 Yd pass from Grant Wilson (Nico Radicic Kick)"
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "id": "ncaaf-401858521",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T22:30Z",
+ "home": {
+  "name": "Michigan State Spartans",
+  "abbr": "MSU",
+  "teamId": "127",
+  "score": 14.0
+ },
+ "away": {
+  "name": "Washington Huskies",
+  "abbr": "WASH",
+  "teamId": "264",
+  "score": 21.0
+ },
+ "odds": {
+  "mlAway": "-135",
+  "mlAwayOpen": "-155",
+  "mlHome": "+114",
+  "mlHomeOpen": "+130",
+  "provider": "DraftKings",
+  "spread": "WASH -2.5",
+  "spreadOpen": "WASH -3.5",
+  "total": "44.5",
+  "totalOpen": "45.5"
+ },
+ "espnWinProb": {
+  "away": 51.5,
+  "home": 48.5
+ },
+ "teams": {
+  "away": {
+   "abbr": "WASH",
+   "stats": {
+    "firstDowns": "17",
+    "thirdDownEff": "6-12",
+    "fourthDownEff": "0-0",
+    "totalYards": "332",
+    "netPassingYards": "288",
+    "completionAttempts": "22/33",
+    "yardsPerPass": "8.7",
+    "rushingYards": "44",
+    "rushingAttempts": "22",
+    "yardsPerRushAttempt": "2.0",
+    "totalPenaltiesYards": "6-50",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "27:19"
+   }
+  },
+  "home": {
+   "abbr": "MSU",
+   "stats": {
+    "firstDowns": "20",
+    "thirdDownEff": "5-14",
+    "fourthDownEff": "3-3",
+    "totalYards": "342",
+    "netPassingYards": "242",
+    "completionAttempts": "21/35",
+    "yardsPerPass": "6.9",
+    "rushingYards": "100",
+    "rushingAttempts": "36",
+    "yardsPerRushAttempt": "2.8",
+    "totalPenaltiesYards": "8-80",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "interceptions": "1",
+    "possessionTime": "32:41"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "11:38",
+   "team": "MSU",
+   "text": "C. Gulker run for 1 yd, for a TD (L. Boyd KICK)"
+  },
+  {
+   "period": 1,
+   "clock": "2:29",
+   "team": "WASH",
+   "text": "D. Williams Jr. pass to C. Lawson for 58 yds, for a TD (T. Robles KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "8:50",
+   "team": "WASH",
+   "text": "D. Williams Jr. pass to C. Lawson for 17 yds, for a TD (T. Robles KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "2:00",
+   "team": "MSU",
+   "text": "C. Fancher pass to B. Williams for 2 yds, for a TD (L. Boyd KICK)"
+  },
+  {
+   "period": 4,
+   "clock": "2:24",
+   "team": "WASH",
+   "text": "J. Limar run for 1 yd, for a TD (T. Robles KICK)"
+  }
+ ]
+}

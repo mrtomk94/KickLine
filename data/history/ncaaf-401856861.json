@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401856861",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T20:30Z",
+ "home": {
+  "name": "West Virginia Mountaineers",
+  "abbr": "WVU",
+  "teamId": "277",
+  "score": 14.0
+ },
+ "away": {
+  "name": "Kansas Jayhawks",
+  "abbr": "KU",
+  "teamId": "2305",
+  "score": 37.0
+ },
+ "odds": {
+  "mlAway": "+105",
+  "mlAwayOpen": "+114",
+  "mlHome": "-125",
+  "mlHomeOpen": "-135",
+  "provider": "DraftKings",
+  "spread": "WVU -1.5",
+  "spreadOpen": "WVU -2.5",
+  "total": "68.5",
+  "totalOpen": "64.5"
+ },
+ "espnWinProb": {
+  "away": 46.3,
+  "home": 53.7
+ },
+ "teams": {
+  "away": {
+   "abbr": "KU",
+   "stats": {
+    "firstDowns": "21",
+    "thirdDownEff": "7-15",
+    "fourthDownEff": "1-1",
+    "totalYards": "448",
+    "netPassingYards": "152",
+    "completionAttempts": "15/18",
+    "yardsPerPass": "8.4",
+    "rushingYards": "296",
+    "rushingAttempts": "55",
+    "yardsPerRushAttempt": "5.4",
+    "totalPenaltiesYards": "3-22",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "36:44"
+   }
+  },
+  "home": {
+   "abbr": "WVU",
+   "stats": {
+    "firstDowns": "15",
+    "thirdDownEff": "5-17",
+    "fourthDownEff": "3-5",
+    "totalYards": "262",
+    "netPassingYards": "227",
+    "completionAttempts": "19/34",
+    "yardsPerPass": "6.7",
+    "rushingYards": "35",
+    "rushingAttempts": "37",
+    "yardsPerRushAttempt": "0.9",
+    "totalPenaltiesYards": "4-20",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "23:16"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "10:05",
+   "team": "KU",
+   "text": "Martin Connington 24 Yd Field Goal  "
+  },
+  {
+   "period": 1,
+   "clock": "8:52",
+   "team": "KU",
+   "text": "Khijohnn Cummings-Coleman 5 Yd Run (Martin Connington Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "4:35",
+   "team": "WVU",
+   "text": "Michael Hawkins Jr. 2 Yd Run (Jack Cassidy Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "1:01",
+   "team": "KU",
+   "text": "Khijohnn Cummings-Coleman 26 Yd Run (Martin Connington Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "6:17",
+   "team": "KU",
+   "text": "Chase Belcher 2 Yd Run (Martin Connington PAT failed)"
+  },
+  {
+   "period": 2,
+   "clock": "0:45",
+   "team": "KU",
+   "text": "Isaiah Marshall 2 Yd Run (Martin Connington Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "14:57",
+   "team": "KU",
+   "text": "Chase Belcher 8 Yd Run (Martin Connington Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "5:01",
+   "team": "WVU",
+   "text": "John Neider 17 Yd pass from Michael Hawkins Jr. (Jack Cassidy Kick)"
+  }
+ ]
+}

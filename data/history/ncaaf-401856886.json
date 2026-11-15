@@ -1,0 +1,132 @@
+{
+ "id": "ncaaf-401856886",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T21:15Z",
+ "home": {
+  "name": "Mississippi State Bulldogs",
+  "abbr": "MSST",
+  "teamId": "344",
+  "score": 9.0
+ },
+ "away": {
+  "name": "Auburn Tigers",
+  "abbr": "AUB",
+  "teamId": "2",
+  "score": 41.0
+ },
+ "odds": {
+  "mlAway": "-142",
+  "mlAwayOpen": "-148",
+  "mlHome": "+120",
+  "mlHomeOpen": "+124",
+  "provider": "DraftKings",
+  "spread": "AUB -2.5",
+  "spreadOpen": "AUB -3.5",
+  "total": "51.5",
+  "totalOpen": "51.5"
+ },
+ "espnWinProb": {
+  "away": 49.1,
+  "home": 50.9
+ },
+ "teams": {
+  "away": {
+   "abbr": "AUB",
+   "stats": {
+    "firstDowns": "21",
+    "thirdDownEff": "4-14",
+    "fourthDownEff": "1-1",
+    "totalYards": "371",
+    "netPassingYards": "229",
+    "completionAttempts": "20/28",
+    "yardsPerPass": "8.2",
+    "rushingYards": "142",
+    "rushingAttempts": "43",
+    "yardsPerRushAttempt": "3.3",
+    "totalPenaltiesYards": "9-68",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "29:55"
+   }
+  },
+  "home": {
+   "abbr": "MSST",
+   "stats": {
+    "firstDowns": "17",
+    "thirdDownEff": "3-16",
+    "fourthDownEff": "1-4",
+    "totalYards": "262",
+    "netPassingYards": "216",
+    "completionAttempts": "17/28",
+    "yardsPerPass": "7.7",
+    "rushingYards": "46",
+    "rushingAttempts": "46",
+    "yardsPerRushAttempt": "1.0",
+    "totalPenaltiesYards": "7-58",
+    "turnovers": "4",
+    "fumblesLost": "4",
+    "interceptions": "0",
+    "possessionTime": "30:05"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "8:39",
+   "team": "AUB",
+   "text": "Keshaun Singleton 26 Yd pass from Byrum Brown (Alex McPherson Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "1:44",
+   "team": "AUB",
+   "text": "Alex McPherson 37 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "14:51",
+   "team": "MSST",
+   "text": "Sanfrisco Magee 34 Yd pass from AJ Swann (Kyle Ferrie Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "6:52",
+   "team": "AUB",
+   "text": "Byrum Brown 1 Yd Run (Alex McPherson Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "4:23",
+   "team": "AUB",
+   "text": "Jeremiah Cobb 10 Yd Run (Alex McPherson Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:00",
+   "team": "AUB",
+   "text": "Alex McPherson 31 Yd Field Goal "
+  },
+  {
+   "period": 3,
+   "clock": "9:16",
+   "team": "AUB",
+   "text": "Chas Nimrod 35 Yd pass from Byrum Brown (Alex McPherson Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "5:52",
+   "team": "AUB",
+   "text": "Keshaun Singleton 42 Yd pass from Byrum Brown (Alex McPherson Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "13:54",
+   "team": "MSST",
+   "text": "Team Safety "
+  }
+ ]
+}

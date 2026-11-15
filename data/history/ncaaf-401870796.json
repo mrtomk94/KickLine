@@ -1,0 +1,120 @@
+{
+ "id": "ncaaf-401870796",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T20:00Z",
+ "home": {
+  "name": "Missouri State Bears",
+  "abbr": "MOST",
+  "teamId": "2623",
+  "score": 27.0
+ },
+ "away": {
+  "name": "New Mexico State Aggies",
+  "abbr": "NMSU",
+  "teamId": "166",
+  "score": 21.0
+ },
+ "odds": {
+  "mlAway": "+100",
+  "mlAwayOpen": "-105",
+  "mlHome": "-120",
+  "mlHomeOpen": "-115",
+  "provider": "DraftKings",
+  "spread": "MOST -1.5",
+  "spreadOpen": "MOST -1.5",
+  "total": "49.5",
+  "totalOpen": "50.5"
+ },
+ "espnWinProb": {
+  "away": 41.5,
+  "home": 58.5
+ },
+ "teams": {
+  "away": {
+   "abbr": "NMSU",
+   "stats": {
+    "firstDowns": "17",
+    "thirdDownEff": "5-15",
+    "fourthDownEff": "0-0",
+    "totalYards": "363",
+    "netPassingYards": "110",
+    "completionAttempts": "11/28",
+    "yardsPerPass": "3.9",
+    "rushingYards": "253",
+    "rushingAttempts": "44",
+    "yardsPerRushAttempt": "5.8",
+    "totalPenaltiesYards": "12-115",
+    "turnovers": "3",
+    "fumblesLost": "1",
+    "interceptions": "2",
+    "possessionTime": "33:16"
+   }
+  },
+  "home": {
+   "abbr": "MOST",
+   "stats": {
+    "firstDowns": "17",
+    "thirdDownEff": "3-13",
+    "fourthDownEff": "1-3",
+    "totalYards": "292",
+    "netPassingYards": "187",
+    "completionAttempts": "20/37",
+    "yardsPerPass": "5.1",
+    "rushingYards": "105",
+    "rushingAttempts": "29",
+    "yardsPerRushAttempt": "3.6",
+    "totalPenaltiesYards": "4-40",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "26:44"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 2,
+   "clock": "13:13",
+   "team": "MOST",
+   "text": "Dylan Brooks 15 Yd Interception Return (Yousef Obeid Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "10:01",
+   "team": "NMSU",
+   "text": "Brodie Malone-Bradford 17 Yd pass from Trey Hedden (Kyah Francone Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:08",
+   "team": "MOST",
+   "text": "Jmariyae Robinson 9 Yd pass from Henry Belin IV (Yousef Obeid Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "4:47",
+   "team": "NMSU",
+   "text": "TJ Washington Jr. 14 Yd pass from Trey Hedden (Kyah Francone Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "9:09",
+   "team": "NMSU",
+   "text": "James Jones 1 Yd Run (Kyah Francone Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "0:56",
+   "team": "MOST",
+   "text": "Connor Lair 5 Yd Run (Yousef Obeid Kick)"
+  },
+  {
+   "period": 5,
+   "clock": "0:00",
+   "team": "MOST",
+   "text": "Joel Boamah 88 Yd Interception Return  "
+  }
+ ]
+}

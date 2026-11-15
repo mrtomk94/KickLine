@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401871061",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T20:30Z",
+ "home": {
+  "name": "Liberty Flames",
+  "abbr": "LIB",
+  "teamId": "2335",
+  "score": 28.0
+ },
+ "away": {
+  "name": "Middle Tennessee Blue Raiders",
+  "abbr": "MTSU",
+  "teamId": "2393",
+  "score": 23.0
+ },
+ "odds": {
+  "mlAway": "+950",
+  "mlAwayOpen": "+1100",
+  "mlHome": "-1650",
+  "mlHomeOpen": "-2100",
+  "provider": "DraftKings",
+  "spread": "LIB -21",
+  "spreadOpen": "LIB -20.5",
+  "total": "53.5",
+  "totalOpen": "54.5"
+ },
+ "espnWinProb": {
+  "away": 5.2,
+  "home": 94.8
+ },
+ "teams": {
+  "away": {
+   "abbr": "MTSU",
+   "stats": {
+    "firstDowns": "18",
+    "thirdDownEff": "4-12",
+    "fourthDownEff": "1-1",
+    "totalYards": "290",
+    "netPassingYards": "202",
+    "completionAttempts": "24/35",
+    "yardsPerPass": "5.8",
+    "rushingYards": "88",
+    "rushingAttempts": "21",
+    "yardsPerRushAttempt": "4.2",
+    "totalPenaltiesYards": "7-47",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "23:28"
+   }
+  },
+  "home": {
+   "abbr": "LIB",
+   "stats": {
+    "firstDowns": "28",
+    "thirdDownEff": "6-12",
+    "fourthDownEff": "1-4",
+    "totalYards": "434",
+    "netPassingYards": "64",
+    "completionAttempts": "8/18",
+    "yardsPerPass": "3.6",
+    "rushingYards": "370",
+    "rushingAttempts": "53",
+    "yardsPerRushAttempt": "7.0",
+    "totalPenaltiesYards": "3-39",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "36:32"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "7:06",
+   "team": "LIB",
+   "text": "Jaylon Coleman 45 Yd Run (Chase Reeves Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "13:32",
+   "team": "MTSU",
+   "text": "Dominic Bourgeois 45 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "8:49",
+   "team": "MTSU",
+   "text": "Antonio Martin 8 Yd Run (Dominic Bourgeois Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "2:06",
+   "team": "LIB",
+   "text": "Jaylin Belford 3 Yd Run (Chase Reeves Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "12:08",
+   "team": "LIB",
+   "text": "Kam Davis 23 Yd Run (Chase Reeves Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "5:25",
+   "team": "MTSU",
+   "text": "Ziyon Butler 23 Yd pass from Roman Gagliano (Dominic Bourgeois Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "14:23",
+   "team": "LIB",
+   "text": "Makai Jackson 10 Yd pass from Deshawn Purdie (Chase Reeves Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "6:18",
+   "team": "MTSU",
+   "text": "Neo Clifton 14 Yd pass from Roman Gagliano (Two-Point Run Conversion Failed)"
+  }
+ ]
+}

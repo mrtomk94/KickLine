@@ -1,0 +1,120 @@
+{
+ "id": "ncaaf-401871060",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T20:00Z",
+ "home": {
+  "name": "Delaware Blue Hens",
+  "abbr": "DEL",
+  "teamId": "48",
+  "score": 24.0
+ },
+ "away": {
+  "name": "Florida International Panthers",
+  "abbr": "FIU",
+  "teamId": "2229",
+  "score": 16.0
+ },
+ "odds": {
+  "mlAway": "+154",
+  "mlAwayOpen": "+170",
+  "mlHome": "-185",
+  "mlHomeOpen": "-218",
+  "provider": "DraftKings",
+  "spread": "DEL -3.5",
+  "spreadOpen": "DEL -6.5",
+  "total": "54.5",
+  "totalOpen": "50.5"
+ },
+ "espnWinProb": {
+  "away": 32.4,
+  "home": 67.6
+ },
+ "teams": {
+  "away": {
+   "abbr": "FIU",
+   "stats": {
+    "firstDowns": "22",
+    "thirdDownEff": "3-11",
+    "fourthDownEff": "3-5",
+    "totalYards": "414",
+    "netPassingYards": "313",
+    "completionAttempts": "26/38",
+    "yardsPerPass": "8.2",
+    "rushingYards": "101",
+    "rushingAttempts": "27",
+    "yardsPerRushAttempt": "3.7",
+    "totalPenaltiesYards": "8-68",
+    "turnovers": "2",
+    "fumblesLost": "0",
+    "interceptions": "2",
+    "possessionTime": "35:20"
+   }
+  },
+  "home": {
+   "abbr": "DEL",
+   "stats": {
+    "firstDowns": "18",
+    "thirdDownEff": "3-7",
+    "fourthDownEff": "1-2",
+    "totalYards": "335",
+    "netPassingYards": "230",
+    "completionAttempts": "27/31",
+    "yardsPerPass": "7.4",
+    "rushingYards": "105",
+    "rushingAttempts": "19",
+    "yardsPerRushAttempt": "5.5",
+    "totalPenaltiesYards": "6-49",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "24:40"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "9:08",
+   "team": "DEL",
+   "text": "Elijah Sessoms 11 Yd pass from Nick Minicucci (Tucker Smack Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "4:27",
+   "team": "FIU",
+   "text": "Devonte Lyons 2 Yd Run (Robert Czeremcha Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "8:24",
+   "team": "DEL",
+   "text": "Tucker Smack 22 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "12:41",
+   "team": "FIU",
+   "text": "Robert Czeremcha 30 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "8:46",
+   "team": "DEL",
+   "text": "Viron Ellison Jr. 7 Yd pass from Nick Minicucci (Tucker Smack Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "5:42",
+   "team": "FIU",
+   "text": "Tyson Carter 8 Yd pass from JJ Kohl (Robert Czeremcha PAT blocked)"
+  },
+  {
+   "period": 4,
+   "clock": "3:49",
+   "team": "DEL",
+   "text": "Nick Minicucci 1 Yd Run (Tucker Smack Kick)"
+  }
+ ]
+}

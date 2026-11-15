@@ -1,0 +1,162 @@
+{
+ "id": "ncaaf-401871099",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T22:00Z",
+ "home": {
+  "name": "Louisiana Tech Bulldogs",
+  "abbr": "LT",
+  "teamId": "2348",
+  "score": 63.0
+ },
+ "away": {
+  "name": "Southern Miss Golden Eagles",
+  "abbr": "USM",
+  "teamId": "2572",
+  "score": 31.0
+ },
+ "odds": {
+  "mlAway": "+625",
+  "mlAwayOpen": "+850",
+  "mlHome": "-950",
+  "mlHomeOpen": "-1450",
+  "provider": "DraftKings",
+  "spread": "LT -17.5",
+  "spreadOpen": "LT -18.5",
+  "total": "56.5",
+  "totalOpen": "54.5"
+ },
+ "espnWinProb": {
+  "away": 11.4,
+  "home": 88.6
+ },
+ "teams": {
+  "away": {
+   "abbr": "USM",
+   "stats": {
+    "firstDowns": "20",
+    "thirdDownEff": "4-16",
+    "fourthDownEff": "2-3",
+    "totalYards": "406",
+    "netPassingYards": "220",
+    "completionAttempts": "21/43",
+    "yardsPerPass": "5.1",
+    "rushingYards": "186",
+    "rushingAttempts": "38",
+    "yardsPerRushAttempt": "4.9",
+    "totalPenaltiesYards": "7-72",
+    "turnovers": "5",
+    "fumblesLost": "1",
+    "interceptions": "4",
+    "possessionTime": "30:35"
+   }
+  },
+  "home": {
+   "abbr": "LT",
+   "stats": {
+    "firstDowns": "23",
+    "thirdDownEff": "3-11",
+    "fourthDownEff": "1-1",
+    "totalYards": "495",
+    "netPassingYards": "350",
+    "completionAttempts": "26/38",
+    "yardsPerPass": "9.2",
+    "rushingYards": "145",
+    "rushingAttempts": "27",
+    "yardsPerRushAttempt": "5.4",
+    "totalPenaltiesYards": "11-104",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "interceptions": "1",
+    "possessionTime": "29:25"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "13:16",
+   "team": "LT",
+   "text": "Dylone Brooks 1 Yd Run (Kaegan Kent Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "5:28",
+   "team": "USM",
+   "text": "Creighton Wilbanks 44 Yd Field Goal  "
+  },
+  {
+   "period": 1,
+   "clock": "4:10",
+   "team": "LT",
+   "text": "Jay Wilkerson 49 Yd pass from Marcus Calwise Jr. (Kaegan Kent Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "0:58",
+   "team": "LT",
+   "text": "Sergio Snider 2 Yd Run (Kaegan Kent Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "14:21",
+   "team": "USM",
+   "text": "Jamarice Wilder 53 Yd Run (Creighton Wilbanks Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "10:31",
+   "team": "LT",
+   "text": "Talyn Shettron 9 Yd pass from Blake Baker (Kaegan Kent Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "9:14",
+   "team": "LT",
+   "text": "Jadon Mayfield 36 Yd Interception Return (Kaegan Kent Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "7:16",
+   "team": "LT",
+   "text": "Jordan McRae 89 Yd Interception Return (Kaegan Kent Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "10:21",
+   "team": "LT",
+   "text": "Brayden Bockler 2 Yd pass from Blake Baker (Kaegan Kent Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "5:13",
+   "team": "USM",
+   "text": "Grant Page 7 Yd pass from John White (Creighton Wilbanks Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "12:46",
+   "team": "LT",
+   "text": "Rayshun Hurt 55 Yd Run (Kaegan Kent Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "11:42",
+   "team": "USM",
+   "text": "Mario Sanders 41 Yd pass from John White (Creighton Wilbanks Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "8:48",
+   "team": "LT",
+   "text": "Eli Finley 12 Yd pass from Blake Baker (Kaegan Kent Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "2:11",
+   "team": "USM",
+   "text": "MaLik Caswell 32 Yd Interception Return (Creighton Wilbanks Kick)"
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "id": "ncaaf-401869952",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T20:30Z",
+ "home": {
+  "name": "Georgia State Panthers",
+  "abbr": "GAST",
+  "teamId": "2247",
+  "score": 17.0
+ },
+ "away": {
+  "name": "Georgia Southern Eagles",
+  "abbr": "GASO",
+  "teamId": "290",
+  "score": 34.0
+ },
+ "odds": {
+  "mlAway": "-225",
+  "mlAwayOpen": "-205",
+  "mlHome": "+185",
+  "mlHomeOpen": "+170",
+  "provider": "DraftKings",
+  "spread": "GASO -6",
+  "spreadOpen": "GASO -5.5",
+  "total": "55.5",
+  "totalOpen": "55.5"
+ },
+ "espnWinProb": {
+  "away": 60.8,
+  "home": 39.2
+ },
+ "teams": {
+  "away": {
+   "abbr": "GASO",
+   "stats": {
+    "firstDowns": "20",
+    "thirdDownEff": "7-13",
+    "fourthDownEff": "0-0",
+    "totalYards": "443",
+    "netPassingYards": "244",
+    "completionAttempts": "17/23",
+    "yardsPerPass": "10.6",
+    "rushingYards": "199",
+    "rushingAttempts": "36",
+    "yardsPerRushAttempt": "5.5",
+    "totalPenaltiesYards": "10-84",
+    "turnovers": "3",
+    "fumblesLost": "2",
+    "interceptions": "1",
+    "possessionTime": "27:06"
+   }
+  },
+  "home": {
+   "abbr": "GAST",
+   "stats": {
+    "firstDowns": "13",
+    "thirdDownEff": "5-15",
+    "fourthDownEff": "0-1",
+    "totalYards": "221",
+    "netPassingYards": "75",
+    "completionAttempts": "14/19",
+    "yardsPerPass": "3.9",
+    "rushingYards": "146",
+    "rushingAttempts": "40",
+    "yardsPerRushAttempt": "3.7",
+    "totalPenaltiesYards": "6-65",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "32:54"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "8:18",
+   "team": "GAST",
+   "text": "Qwantavius Wiggins 3 Yd Run (Samer Layous Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "4:30",
+   "team": "GASO",
+   "text": "Tyrese Woodgett 1 Yd Run (Tripp Bryant Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "0:38",
+   "team": "GAST",
+   "text": "Lanear McCrary Jr. 7 Yd Run (Samer Layous Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "14:46",
+   "team": "GASO",
+   "text": "River Helms 52 Yd pass from Max Johnson (Tripp Bryant Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "5:04",
+   "team": "GASO",
+   "text": "Tripp Bryant 42 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "0:25",
+   "team": "GASO",
+   "text": "Josh Dallas 13 Yd pass from Max Johnson (Tripp Bryant Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "7:58",
+   "team": "GAST",
+   "text": "Samer Layous 37 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "3:44",
+   "team": "GASO",
+   "text": "Tripp Bryant 41 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "4:11",
+   "team": "GASO",
+   "text": "Weston Bryan 54 Yd Run (Tripp Bryant Kick)"
+  }
+ ]
+}

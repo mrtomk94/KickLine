@@ -1,0 +1,108 @@
+{
+ "id": "ncaaf-401864536",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T20:30Z",
+ "home": {
+  "name": "Northern Illinois Huskies",
+  "abbr": "NIU",
+  "teamId": "2459",
+  "score": 7.0
+ },
+ "away": {
+  "name": "Nevada Wolf Pack",
+  "abbr": "NEV",
+  "teamId": "2440",
+  "score": 28.0
+ },
+ "odds": {
+  "mlAway": "-238",
+  "mlAwayOpen": "-425",
+  "mlHome": "+195",
+  "mlHomeOpen": "+330",
+  "provider": "DraftKings",
+  "spread": "NEV -6",
+  "spreadOpen": "NEV -10.5",
+  "total": "47.5",
+  "totalOpen": "46.5"
+ },
+ "espnWinProb": {
+  "away": 74.2,
+  "home": 25.8
+ },
+ "teams": {
+  "away": {
+   "abbr": "NEV",
+   "stats": {
+    "firstDowns": "24",
+    "thirdDownEff": "3-9",
+    "fourthDownEff": "0-2",
+    "totalYards": "404",
+    "netPassingYards": "96",
+    "completionAttempts": "6/13",
+    "yardsPerPass": "7.4",
+    "rushingYards": "308",
+    "rushingAttempts": "51",
+    "yardsPerRushAttempt": "6.0",
+    "totalPenaltiesYards": "6-53",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "32:10"
+   }
+  },
+  "home": {
+   "abbr": "NIU",
+   "stats": {
+    "firstDowns": "16",
+    "thirdDownEff": "4-12",
+    "fourthDownEff": "0-2",
+    "totalYards": "262",
+    "netPassingYards": "194",
+    "completionAttempts": "21/35",
+    "yardsPerPass": "5.5",
+    "rushingYards": "68",
+    "rushingAttempts": "29",
+    "yardsPerRushAttempt": "2.3",
+    "totalPenaltiesYards": "10-107",
+    "turnovers": "3",
+    "fumblesLost": "2",
+    "interceptions": "1",
+    "possessionTime": "27:50"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "9:58",
+   "team": "NEV",
+   "text": "Herschel Turner 6 Yd Run (Joe McFadden Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "12:05",
+   "team": "NEV",
+   "text": "Herschel Turner 29 Yd Run (Joe McFadden Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "7:19",
+   "team": "NEV",
+   "text": "Trace Estes 51 Yd pass from AJ Bianco (Joe McFadden Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "4:22",
+   "team": "NEV",
+   "text": "Trace Estes 22 Yd pass from AJ Bianco (Joe McFadden Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "4:16",
+   "team": "NIU",
+   "text": "DeAree Rogers 5 Yd pass from Taron Dickens (JJ Schlenhardt Kick)"
+  }
+ ]
+}

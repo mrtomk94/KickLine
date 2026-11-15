@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401858295",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T20:30Z",
+ "home": {
+  "name": "Virginia Cavaliers",
+  "abbr": "UVA",
+  "teamId": "258",
+  "score": 36.0
+ },
+ "away": {
+  "name": "California Golden Bears",
+  "abbr": "CAL",
+  "teamId": "25",
+  "score": 7.0
+ },
+ "odds": {
+  "mlAway": "+360",
+  "mlAwayOpen": "+380",
+  "mlHome": "-470",
+  "mlHomeOpen": "-500",
+  "provider": "DraftKings",
+  "spread": "UVA -11.5",
+  "spreadOpen": "UVA -12.5",
+  "total": "46.5",
+  "totalOpen": "47.5"
+ },
+ "espnWinProb": {
+  "away": 12.8,
+  "home": 87.2
+ },
+ "teams": {
+  "away": {
+   "abbr": "CAL",
+   "stats": {
+    "firstDowns": "17",
+    "thirdDownEff": "6-14",
+    "fourthDownEff": "0-1",
+    "totalYards": "201",
+    "netPassingYards": "159",
+    "completionAttempts": "19/35",
+    "yardsPerPass": "4.5",
+    "rushingYards": "42",
+    "rushingAttempts": "25",
+    "yardsPerRushAttempt": "1.7",
+    "totalPenaltiesYards": "4-33",
+    "turnovers": "3",
+    "fumblesLost": "0",
+    "interceptions": "3",
+    "possessionTime": "25:12"
+   }
+  },
+  "home": {
+   "abbr": "UVA",
+   "stats": {
+    "firstDowns": "20",
+    "thirdDownEff": "7-16",
+    "fourthDownEff": "3-3",
+    "totalYards": "424",
+    "netPassingYards": "223",
+    "completionAttempts": "21/33",
+    "yardsPerPass": "6.8",
+    "rushingYards": "201",
+    "rushingAttempts": "36",
+    "yardsPerRushAttempt": "5.6",
+    "totalPenaltiesYards": "8-99",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "34:48"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "9:32",
+   "team": "UVA",
+   "text": "Da'Shawn Martin 12 Yd pass from Beau Pribula (Will Bettridge PAT blocked)"
+  },
+  {
+   "period": 2,
+   "clock": "8:07",
+   "team": "UVA",
+   "text": "Will Bettridge 30 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "2:00",
+   "team": "UVA",
+   "text": "Brandyn Hillman 100 Yd Interception Return (Will Bettridge Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:14",
+   "team": "CAL",
+   "text": "Adam Mohammed 5 Yd Run (Towns McGough Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "8:02",
+   "team": "UVA",
+   "text": "Will Bettridge 30 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "0:04",
+   "team": "UVA",
+   "text": "Kam Robinson 33 Yd Interception Return (Will Bettridge Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "6:18",
+   "team": "UVA",
+   "text": "Will Bettridge 42 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "3:24",
+   "team": "UVA",
+   "text": "Xay Davis 1 Yd Run (Will Bettridge Kick)"
+  }
+ ]
+}

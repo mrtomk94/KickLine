@@ -1,0 +1,144 @@
+{
+ "id": "ncaaf-401860916",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T21:00Z",
+ "home": {
+  "name": "Texas State Bobcats",
+  "abbr": "TXST",
+  "teamId": "326",
+  "score": 37.0
+ },
+ "away": {
+  "name": "Fresno State Bulldogs",
+  "abbr": "FRES",
+  "teamId": "278",
+  "score": 35.0
+ },
+ "odds": {
+  "mlAway": "+295",
+  "mlAwayOpen": "+240",
+  "mlHome": "-375",
+  "mlHomeOpen": "-298",
+  "provider": "DraftKings",
+  "spread": "TXST -10",
+  "spreadOpen": "TXST -7",
+  "total": "60.5",
+  "totalOpen": "58.5"
+ },
+ "espnWinProb": {
+  "away": 33.5,
+  "home": 66.5
+ },
+ "teams": {
+  "away": {
+   "abbr": "FRES",
+   "stats": {
+    "firstDowns": "21",
+    "thirdDownEff": "8-13",
+    "fourthDownEff": "1-1",
+    "totalYards": "310",
+    "netPassingYards": "250",
+    "completionAttempts": "20/34",
+    "yardsPerPass": "7.4",
+    "rushingYards": "60",
+    "rushingAttempts": "27",
+    "yardsPerRushAttempt": "2.2",
+    "totalPenaltiesYards": "1-15",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "interceptions": "1",
+    "possessionTime": "28:57"
+   }
+  },
+  "home": {
+   "abbr": "TXST",
+   "stats": {
+    "firstDowns": "28",
+    "thirdDownEff": "8-14",
+    "fourthDownEff": "2-2",
+    "totalYards": "550",
+    "netPassingYards": "355",
+    "completionAttempts": "25/33",
+    "yardsPerPass": "10.8",
+    "rushingYards": "195",
+    "rushingAttempts": "46",
+    "yardsPerRushAttempt": "4.2",
+    "totalPenaltiesYards": "9-91",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "31:03"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "9:18",
+   "team": "TXST",
+   "text": "Zechariah Sample 12 Yd pass from Brad Jackson (Jacob Bonilla Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "9:03",
+   "team": "FRES",
+   "text": "Rayshon Luke 100 Yd Kickoff Return (Manaki Watanabe Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "4:55",
+   "team": "TXST",
+   "text": "Davian Jackson 4 Yd Run (Jacob Bonilla Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "0:00",
+   "team": "TXST",
+   "text": "Zechariah Sample 30 Yd pass from Brad Jackson (Jacob Bonilla Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "9:40",
+   "team": "FRES",
+   "text": "Brock Lium 2 Yd pass from Jayden Mandal (Manaki Watanabe Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "8:32",
+   "team": "TXST",
+   "text": "Chris Dawn Jr. 59 Yd pass from Brad Jackson (Jacob Bonilla Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:49",
+   "team": "FRES",
+   "text": "Bryson Donelson 1 Yd Run (Manaki Watanabe Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "5:10",
+   "team": "TXST",
+   "text": "Jacob Bonilla 35 Yd Field Goal"
+  },
+  {
+   "period": 3,
+   "clock": "0:16",
+   "team": "FRES",
+   "text": "Ryan Kobzeff 19 Yd Run (Manaki Watanabe Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "10:33",
+   "team": "FRES",
+   "text": "Bryson Donelson 2 Yd Run (Manaki Watanabe Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "1:00",
+   "team": "TXST",
+   "text": "Davian Jackson 2 Yd Run (Jacob Bonilla PAT blocked)"
+  }
+ ]
+}

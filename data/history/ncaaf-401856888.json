@@ -1,0 +1,120 @@
+{
+ "id": "ncaaf-401856888",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T20:00Z",
+ "home": {
+  "name": "Texas A&M Aggies",
+  "abbr": "TA&M",
+  "teamId": "245",
+  "score": 7.0
+ },
+ "away": {
+  "name": "#8 Tennessee",
+  "abbr": "TENN",
+  "teamId": "2633",
+  "score": 22.0
+ },
+ "odds": {
+  "mlAway": "-115",
+  "mlAwayOpen": "+280",
+  "mlHome": "-105",
+  "mlHomeOpen": "-355",
+  "provider": "DraftKings",
+  "spread": "TENN -1.5",
+  "spreadOpen": "TA&M -9.5",
+  "total": "43.5",
+  "totalOpen": "55.5"
+ },
+ "espnWinProb": {
+  "away": 58.6,
+  "home": 41.4
+ },
+ "teams": {
+  "away": {
+   "abbr": "TENN",
+   "stats": {
+    "firstDowns": "18",
+    "thirdDownEff": "5-17",
+    "fourthDownEff": "2-2",
+    "totalYards": "310",
+    "netPassingYards": "114",
+    "completionAttempts": "14/18",
+    "yardsPerPass": "6.3",
+    "rushingYards": "196",
+    "rushingAttempts": "56",
+    "yardsPerRushAttempt": "3.5",
+    "totalPenaltiesYards": "3-25",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "42:11"
+   }
+  },
+  "home": {
+   "abbr": "TA&M",
+   "stats": {
+    "firstDowns": "8",
+    "thirdDownEff": "2-11",
+    "fourthDownEff": "0-1",
+    "totalYards": "179",
+    "netPassingYards": "93",
+    "completionAttempts": "11/25",
+    "yardsPerPass": "3.7",
+    "rushingYards": "86",
+    "rushingAttempts": "19",
+    "yardsPerRushAttempt": "4.5",
+    "totalPenaltiesYards": "4-39",
+    "turnovers": "2",
+    "fumblesLost": "0",
+    "interceptions": "2",
+    "possessionTime": "17:49"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "5:32",
+   "team": "TENN",
+   "text": "Cooper Ranvier 23 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "12:36",
+   "team": "TA&M",
+   "text": "KJ Edwards 25 Yd Run (David Olano Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "6:01",
+   "team": "TENN",
+   "text": "Cooper Ranvier 30 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "1:21",
+   "team": "TENN",
+   "text": "Cooper Ranvier 32 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "9:38",
+   "team": "TENN",
+   "text": "DaSaahn Brame 5 Yd pass from Faizon Brandon (Cooper Ranvier Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "6:18",
+   "team": "TENN",
+   "text": "Cooper Ranvier 44 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "2:44",
+   "team": "TENN",
+   "text": "Cooper Ranvier 27 Yd Field Goal  "
+  }
+ ]
+}

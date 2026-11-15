@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401856857",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T22:30Z",
+ "home": {
+  "name": "UCF Knights",
+  "abbr": "UCF",
+  "teamId": "2116",
+  "score": 13.0
+ },
+ "away": {
+  "name": "Arizona State Sun Devils",
+  "abbr": "ASU",
+  "teamId": "9",
+  "score": 26.0
+ },
+ "odds": {
+  "mlAway": "+145",
+  "mlAwayOpen": "+120",
+  "mlHome": "-175",
+  "mlHomeOpen": "-142",
+  "provider": "DraftKings",
+  "spread": "UCF -3.5",
+  "spreadOpen": "UCF -2.5",
+  "total": "46.5",
+  "totalOpen": "52.5"
+ },
+ "espnWinProb": {
+  "away": 33.5,
+  "home": 66.5
+ },
+ "teams": {
+  "away": {
+   "abbr": "ASU",
+   "stats": {
+    "firstDowns": "23",
+    "thirdDownEff": "10-19",
+    "fourthDownEff": "1-1",
+    "totalYards": "389",
+    "netPassingYards": "224",
+    "completionAttempts": "22/37",
+    "yardsPerPass": "6.1",
+    "rushingYards": "165",
+    "rushingAttempts": "42",
+    "yardsPerRushAttempt": "3.9",
+    "totalPenaltiesYards": "4-30",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "37:45"
+   }
+  },
+  "home": {
+   "abbr": "UCF",
+   "stats": {
+    "firstDowns": "15",
+    "thirdDownEff": "2-9",
+    "fourthDownEff": "0-2",
+    "totalYards": "311",
+    "netPassingYards": "257",
+    "completionAttempts": "21/31",
+    "yardsPerPass": "8.3",
+    "rushingYards": "54",
+    "rushingAttempts": "23",
+    "yardsPerRushAttempt": "2.3",
+    "totalPenaltiesYards": "3-20",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "22:15"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 2,
+   "clock": "14:55",
+   "team": "ASU",
+   "text": "M. Gillis run for 1 yd, for a TD (Ca. Smith KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "4:18",
+   "team": "ASU",
+   "text": "Ca. Smith 51 yd FG GOOD"
+  },
+  {
+   "period": 2,
+   "clock": "1:53",
+   "team": "UCF",
+   "text": "L. Chambers run for 2 yds, for a TD (W. Stone KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "0:43",
+   "team": "ASU",
+   "text": "Ca. Smith 41 yd FG GOOD"
+  },
+  {
+   "period": 2,
+   "clock": "0:16",
+   "team": "ASU",
+   "text": "Ca. Smith 28 yd FG GOOD"
+  },
+  {
+   "period": 4,
+   "clock": "13:39",
+   "team": "ASU",
+   "text": "C. Mack run for 8 yds, for a TD (Ca. Smith KICK)"
+  },
+  {
+   "period": 4,
+   "clock": "6:02",
+   "team": "ASU",
+   "text": "Ca. Smith 37 yd FG GOOD"
+  },
+  {
+   "period": 4,
+   "clock": "2:12",
+   "team": "UCF",
+   "text": "A. Barnett III pass to T. Hornes for 40 yds, for a TD (Two-Point Conversion failed)"
+  }
+ ]
+}

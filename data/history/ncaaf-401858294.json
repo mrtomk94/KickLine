@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401858294",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-14T20:30Z",
+ "home": {
+  "name": "#5 Notre Dame",
+  "abbr": "ND",
+  "teamId": "87",
+  "score": 41.0
+ },
+ "away": {
+  "name": "Boston College Eagles",
+  "abbr": "BC",
+  "teamId": "103",
+  "score": 7.0
+ },
+ "odds": {
+  "mlAway": "+1800",
+  "mlAwayOpen": "+3000",
+  "mlHome": "-5000",
+  "mlHomeOpen": "-10000",
+  "provider": "DraftKings",
+  "spread": "ND -29.5",
+  "spreadOpen": "ND -31.5",
+  "total": "51.5",
+  "totalOpen": "52.5"
+ },
+ "espnWinProb": {
+  "away": 1.5,
+  "home": 98.5
+ },
+ "teams": {
+  "away": {
+   "abbr": "BC",
+   "stats": {
+    "firstDowns": "9",
+    "thirdDownEff": "2-14",
+    "fourthDownEff": "0-4",
+    "totalYards": "136",
+    "netPassingYards": "51",
+    "completionAttempts": "8/24",
+    "yardsPerPass": "2.1",
+    "rushingYards": "85",
+    "rushingAttempts": "33",
+    "yardsPerRushAttempt": "2.6",
+    "totalPenaltiesYards": "4-30",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "interceptions": "1",
+    "possessionTime": "24:28"
+   }
+  },
+  "home": {
+   "abbr": "ND",
+   "stats": {
+    "firstDowns": "24",
+    "thirdDownEff": "9-14",
+    "fourthDownEff": "0-1",
+    "totalYards": "500",
+    "netPassingYards": "224",
+    "completionAttempts": "21/32",
+    "yardsPerPass": "7.0",
+    "rushingYards": "276",
+    "rushingAttempts": "40",
+    "yardsPerRushAttempt": "6.9",
+    "totalPenaltiesYards": "9-66",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "interceptions": "1",
+    "possessionTime": "35:32"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "6:25",
+   "team": "ND",
+   "text": "Micah Gilbert 26 Yd pass from CJ Carr (Spencer Porath Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "8:53",
+   "team": "ND",
+   "text": "Nolan James Jr. 10 Yd Run (Spencer Porath Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "2:32",
+   "team": "ND",
+   "text": "Jonaz Walton 1 Yd Run (Spencer Porath Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:51",
+   "team": "ND",
+   "text": "Jaylen Sneed 1 Yd Fumble Return (Spencer Porath Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:00",
+   "team": "ND",
+   "text": "Spencer Porath 40 Yd Field Goal "
+  },
+  {
+   "period": 3,
+   "clock": "13:40",
+   "team": "BC",
+   "text": "Bo MacCormack III 3 Yd Run (Luca Lombardo Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "10:24",
+   "team": "ND",
+   "text": "Jordan Faison 13 Yd pass from CJ Carr (Spencer Porath Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "12:02",
+   "team": "ND",
+   "text": "Spencer Porath 37 Yd Field Goal  "
+  }
+ ]
+}
