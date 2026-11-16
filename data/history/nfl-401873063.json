@@ -1,0 +1,180 @@
+{
+ "id": "nfl-401873063",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-15T21:25Z",
+ "home": {
+  "name": "Dallas Cowboys",
+  "abbr": "DAL",
+  "teamId": "6",
+  "score": 40.0
+ },
+ "away": {
+  "name": "San Francisco 49ers",
+  "abbr": "SF",
+  "teamId": "25",
+  "score": 46.0
+ },
+ "odds": {
+  "mlAway": "-205",
+  "mlAwayOpen": "+100",
+  "mlHome": "+170",
+  "mlHomeOpen": "-120",
+  "provider": "Draft Kings",
+  "spread": "SF -3.5",
+  "spreadOpen": "DAL -1.5",
+  "total": "55.5",
+  "totalOpen": "52.5"
+ },
+ "espnWinProb": {
+  "away": 63.8,
+  "home": 35.9
+ },
+ "teams": {
+  "away": {
+   "abbr": "SF",
+   "stats": {
+    "firstDowns": "26",
+    "firstDownsPassing": "17",
+    "firstDownsRushing": "8",
+    "firstDownsPenalty": "1",
+    "thirdDownEff": "6-11",
+    "fourthDownEff": "0-0",
+    "totalOffensivePlays": "62",
+    "totalYards": "584",
+    "yardsPerPlay": "9.4",
+    "totalDrives": "11",
+    "netPassingYards": "370",
+    "completionAttempts": "22/28",
+    "yardsPerPass": "11.2",
+    "interceptions": "0",
+    "sacksYardsLost": "5-19",
+    "rushingYards": "214",
+    "rushingAttempts": "29",
+    "yardsPerRushAttempt": "7.4",
+    "redZoneAttempts": "2-3",
+    "totalPenaltiesYards": "11-100",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "31:47"
+   }
+  },
+  "home": {
+   "abbr": "DAL",
+   "stats": {
+    "firstDowns": "27",
+    "firstDownsPassing": "17",
+    "firstDownsRushing": "6",
+    "firstDownsPenalty": "4",
+    "thirdDownEff": "7-16",
+    "fourthDownEff": "4-5",
+    "totalOffensivePlays": "76",
+    "totalYards": "439",
+    "yardsPerPlay": "5.8",
+    "totalDrives": "12",
+    "netPassingYards": "343",
+    "completionAttempts": "30/51",
+    "yardsPerPass": "6.6",
+    "interceptions": "1",
+    "sacksYardsLost": "1-0",
+    "rushingYards": "96",
+    "rushingAttempts": "24",
+    "yardsPerRushAttempt": "4.0",
+    "redZoneAttempts": "3-3",
+    "totalPenaltiesYards": "5-35",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "28:13"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "12:11",
+   "team": "DAL",
+   "text": "Brandon Aubrey 52 Yd Field Goal "
+  },
+  {
+   "period": 1,
+   "clock": "6:56",
+   "team": "SF",
+   "text": "Deebo Samuel Sr. 11 Yd pass from Brock Purdy (Eddy Pineiro Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "1:08",
+   "team": "DAL",
+   "text": "George Pickens 35 Yd pass from Dak Prescott (Brandon Aubrey Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "6:54",
+   "team": "SF",
+   "text": "Eddy Pineiro 28 Yd Field Goal "
+  },
+  {
+   "period": 2,
+   "clock": "4:08",
+   "team": "DAL",
+   "text": "George Pickens 39 Yd pass from Dak Prescott (Brandon Aubrey PAT Failed)"
+  },
+  {
+   "period": 2,
+   "clock": "2:26",
+   "team": "SF",
+   "text": "Christian McCaffrey 74 Yd pass from Brock Purdy (Eddy Pineiro Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "12:10",
+   "team": "SF",
+   "text": "Kaelon Black 25 Yd Rush (Eddy Pineiro Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "8:36",
+   "team": "DAL",
+   "text": "Brandon Aubrey 52 Yd Field Goal "
+  },
+  {
+   "period": 3,
+   "clock": "6:59",
+   "team": "SF",
+   "text": "Deebo Samuel Sr. 70 Yd Rush (Eddy Pineiro Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "11:26",
+   "team": "SF",
+   "text": "Christian McCaffrey 16 Yd Rush (Eddy Pineiro Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "9:08",
+   "team": "DAL",
+   "text": "George Pickens 5 Yd pass from Dak Prescott (Two-Point Pass Conversion Failed)"
+  },
+  {
+   "period": 4,
+   "clock": "3:42",
+   "team": "DAL",
+   "text": "Ryan Flournoy 11 Yd pass from Dak Prescott (Brandon Aubrey Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "3:23",
+   "team": "SF",
+   "text": "Christian McCaffrey 66 Yd pass from Brock Purdy (Brock Purdy Pass to Christian McCaffrey for Two-Point Conversion)"
+  },
+  {
+   "period": 4,
+   "clock": "0:43",
+   "team": "DAL",
+   "text": "CeeDee Lamb 1 Yd pass from Dak Prescott (Dak Prescott Run for Two-Point Conversion)"
+  }
+ ]
+}

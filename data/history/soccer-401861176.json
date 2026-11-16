@@ -1,0 +1,276 @@
+{
+ "id": "soccer-401861176",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-15T19:45Z",
+ "home": {
+  "name": "Belgium",
+  "abbr": "BEL",
+  "teamId": "459",
+  "score": 4.0
+ },
+ "away": {
+  "name": "Italy",
+  "abbr": "ITA",
+  "teamId": "162",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+235",
+  "mlAwayOpen": "+205",
+  "mlDraw": "+265",
+  "mlHome": "-105",
+  "mlHomeOpen": "+110",
+  "provider": "DraftKings",
+  "spread": "BEL -105",
+  "spreadOpen": "BEL -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "BEL",
+   "stats": {
+    "foulsCommitted": "6",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "7",
+    "saves": "3",
+    "possessionPct": "48.3",
+    "totalShots": "22",
+    "shotsOnTarget": "10",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "458",
+    "totalPasses": "515",
+    "passPct": "0.9",
+    "accurateCrosses": "5",
+    "totalCrosses": "15",
+    "crossPct": "0.3",
+    "totalLongBalls": "42",
+    "accurateLongBalls": "20",
+    "longballPct": "0.5",
+    "blockedShots": "3",
+    "effectiveTackles": "6",
+    "totalTackles": "11",
+    "tacklePct": "0.5",
+    "interceptions": "11",
+    "effectiveClearance": "18",
+    "totalClearance": "18"
+   }
+  },
+  "away": {
+   "abbr": "ITA",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "4",
+    "saves": "6",
+    "possessionPct": "51.7",
+    "totalShots": "12",
+    "shotsOnTarget": "4",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "484",
+    "totalPasses": "545",
+    "passPct": "0.9",
+    "accurateCrosses": "8",
+    "totalCrosses": "22",
+    "crossPct": "0.4",
+    "totalLongBalls": "44",
+    "accurateLongBalls": "23",
+    "longballPct": "0.5",
+    "blockedShots": "4",
+    "effectiveTackles": "10",
+    "totalTackles": "19",
+    "tacklePct": "0.5",
+    "interceptions": "9",
+    "effectiveClearance": "24",
+    "totalClearance": "24"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "11'",
+   "team": null,
+   "text": "Goal! Belgium 0, Italy 1. Francesco Pio Esposito (Italy) right footed shot from the centre of the box to the top left corner. Assisted by Michael Kayode with a cross."
+  },
+  {
+   "type": "Goal",
+   "clock": "15'",
+   "team": null,
+   "text": "Goal! Belgium 1, Italy 1. Maxim De Cuyper (Belgium) right footed shot from very close range to the centre of the goal. Assisted by Charles De Ketelaere."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "19'",
+   "team": null,
+   "text": "Delay in match (Belgium)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "19'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "19'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "19'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "22'",
+   "team": null,
+   "text": "Goal! Belgium 2, Italy 1. Nathan Ngoy (Belgium) right footed shot from very close range to the top left corner following a corner."
+  },
+  {
+   "type": "Goal",
+   "clock": "26'",
+   "team": null,
+   "text": "Goal! Belgium 3, Italy 1. Jérémy Doku (Belgium) left footed shot from the centre of the box to the bottom right corner. Assisted by Charles De Ketelaere."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "Sandro Tonali (Italy) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Italy. Federico Dimarco replaces Niccolò Pisilli."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Italy. Issa Doumbia replaces Nicolò Fagioli."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "51'",
+   "team": null,
+   "text": "Giorgio Scalvini (Italy) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Italy. Marco Palestra replaces Sandro Tonali."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Italy. Alphadjo Cisse replaces Giorgio Scalvini."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Belgium. Nicolas Raskin replaces Roméo Lavia."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Italy. Antonio Vergara replaces Luca Koleosho."
+  },
+  {
+   "type": "Goal",
+   "clock": "80'",
+   "team": null,
+   "text": "Goal! Belgium 4, Italy 1. Diego Moreira (Belgium) left footed shot from the centre of the box to the bottom left corner. Assisted by Kevin De Bruyne following a fast break."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "81'",
+   "team": null,
+   "text": "Gianluigi Donnarumma (Italy) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, Belgium. Dodi Lukébakio replaces Diego Moreira."
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, Belgium. Leandro Trossard replaces Kevin De Bruyne."
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, Belgium. Arthur Theate replaces Nathan Ngoy."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'",
+   "team": null,
+   "text": "Substitution, Belgium. Mika Godts replaces Jérémy Doku."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "90'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'+1'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Saved",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Penalty saved. Francesco Pio Esposito (Italy) right footed shot saved in the bottom left corner by Senne Lammens (Belgium)."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+6'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

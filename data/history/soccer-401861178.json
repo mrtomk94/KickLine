@@ -1,0 +1,216 @@
+{
+ "id": "soccer-401861178",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-15T19:45Z",
+ "home": {
+  "name": "Croatia",
+  "abbr": "CRO",
+  "teamId": "477",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Czechia",
+  "abbr": "CZE",
+  "teamId": "450",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+700",
+  "mlAwayOpen": "+450",
+  "mlDraw": "+380",
+  "mlHome": "-300",
+  "mlHomeOpen": "-205",
+  "provider": "DraftKings",
+  "spread": "CRO -300",
+  "spreadOpen": "CRO -1.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "CRO",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "5",
+    "saves": "0",
+    "possessionPct": "60.3",
+    "totalShots": "21",
+    "shotsOnTarget": "8",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "582",
+    "totalPasses": "633",
+    "passPct": "0.9",
+    "accurateCrosses": "5",
+    "totalCrosses": "29",
+    "crossPct": "0.2",
+    "totalLongBalls": "46",
+    "accurateLongBalls": "27",
+    "longballPct": "0.6",
+    "blockedShots": "5",
+    "effectiveTackles": "12",
+    "totalTackles": "17",
+    "tacklePct": "0.7",
+    "interceptions": "6",
+    "effectiveClearance": "12",
+    "totalClearance": "12"
+   }
+  },
+  "away": {
+   "abbr": "CZE",
+   "stats": {
+    "foulsCommitted": "8",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "1",
+    "saves": "6",
+    "possessionPct": "39.7",
+    "totalShots": "8",
+    "shotsOnTarget": "1",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "362",
+    "totalPasses": "424",
+    "passPct": "0.9",
+    "accurateCrosses": "2",
+    "totalCrosses": "9",
+    "crossPct": "0.2",
+    "totalLongBalls": "33",
+    "accurateLongBalls": "15",
+    "longballPct": "0.5",
+    "blockedShots": "3",
+    "effectiveTackles": "7",
+    "totalTackles": "14",
+    "tacklePct": "0.5",
+    "interceptions": "7",
+    "effectiveClearance": "29",
+    "totalClearance": "29"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal",
+   "clock": "2'",
+   "team": null,
+   "text": "Goal! Croatia 1, Czechia 0. Ivan Perisic (Croatia) left footed shot from the centre of the box to the bottom left corner. Assisted by Dion Beljo."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, Croatia 1, Czechia 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "48'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "48'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Croatia. Igor Matanovic replaces Dion Beljo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Croatia. Marco Pasalic replaces Mateo Kovacic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Czechia. Krystof Danek replaces Michal Sadílek."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Czechia. Lukás Ambros replaces Idris Hopi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Czechia. Filip Prebsl replaces David Zima."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "71'",
+   "team": null,
+   "text": "Josip Stanisic (Croatia) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Croatia. Lovro Majer replaces Martin Baturina."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Czechia. Ryan Naderi replaces Christophe Kabongo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "84'",
+   "team": null,
+   "text": "Substitution, Czechia. David Kozel replaces Lukás Cerv."
+  },
+  {
+   "type": "Goal",
+   "clock": "84'",
+   "team": null,
+   "text": "Goal! Croatia 1, Czechia 1. Adam Hlozek (Czechia) left footed shot from the left side of the box to the top right corner."
+  },
+  {
+   "type": "Goal",
+   "clock": "87'",
+   "team": null,
+   "text": "Goal! Croatia 2, Czechia 1. Lovro Majer (Croatia) right footed shot from the left side of the box to the bottom right corner. Assisted by Luka Vuskovic."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "89'",
+   "team": null,
+   "text": "Adam Hlozek (Czechia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+4'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

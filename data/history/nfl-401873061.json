@@ -1,0 +1,144 @@
+{
+ "id": "nfl-401873061",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-15T21:05Z",
+ "home": {
+  "name": "Arizona Cardinals",
+  "abbr": "ARI",
+  "teamId": "22",
+  "score": 6.0
+ },
+ "away": {
+  "name": "Los Angeles Rams",
+  "abbr": "LAR",
+  "teamId": "14",
+  "score": 34.0
+ },
+ "odds": {
+  "mlAway": "-485",
+  "mlAwayOpen": "-535",
+  "mlHome": "+370",
+  "mlHomeOpen": "+400",
+  "provider": "Draft Kings",
+  "spread": "LAR -9.5",
+  "spreadOpen": "LAR -10.5",
+  "total": "38.5",
+  "totalOpen": "47.5"
+ },
+ "espnWinProb": {
+  "away": 87.2,
+  "home": 12.6
+ },
+ "teams": {
+  "away": {
+   "abbr": "LAR",
+   "stats": {
+    "firstDowns": "28",
+    "firstDownsPassing": "11",
+    "firstDownsRushing": "14",
+    "firstDownsPenalty": "3",
+    "thirdDownEff": "7-12",
+    "fourthDownEff": "1-1",
+    "totalOffensivePlays": "74",
+    "totalYards": "436",
+    "yardsPerPlay": "5.9",
+    "totalDrives": "9",
+    "netPassingYards": "234",
+    "completionAttempts": "18/26",
+    "yardsPerPass": "8.4",
+    "interceptions": "1",
+    "sacksYardsLost": "2-15",
+    "rushingYards": "202",
+    "rushingAttempts": "46",
+    "yardsPerRushAttempt": "4.4",
+    "redZoneAttempts": "3-5",
+    "totalPenaltiesYards": "5-15",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "42:23"
+   }
+  },
+  "home": {
+   "abbr": "ARI",
+   "stats": {
+    "firstDowns": "6",
+    "firstDownsPassing": "4",
+    "firstDownsRushing": "2",
+    "firstDownsPenalty": "0",
+    "thirdDownEff": "0-6",
+    "fourthDownEff": "0-1",
+    "totalOffensivePlays": "34",
+    "totalYards": "123",
+    "yardsPerPlay": "3.6",
+    "totalDrives": "9",
+    "netPassingYards": "89",
+    "completionAttempts": "11/18",
+    "yardsPerPass": "3.9",
+    "interceptions": "2",
+    "sacksYardsLost": "5-19",
+    "rushingYards": "34",
+    "rushingAttempts": "11",
+    "yardsPerRushAttempt": "3.1",
+    "redZoneAttempts": "0-0",
+    "totalPenaltiesYards": "4-20",
+    "turnovers": "2",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "17:37"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "10:48",
+   "team": "ARI",
+   "text": "Chad Ryland 49 Yd Field Goal"
+  },
+  {
+   "period": 1,
+   "clock": "5:22",
+   "team": "LAR",
+   "text": "Brandon McManus 24 Yd Field Goal"
+  },
+  {
+   "period": 1,
+   "clock": "2:11",
+   "team": "ARI",
+   "text": "Chad Ryland 49 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "1:06",
+   "team": "LAR",
+   "text": "Tyler Higbee 5 Yd pass from Matthew Stafford (Brandon McManus Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:13",
+   "team": "LAR",
+   "text": "Xavier Smith 22 Yd pass from Matthew Stafford (Brandon McManus Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "10:17",
+   "team": "LAR",
+   "text": "Blake Corum 1 Yd Rush (Brandon McManus Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "5:55",
+   "team": "LAR",
+   "text": "Davis Allen 19 Yd pass from Matthew Stafford (Brandon McManus Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "14:55",
+   "team": "LAR",
+   "text": "Brandon McManus 43 Yd Field Goal"
+  }
+ ]
+}

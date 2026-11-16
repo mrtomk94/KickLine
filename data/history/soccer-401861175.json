@@ -1,0 +1,294 @@
+{
+ "id": "soccer-401861175",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-15T19:45Z",
+ "home": {
+  "name": "Spain",
+  "abbr": "ESP",
+  "teamId": "164",
+  "score": 2.0
+ },
+ "away": {
+  "name": "England",
+  "abbr": "ENG",
+  "teamId": "448",
+  "score": 3.0
+ },
+ "odds": {
+  "mlAway": "+195",
+  "mlAwayOpen": "+340",
+  "mlDraw": "+280",
+  "mlHome": "+110",
+  "mlHomeOpen": "-150",
+  "provider": "DraftKings",
+  "spread": "ESP +110",
+  "spreadOpen": "ESP -0.5",
+  "total": "3.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "ESP",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "4",
+    "saves": "2",
+    "possessionPct": "64.2",
+    "totalShots": "23",
+    "shotsOnTarget": "7",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "462",
+    "totalPasses": "540",
+    "passPct": "0.9",
+    "accurateCrosses": "5",
+    "totalCrosses": "14",
+    "crossPct": "0.4",
+    "totalLongBalls": "38",
+    "accurateLongBalls": "22",
+    "longballPct": "0.6",
+    "blockedShots": "6",
+    "effectiveTackles": "7",
+    "totalTackles": "9",
+    "tacklePct": "0.8",
+    "interceptions": "6",
+    "effectiveClearance": "8",
+    "totalClearance": "8"
+   }
+  },
+  "away": {
+   "abbr": "ENG",
+   "stats": {
+    "foulsCommitted": "15",
+    "yellowCards": "2",
+    "redCards": "1",
+    "offsides": "2",
+    "wonCorners": "6",
+    "saves": "6",
+    "possessionPct": "35.8",
+    "totalShots": "9",
+    "shotsOnTarget": "5",
+    "shotPct": "0.6",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "243",
+    "totalPasses": "298",
+    "passPct": "0.8",
+    "accurateCrosses": "4",
+    "totalCrosses": "15",
+    "crossPct": "0.3",
+    "totalLongBalls": "45",
+    "accurateLongBalls": "20",
+    "longballPct": "0.4",
+    "blockedShots": "3",
+    "effectiveTackles": "7",
+    "totalTackles": "14",
+    "tacklePct": "0.5",
+    "interceptions": "10",
+    "effectiveClearance": "32",
+    "totalClearance": "32"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "14'",
+   "team": null,
+   "text": "Declan Rice (England) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "20'",
+   "team": null,
+   "text": "Delay in match because of an injury Marc Pubill (Spain)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "20'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "20'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "20'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "20'",
+   "team": null,
+   "text": "Substitution, Spain. Pedro Porro replaces Marc Pubill because of an injury."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "43'",
+   "team": null,
+   "text": "Delay in match because of an injury Marc Cucurella (Spain)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "43'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "44'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "44'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "45'",
+   "team": null,
+   "text": "Goal! Spain 0, England 1. Harry Kane (England) converts the penalty with a right footed shot to the bottom right corner."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+4'",
+   "team": null,
+   "text": "First Half ends, Spain 0, England 1."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Spain. Dean Huijsen replaces Pau Cubarsí."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Spain. Pedri replaces Fabián Ruiz."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Spain. Fermín López replaces Mikel Merino."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Spain 0, England 1."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "50'",
+   "team": null,
+   "text": "Marc Cucurella (Spain) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "53'",
+   "team": null,
+   "text": "Goal! Spain 0, England 2. Ezri Konsa (England) header from very close range to the centre of the goal. Assisted by Declan Rice with a cross following a corner."
+  },
+  {
+   "type": "Goal",
+   "clock": "57'",
+   "team": null,
+   "text": "Goal! Spain 0, England 3. Ben White (England) right footed shot from the centre of the box to the bottom right corner. Assisted by Jude Bellingham."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "58'",
+   "team": null,
+   "text": "Lamine Yamal (Spain) is shown the yellow card."
+  },
+  {
+   "type": "Red Card",
+   "clock": "63'",
+   "team": null,
+   "text": "Elliot Anderson (England) is shown the red card."
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "65'",
+   "team": null,
+   "text": "Goal! Spain 1, England 3. Mikel Oyarzabal (Spain) converts the penalty with a left footed shot to the bottom right corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "67'",
+   "team": null,
+   "text": "Djed Spence (England) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "68'",
+   "team": null,
+   "text": "Álex Baena (Spain) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Spain. Nico Williams replaces Martín Zubimendi because of an injury."
+  },
+  {
+   "type": "Goal",
+   "clock": "75'",
+   "team": null,
+   "text": "Goal! Spain 2, England 3. Nico Williams (Spain) right footed shot from the centre of the box to the bottom left corner. Assisted by Lamine Yamal following a fast break."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, England. Myles Lewis-Skelly replaces Harry Kane."
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, England. Dominic Calvert-Lewin replaces Anthony Gordon."
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, England. Djed Spence replaces Jude Bellingham."
+  },
+  {
+   "type": "Substitution",
+   "clock": "89'",
+   "team": null,
+   "text": "Substitution, England. Dan Burn replaces Ben White."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Second Half ends, Spain 2, England 3."
+  }
+ ],
+ "scoringPlays": []
+}

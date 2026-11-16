@@ -1,0 +1,132 @@
+{
+ "id": "nfl-401873062",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-15T21:05Z",
+ "home": {
+  "name": "Las Vegas Raiders",
+  "abbr": "LV",
+  "teamId": "13",
+  "score": 13.0
+ },
+ "away": {
+  "name": "Seattle Seahawks",
+  "abbr": "SEA",
+  "teamId": "26",
+  "score": 21.0
+ },
+ "odds": {
+  "mlAway": "-290",
+  "mlAwayOpen": "-340",
+  "mlHome": "+235",
+  "mlHomeOpen": "+270",
+  "provider": "Draft Kings",
+  "spread": "SEA -6.5",
+  "spreadOpen": "SEA -7",
+  "total": "40.5",
+  "totalOpen": "43.5"
+ },
+ "espnWinProb": {
+  "away": 74.2,
+  "home": 25.6
+ },
+ "teams": {
+  "away": {
+   "abbr": "SEA",
+   "stats": {
+    "firstDowns": "17",
+    "firstDownsPassing": "10",
+    "firstDownsRushing": "7",
+    "firstDownsPenalty": "0",
+    "thirdDownEff": "7-12",
+    "fourthDownEff": "0-0",
+    "totalOffensivePlays": "55",
+    "totalYards": "382",
+    "yardsPerPlay": "6.9",
+    "totalDrives": "11",
+    "netPassingYards": "232",
+    "completionAttempts": "14/17",
+    "yardsPerPass": "11.6",
+    "interceptions": "0",
+    "sacksYardsLost": "3-8",
+    "rushingYards": "150",
+    "rushingAttempts": "35",
+    "yardsPerRushAttempt": "4.3",
+    "redZoneAttempts": "1-2",
+    "totalPenaltiesYards": "2-15",
+    "turnovers": "2",
+    "fumblesLost": "2",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "31:41"
+   }
+  },
+  "home": {
+   "abbr": "LV",
+   "stats": {
+    "firstDowns": "12",
+    "firstDownsPassing": "7",
+    "firstDownsRushing": "5",
+    "firstDownsPenalty": "0",
+    "thirdDownEff": "7-17",
+    "fourthDownEff": "1-1",
+    "totalOffensivePlays": "59",
+    "totalYards": "163",
+    "yardsPerPlay": "2.8",
+    "totalDrives": "10",
+    "netPassingYards": "98",
+    "completionAttempts": "17/29",
+    "yardsPerPass": "2.8",
+    "interceptions": "0",
+    "sacksYardsLost": "6-45",
+    "rushingYards": "65",
+    "rushingAttempts": "24",
+    "yardsPerRushAttempt": "2.7",
+    "redZoneAttempts": "1-3",
+    "totalPenaltiesYards": "0-0",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "28:19"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "7:41",
+   "team": "LV",
+   "text": "Fernando Mendoza 10 Yd Rush (Matt Gay Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "2:32",
+   "team": "SEA",
+   "text": "Cooper Kupp 34 Yd pass from Drew Lock (Jason Myers Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "11:13",
+   "team": "LV",
+   "text": "Matt Gay 34 Yd Field Goal"
+  },
+  {
+   "period": 3,
+   "clock": "9:28",
+   "team": "SEA",
+   "text": "Jadarian Price 12 Yd Rush (Jason Myers Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "7:10",
+   "team": "SEA",
+   "text": "Jaxon Smith-Njigba 71 Yd pass from Drew Lock (Jason Myers Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "2:04",
+   "team": "LV",
+   "text": "Matt Gay 43 Yd Field Goal"
+  }
+ ]
+}
