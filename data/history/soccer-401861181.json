@@ -1,0 +1,294 @@
+{
+ "id": "soccer-401861181",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-16T15:00Z",
+ "home": {
+  "name": "Kazakhstan",
+  "abbr": "KAZ",
+  "teamId": "2619",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Slovakia",
+  "abbr": "SVK",
+  "teamId": "468",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "-120",
+  "mlAwayOpen": "-155",
+  "mlDraw": "+250",
+  "mlHome": "+310",
+  "mlHomeOpen": "+380",
+  "provider": "DraftKings",
+  "spread": "SVK -120",
+  "spreadOpen": "SVK -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "KAZ",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "4",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "1",
+    "saves": "2",
+    "possessionPct": "35.1",
+    "totalShots": "17",
+    "shotsOnTarget": "5",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "246",
+    "totalPasses": "302",
+    "passPct": "0.8",
+    "accurateCrosses": "2",
+    "totalCrosses": "12",
+    "crossPct": "0.2",
+    "totalLongBalls": "52",
+    "accurateLongBalls": "25",
+    "longballPct": "0.5",
+    "blockedShots": "4",
+    "effectiveTackles": "11",
+    "totalTackles": "16",
+    "tacklePct": "0.7",
+    "interceptions": "16",
+    "effectiveClearance": "29",
+    "totalClearance": "29"
+   }
+  },
+  "away": {
+   "abbr": "SVK",
+   "stats": {
+    "foulsCommitted": "16",
+    "yellowCards": "4",
+    "redCards": "0",
+    "offsides": "6",
+    "wonCorners": "3",
+    "saves": "3",
+    "possessionPct": "64.9",
+    "totalShots": "16",
+    "shotsOnTarget": "4",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "492",
+    "totalPasses": "563",
+    "passPct": "0.9",
+    "accurateCrosses": "5",
+    "totalCrosses": "17",
+    "crossPct": "0.3",
+    "totalLongBalls": "57",
+    "accurateLongBalls": "36",
+    "longballPct": "0.6",
+    "blockedShots": "5",
+    "effectiveTackles": "9",
+    "totalTackles": "15",
+    "tacklePct": "0.6",
+    "interceptions": "8",
+    "effectiveClearance": "22",
+    "totalClearance": "22"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "17'",
+   "team": null,
+   "text": "Nuraly Alip (Kazakhstan) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "29'",
+   "team": null,
+   "text": "Goal! Kazakhstan 1, Slovakia 0. Islam Chesnokov (Kazakhstan) left footed shot from the centre of the box to the top left corner. Assisted by Galymzhan Kenzhebek."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "38'",
+   "team": null,
+   "text": "Ivan Mesík (Slovakia) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "38'",
+   "team": null,
+   "text": "Arsen Ashirbek (Kazakhstan) is shown the yellow card."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": "First Half ends, Kazakhstan 1, Slovakia 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Slovakia. Ludovit Reis replaces Sebastian Nebyla."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Slovakia. Artur Gajdos replaces Tomás Rigo."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "50'",
+   "team": null,
+   "text": "Delay in match because of an injury Dinmukhamed Karaman (Kazakhstan)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "50'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "50'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "50'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "51'",
+   "team": null,
+   "text": "Islam Chesnokov (Kazakhstan) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "56'",
+   "team": null,
+   "text": "Goal! Kazakhstan 1, Slovakia 1. Róbert Bozeník (Slovakia) header from the centre of the box to the bottom left corner. Assisted by Dávid Krcík with a cross."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "58'",
+   "team": null,
+   "text": "Peter Pokorny (Slovakia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Kazakhstan. Azamat Tuyakbayev replaces Dinmukhamed Karaman."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Kazakhstan. Almas Tyulyubay replaces Bauyrzhan Islamkhan."
+  },
+  {
+   "type": "Goal",
+   "clock": "65'",
+   "team": null,
+   "text": "Goal! Kazakhstan 2, Slovakia 1. Yan Vorogovskiy (Kazakhstan) left footed shot from the left side of the box to the bottom right corner. Assisted by Galymzhan Kenzhebek."
+  },
+  {
+   "type": "Substitution",
+   "clock": "69'",
+   "team": null,
+   "text": "Substitution, Slovakia. Nino Marcelli replaces Erik Prekop."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "75'",
+   "team": null,
+   "text": "Ludovit Reis (Slovakia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Slovakia. David Strelec replaces Peter Pokorny."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Kazakhstan. Ismail Bekbolat replaces Galymzhan Kenzhebek."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "78'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "85'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Kazakhstan. Aybol Abiken replaces Erkin Tapalov."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Kazakhstan. Nauryzbek Zhagorov replaces Arsen Ashirbek."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Slovakia. Adrián Kaprálik replaces Tobiás Paliscák."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Adilbek Zhumakhanov (Kazakhstan) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Goal! Kazakhstan 2, Slovakia 2. Adrián Kaprálik (Slovakia) right footed shot from outside the box to the bottom right corner following a set piece situation."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+8'",
+   "team": null,
+   "text": "Artur Gajdos (Slovakia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+10'",
+   "team": null,
+   "text": "Second Half ends, Kazakhstan 2, Slovakia 2."
+  }
+ ],
+ "scoringPlays": []
+}
