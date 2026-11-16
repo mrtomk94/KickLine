@@ -1,0 +1,150 @@
+{
+ "id": "nfl-401873064",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-16T01:20Z",
+ "home": {
+  "name": "Cincinnati Bengals",
+  "abbr": "CIN",
+  "teamId": "4",
+  "score": 38.0
+ },
+ "away": {
+  "name": "Pittsburgh Steelers",
+  "abbr": "PIT",
+  "teamId": "23",
+  "score": 18.0
+ },
+ "odds": {
+  "mlAway": "+180",
+  "mlAwayOpen": "+160",
+  "mlHome": "-218",
+  "mlHomeOpen": "-192",
+  "provider": "DraftKings",
+  "spread": "CIN -4.5",
+  "spreadOpen": "CIN -3.5",
+  "total": "49.5",
+  "totalOpen": "47.5"
+ },
+ "espnWinProb": {
+  "away": 29.2,
+  "home": 70.5
+ },
+ "teams": {
+  "away": {
+   "abbr": "PIT",
+   "stats": {
+    "firstDowns": "17",
+    "firstDownsPassing": "7",
+    "firstDownsRushing": "7",
+    "firstDownsPenalty": "3",
+    "thirdDownEff": "5-13",
+    "fourthDownEff": "2-2",
+    "totalOffensivePlays": "58",
+    "totalYards": "222",
+    "yardsPerPlay": "3.8",
+    "totalDrives": "10",
+    "netPassingYards": "120",
+    "completionAttempts": "16/32",
+    "yardsPerPass": "3.4",
+    "interceptions": "0",
+    "sacksYardsLost": "3-25",
+    "rushingYards": "102",
+    "rushingAttempts": "23",
+    "yardsPerRushAttempt": "4.4",
+    "redZoneAttempts": "0-2",
+    "totalPenaltiesYards": "4-46",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "24:51"
+   }
+  },
+  "home": {
+   "abbr": "CIN",
+   "stats": {
+    "firstDowns": "30",
+    "firstDownsPassing": "23",
+    "firstDownsRushing": "6",
+    "firstDownsPenalty": "1",
+    "thirdDownEff": "2-7",
+    "fourthDownEff": "1-1",
+    "totalOffensivePlays": "65",
+    "totalYards": "484",
+    "yardsPerPlay": "7.4",
+    "totalDrives": "9",
+    "netPassingYards": "406",
+    "completionAttempts": "35/44",
+    "yardsPerPass": "9.0",
+    "interceptions": "0",
+    "sacksYardsLost": "1-3",
+    "rushingYards": "78",
+    "rushingAttempts": "20",
+    "yardsPerRushAttempt": "3.9",
+    "redZoneAttempts": "5-6",
+    "totalPenaltiesYards": "8-80",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "35:09"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "8:56",
+   "team": "CIN",
+   "text": "Evan McPherson 24 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "14:47",
+   "team": "CIN",
+   "text": "Drew Sample 3 Yd pass from Joe Burrow (Evan McPherson Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "5:28",
+   "team": "CIN",
+   "text": "Chase Brown 2 Yd pass from Joe Burrow (Evan McPherson Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:25",
+   "team": "PIT",
+   "text": "Chris Boswell 45 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "0:09",
+   "team": "CIN",
+   "text": "Dohnte Meyers 15 Yd pass from Joe Burrow (Evan McPherson Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "4:12",
+   "team": "CIN",
+   "text": "Chase Brown 4 Yd pass from Joe Burrow (Evan McPherson Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "12:16",
+   "team": "PIT",
+   "text": "DK Metcalf 22 Yd pass from Aaron Rodgers (Aaron Rodgers Pass to DK Metcalf for Two-Point Conversion)"
+  },
+  {
+   "period": 4,
+   "clock": "10:08",
+   "team": "CIN",
+   "text": "Samaje Perine 1 Yd Rush (Evan McPherson Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "7:19",
+   "team": "PIT",
+   "text": "Pat Freiermuth 27 Yd pass from Aaron Rodgers (Chris Boswell Kick)"
+  }
+ ]
+}

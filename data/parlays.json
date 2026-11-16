@@ -21920,13 +21920,195 @@
   "size": 9,
   "status": "loss"
  },
- "20261116-0116-3": {
-  "americanOdds": "-168",
-  "batch": "20261116-0116",
-  "createdAt": "2026-11-16T01:16:36Z",
-  "decimalOdds": 1.595,
-  "estHitPct": 51.8,
-  "impliedPct": 62.7,
+ "20261116-0803-10": {
+  "americanOdds": "+492",
+  "batch": "20261116-0803",
+  "createdAt": "2026-11-16T08:03:38Z",
+  "decimalOdds": 5.915,
+  "estHitPct": 6.9,
+  "impliedPct": 16.9,
+  "legs": [
+   {
+    "confidence": 89,
+    "gameId": "soccer-401916335",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "BRA @ SIN",
+    "pick": "Brazil ML (-6000)",
+    "price": "-6000",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-17T10:00Z"
+   },
+   {
+    "confidence": 83,
+    "gameId": "soccer-401930895",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "CRC @ ARG",
+    "pick": "Argentina ML (-1200)",
+    "price": "-1200",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-17T23:00Z"
+   },
+   {
+    "confidence": 83,
+    "gameId": "soccer-401932215",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "DOM @ URU",
+    "pick": "Uruguay ML (-1200)",
+    "price": "-1200",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-17T23:30Z"
+   },
+   {
+    "confidence": 83,
+    "gameId": "ncaaf-401866465",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "EMU @ WMU",
+    "pick": "WMU ML (-675)",
+    "price": "-675",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-17T23:00Z"
+   },
+   {
+    "confidence": 81,
+    "gameId": "soccer-401861184",
+    "league": "UEFA Nations League",
+    "market": "Moneyline",
+    "matchup": "LIE @ LTU",
+    "pick": "Lithuania ML (-1000)",
+    "price": "-1000",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-16T17:00Z"
+   },
+   {
+    "confidence": 78,
+    "gameId": "ncaaf-401866464",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "BALL @ OHIO",
+    "pick": "OHIO ML (-425)",
+    "price": "-425",
+    "sport": "ncaaf",
+    "stars": 3,
+    "start": "2026-11-18T00:00Z"
+   },
+   {
+    "confidence": 75,
+    "gameId": "ncaaf-401866466",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "M-OH @ KENT",
+    "pick": "M-OH ML (-325)",
+    "price": "-325",
+    "sport": "ncaaf",
+    "stars": 4,
+    "start": "2026-11-18T00:00Z"
+   },
+   {
+    "confidence": 73,
+    "gameId": "soccer-401861182",
+    "league": "UEFA Nations League",
+    "market": "Moneyline",
+    "matchup": "LUX @ ISL",
+    "pick": "Iceland ML (-475)",
+    "price": "-475",
+    "sport": "soccer",
+    "stars": 3,
+    "start": "2026-11-16T17:00Z"
+   },
+   {
+    "confidence": 64,
+    "gameId": "soccer-401861189",
+    "league": "UEFA Nations League",
+    "market": "Moneyline",
+    "matchup": "POR @ WAL",
+    "pick": "Portugal ML (-245)",
+    "price": "-245",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-17T19:45Z"
+   },
+   {
+    "confidence": 61,
+    "gameId": "soccer-401861188",
+    "league": "UEFA Nations League",
+    "market": "Moneyline",
+    "matchup": "SRB @ GRE",
+    "pick": "Greece ML (-235)",
+    "price": "-235",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-16T19:45Z"
+   }
+  ],
+  "note": "10 legs, about a 1-in-14 shot. 10 legs qualified.",
+  "size": 10,
+  "status": "open"
+ },
+ "20261116-0803-3": {
+  "americanOdds": "-518",
+  "batch": "20261116-0803",
+  "createdAt": "2026-11-16T08:03:38Z",
+  "decimalOdds": 1.193,
+  "estHitPct": 61.3,
+  "impliedPct": 83.8,
+  "legs": [
+   {
+    "confidence": 89,
+    "gameId": "soccer-401916335",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "BRA @ SIN",
+    "pick": "Brazil ML (-6000)",
+    "price": "-6000",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-17T10:00Z"
+   },
+   {
+    "confidence": 83,
+    "gameId": "soccer-401930895",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "CRC @ ARG",
+    "pick": "Argentina ML (-1200)",
+    "price": "-1200",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-17T23:00Z"
+   },
+   {
+    "confidence": 83,
+    "gameId": "soccer-401932215",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "DOM @ URU",
+    "pick": "Uruguay ML (-1200)",
+    "price": "-1200",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-17T23:30Z"
+   }
+  ],
+  "note": "Safest of the set, about a 1-in-2 shot.",
+  "size": 3,
+  "status": "open"
+ },
+ "20261116-0803-3b": {
+  "americanOdds": "-179",
+  "batch": "20261116-0803",
+  "createdAt": "2026-11-16T08:03:38Z",
+  "decimalOdds": 1.56,
+  "estHitPct": 52.4,
+  "impliedPct": 64.1,
   "legs": [
    {
     "confidence": 83,
@@ -21953,65 +22135,16 @@
     "start": "2026-11-16T17:00Z"
    },
    {
-    "confidence": 77,
+    "confidence": 78,
     "gameId": "ncaaf-401866464",
     "league": "College Football",
     "market": "Moneyline",
     "matchup": "BALL @ OHIO",
-    "pick": "OHIO ML (-380)",
-    "price": "-380",
+    "pick": "OHIO ML (-425)",
+    "price": "-425",
     "sport": "ncaaf",
     "stars": 3,
     "start": "2026-11-18T00:00Z"
-   }
-  ],
-  "note": "Safest of the set, about a 1-in-2 shot.",
-  "size": 3,
-  "status": "open"
- },
- "20261116-0116-3b": {
-  "americanOdds": "+130",
-  "batch": "20261116-0116",
-  "createdAt": "2026-11-16T01:16:36Z",
-  "decimalOdds": 2.302,
-  "estHitPct": 34.1,
-  "impliedPct": 43.4,
-  "legs": [
-   {
-    "confidence": 75,
-    "gameId": "ncaaf-401866466",
-    "league": "College Football",
-    "market": "Moneyline",
-    "matchup": "M-OH @ KENT",
-    "pick": "M-OH ML (-325)",
-    "price": "-325",
-    "sport": "ncaaf",
-    "stars": 4,
-    "start": "2026-11-18T00:00Z"
-   },
-   {
-    "confidence": 71,
-    "gameId": "soccer-401861182",
-    "league": "UEFA Nations League",
-    "market": "Moneyline",
-    "matchup": "LUX @ ISL",
-    "pick": "Iceland ML (-400)",
-    "price": "-400",
-    "sport": "soccer",
-    "stars": 2,
-    "start": "2026-11-16T17:00Z"
-   },
-   {
-    "confidence": 64,
-    "gameId": "soccer-401861189",
-    "league": "UEFA Nations League",
-    "market": "Moneyline",
-    "matchup": "POR @ WAL",
-    "pick": "Portugal ML (-245)",
-    "price": "-245",
-    "sport": "soccer",
-    "stars": 2,
-    "start": "2026-11-17T19:45Z"
    }
   ],
   "note": "Second 3-leg from candidates 4-6.",
@@ -22019,14 +22152,50 @@
   "status": "open",
   "ticket": "3b"
  },
- "20261116-0116-4": {
-  "americanOdds": "+109",
-  "batch": "20261116-0116",
-  "createdAt": "2026-11-16T01:16:36Z",
-  "decimalOdds": 2.086,
-  "estHitPct": 38.8,
-  "impliedPct": 47.9,
+ "20261116-0803-4": {
+  "americanOdds": "-270",
+  "batch": "20261116-0803",
+  "createdAt": "2026-11-16T08:03:38Z",
+  "decimalOdds": 1.37,
+  "estHitPct": 50.9,
+  "impliedPct": 73.0,
   "legs": [
+   {
+    "confidence": 89,
+    "gameId": "soccer-401916335",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "BRA @ SIN",
+    "pick": "Brazil ML (-6000)",
+    "price": "-6000",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-17T10:00Z"
+   },
+   {
+    "confidence": 83,
+    "gameId": "soccer-401930895",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "CRC @ ARG",
+    "pick": "Argentina ML (-1200)",
+    "price": "-1200",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-17T23:00Z"
+   },
+   {
+    "confidence": 83,
+    "gameId": "soccer-401932215",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "DOM @ URU",
+    "pick": "Uruguay ML (-1200)",
+    "price": "-1200",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-17T23:30Z"
+   },
    {
     "confidence": 83,
     "gameId": "ncaaf-401866465",
@@ -22038,56 +22207,56 @@
     "sport": "ncaaf",
     "stars": 2,
     "start": "2026-11-17T23:00Z"
-   },
-   {
-    "confidence": 81,
-    "gameId": "soccer-401861184",
-    "league": "UEFA Nations League",
-    "market": "Moneyline",
-    "matchup": "LIE @ LTU",
-    "pick": "Lithuania ML (-1000)",
-    "price": "-1000",
-    "sport": "soccer",
-    "stars": 2,
-    "start": "2026-11-16T17:00Z"
-   },
-   {
-    "confidence": 77,
-    "gameId": "ncaaf-401866464",
-    "league": "College Football",
-    "market": "Moneyline",
-    "matchup": "BALL @ OHIO",
-    "pick": "OHIO ML (-380)",
-    "price": "-380",
-    "sport": "ncaaf",
-    "stars": 3,
-    "start": "2026-11-18T00:00Z"
-   },
-   {
-    "confidence": 75,
-    "gameId": "ncaaf-401866466",
-    "league": "College Football",
-    "market": "Moneyline",
-    "matchup": "M-OH @ KENT",
-    "pick": "M-OH ML (-325)",
-    "price": "-325",
-    "sport": "ncaaf",
-    "stars": 4,
-    "start": "2026-11-18T00:00Z"
    }
   ],
-  "note": "4 legs, about a 1-in-3 shot.",
+  "note": "4 legs, about a 1-in-2 shot.",
   "size": 4,
   "status": "open"
  },
- "20261116-0116-5": {
-  "americanOdds": "+161",
-  "batch": "20261116-0116",
-  "createdAt": "2026-11-16T01:16:36Z",
-  "decimalOdds": 2.608,
-  "estHitPct": 27.6,
-  "impliedPct": 38.3,
+ "20261116-0803-5": {
+  "americanOdds": "-197",
+  "batch": "20261116-0803",
+  "createdAt": "2026-11-16T08:03:38Z",
+  "decimalOdds": 1.507,
+  "estHitPct": 41.2,
+  "impliedPct": 66.4,
   "legs": [
+   {
+    "confidence": 89,
+    "gameId": "soccer-401916335",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "BRA @ SIN",
+    "pick": "Brazil ML (-6000)",
+    "price": "-6000",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-17T10:00Z"
+   },
+   {
+    "confidence": 83,
+    "gameId": "soccer-401930895",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "CRC @ ARG",
+    "pick": "Argentina ML (-1200)",
+    "price": "-1200",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-17T23:00Z"
+   },
+   {
+    "confidence": 83,
+    "gameId": "soccer-401932215",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "DOM @ URU",
+    "pick": "Uruguay ML (-1200)",
+    "price": "-1200",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-17T23:30Z"
+   },
    {
     "confidence": 83,
     "gameId": "ncaaf-401866465",
@@ -22111,56 +22280,56 @@
     "sport": "soccer",
     "stars": 2,
     "start": "2026-11-16T17:00Z"
-   },
-   {
-    "confidence": 77,
-    "gameId": "ncaaf-401866464",
-    "league": "College Football",
-    "market": "Moneyline",
-    "matchup": "BALL @ OHIO",
-    "pick": "OHIO ML (-380)",
-    "price": "-380",
-    "sport": "ncaaf",
-    "stars": 3,
-    "start": "2026-11-18T00:00Z"
-   },
-   {
-    "confidence": 75,
-    "gameId": "ncaaf-401866466",
-    "league": "College Football",
-    "market": "Moneyline",
-    "matchup": "M-OH @ KENT",
-    "pick": "M-OH ML (-325)",
-    "price": "-325",
-    "sport": "ncaaf",
-    "stars": 4,
-    "start": "2026-11-18T00:00Z"
-   },
-   {
-    "confidence": 71,
-    "gameId": "soccer-401861182",
-    "league": "UEFA Nations League",
-    "market": "Moneyline",
-    "matchup": "LUX @ ISL",
-    "pick": "Iceland ML (-400)",
-    "price": "-400",
-    "sport": "soccer",
-    "stars": 2,
-    "start": "2026-11-16T17:00Z"
    }
   ],
-  "note": "5 legs, about a 1-in-4 shot.",
+  "note": "5 legs, about a 1-in-2 shot.",
   "size": 5,
   "status": "open"
  },
- "20261116-0116-6": {
-  "americanOdds": "+267",
-  "batch": "20261116-0116",
-  "createdAt": "2026-11-16T01:16:36Z",
-  "decimalOdds": 3.672,
-  "estHitPct": 17.6,
-  "impliedPct": 27.2,
+ "20261116-0803-6": {
+  "americanOdds": "-116",
+  "batch": "20261116-0803",
+  "createdAt": "2026-11-16T08:03:38Z",
+  "decimalOdds": 1.862,
+  "estHitPct": 32.2,
+  "impliedPct": 53.7,
   "legs": [
+   {
+    "confidence": 89,
+    "gameId": "soccer-401916335",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "BRA @ SIN",
+    "pick": "Brazil ML (-6000)",
+    "price": "-6000",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-17T10:00Z"
+   },
+   {
+    "confidence": 83,
+    "gameId": "soccer-401930895",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "CRC @ ARG",
+    "pick": "Argentina ML (-1200)",
+    "price": "-1200",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-17T23:00Z"
+   },
+   {
+    "confidence": 83,
+    "gameId": "soccer-401932215",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "DOM @ URU",
+    "pick": "Uruguay ML (-1200)",
+    "price": "-1200",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-17T23:30Z"
+   },
    {
     "confidence": 83,
     "gameId": "ncaaf-401866465",
@@ -22186,66 +22355,66 @@
     "start": "2026-11-16T17:00Z"
    },
    {
-    "confidence": 77,
+    "confidence": 78,
     "gameId": "ncaaf-401866464",
     "league": "College Football",
     "market": "Moneyline",
     "matchup": "BALL @ OHIO",
-    "pick": "OHIO ML (-380)",
-    "price": "-380",
+    "pick": "OHIO ML (-425)",
+    "price": "-425",
     "sport": "ncaaf",
     "stars": 3,
     "start": "2026-11-18T00:00Z"
-   },
-   {
-    "confidence": 75,
-    "gameId": "ncaaf-401866466",
-    "league": "College Football",
-    "market": "Moneyline",
-    "matchup": "M-OH @ KENT",
-    "pick": "M-OH ML (-325)",
-    "price": "-325",
-    "sport": "ncaaf",
-    "stars": 4,
-    "start": "2026-11-18T00:00Z"
-   },
-   {
-    "confidence": 71,
-    "gameId": "soccer-401861182",
-    "league": "UEFA Nations League",
-    "market": "Moneyline",
-    "matchup": "LUX @ ISL",
-    "pick": "Iceland ML (-400)",
-    "price": "-400",
-    "sport": "soccer",
-    "stars": 2,
-    "start": "2026-11-16T17:00Z"
-   },
-   {
-    "confidence": 64,
-    "gameId": "soccer-401861189",
-    "league": "UEFA Nations League",
-    "market": "Moneyline",
-    "matchup": "POR @ WAL",
-    "pick": "Portugal ML (-245)",
-    "price": "-245",
-    "sport": "soccer",
-    "stars": 2,
-    "start": "2026-11-17T19:45Z"
    }
   ],
-  "note": "6 legs, about a 1-in-6 shot.",
+  "note": "6 legs, about a 1-in-3 shot.",
   "size": 6,
   "status": "open"
  },
- "20261116-0116-7": {
-  "americanOdds": "+420",
-  "batch": "20261116-0116",
-  "createdAt": "2026-11-16T01:16:36Z",
-  "decimalOdds": 5.202,
-  "estHitPct": 10.9,
-  "impliedPct": 19.2,
+ "20261116-0803-7": {
+  "americanOdds": "+143",
+  "batch": "20261116-0803",
+  "createdAt": "2026-11-16T08:03:38Z",
+  "decimalOdds": 2.434,
+  "estHitPct": 24.1,
+  "impliedPct": 41.1,
   "legs": [
+   {
+    "confidence": 89,
+    "gameId": "soccer-401916335",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "BRA @ SIN",
+    "pick": "Brazil ML (-6000)",
+    "price": "-6000",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-17T10:00Z"
+   },
+   {
+    "confidence": 83,
+    "gameId": "soccer-401930895",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "CRC @ ARG",
+    "pick": "Argentina ML (-1200)",
+    "price": "-1200",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-17T23:00Z"
+   },
+   {
+    "confidence": 83,
+    "gameId": "soccer-401932215",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "DOM @ URU",
+    "pick": "Uruguay ML (-1200)",
+    "price": "-1200",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-17T23:30Z"
+   },
    {
     "confidence": 83,
     "gameId": "ncaaf-401866465",
@@ -22271,13 +22440,110 @@
     "start": "2026-11-16T17:00Z"
    },
    {
-    "confidence": 77,
+    "confidence": 78,
     "gameId": "ncaaf-401866464",
     "league": "College Football",
     "market": "Moneyline",
     "matchup": "BALL @ OHIO",
-    "pick": "OHIO ML (-380)",
-    "price": "-380",
+    "pick": "OHIO ML (-425)",
+    "price": "-425",
+    "sport": "ncaaf",
+    "stars": 3,
+    "start": "2026-11-18T00:00Z"
+   },
+   {
+    "confidence": 75,
+    "gameId": "ncaaf-401866466",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "M-OH @ KENT",
+    "pick": "M-OH ML (-325)",
+    "price": "-325",
+    "sport": "ncaaf",
+    "stars": 4,
+    "start": "2026-11-18T00:00Z"
+   }
+  ],
+  "note": "7 legs, about a 1-in-4 shot.",
+  "size": 7,
+  "status": "open"
+ },
+ "20261116-0803-8": {
+  "americanOdds": "+195",
+  "batch": "20261116-0803",
+  "createdAt": "2026-11-16T08:03:38Z",
+  "decimalOdds": 2.947,
+  "estHitPct": 17.6,
+  "impliedPct": 33.9,
+  "legs": [
+   {
+    "confidence": 89,
+    "gameId": "soccer-401916335",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "BRA @ SIN",
+    "pick": "Brazil ML (-6000)",
+    "price": "-6000",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-17T10:00Z"
+   },
+   {
+    "confidence": 83,
+    "gameId": "soccer-401930895",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "CRC @ ARG",
+    "pick": "Argentina ML (-1200)",
+    "price": "-1200",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-17T23:00Z"
+   },
+   {
+    "confidence": 83,
+    "gameId": "soccer-401932215",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "DOM @ URU",
+    "pick": "Uruguay ML (-1200)",
+    "price": "-1200",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-17T23:30Z"
+   },
+   {
+    "confidence": 83,
+    "gameId": "ncaaf-401866465",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "EMU @ WMU",
+    "pick": "WMU ML (-675)",
+    "price": "-675",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-17T23:00Z"
+   },
+   {
+    "confidence": 81,
+    "gameId": "soccer-401861184",
+    "league": "UEFA Nations League",
+    "market": "Moneyline",
+    "matchup": "LIE @ LTU",
+    "pick": "Lithuania ML (-1000)",
+    "price": "-1000",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-16T17:00Z"
+   },
+   {
+    "confidence": 78,
+    "gameId": "ncaaf-401866464",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "BALL @ OHIO",
+    "pick": "OHIO ML (-425)",
+    "price": "-425",
     "sport": "ncaaf",
     "stars": 3,
     "start": "2026-11-18T00:00Z"
@@ -22295,15 +22561,124 @@
     "start": "2026-11-18T00:00Z"
    },
    {
-    "confidence": 71,
+    "confidence": 73,
     "gameId": "soccer-401861182",
     "league": "UEFA Nations League",
     "market": "Moneyline",
     "matchup": "LUX @ ISL",
-    "pick": "Iceland ML (-400)",
-    "price": "-400",
+    "pick": "Iceland ML (-475)",
+    "price": "-475",
+    "sport": "soccer",
+    "stars": 3,
+    "start": "2026-11-16T17:00Z"
+   }
+  ],
+  "note": "8 legs, about a 1-in-6 shot.",
+  "size": 8,
+  "status": "open"
+ },
+ "20261116-0803-9": {
+  "americanOdds": "+315",
+  "batch": "20261116-0803",
+  "createdAt": "2026-11-16T08:03:38Z",
+  "decimalOdds": 4.15,
+  "estHitPct": 11.3,
+  "impliedPct": 24.1,
+  "legs": [
+   {
+    "confidence": 89,
+    "gameId": "soccer-401916335",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "BRA @ SIN",
+    "pick": "Brazil ML (-6000)",
+    "price": "-6000",
     "sport": "soccer",
     "stars": 2,
+    "start": "2026-11-17T10:00Z"
+   },
+   {
+    "confidence": 83,
+    "gameId": "soccer-401930895",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "CRC @ ARG",
+    "pick": "Argentina ML (-1200)",
+    "price": "-1200",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-17T23:00Z"
+   },
+   {
+    "confidence": 83,
+    "gameId": "soccer-401932215",
+    "league": "International Friendly",
+    "market": "Moneyline",
+    "matchup": "DOM @ URU",
+    "pick": "Uruguay ML (-1200)",
+    "price": "-1200",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-17T23:30Z"
+   },
+   {
+    "confidence": 83,
+    "gameId": "ncaaf-401866465",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "EMU @ WMU",
+    "pick": "WMU ML (-675)",
+    "price": "-675",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-17T23:00Z"
+   },
+   {
+    "confidence": 81,
+    "gameId": "soccer-401861184",
+    "league": "UEFA Nations League",
+    "market": "Moneyline",
+    "matchup": "LIE @ LTU",
+    "pick": "Lithuania ML (-1000)",
+    "price": "-1000",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-16T17:00Z"
+   },
+   {
+    "confidence": 78,
+    "gameId": "ncaaf-401866464",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "BALL @ OHIO",
+    "pick": "OHIO ML (-425)",
+    "price": "-425",
+    "sport": "ncaaf",
+    "stars": 3,
+    "start": "2026-11-18T00:00Z"
+   },
+   {
+    "confidence": 75,
+    "gameId": "ncaaf-401866466",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "M-OH @ KENT",
+    "pick": "M-OH ML (-325)",
+    "price": "-325",
+    "sport": "ncaaf",
+    "stars": 4,
+    "start": "2026-11-18T00:00Z"
+   },
+   {
+    "confidence": 73,
+    "gameId": "soccer-401861182",
+    "league": "UEFA Nations League",
+    "market": "Moneyline",
+    "matchup": "LUX @ ISL",
+    "pick": "Iceland ML (-475)",
+    "price": "-475",
+    "sport": "soccer",
+    "stars": 3,
     "start": "2026-11-16T17:00Z"
    },
    {
@@ -22317,22 +22692,10 @@
     "sport": "soccer",
     "stars": 2,
     "start": "2026-11-17T19:45Z"
-   },
-   {
-    "confidence": 62,
-    "gameId": "soccer-401861188",
-    "league": "UEFA Nations League",
-    "market": "Moneyline",
-    "matchup": "SRB @ GRE",
-    "pick": "Greece ML (-240)",
-    "price": "-240",
-    "sport": "soccer",
-    "stars": 2,
-    "start": "2026-11-16T19:45Z"
    }
   ],
-  "note": "7 legs, about a 1-in-9 shot. 7 legs qualified.",
-  "size": 7,
+  "note": "9 legs, about a 1-in-9 shot.",
+  "size": 9,
   "status": "open"
  }
 }
