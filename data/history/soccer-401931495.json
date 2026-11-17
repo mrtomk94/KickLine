@@ -1,0 +1,318 @@
+{
+ "id": "soccer-401931495",
+ "sport": "soccer",
+ "league": "International Friendly",
+ "start": "2026-11-17T15:30Z",
+ "home": {
+  "name": "Saudi Arabia",
+  "abbr": "KSA",
+  "teamId": "655",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Uzbekistan",
+  "abbr": "UZB",
+  "teamId": "2570",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "+190",
+  "mlAwayOpen": "+205",
+  "mlDraw": "+225",
+  "mlHome": "+145",
+  "mlHomeOpen": "+135",
+  "provider": "DraftKings",
+  "spread": "KSA +145",
+  "spreadOpen": "KSA -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "KSA",
+   "stats": {
+    "foulsCommitted": "15",
+    "yellowCards": "1",
+    "redCards": "1",
+    "offsides": "1",
+    "wonCorners": "3",
+    "saves": "3",
+    "possessionPct": "53.5",
+    "totalShots": "9",
+    "shotsOnTarget": "4",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "453",
+    "totalPasses": "530",
+    "passPct": "0.9",
+    "accurateCrosses": "2",
+    "totalCrosses": "8",
+    "crossPct": "0.3",
+    "totalLongBalls": "87",
+    "accurateLongBalls": "53",
+    "longballPct": "0.6",
+    "blockedShots": "3",
+    "effectiveTackles": "8",
+    "totalTackles": "10",
+    "tacklePct": "0.8",
+    "interceptions": "11",
+    "effectiveClearance": "11",
+    "totalClearance": "11"
+   }
+  },
+  "away": {
+   "abbr": "UZB",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "4",
+    "wonCorners": "0",
+    "saves": "3",
+    "possessionPct": "46.5",
+    "totalShots": "8",
+    "shotsOnTarget": "5",
+    "shotPct": "0.6",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "384",
+    "totalPasses": "461",
+    "passPct": "0.8",
+    "accurateCrosses": "2",
+    "totalCrosses": "6",
+    "crossPct": "0.3",
+    "totalLongBalls": "44",
+    "accurateLongBalls": "22",
+    "longballPct": "0.5",
+    "blockedShots": "2",
+    "effectiveTackles": "11",
+    "totalTackles": "18",
+    "tacklePct": "0.6",
+    "interceptions": "13",
+    "effectiveClearance": "8",
+    "totalClearance": "8"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "19'",
+   "team": null,
+   "text": "Goal! Saudi Arabia 0, Uzbekistan 1. Sherzod Esanov (Uzbekistan) right footed shot from outside the box to the high centre of the goal."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "23'",
+   "team": null,
+   "text": "Goal! Saudi Arabia 1, Uzbekistan 1. Feras Al Brikan (Saudi Arabia) header from the centre of the box to the top right corner. Assisted by Ahmed Al Ghamdi with a cross."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "34'",
+   "team": null,
+   "text": "Abdulelah Al Amri (Saudi Arabia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "35'",
+   "team": null,
+   "text": "Goal! Saudi Arabia 1, Uzbekistan 2. Sherzod Esanov (Uzbekistan) right footed shot from very close range to the centre of the goal following a set piece situation."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Saudi Arabia. Abdullah Al Hamddan replaces Feras Al Brikan."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Saudi Arabia. Nawaf Bu Washl replaces Saud Abdulhamid."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Saudi Arabia. Abdulquddus Atiah replaces Hamed Al Shanqiti."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Saudi Arabia. Mukhtar Ali replaces Abdullah Al Khaibari."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Saudi Arabia. Faris Abdi replaces Moteb Al Harbi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Saudi Arabia. Ali Lajami replaces Abdulelah Al Amri."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Red Card",
+   "clock": "51'",
+   "team": null,
+   "text": "Ali Lajami (Saudi Arabia) is shown the red card."
+  },
+  {
+   "type": "End Delay",
+   "clock": "52'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "52'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "52'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "52'",
+   "team": null,
+   "text": "Delay in match because of an injury Abbosbek Fayzullaev (Uzbekistan)."
+  },
+  {
+   "type": "Substitution",
+   "clock": "54'",
+   "team": null,
+   "text": "Substitution, Uzbekistan. Azizbek Amonov replaces Abbosbek Fayzullaev because of an injury."
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, Saudi Arabia. Abdullah Khateeb replaces Musab Al Juwayr."
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, Saudi Arabia. Mohamed Kanno replaces Ahmed Al Ghamdi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Saudi Arabia. Ziyad Al Johani replaces Marwan Al Sahafi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Saudi Arabia. Mohammed Al Kuwaykibi replaces Nasser Al Dawsari."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Uzbekistan. Dostonbek Khamdamov replaces Khusain Norchaev."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Uzbekistan. Aziz Kholmurodov replaces Umarali Rakhmonaliev."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "78'",
+   "team": null,
+   "text": "Rustam Ashurmatov (Uzbekistan) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "82'",
+   "team": null,
+   "text": "Sherzod Esanov (Uzbekistan) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "87'",
+   "team": null,
+   "text": "Jakhongir Urozov (Uzbekistan) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "88'",
+   "team": null,
+   "text": "Substitution, Uzbekistan. Aziz G'aniev replaces Odiljon Khamrobekov."
+  },
+  {
+   "type": "Substitution",
+   "clock": "89'",
+   "team": null,
+   "text": "Substitution, Uzbekistan. Dilshod Murtazayev replaces Makhmudjon Makhamadjonov."
+  },
+  {
+   "type": "Substitution",
+   "clock": "89'",
+   "team": null,
+   "text": "Substitution, Uzbekistan. Giyosjon Rizakulov replaces Bekhruz Karimov."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Delay in match (Saudi Arabia)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Delay in match because of an injury Abduvokhid Nematov (Uzbekistan)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+8'",
+   "team": null,
+   "text": "Second Half ends, Saudi Arabia 1, Uzbekistan 2."
+  }
+ ],
+ "scoringPlays": []
+}

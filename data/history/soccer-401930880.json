@@ -1,0 +1,342 @@
+{
+ "id": "soccer-401930880",
+ "sport": "soccer",
+ "league": "International Friendly",
+ "start": "2026-11-17T12:00Z",
+ "home": {
+  "name": "China",
+  "abbr": "CHN",
+  "teamId": "658",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Bahrain",
+  "abbr": "BHR",
+  "teamId": "4381",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "+320",
+  "mlAwayOpen": "+300",
+  "mlDraw": "+255",
+  "mlHome": "-115",
+  "mlHomeOpen": "-105",
+  "provider": "DraftKings",
+  "spread": "CHN -115",
+  "spreadOpen": "CHN -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "CHN",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "8",
+    "saves": "1",
+    "possessionPct": "45.9",
+    "totalShots": "15",
+    "shotsOnTarget": "2",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "306",
+    "totalPasses": "385",
+    "passPct": "0.8",
+    "accurateCrosses": "8",
+    "totalCrosses": "33",
+    "crossPct": "0.2",
+    "totalLongBalls": "45",
+    "accurateLongBalls": "25",
+    "longballPct": "0.6",
+    "blockedShots": "4",
+    "effectiveTackles": "9",
+    "totalTackles": "10",
+    "tacklePct": "0.9",
+    "interceptions": "12",
+    "effectiveClearance": "15",
+    "totalClearance": "15"
+   }
+  },
+  "away": {
+   "abbr": "BHR",
+   "stats": {
+    "foulsCommitted": "5",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "4",
+    "saves": "0",
+    "possessionPct": "54.1",
+    "totalShots": "6",
+    "shotsOnTarget": "3",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "385",
+    "totalPasses": "480",
+    "passPct": "0.8",
+    "accurateCrosses": "6",
+    "totalCrosses": "12",
+    "crossPct": "0.5",
+    "totalLongBalls": "71",
+    "accurateLongBalls": "30",
+    "longballPct": "0.4",
+    "blockedShots": "0",
+    "effectiveTackles": "13",
+    "totalTackles": "16",
+    "tacklePct": "0.8",
+    "interceptions": "2",
+    "effectiveClearance": "35",
+    "totalClearance": "35"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "2'",
+   "team": null,
+   "text": "Goal! China PR 0, Bahrain 1. Mohammed Abdul Kayoum (Bahrain) header from the left side of the six yard box to the centre of the goal. Assisted by Ahmed Rabeea with a cross."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "17'",
+   "team": null,
+   "text": "Delay in match because of an injury Li Hao (China PR)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "17'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "18'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "18'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "20'",
+   "team": null,
+   "text": "Goal! China PR 0, Bahrain 2. Ahmed Bughammar (Bahrain) right footed shot from the centre of the box to the bottom left corner. Assisted by Mohammed Abdul Kayoum following a corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "31'",
+   "team": null,
+   "text": "Han Pengfei (China PR) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "37'",
+   "team": null,
+   "text": "Goal! China PR 1, Bahrain 2. Behram Abduweli (China PR) header from the centre of the box to the top left corner. Assisted by Wang Yudong with a cross."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "41'",
+   "team": null,
+   "text": "Delay in match because of an injury Behram Abduweli (China PR)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "41'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "42'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "42'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+6'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, China PR. Mao Weijie replaces Yang Mingyang."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, China PR. Wu Xi replaces Wang Shangyuan."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, China PR. Umidjan Yusup replaces Liu Haofan."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, China PR. Ba Dun replaces Lin Liangming."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, China PR. Hu Hetao replaces Liu Yang."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, China PR. Jiang Shenglong replaces Han Pengfei."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins China PR 1, Bahrain 2."
+  },
+  {
+   "type": "Substitution",
+   "clock": "60'",
+   "team": null,
+   "text": "Substitution, Bahrain. Jassem Benjemia replaces Jasim Khelaif."
+  },
+  {
+   "type": "Substitution",
+   "clock": "60'",
+   "team": null,
+   "text": "Substitution, Bahrain. Saud Mohsin replaces Mohammed Abdul Kayoum."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Bahrain. Hazaa Ali replaces Abdulla Al Khulasi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Bahrain. Sayed Dhiya replaces Ahmed Bughammar."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Bahrain. Amine Benaddi replaces Waleed Al Hayam."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Bahrain. Bader Al Asam replaces Husain Abdulkarim."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "63'",
+   "team": null,
+   "text": "Delay in match because of an injury Behram Abduweli (China PR)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "63'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "64'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "64'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, China PR. Zhang Yuning replaces Behram Abduweli."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, China PR. Huang Jiahui replaces Xu Bin."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, China PR. Bunyamin Abdusalam replaces Yang Xi."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "72'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "79'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "80'",
+   "team": null,
+   "text": "Goal! China PR 2, Bahrain 2. Zhang Yuning (China PR) converts the penalty with a right footed shot to the high centre of the goal."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Bahrain. Vincent Ani Emmanuel replaces Ahmed Rabeea because of an injury."
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, Bahrain. Omar Saber replaces Ali Madan."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+6'",
+   "team": null,
+   "text": "Mohammad Al Gharably (Bahrain) is shown the yellow card."
+  }
+ ],
+ "scoringPlays": []
+}

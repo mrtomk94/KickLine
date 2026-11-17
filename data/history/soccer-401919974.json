@@ -1,0 +1,342 @@
+{
+ "id": "soccer-401919974",
+ "sport": "soccer",
+ "league": "International Friendly",
+ "start": "2026-11-17T16:00Z",
+ "home": {
+  "name": "Jordan",
+  "abbr": "JOR",
+  "teamId": "2917",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Australia",
+  "abbr": "AUS",
+  "teamId": "628",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "-130",
+  "mlAwayOpen": "-110",
+  "mlDraw": "+275",
+  "mlHome": "+340",
+  "mlHomeOpen": "+285",
+  "provider": "DraftKings",
+  "spread": "AUS -130",
+  "spreadOpen": "AUS -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "JOR",
+   "stats": {
+    "foulsCommitted": "5",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "6",
+    "wonCorners": "2",
+    "saves": "1",
+    "possessionPct": "42.1",
+    "totalShots": "13",
+    "shotsOnTarget": "7",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "320",
+    "totalPasses": "410",
+    "passPct": "0.8",
+    "accurateCrosses": "0",
+    "totalCrosses": "6",
+    "crossPct": "0.0",
+    "totalLongBalls": "78",
+    "accurateLongBalls": "31",
+    "longballPct": "0.4",
+    "blockedShots": "3",
+    "effectiveTackles": "13",
+    "totalTackles": "22",
+    "tacklePct": "0.6",
+    "interceptions": "10",
+    "effectiveClearance": "15",
+    "totalClearance": "15"
+   }
+  },
+  "away": {
+   "abbr": "AUS",
+   "stats": {
+    "foulsCommitted": "10",
+    "yellowCards": "0",
+    "redCards": "1",
+    "offsides": "4",
+    "wonCorners": "2",
+    "saves": "5",
+    "possessionPct": "57.9",
+    "totalShots": "7",
+    "shotsOnTarget": "1",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "497",
+    "totalPasses": "563",
+    "passPct": "0.9",
+    "accurateCrosses": "2",
+    "totalCrosses": "11",
+    "crossPct": "0.2",
+    "totalLongBalls": "34",
+    "accurateLongBalls": "18",
+    "longballPct": "0.5",
+    "blockedShots": "2",
+    "effectiveTackles": "4",
+    "totalTackles": "11",
+    "tacklePct": "0.4",
+    "interceptions": "4",
+    "effectiveClearance": "14",
+    "totalClearance": "14"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "7'",
+   "team": null,
+   "text": "Delay in match (Australia)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "7'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "7'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "7'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "8'",
+   "team": null,
+   "text": "Yazan Al Arab (Jordan) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "13'",
+   "team": null,
+   "text": "Delay in match because of an injury Paul Okon-Engstler (Australia)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "13'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "13'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "13'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Saved",
+   "clock": "32'",
+   "team": null,
+   "text": "Penalty saved. Mousa Al Tamari (Jordan) left footed shot saved in the centre of the goal by Patrick Beach (Australia)."
+  },
+  {
+   "type": "Goal",
+   "clock": "34'",
+   "team": null,
+   "text": "Goal! Jordan 1, Australia 0. Mousa Al Tamari (Jordan) left footed shot from the centre of the box to the bottom right corner. Assisted by Amer Jamous following a fast break."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "36'",
+   "team": null,
+   "text": "Delay in match because of an injury Mahmoud Al Mardi (Jordan)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "36'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "38'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "38'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "41'",
+   "team": null,
+   "text": "Delay in match because of an injury Abdallah Al Fakhori (Jordan)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "41'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "43'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "43'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": "First Half ends, Jordan 1, Australia 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Australia. Diesel Herrington replaces Harry Souttar."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Jordan 1, Australia 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Australia. Kasey Bos replaces Aziz Behich."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Australia. Sam Klein replaces Connor Metcalfe."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Australia. Daniel Arzani replaces Tete Yengi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Australia. Jason Geria replaces Jacob Italiano."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Australia. Marcus Younis replaces Riley McGree."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "74'",
+   "team": null,
+   "text": "Daniel Arzani (Australia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Jordan. Ali Olwan replaces Mousa Al Tamari."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Jordan. Ghaith Al Madadha replaces Anas Badawi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Jordan. Ahmad Assaf replaces Amer Jamous."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Jordan. Ahmad Abd Rabbo replaces Mohammad Abu Al Nadi because of an injury."
+  },
+  {
+   "type": "Red Card",
+   "clock": "80'",
+   "team": null,
+   "text": "Second yellow card to Daniel Arzani (Australia) for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "81'",
+   "team": null,
+   "text": "Delay in match because of an injury Abdallah Nasib (Jordan)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "81'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "82'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "82'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Australia. Kusini Yengi replaces Nestory Irankunda."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "89'",
+   "team": null,
+   "text": "Nizar Al Rashdan (Jordan) is shown the yellow card for a bad foul."
+  }
+ ],
+ "scoringPlays": []
+}
