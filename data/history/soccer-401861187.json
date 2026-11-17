@@ -1,0 +1,228 @@
+{
+ "id": "soccer-401861187",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-16T19:45Z",
+ "home": {
+  "name": "North Macedonia",
+  "abbr": "MKD",
+  "teamId": "463",
+  "score": 0.0
+ },
+ "away": {
+  "name": "Slovenia",
+  "abbr": "SVN",
+  "teamId": "472",
+  "score": 3.0
+ },
+ "odds": {
+  "mlAway": "-215",
+  "mlAwayOpen": "-165",
+  "mlDraw": "+295",
+  "mlHome": "+600",
+  "mlHomeOpen": "+450",
+  "provider": "DraftKings",
+  "spread": "SVN -215",
+  "spreadOpen": "SVN -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "MKD",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "3",
+    "saves": "2",
+    "possessionPct": "59.6",
+    "totalShots": "9",
+    "shotsOnTarget": "4",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "471",
+    "totalPasses": "541",
+    "passPct": "0.9",
+    "accurateCrosses": "2",
+    "totalCrosses": "20",
+    "crossPct": "0.1",
+    "totalLongBalls": "53",
+    "accurateLongBalls": "25",
+    "longballPct": "0.5",
+    "blockedShots": "3",
+    "effectiveTackles": "14",
+    "totalTackles": "17",
+    "tacklePct": "0.8",
+    "interceptions": "6",
+    "effectiveClearance": "13",
+    "totalClearance": "13"
+   }
+  },
+  "away": {
+   "abbr": "SVN",
+   "stats": {
+    "foulsCommitted": "15",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "5",
+    "saves": "4",
+    "possessionPct": "40.4",
+    "totalShots": "8",
+    "shotsOnTarget": "6",
+    "shotPct": "0.8",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "295",
+    "totalPasses": "366",
+    "passPct": "0.8",
+    "accurateCrosses": "2",
+    "totalCrosses": "8",
+    "crossPct": "0.3",
+    "totalLongBalls": "53",
+    "accurateLongBalls": "21",
+    "longballPct": "0.4",
+    "blockedShots": "1",
+    "effectiveTackles": "6",
+    "totalTackles": "10",
+    "tacklePct": "0.6",
+    "interceptions": "11",
+    "effectiveClearance": "17",
+    "totalClearance": "17"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "22'",
+   "team": null,
+   "text": "Adam Gnezda Cerin (Slovenia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "29'",
+   "team": null,
+   "text": "Goal! North Macedonia 0, Slovenia 1. Danijel Sturm (Slovenia) left footed shot from the centre of the box to the top left corner. Assisted by Zan Vipotnik with a through ball following a fast break."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'",
+   "team": null,
+   "text": "First Half ends, North Macedonia 0, Slovenia 1."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, North Macedonia. Azer Omeragikj replaces Agon Elezi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, North Macedonia. Ljupcho Doriev replaces Bojan Ilievski."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, North Macedonia. Hristijan Maleski replaces Darko Churlinov."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Slovenia. Srdjan Kuzmic replaces Erik Janza."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins North Macedonia 0, Slovenia 1."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "48'",
+   "team": null,
+   "text": "Zan Karnicnik (Slovenia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "57'",
+   "team": null,
+   "text": "Ezgjan Alioski (North Macedonia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Slovenia. Mark Zabukovnik replaces Sandi Lovric."
+  },
+  {
+   "type": "Goal",
+   "clock": "66'",
+   "team": null,
+   "text": "Goal! North Macedonia 0, Slovenia 2. David Zec (Slovenia) right footed shot from very close range to the centre of the goal. Assisted by Zan Vipotnik with a headed pass following a corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, North Macedonia. Marko Gjorgjievski replaces Elmin Rastoder."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Slovenia. Benjamin Verbic replaces Aljosa Matko."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Slovenia. Andraz Sporar replaces Zan Vipotnik."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "75'",
+   "team": null,
+   "text": "Benjamin Verbic (Slovenia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, North Macedonia. Jani Atanasov replaces Enis Bardhi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Slovenia. Relja Obric replaces Vanja Drkusic."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Goal! North Macedonia 0, Slovenia 3. Danijel Sturm (Slovenia) right footed shot from the centre of the box to the bottom right corner. Assisted by Andraz Sporar."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+3'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

@@ -1,0 +1,234 @@
+{
+ "id": "soccer-401861185",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-16T19:45Z",
+ "home": {
+  "name": "Germany",
+  "abbr": "GER",
+  "teamId": "481",
+  "score": 5.0
+ },
+ "away": {
+  "name": "Netherlands",
+  "abbr": "NED",
+  "teamId": "449",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+260",
+  "mlAwayOpen": "+250",
+  "mlDraw": "+310",
+  "mlHome": "-125",
+  "mlHomeOpen": "-120",
+  "provider": "DraftKings",
+  "spread": "GER -125",
+  "spreadOpen": "GER -0.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "GER",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "3",
+    "saves": "1",
+    "possessionPct": "56.2",
+    "totalShots": "18",
+    "shotsOnTarget": "10",
+    "shotPct": "0.6",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "429",
+    "totalPasses": "497",
+    "passPct": "0.9",
+    "accurateCrosses": "7",
+    "totalCrosses": "22",
+    "crossPct": "0.3",
+    "totalLongBalls": "37",
+    "accurateLongBalls": "22",
+    "longballPct": "0.6",
+    "blockedShots": "4",
+    "effectiveTackles": "5",
+    "totalTackles": "11",
+    "tacklePct": "0.5",
+    "interceptions": "5",
+    "effectiveClearance": "16",
+    "totalClearance": "16"
+   }
+  },
+  "away": {
+   "abbr": "NED",
+   "stats": {
+    "foulsCommitted": "15",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "2",
+    "saves": "5",
+    "possessionPct": "43.8",
+    "totalShots": "9",
+    "shotsOnTarget": "1",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "314",
+    "totalPasses": "393",
+    "passPct": "0.8",
+    "accurateCrosses": "7",
+    "totalCrosses": "13",
+    "crossPct": "0.5",
+    "totalLongBalls": "70",
+    "accurateLongBalls": "35",
+    "longballPct": "0.5",
+    "blockedShots": "4",
+    "effectiveTackles": "13",
+    "totalTackles": "22",
+    "tacklePct": "0.6",
+    "interceptions": "10",
+    "effectiveClearance": "21",
+    "totalClearance": "21"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "26'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "27'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "41'",
+   "team": null,
+   "text": "Goal! Germany 1, Netherlands 0. Derry Scherhant (Germany) right footed shot from the left side of the box to the top right corner. Assisted by Joshua Kimmich."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'",
+   "team": null,
+   "text": "First Half ends, Germany 1, Netherlands 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Germany 1, Netherlands 0."
+  },
+  {
+   "type": "Goal",
+   "clock": "60'",
+   "team": null,
+   "text": "Goal! Germany 2, Netherlands 0. Florian Wirtz (Germany) left footed shot from outside the box to the top left corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, Netherlands. Justin Kluivert replaces Quinten Timber."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Germany. Maximilian Mittelstädt replaces Nathaniel Brown."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Germany. Younes Ebnoutalib replaces Kai Havertz."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "65'",
+   "team": null,
+   "text": "Goal! Germany 3, Netherlands 0. Nico Schlotterbeck (Germany) header from the centre of the box to the bottom right corner. Assisted by Brajan Gruda with a cross following a set piece situation."
+  },
+  {
+   "type": "Goal",
+   "clock": "71'",
+   "team": null,
+   "text": "Goal! Germany 4, Netherlands 0. Florian Wirtz (Germany) right footed shot from the right side of the six yard box to the high centre of the goal. Assisted by Brajan Gruda."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Netherlands. Ian Maatsen replaces Jurriën Timber."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Netherlands. Mexx Meerdink replaces Donyell Malen."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Germany. Finn Jeltsch replaces Philipp Treu."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Germany. Tom Bischof replaces Florian Wirtz."
+  },
+  {
+   "type": "Goal",
+   "clock": "77'",
+   "team": null,
+   "text": "Goal! Germany 5, Netherlands 0. Brajan Gruda (Germany) left footed shot from the centre of the box to the high centre of the goal."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Netherlands. Ruben van Bommel replaces Cody Gakpo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Netherlands. Teun Koopmeiners replaces Tijjani Reijnders."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Germany. Lennart Karl replaces Brajan Gruda."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "86'",
+   "team": null,
+   "text": "Mexx Meerdink (Netherlands) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Second Half ends, Germany 5, Netherlands 0."
+  }
+ ],
+ "scoringPlays": []
+}

@@ -1,0 +1,294 @@
+{
+ "id": "soccer-401861184",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-16T17:00Z",
+ "home": {
+  "name": "Lithuania",
+  "abbr": "LTU",
+  "teamId": "460",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Liechtenstein",
+  "abbr": "LIE",
+  "teamId": "589",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+2500",
+  "mlAwayOpen": "+2000",
+  "mlDraw": "+650",
+  "mlHome": "-1000",
+  "mlHomeOpen": "-1200",
+  "provider": "DraftKings",
+  "spread": "LTU -1000",
+  "spreadOpen": "LTU -2.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "LTU",
+   "stats": {
+    "foulsCommitted": "22",
+    "yellowCards": "4",
+    "redCards": "0",
+    "offsides": "4",
+    "wonCorners": "6",
+    "saves": "2",
+    "possessionPct": "68.1",
+    "totalShots": "21",
+    "shotsOnTarget": "4",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "505",
+    "totalPasses": "578",
+    "passPct": "0.9",
+    "accurateCrosses": "6",
+    "totalCrosses": "20",
+    "crossPct": "0.3",
+    "totalLongBalls": "50",
+    "accurateLongBalls": "29",
+    "longballPct": "0.6",
+    "blockedShots": "7",
+    "effectiveTackles": "8",
+    "totalTackles": "11",
+    "tacklePct": "0.7",
+    "interceptions": "12",
+    "effectiveClearance": "14",
+    "totalClearance": "14"
+   }
+  },
+  "away": {
+   "abbr": "LIE",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "2",
+    "saves": "2",
+    "possessionPct": "31.9",
+    "totalShots": "8",
+    "shotsOnTarget": "3",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "186",
+    "totalPasses": "260",
+    "passPct": "0.7",
+    "accurateCrosses": "0",
+    "totalCrosses": "9",
+    "crossPct": "0.0",
+    "totalLongBalls": "48",
+    "accurateLongBalls": "20",
+    "longballPct": "0.4",
+    "blockedShots": "2",
+    "effectiveTackles": "5",
+    "totalTackles": "13",
+    "tacklePct": "0.4",
+    "interceptions": "10",
+    "effectiveClearance": "23",
+    "totalClearance": "23"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "16'",
+   "team": null,
+   "text": "Goal! Lithuania 1, Liechtenstein 0. Eligijus Jankauskas (Lithuania) with an attempt from very close range to the high centre of the goal. Assisted by Artur Dolznikov."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "18'",
+   "team": null,
+   "text": "Delay in match because of an injury Jens Hofer (Liechtenstein)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "18'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "19'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "19'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "21'",
+   "team": null,
+   "text": "Substitution, Liechtenstein. Severin Schlegel replaces Jens Hofer because of an injury."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "21'",
+   "team": null,
+   "text": "Domantas Sluta (Lithuania) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+4'",
+   "team": null,
+   "text": "First Half ends, Lithuania 1, Liechtenstein 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Lithuania. Rokas Lekiatas replaces Artemijus Tutyskinas."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Lithuania 1, Liechtenstein 0."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "47'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "49'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "50'",
+   "team": null,
+   "text": "Goal! Lithuania 2, Liechtenstein 0. Manfredas Ruzgis (Lithuania) converts the penalty with a right footed shot to the top left corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "55'",
+   "team": null,
+   "text": "Justas Lasickas (Lithuania) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "57'",
+   "team": null,
+   "text": "Substitution, Liechtenstein. Florian Allgäuer replaces Marcel Büchel."
+  },
+  {
+   "type": "Substitution",
+   "clock": "57'",
+   "team": null,
+   "text": "Substitution, Liechtenstein. Niklas Beck replaces Emanuel Zünd."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "58'",
+   "team": null,
+   "text": "Gvidas Gineitis (Lithuania) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal - Free-kick",
+   "clock": "60'",
+   "team": null,
+   "text": "Goal! Lithuania 2, Liechtenstein 1. Aron Sele (Liechtenstein) from a free kick with a right footed shot to the bottom right corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Lithuania. Matas Vareika replaces Artur Dolznikov."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Lithuania. Faustas Steponavicius replaces Motiejus Burba."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "67'",
+   "team": null,
+   "text": "Manfredas Ruzgis (Lithuania) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Lithuania. Nikita Pavlovskij replaces Domantas Sluta."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "75'",
+   "team": null,
+   "text": "Delay in match because of an injury Severin Schlegel (Liechtenstein)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "75'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "75'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "75'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "79'",
+   "team": null,
+   "text": "Niklas Beck (Liechtenstein) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "88'",
+   "team": null,
+   "text": "Substitution, Liechtenstein. Liam Kranz replaces Aron Sele."
+  },
+  {
+   "type": "Substitution",
+   "clock": "88'",
+   "team": null,
+   "text": "Substitution, Liechtenstein. Fabio Luque-Notaro replaces Alessandro Lo Russo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "88'",
+   "team": null,
+   "text": "Substitution, Lithuania. Edgaras Dubickas replaces Eligijus Jankauskas."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+6'",
+   "team": null,
+   "text": "Second Half ends, Lithuania 2, Liechtenstein 1."
+  }
+ ],
+ "scoringPlays": []
+}

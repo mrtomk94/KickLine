@@ -1,0 +1,264 @@
+{
+ "id": "soccer-401861186",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-16T19:45Z",
+ "home": {
+  "name": "Switzerland",
+  "abbr": "SUI",
+  "teamId": "475",
+  "score": 4.0
+ },
+ "away": {
+  "name": "Scotland",
+  "abbr": "SCO",
+  "teamId": "580",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+275",
+  "mlAwayOpen": "+400",
+  "mlDraw": "+260",
+  "mlHome": "-115",
+  "mlHomeOpen": "-150",
+  "provider": "DraftKings",
+  "spread": "SUI -115",
+  "spreadOpen": "SUI -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "SUI",
+   "stats": {
+    "foulsCommitted": "10",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "7",
+    "saves": "1",
+    "possessionPct": "53.8",
+    "totalShots": "18",
+    "shotsOnTarget": "8",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "495",
+    "totalPasses": "552",
+    "passPct": "0.9",
+    "accurateCrosses": "1",
+    "totalCrosses": "10",
+    "crossPct": "0.1",
+    "totalLongBalls": "52",
+    "accurateLongBalls": "32",
+    "longballPct": "0.6",
+    "blockedShots": "5",
+    "effectiveTackles": "10",
+    "totalTackles": "14",
+    "tacklePct": "0.7",
+    "interceptions": "4",
+    "effectiveClearance": "25",
+    "totalClearance": "25"
+   }
+  },
+  "away": {
+   "abbr": "SCO",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "4",
+    "saves": "3",
+    "possessionPct": "46.2",
+    "totalShots": "13",
+    "shotsOnTarget": "1",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "402",
+    "totalPasses": "463",
+    "passPct": "0.9",
+    "accurateCrosses": "7",
+    "totalCrosses": "20",
+    "crossPct": "0.4",
+    "totalLongBalls": "43",
+    "accurateLongBalls": "19",
+    "longballPct": "0.4",
+    "blockedShots": "3",
+    "effectiveTackles": "7",
+    "totalTackles": "16",
+    "tacklePct": "0.4",
+    "interceptions": "5",
+    "effectiveClearance": "8",
+    "totalClearance": "8"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Own Goal",
+   "clock": "22'",
+   "team": null,
+   "text": "Own Goal by Lewis Ferguson, Scotland. Switzerland 1, Scotland 0."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "35'",
+   "team": null,
+   "text": "Delay in match because of an injury Aaron Hickey (Scotland)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "35'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "37'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "37'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "37'",
+   "team": null,
+   "text": "Substitution, Scotland. Nathan Patterson replaces Aaron Hickey because of an injury."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": "First Half ends, Switzerland 1, Scotland 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "47'",
+   "team": null,
+   "text": "Goal! Switzerland 2, Scotland 0. Winsley Boteli (Switzerland) right footed shot from very close range to the bottom right corner. Assisted by Samuel Ballet.Goal confirmed following VAR Review."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "47'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "49'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "51'",
+   "team": null,
+   "text": "Goal! Switzerland 3, Scotland 0. Alvyn Sanches (Switzerland) left footed shot from the left side of the box to the bottom right corner. Assisted by Winsley Boteli."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "52'",
+   "team": null,
+   "text": "Oliver McBurnie (Scotland) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "53'",
+   "team": null,
+   "text": "Andy Robertson (Scotland) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, Scotland. Ryan Christie replaces Billy Gilmour."
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, Scotland. Ben Gannon-Doak replaces Oliver McBurnie."
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, Scotland. Kieron Bowie replaces John McGinn."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Switzerland. Zeki Amdouni replaces Winsley Boteli."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Switzerland. Djibril Sow replaces Remo Freuler."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Switzerland. Ricardo Rodríguez replaces Nico Elvedi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Switzerland. Breel Embolo replaces Samuel Ballet."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "73'",
+   "team": null,
+   "text": "Ryan Christie (Scotland) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Scotland. Kristi Montgomery replaces Lewis Ferguson."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Switzerland. Roggerio Nyakossi replaces Zachary Athekame."
+  },
+  {
+   "type": "Goal",
+   "clock": "89'",
+   "team": null,
+   "text": "Goal! Switzerland 4, Scotland 0. Zeki Amdouni (Switzerland) left footed shot from the centre of the box to the high centre of the goal. Assisted by Alvyn Sanches following a corner."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+3'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

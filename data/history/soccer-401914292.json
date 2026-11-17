@@ -1,0 +1,236 @@
+{
+ "id": "soccer-401914292",
+ "sport": "soccer",
+ "league": "International Friendly",
+ "start": "2026-11-16T18:00Z",
+ "home": {
+  "name": "Andorra",
+  "abbr": "AND",
+  "teamId": "587",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Azerbaijan",
+  "abbr": "AZE",
+  "teamId": "581",
+  "score": 3.0
+ },
+ "odds": {
+  "mlAway": "-115",
+  "mlAwayOpen": "-135",
+  "mlDraw": "+220",
+  "mlHome": "+380",
+  "mlHomeOpen": "+380",
+  "provider": "DraftKings",
+  "spread": "AZE -115",
+  "spreadOpen": "AZE -0.5",
+  "total": "1.5",
+  "totalOpen": "1.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "AND",
+   "stats": {
+    "foulsCommitted": "0",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "0",
+    "saves": "0",
+    "possessionPct": "0",
+    "totalShots": "0",
+    "shotsOnTarget": "0",
+    "shotPct": "0.0",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "0",
+    "totalPasses": "0",
+    "passPct": "0.0",
+    "crossPct": "0.0",
+    "longballPct": "0.0",
+    "blockedShots": "0",
+    "effectiveTackles": "0",
+    "totalTackles": "0",
+    "tacklePct": "0.0",
+    "effectiveClearance": "0",
+    "totalClearance": "0"
+   }
+  },
+  "away": {
+   "abbr": "AZE",
+   "stats": {
+    "foulsCommitted": "0",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "0",
+    "saves": "0",
+    "possessionPct": "0",
+    "totalShots": "0",
+    "shotsOnTarget": "0",
+    "shotPct": "0.0",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "0",
+    "totalPasses": "0",
+    "passPct": "0.0",
+    "crossPct": "0.0",
+    "longballPct": "0.0",
+    "blockedShots": "0",
+    "effectiveTackles": "0",
+    "totalTackles": "0",
+    "tacklePct": "0.0",
+    "effectiveClearance": "0",
+    "totalClearance": "0"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Goal",
+   "clock": "2'",
+   "team": null,
+   "text": "Esqin Ahmadov (Azerbaijan) Goal at 2'"
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "32'",
+   "team": null,
+   "text": "Farid Yusifli (Azerbaijan) Yellow Card at 32'"
+  },
+  {
+   "type": "Substitution",
+   "clock": "46'",
+   "team": null,
+   "text": "Moisés San Nicolás (Andorra) Substitution at 46'"
+  },
+  {
+   "type": "Substitution",
+   "clock": "46'",
+   "team": null,
+   "text": "Marc Prat (Andorra) Substitution at 46'"
+  },
+  {
+   "type": "Goal",
+   "clock": "47'",
+   "team": null,
+   "text": "Musa Qurbanly (Azerbaijan) Goal at 47'"
+  },
+  {
+   "type": "Goal",
+   "clock": "55'",
+   "team": null,
+   "text": "Ricard Fernández (Andorra) Goal at 55'"
+  },
+  {
+   "type": "Substitution",
+   "clock": "56'",
+   "team": null,
+   "text": "Namig Alasgarov (Azerbaijan) Substitution at 56'"
+  },
+  {
+   "type": "Substitution",
+   "clock": "56'",
+   "team": null,
+   "text": "Mahir Emreli (Azerbaijan) Substitution at 56'"
+  },
+  {
+   "type": "Substitution",
+   "clock": "56'",
+   "team": null,
+   "text": "Agadadas Salyanskiy (Azerbaijan) Substitution at 56'"
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Guillaume Lopez (Andorra) Substitution at 64'"
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Gerard Garcia (Andorra) Substitution at 64'"
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Jordi Aláez (Andorra) Substitution at 64'"
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Toral Bayramov (Azerbaijan) Substitution at 64'"
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Abdulakh Khaybulaev (Azerbaijan) Substitution at 64'"
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Badavi Hüseynov (Azerbaijan) Substitution at 64'"
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Nihad Ahmadzada (Azerbaijan) Substitution at 65'"
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Emil Mustafaev (Azerbaijan) Substitution at 65'"
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "70'",
+   "team": null,
+   "text": "Toral Bayramov (Azerbaijan) Penalty - Scored at 70'"
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Eric Vales (Andorra) Substitution at 74'"
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Éric De Las Heras (Andorra) Substitution at 74'"
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Christian Garcia (Andorra) Substitution at 75'"
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Qismat Aliyev (Azerbaijan) Substitution at 79'"
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Iker Álvarez (Andorra) Substitution at 86'"
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Nil Linares (Andorra) Substitution at 86'"
+  }
+ ],
+ "scoringPlays": []
+}

@@ -1,0 +1,228 @@
+{
+ "id": "soccer-401861183",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-16T17:00Z",
+ "home": {
+  "name": "Estonia",
+  "abbr": "EST",
+  "teamId": "444",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Bulgaria",
+  "abbr": "BUL",
+  "teamId": "462",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+275",
+  "mlAwayOpen": "+240",
+  "mlDraw": "+190",
+  "mlHome": "+110",
+  "mlHomeOpen": "+120",
+  "provider": "DraftKings",
+  "spread": "EST +110",
+  "spreadOpen": "EST -0.5",
+  "total": "1.5",
+  "totalOpen": "1.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "EST",
+   "stats": {
+    "foulsCommitted": "8",
+    "yellowCards": "1",
+    "redCards": "1",
+    "offsides": "2",
+    "wonCorners": "2",
+    "saves": "1",
+    "possessionPct": "52.2",
+    "totalShots": "10",
+    "shotsOnTarget": "4",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "419",
+    "totalPasses": "527",
+    "passPct": "0.8",
+    "accurateCrosses": "4",
+    "totalCrosses": "8",
+    "crossPct": "0.5",
+    "totalLongBalls": "61",
+    "accurateLongBalls": "21",
+    "longballPct": "0.3",
+    "blockedShots": "2",
+    "effectiveTackles": "21",
+    "totalTackles": "36",
+    "tacklePct": "0.6",
+    "interceptions": "11",
+    "effectiveClearance": "16",
+    "totalClearance": "16"
+   }
+  },
+  "away": {
+   "abbr": "BUL",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "3",
+    "saves": "2",
+    "possessionPct": "47.8",
+    "totalShots": "10",
+    "shotsOnTarget": "2",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "378",
+    "totalPasses": "479",
+    "passPct": "0.8",
+    "accurateCrosses": "6",
+    "totalCrosses": "12",
+    "crossPct": "0.5",
+    "totalLongBalls": "56",
+    "accurateLongBalls": "22",
+    "longballPct": "0.4",
+    "blockedShots": "3",
+    "effectiveTackles": "10",
+    "totalTackles": "15",
+    "tacklePct": "0.7",
+    "interceptions": "11",
+    "effectiveClearance": "17",
+    "totalClearance": "17"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "8'",
+   "team": null,
+   "text": "Goal! Estonia 1, Bulgaria 0. Patrik Kristal (Estonia) right footed shot from the right side of the box to the top right corner. Assisted by Rocco Shein following a fast break."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "22'",
+   "team": null,
+   "text": "Stefan Velkov (Bulgaria) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "Goal! Estonia 1, Bulgaria 1. Svetoslav Kovachev (Bulgaria) left footed shot from the centre of the box to the bottom right corner."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": "First Half ends, Estonia 1, Bulgaria 1."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Estonia. Kevor Palumets replaces Mattias Käit."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Estonia 1, Bulgaria 1."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "60'",
+   "team": null,
+   "text": "Goal! Estonia 2, Bulgaria 1. Kevor Palumets (Estonia) header from the centre of the box to the bottom left corner. Assisted by Markus Poom with a cross following a set piece situation."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Bulgaria. Georgi Rusev replaces Svetoslav Kovachev."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Bulgaria. Simeon Shishkov replaces Dimitar Velkovski."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Estonia. Mattias Männilaan replaces Markus Poom."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "63'",
+   "team": null,
+   "text": "Andrian Kraev (Bulgaria) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "69'",
+   "team": null,
+   "text": "Michael Schjønning-Larsen (Estonia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Bulgaria. Atanas Iliev replaces Georgi Lazarov."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Bulgaria. Ivaylo Chochev replaces Andrian Kraev."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Estonia. Karel Mustmaa replaces Marten-Chris Paalberg."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Estonia. Frank Liivak replaces Rasmus Peetson."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Bulgaria. Marin Petkov replaces Lukas Petkov."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "86'",
+   "team": null,
+   "text": "Karel Mustmaa (Estonia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Red Card",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Second yellow card to Karel Mustmaa (Estonia)."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+3'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

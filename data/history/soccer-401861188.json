@@ -1,0 +1,252 @@
+{
+ "id": "soccer-401861188",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-16T19:45Z",
+ "home": {
+  "name": "Greece",
+  "abbr": "GRE",
+  "teamId": "455",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Serbia",
+  "abbr": "SRB",
+  "teamId": "6757",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+600",
+  "mlAwayOpen": "+550",
+  "mlDraw": "+370",
+  "mlHome": "-260",
+  "mlHomeOpen": "-235",
+  "provider": "DraftKings",
+  "spread": "GRE -260",
+  "spreadOpen": "GRE -1.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "GRE",
+   "stats": {
+    "foulsCommitted": "6",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "10",
+    "saves": "1",
+    "possessionPct": "57.7",
+    "totalShots": "19",
+    "shotsOnTarget": "6",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "479",
+    "totalPasses": "546",
+    "passPct": "0.9",
+    "accurateCrosses": "4",
+    "totalCrosses": "18",
+    "crossPct": "0.2",
+    "totalLongBalls": "65",
+    "accurateLongBalls": "43",
+    "longballPct": "0.7",
+    "blockedShots": "9",
+    "effectiveTackles": "8",
+    "totalTackles": "12",
+    "tacklePct": "0.7",
+    "interceptions": "10",
+    "effectiveClearance": "26",
+    "totalClearance": "26"
+   }
+  },
+  "away": {
+   "abbr": "SRB",
+   "stats": {
+    "foulsCommitted": "8",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "0",
+    "saves": "5",
+    "possessionPct": "42.3",
+    "totalShots": "5",
+    "shotsOnTarget": "1",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "325",
+    "totalPasses": "395",
+    "passPct": "0.8",
+    "accurateCrosses": "1",
+    "totalCrosses": "12",
+    "crossPct": "0.1",
+    "totalLongBalls": "51",
+    "accurateLongBalls": "22",
+    "longballPct": "0.4",
+    "blockedShots": "2",
+    "effectiveTackles": "13",
+    "totalTackles": "20",
+    "tacklePct": "0.7",
+    "interceptions": "14",
+    "effectiveClearance": "27",
+    "totalClearance": "27"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "7'",
+   "team": null,
+   "text": "Christos Zafeiris (Greece) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "41'",
+   "team": null,
+   "text": "Delay in match because of an injury Vangelis Pavlidis (Greece)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "41'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "43'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "43'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "45'",
+   "team": null,
+   "text": "Srdjan Babic (Serbia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": "First Half ends, Greece 0, Serbia 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Serbia. Stefan Gudelj replaces Srdjan Babic."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "61'",
+   "team": null,
+   "text": "Delay in match because of an injury Strahinja Erakovic (Serbia)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "61'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Greece. Giorgos Masouras replaces Tasos Douvikas."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Greece. Tasos Bakasetas replaces Konstantinos Karetsas."
+  },
+  {
+   "type": "End Delay",
+   "clock": "61'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "61'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Serbia. Mihajlo Cvetkovic replaces Aleksandar Mitrovic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Serbia. Dusan Tadic replaces Luka Jovic."
+  },
+  {
+   "type": "Goal",
+   "clock": "69'",
+   "team": null,
+   "text": "Goal! Greece 1, Serbia 0. Giorgos Masouras (Greece) right footed shot from the right side of the six yard box to the centre of the goal. Assisted by Vangelis Pavlidis with a cross."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Greece. Charalampos Kostoulas replaces Vangelis Pavlidis."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Serbia. Vladimir Lucic replaces Kosta Nedeljkovic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Serbia. Petar Sukacev replaces Stefan Bukinac."
+  },
+  {
+   "type": "Substitution",
+   "clock": "88'",
+   "team": null,
+   "text": "Substitution, Greece. Andrews Tetteh replaces Christos Tzolis."
+  },
+  {
+   "type": "Substitution",
+   "clock": "88'",
+   "team": null,
+   "text": "Substitution, Greece. Panagiotis Retsos replaces Christos Zafeiris."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+4'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}
