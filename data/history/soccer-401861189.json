@@ -1,0 +1,240 @@
+{
+ "id": "soccer-401861189",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-17T19:45Z",
+ "home": {
+  "name": "Wales",
+  "abbr": "WAL",
+  "teamId": "578",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Portugal",
+  "abbr": "POR",
+  "teamId": "482",
+  "score": 3.0
+ },
+ "odds": {
+  "mlAway": "-270",
+  "mlAwayOpen": "-250",
+  "mlDraw": "+400",
+  "mlHome": "+550",
+  "mlHomeOpen": "+550",
+  "provider": "DraftKings",
+  "spread": "POR -270",
+  "spreadOpen": "POR -1.5",
+  "total": "3.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "WAL",
+   "stats": {
+    "foulsCommitted": "5",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "6",
+    "saves": "3",
+    "possessionPct": "40.7",
+    "totalShots": "22",
+    "shotsOnTarget": "8",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "372",
+    "totalPasses": "428",
+    "passPct": "0.9",
+    "accurateCrosses": "5",
+    "totalCrosses": "24",
+    "crossPct": "0.2",
+    "totalLongBalls": "35",
+    "accurateLongBalls": "19",
+    "longballPct": "0.5",
+    "blockedShots": "5",
+    "effectiveTackles": "4",
+    "totalTackles": "8",
+    "tacklePct": "0.5",
+    "interceptions": "7",
+    "effectiveClearance": "14",
+    "totalClearance": "14"
+   }
+  },
+  "away": {
+   "abbr": "POR",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "1",
+    "redCards": "1",
+    "offsides": "2",
+    "wonCorners": "1",
+    "saves": "6",
+    "possessionPct": "59.3",
+    "totalShots": "11",
+    "shotsOnTarget": "6",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "593",
+    "totalPasses": "658",
+    "passPct": "0.9",
+    "accurateCrosses": "4",
+    "totalCrosses": "8",
+    "crossPct": "0.5",
+    "totalLongBalls": "71",
+    "accurateLongBalls": "41",
+    "longballPct": "0.6",
+    "blockedShots": "2",
+    "effectiveTackles": "9",
+    "totalTackles": "11",
+    "tacklePct": "0.8",
+    "interceptions": "7",
+    "effectiveClearance": "24",
+    "totalClearance": "24"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal",
+   "clock": "11'",
+   "team": null,
+   "text": "Goal! Wales 0, Portugal 1. Bruno Fernandes (Portugal) right footed shot from outside the box to the bottom left corner. Assisted by João Neves."
+  },
+  {
+   "type": "Goal",
+   "clock": "13'",
+   "team": null,
+   "text": "Goal! Wales 1, Portugal 1. David Brooks (Wales) left footed shot from the centre of the box to the bottom right corner. Assisted by Rubin Colwill."
+  },
+  {
+   "type": "Goal",
+   "clock": "40'",
+   "team": null,
+   "text": "Goal! Wales 2, Portugal 1. Sorba Thomas (Wales) right footed shot from the centre of the box to the bottom right corner. Assisted by David Brooks."
+  },
+  {
+   "type": "Goal",
+   "clock": "43'",
+   "team": null,
+   "text": "Goal! Wales 2, Portugal 2. Pedro Neto (Portugal) right footed shot from very close range to the centre of the goal. Assisted by Trincão with a cross."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+4'",
+   "team": null,
+   "text": "First Half ends, Wales 2, Portugal 2."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Wales. Ben Cabango replaces Joe Rodon."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Wales 2, Portugal 2."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "51'",
+   "team": null,
+   "text": "Ben Cabango (Wales) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "53'",
+   "team": null,
+   "text": "Trincão (Portugal) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Portugal. João Félix replaces Gonçalo Ramos."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Portugal. Carlos Forbs replaces Trincão."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "62'",
+   "team": null,
+   "text": "Josh Sheehan (Wales) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, Wales. Brennan Johnson replaces Daniel James."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, Wales. Aaron Collins replaces David Brooks."
+  },
+  {
+   "type": "Goal",
+   "clock": "70'",
+   "team": null,
+   "text": "Goal! Wales 2, Portugal 3. Carlos Forbs (Portugal) left footed shot from the centre of the box to the bottom left corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Portugal. Rúben Neves replaces Vitinha."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Portugal. Alberto Costa replaces Diogo Dalot."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "72'",
+   "team": null,
+   "text": "Pedro Neto (Portugal) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Red Card",
+   "clock": "74'",
+   "team": null,
+   "text": "Second yellow card to Pedro Neto (Portugal) for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, Wales. Lewis Koumas replaces Rubin Colwill."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Substitution, Portugal. Geovany Quenda replaces Bruno Fernandes."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Second Half ends, Wales 2, Portugal 3."
+  }
+ ],
+ "scoringPlays": []
+}

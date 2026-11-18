@@ -1,0 +1,282 @@
+{
+ "id": "soccer-401861191",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-17T19:45Z",
+ "home": {
+  "name": "Hungary",
+  "abbr": "HUN",
+  "teamId": "480",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Northern Ireland",
+  "abbr": "NIR",
+  "teamId": "586",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+300",
+  "mlAwayOpen": "+300",
+  "mlDraw": "+215",
+  "mlHome": "-105",
+  "mlHomeOpen": "-110",
+  "provider": "DraftKings",
+  "spread": "HUN -105",
+  "spreadOpen": "HUN -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "HUN",
+   "stats": {
+    "foulsCommitted": "7",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "5",
+    "saves": "1",
+    "possessionPct": "76.1",
+    "totalShots": "17",
+    "shotsOnTarget": "2",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "624",
+    "totalPasses": "691",
+    "passPct": "0.9",
+    "accurateCrosses": "8",
+    "totalCrosses": "36",
+    "crossPct": "0.2",
+    "totalLongBalls": "57",
+    "accurateLongBalls": "30",
+    "longballPct": "0.5",
+    "blockedShots": "7",
+    "effectiveTackles": "6",
+    "totalTackles": "8",
+    "tacklePct": "0.8",
+    "interceptions": "7",
+    "effectiveClearance": "21",
+    "totalClearance": "21"
+   }
+  },
+  "away": {
+   "abbr": "NIR",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "4",
+    "wonCorners": "4",
+    "saves": "1",
+    "possessionPct": "23.9",
+    "totalShots": "8",
+    "shotsOnTarget": "2",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "138",
+    "totalPasses": "214",
+    "passPct": "0.6",
+    "accurateCrosses": "3",
+    "totalCrosses": "13",
+    "crossPct": "0.2",
+    "totalLongBalls": "52",
+    "accurateLongBalls": "21",
+    "longballPct": "0.4",
+    "blockedShots": "1",
+    "effectiveTackles": "4",
+    "totalTackles": "10",
+    "tacklePct": "0.4",
+    "interceptions": "8",
+    "effectiveClearance": "40",
+    "totalClearance": "40"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "2'",
+   "team": null,
+   "text": "Delay in match (Northern Ireland)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "2'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "14'",
+   "team": null,
+   "text": "Delay in match because of an injury Isaac Price (Northern Ireland)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "14'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "16'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "16'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "19'",
+   "team": null,
+   "text": "Delay in match because of an injury András Schäfer (Hungary)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "19'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "19'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "19'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "35'",
+   "team": null,
+   "text": "Goal! Hungary 1, Northern Ireland 0. Barnabás Varga (Hungary) right footed shot from the right side of the box to the centre of the goal following a fast break."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Northern Ireland. Josh Magennis replaces Tom Atcheson."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Hungary 1, Northern Ireland 0."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "51'",
+   "team": null,
+   "text": "Barnabás Varga (Hungary) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "51'",
+   "team": null,
+   "text": "Pierce Charles (Northern Ireland) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "56'",
+   "team": null,
+   "text": "Trai Hume (Northern Ireland) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "56'",
+   "team": null,
+   "text": "Substitution, Northern Ireland. Brodie Spencer replaces Terry Devlin."
+  },
+  {
+   "type": "Substitution",
+   "clock": "56'",
+   "team": null,
+   "text": "Substitution, Northern Ireland. Kieran Morrison replaces Patrick Kelly."
+  },
+  {
+   "type": "Substitution",
+   "clock": "60'",
+   "team": null,
+   "text": "Substitution, Hungary. Rajmund Tóth replaces Callum Styles."
+  },
+  {
+   "type": "Goal",
+   "clock": "65'",
+   "team": null,
+   "text": "Goal! Hungary 1, Northern Ireland 1. Justin Devenny (Northern Ireland) left footed shot from outside the box to the top left corner. Assisted by Shea Charles."
+  },
+  {
+   "type": "Substitution",
+   "clock": "69'",
+   "team": null,
+   "text": "Substitution, Hungary. Milán Peto replaces Bendegúz Bolla."
+  },
+  {
+   "type": "Substitution",
+   "clock": "69'",
+   "team": null,
+   "text": "Substitution, Hungary. Jozef Urblík replaces Áron Csongvai."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Northern Ireland. Paul Smyth replaces Isaac Price."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "83'",
+   "team": null,
+   "text": "Milos Kerkez (Hungary) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "84'",
+   "team": null,
+   "text": "Substitution, Hungary. Ákos Szendrei replaces Attila Osváth."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Second Half ends, Hungary 1, Northern Ireland 1."
+  }
+ ],
+ "scoringPlays": []
+}

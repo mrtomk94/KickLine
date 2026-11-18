@@ -1,0 +1,282 @@
+{
+ "id": "soccer-401861193",
+ "sport": "soccer",
+ "league": "UEFA Nations League",
+ "start": "2026-11-17T19:45Z",
+ "home": {
+  "name": "Israel",
+  "abbr": "ISR",
+  "teamId": "461",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Austria",
+  "abbr": "AUT",
+  "teamId": "474",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "-125",
+  "mlAwayOpen": "-175",
+  "mlDraw": "+280",
+  "mlHome": "+290",
+  "mlHomeOpen": "+400",
+  "provider": "DraftKings",
+  "spread": "AUT -125",
+  "spreadOpen": "AUT -0.5",
+  "total": "3.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "ISR",
+   "stats": {
+    "foulsCommitted": "4",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "5",
+    "saves": "5",
+    "possessionPct": "39.3",
+    "totalShots": "3",
+    "shotsOnTarget": "2",
+    "shotPct": "0.7",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "322",
+    "totalPasses": "415",
+    "passPct": "0.8",
+    "accurateCrosses": "2",
+    "totalCrosses": "11",
+    "crossPct": "0.2",
+    "totalLongBalls": "48",
+    "accurateLongBalls": "25",
+    "longballPct": "0.5",
+    "blockedShots": "0",
+    "effectiveTackles": "6",
+    "totalTackles": "13",
+    "tacklePct": "0.5",
+    "interceptions": "13",
+    "effectiveClearance": "37",
+    "totalClearance": "37"
+   }
+  },
+  "away": {
+   "abbr": "AUT",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "8",
+    "saves": "1",
+    "possessionPct": "60.7",
+    "totalShots": "21",
+    "shotsOnTarget": "6",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "553",
+    "totalPasses": "644",
+    "passPct": "0.9",
+    "accurateCrosses": "6",
+    "totalCrosses": "17",
+    "crossPct": "0.4",
+    "totalLongBalls": "38",
+    "accurateLongBalls": "17",
+    "longballPct": "0.4",
+    "blockedShots": "6",
+    "effectiveTackles": "15",
+    "totalTackles": "18",
+    "tacklePct": "0.8",
+    "interceptions": "9",
+    "effectiveClearance": "12",
+    "totalClearance": "12"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "1'",
+   "team": null,
+   "text": "Delay in match (Austria)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "1'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "1'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "1'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "36'",
+   "team": null,
+   "text": "Goal! Israel 1, Austria 0. Dor Peretz (Israel) right footed shot from the centre of the box to the bottom left corner. Assisted by Eli Dasa with a cross following a fast break."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "39'",
+   "team": null,
+   "text": "Delay in match because of an injury Niv Yehoshua (Israel)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "39'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "40'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "40'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": "First Half ends, Israel 1, Austria 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Austria. Michael Gregoritsch replaces Luca Weinhandl."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Austria. Stefan Posch replaces Phillipp Mwene."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Austria. Michael Svoboda replaces Felix Bacher."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "51'",
+   "team": null,
+   "text": "Delay in match because of an injury Idan Toklomati (Israel)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "51'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "51'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "51'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "53'",
+   "team": null,
+   "text": "Substitution, Israel. Roy Revivo replaces Idan Toklomati because of an injury."
+  },
+  {
+   "type": "Goal",
+   "clock": "62'",
+   "team": null,
+   "text": "Goal! Israel 1, Austria 1. Sasa Kalajdzic (Austria) right footed shot from very close range to the centre of the goal."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, Austria. Christoph Baumgartner replaces Raul Florucz."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, Israel. Omri Gandelman replaces Ethane Azoulay."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, Israel. Dor Turgeman replaces Manor Solomon."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "66'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "70'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Israel. Gabi Kanichowsky replaces Dor Peretz."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Israel. Yarden Shua replaces Eli Dasa."
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, Austria. Yanik Spalt replaces Konrad Laimer."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+6'",
+   "team": null,
+   "text": "Second Half ends, Israel 1, Austria 1."
+  }
+ ],
+ "scoringPlays": []
+}
