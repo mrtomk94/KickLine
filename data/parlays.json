@@ -25756,13 +25756,13 @@
   "size": 9,
   "status": "open"
  },
- "20261118-0906-3": {
-  "americanOdds": "-361",
-  "batch": "20261118-0906",
-  "createdAt": "2026-11-18T09:06:29Z",
-  "decimalOdds": 1.277,
-  "estHitPct": 64.2,
-  "impliedPct": 78.3,
+ "20261118-1758-10": {
+  "americanOdds": "+305",
+  "batch": "20261118-1758",
+  "createdAt": "2026-11-18T17:58:59Z",
+  "decimalOdds": 4.045,
+  "estHitPct": 11.5,
+  "impliedPct": 24.7,
   "legs": [
    {
     "confidence": 91,
@@ -25777,13 +25777,25 @@
     "start": "2026-11-21T01:00Z"
    },
    {
+    "confidence": 89,
+    "gameId": "ncaaf-401858310",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "WAKE @ GT",
+    "pick": "WAKE ML (-1600)",
+    "price": "-1600",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-21T17:00Z"
+   },
+   {
     "confidence": 84,
     "gameId": "soccer-401884736",
     "league": "Bundesliga",
     "market": "Moneyline",
     "matchup": "KOE @ MUN",
-    "pick": "Bayern ML (-1200)",
-    "price": "-1200",
+    "pick": "Bayern ML (-1400)",
+    "price": "-1400",
     "sport": "soccer",
     "stars": 3,
     "start": "2026-11-20T19:30Z"
@@ -25794,25 +25806,12 @@
     "league": "College Football",
     "market": "Moneyline",
     "matchup": "ORE @ MSU",
-    "pick": "ORE ML (-800)",
-    "price": "-800",
+    "pick": "ORE ML (-850)",
+    "price": "-850",
     "sport": "ncaaf",
     "stars": 3,
     "start": "2026-11-21T01:00Z"
-   }
-  ],
-  "note": "Safest of the set, about a 1-in-2 shot.",
-  "size": 3,
-  "status": "open"
- },
- "20261118-0906-3b": {
-  "americanOdds": "-191",
-  "batch": "20261118-0906",
-  "createdAt": "2026-11-18T09:06:29Z",
-  "decimalOdds": 1.525,
-  "estHitPct": 49.8,
-  "impliedPct": 65.6,
-  "legs": [
+   },
    {
     "confidence": 83,
     "gameId": "ncaaf-401866468",
@@ -25824,6 +25823,18 @@
     "sport": "ncaaf",
     "stars": 2,
     "start": "2026-11-21T00:30Z"
+   },
+   {
+    "confidence": 79,
+    "gameId": "ncaaf-401856748",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "VAN @ FLA",
+    "pick": "FLA ML (-535)",
+    "price": "-535",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-21T17:00Z"
    },
    {
     "confidence": 78,
@@ -25848,6 +25859,430 @@
     "sport": "ncaaf",
     "stars": 3,
     "start": "2026-11-21T00:30Z"
+   },
+   {
+    "confidence": 73,
+    "gameId": "ncaaf-401864542",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "UNM @ WYO",
+    "pick": "UNM ML (-305)",
+    "price": "-305",
+    "sport": "ncaaf",
+    "stars": 3,
+    "start": "2026-11-21T02:00Z"
+   },
+   {
+    "confidence": 70,
+    "gameId": "soccer-401884735",
+    "league": "Bundesliga",
+    "market": "Moneyline",
+    "matchup": "SCP @ B04",
+    "pick": "Leverkusen ML (-380)",
+    "price": "-380",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-21T14:30Z"
+   }
+  ],
+  "note": "10 legs, about a 1-in-9 shot.",
+  "size": 10,
+  "status": "open"
+ },
+ "20261118-1758-11": {
+  "americanOdds": "+424",
+  "batch": "20261118-1758",
+  "createdAt": "2026-11-18T17:58:59Z",
+  "decimalOdds": 5.235,
+  "estHitPct": 7.9,
+  "impliedPct": 19.1,
+  "legs": [
+   {
+    "confidence": 91,
+    "gameId": "ncaaf-401864545",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "UTEP @ AFA",
+    "pick": "AFA ML (-2100)",
+    "price": "-2100",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-21T01:00Z"
+   },
+   {
+    "confidence": 89,
+    "gameId": "ncaaf-401858310",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "WAKE @ GT",
+    "pick": "WAKE ML (-1600)",
+    "price": "-1600",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-21T17:00Z"
+   },
+   {
+    "confidence": 84,
+    "gameId": "soccer-401884736",
+    "league": "Bundesliga",
+    "market": "Moneyline",
+    "matchup": "KOE @ MUN",
+    "pick": "Bayern ML (-1400)",
+    "price": "-1400",
+    "sport": "soccer",
+    "stars": 3,
+    "start": "2026-11-20T19:30Z"
+   },
+   {
+    "confidence": 84,
+    "gameId": "ncaaf-401858529",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "ORE @ MSU",
+    "pick": "ORE ML (-850)",
+    "price": "-850",
+    "sport": "ncaaf",
+    "stars": 3,
+    "start": "2026-11-21T01:00Z"
+   },
+   {
+    "confidence": 83,
+    "gameId": "ncaaf-401866468",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "BGSU @ TOL",
+    "pick": "TOL ML (-750)",
+    "price": "-750",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-21T00:30Z"
+   },
+   {
+    "confidence": 79,
+    "gameId": "ncaaf-401856748",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "VAN @ FLA",
+    "pick": "FLA ML (-535)",
+    "price": "-535",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-21T17:00Z"
+   },
+   {
+    "confidence": 78,
+    "gameId": "nfl-401873066",
+    "league": "NFL",
+    "market": "Moneyline",
+    "matchup": "IND @ HOU",
+    "pick": "HOU ML (-750)",
+    "price": "-750",
+    "sport": "nfl",
+    "stars": 2,
+    "start": "2026-11-20T01:15Z"
+   },
+   {
+    "confidence": 77,
+    "gameId": "ncaaf-401858303",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "CLEM @ DUKE",
+    "pick": "DUKE ML (-535)",
+    "price": "-535",
+    "sport": "ncaaf",
+    "stars": 3,
+    "start": "2026-11-21T00:30Z"
+   },
+   {
+    "confidence": 73,
+    "gameId": "ncaaf-401864542",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "UNM @ WYO",
+    "pick": "UNM ML (-305)",
+    "price": "-305",
+    "sport": "ncaaf",
+    "stars": 3,
+    "start": "2026-11-21T02:00Z"
+   },
+   {
+    "confidence": 70,
+    "gameId": "soccer-401884735",
+    "league": "Bundesliga",
+    "market": "Moneyline",
+    "matchup": "SCP @ B04",
+    "pick": "Leverkusen ML (-380)",
+    "price": "-380",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-21T14:30Z"
+   },
+   {
+    "confidence": 69,
+    "gameId": "soccer-401875056",
+    "league": "Serie A",
+    "market": "Moneyline",
+    "matchup": "CAG @ COMO",
+    "pick": "Como ML (-340)",
+    "price": "-340",
+    "sport": "soccer",
+    "stars": 3,
+    "start": "2026-11-21T14:00Z"
+   }
+  ],
+  "note": "11 legs, about a 1-in-13 shot.",
+  "size": 11,
+  "status": "open"
+ },
+ "20261118-1758-12": {
+  "americanOdds": "+573",
+  "batch": "20261118-1758",
+  "createdAt": "2026-11-18T17:58:59Z",
+  "decimalOdds": 6.731,
+  "estHitPct": 5.5,
+  "impliedPct": 14.9,
+  "legs": [
+   {
+    "confidence": 91,
+    "gameId": "ncaaf-401864545",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "UTEP @ AFA",
+    "pick": "AFA ML (-2100)",
+    "price": "-2100",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-21T01:00Z"
+   },
+   {
+    "confidence": 89,
+    "gameId": "ncaaf-401858310",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "WAKE @ GT",
+    "pick": "WAKE ML (-1600)",
+    "price": "-1600",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-21T17:00Z"
+   },
+   {
+    "confidence": 84,
+    "gameId": "soccer-401884736",
+    "league": "Bundesliga",
+    "market": "Moneyline",
+    "matchup": "KOE @ MUN",
+    "pick": "Bayern ML (-1400)",
+    "price": "-1400",
+    "sport": "soccer",
+    "stars": 3,
+    "start": "2026-11-20T19:30Z"
+   },
+   {
+    "confidence": 84,
+    "gameId": "ncaaf-401858529",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "ORE @ MSU",
+    "pick": "ORE ML (-850)",
+    "price": "-850",
+    "sport": "ncaaf",
+    "stars": 3,
+    "start": "2026-11-21T01:00Z"
+   },
+   {
+    "confidence": 83,
+    "gameId": "ncaaf-401866468",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "BGSU @ TOL",
+    "pick": "TOL ML (-750)",
+    "price": "-750",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-21T00:30Z"
+   },
+   {
+    "confidence": 79,
+    "gameId": "ncaaf-401856748",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "VAN @ FLA",
+    "pick": "FLA ML (-535)",
+    "price": "-535",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-21T17:00Z"
+   },
+   {
+    "confidence": 78,
+    "gameId": "nfl-401873066",
+    "league": "NFL",
+    "market": "Moneyline",
+    "matchup": "IND @ HOU",
+    "pick": "HOU ML (-750)",
+    "price": "-750",
+    "sport": "nfl",
+    "stars": 2,
+    "start": "2026-11-20T01:15Z"
+   },
+   {
+    "confidence": 77,
+    "gameId": "ncaaf-401858303",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "CLEM @ DUKE",
+    "pick": "DUKE ML (-535)",
+    "price": "-535",
+    "sport": "ncaaf",
+    "stars": 3,
+    "start": "2026-11-21T00:30Z"
+   },
+   {
+    "confidence": 73,
+    "gameId": "ncaaf-401864542",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "UNM @ WYO",
+    "pick": "UNM ML (-305)",
+    "price": "-305",
+    "sport": "ncaaf",
+    "stars": 3,
+    "start": "2026-11-21T02:00Z"
+   },
+   {
+    "confidence": 70,
+    "gameId": "soccer-401884735",
+    "league": "Bundesliga",
+    "market": "Moneyline",
+    "matchup": "SCP @ B04",
+    "pick": "Leverkusen ML (-380)",
+    "price": "-380",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-21T14:30Z"
+   },
+   {
+    "confidence": 69,
+    "gameId": "soccer-401875056",
+    "league": "Serie A",
+    "market": "Moneyline",
+    "matchup": "CAG @ COMO",
+    "pick": "Como ML (-340)",
+    "price": "-340",
+    "sport": "soccer",
+    "stars": 3,
+    "start": "2026-11-21T14:00Z"
+   },
+   {
+    "confidence": 69,
+    "gameId": "soccer-401874967",
+    "league": "Serie A",
+    "market": "Moneyline",
+    "matchup": "ROMA @ PAR",
+    "pick": "AS Roma ML (-350)",
+    "price": "-350",
+    "sport": "soccer",
+    "stars": 2,
+    "start": "2026-11-21T17:00Z"
+   }
+  ],
+  "note": "12 legs, about a 1-in-18 shot. 22 legs qualified.",
+  "size": 12,
+  "status": "open"
+ },
+ "20261118-1758-3": {
+  "americanOdds": "-519",
+  "batch": "20261118-1758",
+  "createdAt": "2026-11-18T17:58:59Z",
+  "decimalOdds": 1.193,
+  "estHitPct": 68.0,
+  "impliedPct": 83.9,
+  "legs": [
+   {
+    "confidence": 91,
+    "gameId": "ncaaf-401864545",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "UTEP @ AFA",
+    "pick": "AFA ML (-2100)",
+    "price": "-2100",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-21T01:00Z"
+   },
+   {
+    "confidence": 89,
+    "gameId": "ncaaf-401858310",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "WAKE @ GT",
+    "pick": "WAKE ML (-1600)",
+    "price": "-1600",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-21T17:00Z"
+   },
+   {
+    "confidence": 84,
+    "gameId": "soccer-401884736",
+    "league": "Bundesliga",
+    "market": "Moneyline",
+    "matchup": "KOE @ MUN",
+    "pick": "Bayern ML (-1400)",
+    "price": "-1400",
+    "sport": "soccer",
+    "stars": 3,
+    "start": "2026-11-20T19:30Z"
+   }
+  ],
+  "note": "Safest of the set, about a 1-in-1 shot.",
+  "size": 3,
+  "status": "open"
+ },
+ "20261118-1758-3b": {
+  "americanOdds": "-199",
+  "batch": "20261118-1758",
+  "createdAt": "2026-11-18T17:58:59Z",
+  "decimalOdds": 1.503,
+  "estHitPct": 55.1,
+  "impliedPct": 66.5,
+  "legs": [
+   {
+    "confidence": 84,
+    "gameId": "ncaaf-401858529",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "ORE @ MSU",
+    "pick": "ORE ML (-850)",
+    "price": "-850",
+    "sport": "ncaaf",
+    "stars": 3,
+    "start": "2026-11-21T01:00Z"
+   },
+   {
+    "confidence": 83,
+    "gameId": "ncaaf-401866468",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "BGSU @ TOL",
+    "pick": "TOL ML (-750)",
+    "price": "-750",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-21T00:30Z"
+   },
+   {
+    "confidence": 79,
+    "gameId": "ncaaf-401856748",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "VAN @ FLA",
+    "pick": "FLA ML (-535)",
+    "price": "-535",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-21T17:00Z"
    }
   ],
   "note": "Second 3-leg from candidates 4-6.",
@@ -25855,13 +26290,13 @@
   "status": "open",
   "ticket": "3b"
  },
- "20261118-0906-4": {
-  "americanOdds": "-224",
-  "batch": "20261118-0906",
-  "createdAt": "2026-11-18T09:06:29Z",
-  "decimalOdds": 1.447,
-  "estHitPct": 53.3,
-  "impliedPct": 69.1,
+ "20261118-1758-4": {
+  "americanOdds": "-300",
+  "batch": "20261118-1758",
+  "createdAt": "2026-11-18T17:58:59Z",
+  "decimalOdds": 1.333,
+  "estHitPct": 57.1,
+  "impliedPct": 75.0,
   "legs": [
    {
     "confidence": 91,
@@ -25876,13 +26311,25 @@
     "start": "2026-11-21T01:00Z"
    },
    {
+    "confidence": 89,
+    "gameId": "ncaaf-401858310",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "WAKE @ GT",
+    "pick": "WAKE ML (-1600)",
+    "price": "-1600",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-21T17:00Z"
+   },
+   {
     "confidence": 84,
     "gameId": "soccer-401884736",
     "league": "Bundesliga",
     "market": "Moneyline",
     "matchup": "KOE @ MUN",
-    "pick": "Bayern ML (-1200)",
-    "price": "-1200",
+    "pick": "Bayern ML (-1400)",
+    "price": "-1400",
     "sport": "soccer",
     "stars": 3,
     "start": "2026-11-20T19:30Z"
@@ -25893,36 +26340,24 @@
     "league": "College Football",
     "market": "Moneyline",
     "matchup": "ORE @ MSU",
-    "pick": "ORE ML (-800)",
-    "price": "-800",
+    "pick": "ORE ML (-850)",
+    "price": "-850",
     "sport": "ncaaf",
     "stars": 3,
     "start": "2026-11-21T01:00Z"
-   },
-   {
-    "confidence": 83,
-    "gameId": "ncaaf-401866468",
-    "league": "College Football",
-    "market": "Moneyline",
-    "matchup": "BGSU @ TOL",
-    "pick": "TOL ML (-750)",
-    "price": "-750",
-    "sport": "ncaaf",
-    "stars": 2,
-    "start": "2026-11-21T00:30Z"
    }
   ],
   "note": "4 legs, about a 1-in-2 shot.",
   "size": 4,
   "status": "open"
  },
- "20261118-0906-5": {
-  "americanOdds": "-156",
-  "batch": "20261118-0906",
-  "createdAt": "2026-11-18T09:06:29Z",
-  "decimalOdds": 1.64,
-  "estHitPct": 41.6,
-  "impliedPct": 61.0,
+ "20261118-1758-5": {
+  "americanOdds": "-196",
+  "batch": "20261118-1758",
+  "createdAt": "2026-11-18T17:58:59Z",
+  "decimalOdds": 1.511,
+  "estHitPct": 47.4,
+  "impliedPct": 66.2,
   "legs": [
    {
     "confidence": 91,
@@ -25937,13 +26372,25 @@
     "start": "2026-11-21T01:00Z"
    },
    {
+    "confidence": 89,
+    "gameId": "ncaaf-401858310",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "WAKE @ GT",
+    "pick": "WAKE ML (-1600)",
+    "price": "-1600",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-21T17:00Z"
+   },
+   {
     "confidence": 84,
     "gameId": "soccer-401884736",
     "league": "Bundesliga",
     "market": "Moneyline",
     "matchup": "KOE @ MUN",
-    "pick": "Bayern ML (-1200)",
-    "price": "-1200",
+    "pick": "Bayern ML (-1400)",
+    "price": "-1400",
     "sport": "soccer",
     "stars": 3,
     "start": "2026-11-20T19:30Z"
@@ -25954,8 +26401,8 @@
     "league": "College Football",
     "market": "Moneyline",
     "matchup": "ORE @ MSU",
-    "pick": "ORE ML (-800)",
-    "price": "-800",
+    "pick": "ORE ML (-850)",
+    "price": "-850",
     "sport": "ncaaf",
     "stars": 3,
     "start": "2026-11-21T01:00Z"
@@ -25971,31 +26418,19 @@
     "sport": "ncaaf",
     "stars": 2,
     "start": "2026-11-21T00:30Z"
-   },
-   {
-    "confidence": 78,
-    "gameId": "nfl-401873066",
-    "league": "NFL",
-    "market": "Moneyline",
-    "matchup": "IND @ HOU",
-    "pick": "HOU ML (-750)",
-    "price": "-750",
-    "sport": "nfl",
-    "stars": 2,
-    "start": "2026-11-20T01:15Z"
    }
   ],
   "note": "5 legs, about a 1-in-2 shot.",
   "size": 5,
   "status": "open"
  },
- "20261118-0906-6": {
-  "americanOdds": "-106",
-  "batch": "20261118-0906",
-  "createdAt": "2026-11-18T09:06:29Z",
-  "decimalOdds": 1.946,
-  "estHitPct": 32.0,
-  "impliedPct": 51.4,
+ "20261118-1758-6": {
+  "americanOdds": "-126",
+  "batch": "20261118-1758",
+  "createdAt": "2026-11-18T17:58:59Z",
+  "decimalOdds": 1.793,
+  "estHitPct": 37.5,
+  "impliedPct": 55.8,
   "legs": [
    {
     "confidence": 91,
@@ -26010,13 +26445,25 @@
     "start": "2026-11-21T01:00Z"
    },
    {
+    "confidence": 89,
+    "gameId": "ncaaf-401858310",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "WAKE @ GT",
+    "pick": "WAKE ML (-1600)",
+    "price": "-1600",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-21T17:00Z"
+   },
+   {
     "confidence": 84,
     "gameId": "soccer-401884736",
     "league": "Bundesliga",
     "market": "Moneyline",
     "matchup": "KOE @ MUN",
-    "pick": "Bayern ML (-1200)",
-    "price": "-1200",
+    "pick": "Bayern ML (-1400)",
+    "price": "-1400",
     "sport": "soccer",
     "stars": 3,
     "start": "2026-11-20T19:30Z"
@@ -26027,8 +26474,8 @@
     "league": "College Football",
     "market": "Moneyline",
     "matchup": "ORE @ MSU",
-    "pick": "ORE ML (-800)",
-    "price": "-800",
+    "pick": "ORE ML (-850)",
+    "price": "-850",
     "sport": "ncaaf",
     "stars": 3,
     "start": "2026-11-21T01:00Z"
@@ -26046,41 +26493,29 @@
     "start": "2026-11-21T00:30Z"
    },
    {
-    "confidence": 78,
-    "gameId": "nfl-401873066",
-    "league": "NFL",
-    "market": "Moneyline",
-    "matchup": "IND @ HOU",
-    "pick": "HOU ML (-750)",
-    "price": "-750",
-    "sport": "nfl",
-    "stars": 2,
-    "start": "2026-11-20T01:15Z"
-   },
-   {
-    "confidence": 77,
-    "gameId": "ncaaf-401858303",
+    "confidence": 79,
+    "gameId": "ncaaf-401856748",
     "league": "College Football",
     "market": "Moneyline",
-    "matchup": "CLEM @ DUKE",
-    "pick": "DUKE ML (-535)",
+    "matchup": "VAN @ FLA",
+    "pick": "FLA ML (-535)",
     "price": "-535",
     "sport": "ncaaf",
-    "stars": 3,
-    "start": "2026-11-21T00:30Z"
+    "stars": 2,
+    "start": "2026-11-21T17:00Z"
    }
   ],
   "note": "6 legs, about a 1-in-3 shot.",
   "size": 6,
   "status": "open"
  },
- "20261118-0906-7": {
-  "americanOdds": "+158",
-  "batch": "20261118-0906",
-  "createdAt": "2026-11-18T09:06:29Z",
-  "decimalOdds": 2.585,
-  "estHitPct": 23.4,
-  "impliedPct": 38.7,
+ "20261118-1758-7": {
+  "americanOdds": "+103",
+  "batch": "20261118-1758",
+  "createdAt": "2026-11-18T17:58:59Z",
+  "decimalOdds": 2.032,
+  "estHitPct": 29.2,
+  "impliedPct": 49.2,
   "legs": [
    {
     "confidence": 91,
@@ -26095,13 +26530,25 @@
     "start": "2026-11-21T01:00Z"
    },
    {
+    "confidence": 89,
+    "gameId": "ncaaf-401858310",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "WAKE @ GT",
+    "pick": "WAKE ML (-1600)",
+    "price": "-1600",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-21T17:00Z"
+   },
+   {
     "confidence": 84,
     "gameId": "soccer-401884736",
     "league": "Bundesliga",
     "market": "Moneyline",
     "matchup": "KOE @ MUN",
-    "pick": "Bayern ML (-1200)",
-    "price": "-1200",
+    "pick": "Bayern ML (-1400)",
+    "price": "-1400",
     "sport": "soccer",
     "stars": 3,
     "start": "2026-11-20T19:30Z"
@@ -26112,8 +26559,8 @@
     "league": "College Football",
     "market": "Moneyline",
     "matchup": "ORE @ MSU",
-    "pick": "ORE ML (-800)",
-    "price": "-800",
+    "pick": "ORE ML (-850)",
+    "price": "-850",
     "sport": "ncaaf",
     "stars": 3,
     "start": "2026-11-21T01:00Z"
@@ -26131,6 +26578,18 @@
     "start": "2026-11-21T00:30Z"
    },
    {
+    "confidence": 79,
+    "gameId": "ncaaf-401856748",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "VAN @ FLA",
+    "pick": "FLA ML (-535)",
+    "price": "-535",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-21T17:00Z"
+   },
+   {
     "confidence": 78,
     "gameId": "nfl-401873066",
     "league": "NFL",
@@ -26141,43 +26600,19 @@
     "sport": "nfl",
     "stars": 2,
     "start": "2026-11-20T01:15Z"
-   },
-   {
-    "confidence": 77,
-    "gameId": "ncaaf-401858303",
-    "league": "College Football",
-    "market": "Moneyline",
-    "matchup": "CLEM @ DUKE",
-    "pick": "DUKE ML (-535)",
-    "price": "-535",
-    "sport": "ncaaf",
-    "stars": 3,
-    "start": "2026-11-21T00:30Z"
-   },
-   {
-    "confidence": 73,
-    "gameId": "ncaaf-401864542",
-    "league": "College Football",
-    "market": "Moneyline",
-    "matchup": "UNM @ WYO",
-    "pick": "UNM ML (-305)",
-    "price": "-305",
-    "sport": "ncaaf",
-    "stars": 3,
-    "start": "2026-11-21T02:00Z"
    }
   ],
-  "note": "7 legs, about a 1-in-4 shot.",
+  "note": "7 legs, about a 1-in-3 shot.",
   "size": 7,
   "status": "open"
  },
- "20261118-0906-8": {
-  "americanOdds": "+318",
-  "batch": "20261118-0906",
-  "createdAt": "2026-11-18T09:06:29Z",
-  "decimalOdds": 4.18,
-  "estHitPct": 14.7,
-  "impliedPct": 23.9,
+ "20261118-1758-8": {
+  "americanOdds": "+141",
+  "batch": "20261118-1758",
+  "createdAt": "2026-11-18T17:58:59Z",
+  "decimalOdds": 2.412,
+  "estHitPct": 22.5,
+  "impliedPct": 41.5,
   "legs": [
    {
     "confidence": 91,
@@ -26192,13 +26627,25 @@
     "start": "2026-11-21T01:00Z"
    },
    {
+    "confidence": 89,
+    "gameId": "ncaaf-401858310",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "WAKE @ GT",
+    "pick": "WAKE ML (-1600)",
+    "price": "-1600",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-21T17:00Z"
+   },
+   {
     "confidence": 84,
     "gameId": "soccer-401884736",
     "league": "Bundesliga",
     "market": "Moneyline",
     "matchup": "KOE @ MUN",
-    "pick": "Bayern ML (-1200)",
-    "price": "-1200",
+    "pick": "Bayern ML (-1400)",
+    "price": "-1400",
     "sport": "soccer",
     "stars": 3,
     "start": "2026-11-20T19:30Z"
@@ -26209,8 +26656,8 @@
     "league": "College Football",
     "market": "Moneyline",
     "matchup": "ORE @ MSU",
-    "pick": "ORE ML (-800)",
-    "price": "-800",
+    "pick": "ORE ML (-850)",
+    "price": "-850",
     "sport": "ncaaf",
     "stars": 3,
     "start": "2026-11-21T01:00Z"
@@ -26226,6 +26673,18 @@
     "sport": "ncaaf",
     "stars": 2,
     "start": "2026-11-21T00:30Z"
+   },
+   {
+    "confidence": 79,
+    "gameId": "ncaaf-401856748",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "VAN @ FLA",
+    "pick": "FLA ML (-535)",
+    "price": "-535",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-21T17:00Z"
    },
    {
     "confidence": 78,
@@ -26250,43 +26709,19 @@
     "sport": "ncaaf",
     "stars": 3,
     "start": "2026-11-21T00:30Z"
-   },
-   {
-    "confidence": 73,
-    "gameId": "ncaaf-401864542",
-    "league": "College Football",
-    "market": "Moneyline",
-    "matchup": "UNM @ WYO",
-    "pick": "UNM ML (-305)",
-    "price": "-305",
-    "sport": "ncaaf",
-    "stars": 3,
-    "start": "2026-11-21T02:00Z"
-   },
-   {
-    "confidence": 63,
-    "gameId": "ncaaf-401866467",
-    "league": "College Football",
-    "market": "Moneyline",
-    "matchup": "AKR @ MASS",
-    "pick": "MASS ML (-162)",
-    "price": "-162",
-    "sport": "ncaaf",
-    "stars": 2,
-    "start": "2026-11-19T00:00Z"
    }
   ],
-  "note": "8 legs, about a 1-in-7 shot.",
+  "note": "8 legs, about a 1-in-4 shot.",
   "size": 8,
   "status": "open"
  },
- "20261118-0906-9": {
-  "americanOdds": "+522",
-  "batch": "20261118-0906",
-  "createdAt": "2026-11-18T09:06:29Z",
-  "decimalOdds": 6.219,
-  "estHitPct": 9.0,
-  "impliedPct": 16.1,
+ "20261118-1758-9": {
+  "americanOdds": "+220",
+  "batch": "20261118-1758",
+  "createdAt": "2026-11-18T17:58:59Z",
+  "decimalOdds": 3.203,
+  "estHitPct": 16.4,
+  "impliedPct": 31.2,
   "legs": [
    {
     "confidence": 91,
@@ -26301,13 +26736,25 @@
     "start": "2026-11-21T01:00Z"
    },
    {
+    "confidence": 89,
+    "gameId": "ncaaf-401858310",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "WAKE @ GT",
+    "pick": "WAKE ML (-1600)",
+    "price": "-1600",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-21T17:00Z"
+   },
+   {
     "confidence": 84,
     "gameId": "soccer-401884736",
     "league": "Bundesliga",
     "market": "Moneyline",
     "matchup": "KOE @ MUN",
-    "pick": "Bayern ML (-1200)",
-    "price": "-1200",
+    "pick": "Bayern ML (-1400)",
+    "price": "-1400",
     "sport": "soccer",
     "stars": 3,
     "start": "2026-11-20T19:30Z"
@@ -26318,8 +26765,8 @@
     "league": "College Football",
     "market": "Moneyline",
     "matchup": "ORE @ MSU",
-    "pick": "ORE ML (-800)",
-    "price": "-800",
+    "pick": "ORE ML (-850)",
+    "price": "-850",
     "sport": "ncaaf",
     "stars": 3,
     "start": "2026-11-21T01:00Z"
@@ -26335,6 +26782,18 @@
     "sport": "ncaaf",
     "stars": 2,
     "start": "2026-11-21T00:30Z"
+   },
+   {
+    "confidence": 79,
+    "gameId": "ncaaf-401856748",
+    "league": "College Football",
+    "market": "Moneyline",
+    "matchup": "VAN @ FLA",
+    "pick": "FLA ML (-535)",
+    "price": "-535",
+    "sport": "ncaaf",
+    "stars": 2,
+    "start": "2026-11-21T17:00Z"
    },
    {
     "confidence": 78,
@@ -26371,33 +26830,9 @@
     "sport": "ncaaf",
     "stars": 3,
     "start": "2026-11-21T02:00Z"
-   },
-   {
-    "confidence": 63,
-    "gameId": "ncaaf-401866467",
-    "league": "College Football",
-    "market": "Moneyline",
-    "matchup": "AKR @ MASS",
-    "pick": "MASS ML (-162)",
-    "price": "-162",
-    "sport": "ncaaf",
-    "stars": 2,
-    "start": "2026-11-19T00:00Z"
-   },
-   {
-    "confidence": 61,
-    "gameId": "soccer-401882805",
-    "league": "LaLiga",
-    "market": "Moneyline",
-    "matchup": "ESP @ ATH",
-    "pick": "Athletic ML (-205)",
-    "price": "-205",
-    "sport": "soccer",
-    "stars": 2,
-    "start": "2026-11-20T20:00Z"
    }
   ],
-  "note": "9 legs, about a 1-in-11 shot. 9 legs qualified.",
+  "note": "9 legs, about a 1-in-6 shot.",
   "size": 9,
   "status": "open"
  }
