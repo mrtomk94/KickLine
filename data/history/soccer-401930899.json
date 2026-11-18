@@ -1,0 +1,324 @@
+{
+ "id": "soccer-401930899",
+ "sport": "soccer",
+ "league": "International Friendly",
+ "start": "2026-11-17T23:30Z",
+ "home": {
+  "name": "Ecuador",
+  "abbr": "ECU",
+  "teamId": "209",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Bolivia",
+  "abbr": "BOL",
+  "teamId": "204",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+1400",
+  "mlAwayOpen": "+1100",
+  "mlDraw": "+650",
+  "mlHome": "-575",
+  "mlHomeOpen": "-525",
+  "provider": "DraftKings",
+  "spread": "ECU -575",
+  "spreadOpen": "ECU -1.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "ECU",
+   "stats": {
+    "foulsCommitted": "10",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "7",
+    "saves": "2",
+    "possessionPct": "63.5",
+    "totalShots": "17",
+    "shotsOnTarget": "4",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "521",
+    "totalPasses": "567",
+    "passPct": "0.9",
+    "accurateCrosses": "7",
+    "totalCrosses": "26",
+    "crossPct": "0.3",
+    "totalLongBalls": "31",
+    "accurateLongBalls": "21",
+    "longballPct": "0.7",
+    "blockedShots": "6",
+    "effectiveTackles": "6",
+    "totalTackles": "9",
+    "tacklePct": "0.7",
+    "interceptions": "10",
+    "effectiveClearance": "10",
+    "totalClearance": "10"
+   }
+  },
+  "away": {
+   "abbr": "BOL",
+   "stats": {
+    "foulsCommitted": "7",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "6",
+    "saves": "2",
+    "possessionPct": "36.5",
+    "totalShots": "6",
+    "shotsOnTarget": "2",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "278",
+    "totalPasses": "328",
+    "passPct": "0.8",
+    "accurateCrosses": "1",
+    "totalCrosses": "11",
+    "crossPct": "0.1",
+    "totalLongBalls": "41",
+    "accurateLongBalls": "21",
+    "longballPct": "0.5",
+    "blockedShots": "1",
+    "effectiveTackles": "10",
+    "totalTackles": "16",
+    "tacklePct": "0.6",
+    "interceptions": "14",
+    "effectiveClearance": "23",
+    "totalClearance": "23"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "13'",
+   "team": null,
+   "text": "Delay in match (Ecuador)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "13'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "16'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "16'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "20'",
+   "team": null,
+   "text": "Goal! Ecuador 1, Bolivia 0. John Mercado (Ecuador) left footed shot from the centre of the box to the bottom right corner following a corner."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "28'",
+   "team": null,
+   "text": "Delay in match for a drinks break."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "28'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "30'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "30'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "45'+4'",
+   "team": null,
+   "text": "Goal! Ecuador 2, Bolivia 0. Jordy Caicedo (Ecuador) right footed shot from the left side of the six yard box to the centre of the goal. Assisted by John Mercado with a headed pass."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+5'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Bolivia. José Flores replaces Fabricio Quaglio."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Ecuador. Jeremy Sarmiento replaces Moisés Caicedo."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "52'",
+   "team": null,
+   "text": "Delay in match (Ecuador)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "52'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "52'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "52'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Ecuador. Kevin Rodríguez replaces Jordy Caicedo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Ecuador. Pervis Estupiñán replaces Piero Hincapié."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Ecuador. Kendry Páez replaces John Mercado."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Ecuador. Nilson Angulo replaces Keny Arroyo."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "69'",
+   "team": null,
+   "text": "Diego Arroyo (Bolivia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "71'",
+   "team": null,
+   "text": "Delay in match for a drinks break."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "71'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "73'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "73'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Ecuador. Anthony Valencia replaces John Yeboah because of an injury."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Ecuador. Félix Torres replaces Willian Pacho."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Ecuador. Jordy Alcívar replaces Pedro Vite."
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Bolivia. Nabil Nacif replaces Moisés Paniagua."
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Bolivia. Carlos Melgar replaces Miguel Terceros."
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Bolivia. Guilmar Centella replaces Yomar Rocha."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Substitution, Bolivia. Jorge Lovera replaces Ramiro Vaca."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Félix Torres (Ecuador) is shown the yellow card."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+6'",
+   "team": null,
+   "text": "Second Half ends, Ecuador 2, Bolivia 0."
+  }
+ ],
+ "scoringPlays": []
+}

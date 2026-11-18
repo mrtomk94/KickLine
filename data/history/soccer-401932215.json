@@ -1,0 +1,336 @@
+{
+ "id": "soccer-401932215",
+ "sport": "soccer",
+ "league": "International Friendly",
+ "start": "2026-11-17T23:30Z",
+ "home": {
+  "name": "Uruguay",
+  "abbr": "URU",
+  "teamId": "212",
+  "score": 5.0
+ },
+ "away": {
+  "name": "Dominican Republic",
+  "abbr": "DOM",
+  "teamId": "2649",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+1900",
+  "mlAwayOpen": "+1500",
+  "mlDraw": "+1100",
+  "mlHome": "-1200",
+  "mlHomeOpen": "-1000",
+  "provider": "DraftKings",
+  "spread": "URU -1200",
+  "spreadOpen": "URU -2.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "URU",
+   "stats": {
+    "foulsCommitted": "8",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "3",
+    "saves": "2",
+    "possessionPct": "74",
+    "totalShots": "16",
+    "shotsOnTarget": "9",
+    "shotPct": "0.6",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "623",
+    "totalPasses": "706",
+    "passPct": "0.9",
+    "accurateCrosses": "6",
+    "totalCrosses": "21",
+    "crossPct": "0.3",
+    "totalLongBalls": "48",
+    "accurateLongBalls": "34",
+    "longballPct": "0.7",
+    "blockedShots": "2",
+    "effectiveTackles": "14",
+    "totalTackles": "18",
+    "tacklePct": "0.8",
+    "interceptions": "5",
+    "effectiveClearance": "8",
+    "totalClearance": "8"
+   }
+  },
+  "away": {
+   "abbr": "DOM",
+   "stats": {
+    "foulsCommitted": "17",
+    "yellowCards": "5",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "4",
+    "saves": "4",
+    "possessionPct": "26",
+    "totalShots": "6",
+    "shotsOnTarget": "2",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "174",
+    "totalPasses": "240",
+    "passPct": "0.7",
+    "accurateCrosses": "2",
+    "totalCrosses": "11",
+    "crossPct": "0.2",
+    "totalLongBalls": "43",
+    "accurateLongBalls": "19",
+    "longballPct": "0.4",
+    "blockedShots": "0",
+    "effectiveTackles": "9",
+    "totalTackles": "15",
+    "tacklePct": "0.6",
+    "interceptions": "15",
+    "effectiveClearance": "28",
+    "totalClearance": "28"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "3'",
+   "team": null,
+   "text": "Delay in match (Uruguay)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "3'",
+   "team": null,
+   "text": "Delay in match (Dominican Republic)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "3'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "3'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "41'",
+   "team": null,
+   "text": "Goal! Uruguay 1, Dominican Republic 0. Rodrigo Aguirre (Uruguay) header from very close range to the centre of the goal following a set piece situation."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "44'",
+   "team": null,
+   "text": "Noah Dollenmayer (Dominican Republic) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Dominican Republic. Benjamín Rafael Núñez replaces Jeremy Báez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Dominican Republic. Edison Azcona replaces Dorny Romero."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Uruguay. Mathías Olivera replaces Juan Manuel Sanabria."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Uruguay 1, Dominican Republic 0."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "53'",
+   "team": null,
+   "text": "Edison Azcona (Dominican Republic) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "57'",
+   "team": null,
+   "text": "Juan Familia-Castillo (Dominican Republic) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Uruguay. Federico Valverde replaces Rodrigo Zalazar."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Uruguay. Darwin Núñez replaces Rodrigo Aguirre."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Uruguay. Ronald Araujo replaces Santiago Mouriño."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "63'",
+   "team": null,
+   "text": "Facundo Bernal (Uruguay) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Own Goal",
+   "clock": "70'",
+   "team": null,
+   "text": "Own Goal by Xavier Valdez, Dominican Republic. Uruguay 2, Dominican Republic 0."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "73'",
+   "team": null,
+   "text": "Edgar Pujol (Dominican Republic) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Dominican Republic. César García replaces Noah Dollenmayer."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Dominican Republic. Edarlyn Reyes replaces Peter González."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Dominican Republic. Lucas Bretón replaces Juan Familia-Castillo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Uruguay. Juan Rodríguez replaces José María Giménez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Uruguay. Nicolás de la Cruz replaces Facundo Bernal."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Uruguay. Martín Satriano replaces Federico Viñas."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Uruguay. Facundo Pellistri replaces Agustín Canobbio."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "76'",
+   "team": null,
+   "text": "Pablo Rosario (Dominican Republic) is shown the yellow card."
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "80'",
+   "team": null,
+   "text": "Goal! Uruguay 3, Dominican Republic 0. Nicolás de la Cruz (Uruguay) converts the penalty with a right footed shot to the bottom left corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "84'",
+   "team": null,
+   "text": "Substitution, Uruguay. Ignacio de Arruabarrena replaces Santiago Mele."
+  },
+  {
+   "type": "Substitution",
+   "clock": "84'",
+   "team": null,
+   "text": "Substitution, Uruguay. Bruno Damiani replaces Rodrigo Bentancur."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Dominican Republic. Juan Pineda replaces Edgar Pujol."
+  },
+  {
+   "type": "Goal",
+   "clock": "87'",
+   "team": null,
+   "text": "Goal! Uruguay 4, Dominican Republic 0. Federico Valverde (Uruguay) right footed shot from outside the box to the bottom right corner. Assisted by Darwin Núñez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'",
+   "team": null,
+   "text": "Substitution, Dominican Republic. Wilkins Geraldo replaces Xavier Valdez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'",
+   "team": null,
+   "text": "Substitution, Dominican Republic. Daniel Flores replaces Heinz Mörschel."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'",
+   "team": null,
+   "text": "Substitution, Dominican Republic. Gerard Lavergne replaces Pablo Rosario."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'",
+   "team": null,
+   "text": "Substitution, Dominican Republic. Luis Meneses replaces Mariano Díaz."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Goal! Uruguay 5, Dominican Republic 0. Bruno Damiani (Uruguay) left footed shot from very close range to the top right corner. Assisted by Nicolás de la Cruz with a cross following a set piece situati"
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

@@ -1,0 +1,138 @@
+{
+ "id": "ncaaf-401866464",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-18T00:00Z",
+ "home": {
+  "name": "Ohio Bobcats",
+  "abbr": "OHIO",
+  "teamId": "195",
+  "score": 35.0
+ },
+ "away": {
+  "name": "Ball State Cardinals",
+  "abbr": "BALL",
+  "teamId": "2050",
+  "score": 28.0
+ },
+ "odds": {
+  "mlAway": "+320",
+  "mlAwayOpen": "+280",
+  "mlHome": "-410",
+  "mlHomeOpen": "-355",
+  "provider": "Draft Kings",
+  "spread": "OHIO -10",
+  "spreadOpen": "OHIO -9.5",
+  "total": "50.5",
+  "totalOpen": "50.5"
+ },
+ "espnWinProb": {
+  "away": 15.1,
+  "home": 84.9
+ },
+ "teams": {
+  "away": {
+   "abbr": "BALL",
+   "stats": {
+    "firstDowns": "22",
+    "thirdDownEff": "3-12",
+    "fourthDownEff": "2-3",
+    "totalYards": "448",
+    "netPassingYards": "257",
+    "completionAttempts": "20/35",
+    "yardsPerPass": "7.3",
+    "rushingYards": "191",
+    "rushingAttempts": "34",
+    "yardsPerRushAttempt": "5.6",
+    "totalPenaltiesYards": "6-70",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "interceptions": "1",
+    "possessionTime": "28:38"
+   }
+  },
+  "home": {
+   "abbr": "OHIO",
+   "stats": {
+    "firstDowns": "24",
+    "thirdDownEff": "5-9",
+    "fourthDownEff": "0-0",
+    "totalYards": "365",
+    "netPassingYards": "179",
+    "completionAttempts": "12/17",
+    "yardsPerPass": "10.5",
+    "rushingYards": "186",
+    "rushingAttempts": "39",
+    "yardsPerRushAttempt": "4.8",
+    "totalPenaltiesYards": "5-51",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "31:22"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "10:44",
+   "team": "OHIO",
+   "text": "Duncan Brune 1 Yd Run (Brack Peacock Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "6:17",
+   "team": "BALL",
+   "text": "Hudson Fiene 24 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "7:14",
+   "team": "BALL",
+   "text": "Donovan Hamilton 10 Yd pass from Keldric Luster (Hudson Fiene Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "4:28",
+   "team": "BALL",
+   "text": "Eli Hohlt 80 Yd pass from Keldric Luster (Hudson Fiene Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:09",
+   "team": "OHIO",
+   "text": "Nick Poulos 8 Yd Run (Brack Peacock Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:00",
+   "team": "BALL",
+   "text": "Hudson Fiene 43 Yd Field Goal "
+  },
+  {
+   "period": 4,
+   "clock": "14:19",
+   "team": "OHIO",
+   "text": "Darren James-Hamilton 34 Yd Interception Return (Brack Peacock Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "7:15",
+   "team": "OHIO",
+   "text": "Nick Poulos 12 Yd Run (Brack Peacock Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "2:23",
+   "team": "BALL",
+   "text": "TJ Horton 2 Yd Run (TJ Horton Pass to Donovan Hamilton for Two-Point Conversion)"
+  },
+  {
+   "period": 4,
+   "clock": "1:16",
+   "team": "OHIO",
+   "text": "Dom Dorwart 29 Yd pass from Nick Poulos (Brack Peacock Kick)"
+  }
+ ]
+}

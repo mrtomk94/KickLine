@@ -1,0 +1,258 @@
+{
+ "id": "soccer-401930895",
+ "sport": "soccer",
+ "league": "International Friendly",
+ "start": "2026-11-17T23:00Z",
+ "home": {
+  "name": "Argentina",
+  "abbr": "ARG",
+  "teamId": "202",
+  "score": 7.0
+ },
+ "away": {
+  "name": "Costa Rica",
+  "abbr": "CRC",
+  "teamId": "214",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+2200",
+  "mlAwayOpen": "+1900",
+  "mlDraw": "+1000",
+  "mlHome": "-1200",
+  "mlHomeOpen": "-1200",
+  "provider": "DraftKings",
+  "spread": "ARG -1200",
+  "spreadOpen": "ARG -2.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "ARG",
+   "stats": {
+    "foulsCommitted": "6",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "7",
+    "saves": "2",
+    "possessionPct": "75.6",
+    "totalShots": "22",
+    "shotsOnTarget": "9",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "867",
+    "totalPasses": "938",
+    "passPct": "0.9",
+    "accurateCrosses": "4",
+    "totalCrosses": "9",
+    "crossPct": "0.4",
+    "totalLongBalls": "36",
+    "accurateLongBalls": "22",
+    "longballPct": "0.6",
+    "blockedShots": "3",
+    "effectiveTackles": "10",
+    "totalTackles": "16",
+    "tacklePct": "0.6",
+    "interceptions": "9",
+    "effectiveClearance": "2",
+    "totalClearance": "2"
+   }
+  },
+  "away": {
+   "abbr": "CRC",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "0",
+    "saves": "2",
+    "possessionPct": "24.4",
+    "totalShots": "4",
+    "shotsOnTarget": "2",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "238",
+    "totalPasses": "296",
+    "passPct": "0.8",
+    "accurateCrosses": "1",
+    "totalCrosses": "3",
+    "crossPct": "0.3",
+    "totalLongBalls": "34",
+    "accurateLongBalls": "9",
+    "longballPct": "0.3",
+    "blockedShots": "2",
+    "effectiveTackles": "7",
+    "totalTackles": "16",
+    "tacklePct": "0.4",
+    "interceptions": "12",
+    "effectiveClearance": "10",
+    "totalClearance": "10"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal",
+   "clock": "8'",
+   "team": null,
+   "text": "Goal! Argentina 1, Costa Rica 0. Nico Paz (Argentina) left footed shot from outside the box to the bottom left corner. Assisted by Enzo Fernández."
+  },
+  {
+   "type": "Goal",
+   "clock": "35'",
+   "team": null,
+   "text": "Goal! Argentina 2, Costa Rica 0. Julián Alvarez (Argentina) right footed shot from the centre of the box to the bottom left corner. Assisted by Agustín Giay."
+  },
+  {
+   "type": "Goal",
+   "clock": "38'",
+   "team": null,
+   "text": "Goal! Argentina 3, Costa Rica 0. Nico Paz (Argentina) right footed shot from the right side of the box to the high centre of the goal. Assisted by Máximo Perrone."
+  },
+  {
+   "type": "Goal",
+   "clock": "43'",
+   "team": null,
+   "text": "Goal! Argentina 4, Costa Rica 0. Julián Alvarez (Argentina) left footed shot from a difficult angle on the left to the top left corner. Assisted by Gianluca Prestianni."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, Argentina 4, Costa Rica 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Costa Rica. John Ruiz replaces Aarón Salazar."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Costa Rica. Josimar Alcócer replaces Kenyel Michel."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Argentina. Franco Mastantuono replaces Nico Paz."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Argentina. Gonzalo Montiel replaces Agustín Giay."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Argentina. José Manuel López replaces Julián Alvarez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Costa Rica. Douglas López replaces Andrey Soto."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Argentina 4, Costa Rica 0."
+  },
+  {
+   "type": "Goal",
+   "clock": "48'",
+   "team": null,
+   "text": "Goal! Argentina 5, Costa Rica 0. Franco Mastantuono (Argentina) left footed shot from the centre of the box to the bottom right corner. Assisted by Máximo Perrone."
+  },
+  {
+   "type": "Substitution",
+   "clock": "55'",
+   "team": null,
+   "text": "Substitution, Costa Rica. Kenay Myrie replaces Josimar Méndez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "55'",
+   "team": null,
+   "text": "Substitution, Argentina. Thiago Almada replaces Enzo Fernández."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Argentina. Mariano Troilo replaces Lisandro Martínez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Argentina. Nicolás Tagliafico replaces Román Vega."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Costa Rica. Joseph Mora replaces Carlos Mora."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Costa Rica. Gabriel Leiva replaces Celso Borges."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Argentina. Giuliano Simeone replaces Gianluca Prestianni."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Argentina. Aaron Anselmino replaces Facundo Medina."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Costa Rica. Gian Morera replaces Manfred Ugalde."
+  },
+  {
+   "type": "Goal",
+   "clock": "78'",
+   "team": null,
+   "text": "Goal! Argentina 6, Costa Rica 0. Alexis Mac Allister (Argentina) left footed shot from the centre of the box to the centre of the goal."
+  },
+  {
+   "type": "Goal",
+   "clock": "88'",
+   "team": null,
+   "text": "Goal! Argentina 7, Costa Rica 0. Franco Mastantuono (Argentina) left footed shot from the right side of the box to the bottom right corner. Assisted by Giuliano Simeone."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'",
+   "team": null,
+   "text": "Second Half ends, Argentina 7, Costa Rica 0."
+  }
+ ],
+ "scoringPlays": []
+}

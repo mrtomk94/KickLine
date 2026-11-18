@@ -1,0 +1,138 @@
+{
+ "id": "ncaaf-401866465",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-17T23:00Z",
+ "home": {
+  "name": "Western Michigan Broncos",
+  "abbr": "WMU",
+  "teamId": "2711",
+  "score": 34.0
+ },
+ "away": {
+  "name": "Eastern Michigan Eagles",
+  "abbr": "EMU",
+  "teamId": "2199",
+  "score": 27.0
+ },
+ "odds": {
+  "mlAway": "+500",
+  "mlAwayOpen": "+455",
+  "mlHome": "-700",
+  "mlHomeOpen": "-625",
+  "provider": "Draft Kings",
+  "spread": "WMU -14.5",
+  "spreadOpen": "WMU -14.5",
+  "total": "46.5",
+  "totalOpen": "47.5"
+ },
+ "espnWinProb": {
+  "away": 11.5,
+  "home": 88.5
+ },
+ "teams": {
+  "away": {
+   "abbr": "EMU",
+   "stats": {
+    "firstDowns": "21",
+    "thirdDownEff": "1-9",
+    "fourthDownEff": "2-4",
+    "totalYards": "330",
+    "netPassingYards": "142",
+    "completionAttempts": "18/25",
+    "yardsPerPass": "5.7",
+    "rushingYards": "188",
+    "rushingAttempts": "42",
+    "yardsPerRushAttempt": "4.5",
+    "totalPenaltiesYards": "11-125",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "28:18"
+   }
+  },
+  "home": {
+   "abbr": "WMU",
+   "stats": {
+    "firstDowns": "21",
+    "thirdDownEff": "5-12",
+    "fourthDownEff": "1-2",
+    "totalYards": "341",
+    "netPassingYards": "106",
+    "completionAttempts": "12/18",
+    "yardsPerPass": "5.9",
+    "rushingYards": "235",
+    "rushingAttempts": "43",
+    "yardsPerRushAttempt": "5.5",
+    "totalPenaltiesYards": "5-62",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "31:42"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "14:42",
+   "team": "WMU",
+   "text": "Jalen Buckley 72 Yd Run (Dieter Kelly Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "6:11",
+   "team": "WMU",
+   "text": "Jalen Buckley 1 Yd Run (Dieter Kelly Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "2:32",
+   "team": "EMU",
+   "text": "Amareon Blue 7 Yd Run (Rudy Kessinger Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "3:23",
+   "team": "WMU",
+   "text": "Dieter Kelly 36 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "0:40",
+   "team": "WMU",
+   "text": "Cole Cabana 2 Yd Run (Dieter Kelly Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:02",
+   "team": "WMU",
+   "text": "Dillon Moore 50 Yd Interception Return (Dieter Kelly Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "11:32",
+   "team": "EMU",
+   "text": "Amareon Blue 41 Yd Run (Two-Point Pass Conversion Failed)"
+  },
+  {
+   "period": 3,
+   "clock": "5:53",
+   "team": "EMU",
+   "text": "Joshua Long 1 Yd pass from Brogan McCaughey (Rudy Kessinger Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "12:45",
+   "team": "WMU",
+   "text": "Dieter Kelly 27 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "7:36",
+   "team": "EMU",
+   "text": "Amareon Blue 1 Yd Run (Rudy Kessinger Kick)"
+  }
+ ]
+}

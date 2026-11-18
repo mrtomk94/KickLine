@@ -1,0 +1,102 @@
+{
+ "id": "ncaaf-401866466",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-18T00:00Z",
+ "home": {
+  "name": "Kent State Golden Flashes",
+  "abbr": "KENT",
+  "teamId": "2309",
+  "score": 3.0
+ },
+ "away": {
+  "name": "Miami (OH) RedHawks",
+  "abbr": "M-OH",
+  "teamId": "193",
+  "score": 20.0
+ },
+ "odds": {
+  "mlAway": "-355",
+  "mlAwayOpen": "-310",
+  "mlHome": "+280",
+  "mlHomeOpen": "+250",
+  "provider": "Draft Kings",
+  "spread": "M-OH -9.5",
+  "spreadOpen": "M-OH -8.5",
+  "total": "45.5",
+  "totalOpen": "45.5"
+ },
+ "espnWinProb": {
+  "away": 83.2,
+  "home": 16.8
+ },
+ "teams": {
+  "away": {
+   "abbr": "M-OH",
+   "stats": {
+    "firstDowns": "22",
+    "thirdDownEff": "4-12",
+    "fourthDownEff": "3-4",
+    "totalYards": "425",
+    "netPassingYards": "124",
+    "completionAttempts": "7/12",
+    "yardsPerPass": "10.3",
+    "rushingYards": "301",
+    "rushingAttempts": "58",
+    "yardsPerRushAttempt": "5.2",
+    "totalPenaltiesYards": "4-35",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "38:36"
+   }
+  },
+  "home": {
+   "abbr": "KENT",
+   "stats": {
+    "firstDowns": "10",
+    "thirdDownEff": "2-9",
+    "fourthDownEff": "0-0",
+    "totalYards": "170",
+    "netPassingYards": "139",
+    "completionAttempts": "11/20",
+    "yardsPerPass": "7.0",
+    "rushingYards": "31",
+    "rushingAttempts": "19",
+    "yardsPerRushAttempt": "1.6",
+    "totalPenaltiesYards": "6-30",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "21:24"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "11:27",
+   "team": "M-OH",
+   "text": "D'Shawntae Jones 1 Yd Run (Brady Stidham Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "6:10",
+   "team": "KENT",
+   "text": "Tommy Newcomb 39 Yd Field Goal  "
+  },
+  {
+   "period": 1,
+   "clock": "0:22",
+   "team": "M-OH",
+   "text": "D'Shawntae Jones 1 Yd Run (Brady Stidham PAT failed)"
+  },
+  {
+   "period": 3,
+   "clock": "9:46",
+   "team": "M-OH",
+   "text": "Drew Bellisari 23 Yd Run (Kellan McLaughlin Kick)"
+  }
+ ]
+}
