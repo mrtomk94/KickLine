@@ -1,37 +1,134 @@
 {
  "nba-401909305": {
+  "_lastPick": "ATL ML (-212)",
   "away": {
    "abbr": "CHA",
+   "form": "LLLWL",
+   "injuries": [
+    "Grant Williams (F) – Out, Hamstring",
+    "Grayson Allen (G) – Out, Concussion",
+    "Kon Knueppel (G) – Out, Hamstring",
+    "Dennis Schroder (G) – Out, Hamstring"
+   ],
    "name": "Charlotte Hornets",
    "record": "4-10",
    "short": "Hornets",
    "teamId": "30"
   },
+  "confidence": 66,
   "espnId": "401909305",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 25.6,
+   "home": 74.4
+  },
   "home": {
    "abbr": "ATL",
+   "form": "WWLLW",
+   "injuries": [
+    "Jock Landale (C) – Out, Hip",
+    "Asa Newell (F) – Out, Toe",
+    "CJ McCollum (G) – Out, Calf",
+    "Mouhamed Gueye (F) – Out, Foot"
+   ],
    "name": "Atlanta Hawks",
    "record": "9-6",
    "short": "Hawks",
    "teamId": "1"
   },
   "id": "nba-401909305",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Hamstring",
+     "player": "Grant Williams",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Concussion",
+     "player": "Grayson Allen",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "Kon Knueppel",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "Dennis Schroder",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Hip",
+     "player": "Jock Landale",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Toe",
+     "player": "Asa Newell",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Calf",
+     "player": "CJ McCollum",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Foot",
+     "player": "Mouhamed Gueye",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909305",
+  "market": "Moneyline",
+  "news": [
+   "Sources: Spurs' Dylan Harper out 1-3 weeks with hip strain",
+   "NBA buzz: Latest on trades, news, roster moves and intel",
+   "Athletes are just as hyped for 'Grand Theft Auto VI' as everyone else"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+177",
+   "mlAwayOpen": "+177",
+   "mlHome": "-212",
+   "mlHomeOpen": "-212",
+   "provider": "DraftKings",
+   "spread": "ATL -5.5",
+   "spreadOpen": "ATL -5.5",
+   "total": "218.5",
+   "totalOpen": "218.5"
   },
-  "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "pick": "ATL ML (-212)",
+  "reason": "ATL are about 65% no-vig at -212; ESPN's model has 74%. For: ESPN model 74% vs market 65%. Capped at 2★: NBA capped by lessons.",
   "risks": [],
+  "side": "home",
   "slug": "nba",
   "sport": "nba",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-21T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "State Farm Arena, Atlanta"
  },
  "nba-401909306": {
@@ -66,7 +163,7 @@
   "stars": 1,
   "start": "2026-11-21T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Barclays Center, Brooklyn"
  },
  "nba-401909307": {
@@ -101,7 +198,7 @@
   "stars": 1,
   "start": "2026-11-21T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Rocket Arena, Cleveland"
  },
  "nba-401909308": {
@@ -136,7 +233,7 @@
   "stars": 1,
   "start": "2026-11-21T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Little Caesars Arena, Detroit"
  },
  "nba-401909309": {
@@ -171,7 +268,7 @@
   "stars": 1,
   "start": "2026-11-21T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "United Center, Chicago"
  },
  "nba-401909310": {
@@ -206,7 +303,7 @@
   "stars": 1,
   "start": "2026-11-21T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Paycom Center, Oklahoma City"
  },
  "nba-401909311": {
@@ -241,7 +338,7 @@
   "stars": 1,
   "start": "2026-11-21T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Delta Center, Salt Lake City"
  },
  "nba-401909312": {
@@ -276,7 +373,7 @@
   "stars": 1,
   "start": "2026-11-21T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Ball Arena, Denver"
  },
  "nba-401909313": {
@@ -311,7 +408,7 @@
   "stars": 1,
   "start": "2026-11-21T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "crypto.com Arena, Los Angeles"
  },
  "nba-401910007": {
@@ -1643,11 +1740,12 @@
   "venue": "Golden 1 Center, Sacramento"
  },
  "nba-401910019": {
-  "_lastPick": "MEM ML (-243)",
+  "_lastPick": "MEM ML (-216)",
   "away": {
    "abbr": "GS",
    "form": "LLLLW",
    "injuries": [
+    "Draymond Green (F) – Out, Rest",
     "Brandon Williams (G) – Out, Hamstring",
     "Stephen Curry (G) – Out, Abdomen",
     "Kristaps Porzingis (C) – Out, Illness"
@@ -1657,22 +1755,22 @@
    "short": "Warriors",
    "teamId": "9"
   },
-  "confidence": 65,
+  "confidence": 61,
   "espnId": "401910019",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 31.9,
-   "home": 68.1
+   "away": 37.2,
+   "home": 62.8
   },
   "home": {
    "abbr": "MEM",
    "form": "WWWWL",
    "injuries": [
-    "GG Jackson (F) – Out, Foot",
+    "Zach Edey (C) – Out, Ankle",
     "Ty Jerome (G) – Out, Hip",
-    "Scotty Pippen Jr. (G) – Out, Back",
-    "Richie Saunders (G) – Out, Knee"
+    "GG Jackson (F) – Out, Foot",
+    "Scotty Pippen Jr. (G) – Out, Back"
    ],
    "name": "Memphis Grizzlies",
    "record": "11-4",
@@ -1682,6 +1780,13 @@
   "id": "nba-401910019",
   "injuriesRaw": {
    "away": [
+    {
+     "detail": "Rest",
+     "player": "Draymond Green",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
     {
      "detail": "Hamstring",
      "player": "Brandon Williams",
@@ -1706,9 +1811,9 @@
    ],
    "home": [
     {
-     "detail": "Foot",
-     "player": "GG Jackson",
-     "pos": "F",
+     "detail": "Ankle",
+     "player": "Zach Edey",
+     "pos": "C",
      "stale": false,
      "status": "Out"
     },
@@ -1720,15 +1825,15 @@
      "status": "Out"
     },
     {
-     "detail": "Back",
-     "player": "Scotty Pippen Jr.",
-     "pos": "G",
+     "detail": "Foot",
+     "player": "GG Jackson",
+     "pos": "F",
      "stale": false,
      "status": "Out"
     },
     {
-     "detail": "Knee",
-     "player": "Richie Saunders",
+     "detail": "Back",
+     "player": "Scotty Pippen Jr.",
      "pos": "G",
      "stale": false,
      "status": "Out"
@@ -1739,25 +1844,25 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401910019",
   "market": "Moneyline",
   "news": [
-   "Revisiting sports and pop culture from GTA V's launch",
-   "Historic usage rates are fueling Luka Doncic and the Lakers' offense",
-   "Luka Doncic's shot goes cold as Jazz end Lakers' winning streak at 9"
+   "Sources: Spurs' Dylan Harper out 1-3 weeks with hip strain",
+   "NBA buzz: Latest on trades, news, roster moves and intel",
+   "Athletes are just as hyped for 'Grand Theft Auto VI' as everyone else"
   ],
   "odds": {
-   "mlAway": "+200",
+   "mlAway": "+179",
    "mlAwayOpen": "+268",
-   "mlHome": "-243",
+   "mlHome": "-216",
    "mlHomeOpen": "-334",
-   "provider": "Draft Kings",
-   "spread": "MEM -6.5",
+   "provider": "DraftKings",
+   "spread": "MEM -5.5",
    "spreadOpen": "MEM -8.5",
-   "total": "226.5",
+   "total": "225.5",
    "totalOpen": "225.5"
   },
-  "pick": "MEM ML (-243)",
-  "reason": "MEM are about 68% no-vig at -243; ESPN's model has 68%. For: form WWWWL vs LLLLW; last-5 scoring margin: MEM +12.8, GS -7.4. Capped at 2★: NBA capped by lessons.",
+  "pick": "MEM ML (-216)",
+  "reason": "MEM are about 66% no-vig at -216; ESPN's model has 63%. For: form WWWWL vs LLLLW; last-5 scoring margin: MEM +12.8, GS -7.4.",
   "risks": [
-   "line drifted away (-334 → -243)"
+   "line drifted away (-334 → -216)"
   ],
   "side": "home",
   "slug": "nba",
@@ -1765,11 +1870,11 @@
   "stars": 2,
   "start": "2026-11-20T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "FedExForum, Memphis"
  },
  "nba-401910020": {
-  "_lastPick": "POR ML (-467)",
+  "_lastPick": "POR ML (-518)",
   "away": {
    "abbr": "POR",
    "form": "LLWWW",
@@ -1783,7 +1888,7 @@
    "short": "Trail Blazers",
    "teamId": "22"
   },
-  "confidence": 77,
+  "confidence": 78,
   "espnId": "401910020",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -1795,6 +1900,8 @@
    "abbr": "MIL",
    "form": "LLLLL",
    "injuries": [
+    "Kyle Kuzma (F) – Out, Shoulder",
+    "Myles Turner (C) – Out, Shoulder",
     "Ousmane Dieng (F) – Out, Finger"
    ],
    "name": "Milwaukee Bucks",
@@ -1829,6 +1936,20 @@
    ],
    "home": [
     {
+     "detail": "Shoulder",
+     "player": "Kyle Kuzma",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Shoulder",
+     "player": "Myles Turner",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    },
+    {
      "detail": "Finger",
      "player": "Ousmane Dieng",
      "pos": "F",
@@ -1841,23 +1962,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401910020",
   "market": "Moneyline",
   "news": [
-   "Revisiting sports and pop culture from GTA V's launch",
-   "Historic usage rates are fueling Luka Doncic and the Lakers' offense",
-   "Luka Doncic's shot goes cold as Jazz end Lakers' winning streak at 9"
+   "Sources: Spurs' Dylan Harper out 1-3 weeks with hip strain",
+   "NBA buzz: Latest on trades, news, roster moves and intel",
+   "Athletes are just as hyped for 'Grand Theft Auto VI' as everyone else"
   ],
   "odds": {
-   "mlAway": "-467",
+   "mlAway": "-518",
    "mlAwayOpen": "-369",
-   "mlHome": "+360",
+   "mlHome": "+394",
    "mlHomeOpen": "+293",
-   "provider": "Draft Kings",
-   "spread": "POR -10.5",
+   "provider": "DraftKings",
+   "spread": "POR -11.5",
    "spreadOpen": "POR -9.5",
-   "total": "229.5",
+   "total": "230.5",
    "totalOpen": "225.5"
   },
-  "pick": "POR ML (-467)",
-  "reason": "POR are about 79% no-vig at -467; ESPN's model has 77%. For: form LLWWW vs LLLLL; last-5 scoring margin: MIL -13.0, POR +6.8.",
+  "pick": "POR ML (-518)",
+  "reason": "POR are about 81% no-vig at -518; ESPN's model has 77%. For: line moved toward POR (-369 → -518); form LLWWW vs LLLLL; last-5 scoring margin: MIL -13.0, POR +6.8.",
   "risks": [],
   "side": "away",
   "slug": "nba",
@@ -1865,7 +1986,7 @@
   "stars": 2,
   "start": "2026-11-20T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Fiserv Forum, Milwaukee"
  },
  "nba-401910021": {
@@ -1927,16 +2048,16 @@
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401910021",
   "news": [
-   "Revisiting sports and pop culture from GTA V's launch",
-   "Historic usage rates are fueling Luka Doncic and the Lakers' offense",
-   "Luka Doncic's shot goes cold as Jazz end Lakers' winning streak at 9"
+   "Sources: Spurs' Dylan Harper out 1-3 weeks with hip strain",
+   "NBA buzz: Latest on trades, news, roster moves and intel",
+   "Athletes are just as hyped for 'Grand Theft Auto VI' as everyone else"
   ],
   "odds": {
    "mlAway": "-113",
    "mlAwayOpen": "-123",
    "mlHome": "-104",
    "mlHomeOpen": "+104",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "NY -1.5",
    "spreadOpen": "NY -1.5",
    "total": "216.5",
@@ -1950,11 +2071,11 @@
   "stars": 1,
   "start": "2026-11-20T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Target Center, Minneapolis"
  },
  "nba-401910022": {
-  "_lastPick": "SA ML (-1040)",
+  "_lastPick": "SA ML (-1020)",
   "away": {
    "abbr": "LAC",
    "form": "LWWLW",
@@ -2039,23 +2160,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401910022",
   "market": "Moneyline",
   "news": [
-   "Revisiting sports and pop culture from GTA V's launch",
-   "Historic usage rates are fueling Luka Doncic and the Lakers' offense",
-   "Luka Doncic's shot goes cold as Jazz end Lakers' winning streak at 9"
+   "Sources: Spurs' Dylan Harper out 1-3 weeks with hip strain",
+   "NBA buzz: Latest on trades, news, roster moves and intel",
+   "Athletes are just as hyped for 'Grand Theft Auto VI' as everyone else"
   ],
   "odds": {
-   "mlAway": "+670",
+   "mlAway": "+660",
    "mlAwayOpen": "+720",
-   "mlHome": "-1040",
+   "mlHome": "-1020",
    "mlHomeOpen": "-1140",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "SA -15.5",
    "spreadOpen": "SA -16.5",
-   "total": "225.5",
+   "total": "224.5",
    "totalOpen": "225.5"
   },
-  "pick": "SA ML (-1040)",
-  "reason": "SA are about 88% no-vig at -1040; ESPN's model has 90%. For: last-5 scoring margin: SA +13.0, LAC -9.8. Capped at 2★: NBA capped by lessons.",
+  "pick": "SA ML (-1020)",
+  "reason": "SA are about 87% no-vig at -1020; ESPN's model has 90%. For: last-5 scoring margin: SA +13.0, LAC -9.8. Capped at 2★: NBA capped by lessons.",
   "risks": [],
   "side": "home",
   "slug": "nba",
@@ -2063,7 +2184,7 @@
   "stars": 2,
   "start": "2026-11-20T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Frost Bank Center, San Antonio"
  },
  "nba-401910023": {
@@ -2098,7 +2219,7 @@
   "stars": 1,
   "start": "2026-11-21T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Xfinity Mobile Arena, Philadelphia"
  },
  "nba-401910024": {
@@ -2133,7 +2254,7 @@
   "stars": 1,
   "start": "2026-11-22T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Madison Square Garden, New York"
  },
  "nba-401910025": {
@@ -2168,7 +2289,7 @@
   "stars": 1,
   "start": "2026-11-22T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "American Airlines Center, Dallas"
  },
  "nba-401910026": {
@@ -2203,7 +2324,7 @@
   "stars": 1,
   "start": "2026-11-22T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Target Center, Minneapolis"
  },
  "nba-401910027": {
@@ -2238,7 +2359,7 @@
   "stars": 1,
   "start": "2026-11-22T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Frost Bank Center, San Antonio"
  },
  "nba-401910028": {
@@ -2273,8 +2394,78 @@
   "stars": 1,
   "start": "2026-11-22T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Golden 1 Center, Sacramento"
+ },
+ "nba-401910029": {
+  "away": {
+   "abbr": "DET",
+   "name": "Detroit Pistons",
+   "record": "10-4",
+   "short": "Pistons",
+   "teamId": "8"
+  },
+  "espnId": "401910029",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "ATL",
+   "name": "Atlanta Hawks",
+   "record": "9-6",
+   "short": "Hawks",
+   "teamId": "1"
+  },
+  "id": "nba-401910029",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401910029",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-22T20:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T23:14:02Z",
+  "venue": "State Farm Arena, Atlanta"
+ },
+ "nba-401910030": {
+  "away": {
+   "abbr": "OKC",
+   "name": "Oklahoma City Thunder",
+   "record": "9-6",
+   "short": "Thunder",
+   "teamId": "25"
+  },
+  "espnId": "401910030",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "MIA",
+   "name": "Miami Heat",
+   "record": "9-6",
+   "short": "Heat",
+   "teamId": "14"
+  },
+  "id": "nba-401910030",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401910030",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-22T23:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T23:14:02Z",
+  "venue": "Kaseya Center, Miami"
  },
  "ncaaf-401856746": {
   "away": {
@@ -2308,7 +2499,7 @@
   "stars": 1,
   "start": "2026-11-21T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Bryant-Denny Stadium, Tuscaloosa"
  },
  "ncaaf-401856747": {
@@ -2343,7 +2534,7 @@
   "stars": 1,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Jordan-Hare Stadium, Auburn"
  },
  "ncaaf-401856748": {
@@ -2377,19 +2568,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856748",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "+400",
    "mlAwayOpen": "+400",
    "mlHome": "-535",
    "mlHomeOpen": "-535",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "FLA -13.5",
    "spreadOpen": "FLA -13.5",
-   "total": "46.5",
+   "total": "45.5",
    "totalOpen": "48.5"
   },
   "pick": "FLA ML (-535)",
@@ -2401,7 +2592,7 @@
   "stars": 2,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Ben Hill Griffin Stadium, Gainesville"
  },
  "ncaaf-401856749": {
@@ -2436,7 +2627,7 @@
   "stars": 1,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Vaught-Hemingway Stadium, Oxford"
  },
  "ncaaf-401856750": {
@@ -2471,11 +2662,11 @@
   "stars": 1,
   "start": "2026-11-21T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Davis Wade Stadium, Starkville"
  },
  "ncaaf-401856751": {
-  "_lastPick": "MIZ ML (-218)",
+  "_lastPick": "MIZ ML (-205)",
   "away": {
    "abbr": "UK",
    "form": "LLWWW",
@@ -2484,7 +2675,7 @@
    "short": "Kentucky",
    "teamId": "96"
   },
-  "confidence": 61,
+  "confidence": 60,
   "espnId": "401856751",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -2505,23 +2696,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856751",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
-   "mlAway": "+180",
+   "mlAway": "+170",
    "mlAwayOpen": "+185",
-   "mlHome": "-218",
+   "mlHome": "-205",
    "mlHomeOpen": "-225",
-   "provider": "Draft Kings",
-   "spread": "MIZ -5.5",
+   "provider": "DraftKings",
+   "spread": "MIZ -4.5",
    "spreadOpen": "MIZ -6.5",
    "total": "48.5",
    "totalOpen": "49.5"
   },
-  "pick": "MIZ ML (-218)",
-  "reason": "MIZ are about 66% no-vig at -218; ESPN's model has 62%.",
+  "pick": "MIZ ML (-205)",
+  "reason": "MIZ are about 64% no-vig at -205; ESPN's model has 62%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -2529,7 +2720,7 @@
   "stars": 2,
   "start": "2026-11-22T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Memorial Stadium, Columbia"
  },
  "ncaaf-401856752": {
@@ -2563,16 +2754,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856752",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "+245",
    "mlAwayOpen": "+120",
    "mlHome": "-305",
    "mlHomeOpen": "-142",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "OU -7.5",
    "spreadOpen": "OU -2.5",
    "total": "38.5",
@@ -2589,7 +2780,7 @@
   "stars": 2,
   "start": "2026-11-21T20:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Memorial Stadium (Norman, OK), Norman"
  },
  "ncaaf-401856753": {
@@ -2623,16 +2814,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856753",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "-750",
    "mlAwayOpen": "-375",
    "mlHome": "+525",
    "mlHomeOpen": "+295",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UGA -14.5",
    "spreadOpen": "UGA -10.5",
    "total": "51.5",
@@ -2647,7 +2838,7 @@
   "stars": 3,
   "start": "2026-11-22T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Williams-Brice Stadium, Columbia"
  },
  "ncaaf-401856754": {
@@ -2679,17 +2870,17 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856754",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "-115",
    "mlAwayOpen": "-118",
    "mlHome": "-105",
    "mlHomeOpen": "-102",
-   "provider": "Draft Kings",
-   "spread": "LSU -1.5",
+   "provider": "DraftKings",
+   "spread": "TENN -1.5",
    "spreadOpen": "LSU -1.5",
    "total": "45.5",
    "totalOpen": "57.5"
@@ -2704,11 +2895,11 @@
   "stars": 1,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Neyland Stadium, Knoxville"
  },
  "ncaaf-401856755": {
-  "_lastPick": "TEX ML (-1600)",
+  "_lastPick": "TEX ML (-1650)",
   "away": {
    "abbr": "ARK",
    "form": "WLLWL",
@@ -2738,23 +2929,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856755",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
-   "mlAway": "+900",
+   "mlAway": "+950",
    "mlAwayOpen": "+850",
-   "mlHome": "-1600",
+   "mlHome": "-1650",
    "mlHomeOpen": "-1450",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "TEX -20.5",
    "spreadOpen": "TEX -21",
-   "total": "46.5",
+   "total": "47.5",
    "totalOpen": "48.5"
   },
-  "pick": "TEX ML (-1600)",
-  "reason": "TEX are about 90% no-vig at -1600; ESPN's model has 94%.",
+  "pick": "TEX ML (-1650)",
+  "reason": "TEX are about 91% no-vig at -1650; ESPN's model has 94%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -2762,7 +2953,7 @@
   "stars": 2,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "DKR-Texas Memorial Stadium, Austin"
  },
  "ncaaf-401856865": {
@@ -2796,16 +2987,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856865",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "-290",
    "mlAwayOpen": "-380",
    "mlHome": "+235",
    "mlHomeOpen": "+300",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "ARIZ -7",
    "spreadOpen": "ARIZ -10.5",
    "total": "52.5",
@@ -2822,7 +3013,7 @@
   "stars": 2,
   "start": "2026-11-22T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Bill Snyder Family Stadium, Manhattan"
  },
  "ncaaf-401856866": {
@@ -2856,19 +3047,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856866",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "-225",
    "mlAwayOpen": "-258",
    "mlHome": "+185",
    "mlHomeOpen": "+210",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "BYU -5.5",
    "spreadOpen": "BYU -7",
-   "total": "47.5",
+   "total": "46.5",
    "totalOpen": "50.5"
   },
   "pick": "BYU ML (-225)",
@@ -2880,7 +3071,7 @@
   "stars": 2,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "David Booth Kansas Memorial Stadium, Lawrence"
  },
  "ncaaf-401856867": {
@@ -2914,16 +3105,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856867",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "+136",
    "mlAwayOpen": "+120",
    "mlHome": "-162",
    "mlHomeOpen": "-142",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "CIN -3",
    "spreadOpen": "CIN -2.5",
    "total": "57.5",
@@ -2938,7 +3129,7 @@
   "stars": 2,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Nippert Stadium, Cincinnati"
  },
  "ncaaf-401856868": {
@@ -2972,17 +3163,17 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856868",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "-310",
    "mlAwayOpen": "-230",
    "mlHome": "+250",
    "mlHomeOpen": "+190",
-   "provider": "Draft Kings",
-   "spread": "HOU -8.5",
+   "provider": "DraftKings",
+   "spread": "HOU -7.5",
    "spreadOpen": "HOU -7",
    "total": "70.5",
    "totalOpen": "71.5"
@@ -2996,7 +3187,7 @@
   "stars": 3,
   "start": "2026-11-21T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Milan Puskar Stadium, Morgantown"
  },
  "ncaaf-401856869": {
@@ -3008,7 +3199,7 @@
    "short": "Iowa State",
    "teamId": "66"
   },
-  "confidence": 50,
+  "confidence": 49,
   "espnId": "401856869",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -3028,30 +3219,30 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856869",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
-   "mlAway": "+105",
+   "mlAway": "+102",
    "mlAwayOpen": "-108",
-   "mlHome": "-125",
+   "mlHome": "-122",
    "mlHomeOpen": "-112",
-   "provider": "Draft Kings",
-   "spread": "UCF -2.5",
+   "provider": "DraftKings",
+   "spread": "UCF -1.5",
    "spreadOpen": "UCF -1.5",
    "total": "48.5",
    "totalOpen": "54.5"
   },
   "pick": "Pass",
-  "reason": "UCF about 53% no-vig at -125; no edge worth a pick.",
+  "reason": "UCF about 53% no-vig at -122; no edge worth a pick.",
   "risks": [],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-20T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Acrisure Bounce House, Orlando"
  },
  "ncaaf-401856870": {
@@ -3083,16 +3274,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856870",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "-142",
    "mlAwayOpen": "-175",
    "mlHome": "+120",
    "mlHomeOpen": "+145",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "OKST -2.5",
    "spreadOpen": "OKST -4",
    "total": "59.5",
@@ -3108,11 +3299,11 @@
   "stars": 1,
   "start": "2026-11-22T03:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Mountain America Stadium, Tempe"
  },
  "ncaaf-401856871": {
-  "_lastPick": "TTU ML (-170)",
+  "_lastPick": "TTU ML (-192)",
   "away": {
    "abbr": "TTU",
    "form": "WWWLW",
@@ -3121,7 +3312,7 @@
    "short": "Texas Tech",
    "teamId": "2641"
   },
-  "confidence": 58,
+  "confidence": 59,
   "espnId": "401856871",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -3142,23 +3333,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856871",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
-   "mlAway": "-170",
+   "mlAway": "-192",
    "mlAwayOpen": "-112",
-   "mlHome": "+142",
+   "mlHome": "+160",
    "mlHomeOpen": "-108",
-   "provider": "Draft Kings",
-   "spread": "TTU -3.5",
+   "provider": "DraftKings",
+   "spread": "TTU -4.5",
    "spreadOpen": "TTU -1.5",
-   "total": "55.5",
+   "total": "56.5",
    "totalOpen": "55.5"
   },
-  "pick": "TTU ML (-170)",
-  "reason": "TTU are about 60% no-vig at -170; ESPN's model has 61%. For: line moved toward TTU (-112 → -170).",
+  "pick": "TTU ML (-192)",
+  "reason": "TTU are about 63% no-vig at -192; ESPN's model has 61%. For: line moved toward TTU (-112 → -192).",
   "risks": [],
   "side": "away",
   "slug": "college-football",
@@ -3166,7 +3357,7 @@
   "stars": 2,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "McLane Stadium, Waco"
  },
  "ncaaf-401856872": {
@@ -3200,16 +3391,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856872",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "-270",
    "mlAwayOpen": "-205",
    "mlHome": "+220",
    "mlHomeOpen": "+170",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UTAH -7",
    "spreadOpen": "UTAH -5.5",
    "total": "46.5",
@@ -3224,11 +3415,11 @@
   "stars": 3,
   "start": "2026-11-22T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Amon G. Carter Stadium, Fort Worth"
  },
  "ncaaf-401858302": {
-  "_lastPick": "MIA ML (-1600)",
+  "_lastPick": "MIA ML (-1650)",
   "away": {
    "abbr": "VT",
    "form": "LLWWL",
@@ -3258,23 +3449,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858302",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
-   "mlAway": "+900",
+   "mlAway": "+950",
    "mlAwayOpen": "+675",
-   "mlHome": "-1600",
+   "mlHome": "-1650",
    "mlHomeOpen": "-1050",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "MIA -20.5",
    "spreadOpen": "MIA -16.5",
    "total": "60.5",
    "totalOpen": "56.5"
   },
-  "pick": "MIA ML (-1600)",
-  "reason": "MIA are about 90% no-vig at -1600; ESPN's model has 96%. For: ESPN model 96% vs market 90%. Capped at 2★: huge college spread.",
+  "pick": "MIA ML (-1650)",
+  "reason": "MIA are about 91% no-vig at -1650; ESPN's model has 96%. For: ESPN model 96% vs market 91%. Capped at 2★: huge college spread.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -3282,11 +3473,11 @@
   "stars": 2,
   "start": "2026-11-22T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Hard Rock Stadium, Miami Gardens"
  },
  "ncaaf-401858303": {
-  "_lastPick": "DUKE ML (-535)",
+  "_lastPick": "DUKE ML (-575)",
   "away": {
    "abbr": "CLEM",
    "form": "LWWLW",
@@ -3295,7 +3486,7 @@
    "short": "Clemson",
    "teamId": "228"
   },
-  "confidence": 77,
+  "confidence": 78,
   "espnId": "401858303",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -3316,31 +3507,31 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858303",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
-   "mlAway": "+400",
+   "mlAway": "+425",
    "mlAwayOpen": "+260",
-   "mlHome": "-535",
+   "mlHome": "-575",
    "mlHomeOpen": "-325",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "DUKE -13.5",
    "spreadOpen": "DUKE -8.5",
    "total": "40.5",
    "totalOpen": "44.5"
   },
-  "pick": "DUKE ML (-535)",
-  "reason": "DUKE are about 81% no-vig at -535; ESPN's model has 79%. For: line moved toward DUKE (-325 → -535).",
+  "pick": "DUKE ML (-575)",
+  "reason": "DUKE are about 82% no-vig at -575; ESPN's model has 79%. For: line moved toward DUKE (-325 → -575).",
   "risks": [],
   "side": "home",
   "slug": "college-football",
   "sport": "ncaaf",
-  "stars": 3,
+  "stars": 2,
   "start": "2026-11-21T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Wallace Wade Stadium, Durham"
  },
  "ncaaf-401858304": {
@@ -3374,16 +3565,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858304",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "+310",
    "mlAwayOpen": "+245",
    "mlHome": "-395",
    "mlHomeOpen": "-305",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "FSU -10.5",
    "spreadOpen": "FSU -10",
    "total": "56.5",
@@ -3398,7 +3589,7 @@
   "stars": 3,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Doak Campbell Stadium, Tallahassee"
  },
  "ncaaf-401858305": {
@@ -3430,19 +3621,19 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858305",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "-102",
    "mlAwayOpen": "-105",
    "mlHome": "-118",
    "mlHomeOpen": "-115",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UVA -1.5",
    "spreadOpen": "UVA -1.5",
-   "total": "43.5",
+   "total": "42.5",
    "totalOpen": "43.5"
   },
   "pick": "Pass",
@@ -3455,7 +3646,7 @@
   "stars": 1,
   "start": "2026-11-21T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Scott Stadium, Charlottesville"
  },
  "ncaaf-401858306": {
@@ -3489,17 +3680,17 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858306",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "+425",
    "mlAwayOpen": "+270",
    "mlHome": "-575",
    "mlHomeOpen": "-340",
-   "provider": "Draft Kings",
-   "spread": "LOU -14",
+   "provider": "DraftKings",
+   "spread": "LOU -13.5",
    "spreadOpen": "LOU -12.5",
    "total": "50.5",
    "totalOpen": "51.5"
@@ -3513,7 +3704,7 @@
   "stars": 2,
   "start": "2026-11-22T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "L&N Federal Credit Union Stadium, Louisville"
  },
  "ncaaf-401858307": {
@@ -3547,16 +3738,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858307",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "+950",
    "mlAwayOpen": "+625",
    "mlHome": "-1650",
    "mlHomeOpen": "-950",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "ND -20.5",
    "spreadOpen": "ND -17.5",
    "total": "56.5",
@@ -3571,7 +3762,7 @@
   "stars": 2,
   "start": "2026-11-22T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Notre Dame Stadium, Notre Dame"
  },
  "ncaaf-401858308": {
@@ -3603,16 +3794,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858308",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "-130",
    "mlAwayOpen": "-122",
    "mlHome": "+110",
    "mlHomeOpen": "+102",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "STAN -2.5",
    "spreadOpen": "STAN -1.5",
    "total": "56.5",
@@ -3628,7 +3819,7 @@
   "stars": 1,
   "start": "2026-11-22T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "California Memorial Stadium, Berkeley"
  },
  "ncaaf-401858309": {
@@ -3660,16 +3851,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858309",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "-135",
    "mlAwayOpen": "-166",
    "mlHome": "+114",
    "mlHomeOpen": "+140",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "SYR -2.5",
    "spreadOpen": "SYR -3.5",
    "total": "50.5",
@@ -3685,7 +3876,7 @@
   "stars": 1,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Alumni Stadium (Chestnut Hill, MA), Chestnut Hill"
  },
  "ncaaf-401858310": {
@@ -3719,19 +3910,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858310",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "-1600",
    "mlAwayOpen": "-1650",
    "mlHome": "+900",
    "mlHomeOpen": "+950",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "WAKE -20.5",
    "spreadOpen": "WAKE -20.5",
-   "total": "55.5",
+   "total": "56.5",
    "totalOpen": "56.5"
   },
   "pick": "WAKE ML (-1600)",
@@ -3743,7 +3934,7 @@
   "stars": 2,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Bobby Dodd Stadium, Atlanta"
  },
  "ncaaf-401858527": {
@@ -3777,16 +3968,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858527",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "-325",
    "mlAwayOpen": "-205",
    "mlHome": "+260",
    "mlHomeOpen": "+170",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "IOWA -8.5",
    "spreadOpen": "IOWA -5.5",
    "total": "40.5",
@@ -3803,7 +3994,7 @@
   "stars": 2,
   "start": "2026-11-21T19:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Gies Memorial Stadium, Champaign"
  },
  "ncaaf-401858528": {
@@ -3835,37 +4026,37 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858528",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
-   "mlAway": "-175",
+   "mlAway": "-180",
    "mlAwayOpen": "-218",
-   "mlHome": "+145",
+   "mlHome": "+150",
    "mlHomeOpen": "+180",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UCLA -3.5",
    "spreadOpen": "UCLA -5.5",
    "total": "37.5",
    "totalOpen": "42.5"
   },
   "pick": "Pass",
-  "reason": "UCLA about 61% no-vig at -175; no edge worth a pick.",
+  "reason": "UCLA about 62% no-vig at -180; no edge worth a pick.",
   "risks": [
-   "ESPN model only 53% vs market 61%",
-   "line drifted away (-218 → -175)"
+   "ESPN model only 53% vs market 62%",
+   "line drifted away (-218 → -180)"
   ],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Michigan Stadium, Ann Arbor"
  },
  "ncaaf-401858529": {
-  "_lastPick": "ORE ML (-900)",
+  "_lastPick": "ORE ML (-950)",
   "away": {
    "abbr": "ORE",
    "form": "WWWLW",
@@ -3874,7 +4065,7 @@
    "short": "Oregon",
    "teamId": "2483"
   },
-  "confidence": 84,
+  "confidence": 85,
   "espnId": "401858529",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -3895,23 +4086,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858529",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
-   "mlAway": "-900",
+   "mlAway": "-950",
    "mlAwayOpen": "-455",
-   "mlHome": "+600",
+   "mlHome": "+625",
    "mlHomeOpen": "+350",
-   "provider": "Draft Kings",
-   "spread": "ORE -16.5",
+   "provider": "DraftKings",
+   "spread": "ORE -17.5",
    "spreadOpen": "ORE -12.5",
    "total": "44.5",
    "totalOpen": "45.5"
   },
-  "pick": "ORE ML (-900)",
-  "reason": "ORE are about 86% no-vig at -900; ESPN's model has 86%. For: line moved toward ORE (-455 → -900); form WWWLW vs LWLLL.",
+  "pick": "ORE ML (-950)",
+  "reason": "ORE are about 87% no-vig at -950; ESPN's model has 86%. For: line moved toward ORE (-455 → -950); form WWWLW vs LWLLL.",
   "risks": [],
   "side": "away",
   "slug": "college-football",
@@ -3919,7 +4110,7 @@
   "stars": 3,
   "start": "2026-11-21T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Spartan Stadium, East Lansing"
  },
  "ncaaf-401858530": {
@@ -3953,16 +4144,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858530",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "-135",
    "mlAwayOpen": "-148",
    "mlHome": "+114",
    "mlHomeOpen": "+124",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "NU -2.5",
    "spreadOpen": "NU -3",
    "total": "41.5",
@@ -3977,7 +4168,7 @@
   "stars": 2,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Huntington Bank Stadium, Minneapolis"
  },
  "ncaaf-401858531": {
@@ -4011,16 +4202,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858531",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "-166",
    "mlAwayOpen": "-198",
    "mlHome": "+140",
    "mlHomeOpen": "+164",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "OSU -3.5",
    "spreadOpen": "OSU -5.5",
    "total": "41.5",
@@ -4037,7 +4228,7 @@
   "stars": 2,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Memorial Stadium (Lincoln, NE), Lincoln"
  },
  "ncaaf-401858532": {
@@ -4071,17 +4262,17 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858532",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "+1300",
    "mlAwayOpen": "+1000",
    "mlHome": "-2800",
    "mlHomeOpen": "-1800",
-   "provider": "Draft Kings",
-   "spread": "PSU -24.5",
+   "provider": "DraftKings",
+   "spread": "PSU -26.5",
    "spreadOpen": "PSU -20.5",
    "total": "49.5",
    "totalOpen": "49.5"
@@ -4095,7 +4286,7 @@
   "stars": 2,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Beaver Stadium, University Park"
  },
  "ncaaf-401858533": {
@@ -4129,16 +4320,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858533",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "-230",
    "mlAwayOpen": "-218",
    "mlHome": "+190",
    "mlHomeOpen": "+180",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "WIS -6",
    "spreadOpen": "WIS -6",
    "total": "46.5",
@@ -4153,11 +4344,11 @@
   "stars": 2,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Ross-Ade Stadium, West Lafayette"
  },
  "ncaaf-401858534": {
-  "_lastPick": "USC ML (-900)",
+  "_lastPick": "USC ML (-950)",
   "away": {
    "abbr": "MD",
    "form": "WWLLL",
@@ -4187,23 +4378,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858534",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
-   "mlAway": "+600",
+   "mlAway": "+625",
    "mlAwayOpen": "+550",
-   "mlHome": "-900",
+   "mlHome": "-950",
    "mlHomeOpen": "-800",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "USC -17.5",
    "spreadOpen": "USC -16.5",
    "total": "57.5",
    "totalOpen": "56.5"
   },
-  "pick": "USC ML (-900)",
-  "reason": "USC are about 86% no-vig at -900; ESPN's model has 93%. For: ESPN model 93% vs market 86%.",
+  "pick": "USC ML (-950)",
+  "reason": "USC are about 87% no-vig at -950; ESPN's model has 93%. For: ESPN model 93% vs market 87%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -4211,7 +4402,7 @@
   "stars": 3,
   "start": "2026-11-21T23:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Los Angeles Memorial Coliseum, Los Angeles"
  },
  "ncaaf-401858535": {
@@ -4245,19 +4436,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858535",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "-310",
    "mlAwayOpen": "-278",
    "mlHome": "+250",
    "mlHomeOpen": "+225",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "IU -7.5",
    "spreadOpen": "IU -7.5",
-   "total": "43.5",
+   "total": "44.5",
    "totalOpen": "43.5"
   },
   "pick": "IU ML (-310)",
@@ -4269,7 +4460,7 @@
   "stars": 3,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Husky Stadium, Seattle"
  },
  "ncaaf-401860918": {
@@ -4303,16 +4494,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401860918",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "+850",
    "mlAwayOpen": "+1000",
    "mlHome": "-1450",
    "mlHomeOpen": "-1800",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "FRES -20.5",
    "spreadOpen": "FRES -19.5",
    "total": "66.5",
@@ -4327,7 +4518,7 @@
   "stars": 2,
   "start": "2026-11-22T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Valley Children's Stadium, Fresno"
  },
  "ncaaf-401860919": {
@@ -4361,16 +4552,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401860919",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "+280",
    "mlAwayOpen": "+295",
    "mlHome": "-355",
    "mlHomeOpen": "-375",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "ORST -9.5",
    "spreadOpen": "ORST -10",
    "total": "50.5",
@@ -4385,11 +4576,11 @@
   "stars": 2,
   "start": "2026-11-22T03:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Reser Stadium, Corvallis"
  },
  "ncaaf-401860920": {
-  "_lastPick": "TXST ML (-455)",
+  "_lastPick": "TXST ML (-520)",
   "away": {
    "abbr": "WSU",
    "form": "WLLLL",
@@ -4398,7 +4589,7 @@
    "short": "Washington St",
    "teamId": "265"
   },
-  "confidence": 75,
+  "confidence": 78,
   "espnId": "401860920",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -4419,33 +4610,31 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401860920",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
-   "mlAway": "+350",
+   "mlAway": "+390",
    "mlAwayOpen": "+500",
-   "mlHome": "-455",
+   "mlHome": "-520",
    "mlHomeOpen": "-700",
-   "provider": "Draft Kings",
-   "spread": "TXST -11.5",
+   "provider": "DraftKings",
+   "spread": "TXST -13.5",
    "spreadOpen": "TXST -14.5",
-   "total": "61.5",
+   "total": "62.5",
    "totalOpen": "57.5"
   },
-  "pick": "TXST ML (-455)",
-  "reason": "TXST are about 79% no-vig at -455; ESPN's model has 80%. For: form WWLWW vs WLLLL.",
-  "risks": [
-   "line drifted away (-700 → -455)"
-  ],
+  "pick": "TXST ML (-520)",
+  "reason": "TXST are about 80% no-vig at -520; ESPN's model has 80%. For: form WWLWW vs WLLLL.",
+  "risks": [],
   "side": "home",
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 3,
   "start": "2026-11-21T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "UFCU Stadium, San Marcos"
  },
  "ncaaf-401860925": {
@@ -4479,16 +4668,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401860925",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "+600",
    "mlAwayOpen": "+850",
    "mlHome": "-900",
    "mlHomeOpen": "-1450",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "BOIS -17.5",
    "spreadOpen": "BOIS -18.5",
    "total": "60.5",
@@ -4503,7 +4692,7 @@
   "stars": 3,
   "start": "2026-11-22T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Albertsons Stadium, Boise"
  },
  "ncaaf-401861968": {
@@ -4537,16 +4726,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401861968",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "+400",
    "mlAwayOpen": "+410",
    "mlHome": "-535",
    "mlHomeOpen": "-550",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "CONN -13.5",
    "spreadOpen": "CONN -14.5",
    "total": "47.5",
@@ -4561,7 +4750,7 @@
   "stars": 2,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Pratt & Whitney Stadium, East Hartford"
  },
  "ncaaf-401862830": {
@@ -4595,16 +4784,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862830",
   "market": null,
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "+120",
    "mlAwayOpen": "+142",
    "mlHome": "-142",
    "mlHomeOpen": "-170",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "TEM -2.5",
    "spreadOpen": "TEM -4",
    "total": "51.5",
@@ -4621,7 +4810,7 @@
   "stars": 1,
   "start": "2026-11-20T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Lincoln Financial Field, Philadelphia"
  },
  "ncaaf-401862831": {
@@ -4655,19 +4844,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862831",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "+190",
    "mlAwayOpen": "+150",
    "mlHome": "-230",
    "mlHomeOpen": "-180",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "ARMY -6",
    "spreadOpen": "ARMY -4.5",
-   "total": "45.5",
+   "total": "46.5",
    "totalOpen": "42.5"
   },
   "pick": "ARMY ML (-230)",
@@ -4679,7 +4868,7 @@
   "stars": 2,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Michie Stadium, West Point"
  },
  "ncaaf-401862832": {
@@ -4713,19 +4902,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862832",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "+1100",
    "mlAwayOpen": "+675",
    "mlHome": "-2100",
    "mlHomeOpen": "-1050",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "TLSA -22.5",
    "spreadOpen": "TLSA -20.5",
-   "total": "52.5",
+   "total": "51.5",
    "totalOpen": "52.5"
   },
   "pick": "TLSA ML (-2100)",
@@ -4737,7 +4926,7 @@
   "stars": 2,
   "start": "2026-11-21T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "H. A. Chapman Stadium, Tulsa"
  },
  "ncaaf-401862833": {
@@ -4769,16 +4958,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401862833",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "-115",
    "mlAwayOpen": "-105",
    "mlHome": "-105",
    "mlHomeOpen": "-115",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "USF -1.5",
    "spreadOpen": "FAU -1.5",
    "total": "64.5",
@@ -4792,7 +4981,7 @@
   "stars": 1,
   "start": "2026-11-21T19:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Flagler Credit Union Stadium, Boca Raton"
  },
  "ncaaf-401862834": {
@@ -4826,23 +5015,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862834",
   "market": null,
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
-   "mlAway": "-155",
+   "mlAway": "-148",
    "mlAwayOpen": "-166",
-   "mlHome": "+130",
+   "mlHome": "+124",
    "mlHomeOpen": "+140",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "MEM -3",
    "spreadOpen": "MEM -3",
    "total": "67.5",
    "totalOpen": "64.5"
   },
   "pick": "Pass",
-  "reason": "MEM about 58% no-vig at -155; no edge worth a pick.",
+  "reason": "MEM about 57% no-vig at -148; no edge worth a pick.",
   "risks": [],
   "side": null,
   "slug": "college-football",
@@ -4850,11 +5039,11 @@
   "stars": 1,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Navy-Marine Corps Memorial Stadium, Annapolis"
  },
  "ncaaf-401862835": {
-  "_lastPick": "UNT ML (-238)",
+  "_lastPick": "UNT ML (-250)",
   "away": {
    "abbr": "UNT",
    "form": "LWWWW",
@@ -4863,7 +5052,7 @@
    "short": "North Texas",
    "teamId": "249"
   },
-  "confidence": 66,
+  "confidence": 67,
   "espnId": "401862835",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -4884,25 +5073,25 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862835",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
-   "mlAway": "-238",
+   "mlAway": "-250",
    "mlAwayOpen": "-575",
-   "mlHome": "+195",
+   "mlHome": "+205",
    "mlHomeOpen": "+425",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UNT -6.5",
    "spreadOpen": "UNT -13.5",
    "total": "55.5",
    "totalOpen": "60.5"
   },
-  "pick": "UNT ML (-238)",
-  "reason": "UNT are about 68% no-vig at -238; ESPN's model has 76%. For: ESPN model 76% vs market 68%.",
+  "pick": "UNT ML (-250)",
+  "reason": "UNT are about 69% no-vig at -250; ESPN's model has 76%. For: ESPN model 76% vs market 69%.",
   "risks": [
-   "line drifted away (-575 → -238)"
+   "line drifted away (-575 → -250)"
   ],
   "side": "away",
   "slug": "college-football",
@@ -4910,7 +5099,7 @@
   "stars": 3,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Yulman Stadium, New Orleans"
  },
  "ncaaf-401862836": {
@@ -4944,19 +5133,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862836",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "-245",
    "mlAwayOpen": "-285",
    "mlHome": "+200",
    "mlHomeOpen": "+230",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UTSA -6.5",
    "spreadOpen": "UTSA -7.5",
-   "total": "51.5",
+   "total": "50.5",
    "totalOpen": "53.5"
   },
   "pick": "UTSA ML (-245)",
@@ -4968,11 +5157,11 @@
   "stars": 2,
   "start": "2026-11-22T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Protective Stadium, Birmingham"
  },
  "ncaaf-401864541": {
-  "_lastPick": "NEV ML (-205)",
+  "_lastPick": "NEV ML (-218)",
   "away": {
    "abbr": "HAW",
    "form": "LWWLL",
@@ -4981,7 +5170,7 @@
    "short": "Hawai'i",
    "teamId": "62"
   },
-  "confidence": 63,
+  "confidence": 64,
   "espnId": "401864541",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -5002,23 +5191,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864541",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
-   "mlAway": "+170",
+   "mlAway": "+180",
    "mlAwayOpen": "+110",
-   "mlHome": "-205",
+   "mlHome": "-218",
    "mlHomeOpen": "-130",
-   "provider": "Draft Kings",
-   "spread": "NEV -4.5",
+   "provider": "DraftKings",
+   "spread": "NEV -5.5",
    "spreadOpen": "NEV -2.5",
    "total": "40.5",
    "totalOpen": "42.5"
   },
-  "pick": "NEV ML (-205)",
-  "reason": "NEV are about 64% no-vig at -205; ESPN's model has 68%. For: line moved toward NEV (-130 → -205).",
+  "pick": "NEV ML (-218)",
+  "reason": "NEV are about 66% no-vig at -218; ESPN's model has 68%. For: line moved toward NEV (-130 → -218).",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -5026,11 +5215,11 @@
   "stars": 2,
   "start": "2026-11-22T03:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Mackay Stadium, Reno"
  },
  "ncaaf-401864542": {
-  "_lastPick": "UNM ML (-305)",
+  "_lastPick": "UNM ML (-290)",
   "away": {
    "abbr": "UNM",
    "form": "LWWWW",
@@ -5039,7 +5228,7 @@
    "short": "New Mexico",
    "teamId": "167"
   },
-  "confidence": 73,
+  "confidence": 72,
   "espnId": "401864542",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -5060,25 +5249,25 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864542",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
-   "mlAway": "-305",
+   "mlAway": "-290",
    "mlAwayOpen": "-440",
-   "mlHome": "+245",
+   "mlHome": "+235",
    "mlHomeOpen": "+340",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UNM -7.5",
    "spreadOpen": "UNM -10.5",
    "total": "37.5",
    "totalOpen": "38.5"
   },
-  "pick": "UNM ML (-305)",
-  "reason": "UNM are about 72% no-vig at -305; ESPN's model has 87%. For: ESPN model 87% vs market 72%.",
+  "pick": "UNM ML (-290)",
+  "reason": "UNM are about 71% no-vig at -290; ESPN's model has 87%. For: ESPN model 87% vs market 71%.",
   "risks": [
-   "line drifted away (-440 → -305)"
+   "line drifted away (-440 → -290)"
   ],
   "side": "away",
   "slug": "college-football",
@@ -5086,7 +5275,7 @@
   "stars": 3,
   "start": "2026-11-21T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "War Memorial Stadium, Laramie"
  },
  "ncaaf-401864543": {
@@ -5120,16 +5309,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864543",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "+1400",
    "mlAwayOpen": "+1800",
    "mlHome": "-3200",
    "mlHomeOpen": "-5000",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "NDSU -25.5",
    "spreadOpen": "NDSU -25.5",
    "total": "43.5",
@@ -5144,7 +5333,7 @@
   "stars": 2,
   "start": "2026-11-21T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Fargodome, Fargo"
  },
  "ncaaf-401864544": {
@@ -5178,17 +5367,17 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864544",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "-258",
    "mlAwayOpen": "-148",
    "mlHome": "+210",
    "mlHomeOpen": "+124",
-   "provider": "Draft Kings",
-   "spread": "UNLV -7",
+   "provider": "DraftKings",
+   "spread": "UNLV -6.5",
    "spreadOpen": "UNLV -3",
    "total": "46.5",
    "totalOpen": "49.5"
@@ -5202,7 +5391,7 @@
   "stars": 3,
   "start": "2026-11-22T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "CEFCU Stadium, San Jose"
  },
  "ncaaf-401864545": {
@@ -5236,17 +5425,17 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864545",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "+1100",
    "mlAwayOpen": "+1300",
    "mlHome": "-2100",
    "mlHomeOpen": "-2800",
-   "provider": "Draft Kings",
-   "spread": "AF -22.5",
+   "provider": "DraftKings",
+   "spread": "AF -21.5",
    "spreadOpen": "AFA -21.5",
    "total": "47.5",
    "totalOpen": "46.5"
@@ -5260,7 +5449,7 @@
   "stars": 2,
   "start": "2026-11-21T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Falcon Stadium, USAF Academy"
  },
  "ncaaf-401866464": {
@@ -5410,16 +5599,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401866468",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "+525",
    "mlAwayOpen": "+500",
    "mlHome": "-750",
    "mlHomeOpen": "-700",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "TOL -16.5",
    "spreadOpen": "TOL -15.5",
    "total": "48.5",
@@ -5434,7 +5623,7 @@
   "stars": 2,
   "start": "2026-11-21T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Glass Bowl, Toledo"
  },
  "ncaaf-401866469": {
@@ -5523,19 +5712,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869929",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "+455",
    "mlAwayOpen": "+425",
    "mlHome": "-625",
    "mlHomeOpen": "-575",
-   "provider": "Draft Kings",
-   "spread": "APP -14",
+   "provider": "DraftKings",
+   "spread": "APP -13.5",
    "spreadOpen": "APP -13.5",
-   "total": "50.5",
+   "total": "49.5",
    "totalOpen": "50.5"
   },
   "pick": "APP ML (-625)",
@@ -5547,7 +5736,7 @@
   "stars": 2,
   "start": "2026-11-21T19:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Kidd Brewer Stadium, Boone"
  },
  "ncaaf-401869938": {
@@ -5581,16 +5770,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869938",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "+425",
    "mlAwayOpen": "+575",
    "mlHome": "-575",
    "mlHomeOpen": "-850",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "LT -14",
    "spreadOpen": "LT -16.5",
    "total": "53.5",
@@ -5607,7 +5796,7 @@
   "stars": 3,
   "start": "2026-11-22T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Joe Aillet Stadium, Ruston"
  },
  "ncaaf-401869946": {
@@ -5641,16 +5830,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869946",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "+310",
    "mlAwayOpen": "+225",
    "mlHome": "-395",
    "mlHomeOpen": "-278",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UL -10.5",
    "spreadOpen": "UL -7.5",
    "total": "50.5",
@@ -5665,11 +5854,11 @@
   "stars": 3,
   "start": "2026-11-21T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Our Lady of Lourdes Stadium, Lafayette"
  },
  "ncaaf-401869953": {
-  "_lastPick": "GASO ML (-340)",
+  "_lastPick": "GASO ML (-355)",
   "away": {
    "abbr": "GASO",
    "form": "WWWWL",
@@ -5678,7 +5867,7 @@
    "short": "GA Southern",
    "teamId": "290"
   },
-  "confidence": 72,
+  "confidence": 73,
   "espnId": "401869953",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -5699,23 +5888,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869953",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
-   "mlAway": "-340",
+   "mlAway": "-355",
    "mlAwayOpen": "-325",
-   "mlHome": "+270",
+   "mlHome": "+280",
    "mlHomeOpen": "+260",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "GASO -9.5",
    "spreadOpen": "GASO -8.5",
    "total": "48.5",
    "totalOpen": "47.5"
   },
-  "pick": "GASO ML (-340)",
-  "reason": "GASO are about 74% no-vig at -340; ESPN's model has 74%. For: form WWWWL vs LLWLL.",
+  "pick": "GASO ML (-355)",
+  "reason": "GASO are about 75% no-vig at -355; ESPN's model has 74%. For: form WWWWL vs LLWLL.",
   "risks": [],
   "side": "away",
   "slug": "college-football",
@@ -5723,7 +5912,7 @@
   "stars": 3,
   "start": "2026-11-21T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Veterans Memorial Stadium (AL), Troy"
  },
  "ncaaf-401869958": {
@@ -5755,16 +5944,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401869958",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "+110",
    "mlAwayOpen": "-118",
    "mlHome": "-130",
    "mlHomeOpen": "-102",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "MRSH -2.5",
    "spreadOpen": "GAST -1.5",
    "total": "55.5",
@@ -5780,7 +5969,7 @@
   "stars": 1,
   "start": "2026-11-21T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Joan C. Edwards Stadium, Huntington"
  },
  "ncaaf-401871077": {
@@ -5812,16 +6001,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401871077",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "-166",
    "mlAwayOpen": "-185",
    "mlHome": "+140",
    "mlHomeOpen": "+154",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "DEL -3",
    "spreadOpen": "DEL -4.5",
    "total": "54.5",
@@ -5835,7 +6024,7 @@
   "stars": 1,
   "start": "2026-11-21T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Aggie Memorial Stadium, Las Cruces"
  },
  "ncaaf-401871078": {
@@ -5869,16 +6058,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871078",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "+136",
    "mlAwayOpen": "+145",
    "mlHome": "-162",
    "mlHomeOpen": "-175",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "KENN -3.5",
    "spreadOpen": "KENN -4",
    "total": "44.5",
@@ -5893,7 +6082,7 @@
   "stars": 2,
   "start": "2026-11-21T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Walens Family Field at Fifth Third Stadium, Kennesaw"
  },
  "ncaaf-401871079": {
@@ -5927,19 +6116,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871079",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "+320",
    "mlAwayOpen": "+270",
    "mlHome": "-410",
    "mlHomeOpen": "-340",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "JXST -10.5",
    "spreadOpen": "JXST -10.5",
-   "total": "53.5",
+   "total": "52.5",
    "totalOpen": "53.5"
   },
   "pick": "JXST ML (-410)",
@@ -5951,7 +6140,7 @@
   "stars": 3,
   "start": "2026-11-21T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "AmFirst Stadium, Jacksonville"
  },
  "ncaaf-401871080": {
@@ -5985,16 +6174,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871080",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "+600",
    "mlAwayOpen": "+455",
    "mlHome": "-900",
    "mlHomeOpen": "-625",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "LIB -17.5",
    "spreadOpen": "LIB -14.5",
    "total": "53.5",
@@ -6009,11 +6198,11 @@
   "stars": 3,
   "start": "2026-11-21T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Williams Stadium (VA), Lynchburg"
  },
  "ncaaf-401871081": {
-  "_lastPick": "MTSU ML (-218)",
+  "_lastPick": "MTSU ML (-230)",
   "away": {
    "abbr": "MTSU",
    "form": "LWLWW",
@@ -6022,7 +6211,7 @@
    "short": "MTSU",
    "teamId": "2393"
   },
-  "confidence": 63,
+  "confidence": 64,
   "espnId": "401871081",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -6043,23 +6232,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871081",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
-   "mlAway": "-218",
+   "mlAway": "-230",
    "mlAwayOpen": "-205",
-   "mlHome": "+180",
+   "mlHome": "+190",
    "mlHomeOpen": "+170",
-   "provider": "Draft Kings",
-   "spread": "MTSU -5.5",
+   "provider": "DraftKings",
+   "spread": "MTSU -6",
    "spreadOpen": "MTSU -5.5",
    "total": "48.5",
    "totalOpen": "49.5"
   },
-  "pick": "MTSU ML (-218)",
-  "reason": "MTSU are about 66% no-vig at -218; ESPN's model has 63%. For: form LWLWW vs LLLLL.",
+  "pick": "MTSU ML (-230)",
+  "reason": "MTSU are about 67% no-vig at -230; ESPN's model has 63%. For: form LWLWW vs LLLLL.",
   "risks": [],
   "side": "away",
   "slug": "college-football",
@@ -6067,7 +6256,7 @@
   "stars": 2,
   "start": "2026-11-21T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Elliott T. Bowers Stadium, Huntsville"
  },
  "ncaaf-401871101": {
@@ -6101,16 +6290,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871101",
   "market": "Moneyline",
   "news": [
-   "Will Georgia or the field win CFP title?",
-   "College Football on ESPN:  John Legend goes wild for the CFP.",
-   "Should UCLA be on upset alert at Michigan?"
+   "James Madison moving to American Conference in 2027",
+   "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+   "Michigan WR Andrew Marsh facing misdemeanor indecent exposure charge"
   ],
   "odds": {
    "mlAway": "-185",
    "mlAwayOpen": "-192",
    "mlHome": "+154",
    "mlHomeOpen": "+160",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "USA -3.5",
    "spreadOpen": "USA -5.5",
    "total": "66.5",
@@ -6125,11 +6314,11 @@
   "stars": 2,
   "start": "2026-11-21T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "M. M. Roberts Stadium, Hattiesburg"
  },
  "nfl-401873066": {
-  "_lastPick": "HOU ML (-740)",
+  "_lastPick": "HOU ML (-690)",
   "away": {
    "abbr": "IND",
    "form": "WLLLL",
@@ -6144,7 +6333,7 @@
    "short": "Colts",
    "teamId": "11"
   },
-  "confidence": 78,
+  "confidence": 77,
   "espnId": "401873066",
   "espnLeague": "nfl",
   "espnSport": "football",
@@ -6156,7 +6345,6 @@
    "abbr": "HOU",
    "form": "LWLWW",
    "injuries": [
-    "Jaylin Smith (CB) – Injured Reserve, Hamstring",
     "Danielle Hunter (DE) – Out, Hamstring",
     "Brevin Jordan (TE) – Out, Foot"
    ],
@@ -6200,13 +6388,6 @@
    "home": [
     {
      "detail": "Hamstring",
-     "player": "Jaylin Smith",
-     "pos": "CB",
-     "stale": false,
-     "status": "Injured Reserve"
-    },
-    {
-     "detail": "Hamstring",
      "player": "Danielle Hunter",
      "pos": "DE",
      "stale": false,
@@ -6225,25 +6406,25 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873066",
   "market": "Moneyline",
   "news": [
-   "Fantasy football flex and superflex rankings for Week 11",
-   "'A walking atrocity!' Stephen A. can't even laugh about Cowboys' defense",
-   "'Protect yourself': Stephen A. implores Skattebo to end backflips"
+   "Reeling Jets head to LA to face Chargers, who are coming off their first win of the season",
+   "Bills get chance to feast on another backup QB with Kyle McCord and Miami Dolphins up next",
+   "Saints, Justin Reid 'working through' potential release"
   ],
   "odds": {
-   "mlAway": "+527",
+   "mlAway": "+499",
    "mlAwayOpen": "+195",
-   "mlHome": "-740",
+   "mlHome": "-690",
    "mlHomeOpen": "-238",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "HOU -12.5",
    "spreadOpen": "HOU -5.5",
-   "total": "43.5",
+   "total": "44.5",
    "totalOpen": "45.5"
   },
-  "pick": "HOU ML (-740)",
-  "reason": "HOU are about 85% no-vig at -740; ESPN's model has 75%. For: line moved toward HOU (-238 → -740).",
+  "pick": "HOU ML (-690)",
+  "reason": "HOU are about 84% no-vig at -690; ESPN's model has 75%. For: line moved toward HOU (-238 → -690).",
   "risks": [
-   "ESPN model only 75% vs market 85%"
+   "ESPN model only 75% vs market 84%"
   ],
   "side": "home",
   "slug": "nfl",
@@ -6251,8 +6432,903 @@
   "stars": 2,
   "start": "2026-11-20T01:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Reliant Stadium, Houston"
+ },
+ "nfl-401873067": {
+  "_lastPick": "KC ML (-1420)",
+  "away": {
+   "abbr": "ARI",
+   "form": "LLWLW",
+   "injuries": [
+    "James Conner (RB) – Injured Reserve, Foot"
+   ],
+   "name": "Arizona Cardinals",
+   "record": "3-7",
+   "short": "Cardinals",
+   "teamId": "22"
+  },
+  "confidence": 86,
+  "espnId": "401873067",
+  "espnLeague": "nfl",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 11.6,
+   "home": 88.3
+  },
+  "home": {
+   "abbr": "KC",
+   "form": "WWLLW",
+   "injuries": [
+    "Jared Wiley (TE) – Injured Reserve, Ankle"
+   ],
+   "name": "Kansas City Chiefs",
+   "record": "7-2",
+   "short": "Chiefs",
+   "teamId": "12"
+  },
+  "id": "nfl-401873067",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Foot",
+     "player": "James Conner",
+     "pos": "RB",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Ankle",
+     "player": "Jared Wiley",
+     "pos": "TE",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ]
+  },
+  "league": "NFL",
+  "link": "https://www.espn.com/nfl/game/_/gameId/401873067",
+  "market": "Moneyline",
+  "news": [
+   "Reeling Jets head to LA to face Chargers, who are coming off their first win of the season",
+   "Bills get chance to feast on another backup QB with Kyle McCord and Miami Dolphins up next",
+   "Saints, Justin Reid 'working through' potential release"
+  ],
+  "odds": {
+   "mlAway": "+840",
+   "mlAwayOpen": "+440",
+   "mlHome": "-1420",
+   "mlHomeOpen": "-600",
+   "provider": "DraftKings",
+   "spread": "KC -16.5",
+   "spreadOpen": "KC -11.5",
+   "total": "40.5",
+   "totalOpen": "44.5"
+  },
+  "pick": "KC ML (-1420)",
+  "reason": "KC are about 90% no-vig at -1420; ESPN's model has 88%. For: line moved toward KC (-600 → -1420).",
+  "risks": [],
+  "side": "home",
+  "slug": "nfl",
+  "sport": "nfl",
+  "stars": 3,
+  "start": "2026-11-22T18:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T23:14:02Z",
+  "venue": "Arrowhead Stadium, Kansas City"
+ },
+ "nfl-401873068": {
+  "_lastPick": "CAR ML (-146)",
+  "away": {
+   "abbr": "BAL",
+   "form": "LLLLL",
+   "injuries": [
+    "Marlon Humphrey (CB) – Out, Coach's Decision",
+    "Lamar Jackson (QB) – Injured Reserve, Thumb"
+   ],
+   "name": "Baltimore Ravens",
+   "record": "4-6",
+   "short": "Ravens",
+   "teamId": "33"
+  },
+  "confidence": 59,
+  "espnId": "401873068",
+  "espnLeague": "nfl",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 31.0,
+   "home": 68.7
+  },
+  "home": {
+   "abbr": "CAR",
+   "form": "WLLLW",
+   "injuries": [
+    "Jonathon Brooks (RB) – Injured Reserve, Groin"
+   ],
+   "name": "Carolina Panthers",
+   "record": "4-5",
+   "short": "Panthers",
+   "teamId": "29"
+  },
+  "id": "nfl-401873068",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Coach's Decision",
+     "player": "Marlon Humphrey",
+     "pos": "CB",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Thumb",
+     "player": "Lamar Jackson",
+     "pos": "QB",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Groin",
+     "player": "Jonathon Brooks",
+     "pos": "RB",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ]
+  },
+  "league": "NFL",
+  "link": "https://www.espn.com/nfl/game/_/gameId/401873068",
+  "market": "Moneyline",
+  "news": [
+   "Reeling Jets head to LA to face Chargers, who are coming off their first win of the season",
+   "Bills get chance to feast on another backup QB with Kyle McCord and Miami Dolphins up next",
+   "Saints, Justin Reid 'working through' potential release"
+  ],
+  "odds": {
+   "mlAway": "+123",
+   "mlAwayOpen": "-218",
+   "mlHome": "-146",
+   "mlHomeOpen": "+180",
+   "provider": "DraftKings",
+   "spread": "CAR -3",
+   "spreadOpen": "BAL -4.5",
+   "total": "43.5",
+   "totalOpen": "46.5"
+  },
+  "pick": "CAR ML (-146)",
+  "reason": "CAR are about 57% no-vig at -146; ESPN's model has 69%. For: ESPN model 69% vs market 57%; line moved toward CAR (+180 → -146).",
+  "risks": [],
+  "side": "home",
+  "slug": "nfl",
+  "sport": "nfl",
+  "stars": 2,
+  "start": "2026-11-22T18:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T23:14:02Z",
+  "venue": "Bank of America Stadium, Charlotte"
+ },
+ "nfl-401873069": {
+  "_lastPick": "JAX ML (-263)",
+  "away": {
+   "abbr": "JAX",
+   "form": "WWWLW",
+   "injuries": [],
+   "name": "Jacksonville Jaguars",
+   "record": "7-2",
+   "short": "Jaguars",
+   "teamId": "30"
+  },
+  "confidence": 71,
+  "espnId": "401873069",
+  "espnLeague": "nfl",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 80.8,
+   "home": 19.0
+  },
+  "home": {
+   "abbr": "NYG",
+   "form": "LWWLT",
+   "injuries": [
+    "Tyrone Tracy Jr. (RB) – Injured Reserve, Hamstring"
+   ],
+   "name": "New York Giants",
+   "record": "5-3-1",
+   "short": "Giants",
+   "teamId": "19"
+  },
+  "id": "nfl-401873069",
+  "injuriesRaw": {
+   "away": [],
+   "home": [
+    {
+     "detail": "Hamstring",
+     "player": "Tyrone Tracy Jr.",
+     "pos": "RB",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Chest",
+     "player": "Tremaine Edmunds",
+     "pos": "LB",
+     "stale": true,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Foot",
+     "player": "Braxton Berrios",
+     "pos": "WR",
+     "stale": true,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Neck",
+     "player": "Chauncey Golston",
+     "pos": "DE",
+     "stale": true,
+     "status": "Injured Reserve"
+    }
+   ]
+  },
+  "league": "NFL",
+  "link": "https://www.espn.com/nfl/game/_/gameId/401873069",
+  "market": "Moneyline",
+  "news": [
+   "Reeling Jets head to LA to face Chargers, who are coming off their first win of the season",
+   "Bills get chance to feast on another backup QB with Kyle McCord and Miami Dolphins up next",
+   "Saints, Justin Reid 'working through' potential release"
+  ],
+  "odds": {
+   "mlAway": "-263",
+   "mlAwayOpen": "-125",
+   "mlHome": "+217",
+   "mlHomeOpen": "+105",
+   "provider": "DraftKings",
+   "spread": "JAX -6",
+   "spreadOpen": "JAX -1.5",
+   "total": "46.5",
+   "totalOpen": "46.5"
+  },
+  "pick": "JAX ML (-263)",
+  "reason": "JAX are about 70% no-vig at -263; ESPN's model has 81%. For: ESPN model 81% vs market 70%; line moved toward JAX (-125 → -263).",
+  "risks": [],
+  "side": "away",
+  "slug": "nfl",
+  "sport": "nfl",
+  "stars": 4,
+  "start": "2026-11-22T21:25Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T23:14:02Z",
+  "venue": "MetLife Stadium, East Rutherford"
+ },
+ "nfl-401873070": {
+  "_lastPick": "BUF ML (-1440)",
+  "away": {
+   "abbr": "MIA",
+   "form": "LLLWL",
+   "injuries": [
+    "Darrell Baker Jr. (CB) – Out, Knee"
+   ],
+   "name": "Miami Dolphins",
+   "record": "1-8",
+   "short": "Dolphins",
+   "teamId": "15"
+  },
+  "confidence": 90,
+  "espnId": "401873070",
+  "espnLeague": "nfl",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 5.2,
+   "home": 94.8
+  },
+  "home": {
+   "abbr": "BUF",
+   "form": "WWWWW",
+   "injuries": [],
+   "name": "Buffalo Bills",
+   "record": "8-1",
+   "short": "Bills",
+   "teamId": "2"
+  },
+  "id": "nfl-401873070",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Knee",
+     "player": "Darrell Baker Jr.",
+     "pos": "CB",
+     "stale": false,
+     "status": "Out"
+    }
+   ],
+   "home": []
+  },
+  "league": "NFL",
+  "link": "https://www.espn.com/nfl/game/_/gameId/401873070",
+  "market": "Moneyline",
+  "news": [
+   "Reeling Jets head to LA to face Chargers, who are coming off their first win of the season",
+   "Bills get chance to feast on another backup QB with Kyle McCord and Miami Dolphins up next",
+   "Saints, Justin Reid 'working through' potential release"
+  ],
+  "odds": {
+   "mlAway": "+850",
+   "mlAwayOpen": "+440",
+   "mlHome": "-1440",
+   "mlHomeOpen": "-600",
+   "provider": "DraftKings",
+   "spread": "BUF -16.5",
+   "spreadOpen": "BUF -11.5",
+   "total": "44.5",
+   "totalOpen": "47.5"
+  },
+  "pick": "BUF ML (-1440)",
+  "reason": "BUF are about 90% no-vig at -1440; ESPN's model has 95%. For: line moved toward BUF (-600 → -1440); form WWWWW vs LLLWL.",
+  "risks": [],
+  "side": "home",
+  "slug": "nfl",
+  "sport": "nfl",
+  "stars": 3,
+  "start": "2026-11-22T18:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T23:14:02Z",
+  "venue": "Highmark Stadium, Orchard Park"
+ },
+ "nfl-401873071": {
+  "_lastPick": "CHI ML (-610)",
+  "away": {
+   "abbr": "NO",
+   "form": "LWLWL",
+   "injuries": [
+    "Erik McCoy (C) – Doubtful, Biceps"
+   ],
+   "name": "New Orleans Saints",
+   "record": "3-6",
+   "short": "Saints",
+   "teamId": "18"
+  },
+  "confidence": 78,
+  "espnId": "401873071",
+  "espnLeague": "nfl",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 21.3,
+   "home": 78.5
+  },
+  "home": {
+   "abbr": "CHI",
+   "form": "WWWWL",
+   "injuries": [
+    "Zavier Scott (RB) – Injured Reserve, Wrist",
+    "Kentavius Street (DT) – Injured Reserve, Knee",
+    "Braxton Jones (OT) – Injured Reserve, Knee"
+   ],
+   "name": "Chicago Bears",
+   "record": "7-2",
+   "short": "Bears",
+   "teamId": "3"
+  },
+  "id": "nfl-401873071",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Biceps",
+     "player": "Erik McCoy",
+     "pos": "C",
+     "stale": false,
+     "status": "Doubtful"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Wrist",
+     "player": "Zavier Scott",
+     "pos": "RB",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Knee",
+     "player": "Kentavius Street",
+     "pos": "DT",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Knee",
+     "player": "Braxton Jones",
+     "pos": "OT",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ]
+  },
+  "league": "NFL",
+  "link": "https://www.espn.com/nfl/game/_/gameId/401873071",
+  "market": "Moneyline",
+  "news": [
+   "Reeling Jets head to LA to face Chargers, who are coming off their first win of the season",
+   "Bills get chance to feast on another backup QB with Kyle McCord and Miami Dolphins up next",
+   "Saints, Justin Reid 'working through' potential release"
+  ],
+  "odds": {
+   "mlAway": "+448",
+   "mlAwayOpen": "+225",
+   "mlHome": "-610",
+   "mlHomeOpen": "-278",
+   "provider": "DraftKings",
+   "spread": "CHI -11.5",
+   "spreadOpen": "CHI -6.5",
+   "total": "48.5",
+   "totalOpen": "46.5"
+  },
+  "pick": "CHI ML (-610)",
+  "reason": "CHI are about 82% no-vig at -610; ESPN's model has 78%. For: line moved toward CHI (-278 → -610).",
+  "risks": [],
+  "side": "home",
+  "slug": "nfl",
+  "sport": "nfl",
+  "stars": 2,
+  "start": "2026-11-22T18:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T23:14:02Z",
+  "venue": "Soldier Field, Chicago"
+ },
+ "nfl-401873072": {
+  "_lastPick": "DET ML (-281)",
+  "away": {
+   "abbr": "TB",
+   "form": "LWWLW",
+   "injuries": [
+    "Josh Hayes (CB) – Injured Reserve, Knee",
+    "Jalen McMillan (WR) – Injured Reserve, Knee - PCL"
+   ],
+   "name": "Tampa Bay Buccaneers",
+   "record": "3-6",
+   "short": "Buccaneers",
+   "teamId": "27"
+  },
+  "confidence": 64,
+  "espnId": "401873072",
+  "espnLeague": "nfl",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 38.4,
+   "home": 61.3
+  },
+  "home": {
+   "abbr": "DET",
+   "form": "WWWWW",
+   "injuries": [
+    "Aidan Hutchinson (DE) – Injured Reserve, Knee - ACL"
+   ],
+   "name": "Detroit Lions",
+   "record": "7-2",
+   "short": "Lions",
+   "teamId": "8"
+  },
+  "id": "nfl-401873072",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Knee",
+     "player": "Josh Hayes",
+     "pos": "CB",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Knee - PCL",
+     "player": "Jalen McMillan",
+     "pos": "WR",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Knee - ACL",
+     "player": "Aidan Hutchinson",
+     "pos": "DE",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ]
+  },
+  "league": "NFL",
+  "link": "https://www.espn.com/nfl/game/_/gameId/401873072",
+  "market": "Moneyline",
+  "news": [
+   "Reeling Jets head to LA to face Chargers, who are coming off their first win of the season",
+   "Bills get chance to feast on another backup QB with Kyle McCord and Miami Dolphins up next",
+   "Saints, Justin Reid 'working through' potential release"
+  ],
+  "odds": {
+   "mlAway": "+230",
+   "mlAwayOpen": "+190",
+   "mlHome": "-281",
+   "mlHomeOpen": "-230",
+   "provider": "DraftKings",
+   "spread": "DET -6",
+   "spreadOpen": "DET -4.5",
+   "total": "45.5",
+   "totalOpen": "49.5"
+  },
+  "pick": "DET ML (-281)",
+  "reason": "DET are about 71% no-vig at -281; ESPN's model has 61%. For: line moved toward DET (-230 → -281).",
+  "risks": [
+   "ESPN model only 61% vs market 71%"
+  ],
+  "side": "home",
+  "slug": "nfl",
+  "sport": "nfl",
+  "stars": 2,
+  "start": "2026-11-22T18:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T23:14:02Z",
+  "venue": "Ford Field, Detroit"
+ },
+ "nfl-401873073": {
+  "_lastPick": "DAL ML (-388)",
+  "away": {
+   "abbr": "TEN",
+   "form": "LLLWL",
+   "injuries": [],
+   "name": "Tennessee Titans",
+   "record": "1-8",
+   "short": "Titans",
+   "teamId": "10"
+  },
+  "confidence": 75,
+  "espnId": "401873073",
+  "espnLeague": "nfl",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 19.3,
+   "home": 80.5
+  },
+  "home": {
+   "abbr": "DAL",
+   "form": "LWLWL",
+   "injuries": [
+    "Jalen Thompson (S) – Injured Reserve, Hamstring",
+    "Jake Ferguson (TE) – Out, Knee"
+   ],
+   "name": "Dallas Cowboys",
+   "record": "4-6",
+   "short": "Cowboys",
+   "teamId": "6"
+  },
+  "id": "nfl-401873073",
+  "injuriesRaw": {
+   "away": [],
+   "home": [
+    {
+     "detail": "Hamstring",
+     "player": "Jalen Thompson",
+     "pos": "S",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Knee",
+     "player": "Jake Ferguson",
+     "pos": "TE",
+     "stale": false,
+     "status": "Out"
+    }
+   ]
+  },
+  "league": "NFL",
+  "link": "https://www.espn.com/nfl/game/_/gameId/401873073",
+  "market": "Moneyline",
+  "news": [
+   "Reeling Jets head to LA to face Chargers, who are coming off their first win of the season",
+   "Bills get chance to feast on another backup QB with Kyle McCord and Miami Dolphins up next",
+   "Saints, Justin Reid 'working through' potential release"
+  ],
+  "odds": {
+   "mlAway": "+308",
+   "mlAwayOpen": "+235",
+   "mlHome": "-388",
+   "mlHomeOpen": "-290",
+   "provider": "DraftKings",
+   "spread": "DAL -8.5",
+   "spreadOpen": "DAL -6.5",
+   "total": "55.5",
+   "totalOpen": "48.5"
+  },
+  "pick": "DAL ML (-388)",
+  "reason": "DAL are about 76% no-vig at -388; ESPN's model has 80%. For: line moved toward DAL (-290 → -388).",
+  "risks": [],
+  "side": "home",
+  "slug": "nfl",
+  "sport": "nfl",
+  "stars": 3,
+  "start": "2026-11-22T18:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T23:14:02Z",
+  "venue": "AT&T Stadium, Arlington"
+ },
+ "nfl-401873074": {
+  "_lastPick": "LAC ML (-170)",
+  "away": {
+   "abbr": "NYJ",
+   "form": "LLLLL",
+   "injuries": [
+    "David Onyemata (DT) – Injured Reserve, Abdomen"
+   ],
+   "name": "New York Jets",
+   "record": "2-8",
+   "short": "Jets",
+   "teamId": "20"
+  },
+  "confidence": 59,
+  "espnId": "401873074",
+  "espnLeague": "nfl",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 30.2,
+   "home": 69.5
+  },
+  "home": {
+   "abbr": "LAC",
+   "form": "WLLLL",
+   "injuries": [],
+   "name": "Los Angeles Chargers",
+   "record": "1-8",
+   "short": "Chargers",
+   "teamId": "24"
+  },
+  "id": "nfl-401873074",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Abdomen",
+     "player": "David Onyemata",
+     "pos": "DT",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ],
+   "home": []
+  },
+  "league": "NFL",
+  "link": "https://www.espn.com/nfl/game/_/gameId/401873074",
+  "market": "Moneyline",
+  "news": [
+   "Reeling Jets head to LA to face Chargers, who are coming off their first win of the season",
+   "Bills get chance to feast on another backup QB with Kyle McCord and Miami Dolphins up next",
+   "Saints, Justin Reid 'working through' potential release"
+  ],
+  "odds": {
+   "mlAway": "+143",
+   "mlAwayOpen": "+340",
+   "mlHome": "-170",
+   "mlHomeOpen": "-440",
+   "provider": "DraftKings",
+   "spread": "LAC -3",
+   "spreadOpen": "LAC -9.5",
+   "total": "41.5",
+   "totalOpen": "41.5"
+  },
+  "pick": "LAC ML (-170)",
+  "reason": "LAC are about 60% no-vig at -170; ESPN's model has 70%. For: ESPN model 70% vs market 60%.",
+  "risks": [
+   "line drifted away (-440 → -170)"
+  ],
+  "side": "home",
+  "slug": "nfl",
+  "sport": "nfl",
+  "stars": 2,
+  "start": "2026-11-22T21:05Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T23:14:02Z",
+  "venue": "SoFi Stadium, Inglewood"
+ },
+ "nfl-401873075": {
+  "_lastPick": "DEN ML (-590)",
+  "away": {
+   "abbr": "LV",
+   "form": "LLWLL",
+   "injuries": [],
+   "name": "Las Vegas Raiders",
+   "record": "4-6",
+   "short": "Raiders",
+   "teamId": "13"
+  },
+  "confidence": 82,
+  "espnId": "401873075",
+  "espnLeague": "nfl",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 13.6,
+   "home": 86.3
+  },
+  "home": {
+   "abbr": "DEN",
+   "form": "WWWWW",
+   "injuries": [
+    "Caleb Lohner (TE) – Injured Reserve, Foot",
+    "Eyioma Uwazurike (DE) – Injured Reserve, Shoulder"
+   ],
+   "name": "Denver Broncos",
+   "record": "7-2",
+   "short": "Broncos",
+   "teamId": "7"
+  },
+  "id": "nfl-401873075",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Neck",
+     "player": "Patrick Johnson",
+     "pos": "DE",
+     "stale": true,
+     "status": "Injured Reserve"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Foot",
+     "player": "Caleb Lohner",
+     "pos": "TE",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Shoulder",
+     "player": "Eyioma Uwazurike",
+     "pos": "DE",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ]
+  },
+  "league": "NFL",
+  "link": "https://www.espn.com/nfl/game/_/gameId/401873075",
+  "market": "Moneyline",
+  "news": [
+   "Reeling Jets head to LA to face Chargers, who are coming off their first win of the season",
+   "Bills get chance to feast on another backup QB with Kyle McCord and Miami Dolphins up next",
+   "Saints, Justin Reid 'working through' potential release"
+  ],
+  "odds": {
+   "mlAway": "+441",
+   "mlAwayOpen": "+330",
+   "mlHome": "-590",
+   "mlHomeOpen": "-425",
+   "provider": "DraftKings",
+   "spread": "DEN -10",
+   "spreadOpen": "DEN -8.5",
+   "total": "40.5",
+   "totalOpen": "41.5"
+  },
+  "pick": "DEN ML (-590)",
+  "reason": "DEN are about 82% no-vig at -590; ESPN's model has 86%. For: line moved toward DEN (-425 → -590); form WWWWW vs LLWLL.",
+  "risks": [],
+  "side": "home",
+  "slug": "nfl",
+  "sport": "nfl",
+  "stars": 3,
+  "start": "2026-11-22T21:25Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T23:14:02Z",
+  "venue": "Empower Field at Mile High, Denver"
+ },
+ "nfl-401873076": {
+  "_lastPick": "PIT ML (-205)",
+  "away": {
+   "abbr": "PIT",
+   "form": "LWWWW",
+   "injuries": [
+    "Roman Wilson (WR) – Injured Reserve, Finger",
+    "Michael Pittman Jr. (WR) – Injured Reserve, Foot",
+    "Gennings Dunker (G) – Injured Reserve, Knee",
+    "Mason McCormick (G) – Injured Reserve, Ankle"
+   ],
+   "name": "Pittsburgh Steelers",
+   "record": "6-3",
+   "short": "Steelers",
+   "teamId": "23"
+  },
+  "confidence": 62,
+  "espnId": "401873076",
+  "espnLeague": "nfl",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 63.9,
+   "home": 35.8
+  },
+  "home": {
+   "abbr": "PHI",
+   "form": "LLLLL",
+   "injuries": [
+    "Will Shipley (RB) – Injured Reserve, Foot"
+   ],
+   "name": "Philadelphia Eagles",
+   "record": "2-7",
+   "short": "Eagles",
+   "teamId": "21"
+  },
+  "id": "nfl-401873076",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Finger",
+     "player": "Roman Wilson",
+     "pos": "WR",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Foot",
+     "player": "Michael Pittman Jr.",
+     "pos": "WR",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Knee",
+     "player": "Gennings Dunker",
+     "pos": "G",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Mason McCormick",
+     "pos": "G",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Foot",
+     "player": "Will Shipley",
+     "pos": "RB",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ]
+  },
+  "league": "NFL",
+  "link": "https://www.espn.com/nfl/game/_/gameId/401873076",
+  "market": "Moneyline",
+  "news": [
+   "Reeling Jets head to LA to face Chargers, who are coming off their first win of the season",
+   "Bills get chance to feast on another backup QB with Kyle McCord and Miami Dolphins up next",
+   "Saints, Justin Reid 'working through' potential release"
+  ],
+  "odds": {
+   "mlAway": "-205",
+   "mlAwayOpen": "+205",
+   "mlHome": "+172",
+   "mlHomeOpen": "-250",
+   "provider": "DraftKings",
+   "spread": "PIT -4.5",
+   "spreadOpen": "PHI -5.5",
+   "total": "37.5",
+   "totalOpen": "42.5"
+  },
+  "pick": "PIT ML (-205)",
+  "reason": "PIT are about 65% no-vig at -205; ESPN's model has 64%. For: line moved toward PIT (+205 → -205); form LWWWW vs LLLLL.",
+  "risks": [],
+  "side": "away",
+  "slug": "nfl",
+  "sport": "nfl",
+  "stars": 2,
+  "start": "2026-11-22T18:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T23:14:02Z",
+  "venue": "Lincoln Financial Field, Philadelphia"
  },
  "soccer-401874960": {
   "away": {
@@ -6303,7 +7379,7 @@
   "stars": 1,
   "start": "2026-11-22T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Mapei Stadium, Reggio Emilia"
  },
  "soccer-401874967": {
@@ -6358,7 +7434,7 @@
   "stars": 2,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Ennio Tardini, Parma"
  },
  "soccer-401874981": {
@@ -6413,8 +7489,115 @@
   "stars": 3,
   "start": "2026-11-21T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Olimpico, Roma"
+ },
+ "soccer-401874989": {
+  "_lastPick": "Milan ML (-190)",
+  "away": {
+   "abbr": "FRO",
+   "form": "LWWDW",
+   "name": "Frosinone",
+   "record": "6-2-3",
+   "short": "Frosinone",
+   "teamId": "4057"
+  },
+  "confidence": 58,
+  "espnId": "401874989",
+  "espnLeague": "ita.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "MIL",
+   "form": "WLWLW",
+   "name": "AC Milan",
+   "record": "7-3-1",
+   "short": "Milan",
+   "teamId": "103"
+  },
+  "id": "soccer-401874989",
+  "league": "Serie A",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401874989",
+  "market": "Moneyline",
+  "news": [
+   "How fallen giants and their fans bounce back from scandal, relegation",
+   "Transfer rumors, news: AC Milan, Juventus eye USMNT's Folarin Balogun",
+   "Transfer rumors, news: Man United eye USMNT's McKennie amid Pochettino arrival"
+  ],
+  "odds": {
+   "mlAway": "+400",
+   "mlAwayOpen": "+390",
+   "mlDraw": "+340",
+   "mlHome": "-190",
+   "mlHomeOpen": "-200",
+   "provider": "DraftKings",
+   "spread": "MIL -190",
+   "spreadOpen": "MIL -1.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Milan ML (-190)",
+  "reason": "Milan are about 61% no-vig at -190.",
+  "risks": [],
+  "side": "home",
+  "slug": "ita.1",
+  "sport": "soccer",
+  "stars": 2,
+  "start": "2026-11-22T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T23:14:02Z",
+  "venue": "San Siro, Milano"
+ },
+ "soccer-401875001": {
+  "away": {
+   "abbr": "INT",
+   "form": "WWLWW",
+   "name": "Internazionale",
+   "record": "9-1-1",
+   "short": "Inter Milan",
+   "teamId": "110"
+  },
+  "confidence": 57,
+  "espnId": "401875001",
+  "espnLeague": "ita.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "ATA",
+   "form": "WDLDD",
+   "name": "Atalanta",
+   "record": "4-2-5",
+   "short": "Atalanta",
+   "teamId": "105"
+  },
+  "id": "soccer-401875001",
+  "league": "Serie A",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401875001",
+  "news": [
+   "How fallen giants and their fans bounce back from scandal, relegation",
+   "Transfer rumors, news: AC Milan, Juventus eye USMNT's Folarin Balogun",
+   "Transfer rumors, news: Man United eye USMNT's McKennie amid Pochettino arrival"
+  ],
+  "odds": {
+   "mlAway": "-180",
+   "mlAwayOpen": "-175",
+   "mlDraw": "+340",
+   "mlHome": "+370",
+   "mlHomeOpen": "+340",
+   "provider": "DraftKings",
+   "spread": "INT -180",
+   "spreadOpen": "INT -0.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Pass",
+  "reason": "Inter Milan about 59% no-vig at -180; no edge worth a pick.",
+  "risks": [],
+  "slug": "ita.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-22T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T23:14:02Z",
+  "venue": "New Balance Arena, Bergamo"
  },
  "soccer-401875008": {
   "_lastPick": "Juventus ML (-300)",
@@ -6468,7 +7651,7 @@
   "stars": 2,
   "start": "2026-11-22T11:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Allianz Stadium, Torino"
  },
  "soccer-401875047": {
@@ -6520,7 +7703,7 @@
   "stars": 1,
   "start": "2026-11-22T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Renato Dall'Ara, Bologna"
  },
  "soccer-401875056": {
@@ -6575,7 +7758,7 @@
   "stars": 3,
   "start": "2026-11-21T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Giuseppe Sinigaglia, Como"
  },
  "soccer-401875067": {
@@ -6630,7 +7813,7 @@
   "stars": 2,
   "start": "2026-11-21T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Stadio Diego Armando Maradona, Napoli"
  },
  "soccer-401876395": {
@@ -6682,7 +7865,7 @@
   "stars": 1,
   "start": "2026-11-20T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Stade de l'Aube, Paris"
  },
  "soccer-401876396": {
@@ -6736,7 +7919,7 @@
   "stars": 1,
   "start": "2026-11-21T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Stade de la Meinau, Strasbourg"
  },
  "soccer-401876397": {
@@ -6791,7 +7974,7 @@
   "stars": 3,
   "start": "2026-11-22T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Stade Jean Bouin, Paris"
  },
  "soccer-401876398": {
@@ -6846,7 +8029,7 @@
   "stars": 2,
   "start": "2026-11-21T16:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Allianz Riviera, Nice"
  },
  "soccer-401876399": {
@@ -6901,8 +8084,63 @@
   "stars": 2,
   "start": "2026-11-21T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Stade Louis II, Monaco"
+ },
+ "soccer-401876400": {
+  "_lastPick": "Marseille ML (-210)",
+  "away": {
+   "abbr": "MNS",
+   "form": "DLDLL",
+   "name": "Le Mans",
+   "record": "1-5-4",
+   "short": "Le Mans",
+   "teamId": "2697"
+  },
+  "confidence": 62,
+  "espnId": "401876400",
+  "espnLeague": "fra.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "OLM",
+   "form": "WWWWL",
+   "name": "Marseille",
+   "record": "6-0-4",
+   "short": "Marseille",
+   "teamId": "176"
+  },
+  "id": "soccer-401876400",
+  "league": "Ligue 1",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401876400",
+  "market": "Moneyline",
+  "news": [
+   "Transfer rumors, news: AC Milan, Juventus eye USMNT's Folarin Balogun",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "10 Best: Ranking the world's top men's soccer players ... again!"
+  ],
+  "odds": {
+   "mlAway": "+500",
+   "mlAwayOpen": "+500",
+   "mlDraw": "+380",
+   "mlHome": "-210",
+   "mlHomeOpen": "-225",
+   "provider": "DraftKings",
+   "spread": "OLM -210",
+   "spreadOpen": "OLM -1.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Marseille ML (-210)",
+  "reason": "Marseille are about 64% no-vig at -210. For: form WWWWL vs DLDLL.",
+  "risks": [],
+  "side": "home",
+  "slug": "fra.1",
+  "sport": "soccer",
+  "stars": 2,
+  "start": "2026-11-22T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T23:14:02Z",
+  "venue": "Stade Vélodrome, Marseille"
  },
  "soccer-401876401": {
   "away": {
@@ -6955,7 +8193,7 @@
   "stars": 1,
   "start": "2026-11-22T16:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Stade du Moustoir - Yves Allainmat, Lorient"
  },
  "soccer-401876402": {
@@ -7007,7 +8245,7 @@
   "stars": 1,
   "start": "2026-11-21T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille"
  },
  "soccer-401876403": {
@@ -7059,8 +8297,57 @@
   "stars": 1,
   "start": "2026-11-21T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Stade Bollaert-Delelis, Lens"
+ },
+ "soccer-401877047": {
+  "away": {
+   "abbr": "CAZ",
+   "form": "WWWWW",
+   "name": "Cruz Azul",
+   "record": "10-2-4",
+   "short": "Cruz Azul",
+   "teamId": "218"
+  },
+  "confidence": 39,
+  "espnId": "401877047",
+  "espnLeague": "mex.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "GDL",
+   "form": "DWWWD",
+   "name": "Guadalajara",
+   "record": "8-6-2",
+   "short": "Guadalajara",
+   "teamId": "219"
+  },
+  "id": "soccer-401877047",
+  "league": "Liga MX",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401877047",
+  "odds": {
+   "mlAway": "+175",
+   "mlAwayOpen": "+145",
+   "mlDraw": "+300",
+   "mlHome": "+120",
+   "mlHomeOpen": "+135",
+   "provider": "DraftKings",
+   "spread": "GDL +120",
+   "spreadOpen": "GDL -0.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Pass",
+  "reason": "Guadalajara about 43% no-vig at +120; no edge worth a pick.",
+  "risks": [
+   "opponent in better form (WWWWW)"
+  ],
+  "slug": "mex.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-22T23:07Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T23:14:02Z",
+  "venue": "Estadio Akron, Guadalajara"
  },
  "soccer-401877048": {
   "away": {
@@ -7106,7 +8393,7 @@
   "stars": 1,
   "start": "2026-11-22T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Estadio Universitario, San Nicolás de los Garza"
  },
  "soccer-401877049": {
@@ -7153,7 +8440,7 @@
   "stars": 1,
   "start": "2026-11-22T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Estadio Olímpico Universitario, Mexico City"
  },
  "soccer-401877050": {
@@ -7202,7 +8489,7 @@
   "stars": 1,
   "start": "2026-11-21T22:50Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Estadio Hidalgo, Pachuca"
  },
  "soccer-401877051": {
@@ -7249,7 +8536,7 @@
   "stars": 1,
   "start": "2026-11-21T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Estadio Corona, Torreón"
  },
  "soccer-401877052": {
@@ -7296,7 +8583,7 @@
   "stars": 1,
   "start": "2026-11-21T03:10Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Estadio Caliente, Tijuana"
  },
  "soccer-401877053": {
@@ -7343,7 +8630,7 @@
   "stars": 1,
   "start": "2026-11-21T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Estadio Olímpico Benito Juárez, Ciudad Juárez"
  },
  "soccer-401877054": {
@@ -7373,7 +8660,7 @@
   "odds": {
    "mlAway": "+165",
    "mlAwayOpen": "+140",
-   "mlDraw": "+245",
+   "mlDraw": "+250",
    "mlHome": "+145",
    "mlHomeOpen": "+170",
    "provider": "DraftKings",
@@ -7390,7 +8677,7 @@
   "stars": 1,
   "start": "2026-11-21T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Estadio Cuauhtémoc, Puebla"
  },
  "soccer-401878754": {
@@ -7420,9 +8707,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401878754",
   "market": "Moneyline",
   "news": [
-   "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs",
-   "Valentín Barco on Chelsea career so far: 'I think I can give a lot more'",
-   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world"
+   "Transfer rumors, news: Jarrad Branthwaite to join Manchester United?",
+   "Mauricio Pochettino's 1st Man United training session filmed by drone operator",
+   "Leader in his own way Haaland making 'natural' progression as City veteran"
   ],
   "odds": {
    "mlAway": "+475",
@@ -7445,7 +8732,7 @@
   "stars": 2,
   "start": "2026-11-21T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Tottenham Hotspur Stadium, London"
  },
  "soccer-401878755": {
@@ -7473,9 +8760,9 @@
   "league": "Premier League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401878755",
   "news": [
-   "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs",
-   "Valentín Barco on Chelsea career so far: 'I think I can give a lot more'",
-   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world"
+   "Transfer rumors, news: Jarrad Branthwaite to join Manchester United?",
+   "Mauricio Pochettino's 1st Man United training session filmed by drone operator",
+   "Leader in his own way Haaland making 'natural' progression as City veteran"
   ],
   "odds": {
    "mlAway": "+310",
@@ -7497,7 +8784,7 @@
   "stars": 1,
   "start": "2026-11-22T16:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Anfield, Liverpool"
  },
  "soccer-401878756": {
@@ -7525,9 +8812,9 @@
   "league": "Premier League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401878756",
   "news": [
-   "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs",
-   "Valentín Barco on Chelsea career so far: 'I think I can give a lot more'",
-   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world"
+   "Transfer rumors, news: Jarrad Branthwaite to join Manchester United?",
+   "Mauricio Pochettino's 1st Man United training session filmed by drone operator",
+   "Leader in his own way Haaland making 'natural' progression as City veteran"
   ],
   "odds": {
    "mlAway": "+340",
@@ -7549,7 +8836,7 @@
   "stars": 1,
   "start": "2026-11-21T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Villa Park, Birmingham"
  },
  "soccer-401879232": {
@@ -7579,9 +8866,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401879232",
   "market": "Moneyline",
   "news": [
-   "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs",
-   "Valentín Barco on Chelsea career so far: 'I think I can give a lot more'",
-   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world"
+   "Transfer rumors, news: Jarrad Branthwaite to join Manchester United?",
+   "Mauricio Pochettino's 1st Man United training session filmed by drone operator",
+   "Leader in his own way Haaland making 'natural' progression as City veteran"
   ],
   "odds": {
    "mlAway": "-175",
@@ -7604,7 +8891,7 @@
   "stars": 2,
   "start": "2026-11-21T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "St. James' Park, Newcastle-upon-Tyne"
  },
  "soccer-401879233": {
@@ -7634,9 +8921,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401879233",
   "market": "Moneyline",
   "news": [
-   "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs",
-   "Valentín Barco on Chelsea career so far: 'I think I can give a lot more'",
-   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world"
+   "Transfer rumors, news: Jarrad Branthwaite to join Manchester United?",
+   "Mauricio Pochettino's 1st Man United training session filmed by drone operator",
+   "Leader in his own way Haaland making 'natural' progression as City veteran"
   ],
   "odds": {
    "mlAway": "+650",
@@ -7659,7 +8946,7 @@
   "stars": 2,
   "start": "2026-11-21T12:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Etihad Stadium, Manchester"
  },
  "soccer-401879234": {
@@ -7689,9 +8976,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401879234",
   "market": "Moneyline",
   "news": [
-   "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs",
-   "Valentín Barco on Chelsea career so far: 'I think I can give a lot more'",
-   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world"
+   "Transfer rumors, news: Jarrad Branthwaite to join Manchester United?",
+   "Mauricio Pochettino's 1st Man United training session filmed by drone operator",
+   "Leader in his own way Haaland making 'natural' progression as City veteran"
   ],
   "odds": {
    "mlAway": "-200",
@@ -7714,7 +9001,7 @@
   "stars": 2,
   "start": "2026-11-22T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "The MKM Stadium, Hull"
  },
  "soccer-401879235": {
@@ -7742,9 +9029,9 @@
   "league": "Premier League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401879235",
   "news": [
-   "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs",
-   "Valentín Barco on Chelsea career so far: 'I think I can give a lot more'",
-   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world"
+   "Transfer rumors, news: Jarrad Branthwaite to join Manchester United?",
+   "Mauricio Pochettino's 1st Man United training session filmed by drone operator",
+   "Leader in his own way Haaland making 'natural' progression as City veteran"
   ],
   "odds": {
    "mlAway": "+180",
@@ -7766,7 +9053,7 @@
   "stars": 1,
   "start": "2026-11-21T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Coventry Building Society Arena, Coventry"
  },
  "soccer-401879236": {
@@ -7794,9 +9081,9 @@
   "league": "Premier League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401879236",
   "news": [
-   "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs",
-   "Valentín Barco on Chelsea career so far: 'I think I can give a lot more'",
-   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world"
+   "Transfer rumors, news: Jarrad Branthwaite to join Manchester United?",
+   "Mauricio Pochettino's 1st Man United training session filmed by drone operator",
+   "Leader in his own way Haaland making 'natural' progression as City veteran"
   ],
   "odds": {
    "mlAway": "+295",
@@ -7818,7 +9105,7 @@
   "stars": 1,
   "start": "2026-11-21T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Stamford Bridge, London"
  },
  "soccer-401879238": {
@@ -7846,9 +9133,9 @@
   "league": "Premier League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401879238",
   "news": [
-   "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs",
-   "Valentín Barco on Chelsea career so far: 'I think I can give a lot more'",
-   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world"
+   "Transfer rumors, news: Jarrad Branthwaite to join Manchester United?",
+   "Mauricio Pochettino's 1st Man United training session filmed by drone operator",
+   "Leader in his own way Haaland making 'natural' progression as City veteran"
   ],
   "odds": {
    "mlAway": "+290",
@@ -7870,7 +9157,7 @@
   "stars": 1,
   "start": "2026-11-21T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Vitality Stadium, Bournemouth"
  },
  "soccer-401882797": {
@@ -7898,9 +9185,9 @@
   "league": "LaLiga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401882797",
   "news": [
+   "Will Vinícius Júnior or Diomandé start for Real Madrid vs. Celta Vigo?",
    "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world",
-   "Barcelona chief Deco keen for Liverpool to make Ronald Araujo loan permanent",
-   "Arda Güler signs new six-year Real Madrid contract"
+   "Barcelona chief Deco keen for Liverpool to make Ronald Araujo loan permanent"
   ],
   "odds": {
    "mlAway": "+140",
@@ -7922,7 +9209,7 @@
   "stars": 1,
   "start": "2026-11-21T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Ramón Sánchez Pizjuán Stadium, Sevilla"
  },
  "soccer-401882798": {
@@ -7952,9 +9239,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401882798",
   "market": "Moneyline",
   "news": [
+   "Will Vinícius Júnior or Diomandé start for Real Madrid vs. Celta Vigo?",
    "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world",
-   "Barcelona chief Deco keen for Liverpool to make Ronald Araujo loan permanent",
-   "Arda Güler signs new six-year Real Madrid contract"
+   "Barcelona chief Deco keen for Liverpool to make Ronald Araujo loan permanent"
   ],
   "odds": {
    "mlAway": "+1400",
@@ -7977,7 +9264,7 @@
   "stars": 3,
   "start": "2026-11-21T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Santiago Bernabéu, Madrid"
  },
  "soccer-401882799": {
@@ -8005,14 +9292,14 @@
   "league": "LaLiga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401882799",
   "news": [
+   "Will Vinícius Júnior or Diomandé start for Real Madrid vs. Celta Vigo?",
    "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world",
-   "Barcelona chief Deco keen for Liverpool to make Ronald Araujo loan permanent",
-   "Arda Güler signs new six-year Real Madrid contract"
+   "Barcelona chief Deco keen for Liverpool to make Ronald Araujo loan permanent"
   ],
   "odds": {
-   "mlAway": "+295",
+   "mlAway": "+300",
    "mlAwayOpen": "+275",
-   "mlDraw": "+250",
+   "mlDraw": "+255",
    "mlHome": "-105",
    "mlHomeOpen": "-105",
    "provider": "DraftKings",
@@ -8029,7 +9316,7 @@
   "stars": 1,
   "start": "2026-11-21T15:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Estadio de Vallecas, Madrid"
  },
  "soccer-401882800": {
@@ -8057,9 +9344,9 @@
   "league": "LaLiga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401882800",
   "news": [
+   "Will Vinícius Júnior or Diomandé start for Real Madrid vs. Celta Vigo?",
    "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world",
-   "Barcelona chief Deco keen for Liverpool to make Ronald Araujo loan permanent",
-   "Arda Güler signs new six-year Real Madrid contract"
+   "Barcelona chief Deco keen for Liverpool to make Ronald Araujo loan permanent"
   ],
   "odds": {
    "mlAway": "+100",
@@ -8081,8 +9368,112 @@
   "stars": 1,
   "start": "2026-11-22T15:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "El Sardineros, Santander"
+ },
+ "soccer-401882801": {
+  "away": {
+   "abbr": "MCF",
+   "form": "LLWDL",
+   "name": "Málaga",
+   "record": "0-5-7",
+   "short": "Málaga",
+   "teamId": "99"
+  },
+  "confidence": 49,
+  "espnId": "401882801",
+  "espnLeague": "esp.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "OSA",
+   "form": "DLWLW",
+   "name": "Osasuna",
+   "record": "3-3-6",
+   "short": "Osasuna",
+   "teamId": "97"
+  },
+  "id": "soccer-401882801",
+  "league": "LaLiga",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401882801",
+  "news": [
+   "Will Vinícius Júnior or Diomandé start for Real Madrid vs. Celta Vigo?",
+   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world",
+   "Barcelona chief Deco keen for Liverpool to make Ronald Araujo loan permanent"
+  ],
+  "odds": {
+   "mlAway": "+340",
+   "mlAwayOpen": "+350",
+   "mlDraw": "+260",
+   "mlHome": "-120",
+   "mlHomeOpen": "-135",
+   "provider": "DraftKings",
+   "spread": "OSA -120",
+   "spreadOpen": "OSA -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Osasuna about 52% no-vig at -120; no edge worth a pick.",
+  "risks": [],
+  "slug": "esp.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-22T17:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T23:14:02Z",
+  "venue": "El Sadar, Pamplona"
+ },
+ "soccer-401882803": {
+  "away": {
+   "abbr": "ATM",
+   "form": "LLWWD",
+   "name": "Atlético Madrid",
+   "record": "9-1-2",
+   "short": "Atlético",
+   "teamId": "1068"
+  },
+  "confidence": 57,
+  "espnId": "401882803",
+  "espnLeague": "esp.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "GET",
+   "form": "LLWWL",
+   "name": "Getafe",
+   "record": "3-3-6",
+   "short": "Getafe",
+   "teamId": "2922"
+  },
+  "id": "soccer-401882803",
+  "league": "LaLiga",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401882803",
+  "news": [
+   "Will Vinícius Júnior or Diomandé start for Real Madrid vs. Celta Vigo?",
+   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world",
+   "Barcelona chief Deco keen for Liverpool to make Ronald Araujo loan permanent"
+  ],
+  "odds": {
+   "mlAway": "-175",
+   "mlAwayOpen": "-165",
+   "mlDraw": "+300",
+   "mlHome": "+500",
+   "mlHomeOpen": "+450",
+   "provider": "DraftKings",
+   "spread": "ATM -175",
+   "spreadOpen": "ATM -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Atlético about 60% no-vig at -175; no edge worth a pick.",
+  "risks": [],
+  "slug": "esp.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-22T20:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T23:14:02Z",
+  "venue": "Estadio Coliseum, Getafe"
  },
  "soccer-401882804": {
   "_lastPick": "Barcelona ML (-475)",
@@ -8111,9 +9502,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401882804",
   "market": "Moneyline",
   "news": [
+   "Will Vinícius Júnior or Diomandé start for Real Madrid vs. Celta Vigo?",
    "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world",
-   "Barcelona chief Deco keen for Liverpool to make Ronald Araujo loan permanent",
-   "Arda Güler signs new six-year Real Madrid contract"
+   "Barcelona chief Deco keen for Liverpool to make Ronald Araujo loan permanent"
   ],
   "odds": {
    "mlAway": "+1100",
@@ -8136,11 +9527,11 @@
   "stars": 2,
   "start": "2026-11-22T13:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Spotify Camp Nou, Barcelona"
  },
  "soccer-401882805": {
-  "_lastPick": "Athletic ML (-210)",
+  "_lastPick": "Athletic ML (-205)",
   "away": {
    "abbr": "ESP",
    "form": "DWLLL",
@@ -8149,7 +9540,7 @@
    "short": "Espanyol",
    "teamId": "88"
   },
-  "confidence": 62,
+  "confidence": 61,
   "espnId": "401882805",
   "espnLeague": "esp.1",
   "espnSport": "soccer",
@@ -8166,24 +9557,24 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401882805",
   "market": "Moneyline",
   "news": [
+   "Will Vinícius Júnior or Diomandé start for Real Madrid vs. Celta Vigo?",
    "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world",
-   "Barcelona chief Deco keen for Liverpool to make Ronald Araujo loan permanent",
-   "Arda Güler signs new six-year Real Madrid contract"
+   "Barcelona chief Deco keen for Liverpool to make Ronald Araujo loan permanent"
   ],
   "odds": {
-   "mlAway": "+600",
+   "mlAway": "+550",
    "mlAwayOpen": "+450",
-   "mlDraw": "+350",
-   "mlHome": "-210",
+   "mlDraw": "+340",
+   "mlHome": "-205",
    "mlHomeOpen": "-175",
    "provider": "DraftKings",
-   "spread": "ATH -210",
+   "spread": "ATH -205",
    "spreadOpen": "ATH -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
-  "pick": "Athletic ML (-210)",
-  "reason": "Athletic are about 65% no-vig at -210. For: line moved toward Athletic (-175 → -210).",
+  "pick": "Athletic ML (-205)",
+  "reason": "Athletic are about 64% no-vig at -205.",
   "risks": [],
   "side": "home",
   "slug": "esp.1",
@@ -8191,7 +9582,7 @@
   "stars": 2,
   "start": "2026-11-20T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "San Mamés, Bilbao"
  },
  "soccer-401882806": {
@@ -8219,9 +9610,9 @@
   "league": "LaLiga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401882806",
   "news": [
+   "Will Vinícius Júnior or Diomandé start for Real Madrid vs. Celta Vigo?",
    "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world",
-   "Barcelona chief Deco keen for Liverpool to make Ronald Araujo loan permanent",
-   "Arda Güler signs new six-year Real Madrid contract"
+   "Barcelona chief Deco keen for Liverpool to make Ronald Araujo loan permanent"
   ],
   "odds": {
    "mlAway": "+235",
@@ -8245,7 +9636,7 @@
   "stars": 1,
   "start": "2026-11-21T13:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Mendizorrotza, Vitoria-Gasteiz"
  },
  "soccer-401884728": {
@@ -8257,7 +9648,7 @@
    "short": "Freiburg",
    "teamId": "126"
   },
-  "confidence": 43,
+  "confidence": 44,
   "espnId": "401884728",
   "espnLeague": "ger.1",
   "espnSport": "soccer",
@@ -8278,26 +9669,26 @@
    "10 Best: Ranking the world's top men's soccer players ... again!"
   ],
   "odds": {
-   "mlAway": "+100",
+   "mlAway": "-105",
    "mlAwayOpen": "-105",
-   "mlDraw": "+265",
-   "mlHome": "+230",
+   "mlDraw": "+260",
+   "mlHome": "+240",
    "mlHomeOpen": "+225",
    "provider": "DraftKings",
-   "spread": "SCF +100",
+   "spread": "SCF -105",
    "spreadOpen": "SCF -0.5",
-   "total": "2.5",
+   "total": "3.5",
    "totalOpen": "3.5"
   },
   "pick": "Pass",
-  "reason": "Freiburg about 46% no-vig at +100; no edge worth a pick.",
+  "reason": "Freiburg about 47% no-vig at -105; no edge worth a pick.",
   "risks": [],
   "slug": "ger.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-21T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "URSAPHARM-Arena an der Kaiserlinde, Spiesen-Elversberg"
  },
  "soccer-401884729": {
@@ -8349,7 +9740,7 @@
   "stars": 1,
   "start": "2026-11-21T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Veltins Arena, Gelsenkirchen"
  },
  "soccer-401884730": {
@@ -8384,7 +9775,7 @@
   "stars": 1,
   "start": "2026-11-22T16:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Weserstadion, Bremen"
  },
  "soccer-401884731": {
@@ -8436,7 +9827,7 @@
   "stars": 1,
   "start": "2026-11-21T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "BORUSSIA-PARK, Mönchengladbach"
  },
  "soccer-401884732": {
@@ -8491,7 +9882,7 @@
   "stars": 2,
   "start": "2026-11-21T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Stadion An der Alten Försterei, Berlin"
  },
  "soccer-401884733": {
@@ -8543,7 +9934,7 @@
   "stars": 1,
   "start": "2026-11-22T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "WWK Arena, Augsburg"
  },
  "soccer-401884734": {
@@ -8595,7 +9986,7 @@
   "stars": 1,
   "start": "2026-11-21T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Deutsche Bank Park, Frankfurt"
  },
  "soccer-401884735": {
@@ -8650,11 +10041,11 @@
   "stars": 2,
   "start": "2026-11-21T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "BayArena, Leverkusen"
  },
  "soccer-401884736": {
-  "_lastPick": "Bayern ML (-1600)",
+  "_lastPick": "Bayern ML (-1800)",
   "away": {
    "abbr": "KOE",
    "form": "LDWDL",
@@ -8688,16 +10079,16 @@
    "mlAway": "+1800",
    "mlAwayOpen": "+1500",
    "mlDraw": "+1100",
-   "mlHome": "-1600",
+   "mlHome": "-1800",
    "mlHomeOpen": "-1400",
    "provider": "DraftKings",
-   "spread": "MUN -1600",
+   "spread": "MUN -1800",
    "spreadOpen": "MUN -2.5",
    "total": "4.5",
    "totalOpen": "4.5"
   },
-  "pick": "Bayern ML (-1600)",
-  "reason": "Bayern are about 87% no-vig at -1600. For: form WWDWW vs LDWDL.",
+  "pick": "Bayern ML (-1800)",
+  "reason": "Bayern are about 87% no-vig at -1800. For: form WWDWW vs LDWDL.",
   "risks": [],
   "side": "home",
   "slug": "ger.1",
@@ -8705,7 +10096,7 @@
   "stars": 3,
   "start": "2026-11-20T19:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Allianz Arena, München"
  },
  "soccer-401930899": {
@@ -8769,7 +10160,7 @@
    "short": "Cincinnati",
    "teamId": "18267"
   },
-  "confidence": 36,
+  "confidence": 37,
   "espnId": "401933535",
   "espnLeague": "usa.1",
   "espnSport": "soccer",
@@ -8784,31 +10175,31 @@
   "league": "MLS",
   "link": "https://www.espn.com/soccer/match/_/gameId/401933535",
   "news": [
+   "Messi leads way as MLS salaries rise; Union's Sullivan checks in at $614K",
    "Sources: MLS side FC Cincy nearing deal to acquire NWSL's Racing",
-   "MLS wild card predictions: Who will emerge from Orlando-Cincinnati, Seattle-RSL?",
-   "MLS Cup playoff Power Rankings: Can history-making Nashville be stopped?"
+   "MLS wild card predictions: Who will emerge from Orlando-Cincinnati, Seattle-RSL?"
   ],
   "odds": {
-   "mlAway": "+150",
+   "mlAway": "+155",
    "mlAwayOpen": "+140",
-   "mlDraw": "+285",
-   "mlHome": "+140",
+   "mlDraw": "+290",
+   "mlHome": "+135",
    "mlHomeOpen": "+135",
    "provider": "DraftKings",
-   "spread": "ORL +140",
+   "spread": "ORL +135",
    "spreadOpen": "ORL -0.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
   "pick": "Pass",
-  "reason": "Orlando about 39% no-vig at +140; no edge worth a pick.",
+  "reason": "Orlando about 40% no-vig at +135; no edge worth a pick.",
   "risks": [],
   "slug": "usa.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-20T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Inter&Co Stadium, Orlando, Florida"
  },
  "soccer-401933555": {
@@ -8819,7 +10210,7 @@
    "short": "Salt Lake",
    "teamId": "4771"
   },
-  "confidence": 45,
+  "confidence": 42,
   "espnId": "401933555",
   "espnLeague": "usa.1",
   "espnSport": "soccer",
@@ -8834,24 +10225,24 @@
   "league": "MLS",
   "link": "https://www.espn.com/soccer/match/_/gameId/401933555",
   "news": [
+   "Messi leads way as MLS salaries rise; Union's Sullivan checks in at $614K",
    "Sources: MLS side FC Cincy nearing deal to acquire NWSL's Racing",
-   "MLS wild card predictions: Who will emerge from Orlando-Cincinnati, Seattle-RSL?",
-   "MLS Cup playoff Power Rankings: Can history-making Nashville be stopped?"
+   "MLS wild card predictions: Who will emerge from Orlando-Cincinnati, Seattle-RSL?"
   ],
   "odds": {
-   "mlAway": "+255",
+   "mlAway": "+225",
    "mlAwayOpen": "+230",
-   "mlDraw": "+270",
-   "mlHome": "-110",
+   "mlDraw": "+260",
+   "mlHome": "+100",
    "mlHomeOpen": "-110",
    "provider": "DraftKings",
-   "spread": "SEA -110",
+   "spread": "SEA +100",
    "spreadOpen": "SEA -0.5",
    "total": "2.5",
    "totalOpen": "3.5"
   },
   "pick": "Pass",
-  "reason": "Seattle about 49% no-vig at -110; no edge worth a pick.",
+  "reason": "Seattle about 46% no-vig at +100; no edge worth a pick.",
   "risks": [
    "opponent in better form (WLWWW)"
   ],
@@ -8860,8 +10251,41 @@
   "stars": 1,
   "start": "2026-11-20T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Lumen Field, Seattle, Washington"
+ },
+ "soccer-401933731": {
+  "away": {
+   "abbr": "TBD Away",
+   "name": "TBD Away",
+   "short": "TBD Away",
+   "teamId": "131554"
+  },
+  "espnId": "401933731",
+  "espnLeague": "usa.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "NSH",
+   "name": "Nashville SC",
+   "short": "Nashville",
+   "teamId": "18986"
+  },
+  "id": "soccer-401933731",
+  "league": "MLS",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401933731",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "usa.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-22T21:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T23:14:02Z",
+  "venue": "GEODIS Park, Nashville, Tennessee"
  },
  "soccer-401933732": {
   "away": {
@@ -8886,9 +10310,9 @@
   "league": "MLS",
   "link": "https://www.espn.com/soccer/match/_/gameId/401933732",
   "news": [
+   "Messi leads way as MLS salaries rise; Union's Sullivan checks in at $614K",
    "Sources: MLS side FC Cincy nearing deal to acquire NWSL's Racing",
-   "MLS wild card predictions: Who will emerge from Orlando-Cincinnati, Seattle-RSL?",
-   "MLS Cup playoff Power Rankings: Can history-making Nashville be stopped?"
+   "MLS wild card predictions: Who will emerge from Orlando-Cincinnati, Seattle-RSL?"
   ],
   "odds": {
    "mlAway": "+245",
@@ -8912,7 +10336,7 @@
   "stars": 1,
   "start": "2026-11-21T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Toyota Stadium, Toyota Stadium"
  },
  "soccer-401933733": {
@@ -8938,9 +10362,9 @@
   "league": "MLS",
   "link": "https://www.espn.com/soccer/match/_/gameId/401933733",
   "news": [
+   "Messi leads way as MLS salaries rise; Union's Sullivan checks in at $614K",
    "Sources: MLS side FC Cincy nearing deal to acquire NWSL's Racing",
-   "MLS wild card predictions: Who will emerge from Orlando-Cincinnati, Seattle-RSL?",
-   "MLS Cup playoff Power Rankings: Can history-making Nashville be stopped?"
+   "MLS wild card predictions: Who will emerge from Orlando-Cincinnati, Seattle-RSL?"
   ],
   "odds": {
    "mlAway": "+115",
@@ -8964,7 +10388,7 @@
   "stars": 1,
   "start": "2026-11-21T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Gillette Stadium, Foxborough, Massachusetts"
  },
  "soccer-401933739": {
@@ -8990,9 +10414,9 @@
   "league": "MLS",
   "link": "https://www.espn.com/soccer/match/_/gameId/401933739",
   "news": [
+   "Messi leads way as MLS salaries rise; Union's Sullivan checks in at $614K",
    "Sources: MLS side FC Cincy nearing deal to acquire NWSL's Racing",
-   "MLS wild card predictions: Who will emerge from Orlando-Cincinnati, Seattle-RSL?",
-   "MLS Cup playoff Power Rankings: Can history-making Nashville be stopped?"
+   "MLS wild card predictions: Who will emerge from Orlando-Cincinnati, Seattle-RSL?"
   ],
   "odds": {
    "mlAway": "+360",
@@ -9016,7 +10440,7 @@
   "stars": 1,
   "start": "2026-11-21T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T16:39:30Z",
+  "updatedAt": "2026-11-19T23:14:02Z",
   "venue": "Nu Stadium, Miami, Florida"
  }
 }
