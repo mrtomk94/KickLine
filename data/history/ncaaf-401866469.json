@@ -1,0 +1,138 @@
+{
+ "id": "ncaaf-401866469",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-19T00:30Z",
+ "home": {
+  "name": "Buffalo Bulls",
+  "abbr": "BUFF",
+  "teamId": "2084",
+  "score": 40.0
+ },
+ "away": {
+  "name": "Central Michigan Chippewas",
+  "abbr": "CMU",
+  "teamId": "2117",
+  "score": 21.0
+ },
+ "odds": {
+  "mlAway": "+120",
+  "mlAwayOpen": "+105",
+  "mlHome": "-142",
+  "mlHomeOpen": "-125",
+  "provider": "DraftKings",
+  "spread": "BUF -2.5",
+  "spreadOpen": "BUFF -1.5",
+  "total": "46.5",
+  "totalOpen": "43.5"
+ },
+ "espnWinProb": {
+  "away": 41.7,
+  "home": 58.3
+ },
+ "teams": {
+  "away": {
+   "abbr": "CMU",
+   "stats": {
+    "firstDowns": "19",
+    "thirdDownEff": "7-12",
+    "fourthDownEff": "1-3",
+    "totalYards": "324",
+    "netPassingYards": "128",
+    "completionAttempts": "14/23",
+    "yardsPerPass": "5.6",
+    "rushingYards": "196",
+    "rushingAttempts": "43",
+    "yardsPerRushAttempt": "4.6",
+    "totalPenaltiesYards": "6-47",
+    "turnovers": "3",
+    "fumblesLost": "1",
+    "interceptions": "2",
+    "possessionTime": "31:30"
+   }
+  },
+  "home": {
+   "abbr": "BUFF",
+   "stats": {
+    "firstDowns": "19",
+    "thirdDownEff": "7-12",
+    "fourthDownEff": "0-0",
+    "totalYards": "435",
+    "netPassingYards": "152",
+    "completionAttempts": "6/13",
+    "yardsPerPass": "11.7",
+    "rushingYards": "283",
+    "rushingAttempts": "44",
+    "yardsPerRushAttempt": "6.4",
+    "totalPenaltiesYards": "3-30",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "28:30"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "8:33",
+   "team": "CMU",
+   "text": "Braylen Naves 32 Yd pass from Jadyn Glasser (Braxton Doak Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "3:54",
+   "team": "BUFF",
+   "text": "Oliver Hautanen 27 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "13:38",
+   "team": "BUFF",
+   "text": "Oliver Hautanen 26 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "12:07",
+   "team": "BUFF",
+   "text": "Messiah Burch 10 Yd Run (Oliver Hautanen Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:39",
+   "team": "CMU",
+   "text": "Myles Peters 5 Yd pass from Jadyn Glasser (Braxton Doak Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:04",
+   "team": "BUFF",
+   "text": "Chance Morrow 17 Yd pass from Jason Wright (Oliver Hautanen Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "10:46",
+   "team": "BUFF",
+   "text": "Jason Wright 1 Yd Run (Two-Point Pass Conversion Failed)"
+  },
+  {
+   "period": 3,
+   "clock": "3:55",
+   "team": "CMU",
+   "text": "Brock Townsend 2 Yd pass from Jadyn Glasser (Braxton Doak Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "3:45",
+   "team": "BUFF",
+   "text": "Messiah Burch 75 Yd Run (Oliver Hautanen Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "10:45",
+   "team": "BUFF",
+   "text": "Terrance Shelton Jr. 2 Yd Run (Oliver Hautanen Kick)"
+  }
+ ]
+}

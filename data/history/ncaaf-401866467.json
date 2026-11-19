@@ -1,0 +1,150 @@
+{
+ "id": "ncaaf-401866467",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-19T00:00Z",
+ "home": {
+  "name": "Massachusetts Minutemen",
+  "abbr": "MASS",
+  "teamId": "113",
+  "score": 33.0
+ },
+ "away": {
+  "name": "Akron Zips",
+  "abbr": "AKR",
+  "teamId": "2006",
+  "score": 34.0
+ },
+ "odds": {
+  "mlAway": "+145",
+  "mlAwayOpen": "+130",
+  "mlHome": "-175",
+  "mlHomeOpen": "-155",
+  "provider": "Draft Kings",
+  "spread": "MASS -3.5",
+  "spreadOpen": "MASS -3.5",
+  "total": "47.5",
+  "totalOpen": "47.5"
+ },
+ "espnWinProb": {
+  "away": 24.2,
+  "home": 75.8
+ },
+ "teams": {
+  "away": {
+   "abbr": "AKR",
+   "stats": {
+    "firstDowns": "20",
+    "thirdDownEff": "3-9",
+    "fourthDownEff": "0-1",
+    "totalYards": "379",
+    "netPassingYards": "165",
+    "completionAttempts": "10/17",
+    "yardsPerPass": "9.7",
+    "rushingYards": "214",
+    "rushingAttempts": "35",
+    "yardsPerRushAttempt": "6.1",
+    "totalPenaltiesYards": "7-58",
+    "turnovers": "2",
+    "fumblesLost": "0",
+    "interceptions": "2",
+    "possessionTime": "24:03"
+   }
+  },
+  "home": {
+   "abbr": "MASS",
+   "stats": {
+    "firstDowns": "23",
+    "thirdDownEff": "7-15",
+    "fourthDownEff": "1-2",
+    "totalYards": "373",
+    "netPassingYards": "104",
+    "completionAttempts": "12/21",
+    "yardsPerPass": "5.0",
+    "rushingYards": "269",
+    "rushingAttempts": "50",
+    "yardsPerRushAttempt": "5.4",
+    "totalPenaltiesYards": "7-73",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "35:57"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "11:58",
+   "team": "MASS",
+   "text": "Elijah Faulkner 52 Yd Run (Derek Morris Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "5:57",
+   "team": "MASS",
+   "text": "Derek Morris 49 Yd Field Goal  "
+  },
+  {
+   "period": 1,
+   "clock": "5:13",
+   "team": "AKR",
+   "text": "Jordan Gant 73 Yd Run (Aidan Stire Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "0:51",
+   "team": "MASS",
+   "text": "Matt Ogunniyi 3 Yd pass from Logan Inagawa (Derek Morris Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "12:35",
+   "team": "MASS",
+   "text": "Derek Morris 23 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "6:29",
+   "team": "MASS",
+   "text": "Max Dowling 2 Yd pass from Logan Inagawa (Two-Point Pass Conversion Failed)"
+  },
+  {
+   "period": 2,
+   "clock": "5:27",
+   "team": "AKR",
+   "text": "Miles Burris 36 Yd pass from Cibastian Broughton (Aidan Stire Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "3:19",
+   "team": "AKR",
+   "text": "Aidan Stire 23 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "14:47",
+   "team": "AKR",
+   "text": "Brandon Hills 100 Yd Kickoff Return (Aidan Stire Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "7:30",
+   "team": "MASS",
+   "text": "Max Dowling 11 Yd pass from Logan Inagawa (Derek Morris Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "2:15",
+   "team": "AKR",
+   "text": "Jordan Gant 1 Yd Run (Aidan Stire Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "5:34",
+   "team": "AKR",
+   "text": "Aidan Stire 28 Yd Field Goal  "
+  }
+ ]
+}
