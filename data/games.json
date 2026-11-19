@@ -31,7 +31,7 @@
   "stars": 1,
   "start": "2026-11-21T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "State Farm Arena, Atlanta"
  },
  "nba-401909306": {
@@ -66,7 +66,7 @@
   "stars": 1,
   "start": "2026-11-21T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Barclays Center, Brooklyn"
  },
  "nba-401909307": {
@@ -101,7 +101,7 @@
   "stars": 1,
   "start": "2026-11-21T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Rocket Arena, Cleveland"
  },
  "nba-401909308": {
@@ -136,7 +136,7 @@
   "stars": 1,
   "start": "2026-11-21T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Little Caesars Arena, Detroit"
  },
  "nba-401909309": {
@@ -171,7 +171,7 @@
   "stars": 1,
   "start": "2026-11-21T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "United Center, Chicago"
  },
  "nba-401909310": {
@@ -206,7 +206,7 @@
   "stars": 1,
   "start": "2026-11-21T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Paycom Center, Oklahoma City"
  },
  "nba-401909311": {
@@ -241,7 +241,7 @@
   "stars": 1,
   "start": "2026-11-21T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Delta Center, Salt Lake City"
  },
  "nba-401909312": {
@@ -276,7 +276,7 @@
   "stars": 1,
   "start": "2026-11-21T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Ball Arena, Denver"
  },
  "nba-401909313": {
@@ -311,7 +311,7 @@
   "stars": 1,
   "start": "2026-11-21T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "crypto.com Arena, Los Angeles"
  },
  "nba-401910007": {
@@ -1643,12 +1643,11 @@
   "venue": "Golden 1 Center, Sacramento"
  },
  "nba-401910019": {
-  "_lastPick": "MEM ML (-334)",
+  "_lastPick": "MEM ML (-243)",
   "away": {
    "abbr": "GS",
    "form": "LLLLW",
    "injuries": [
-    "Al Horford (C) – Out, Back",
     "Brandon Williams (G) – Out, Hamstring",
     "Stephen Curry (G) – Out, Abdomen",
     "Kristaps Porzingis (C) – Out, Illness"
@@ -1658,20 +1657,19 @@
    "short": "Warriors",
    "teamId": "9"
   },
-  "confidence": 70,
+  "confidence": 65,
   "espnId": "401910019",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 32.2,
-   "home": 67.8
+   "away": 31.9,
+   "home": 68.1
   },
   "home": {
    "abbr": "MEM",
    "form": "WWWWL",
    "injuries": [
     "GG Jackson (F) – Out, Foot",
-    "Isaiah Stewart (C) – Out, Illness",
     "Ty Jerome (G) – Out, Hip",
     "Scotty Pippen Jr. (G) – Out, Back",
     "Richie Saunders (G) – Out, Knee"
@@ -1684,13 +1682,6 @@
   "id": "nba-401910019",
   "injuriesRaw": {
    "away": [
-    {
-     "detail": "Back",
-     "player": "Al Horford",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    },
     {
      "detail": "Hamstring",
      "player": "Brandon Williams",
@@ -1711,13 +1702,6 @@
      "pos": "C",
      "stale": false,
      "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Moses Moody",
-     "pos": "G",
-     "stale": true,
-     "status": "Out"
     }
    ],
    "home": [
@@ -1725,13 +1709,6 @@
      "detail": "Foot",
      "player": "GG Jackson",
      "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Illness",
-     "player": "Isaiah Stewart",
-     "pos": "C",
      "stale": false,
      "status": "Out"
     },
@@ -1762,25 +1739,25 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401910019",
   "market": "Moneyline",
   "news": [
-   "Hawks host Hornets Friday for NBA Cup group stage game",
-   "Memphis takes on Golden State, looks for 5th straight victory",
-   "Pacers visit Cavaliers Friday in NBA Cup group stage"
+   "Revisiting sports and pop culture from GTA V's launch",
+   "Historic usage rates are fueling Luka Doncic and the Lakers' offense",
+   "Luka Doncic's shot goes cold as Jazz end Lakers' winning streak at 9"
   ],
   "odds": {
-   "mlAway": "+268",
+   "mlAway": "+200",
    "mlAwayOpen": "+268",
-   "mlHome": "-334",
+   "mlHome": "-243",
    "mlHomeOpen": "-334",
    "provider": "Draft Kings",
-   "spread": "MEM -8.5",
+   "spread": "MEM -6.5",
    "spreadOpen": "MEM -8.5",
-   "total": "225.5",
+   "total": "226.5",
    "totalOpen": "225.5"
   },
-  "pick": "MEM ML (-334)",
-  "reason": "MEM are about 74% no-vig at -334; ESPN's model has 68%. For: form WWWWL vs LLLLW; last-5 scoring margin: MEM +12.8, GS -7.4.",
+  "pick": "MEM ML (-243)",
+  "reason": "MEM are about 68% no-vig at -243; ESPN's model has 68%. For: form WWWWL vs LLLLW; last-5 scoring margin: MEM +12.8, GS -7.4. Capped at 2★: NBA capped by lessons.",
   "risks": [
-   "ESPN model only 68% vs market 74%"
+   "line drifted away (-334 → -243)"
   ],
   "side": "home",
   "slug": "nba",
@@ -1788,17 +1765,17 @@
   "stars": 2,
   "start": "2026-11-20T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "FedExForum, Memphis"
  },
  "nba-401910020": {
-  "_lastPick": "POR ML (-352)",
+  "_lastPick": "POR ML (-467)",
   "away": {
    "abbr": "POR",
    "form": "LLWWW",
    "injuries": [
-    "Robert Williams III (C) – Out, Rest",
     "Chris Youngblood (G) – Out, Heel",
+    "Robert Williams III (C) – Out, Rest",
     "Vit Krejci (G) – Out, Ankle"
    ],
    "name": "Portland Trail Blazers",
@@ -1806,19 +1783,18 @@
    "short": "Trail Blazers",
    "teamId": "22"
   },
-  "confidence": 75,
+  "confidence": 77,
   "espnId": "401910020",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 77.4,
-   "home": 22.6
+   "away": 76.9,
+   "home": 23.1
   },
   "home": {
    "abbr": "MIL",
    "form": "LLLLL",
    "injuries": [
-    "Ryan Rollins (G) – Out, Illness",
     "Ousmane Dieng (F) – Out, Finger"
    ],
    "name": "Milwaukee Bucks",
@@ -1830,16 +1806,16 @@
   "injuriesRaw": {
    "away": [
     {
-     "detail": "Rest",
-     "player": "Robert Williams III",
-     "pos": "C",
+     "detail": "Heel",
+     "player": "Chris Youngblood",
+     "pos": "G",
      "stale": false,
      "status": "Out"
     },
     {
-     "detail": "Heel",
-     "player": "Chris Youngblood",
-     "pos": "G",
+     "detail": "Rest",
+     "player": "Robert Williams III",
+     "pos": "C",
      "stale": false,
      "status": "Out"
     },
@@ -1853,13 +1829,6 @@
    ],
    "home": [
     {
-     "detail": "Illness",
-     "player": "Ryan Rollins",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
      "detail": "Finger",
      "player": "Ousmane Dieng",
      "pos": "F",
@@ -1872,23 +1841,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401910020",
   "market": "Moneyline",
   "news": [
-   "Hawks host Hornets Friday for NBA Cup group stage game",
-   "Memphis takes on Golden State, looks for 5th straight victory",
-   "Pacers visit Cavaliers Friday in NBA Cup group stage"
+   "Revisiting sports and pop culture from GTA V's launch",
+   "Historic usage rates are fueling Luka Doncic and the Lakers' offense",
+   "Luka Doncic's shot goes cold as Jazz end Lakers' winning streak at 9"
   ],
   "odds": {
-   "mlAway": "-352",
+   "mlAway": "-467",
    "mlAwayOpen": "-369",
-   "mlHome": "+282",
+   "mlHome": "+360",
    "mlHomeOpen": "+293",
    "provider": "Draft Kings",
-   "spread": "POR -9.5",
+   "spread": "POR -10.5",
    "spreadOpen": "POR -9.5",
-   "total": "226.5",
+   "total": "229.5",
    "totalOpen": "225.5"
   },
-  "pick": "POR ML (-352)",
-  "reason": "POR are about 75% no-vig at -352; ESPN's model has 77%. For: form LLWWW vs LLLLL; last-5 scoring margin: MIL -13.0, POR +6.8. Capped at 2★: NBA capped by lessons.",
+  "pick": "POR ML (-467)",
+  "reason": "POR are about 79% no-vig at -467; ESPN's model has 77%. For: form LLWWW vs LLLLL; last-5 scoring margin: MIL -13.0, POR +6.8.",
   "risks": [],
   "side": "away",
   "slug": "nba",
@@ -1896,7 +1865,7 @@
   "stars": 2,
   "start": "2026-11-20T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Fiserv Forum, Milwaukee"
  },
  "nba-401910021": {
@@ -1909,13 +1878,13 @@
    "short": "Knicks",
    "teamId": "18"
   },
-  "confidence": 48,
+  "confidence": 47,
   "espnId": "401910021",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 48.1,
-   "home": 51.9
+   "away": 47.9,
+   "home": 52.1
   },
   "home": {
    "abbr": "MIN",
@@ -1958,14 +1927,14 @@
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401910021",
   "news": [
-   "Hawks host Hornets Friday for NBA Cup group stage game",
-   "Memphis takes on Golden State, looks for 5th straight victory",
-   "Pacers visit Cavaliers Friday in NBA Cup group stage"
+   "Revisiting sports and pop culture from GTA V's launch",
+   "Historic usage rates are fueling Luka Doncic and the Lakers' offense",
+   "Luka Doncic's shot goes cold as Jazz end Lakers' winning streak at 9"
   ],
   "odds": {
-   "mlAway": "-124",
+   "mlAway": "-113",
    "mlAwayOpen": "-123",
-   "mlHome": "+105",
+   "mlHome": "-104",
    "mlHomeOpen": "+104",
    "provider": "Draft Kings",
    "spread": "NY -1.5",
@@ -1974,20 +1943,18 @@
    "totalOpen": "217.5"
   },
   "pick": "Pass",
-  "reason": "NY about 53% no-vig at -124; no edge worth a pick.",
-  "risks": [
-   "ESPN model only 48% vs market 53%"
-  ],
+  "reason": "NY about 51% no-vig at -113; no edge worth a pick.",
+  "risks": [],
   "slug": "nba",
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-20T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Target Center, Minneapolis"
  },
  "nba-401910022": {
-  "_lastPick": "SA ML (-1320)",
+  "_lastPick": "SA ML (-1040)",
   "away": {
    "abbr": "LAC",
    "form": "LWWLW",
@@ -1999,7 +1966,7 @@
    "short": "Clippers",
    "teamId": "12"
   },
-  "confidence": 88,
+  "confidence": 87,
   "espnId": "401910022",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -2072,23 +2039,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401910022",
   "market": "Moneyline",
   "news": [
-   "Hawks host Hornets Friday for NBA Cup group stage game",
-   "Memphis takes on Golden State, looks for 5th straight victory",
-   "Pacers visit Cavaliers Friday in NBA Cup group stage"
+   "Revisiting sports and pop culture from GTA V's launch",
+   "Historic usage rates are fueling Luka Doncic and the Lakers' offense",
+   "Luka Doncic's shot goes cold as Jazz end Lakers' winning streak at 9"
   ],
   "odds": {
-   "mlAway": "+800",
+   "mlAway": "+670",
    "mlAwayOpen": "+720",
-   "mlHome": "-1320",
+   "mlHome": "-1040",
    "mlHomeOpen": "-1140",
    "provider": "Draft Kings",
    "spread": "SA -15.5",
    "spreadOpen": "SA -16.5",
-   "total": "226.5",
+   "total": "225.5",
    "totalOpen": "225.5"
   },
-  "pick": "SA ML (-1320)",
-  "reason": "SA are about 89% no-vig at -1320; ESPN's model has 90%. For: last-5 scoring margin: SA +13.0, LAC -9.8. Capped at 2★: NBA capped by lessons.",
+  "pick": "SA ML (-1040)",
+  "reason": "SA are about 88% no-vig at -1040; ESPN's model has 90%. For: last-5 scoring margin: SA +13.0, LAC -9.8. Capped at 2★: NBA capped by lessons.",
   "risks": [],
   "side": "home",
   "slug": "nba",
@@ -2096,7 +2063,7 @@
   "stars": 2,
   "start": "2026-11-20T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Frost Bank Center, San Antonio"
  },
  "nba-401910023": {
@@ -2131,7 +2098,7 @@
   "stars": 1,
   "start": "2026-11-21T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Xfinity Mobile Arena, Philadelphia"
  },
  "nba-401910024": {
@@ -2166,7 +2133,7 @@
   "stars": 1,
   "start": "2026-11-22T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Madison Square Garden, New York"
  },
  "nba-401910025": {
@@ -2201,7 +2168,7 @@
   "stars": 1,
   "start": "2026-11-22T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "American Airlines Center, Dallas"
  },
  "nba-401910026": {
@@ -2236,7 +2203,7 @@
   "stars": 1,
   "start": "2026-11-22T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Target Center, Minneapolis"
  },
  "nba-401910027": {
@@ -2271,7 +2238,7 @@
   "stars": 1,
   "start": "2026-11-22T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Frost Bank Center, San Antonio"
  },
  "nba-401910028": {
@@ -2306,7 +2273,7 @@
   "stars": 1,
   "start": "2026-11-22T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Golden 1 Center, Sacramento"
  },
  "ncaaf-401856746": {
@@ -2341,7 +2308,7 @@
   "stars": 1,
   "start": "2026-11-21T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Bryant-Denny Stadium, Tuscaloosa"
  },
  "ncaaf-401856747": {
@@ -2376,7 +2343,7 @@
   "stars": 1,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Jordan-Hare Stadium, Auburn"
  },
  "ncaaf-401856748": {
@@ -2410,9 +2377,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856748",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+400",
@@ -2434,7 +2401,7 @@
   "stars": 2,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Ben Hill Griffin Stadium, Gainesville"
  },
  "ncaaf-401856749": {
@@ -2469,7 +2436,7 @@
   "stars": 1,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Vaught-Hemingway Stadium, Oxford"
  },
  "ncaaf-401856750": {
@@ -2504,7 +2471,7 @@
   "stars": 1,
   "start": "2026-11-21T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Davis Wade Stadium, Starkville"
  },
  "ncaaf-401856751": {
@@ -2538,9 +2505,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856751",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+180",
@@ -2562,7 +2529,7 @@
   "stars": 2,
   "start": "2026-11-22T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Memorial Stadium, Columbia"
  },
  "ncaaf-401856752": {
@@ -2596,9 +2563,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856752",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+245",
@@ -2622,7 +2589,7 @@
   "stars": 2,
   "start": "2026-11-21T20:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Memorial Stadium (Norman, OK), Norman"
  },
  "ncaaf-401856753": {
@@ -2656,9 +2623,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856753",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "-750",
@@ -2666,7 +2633,7 @@
    "mlHome": "+525",
    "mlHomeOpen": "+295",
    "provider": "Draft Kings",
-   "spread": "UGA -15.5",
+   "spread": "UGA -14.5",
    "spreadOpen": "UGA -10.5",
    "total": "51.5",
    "totalOpen": "50.5"
@@ -2680,7 +2647,7 @@
   "stars": 3,
   "start": "2026-11-22T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Williams-Brice Stadium, Columbia"
  },
  "ncaaf-401856754": {
@@ -2712,9 +2679,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856754",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "-115",
@@ -2737,7 +2704,7 @@
   "stars": 1,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Neyland Stadium, Knoxville"
  },
  "ncaaf-401856755": {
@@ -2771,9 +2738,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856755",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+900",
@@ -2795,7 +2762,7 @@
   "stars": 2,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "DKR-Texas Memorial Stadium, Austin"
  },
  "ncaaf-401856865": {
@@ -2829,9 +2796,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856865",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "-290",
@@ -2855,7 +2822,7 @@
   "stars": 2,
   "start": "2026-11-22T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Bill Snyder Family Stadium, Manhattan"
  },
  "ncaaf-401856866": {
@@ -2889,9 +2856,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856866",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "-225",
@@ -2913,7 +2880,7 @@
   "stars": 2,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "David Booth Kansas Memorial Stadium, Lawrence"
  },
  "ncaaf-401856867": {
@@ -2947,9 +2914,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856867",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+136",
@@ -2959,7 +2926,7 @@
    "provider": "Draft Kings",
    "spread": "CIN -3",
    "spreadOpen": "CIN -2.5",
-   "total": "58.5",
+   "total": "57.5",
    "totalOpen": "59.5"
   },
   "pick": "CIN ML (-162)",
@@ -2971,11 +2938,11 @@
   "stars": 2,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Nippert Stadium, Cincinnati"
  },
  "ncaaf-401856868": {
-  "_lastPick": "HOU ML (-325)",
+  "_lastPick": "HOU ML (-310)",
   "away": {
    "abbr": "HOU",
    "form": "LWLWW",
@@ -3005,14 +2972,14 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856868",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
-   "mlAway": "-325",
+   "mlAway": "-310",
    "mlAwayOpen": "-230",
-   "mlHome": "+260",
+   "mlHome": "+250",
    "mlHomeOpen": "+190",
    "provider": "Draft Kings",
    "spread": "HOU -8.5",
@@ -3020,8 +2987,8 @@
    "total": "70.5",
    "totalOpen": "71.5"
   },
-  "pick": "HOU ML (-325)",
-  "reason": "HOU are about 73% no-vig at -325; ESPN's model has 73%. For: line moved toward HOU (-230 → -325).",
+  "pick": "HOU ML (-310)",
+  "reason": "HOU are about 73% no-vig at -310; ESPN's model has 73%. For: line moved toward HOU (-230 → -310).",
   "risks": [],
   "side": "away",
   "slug": "college-football",
@@ -3029,7 +2996,7 @@
   "stars": 3,
   "start": "2026-11-21T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Milan Puskar Stadium, Morgantown"
  },
  "ncaaf-401856869": {
@@ -3046,8 +3013,8 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 48.3,
-   "home": 51.7
+   "away": 48.4,
+   "home": 51.6
   },
   "home": {
    "abbr": "UCF",
@@ -3061,9 +3028,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856869",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+105",
@@ -3084,7 +3051,7 @@
   "stars": 1,
   "start": "2026-11-20T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Acrisure Bounce House, Orlando"
  },
  "ncaaf-401856870": {
@@ -3102,7 +3069,7 @@
   "espnSport": "football",
   "espnWinProb": {
    "away": 67.8,
-   "home": 32.2
+   "home": 32.1
   },
   "home": {
    "abbr": "ASU",
@@ -3116,9 +3083,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856870",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "-142",
@@ -3141,7 +3108,7 @@
   "stars": 1,
   "start": "2026-11-22T03:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Mountain America Stadium, Tempe"
  },
  "ncaaf-401856871": {
@@ -3175,9 +3142,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856871",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "-170",
@@ -3199,7 +3166,7 @@
   "stars": 2,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "McLane Stadium, Waco"
  },
  "ncaaf-401856872": {
@@ -3233,9 +3200,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856872",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "-270",
@@ -3257,7 +3224,7 @@
   "stars": 3,
   "start": "2026-11-22T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Amon G. Carter Stadium, Fort Worth"
  },
  "ncaaf-401858302": {
@@ -3275,8 +3242,8 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 3.6,
-   "home": 96.4
+   "away": 3.7,
+   "home": 96.3
   },
   "home": {
    "abbr": "MIA",
@@ -3291,9 +3258,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858302",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+900",
@@ -3315,7 +3282,7 @@
   "stars": 2,
   "start": "2026-11-22T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Hard Rock Stadium, Miami Gardens"
  },
  "ncaaf-401858303": {
@@ -3349,9 +3316,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858303",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+400",
@@ -3373,7 +3340,7 @@
   "stars": 3,
   "start": "2026-11-21T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Wallace Wade Stadium, Durham"
  },
  "ncaaf-401858304": {
@@ -3407,9 +3374,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858304",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+310",
@@ -3431,7 +3398,7 @@
   "stars": 3,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Doak Campbell Stadium, Tallahassee"
  },
  "ncaaf-401858305": {
@@ -3463,9 +3430,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858305",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "-102",
@@ -3488,7 +3455,7 @@
   "stars": 1,
   "start": "2026-11-21T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Scott Stadium, Charlottesville"
  },
  "ncaaf-401858306": {
@@ -3506,7 +3473,7 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 22.6,
+   "away": 22.5,
    "home": 77.5
   },
   "home": {
@@ -3522,9 +3489,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858306",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+425",
@@ -3546,7 +3513,7 @@
   "stars": 2,
   "start": "2026-11-22T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "L&N Federal Credit Union Stadium, Louisville"
  },
  "ncaaf-401858307": {
@@ -3565,7 +3532,7 @@
   "espnSport": "football",
   "espnWinProb": {
    "away": 6.6,
-   "home": 93.5
+   "home": 93.4
   },
   "home": {
    "abbr": "ND",
@@ -3580,9 +3547,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858307",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+950",
@@ -3596,7 +3563,7 @@
    "totalOpen": "56.5"
   },
   "pick": "ND ML (-1650)",
-  "reason": "ND are about 91% no-vig at -1650; ESPN's model has 94%.",
+  "reason": "ND are about 91% no-vig at -1650; ESPN's model has 93%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -3604,7 +3571,7 @@
   "stars": 2,
   "start": "2026-11-22T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Notre Dame Stadium, Notre Dame"
  },
  "ncaaf-401858308": {
@@ -3621,8 +3588,8 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 47.9,
-   "home": 52.1
+   "away": 47.8,
+   "home": 52.2
   },
   "home": {
    "abbr": "CAL",
@@ -3636,9 +3603,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858308",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "-130",
@@ -3661,7 +3628,7 @@
   "stars": 1,
   "start": "2026-11-22T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "California Memorial Stadium, Berkeley"
  },
  "ncaaf-401858309": {
@@ -3693,9 +3660,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858309",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "-135",
@@ -3718,7 +3685,7 @@
   "stars": 1,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Alumni Stadium (Chestnut Hill, MA), Chestnut Hill"
  },
  "ncaaf-401858310": {
@@ -3752,9 +3719,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858310",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "-1600",
@@ -3764,7 +3731,7 @@
    "provider": "Draft Kings",
    "spread": "WAKE -20.5",
    "spreadOpen": "WAKE -20.5",
-   "total": "56.5",
+   "total": "55.5",
    "totalOpen": "56.5"
   },
   "pick": "WAKE ML (-1600)",
@@ -3776,7 +3743,7 @@
   "stars": 2,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Bobby Dodd Stadium, Atlanta"
  },
  "ncaaf-401858527": {
@@ -3810,9 +3777,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858527",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "-325",
@@ -3836,7 +3803,7 @@
   "stars": 2,
   "start": "2026-11-21T19:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Gies Memorial Stadium, Champaign"
  },
  "ncaaf-401858528": {
@@ -3868,9 +3835,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858528",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "-175",
@@ -3894,7 +3861,7 @@
   "stars": 1,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Michigan Stadium, Ann Arbor"
  },
  "ncaaf-401858529": {
@@ -3928,9 +3895,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858529",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "-900",
@@ -3952,7 +3919,7 @@
   "stars": 3,
   "start": "2026-11-21T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Spartan Stadium, East Lansing"
  },
  "ncaaf-401858530": {
@@ -3986,9 +3953,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858530",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "-135",
@@ -4010,11 +3977,11 @@
   "stars": 2,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Huntington Bank Stadium, Minneapolis"
  },
  "ncaaf-401858531": {
-  "_lastPick": "OSU ML (-162)",
+  "_lastPick": "OSU ML (-166)",
   "away": {
    "abbr": "OSU",
    "form": "WLLWW",
@@ -4023,7 +3990,7 @@
    "short": "Ohio State",
    "teamId": "194"
   },
-  "confidence": 59,
+  "confidence": 60,
   "espnId": "401858531",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -4044,25 +4011,25 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858531",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
-   "mlAway": "-162",
+   "mlAway": "-166",
    "mlAwayOpen": "-198",
-   "mlHome": "+136",
+   "mlHome": "+140",
    "mlHomeOpen": "+164",
    "provider": "Draft Kings",
-   "spread": "OSU -3",
+   "spread": "OSU -3.5",
    "spreadOpen": "OSU -5.5",
    "total": "41.5",
    "totalOpen": "47.5"
   },
-  "pick": "OSU ML (-162)",
-  "reason": "OSU are about 59% no-vig at -162; ESPN's model has 71%. For: ESPN model 71% vs market 59%.",
+  "pick": "OSU ML (-166)",
+  "reason": "OSU are about 60% no-vig at -166; ESPN's model has 71%. For: ESPN model 71% vs market 60%.",
   "risks": [
-   "line drifted away (-198 → -162)"
+   "line drifted away (-198 → -166)"
   ],
   "side": "away",
   "slug": "college-football",
@@ -4070,7 +4037,7 @@
   "stars": 2,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Memorial Stadium (Lincoln, NE), Lincoln"
  },
  "ncaaf-401858532": {
@@ -4088,8 +4055,8 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 6.5,
-   "home": 93.5
+   "away": 6.4,
+   "home": 93.6
   },
   "home": {
    "abbr": "PSU",
@@ -4104,9 +4071,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858532",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+1300",
@@ -4116,7 +4083,7 @@
    "provider": "Draft Kings",
    "spread": "PSU -24.5",
    "spreadOpen": "PSU -20.5",
-   "total": "50.5",
+   "total": "49.5",
    "totalOpen": "49.5"
   },
   "pick": "PSU ML (-2800)",
@@ -4128,7 +4095,7 @@
   "stars": 2,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Beaver Stadium, University Park"
  },
  "ncaaf-401858533": {
@@ -4146,8 +4113,8 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 65.1,
-   "home": 34.9
+   "away": 65.0,
+   "home": 35.0
   },
   "home": {
    "abbr": "PUR",
@@ -4162,9 +4129,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858533",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "-230",
@@ -4186,7 +4153,7 @@
   "stars": 2,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Ross-Ade Stadium, West Lafayette"
  },
  "ncaaf-401858534": {
@@ -4220,9 +4187,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858534",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+600",
@@ -4244,7 +4211,7 @@
   "stars": 3,
   "start": "2026-11-21T23:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Los Angeles Memorial Coliseum, Los Angeles"
  },
  "ncaaf-401858535": {
@@ -4278,9 +4245,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858535",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "-310",
@@ -4302,7 +4269,7 @@
   "stars": 3,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Husky Stadium, Seattle"
  },
  "ncaaf-401860918": {
@@ -4336,9 +4303,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401860918",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+850",
@@ -4360,7 +4327,7 @@
   "stars": 2,
   "start": "2026-11-22T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Valley Children's Stadium, Fresno"
  },
  "ncaaf-401860919": {
@@ -4394,9 +4361,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401860919",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+280",
@@ -4418,11 +4385,11 @@
   "stars": 2,
   "start": "2026-11-22T03:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Reser Stadium, Corvallis"
  },
  "ncaaf-401860920": {
-  "_lastPick": "TXST ML (-440)",
+  "_lastPick": "TXST ML (-455)",
   "away": {
    "abbr": "WSU",
    "form": "WLLLL",
@@ -4452,14 +4419,14 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401860920",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
-   "mlAway": "+340",
+   "mlAway": "+350",
    "mlAwayOpen": "+500",
-   "mlHome": "-440",
+   "mlHome": "-455",
    "mlHomeOpen": "-700",
    "provider": "Draft Kings",
    "spread": "TXST -11.5",
@@ -4467,10 +4434,10 @@
    "total": "61.5",
    "totalOpen": "57.5"
   },
-  "pick": "TXST ML (-440)",
-  "reason": "TXST are about 78% no-vig at -440; ESPN's model has 80%. For: form WWLWW vs WLLLL.",
+  "pick": "TXST ML (-455)",
+  "reason": "TXST are about 79% no-vig at -455; ESPN's model has 80%. For: form WWLWW vs WLLLL.",
   "risks": [
-   "line drifted away (-700 → -440)"
+   "line drifted away (-700 → -455)"
   ],
   "side": "home",
   "slug": "college-football",
@@ -4478,7 +4445,7 @@
   "stars": 3,
   "start": "2026-11-21T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "UFCU Stadium, San Marcos"
  },
  "ncaaf-401860925": {
@@ -4512,9 +4479,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401860925",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+600",
@@ -4536,7 +4503,7 @@
   "stars": 3,
   "start": "2026-11-22T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Albertsons Stadium, Boise"
  },
  "ncaaf-401861968": {
@@ -4554,8 +4521,8 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 17.5,
-   "home": 82.5
+   "away": 17.6,
+   "home": 82.4
   },
   "home": {
    "abbr": "CONN",
@@ -4570,9 +4537,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401861968",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+400",
@@ -4594,7 +4561,7 @@
   "stars": 2,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Pratt & Whitney Stadium, East Hartford"
  },
  "ncaaf-401862830": {
@@ -4607,7 +4574,7 @@
    "short": "Rice",
    "teamId": "242"
   },
-  "confidence": 58,
+  "confidence": 56,
   "espnId": "401862830",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -4626,33 +4593,35 @@
   "id": "ncaaf-401862830",
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401862830",
-  "market": "Moneyline",
+  "market": null,
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
-   "mlAway": "+124",
+   "mlAway": "+120",
    "mlAwayOpen": "+142",
-   "mlHome": "-148",
+   "mlHome": "-142",
    "mlHomeOpen": "-170",
    "provider": "Draft Kings",
-   "spread": "TEM -3",
+   "spread": "TEM -2.5",
    "spreadOpen": "TEM -4",
    "total": "51.5",
    "totalOpen": "47.5"
   },
-  "pick": "TEM ML (-148)",
-  "reason": "TEM are about 57% no-vig at -148; ESPN's model has 67%. For: ESPN model 67% vs market 57%.",
-  "risks": [],
-  "side": "home",
+  "pick": "Pass",
+  "reason": "TEM about 56% no-vig at -142; no edge worth a pick.",
+  "risks": [
+   "line drifted away (-170 → -142)"
+  ],
+  "side": null,
   "slug": "college-football",
   "sport": "ncaaf",
-  "stars": 2,
+  "stars": 1,
   "start": "2026-11-20T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Lincoln Financial Field, Philadelphia"
  },
  "ncaaf-401862831": {
@@ -4686,9 +4655,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862831",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+190",
@@ -4710,7 +4679,7 @@
   "stars": 2,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Michie Stadium, West Point"
  },
  "ncaaf-401862832": {
@@ -4744,9 +4713,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862832",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+1100",
@@ -4768,7 +4737,7 @@
   "stars": 2,
   "start": "2026-11-21T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "H. A. Chapman Stadium, Tulsa"
  },
  "ncaaf-401862833": {
@@ -4785,8 +4754,8 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 58.7,
-   "home": 41.3
+   "away": 58.8,
+   "home": 41.2
   },
   "home": {
    "abbr": "FAU",
@@ -4800,9 +4769,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401862833",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "-115",
@@ -4823,7 +4792,7 @@
   "stars": 1,
   "start": "2026-11-21T19:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Flagler Credit Union Stadium, Boca Raton"
  },
  "ncaaf-401862834": {
@@ -4836,7 +4805,7 @@
    "short": "Memphis",
    "teamId": "235"
   },
-  "confidence": 59,
+  "confidence": 57,
   "espnId": "401862834",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -4855,16 +4824,16 @@
   "id": "ncaaf-401862834",
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401862834",
-  "market": "Moneyline",
+  "market": null,
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
-   "mlAway": "-170",
+   "mlAway": "-155",
    "mlAwayOpen": "-166",
-   "mlHome": "+142",
+   "mlHome": "+130",
    "mlHomeOpen": "+140",
    "provider": "Draft Kings",
    "spread": "MEM -3",
@@ -4872,16 +4841,16 @@
    "total": "67.5",
    "totalOpen": "64.5"
   },
-  "pick": "MEM ML (-170)",
-  "reason": "MEM are about 60% no-vig at -170; ESPN's model has 63%.",
+  "pick": "Pass",
+  "reason": "MEM about 58% no-vig at -155; no edge worth a pick.",
   "risks": [],
-  "side": "away",
+  "side": null,
   "slug": "college-football",
   "sport": "ncaaf",
-  "stars": 2,
+  "stars": 1,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Navy-Marine Corps Memorial Stadium, Annapolis"
  },
  "ncaaf-401862835": {
@@ -4915,9 +4884,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862835",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "-238",
@@ -4941,7 +4910,7 @@
   "stars": 3,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Yulman Stadium, New Orleans"
  },
  "ncaaf-401862836": {
@@ -4975,9 +4944,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862836",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "-245",
@@ -4999,7 +4968,7 @@
   "stars": 2,
   "start": "2026-11-22T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Protective Stadium, Birmingham"
  },
  "ncaaf-401864541": {
@@ -5018,7 +4987,7 @@
   "espnSport": "football",
   "espnWinProb": {
    "away": 32.1,
-   "home": 67.8
+   "home": 67.9
   },
   "home": {
    "abbr": "NEV",
@@ -5033,9 +5002,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864541",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+170",
@@ -5057,7 +5026,7 @@
   "stars": 2,
   "start": "2026-11-22T03:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Mackay Stadium, Reno"
  },
  "ncaaf-401864542": {
@@ -5091,9 +5060,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864542",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "-305",
@@ -5117,7 +5086,7 @@
   "stars": 3,
   "start": "2026-11-21T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "War Memorial Stadium, Laramie"
  },
  "ncaaf-401864543": {
@@ -5151,9 +5120,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864543",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+1400",
@@ -5175,7 +5144,7 @@
   "stars": 2,
   "start": "2026-11-21T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Fargodome, Fargo"
  },
  "ncaaf-401864544": {
@@ -5193,8 +5162,8 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 70.8,
-   "home": 29.2
+   "away": 70.9,
+   "home": 29.1
   },
   "home": {
    "abbr": "SJSU",
@@ -5209,9 +5178,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864544",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "-258",
@@ -5233,7 +5202,7 @@
   "stars": 3,
   "start": "2026-11-22T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "CEFCU Stadium, San Jose"
  },
  "ncaaf-401864545": {
@@ -5267,9 +5236,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864545",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+1100",
@@ -5291,7 +5260,7 @@
   "stars": 2,
   "start": "2026-11-21T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Falcon Stadium, USAF Academy"
  },
  "ncaaf-401866464": {
@@ -5425,8 +5394,8 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 12.1,
-   "home": 87.9
+   "away": 12.2,
+   "home": 87.8
   },
   "home": {
    "abbr": "TOL",
@@ -5441,9 +5410,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401866468",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+525",
@@ -5465,7 +5434,7 @@
   "stars": 2,
   "start": "2026-11-21T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Glass Bowl, Toledo"
  },
  "ncaaf-401866469": {
@@ -5554,9 +5523,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869929",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+455",
@@ -5578,11 +5547,11 @@
   "stars": 2,
   "start": "2026-11-21T19:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Kidd Brewer Stadium, Boone"
  },
  "ncaaf-401869938": {
-  "_lastPick": "LT ML (-550)",
+  "_lastPick": "LT ML (-575)",
   "away": {
    "abbr": "ARST",
    "form": "LLWWL",
@@ -5612,25 +5581,25 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869938",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
-   "mlAway": "+410",
+   "mlAway": "+425",
    "mlAwayOpen": "+575",
-   "mlHome": "-550",
+   "mlHome": "-575",
    "mlHomeOpen": "-850",
    "provider": "Draft Kings",
-   "spread": "LT -13.5",
+   "spread": "LT -14",
    "spreadOpen": "LT -16.5",
    "total": "53.5",
    "totalOpen": "50.5"
   },
-  "pick": "LT ML (-550)",
-  "reason": "LT are about 81% no-vig at -550; ESPN's model has 85%. For: form WWWWW vs LLWWL.",
+  "pick": "LT ML (-575)",
+  "reason": "LT are about 82% no-vig at -575; ESPN's model has 85%. For: form WWWWW vs LLWWL.",
   "risks": [
-   "line drifted away (-850 → -550)"
+   "line drifted away (-850 → -575)"
   ],
   "side": "home",
   "slug": "college-football",
@@ -5638,11 +5607,11 @@
   "stars": 3,
   "start": "2026-11-22T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Joe Aillet Stadium, Ruston"
  },
  "ncaaf-401869946": {
-  "_lastPick": "UL ML (-410)",
+  "_lastPick": "UL ML (-395)",
   "away": {
    "abbr": "CCU",
    "form": "WLWLW",
@@ -5651,7 +5620,7 @@
    "short": "Coastal",
    "teamId": "324"
   },
-  "confidence": 76,
+  "confidence": 75,
   "espnId": "401869946",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -5672,14 +5641,14 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869946",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
-   "mlAway": "+320",
+   "mlAway": "+310",
    "mlAwayOpen": "+225",
-   "mlHome": "-410",
+   "mlHome": "-395",
    "mlHomeOpen": "-278",
    "provider": "Draft Kings",
    "spread": "UL -10.5",
@@ -5687,8 +5656,8 @@
    "total": "50.5",
    "totalOpen": "50.5"
   },
-  "pick": "UL ML (-410)",
-  "reason": "UL are about 77% no-vig at -410; ESPN's model has 81%. For: line moved toward UL (-278 → -410).",
+  "pick": "UL ML (-395)",
+  "reason": "UL are about 77% no-vig at -395; ESPN's model has 81%. For: line moved toward UL (-278 → -395).",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -5696,7 +5665,7 @@
   "stars": 3,
   "start": "2026-11-21T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Our Lady of Lourdes Stadium, Lafayette"
  },
  "ncaaf-401869953": {
@@ -5730,9 +5699,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869953",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "-340",
@@ -5740,7 +5709,7 @@
    "mlHome": "+270",
    "mlHomeOpen": "+260",
    "provider": "Draft Kings",
-   "spread": "GASO -8.5",
+   "spread": "GASO -9.5",
    "spreadOpen": "GASO -8.5",
    "total": "48.5",
    "totalOpen": "47.5"
@@ -5754,7 +5723,7 @@
   "stars": 3,
   "start": "2026-11-21T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Veterans Memorial Stadium (AL), Troy"
  },
  "ncaaf-401869958": {
@@ -5786,9 +5755,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401869958",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+110",
@@ -5811,7 +5780,7 @@
   "stars": 1,
   "start": "2026-11-21T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Joan C. Edwards Stadium, Huntington"
  },
  "ncaaf-401871077": {
@@ -5843,9 +5812,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401871077",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "-166",
@@ -5866,7 +5835,7 @@
   "stars": 1,
   "start": "2026-11-21T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Aggie Memorial Stadium, Las Cruces"
  },
  "ncaaf-401871078": {
@@ -5884,8 +5853,8 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 36.6,
-   "home": 63.4
+   "away": 36.9,
+   "home": 63.1
   },
   "home": {
    "abbr": "KENN",
@@ -5900,9 +5869,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871078",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+136",
@@ -5924,7 +5893,7 @@
   "stars": 2,
   "start": "2026-11-21T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Walens Family Field at Fifth Third Stadium, Kennesaw"
  },
  "ncaaf-401871079": {
@@ -5958,9 +5927,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871079",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "+320",
@@ -5982,11 +5951,11 @@
   "stars": 3,
   "start": "2026-11-21T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "AmFirst Stadium, Jacksonville"
  },
  "ncaaf-401871080": {
-  "_lastPick": "LIB ML (-850)",
+  "_lastPick": "LIB ML (-900)",
   "away": {
    "abbr": "WKU",
    "form": "WLLWW",
@@ -5995,13 +5964,13 @@
    "short": "Western KY",
    "teamId": "98"
   },
-  "confidence": 85,
+  "confidence": 86,
   "espnId": "401871080",
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 8.1,
-   "home": 91.9
+   "away": 8.0,
+   "home": 92.0
   },
   "home": {
    "abbr": "LIB",
@@ -6016,14 +5985,14 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871080",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
-   "mlAway": "+575",
+   "mlAway": "+600",
    "mlAwayOpen": "+455",
-   "mlHome": "-850",
+   "mlHome": "-900",
    "mlHomeOpen": "-625",
    "provider": "Draft Kings",
    "spread": "LIB -17.5",
@@ -6031,8 +6000,8 @@
    "total": "53.5",
    "totalOpen": "52.5"
   },
-  "pick": "LIB ML (-850)",
-  "reason": "LIB are about 86% no-vig at -850; ESPN's model has 92%. For: ESPN model 92% vs market 86%.",
+  "pick": "LIB ML (-900)",
+  "reason": "LIB are about 86% no-vig at -900; ESPN's model has 92%. For: ESPN model 92% vs market 86%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -6040,7 +6009,7 @@
   "stars": 3,
   "start": "2026-11-21T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Williams Stadium (VA), Lynchburg"
  },
  "ncaaf-401871081": {
@@ -6074,9 +6043,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871081",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "-218",
@@ -6098,7 +6067,7 @@
   "stars": 2,
   "start": "2026-11-21T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Elliott T. Bowers Stadium, Huntsville"
  },
  "ncaaf-401871101": {
@@ -6116,8 +6085,8 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 64.7,
-   "home": 35.3
+   "away": 64.6,
+   "home": 35.4
   },
   "home": {
    "abbr": "USM",
@@ -6132,9 +6101,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871101",
   "market": "Moneyline",
   "news": [
-   "What Chizik knows, wants to know about Bama, UF, Ole Miss",
-   "Chizik breaks down the film for a dive into a Manning scouting report",
-   "Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 over Central Michigan"
+   "Will Georgia or the field win CFP title?",
+   "College Football on ESPN:  John Legend goes wild for the CFP.",
+   "Should UCLA be on upset alert at Michigan?"
   ],
   "odds": {
    "mlAway": "-185",
@@ -6156,11 +6125,11 @@
   "stars": 2,
   "start": "2026-11-21T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "M. M. Roberts Stadium, Hattiesburg"
  },
  "nfl-401873066": {
-  "_lastPick": "HOU ML (-750)",
+  "_lastPick": "HOU ML (-740)",
   "away": {
    "abbr": "IND",
    "form": "WLLLL",
@@ -6256,14 +6225,14 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873066",
   "market": "Moneyline",
   "news": [
-   "Niners' Nick Bosa on 4-game sack drought: 'Don't think I'm playing my best'",
-   "Florio, Simms apologize for comments about Vrabel's mustache in Germany",
-   "TNF: Texans rule out DE Hunter, RB Marks; Colts rule out CB Ward, starting OTs"
+   "Fantasy football flex and superflex rankings for Week 11",
+   "'A walking atrocity!' Stephen A. can't even laugh about Cowboys' defense",
+   "'Protect yourself': Stephen A. implores Skattebo to end backflips"
   ],
   "odds": {
-   "mlAway": "+525",
+   "mlAway": "+527",
    "mlAwayOpen": "+195",
-   "mlHome": "-750",
+   "mlHome": "-740",
    "mlHomeOpen": "-238",
    "provider": "Draft Kings",
    "spread": "HOU -12.5",
@@ -6271,8 +6240,8 @@
    "total": "43.5",
    "totalOpen": "45.5"
   },
-  "pick": "HOU ML (-750)",
-  "reason": "HOU are about 85% no-vig at -750; ESPN's model has 75%. For: line moved toward HOU (-238 → -750).",
+  "pick": "HOU ML (-740)",
+  "reason": "HOU are about 85% no-vig at -740; ESPN's model has 75%. For: line moved toward HOU (-238 → -740).",
   "risks": [
    "ESPN model only 75% vs market 85%"
   ],
@@ -6282,8 +6251,60 @@
   "stars": 2,
   "start": "2026-11-20T01:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Reliant Stadium, Houston"
+ },
+ "soccer-401874960": {
+  "away": {
+   "abbr": "GEN",
+   "form": "LWWWL",
+   "name": "Genoa",
+   "record": "4-1-6",
+   "short": "Genoa",
+   "teamId": "3263"
+  },
+  "confidence": 36,
+  "espnId": "401874960",
+  "espnLeague": "ita.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "SAS",
+   "form": "LLLLL",
+   "name": "Sassuolo",
+   "record": "2-2-7",
+   "short": "Sassuolo",
+   "teamId": "3997"
+  },
+  "id": "soccer-401874960",
+  "league": "Serie A",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401874960",
+  "news": [
+   "How fallen giants and their fans bounce back from scandal, relegation",
+   "Transfer rumors, news: AC Milan, Juventus eye USMNT's Folarin Balogun",
+   "Transfer rumors, news: Man United eye USMNT's McKennie amid Pochettino arrival"
+  ],
+  "odds": {
+   "mlAway": "+145",
+   "mlAwayOpen": "+180",
+   "mlDraw": "+225",
+   "mlHome": "+175",
+   "mlHomeOpen": "+130",
+   "provider": "DraftKings",
+   "spread": "GEN +145",
+   "spreadOpen": "SAS -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Genoa about 38% no-vig at +145; no edge worth a pick.",
+  "risks": [],
+  "slug": "ita.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-22T14:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T16:39:30Z",
+  "venue": "Mapei Stadium, Reggio Emilia"
  },
  "soccer-401874967": {
   "_lastPick": "AS Roma ML (-350)",
@@ -6337,7 +6358,7 @@
   "stars": 2,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Ennio Tardini, Parma"
  },
  "soccer-401874981": {
@@ -6392,8 +6413,115 @@
   "stars": 3,
   "start": "2026-11-21T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Olimpico, Roma"
+ },
+ "soccer-401875008": {
+  "_lastPick": "Juventus ML (-300)",
+  "away": {
+   "abbr": "VEN",
+   "form": "WLLLW",
+   "name": "Venezia",
+   "record": "2-0-9",
+   "short": "Venezia",
+   "teamId": "17530"
+  },
+  "confidence": 66,
+  "espnId": "401875008",
+  "espnLeague": "ita.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "JUV",
+   "form": "DWWLW",
+   "name": "Juventus",
+   "record": "5-3-3",
+   "short": "Juventus",
+   "teamId": "111"
+  },
+  "id": "soccer-401875008",
+  "league": "Serie A",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401875008",
+  "market": "Moneyline",
+  "news": [
+   "How fallen giants and their fans bounce back from scandal, relegation",
+   "Transfer rumors, news: AC Milan, Juventus eye USMNT's Folarin Balogun",
+   "Transfer rumors, news: Man United eye USMNT's McKennie amid Pochettino arrival"
+  ],
+  "odds": {
+   "mlAway": "+650",
+   "mlAwayOpen": "+600",
+   "mlDraw": "+400",
+   "mlHome": "-300",
+   "mlHomeOpen": "-310",
+   "provider": "DraftKings",
+   "spread": "JUV -300",
+   "spreadOpen": "JUV -1.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Juventus ML (-300)",
+  "reason": "Juventus are about 69% no-vig at -300.",
+  "risks": [],
+  "side": "home",
+  "slug": "ita.1",
+  "sport": "soccer",
+  "stars": 2,
+  "start": "2026-11-22T11:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T16:39:30Z",
+  "venue": "Allianz Stadium, Torino"
+ },
+ "soccer-401875047": {
+  "away": {
+   "abbr": "UDI",
+   "form": "LLDLL",
+   "name": "Udinese",
+   "record": "1-2-8",
+   "short": "Udinese",
+   "teamId": "118"
+  },
+  "confidence": 53,
+  "espnId": "401875047",
+  "espnLeague": "ita.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "BOL",
+   "form": "WWWWL",
+   "name": "Bologna",
+   "record": "5-2-4",
+   "short": "Bologna",
+   "teamId": "107"
+  },
+  "id": "soccer-401875047",
+  "league": "Serie A",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401875047",
+  "news": [
+   "How fallen giants and their fans bounce back from scandal, relegation",
+   "Transfer rumors, news: AC Milan, Juventus eye USMNT's Folarin Balogun",
+   "Transfer rumors, news: Man United eye USMNT's McKennie amid Pochettino arrival"
+  ],
+  "odds": {
+   "mlAway": "+360",
+   "mlAwayOpen": "+330",
+   "mlDraw": "+270",
+   "mlHome": "-145",
+   "mlHomeOpen": "-140",
+   "provider": "DraftKings",
+   "spread": "BOL -145",
+   "spreadOpen": "BOL -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Bologna about 55% no-vig at -145; no edge worth a pick.",
+  "risks": [],
+  "slug": "ita.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-22T14:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T16:39:30Z",
+  "venue": "Renato Dall'Ara, Bologna"
  },
  "soccer-401875056": {
   "_lastPick": "Como ML (-350)",
@@ -6447,7 +6575,7 @@
   "stars": 3,
   "start": "2026-11-21T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Giuseppe Sinigaglia, Como"
  },
  "soccer-401875067": {
@@ -6502,7 +6630,7 @@
   "stars": 2,
   "start": "2026-11-21T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Stadio Diego Armando Maradona, Napoli"
  },
  "soccer-401876395": {
@@ -6554,7 +6682,7 @@
   "stars": 1,
   "start": "2026-11-20T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Stade de l'Aube, Paris"
  },
  "soccer-401876396": {
@@ -6608,11 +6736,66 @@
   "stars": 1,
   "start": "2026-11-21T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Stade de la Meinau, Strasbourg"
  },
+ "soccer-401876397": {
+  "_lastPick": "Paris FC ML (-310)",
+  "away": {
+   "abbr": "ANG",
+   "form": "LLDLL",
+   "name": "Angers",
+   "record": "2-2-6",
+   "short": "Angers",
+   "teamId": "7868"
+  },
+  "confidence": 70,
+  "espnId": "401876397",
+  "espnLeague": "fra.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "PAR",
+   "form": "WWLWL",
+   "name": "Paris FC",
+   "record": "6-2-2",
+   "short": "Paris FC",
+   "teamId": "6851"
+  },
+  "id": "soccer-401876397",
+  "league": "Ligue 1",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401876397",
+  "market": "Moneyline",
+  "news": [
+   "Transfer rumors, news: AC Milan, Juventus eye USMNT's Folarin Balogun",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "10 Best: Ranking the world's top men's soccer players ... again!"
+  ],
+  "odds": {
+   "mlAway": "+800",
+   "mlAwayOpen": "+700",
+   "mlDraw": "+450",
+   "mlHome": "-310",
+   "mlHomeOpen": "-290",
+   "provider": "DraftKings",
+   "spread": "PAR -310",
+   "spreadOpen": "PAR -1.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Paris FC ML (-310)",
+  "reason": "Paris FC are about 72% no-vig at -310. For: form WWLWL vs LLDLL.",
+  "risks": [],
+  "side": "home",
+  "slug": "fra.1",
+  "sport": "soccer",
+  "stars": 3,
+  "start": "2026-11-22T14:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T16:39:30Z",
+  "venue": "Stade Jean Bouin, Paris"
+ },
  "soccer-401876398": {
-  "_lastPick": "PSG ML (-225)",
+  "_lastPick": "PSG ML (-220)",
   "away": {
    "abbr": "PSG",
    "form": "WWWWW",
@@ -6643,19 +6826,19 @@
    "10 Best: Ranking the world's top men's soccer players ... again!"
   ],
   "odds": {
-   "mlAway": "-225",
+   "mlAway": "-220",
    "mlAwayOpen": "-230",
    "mlDraw": "+400",
    "mlHome": "+500",
    "mlHomeOpen": "+500",
    "provider": "DraftKings",
-   "spread": "PSG -225",
+   "spread": "PSG -220",
    "spreadOpen": "PSG -1.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
-  "pick": "PSG ML (-225)",
-  "reason": "PSG are about 65% no-vig at -225.",
+  "pick": "PSG ML (-220)",
+  "reason": "PSG are about 65% no-vig at -220.",
   "risks": [],
   "side": "away",
   "slug": "fra.1",
@@ -6663,7 +6846,7 @@
   "stars": 2,
   "start": "2026-11-21T16:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Allianz Riviera, Nice"
  },
  "soccer-401876399": {
@@ -6718,8 +6901,62 @@
   "stars": 2,
   "start": "2026-11-21T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Stade Louis II, Monaco"
+ },
+ "soccer-401876401": {
+  "away": {
+   "abbr": "REN",
+   "form": "LDLWD",
+   "name": "Stade Rennais",
+   "record": "5-1-4",
+   "short": "Rennes",
+   "teamId": "169"
+  },
+  "confidence": 35,
+  "espnId": "401876401",
+  "espnLeague": "fra.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "LOR",
+   "form": "WLDWW",
+   "name": "Lorient",
+   "record": "4-3-3",
+   "short": "Lorient",
+   "teamId": "273"
+  },
+  "id": "soccer-401876401",
+  "league": "Ligue 1",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401876401",
+  "news": [
+   "Transfer rumors, news: AC Milan, Juventus eye USMNT's Folarin Balogun",
+   "Nicol: Portugal vs. Denmark was one of the worst games in a decade",
+   "10 Best: Ranking the world's top men's soccer players ... again!"
+  ],
+  "odds": {
+   "mlAway": "+145",
+   "mlAwayOpen": "+140",
+   "mlDraw": "+250",
+   "mlHome": "+185",
+   "mlHomeOpen": "+180",
+   "provider": "DraftKings",
+   "spread": "REN +145",
+   "spreadOpen": "REN -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Rennes about 39% no-vig at +145; no edge worth a pick.",
+  "risks": [
+   "opponent in better form (WLDWW)"
+  ],
+  "slug": "fra.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-22T16:15Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T16:39:30Z",
+  "venue": "Stade du Moustoir - Yves Allainmat, Lorient"
  },
  "soccer-401876402": {
   "away": {
@@ -6730,7 +6967,7 @@
    "short": "Lyon",
    "teamId": "167"
   },
-  "confidence": 38,
+  "confidence": 39,
   "espnId": "401876402",
   "espnLeague": "fra.1",
   "espnSport": "soccer",
@@ -6751,26 +6988,26 @@
    "10 Best: Ranking the world's top men's soccer players ... again!"
   ],
   "odds": {
-   "mlAway": "+215",
+   "mlAway": "+225",
    "mlAwayOpen": "+200",
-   "mlDraw": "+225",
-   "mlHome": "+135",
+   "mlDraw": "+230",
+   "mlHome": "+130",
    "mlHomeOpen": "+135",
    "provider": "DraftKings",
-   "spread": "LILL +135",
+   "spread": "LILL +130",
    "spreadOpen": "LILL -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Lille about 41% no-vig at +135; no edge worth a pick.",
+  "reason": "Lille about 42% no-vig at +130; no edge worth a pick.",
   "risks": [],
   "slug": "fra.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-21T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille"
  },
  "soccer-401876403": {
@@ -6782,7 +7019,7 @@
    "short": "Toulouse",
    "teamId": "179"
   },
-  "confidence": 49,
+  "confidence": 48,
   "espnId": "401876403",
   "espnLeague": "fra.1",
   "espnSport": "soccer",
@@ -6803,26 +7040,26 @@
    "10 Best: Ranking the world's top men's soccer players ... again!"
   ],
   "odds": {
-   "mlAway": "+290",
+   "mlAway": "+280",
    "mlAwayOpen": "+300",
    "mlDraw": "+300",
-   "mlHome": "-120",
+   "mlHome": "-115",
    "mlHomeOpen": "-125",
    "provider": "DraftKings",
-   "spread": "RCL -120",
+   "spread": "RCL -115",
    "spreadOpen": "RCL -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Lens about 52% no-vig at -120; no edge worth a pick.",
+  "reason": "Lens about 51% no-vig at -115; no edge worth a pick.",
   "risks": [],
   "slug": "fra.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-21T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Stade Bollaert-Delelis, Lens"
  },
  "soccer-401877048": {
@@ -6869,7 +7106,7 @@
   "stars": 1,
   "start": "2026-11-22T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Estadio Universitario, San Nicolás de los Garza"
  },
  "soccer-401877049": {
@@ -6916,7 +7153,7 @@
   "stars": 1,
   "start": "2026-11-22T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Estadio Olímpico Universitario, Mexico City"
  },
  "soccer-401877050": {
@@ -6965,7 +7202,7 @@
   "stars": 1,
   "start": "2026-11-21T22:50Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Estadio Hidalgo, Pachuca"
  },
  "soccer-401877051": {
@@ -7012,7 +7249,7 @@
   "stars": 1,
   "start": "2026-11-21T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Estadio Corona, Torreón"
  },
  "soccer-401877052": {
@@ -7024,7 +7261,7 @@
    "short": "Atlante",
    "teamId": "226"
   },
-  "confidence": 56,
+  "confidence": 57,
   "espnId": "401877052",
   "espnLeague": "mex.1",
   "espnSport": "soccer",
@@ -7040,26 +7277,26 @@
   "league": "Liga MX",
   "link": "https://www.espn.com/soccer/match/_/gameId/401877052",
   "odds": {
-   "mlAway": "+390",
+   "mlAway": "+400",
    "mlAwayOpen": "+360",
    "mlDraw": "+330",
-   "mlHome": "-170",
+   "mlHome": "-175",
    "mlHomeOpen": "-160",
    "provider": "DraftKings",
-   "spread": "TIJ -170",
+   "spread": "TIJ -175",
    "spreadOpen": "TIJ -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Tijuana about 59% no-vig at -170; no edge worth a pick.",
+  "reason": "Tijuana about 60% no-vig at -175; no edge worth a pick.",
   "risks": [],
   "slug": "mex.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-21T03:10Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Estadio Caliente, Tijuana"
  },
  "soccer-401877053": {
@@ -7106,7 +7343,7 @@
   "stars": 1,
   "start": "2026-11-21T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Estadio Olímpico Benito Juárez, Ciudad Juárez"
  },
  "soccer-401877054": {
@@ -7153,7 +7390,7 @@
   "stars": 1,
   "start": "2026-11-21T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Estadio Cuauhtémoc, Puebla"
  },
  "soccer-401878754": {
@@ -7183,9 +7420,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401878754",
   "market": "Moneyline",
   "news": [
-   "Transfer rumors, news: Manchester United's Matthijs de Ligt on Besiktas' radar",
-   "Pochettino addresses Manchester United supporters for the first time",
-   "Mauricio Pochettino arrives at Man United: 'You will see, give me time'"
+   "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs",
+   "Valentín Barco on Chelsea career so far: 'I think I can give a lot more'",
+   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world"
   ],
   "odds": {
    "mlAway": "+475",
@@ -7208,8 +7445,60 @@
   "stars": 2,
   "start": "2026-11-21T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Tottenham Hotspur Stadium, London"
+ },
+ "soccer-401878755": {
+  "away": {
+   "abbr": "MAN",
+   "form": "DWLLL",
+   "name": "Manchester United",
+   "record": "1-5-4",
+   "short": "Man Utd",
+   "teamId": "360"
+  },
+  "confidence": 51,
+  "espnId": "401878755",
+  "espnLeague": "eng.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "LIV",
+   "form": "WLLWW",
+   "name": "Liverpool",
+   "record": "5-3-2",
+   "short": "Liverpool",
+   "teamId": "364"
+  },
+  "id": "soccer-401878755",
+  "league": "Premier League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401878755",
+  "news": [
+   "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs",
+   "Valentín Barco on Chelsea career so far: 'I think I can give a lot more'",
+   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world"
+  ],
+  "odds": {
+   "mlAway": "+310",
+   "mlAwayOpen": "+290",
+   "mlDraw": "+320",
+   "mlHome": "-130",
+   "mlHomeOpen": "-125",
+   "provider": "DraftKings",
+   "spread": "LIV -130",
+   "spreadOpen": "LIV -0.5",
+   "total": "3.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Liverpool about 54% no-vig at -130; no edge worth a pick.",
+  "risks": [],
+  "slug": "eng.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-22T16:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T16:39:30Z",
+  "venue": "Anfield, Liverpool"
  },
  "soccer-401878756": {
   "away": {
@@ -7220,7 +7509,7 @@
    "short": "Sunderland",
    "teamId": "366"
   },
-  "confidence": 49,
+  "confidence": 50,
   "espnId": "401878756",
   "espnLeague": "eng.1",
   "espnSport": "soccer",
@@ -7236,31 +7525,31 @@
   "league": "Premier League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401878756",
   "news": [
-   "Transfer rumors, news: Manchester United's Matthijs de Ligt on Besiktas' radar",
-   "Pochettino addresses Manchester United supporters for the first time",
-   "Mauricio Pochettino arrives at Man United: 'You will see, give me time'"
+   "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs",
+   "Valentín Barco on Chelsea career so far: 'I think I can give a lot more'",
+   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world"
   ],
   "odds": {
-   "mlAway": "+320",
+   "mlAway": "+340",
    "mlAwayOpen": "+330",
-   "mlDraw": "+280",
-   "mlHome": "-120",
+   "mlDraw": "+285",
+   "mlHome": "-125",
    "mlHomeOpen": "-135",
    "provider": "DraftKings",
-   "spread": "AVL -120",
+   "spread": "AVL -125",
    "spreadOpen": "AVL -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Aston Villa about 52% no-vig at -120; no edge worth a pick.",
+  "reason": "Aston Villa about 53% no-vig at -125; no edge worth a pick.",
   "risks": [],
   "slug": "eng.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-21T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Villa Park, Birmingham"
  },
  "soccer-401879232": {
@@ -7290,9 +7579,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401879232",
   "market": "Moneyline",
   "news": [
-   "Transfer rumors, news: Manchester United's Matthijs de Ligt on Besiktas' radar",
-   "Pochettino addresses Manchester United supporters for the first time",
-   "Mauricio Pochettino arrives at Man United: 'You will see, give me time'"
+   "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs",
+   "Valentín Barco on Chelsea career so far: 'I think I can give a lot more'",
+   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world"
   ],
   "odds": {
    "mlAway": "-175",
@@ -7315,11 +7604,11 @@
   "stars": 2,
   "start": "2026-11-21T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "St. James' Park, Newcastle-upon-Tyne"
  },
  "soccer-401879233": {
-  "_lastPick": "Man City ML (-250)",
+  "_lastPick": "Man City ML (-260)",
   "away": {
    "abbr": "FUL",
    "form": "DDLWW",
@@ -7328,7 +7617,7 @@
    "short": "Fulham",
    "teamId": "370"
   },
-  "confidence": 65,
+  "confidence": 66,
   "espnId": "401879233",
   "espnLeague": "eng.1",
   "espnSport": "soccer",
@@ -7345,24 +7634,24 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401879233",
   "market": "Moneyline",
   "news": [
-   "Transfer rumors, news: Manchester United's Matthijs de Ligt on Besiktas' radar",
-   "Pochettino addresses Manchester United supporters for the first time",
-   "Mauricio Pochettino arrives at Man United: 'You will see, give me time'"
+   "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs",
+   "Valentín Barco on Chelsea career so far: 'I think I can give a lot more'",
+   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world"
   ],
   "odds": {
-   "mlAway": "+600",
+   "mlAway": "+650",
    "mlAwayOpen": "+550",
    "mlDraw": "+425",
-   "mlHome": "-250",
+   "mlHome": "-260",
    "mlHomeOpen": "-250",
    "provider": "DraftKings",
-   "spread": "MNC -250",
+   "spread": "MNC -260",
    "spreadOpen": "MNC -1.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
-  "pick": "Man City ML (-250)",
-  "reason": "Man City are about 68% no-vig at -250.",
+  "pick": "Man City ML (-260)",
+  "reason": "Man City are about 69% no-vig at -260.",
   "risks": [],
   "side": "home",
   "slug": "eng.1",
@@ -7370,8 +7659,63 @@
   "stars": 2,
   "start": "2026-11-21T12:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Etihad Stadium, Manchester"
+ },
+ "soccer-401879234": {
+  "_lastPick": "Brighton ML (-200)",
+  "away": {
+   "abbr": "BHA",
+   "form": "WWWLL",
+   "name": "Brighton & Hove Albion",
+   "record": "7-1-2",
+   "short": "Brighton",
+   "teamId": "331"
+  },
+  "confidence": 61,
+  "espnId": "401879234",
+  "espnLeague": "eng.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "HUL",
+   "form": "LDDLD",
+   "name": "Hull City",
+   "record": "2-5-3",
+   "short": "Hull",
+   "teamId": "306"
+  },
+  "id": "soccer-401879234",
+  "league": "Premier League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401879234",
+  "market": "Moneyline",
+  "news": [
+   "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs",
+   "Valentín Barco on Chelsea career so far: 'I think I can give a lot more'",
+   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world"
+  ],
+  "odds": {
+   "mlAway": "-200",
+   "mlAwayOpen": "-190",
+   "mlDraw": "+350",
+   "mlHome": "+500",
+   "mlHomeOpen": "+450",
+   "provider": "DraftKings",
+   "spread": "BHA -200",
+   "spreadOpen": "BHA -1.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Brighton ML (-200)",
+  "reason": "Brighton are about 63% no-vig at -200. For: form WWWLL vs LDDLD.",
+  "risks": [],
+  "side": "away",
+  "slug": "eng.1",
+  "sport": "soccer",
+  "stars": 2,
+  "start": "2026-11-22T14:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T16:39:30Z",
+  "venue": "The MKM Stadium, Hull"
  },
  "soccer-401879235": {
   "away": {
@@ -7398,9 +7742,9 @@
   "league": "Premier League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401879235",
   "news": [
-   "Transfer rumors, news: Manchester United's Matthijs de Ligt on Besiktas' radar",
-   "Pochettino addresses Manchester United supporters for the first time",
-   "Mauricio Pochettino arrives at Man United: 'You will see, give me time'"
+   "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs",
+   "Valentín Barco on Chelsea career so far: 'I think I can give a lot more'",
+   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world"
   ],
   "odds": {
    "mlAway": "+180",
@@ -7422,7 +7766,7 @@
   "stars": 1,
   "start": "2026-11-21T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Coventry Building Society Arena, Coventry"
  },
  "soccer-401879236": {
@@ -7450,9 +7794,9 @@
   "league": "Premier League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401879236",
   "news": [
-   "Transfer rumors, news: Manchester United's Matthijs de Ligt on Besiktas' radar",
-   "Pochettino addresses Manchester United supporters for the first time",
-   "Mauricio Pochettino arrives at Man United: 'You will see, give me time'"
+   "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs",
+   "Valentín Barco on Chelsea career so far: 'I think I can give a lot more'",
+   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world"
   ],
   "odds": {
    "mlAway": "+295",
@@ -7474,7 +7818,7 @@
   "stars": 1,
   "start": "2026-11-21T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Stamford Bridge, London"
  },
  "soccer-401879238": {
@@ -7502,9 +7846,9 @@
   "league": "Premier League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401879238",
   "news": [
-   "Transfer rumors, news: Manchester United's Matthijs de Ligt on Besiktas' radar",
-   "Pochettino addresses Manchester United supporters for the first time",
-   "Mauricio Pochettino arrives at Man United: 'You will see, give me time'"
+   "Transfer rumors, news: Premier League clubs eye Cristiano Ronaldo successor Forbs",
+   "Valentín Barco on Chelsea career so far: 'I think I can give a lot more'",
+   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world"
   ],
   "odds": {
    "mlAway": "+290",
@@ -7526,7 +7870,7 @@
   "stars": 1,
   "start": "2026-11-21T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Vitality Stadium, Bournemouth"
  },
  "soccer-401882797": {
@@ -7554,15 +7898,15 @@
   "league": "LaLiga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401882797",
   "news": [
-   "Arda Güler signs new six-year Real Madrid contract",
-   "Oviedo fan handed suspended prison sentence for racist abuse toward Mbappé",
-   "Has Real Madrid's Vinícius Júnior finally put summer transfer saga behind him?"
+   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world",
+   "Barcelona chief Deco keen for Liverpool to make Ronald Araujo loan permanent",
+   "Arda Güler signs new six-year Real Madrid contract"
   ],
   "odds": {
    "mlAway": "+140",
    "mlAwayOpen": "+130",
-   "mlDraw": "+255",
-   "mlHome": "+190",
+   "mlDraw": "+245",
+   "mlHome": "+195",
    "mlHomeOpen": "+185",
    "provider": "DraftKings",
    "spread": "BET +140",
@@ -7578,7 +7922,7 @@
   "stars": 1,
   "start": "2026-11-21T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Ramón Sánchez Pizjuán Stadium, Sevilla"
  },
  "soccer-401882798": {
@@ -7608,9 +7952,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401882798",
   "market": "Moneyline",
   "news": [
-   "Arda Güler signs new six-year Real Madrid contract",
-   "Oviedo fan handed suspended prison sentence for racist abuse toward Mbappé",
-   "Has Real Madrid's Vinícius Júnior finally put summer transfer saga behind him?"
+   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world",
+   "Barcelona chief Deco keen for Liverpool to make Ronald Araujo loan permanent",
+   "Arda Güler signs new six-year Real Madrid contract"
   ],
   "odds": {
    "mlAway": "+1400",
@@ -7633,7 +7977,7 @@
   "stars": 3,
   "start": "2026-11-21T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Santiago Bernabéu, Madrid"
  },
  "soccer-401882799": {
@@ -7661,9 +8005,9 @@
   "league": "LaLiga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401882799",
   "news": [
-   "Arda Güler signs new six-year Real Madrid contract",
-   "Oviedo fan handed suspended prison sentence for racist abuse toward Mbappé",
-   "Has Real Madrid's Vinícius Júnior finally put summer transfer saga behind him?"
+   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world",
+   "Barcelona chief Deco keen for Liverpool to make Ronald Araujo loan permanent",
+   "Arda Güler signs new six-year Real Madrid contract"
   ],
   "odds": {
    "mlAway": "+295",
@@ -7685,8 +8029,115 @@
   "stars": 1,
   "start": "2026-11-21T15:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Estadio de Vallecas, Madrid"
+ },
+ "soccer-401882800": {
+  "away": {
+   "abbr": "RSO",
+   "form": "WDLWW",
+   "name": "Real Sociedad",
+   "record": "7-1-4",
+   "short": "Real Sociedad",
+   "teamId": "89"
+  },
+  "confidence": 44,
+  "espnId": "401882800",
+  "espnLeague": "esp.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "RAC",
+   "form": "WLWWL",
+   "name": "Racing Santander",
+   "record": "4-2-6",
+   "short": "Racing",
+   "teamId": "87"
+  },
+  "id": "soccer-401882800",
+  "league": "LaLiga",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401882800",
+  "news": [
+   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world",
+   "Barcelona chief Deco keen for Liverpool to make Ronald Araujo loan permanent",
+   "Arda Güler signs new six-year Real Madrid contract"
+  ],
+  "odds": {
+   "mlAway": "+100",
+   "mlAwayOpen": "+105",
+   "mlDraw": "+310",
+   "mlHome": "+220",
+   "mlHomeOpen": "+205",
+   "provider": "DraftKings",
+   "spread": "RSO +100",
+   "spreadOpen": "RSO -0.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Pass",
+  "reason": "Real Sociedad about 47% no-vig at +100; no edge worth a pick.",
+  "risks": [],
+  "slug": "esp.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-22T15:15Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T16:39:30Z",
+  "venue": "El Sardineros, Santander"
+ },
+ "soccer-401882804": {
+  "_lastPick": "Barcelona ML (-475)",
+  "away": {
+   "abbr": "VIL",
+   "form": "WLLWW",
+   "name": "Villarreal",
+   "record": "4-3-5",
+   "short": "Villarreal",
+   "teamId": "102"
+  },
+  "confidence": 76,
+  "espnId": "401882804",
+  "espnLeague": "esp.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "BAR",
+   "form": "WWWLL",
+   "name": "Barcelona",
+   "record": "11-0-1",
+   "short": "Barcelona",
+   "teamId": "83"
+  },
+  "id": "soccer-401882804",
+  "league": "LaLiga",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401882804",
+  "market": "Moneyline",
+  "news": [
+   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world",
+   "Barcelona chief Deco keen for Liverpool to make Ronald Araujo loan permanent",
+   "Arda Güler signs new six-year Real Madrid contract"
+  ],
+  "odds": {
+   "mlAway": "+1100",
+   "mlAwayOpen": "+850",
+   "mlDraw": "+650",
+   "mlHome": "-475",
+   "mlHomeOpen": "-500",
+   "provider": "DraftKings",
+   "spread": "BAR -475",
+   "spreadOpen": "BAR -2.5",
+   "total": "4.5",
+   "totalOpen": "4.5"
+  },
+  "pick": "Barcelona ML (-475)",
+  "reason": "Barcelona are about 79% no-vig at -475.",
+  "risks": [],
+  "side": "home",
+  "slug": "esp.1",
+  "sport": "soccer",
+  "stars": 2,
+  "start": "2026-11-22T13:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T16:39:30Z",
+  "venue": "Spotify Camp Nou, Barcelona"
  },
  "soccer-401882805": {
   "_lastPick": "Athletic ML (-210)",
@@ -7715,9 +8166,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401882805",
   "market": "Moneyline",
   "news": [
-   "Arda Güler signs new six-year Real Madrid contract",
-   "Oviedo fan handed suspended prison sentence for racist abuse toward Mbappé",
-   "Has Real Madrid's Vinícius Júnior finally put summer transfer saga behind him?"
+   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world",
+   "Barcelona chief Deco keen for Liverpool to make Ronald Araujo loan permanent",
+   "Arda Güler signs new six-year Real Madrid contract"
   ],
   "odds": {
    "mlAway": "+600",
@@ -7740,7 +8191,7 @@
   "stars": 2,
   "start": "2026-11-20T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "San Mamés, Bilbao"
  },
  "soccer-401882806": {
@@ -7768,9 +8219,9 @@
   "league": "LaLiga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401882806",
   "news": [
-   "Arda Güler signs new six-year Real Madrid contract",
-   "Oviedo fan handed suspended prison sentence for racist abuse toward Mbappé",
-   "Has Real Madrid's Vinícius Júnior finally put summer transfer saga behind him?"
+   "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world",
+   "Barcelona chief Deco keen for Liverpool to make Ronald Araujo loan permanent",
+   "Arda Güler signs new six-year Real Madrid contract"
   ],
   "odds": {
    "mlAway": "+235",
@@ -7794,7 +8245,7 @@
   "stars": 1,
   "start": "2026-11-21T13:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Mendizorrotza, Vitoria-Gasteiz"
  },
  "soccer-401884728": {
@@ -7846,7 +8297,7 @@
   "stars": 1,
   "start": "2026-11-21T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "URSAPHARM-Arena an der Kaiserlinde, Spiesen-Elversberg"
  },
  "soccer-401884729": {
@@ -7898,8 +8349,43 @@
   "stars": 1,
   "start": "2026-11-21T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Veltins Arena, Gelsenkirchen"
+ },
+ "soccer-401884730": {
+  "away": {
+   "abbr": "HSV",
+   "name": "Hamburg SV",
+   "record": "4-0-5",
+   "short": "Hamburg",
+   "teamId": "127"
+  },
+  "espnId": "401884730",
+  "espnLeague": "ger.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "SVW",
+   "name": "Werder Bremen",
+   "record": "4-3-2",
+   "short": "Bremen",
+   "teamId": "137"
+  },
+  "id": "soccer-401884730",
+  "league": "Bundesliga",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401884730",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "ger.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-22T16:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T16:39:30Z",
+  "venue": "Weserstadion, Bremen"
  },
  "soccer-401884731": {
   "away": {
@@ -7910,7 +8396,7 @@
    "short": "Dortmund",
    "teamId": "124"
   },
-  "confidence": 56,
+  "confidence": 57,
   "espnId": "401884731",
   "espnLeague": "ger.1",
   "espnSport": "soccer",
@@ -7931,26 +8417,26 @@
    "10 Best: Ranking the world's top men's soccer players ... again!"
   ],
   "odds": {
-   "mlAway": "-175",
+   "mlAway": "-185",
    "mlAwayOpen": "-165",
-   "mlDraw": "+330",
-   "mlHome": "+380",
+   "mlDraw": "+340",
+   "mlHome": "+400",
    "mlHomeOpen": "+320",
    "provider": "DraftKings",
-   "spread": "DOR -175",
+   "spread": "DOR -185",
    "spreadOpen": "DOR -0.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
   "pick": "Pass",
-  "reason": "Dortmund about 59% no-vig at -175; no edge worth a pick.",
+  "reason": "Dortmund about 60% no-vig at -185; no edge worth a pick.",
   "risks": [],
   "slug": "ger.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-21T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "BORUSSIA-PARK, Mönchengladbach"
  },
  "soccer-401884732": {
@@ -8005,8 +8491,60 @@
   "stars": 2,
   "start": "2026-11-21T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Stadion An der Alten Försterei, Berlin"
+ },
+ "soccer-401884733": {
+  "away": {
+   "abbr": "M05",
+   "form": "LLLLW",
+   "name": "Mainz",
+   "record": "3-1-5",
+   "short": "Mainz",
+   "teamId": "2950"
+  },
+  "confidence": 37,
+  "espnId": "401884733",
+  "espnLeague": "ger.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "FCA",
+   "form": "LLWDL",
+   "name": "FC Augsburg",
+   "record": "2-3-4",
+   "short": "Augsburg",
+   "teamId": "3841"
+  },
+  "id": "soccer-401884733",
+  "league": "Bundesliga",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401884733",
+  "news": [
+   "Transfer rumors, news: Real Madrid tracking Bayern Munich star Michael Olise",
+   "Borussia Dortmund to end controversial sponsorship with arms manufacturer",
+   "10 Best: Ranking the world's top men's soccer players ... again!"
+  ],
+  "odds": {
+   "mlAway": "+130",
+   "mlAwayOpen": "+130",
+   "mlDraw": "+280",
+   "mlHome": "+160",
+   "mlHomeOpen": "+155",
+   "provider": "DraftKings",
+   "spread": "M05 +130",
+   "spreadOpen": "M05 -0.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Pass",
+  "reason": "Mainz about 40% no-vig at +130; no edge worth a pick.",
+  "risks": [],
+  "slug": "ger.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-22T14:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-19T16:39:30Z",
+  "venue": "WWK Arena, Augsburg"
  },
  "soccer-401884734": {
   "away": {
@@ -8057,11 +8595,11 @@
   "stars": 1,
   "start": "2026-11-21T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Deutsche Bank Park, Frankfurt"
  },
  "soccer-401884735": {
-  "_lastPick": "Leverkusen ML (-370)",
+  "_lastPick": "Leverkusen ML (-380)",
   "away": {
    "abbr": "SCP",
    "form": "WDDLW",
@@ -8070,7 +8608,7 @@
    "short": "Paderborn",
    "teamId": "3307"
   },
-  "confidence": 69,
+  "confidence": 70,
   "espnId": "401884735",
   "espnLeague": "ger.1",
   "espnSport": "soccer",
@@ -8092,19 +8630,19 @@
    "10 Best: Ranking the world's top men's soccer players ... again!"
   ],
   "odds": {
-   "mlAway": "+650",
+   "mlAway": "+700",
    "mlAwayOpen": "+700",
    "mlDraw": "+500",
-   "mlHome": "-370",
+   "mlHome": "-380",
    "mlHomeOpen": "-475",
    "provider": "DraftKings",
-   "spread": "B04 -370",
+   "spread": "B04 -380",
    "spreadOpen": "B04 -1.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
-  "pick": "Leverkusen ML (-370)",
-  "reason": "Leverkusen are about 72% no-vig at -370.",
+  "pick": "Leverkusen ML (-380)",
+  "reason": "Leverkusen are about 73% no-vig at -380.",
   "risks": [],
   "side": "home",
   "slug": "ger.1",
@@ -8112,11 +8650,11 @@
   "stars": 2,
   "start": "2026-11-21T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "BayArena, Leverkusen"
  },
  "soccer-401884736": {
-  "_lastPick": "Bayern ML (-1800)",
+  "_lastPick": "Bayern ML (-1600)",
   "away": {
    "abbr": "KOE",
    "form": "LDWDL",
@@ -8150,16 +8688,16 @@
    "mlAway": "+1800",
    "mlAwayOpen": "+1500",
    "mlDraw": "+1100",
-   "mlHome": "-1800",
+   "mlHome": "-1600",
    "mlHomeOpen": "-1400",
    "provider": "DraftKings",
-   "spread": "MUN -1800",
+   "spread": "MUN -1600",
    "spreadOpen": "MUN -2.5",
    "total": "4.5",
    "totalOpen": "4.5"
   },
-  "pick": "Bayern ML (-1800)",
-  "reason": "Bayern are about 87% no-vig at -1800. For: form WWDWW vs LDWDL.",
+  "pick": "Bayern ML (-1600)",
+  "reason": "Bayern are about 87% no-vig at -1600. For: form WWDWW vs LDWDL.",
   "risks": [],
   "side": "home",
   "slug": "ger.1",
@@ -8167,7 +8705,7 @@
   "stars": 3,
   "start": "2026-11-20T19:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Allianz Arena, München"
  },
  "soccer-401930899": {
@@ -8251,26 +8789,26 @@
    "MLS Cup playoff Power Rankings: Can history-making Nashville be stopped?"
   ],
   "odds": {
-   "mlAway": "+155",
+   "mlAway": "+150",
    "mlAwayOpen": "+140",
-   "mlDraw": "+275",
-   "mlHome": "+135",
+   "mlDraw": "+285",
+   "mlHome": "+140",
    "mlHomeOpen": "+135",
    "provider": "DraftKings",
-   "spread": "ORL +135",
+   "spread": "ORL +140",
    "spreadOpen": "ORL -0.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
   "pick": "Pass",
-  "reason": "Orlando about 39% no-vig at +135; no edge worth a pick.",
+  "reason": "Orlando about 39% no-vig at +140; no edge worth a pick.",
   "risks": [],
   "slug": "usa.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-20T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Inter&Co Stadium, Orlando, Florida"
  },
  "soccer-401933555": {
@@ -8281,7 +8819,7 @@
    "short": "Salt Lake",
    "teamId": "4771"
   },
-  "confidence": 44,
+  "confidence": 45,
   "espnId": "401933555",
   "espnLeague": "usa.1",
   "espnSport": "soccer",
@@ -8301,19 +8839,19 @@
    "MLS Cup playoff Power Rankings: Can history-making Nashville be stopped?"
   ],
   "odds": {
-   "mlAway": "+235",
+   "mlAway": "+255",
    "mlAwayOpen": "+230",
-   "mlDraw": "+280",
+   "mlDraw": "+270",
    "mlHome": "-110",
    "mlHomeOpen": "-110",
    "provider": "DraftKings",
    "spread": "SEA -110",
    "spreadOpen": "SEA -0.5",
-   "total": "3.5",
+   "total": "2.5",
    "totalOpen": "3.5"
   },
   "pick": "Pass",
-  "reason": "Seattle about 48% no-vig at -110; no edge worth a pick.",
+  "reason": "Seattle about 49% no-vig at -110; no edge worth a pick.",
   "risks": [
    "opponent in better form (WLWWW)"
   ],
@@ -8322,7 +8860,7 @@
   "stars": 1,
   "start": "2026-11-20T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Lumen Field, Seattle, Washington"
  },
  "soccer-401933732": {
@@ -8374,7 +8912,7 @@
   "stars": 1,
   "start": "2026-11-21T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Toyota Stadium, Toyota Stadium"
  },
  "soccer-401933733": {
@@ -8426,7 +8964,7 @@
   "stars": 1,
   "start": "2026-11-21T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Gillette Stadium, Foxborough, Massachusetts"
  },
  "soccer-401933739": {
@@ -8478,7 +9016,7 @@
   "stars": 1,
   "start": "2026-11-21T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-19T07:17:38Z",
+  "updatedAt": "2026-11-19T16:39:30Z",
   "venue": "Nu Stadium, Miami, Florida"
  }
 }
