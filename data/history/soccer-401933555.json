@@ -1,0 +1,342 @@
+{
+ "id": "soccer-401933555",
+ "sport": "soccer",
+ "league": "MLS",
+ "start": "2026-11-20T03:00Z",
+ "home": {
+  "name": "Seattle Sounders FC",
+  "abbr": "SEA",
+  "teamId": "9726",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Real Salt Lake",
+  "abbr": "RSL",
+  "teamId": "4771",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+225",
+  "mlAwayOpen": "+230",
+  "mlDraw": "+260",
+  "mlHome": "+100",
+  "mlHomeOpen": "-110",
+  "provider": "DraftKings",
+  "spread": "SEA +100",
+  "spreadOpen": "SEA -0.5",
+  "total": "2.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "SEA",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "7",
+    "saves": "1",
+    "possessionPct": "56.3",
+    "totalShots": "19",
+    "shotsOnTarget": "6",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "477",
+    "totalPasses": "566",
+    "passPct": "0.8",
+    "accurateCrosses": "11",
+    "totalCrosses": "30",
+    "crossPct": "0.4",
+    "totalLongBalls": "50",
+    "accurateLongBalls": "28",
+    "longballPct": "0.6",
+    "blockedShots": "5",
+    "effectiveTackles": "6",
+    "totalTackles": "14",
+    "tacklePct": "0.4",
+    "interceptions": "10",
+    "effectiveClearance": "21",
+    "totalClearance": "21"
+   }
+  },
+  "away": {
+   "abbr": "RSL",
+   "stats": {
+    "foulsCommitted": "13",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "1",
+    "saves": "5",
+    "possessionPct": "43.7",
+    "totalShots": "11",
+    "shotsOnTarget": "2",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "355",
+    "totalPasses": "449",
+    "passPct": "0.8",
+    "accurateCrosses": "1",
+    "totalCrosses": "11",
+    "crossPct": "0.1",
+    "totalLongBalls": "54",
+    "accurateLongBalls": "19",
+    "longballPct": "0.4",
+    "blockedShots": "5",
+    "effectiveTackles": "9",
+    "totalTackles": "13",
+    "tacklePct": "0.7",
+    "interceptions": "12",
+    "effectiveClearance": "34",
+    "totalClearance": "34"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "1'",
+   "team": null,
+   "text": "Delay in match because of an injury Hassani Dotson (Seattle Sounders FC)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "1'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "2'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "26'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "29'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Saved",
+   "clock": "31'",
+   "team": null,
+   "text": "Penalty saved. Albert Rusnák (Seattle Sounders FC) right footed shot saved in the bottom left corner by Rafael Cabral (Real Salt Lake)."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "34'",
+   "team": null,
+   "text": "Dominik Marczuk (Real Salt Lake) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "36'",
+   "team": null,
+   "text": "Goal! Seattle Sounders FC 1, Real Salt Lake 0. Albert Rusnák (Seattle Sounders FC) right footed shot from the centre of the box to the bottom left corner. Assisted by Sebastian Gomez."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "41'",
+   "team": null,
+   "text": "Morgan Guilavogui (Real Salt Lake) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "45'+2'",
+   "team": null,
+   "text": "Kim Kee-Hee (Seattle Sounders FC) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+9'",
+   "team": null,
+   "text": "First Half ends, Seattle Sounders FC 1, Real Salt Lake 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Real Salt Lake. Zach Booth replaces Dominik Marczuk."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "45'",
+   "team": null,
+   "text": "Delay in match because of an injury Morgan Guilavogui (Real Salt Lake)."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "60'",
+   "team": null,
+   "text": "Substitution, Real Salt Lake. Lukas Engel replaces Kobi Henry."
+  },
+  {
+   "type": "Goal",
+   "clock": "63'",
+   "team": null,
+   "text": "Goal! Seattle Sounders FC 1, Real Salt Lake 1. Morgan Guilavogui (Real Salt Lake) right footed shot from the centre of the box to the top right corner. Assisted by Sergi Solans."
+  },
+  {
+   "type": "End Delay",
+   "clock": "68'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "68'",
+   "team": null,
+   "text": "Delay in match (Seattle Sounders FC)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "69'",
+   "team": null,
+   "text": "Delay in match because of an injury Morgan Guilavogui (Real Salt Lake)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "69'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Seattle Sounders FC. Kalani Kossa-Rienzi replaces Kim Kee-Hee."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Seattle Sounders FC. Paul Arriola replaces Sebastian Gomez."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "76'",
+   "team": null,
+   "text": "Cristian Roldan (Seattle Sounders FC) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Delay",
+   "clock": "77'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "77'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Real Salt Lake. Samuel Junqua replaces Juan Manuel Sanabria."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "78'",
+   "team": null,
+   "text": "Delay in match because of an injury Ariath Piol (Real Salt Lake)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "78'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Real Salt Lake. Ariath Piol replaces Morgan Guilavogui because of an injury."
+  },
+  {
+   "type": "End Delay",
+   "clock": "84'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "84'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "85'",
+   "team": null,
+   "text": "Delay in match because of an injury Zach Booth (Real Salt Lake)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "85'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Real Salt Lake. Aiden Hezarkhani replaces Ariath Piol because of an injury."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Seattle Sounders FC. Snyder Brunell replaces Hassani Dotson."
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'+3'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

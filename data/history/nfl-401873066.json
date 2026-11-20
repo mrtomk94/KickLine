@@ -1,0 +1,132 @@
+{
+ "id": "nfl-401873066",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-20T01:15Z",
+ "home": {
+  "name": "Houston Texans",
+  "abbr": "HOU",
+  "teamId": "34",
+  "score": 26.0
+ },
+ "away": {
+  "name": "Indianapolis Colts",
+  "abbr": "IND",
+  "teamId": "11",
+  "score": 3.0
+ },
+ "odds": {
+  "mlAway": "+499",
+  "mlAwayOpen": "+195",
+  "mlHome": "-690",
+  "mlHomeOpen": "-238",
+  "provider": "DraftKings",
+  "spread": "HOU -12.5",
+  "spreadOpen": "HOU -5.5",
+  "total": "44.5",
+  "totalOpen": "45.5"
+ },
+ "espnWinProb": {
+  "away": 25.1,
+  "home": 74.7
+ },
+ "teams": {
+  "away": {
+   "abbr": "IND",
+   "stats": {
+    "firstDowns": "8",
+    "firstDownsPassing": "6",
+    "firstDownsRushing": "1",
+    "firstDownsPenalty": "1",
+    "thirdDownEff": "1-11",
+    "fourthDownEff": "1-2",
+    "totalOffensivePlays": "48",
+    "totalYards": "167",
+    "yardsPerPlay": "3.5",
+    "totalDrives": "10",
+    "netPassingYards": "129",
+    "completionAttempts": "12/29",
+    "yardsPerPass": "4.2",
+    "interceptions": "1",
+    "sacksYardsLost": "2-15",
+    "rushingYards": "38",
+    "rushingAttempts": "17",
+    "yardsPerRushAttempt": "2.2",
+    "redZoneAttempts": "0-1",
+    "totalPenaltiesYards": "2-15",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "22:14"
+   }
+  },
+  "home": {
+   "abbr": "HOU",
+   "stats": {
+    "firstDowns": "21",
+    "firstDownsPassing": "12",
+    "firstDownsRushing": "8",
+    "firstDownsPenalty": "1",
+    "thirdDownEff": "8-14",
+    "fourthDownEff": "0-1",
+    "totalOffensivePlays": "65",
+    "totalYards": "354",
+    "yardsPerPlay": "5.4",
+    "totalDrives": "10",
+    "netPassingYards": "187",
+    "completionAttempts": "21/27",
+    "yardsPerPass": "6.7",
+    "interceptions": "1",
+    "sacksYardsLost": "1-7",
+    "rushingYards": "167",
+    "rushingAttempts": "37",
+    "yardsPerRushAttempt": "4.5",
+    "redZoneAttempts": "1-2",
+    "totalPenaltiesYards": "4-23",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "37:46"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "10:43",
+   "team": "IND",
+   "text": "Spencer Shrader 34 Yd Field Goal "
+  },
+  {
+   "period": 1,
+   "clock": "2:14",
+   "team": "HOU",
+   "text": "Nico Collins 42 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "7:38",
+   "team": "HOU",
+   "text": "Kayshon Boutte 24 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:15",
+   "team": "HOU",
+   "text": "Ka'imi Fairbairn 27 Yd Field Goal"
+  },
+  {
+   "period": 3,
+   "clock": "10:22",
+   "team": "HOU",
+   "text": "Daniel Jones Sacked by Will Anderson Jr. For 7 Yd Loss for Safety"
+  },
+  {
+   "period": 3,
+   "clock": "4:19",
+   "team": "HOU",
+   "text": "Marlin Klein 13 Yd pass from C.J. Stroud (Ka'imi Fairbairn Kick)"
+  }
+ ]
+}
