@@ -1,0 +1,138 @@
+{
+ "id": "ncaaf-401862830",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-20T00:30Z",
+ "home": {
+  "name": "Temple Owls",
+  "abbr": "TEM",
+  "teamId": "218",
+  "score": 27.0
+ },
+ "away": {
+  "name": "Rice Owls",
+  "abbr": "RICE",
+  "teamId": "242",
+  "score": 31.0
+ },
+ "odds": {
+  "mlAway": "+120",
+  "mlAwayOpen": "+142",
+  "mlHome": "-142",
+  "mlHomeOpen": "-170",
+  "provider": "DraftKings",
+  "spread": "TEM -2.5",
+  "spreadOpen": "TEM -4",
+  "total": "51.5",
+  "totalOpen": "47.5"
+ },
+ "espnWinProb": {
+  "away": 32.8,
+  "home": 67.2
+ },
+ "teams": {
+  "away": {
+   "abbr": "RICE",
+   "stats": {
+    "firstDowns": "23",
+    "thirdDownEff": "5-15",
+    "fourthDownEff": "5-7",
+    "totalYards": "458",
+    "netPassingYards": "194",
+    "completionAttempts": "14/25",
+    "yardsPerPass": "7.8",
+    "rushingYards": "264",
+    "rushingAttempts": "52",
+    "yardsPerRushAttempt": "5.1",
+    "totalPenaltiesYards": "4-30",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "34:10"
+   }
+  },
+  "home": {
+   "abbr": "TEM",
+   "stats": {
+    "firstDowns": "17",
+    "thirdDownEff": "5-10",
+    "fourthDownEff": "1-1",
+    "totalYards": "410",
+    "netPassingYards": "110",
+    "completionAttempts": "9/17",
+    "yardsPerPass": "6.5",
+    "rushingYards": "300",
+    "rushingAttempts": "35",
+    "yardsPerRushAttempt": "8.6",
+    "totalPenaltiesYards": "3-25",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "interceptions": "1",
+    "possessionTime": "25:50"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "10:23",
+   "team": "TEM",
+   "text": "J. Smolik pass to C. Chase for 10 yds, for a TD (C. Hardin KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "11:14",
+   "team": "RICE",
+   "text": "G. Ochoa pass to P. Matthews for 33 yds, for a TD (T. Bauchiero KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "3:53",
+   "team": "TEM",
+   "text": "C. Hardin 21 yd FG GOOD"
+  },
+  {
+   "period": 3,
+   "clock": "10:20",
+   "team": "RICE",
+   "text": "D. Hardeman Jr. run for 46 yds, for a TD (T. Bauchiero KICK)"
+  },
+  {
+   "period": 3,
+   "clock": "7:45",
+   "team": "TEM",
+   "text": "J. Smolik pass to J. Freeman for 2 yds, for a TD (C. Hardin KICK)"
+  },
+  {
+   "period": 3,
+   "clock": "6:44",
+   "team": "TEM",
+   "text": "D. Young run for 79 yds, for a TD (C. Hardin KICK)"
+  },
+  {
+   "period": 4,
+   "clock": "10:01",
+   "team": "RICE",
+   "text": "T. Bauchiero 37 yd FG GOOD"
+  },
+  {
+   "period": 4,
+   "clock": "5:18",
+   "team": "TEM",
+   "text": "C. Hardin 35 yd FG GOOD"
+  },
+  {
+   "period": 4,
+   "clock": "1:55",
+   "team": "RICE",
+   "text": "G. Ochoa pass to M. Mosey for 9 yds, for a TD (T. Bauchiero KICK)"
+  },
+  {
+   "period": 4,
+   "clock": "0:06",
+   "team": "RICE",
+   "text": "P. Crayton Jr. pass to J. Brown for 30 yds, for a TD (T. Bauchiero KICK)"
+  }
+ ]
+}

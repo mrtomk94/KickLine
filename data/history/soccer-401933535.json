@@ -1,0 +1,264 @@
+{
+ "id": "soccer-401933535",
+ "sport": "soccer",
+ "league": "MLS",
+ "start": "2026-11-20T00:30Z",
+ "home": {
+  "name": "Orlando City SC",
+  "abbr": "ORL",
+  "teamId": "12011",
+  "score": 1.0
+ },
+ "away": {
+  "name": "FC Cincinnati",
+  "abbr": "CIN",
+  "teamId": "18267",
+  "score": 3.0
+ },
+ "odds": {
+  "mlAway": "+155",
+  "mlAwayOpen": "+140",
+  "mlDraw": "+290",
+  "mlHome": "+135",
+  "mlHomeOpen": "+135",
+  "provider": "DraftKings",
+  "spread": "ORL +135",
+  "spreadOpen": "ORL -0.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "ORL",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "3",
+    "saves": "5",
+    "possessionPct": "57.8",
+    "totalShots": "27",
+    "shotsOnTarget": "8",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "505",
+    "totalPasses": "581",
+    "passPct": "0.9",
+    "accurateCrosses": "8",
+    "totalCrosses": "21",
+    "crossPct": "0.4",
+    "totalLongBalls": "42",
+    "accurateLongBalls": "24",
+    "longballPct": "0.6",
+    "blockedShots": "4",
+    "effectiveTackles": "7",
+    "totalTackles": "10",
+    "tacklePct": "0.7",
+    "interceptions": "9",
+    "effectiveClearance": "11",
+    "totalClearance": "11"
+   }
+  },
+  "away": {
+   "abbr": "CIN",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "4",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "5",
+    "saves": "6",
+    "possessionPct": "42.2",
+    "totalShots": "10",
+    "shotsOnTarget": "8",
+    "shotPct": "0.8",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "361",
+    "totalPasses": "429",
+    "passPct": "0.8",
+    "accurateCrosses": "0",
+    "totalCrosses": "11",
+    "crossPct": "0.0",
+    "totalLongBalls": "54",
+    "accurateLongBalls": "28",
+    "longballPct": "0.5",
+    "blockedShots": "1",
+    "effectiveTackles": "5",
+    "totalTackles": "9",
+    "tacklePct": "0.6",
+    "interceptions": "12",
+    "effectiveClearance": "29",
+    "totalClearance": "29"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "26'",
+   "team": null,
+   "text": "Goal! Orlando City SC 1, FC Cincinnati 0. Martín Ojeda (Orlando City SC) left footed shot from the left side of the box to the bottom right corner. Assisted by Iván Angulo with a through ball."
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "43'",
+   "team": null,
+   "text": "Goal! Orlando City SC 1, FC Cincinnati 1. Evander (FC Cincinnati) converts the penalty with a right footed shot to the bottom left corner."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+4'",
+   "team": null,
+   "text": "First Half ends, Orlando City SC 1, FC Cincinnati 1."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, FC Cincinnati. Alvas Powell replaces Miles Robinson."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, FC Cincinnati. José Martínez replaces Nick Hagglund."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "49'",
+   "team": null,
+   "text": "Goal! Orlando City SC 1, FC Cincinnati 2. Evander (FC Cincinnati) right footed shot from the centre of the box to the centre of the goal. Assisted by Tom Barlow."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "51'",
+   "team": null,
+   "text": "Tom Barlow (FC Cincinnati) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "53'",
+   "team": null,
+   "text": "Substitution, Orlando City SC. Justin Ellis replaces Marco Pasalic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "53'",
+   "team": null,
+   "text": "Substitution, Orlando City SC. Adrián Marín replaces Iago Teodoro."
+  },
+  {
+   "type": "Substitution",
+   "clock": "55'",
+   "team": null,
+   "text": "Substitution, Orlando City SC. Joran Gerbet replaces Luis Otávio."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "59'",
+   "team": null,
+   "text": "Pavel Bucha (FC Cincinnati) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "63'",
+   "team": null,
+   "text": "Obinna Nwobodo (FC Cincinnati) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, FC Cincinnati. Ender Echenique replaces David Doudera."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Orlando City SC. Daryl Dike replaces Griffin Dorsey."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "76'",
+   "team": null,
+   "text": "José Martínez (FC Cincinnati) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "77'",
+   "team": null,
+   "text": "Daryl Dike (Orlando City SC) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "78'",
+   "team": null,
+   "text": "Delay in match because of an injury Daryl Dike (Orlando City SC)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "78'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "79'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "79'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, FC Cincinnati. Julián Malatini replaces Pavel Bucha."
+  },
+  {
+   "type": "Goal",
+   "clock": "85'",
+   "team": null,
+   "text": "Goal! Orlando City SC 1, FC Cincinnati 3. Samuel Gidi (FC Cincinnati) right footed shot from the centre of the box to the top right corner. Assisted by Evander."
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, FC Cincinnati. Bryan Ramírez replaces Evander."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Iván Angulo (Orlando City SC) is shown the yellow card."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+8'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}
