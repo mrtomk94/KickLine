@@ -988,7 +988,7 @@
   "venue": "crypto.com Arena, Los Angeles"
  },
  "nba-401910023": {
-  "_lastPick": "PHI ML (-650)",
+  "_lastPick": "PHI ML (-545)",
   "away": {
    "abbr": "MIL",
    "form": "LLLLL",
@@ -1000,13 +1000,13 @@
    "short": "Bucks",
    "teamId": "15"
   },
-  "confidence": 83,
+  "confidence": 82,
   "espnId": "401910023",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 14.1,
-   "home": 85.9
+   "away": 13.8,
+   "home": 86.2
   },
   "home": {
    "abbr": "PHI",
@@ -1068,23 +1068,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401910023",
   "market": "Moneyline",
   "news": [
-   "Lakers rally after JJ Redick rips team's lack of fight vs. last-place Kings",
-   "Nikola Jokic's big 2nd half sends the Nuggets to a 133-124 win over the Rockets",
-   "2026 NBA Cup: Schedule, format, groups, updates and more"
+   "76ers' Jaylen Brown, Dean Wade out, Tyrese Maxey questionable vs. Bucks",
+   "Ime Udoka frustrated by Rockets' defense: 'No effort or any attention to detail'",
+   "Scottie Barnes scores 29, including key layup, as Raptors end skid with 105-102 win over Pistons"
   ],
   "odds": {
-   "mlAway": "+474",
+   "mlAway": "+411",
    "mlAwayOpen": "+346",
-   "mlHome": "-650",
+   "mlHome": "-545",
    "mlHomeOpen": "-446",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "PHI -11.5",
    "spreadOpen": "PHI -11.5",
-   "total": "229.5",
+   "total": "228.5",
    "totalOpen": "228.5"
   },
-  "pick": "PHI ML (-650)",
-  "reason": "PHI are about 83% no-vig at -650; ESPN's model has 86%. For: line moved toward PHI (-446 → -650); form WWWWL vs LLLLL; last-5 scoring margin: PHI +2.6, MIL -8.6. Capped at 2★: NBA capped by lessons.",
+  "pick": "PHI ML (-545)",
+  "reason": "PHI are about 81% no-vig at -545; ESPN's model has 86%. For: ESPN model 86% vs market 81%; form WWWWL vs LLLLL; last-5 scoring margin: PHI +2.6, MIL -8.6. Capped at 2★: NBA capped by lessons.",
   "risks": [],
   "side": "home",
   "slug": "nba",
@@ -1092,7 +1092,7 @@
   "stars": 2,
   "start": "2026-11-21T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Xfinity Mobile Arena, Philadelphia"
  },
  "nba-401910024": {
@@ -1110,13 +1110,13 @@
    "short": "Trail Blazers",
    "teamId": "22"
   },
-  "confidence": 62,
+  "confidence": 56,
   "espnId": "401910024",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 34.9,
-   "home": 65.1
+   "away": 35.4,
+   "home": 64.6
   },
   "home": {
    "abbr": "NY",
@@ -1173,37 +1173,39 @@
   },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401910024",
-  "market": "Moneyline",
+  "market": null,
   "news": [
-   "Lakers rally after JJ Redick rips team's lack of fight vs. last-place Kings",
-   "Nikola Jokic's big 2nd half sends the Nuggets to a 133-124 win over the Rockets",
-   "2026 NBA Cup: Schedule, format, groups, updates and more"
+   "76ers' Jaylen Brown, Dean Wade out, Tyrese Maxey questionable vs. Bucks",
+   "Ime Udoka frustrated by Rockets' defense: 'No effort or any attention to detail'",
+   "Scottie Barnes scores 29, including key layup, as Raptors end skid with 105-102 win over Pistons"
   ],
   "odds": {
-   "mlAway": "+168",
+   "mlAway": "+131",
    "mlAwayOpen": "+168",
-   "mlHome": "-201",
+   "mlHome": "-155",
    "mlHomeOpen": "-201",
-   "provider": "Draft Kings",
-   "spread": "NY -5.5",
+   "provider": "DraftKings",
+   "spread": "NY -3.5",
    "spreadOpen": "NY -5.5",
-   "total": "217.5",
+   "total": "215.5",
    "totalOpen": "218.5"
   },
-  "pick": "NY ML (-201)",
-  "reason": "NY are about 64% no-vig at -201; ESPN's model has 65%.",
-  "risks": [],
-  "side": "home",
+  "pick": "Pass",
+  "reason": "NY about 58% no-vig at -155; no edge worth a pick.",
+  "risks": [
+   "line drifted away (-201 → -155)"
+  ],
+  "side": null,
   "slug": "nba",
   "sport": "nba",
-  "stars": 2,
+  "stars": 1,
   "start": "2026-11-22T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Madison Square Garden, New York"
  },
  "nba-401910025": {
-  "_lastPick": "DAL ML (-205)",
+  "_lastPick": "DAL ML (-217)",
   "away": {
    "abbr": "LAC",
    "form": "LLWWL",
@@ -1220,13 +1222,14 @@
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 27.6,
-   "home": 72.4
+   "away": 28.1,
+   "home": 71.9
   },
   "home": {
    "abbr": "DAL",
    "form": "WLLLW",
    "injuries": [
+    "Tobi Lawal (F) – Out, Groin",
     "Dereck Lively II (C) – Out, Foot",
     "Sergio de Larrea (F) – Out, Knee"
    ],
@@ -1262,6 +1265,13 @@
    ],
    "home": [
     {
+     "detail": "Groin",
+     "player": "Tobi Lawal",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
      "detail": "Foot",
      "player": "Dereck Lively II",
      "pos": "C",
@@ -1281,23 +1291,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401910025",
   "market": "Moneyline",
   "news": [
-   "Lakers rally after JJ Redick rips team's lack of fight vs. last-place Kings",
-   "Nikola Jokic's big 2nd half sends the Nuggets to a 133-124 win over the Rockets",
-   "2026 NBA Cup: Schedule, format, groups, updates and more"
+   "76ers' Jaylen Brown, Dean Wade out, Tyrese Maxey questionable vs. Bucks",
+   "Ime Udoka frustrated by Rockets' defense: 'No effort or any attention to detail'",
+   "Scottie Barnes scores 29, including key layup, as Raptors end skid with 105-102 win over Pistons"
   ],
   "odds": {
-   "mlAway": "+171",
+   "mlAway": "+180",
    "mlAwayOpen": "+168",
-   "mlHome": "-205",
+   "mlHome": "-217",
    "mlHomeOpen": "-201",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "DAL -5.5",
    "spreadOpen": "DAL -5.5",
-   "total": "228.5",
+   "total": "230.5",
    "totalOpen": "229.5"
   },
-  "pick": "DAL ML (-205)",
-  "reason": "DAL are about 65% no-vig at -205; ESPN's model has 72%. For: ESPN model 72% vs market 65%. Capped at 2★: NBA capped by lessons.",
+  "pick": "DAL ML (-217)",
+  "reason": "DAL are about 66% no-vig at -217; ESPN's model has 72%. For: ESPN model 72% vs market 66%. Capped at 2★: NBA capped by lessons.",
   "risks": [],
   "side": "home",
   "slug": "nba",
@@ -1305,11 +1315,11 @@
   "stars": 2,
   "start": "2026-11-22T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "American Airlines Center, Dallas"
  },
  "nba-401910026": {
-  "_lastPick": "MIN ML (-218)",
+  "_lastPick": "MIN ML (-237)",
   "away": {
    "abbr": "MEM",
    "form": "WWWWW",
@@ -1325,13 +1335,13 @@
    "short": "Grizzlies",
    "teamId": "29"
   },
-  "confidence": 63,
+  "confidence": 64,
   "espnId": "401910026",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 29.2,
-   "home": 70.8
+   "away": 29.1,
+   "home": 70.9
   },
   "home": {
    "abbr": "MIN",
@@ -1411,23 +1421,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401910026",
   "market": "Moneyline",
   "news": [
-   "Lakers rally after JJ Redick rips team's lack of fight vs. last-place Kings",
-   "Nikola Jokic's big 2nd half sends the Nuggets to a 133-124 win over the Rockets",
-   "2026 NBA Cup: Schedule, format, groups, updates and more"
+   "76ers' Jaylen Brown, Dean Wade out, Tyrese Maxey questionable vs. Bucks",
+   "Ime Udoka frustrated by Rockets' defense: 'No effort or any attention to detail'",
+   "Scottie Barnes scores 29, including key layup, as Raptors end skid with 105-102 win over Pistons"
   ],
   "odds": {
-   "mlAway": "+181",
+   "mlAway": "+196",
    "mlAwayOpen": "+160",
-   "mlHome": "-218",
+   "mlHome": "-237",
    "mlHomeOpen": "-191",
-   "provider": "Draft Kings",
-   "spread": "MIN -5.5",
+   "provider": "DraftKings",
+   "spread": "MIN -6.5",
    "spreadOpen": "MIN -5.5",
-   "total": "227.5",
+   "total": "228.5",
    "totalOpen": "227.5"
   },
-  "pick": "MIN ML (-218)",
-  "reason": "MIN are about 66% no-vig at -218; ESPN's model has 71%.",
+  "pick": "MIN ML (-237)",
+  "reason": "MIN are about 68% no-vig at -237; ESPN's model has 71%. For: line moved toward MIN (-191 → -237).",
   "risks": [
    "opponent in better form (WWWWW)",
    "history stats favor the opponent"
@@ -1438,11 +1448,11 @@
   "stars": 2,
   "start": "2026-11-22T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Target Center, Minneapolis"
  },
  "nba-401910027": {
-  "_lastPick": "SA ML (-1340)",
+  "_lastPick": "SA ML (-1580)",
   "away": {
    "abbr": "NO",
    "form": "LLWLL",
@@ -1462,8 +1472,8 @@
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 9.5,
-   "home": 90.5
+   "away": 9.6,
+   "home": 90.4
   },
   "home": {
    "abbr": "SA",
@@ -1537,23 +1547,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401910027",
   "market": "Moneyline",
   "news": [
-   "Lakers rally after JJ Redick rips team's lack of fight vs. last-place Kings",
-   "Nikola Jokic's big 2nd half sends the Nuggets to a 133-124 win over the Rockets",
-   "2026 NBA Cup: Schedule, format, groups, updates and more"
+   "76ers' Jaylen Brown, Dean Wade out, Tyrese Maxey questionable vs. Bucks",
+   "Ime Udoka frustrated by Rockets' defense: 'No effort or any attention to detail'",
+   "Scottie Barnes scores 29, including key layup, as Raptors end skid with 105-102 win over Pistons"
   ],
   "odds": {
-   "mlAway": "+810",
+   "mlAway": "+900",
    "mlAwayOpen": "+850",
-   "mlHome": "-1340",
+   "mlHome": "-1580",
    "mlHomeOpen": "-1440",
-   "provider": "Draft Kings",
-   "spread": "SA -17.5",
+   "provider": "DraftKings",
+   "spread": "SA -18.5",
    "spreadOpen": "SA -16.5",
-   "total": "227.5",
+   "total": "228.5",
    "totalOpen": "226.5"
   },
-  "pick": "SA ML (-1340)",
-  "reason": "SA are about 89% no-vig at -1340; ESPN's model has 90%. For: form WLWWW vs LLWLL; last-5 scoring margin: SA +10.2, NO -7.4. Capped at 2★: NBA capped by lessons.",
+  "pick": "SA ML (-1580)",
+  "reason": "SA are about 90% no-vig at -1580; ESPN's model has 90%. For: form WLWWW vs LLWLL; last-5 scoring margin: SA +10.2, NO -7.4. Capped at 2★: NBA capped by lessons.",
   "risks": [],
   "side": "home",
   "slug": "nba",
@@ -1561,11 +1571,11 @@
   "stars": 2,
   "start": "2026-11-22T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Frost Bank Center, San Antonio"
  },
  "nba-401910028": {
-  "_lastPick": "BOS ML (-680)",
+  "_lastPick": "BOS ML (-790)",
   "away": {
    "abbr": "BOS",
    "form": "LLWWW",
@@ -1575,19 +1585,18 @@
    "short": "Celtics",
    "teamId": "2"
   },
-  "confidence": 85,
+  "confidence": 86,
   "espnId": "401910028",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 90.3,
-   "home": 9.7
+   "away": 90.2,
+   "home": 9.8
   },
   "home": {
    "abbr": "SAC",
    "form": "LLLLL",
    "injuries": [
-    "Precious Achiuwa (F) – Out, Lower Leg",
     "Maxime Raynaud (C) – Out, Knee"
    ],
    "name": "Sacramento Kings",
@@ -1599,13 +1608,6 @@
   "injuriesRaw": {
    "away": [],
    "home": [
-    {
-     "detail": "Lower Leg",
-     "player": "Precious Achiuwa",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
     {
      "detail": "Knee",
      "player": "Maxime Raynaud",
@@ -1626,23 +1628,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401910028",
   "market": "Moneyline",
   "news": [
-   "Lakers rally after JJ Redick rips team's lack of fight vs. last-place Kings",
-   "Nikola Jokic's big 2nd half sends the Nuggets to a 133-124 win over the Rockets",
-   "2026 NBA Cup: Schedule, format, groups, updates and more"
+   "76ers' Jaylen Brown, Dean Wade out, Tyrese Maxey questionable vs. Bucks",
+   "Ime Udoka frustrated by Rockets' defense: 'No effort or any attention to detail'",
+   "Scottie Barnes scores 29, including key layup, as Raptors end skid with 105-102 win over Pistons"
   ],
   "odds": {
-   "mlAway": "-680",
+   "mlAway": "-790",
    "mlAwayOpen": "-465",
-   "mlHome": "+493",
+   "mlHome": "+554",
    "mlHomeOpen": "+359",
-   "provider": "Draft Kings",
-   "spread": "BOS -12.5",
+   "provider": "DraftKings",
+   "spread": "BOS -13.5",
    "spreadOpen": "BOS -12.5",
    "total": "217.5",
    "totalOpen": "217.5"
   },
-  "pick": "BOS ML (-680)",
-  "reason": "BOS are about 84% no-vig at -680; ESPN's model has 90%. For: ESPN model 90% vs market 84%; line moved toward BOS (-465 → -680); form LLWWW vs LLLLL; last-5 scoring margin: SAC -13.0, BOS +10.0. Capped at 2★: NBA capped by lessons.",
+  "pick": "BOS ML (-790)",
+  "reason": "BOS are about 85% no-vig at -790; ESPN's model has 90%. For: line moved toward BOS (-465 → -790); form LLWWW vs LLLLL; last-5 scoring margin: SAC -13.0, BOS +10.0. Capped at 2★: NBA capped by lessons.",
   "risks": [],
   "side": "away",
   "slug": "nba",
@@ -1650,7 +1652,7 @@
   "stars": 2,
   "start": "2026-11-22T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Golden 1 Center, Sacramento"
  },
  "nba-401910029": {
@@ -1685,7 +1687,7 @@
   "stars": 1,
   "start": "2026-11-22T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "State Farm Arena, Atlanta"
  },
  "nba-401910030": {
@@ -1720,7 +1722,7 @@
   "stars": 1,
   "start": "2026-11-22T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Kaseya Center, Miami"
  },
  "nba-401910031": {
@@ -1755,7 +1757,7 @@
   "stars": 1,
   "start": "2026-11-23T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Capital One Arena, Washington"
  },
  "nba-401910032": {
@@ -1790,7 +1792,7 @@
   "stars": 1,
   "start": "2026-11-23T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "United Center, Chicago"
  },
  "nba-401910033": {
@@ -1825,7 +1827,7 @@
   "stars": 1,
   "start": "2026-11-23T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Delta Center, Salt Lake City"
  },
  "nba-401910034": {
@@ -1860,7 +1862,7 @@
   "stars": 1,
   "start": "2026-11-23T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Madison Square Garden, New York"
  },
  "nba-401910035": {
@@ -1895,7 +1897,7 @@
   "stars": 1,
   "start": "2026-11-23T01:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Chase Center, San Francisco"
  },
  "nba-401910036": {
@@ -1930,7 +1932,7 @@
   "stars": 1,
   "start": "2026-11-24T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Spectrum Center, Charlotte"
  },
  "nba-401910037": {
@@ -1965,7 +1967,7 @@
   "stars": 1,
   "start": "2026-11-24T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Xfinity Mobile Arena, Philadelphia"
  },
  "nba-401910038": {
@@ -2000,7 +2002,7 @@
   "stars": 1,
   "start": "2026-11-24T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Gainbridge Fieldhouse, Indianapolis"
  },
  "nba-401910039": {
@@ -2035,7 +2037,7 @@
   "stars": 1,
   "start": "2026-11-24T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Scotiabank Arena, Toronto"
  },
  "nba-401910040": {
@@ -2070,7 +2072,7 @@
   "stars": 1,
   "start": "2026-11-24T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Target Center, Minneapolis"
  },
  "nba-401910041": {
@@ -2105,7 +2107,7 @@
   "stars": 1,
   "start": "2026-11-24T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "United Center, Chicago"
  },
  "nba-401910042": {
@@ -2140,7 +2142,7 @@
   "stars": 1,
   "start": "2026-11-24T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Smoothie King Center, New Orleans"
  },
  "nba-401910043": {
@@ -2175,7 +2177,7 @@
   "stars": 1,
   "start": "2026-11-24T01:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Toyota Center (Houston), Houston"
  },
  "nba-401910044": {
@@ -2210,7 +2212,7 @@
   "stars": 1,
   "start": "2026-11-24T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "crypto.com Arena, Los Angeles"
  },
  "nba-401910045": {
@@ -2245,7 +2247,7 @@
   "stars": 1,
   "start": "2026-11-24T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Golden 1 Center, Sacramento"
  },
  "ncaaf-401856746": {
@@ -2280,7 +2282,7 @@
   "stars": 1,
   "start": "2026-11-21T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Bryant-Denny Stadium, Tuscaloosa"
  },
  "ncaaf-401856747": {
@@ -2315,11 +2317,11 @@
   "stars": 1,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Jordan-Hare Stadium, Auburn"
  },
  "ncaaf-401856748": {
-  "_lastPick": "FLA ML (-535)",
+  "_lastPick": "FLA ML (-575)",
   "away": {
    "abbr": "VAN",
    "form": "LWLLL",
@@ -2328,13 +2330,13 @@
    "short": "Vanderbilt",
    "teamId": "238"
   },
-  "confidence": 79,
+  "confidence": 80,
   "espnId": "401856748",
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 15.3,
-   "home": 84.7
+   "away": 15.4,
+   "home": 84.6
   },
   "home": {
    "abbr": "FLA",
@@ -2349,23 +2351,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856748",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
-   "mlAway": "+400",
+   "mlAway": "+425",
    "mlAwayOpen": "+400",
-   "mlHome": "-535",
+   "mlHome": "-575",
    "mlHomeOpen": "-535",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "FLA -13.5",
    "spreadOpen": "FLA -13.5",
-   "total": "45.5",
+   "total": "47.5",
    "totalOpen": "48.5"
   },
-  "pick": "FLA ML (-535)",
-  "reason": "FLA are about 81% no-vig at -535; ESPN's model has 85%.",
+  "pick": "FLA ML (-575)",
+  "reason": "FLA are about 82% no-vig at -575; ESPN's model has 85%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -2373,7 +2375,7 @@
   "stars": 2,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Ben Hill Griffin Stadium, Gainesville"
  },
  "ncaaf-401856749": {
@@ -2408,11 +2410,11 @@
   "stars": 1,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Vaught-Hemingway Stadium, Oxford"
  },
  "ncaaf-401856750": {
-  "_lastPick": "MSST ML (-3600)",
+  "_lastPick": "MSST ML (-2400)",
   "away": {
    "abbr": "TNTC",
    "form": "LWWWW",
@@ -2421,7 +2423,7 @@
    "short": "Tennessee Tech",
    "teamId": "2635"
   },
-  "confidence": 90,
+  "confidence": 89,
   "espnId": "401856750",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -2442,23 +2444,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856750",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
-   "mlAway": "+1500",
+   "mlAway": "+1200",
    "mlAwayOpen": "+2500",
-   "mlHome": "-3600",
+   "mlHome": "-2400",
    "mlHomeOpen": "-9000",
-   "provider": "Draft Kings",
-   "spread": "MSST -33.5",
+   "provider": "DraftKings",
+   "spread": "MSST -29.5",
    "spreadOpen": "MSST -35.5",
    "total": "59.5",
    "totalOpen": "59.5"
   },
-  "pick": "MSST ML (-3600)",
-  "reason": "MSST are about 94% no-vig at -3600; ESPN's model has 95%.",
+  "pick": "MSST ML (-2400)",
+  "reason": "MSST are about 93% no-vig at -2400; ESPN's model has 95%.",
   "risks": [
    "opponent in better form (LWWWW)"
   ],
@@ -2468,7 +2470,7 @@
   "stars": 2,
   "start": "2026-11-21T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Davis Wade Stadium, Starkville"
  },
  "ncaaf-401856751": {
@@ -2487,7 +2489,7 @@
   "espnSport": "football",
   "espnWinProb": {
    "away": 38.5,
-   "home": 61.5
+   "home": 61.6
   },
   "home": {
    "abbr": "MIZ",
@@ -2502,19 +2504,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856751",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "+170",
    "mlAwayOpen": "+185",
    "mlHome": "-205",
    "mlHomeOpen": "-225",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "MIZ -4.5",
    "spreadOpen": "MIZ -6.5",
-   "total": "48.5",
+   "total": "49.5",
    "totalOpen": "49.5"
   },
   "pick": "MIZ ML (-205)",
@@ -2526,7 +2528,7 @@
   "stars": 2,
   "start": "2026-11-22T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Memorial Stadium, Columbia"
  },
  "ncaaf-401856752": {
@@ -2544,8 +2546,8 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 38.3,
-   "home": 61.7
+   "away": 39.1,
+   "home": 61.0
   },
   "home": {
    "abbr": "OU",
@@ -2560,25 +2562,25 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856752",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "+235",
    "mlAwayOpen": "+120",
    "mlHome": "-290",
    "mlHomeOpen": "-142",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "OU -7",
    "spreadOpen": "OU -2.5",
-   "total": "37.5",
+   "total": "36.5",
    "totalOpen": "51.5"
   },
   "pick": "OU ML (-290)",
-  "reason": "OU are about 71% no-vig at -290; ESPN's model has 62%. For: line moved toward OU (-142 → -290).",
+  "reason": "OU are about 71% no-vig at -290; ESPN's model has 61%. For: line moved toward OU (-142 → -290).",
   "risks": [
-   "ESPN model only 62% vs market 71%"
+   "ESPN model only 61% vs market 71%"
   ],
   "side": "home",
   "slug": "college-football",
@@ -2586,7 +2588,7 @@
   "stars": 2,
   "start": "2026-11-21T20:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Memorial Stadium (Norman, OK), Norman"
  },
  "ncaaf-401856753": {
@@ -2620,19 +2622,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856753",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "-750",
    "mlAwayOpen": "-375",
    "mlHome": "+525",
    "mlHomeOpen": "+295",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UGA -14.5",
    "spreadOpen": "UGA -10.5",
-   "total": "50.5",
+   "total": "51.5",
    "totalOpen": "50.5"
   },
   "pick": "UGA ML (-750)",
@@ -2644,7 +2646,7 @@
   "stars": 3,
   "start": "2026-11-22T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Williams-Brice Stadium, Columbia"
  },
  "ncaaf-401856754": {
@@ -2676,16 +2678,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856754",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "-115",
    "mlAwayOpen": "-118",
    "mlHome": "-105",
    "mlHomeOpen": "-102",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "LSU -1.5",
    "spreadOpen": "LSU -1.5",
    "total": "45.5",
@@ -2701,11 +2703,11 @@
   "stars": 1,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Neyland Stadium, Knoxville"
  },
  "ncaaf-401856755": {
-  "_lastPick": "TEX ML (-1600)",
+  "_lastPick": "TEX ML (-1350)",
   "away": {
    "abbr": "ARK",
    "form": "WLLWL",
@@ -2714,12 +2716,12 @@
    "short": "Arkansas",
    "teamId": "8"
   },
-  "confidence": 89,
+  "confidence": 88,
   "espnId": "401856755",
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 5.8,
+   "away": 5.9,
    "home": 94.2
   },
   "home": {
@@ -2735,23 +2737,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856755",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
-   "mlAway": "+900",
+   "mlAway": "+800",
    "mlAwayOpen": "+850",
-   "mlHome": "-1600",
+   "mlHome": "-1350",
    "mlHomeOpen": "-1450",
-   "provider": "Draft Kings",
-   "spread": "TEX -20.5",
+   "provider": "DraftKings",
+   "spread": "TEX -18.5",
    "spreadOpen": "TEX -21",
-   "total": "47.5",
+   "total": "46.5",
    "totalOpen": "48.5"
   },
-  "pick": "TEX ML (-1600)",
-  "reason": "TEX are about 90% no-vig at -1600; ESPN's model has 94%.",
+  "pick": "TEX ML (-1350)",
+  "reason": "TEX are about 89% no-vig at -1350; ESPN's model has 94%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -2759,11 +2761,11 @@
   "stars": 2,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "DKR-Texas Memorial Stadium, Austin"
  },
  "ncaaf-401856865": {
-  "_lastPick": "ARIZ ML (-290)",
+  "_lastPick": "ARIZ ML (-375)",
   "away": {
    "abbr": "ARIZ",
    "form": "LWLWW",
@@ -2772,13 +2774,13 @@
    "short": "Arizona",
    "teamId": "12"
   },
-  "confidence": 68,
+  "confidence": 72,
   "espnId": "401856865",
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 74.6,
-   "home": 25.4
+   "away": 74.0,
+   "home": 26.0
   },
   "home": {
    "abbr": "KSU",
@@ -2793,37 +2795,35 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856865",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
-   "mlAway": "-290",
+   "mlAway": "-375",
    "mlAwayOpen": "-380",
-   "mlHome": "+235",
+   "mlHome": "+295",
    "mlHomeOpen": "+300",
-   "provider": "Draft Kings",
-   "spread": "ARIZ -7.5",
+   "provider": "DraftKings",
+   "spread": "ARIZ -10",
    "spreadOpen": "ARIZ -10.5",
-   "total": "51.5",
+   "total": "53.5",
    "totalOpen": "50.5"
   },
-  "pick": "ARIZ ML (-290)",
-  "reason": "ARIZ are about 71% no-vig at -290; ESPN's model has 75%.",
-  "risks": [
-   "line drifted away (-380 → -290)"
-  ],
+  "pick": "ARIZ ML (-375)",
+  "reason": "ARIZ are about 76% no-vig at -375; ESPN's model has 74%.",
+  "risks": [],
   "side": "away",
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 2,
   "start": "2026-11-22T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Bill Snyder Family Stadium, Manhattan"
  },
  "ncaaf-401856866": {
-  "_lastPick": "BYU ML (-205)",
+  "_lastPick": "BYU ML (-198)",
   "away": {
    "abbr": "BYU",
    "form": "WLWLW",
@@ -2832,13 +2832,13 @@
    "short": "BYU",
    "teamId": "252"
   },
-  "confidence": 62,
+  "confidence": 61,
   "espnId": "401856866",
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 71.0,
-   "home": 29.0
+   "away": 70.6,
+   "home": 29.4
   },
   "home": {
    "abbr": "KU",
@@ -2853,25 +2853,25 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856866",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
-   "mlAway": "-205",
+   "mlAway": "-198",
    "mlAwayOpen": "-258",
-   "mlHome": "+170",
+   "mlHome": "+164",
    "mlHomeOpen": "+210",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "BYU -4.5",
    "spreadOpen": "BYU -7",
    "total": "46.5",
    "totalOpen": "50.5"
   },
-  "pick": "BYU ML (-205)",
-  "reason": "BYU are about 64% no-vig at -205; ESPN's model has 71%. For: ESPN model 71% vs market 64%.",
+  "pick": "BYU ML (-198)",
+  "reason": "BYU are about 64% no-vig at -198; ESPN's model has 71%. For: ESPN model 71% vs market 64%.",
   "risks": [
-   "line drifted away (-258 → -205)"
+   "line drifted away (-258 → -198)"
   ],
   "side": "away",
   "slug": "college-football",
@@ -2879,7 +2879,7 @@
   "stars": 2,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "David Booth Kansas Memorial Stadium, Lawrence"
  },
  "ncaaf-401856867": {
@@ -2897,8 +2897,8 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 36.6,
-   "home": 63.4
+   "away": 37.3,
+   "home": 62.7
   },
   "home": {
    "abbr": "CIN",
@@ -2913,19 +2913,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856867",
   "market": null,
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "+130",
    "mlAwayOpen": "+120",
    "mlHome": "-155",
    "mlHomeOpen": "-142",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "CIN -3",
    "spreadOpen": "CIN -2.5",
-   "total": "57.5",
+   "total": "56.5",
    "totalOpen": "59.5"
   },
   "pick": "Pass",
@@ -2937,11 +2937,11 @@
   "stars": 1,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Nippert Stadium, Cincinnati"
  },
  "ncaaf-401856868": {
-  "_lastPick": "HOU ML (-285)",
+  "_lastPick": "HOU ML (-270)",
   "away": {
    "abbr": "HOU",
    "form": "LWLWW",
@@ -2950,13 +2950,13 @@
    "short": "Houston",
    "teamId": "248"
   },
-  "confidence": 69,
+  "confidence": 68,
   "espnId": "401856868",
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 72.7,
-   "home": 27.3
+   "away": 73.6,
+   "home": 26.5
   },
   "home": {
    "abbr": "WVU",
@@ -2971,31 +2971,31 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856868",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
-   "mlAway": "-285",
+   "mlAway": "-270",
    "mlAwayOpen": "-230",
-   "mlHome": "+230",
+   "mlHome": "+220",
    "mlHomeOpen": "+190",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "HOU -7",
    "spreadOpen": "HOU -7",
-   "total": "71.5",
+   "total": "72.5",
    "totalOpen": "71.5"
   },
-  "pick": "HOU ML (-285)",
-  "reason": "HOU are about 71% no-vig at -285; ESPN's model has 73%. For: line moved toward HOU (-230 → -285).",
+  "pick": "HOU ML (-270)",
+  "reason": "HOU are about 70% no-vig at -270; ESPN's model has 74%.",
   "risks": [],
   "side": "away",
   "slug": "college-football",
   "sport": "ncaaf",
-  "stars": 3,
+  "stars": 2,
   "start": "2026-11-21T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Milan Puskar Stadium, Morgantown"
  },
  "ncaaf-401856869": {
@@ -3062,13 +3062,13 @@
    "short": "Oklahoma St",
    "teamId": "197"
   },
-  "confidence": 56,
+  "confidence": 55,
   "espnId": "401856870",
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 67.8,
-   "home": 32.2
+   "away": 67.6,
+   "home": 32.4
   },
   "home": {
    "abbr": "ASU",
@@ -3082,32 +3082,32 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856870",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
-   "mlAway": "-142",
+   "mlAway": "-135",
    "mlAwayOpen": "-175",
-   "mlHome": "+120",
+   "mlHome": "+114",
    "mlHomeOpen": "+145",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "OKST -2.5",
    "spreadOpen": "OKST -4",
    "total": "59.5",
    "totalOpen": "62.5"
   },
   "pick": "Pass",
-  "reason": "OKST about 56% no-vig at -142; no edge worth a pick.",
+  "reason": "OKST about 55% no-vig at -135; no edge worth a pick.",
   "risks": [
-   "line drifted away (-175 → -142)"
+   "line drifted away (-175 → -135)"
   ],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-22T03:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Mountain America Stadium, Tempe"
  },
  "ncaaf-401856871": {
@@ -3125,8 +3125,8 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 61.4,
-   "home": 38.6
+   "away": 61.5,
+   "home": 38.5
   },
   "home": {
    "abbr": "BAY",
@@ -3141,23 +3141,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856871",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "-205",
    "mlAwayOpen": "-112",
    "mlHome": "+170",
    "mlHomeOpen": "-108",
-   "provider": "Draft Kings",
-   "spread": "TTU -4.5",
+   "provider": "DraftKings",
+   "spread": "TTU -5.5",
    "spreadOpen": "TTU -1.5",
-   "total": "56.5",
+   "total": "57.5",
    "totalOpen": "55.5"
   },
   "pick": "TTU ML (-205)",
-  "reason": "TTU are about 64% no-vig at -205; ESPN's model has 61%. For: line moved toward TTU (-112 → -205).",
+  "reason": "TTU are about 64% no-vig at -205; ESPN's model has 62%. For: line moved toward TTU (-112 → -205).",
   "risks": [],
   "side": "away",
   "slug": "college-football",
@@ -3165,11 +3165,11 @@
   "stars": 2,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "McLane Stadium, Waco"
  },
  "ncaaf-401856872": {
-  "_lastPick": "UTAH ML (-340)",
+  "_lastPick": "UTAH ML (-325)",
   "away": {
    "abbr": "UTAH",
    "form": "WWWWW",
@@ -3178,13 +3178,13 @@
    "short": "Utah",
    "teamId": "254"
   },
-  "confidence": 71,
+  "confidence": 70,
   "espnId": "401856872",
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 73.5,
-   "home": 26.5
+   "away": 72.5,
+   "home": 27.5
   },
   "home": {
    "abbr": "TCU",
@@ -3199,23 +3199,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856872",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
-   "mlAway": "-340",
+   "mlAway": "-325",
    "mlAwayOpen": "-205",
-   "mlHome": "+270",
+   "mlHome": "+260",
    "mlHomeOpen": "+170",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UTAH -8.5",
    "spreadOpen": "UTAH -5.5",
    "total": "46.5",
    "totalOpen": "44.5"
   },
-  "pick": "UTAH ML (-340)",
-  "reason": "UTAH are about 74% no-vig at -340; ESPN's model has 74%. For: line moved toward UTAH (-205 → -340).",
+  "pick": "UTAH ML (-325)",
+  "reason": "UTAH are about 73% no-vig at -325; ESPN's model has 72%. For: line moved toward UTAH (-205 → -325).",
   "risks": [],
   "side": "away",
   "slug": "college-football",
@@ -3223,7 +3223,7 @@
   "stars": 3,
   "start": "2026-11-22T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Amon G. Carter Stadium, Fort Worth"
  },
  "ncaaf-401858302": {
@@ -3257,16 +3257,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858302",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "+950",
    "mlAwayOpen": "+675",
    "mlHome": "-1650",
    "mlHomeOpen": "-1050",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "MIA -20.5",
    "spreadOpen": "MIA -16.5",
    "total": "60.5",
@@ -3281,7 +3281,7 @@
   "stars": 2,
   "start": "2026-11-22T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Hard Rock Stadium, Miami Gardens"
  },
  "ncaaf-401858303": {
@@ -3357,8 +3357,8 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 19.8,
-   "home": 80.2
+   "away": 19.4,
+   "home": 80.6
   },
   "home": {
    "abbr": "FSU",
@@ -3373,23 +3373,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858304",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "+310",
    "mlAwayOpen": "+245",
    "mlHome": "-395",
    "mlHomeOpen": "-305",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "FSU -10.5",
    "spreadOpen": "FSU -10",
    "total": "56.5",
    "totalOpen": "54.5"
   },
   "pick": "FSU ML (-395)",
-  "reason": "FSU are about 77% no-vig at -395; ESPN's model has 80%. For: line moved toward FSU (-305 → -395).",
+  "reason": "FSU are about 77% no-vig at -395; ESPN's model has 81%. For: line moved toward FSU (-305 → -395).",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -3397,7 +3397,7 @@
   "stars": 3,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Doak Campbell Stadium, Tallahassee"
  },
  "ncaaf-401858305": {
@@ -3409,13 +3409,13 @@
    "short": "North Carolina",
    "teamId": "153"
   },
-  "confidence": 44,
+  "confidence": 52,
   "espnId": "401858305",
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 59.4,
-   "home": 40.6
+   "away": 59.8,
+   "home": 40.2
   },
   "home": {
    "abbr": "UVA",
@@ -3429,36 +3429,34 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858305",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
-   "mlAway": "-102",
+   "mlAway": "-115",
    "mlAwayOpen": "-105",
-   "mlHome": "-118",
+   "mlHome": "-105",
    "mlHomeOpen": "-115",
-   "provider": "Draft Kings",
-   "spread": "UVA -1.5",
+   "provider": "DraftKings",
+   "spread": "UNC -1.5",
    "spreadOpen": "UVA -1.5",
-   "total": "42.5",
+   "total": "41.5",
    "totalOpen": "43.5"
   },
   "pick": "Pass",
-  "reason": "UVA about 52% no-vig at -118; no edge worth a pick.",
-  "risks": [
-   "ESPN model only 41% vs market 52%"
-  ],
+  "reason": "UNC about 51% no-vig at -115; no edge worth a pick.",
+  "risks": [],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-21T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Scott Stadium, Charlottesville"
  },
  "ncaaf-401858306": {
-  "_lastPick": "LOU ML (-575)",
+  "_lastPick": "LOU ML (-485)",
   "away": {
    "abbr": "PITT",
    "form": "LWLLL",
@@ -3467,13 +3465,13 @@
    "short": "Pitt",
    "teamId": "221"
   },
-  "confidence": 78,
+  "confidence": 77,
   "espnId": "401858306",
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 22.5,
-   "home": 77.5
+   "away": 23.0,
+   "home": 77.0
   },
   "home": {
    "abbr": "LOU",
@@ -3488,23 +3486,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858306",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
-   "mlAway": "+425",
+   "mlAway": "+370",
    "mlAwayOpen": "+270",
-   "mlHome": "-575",
+   "mlHome": "-485",
    "mlHomeOpen": "-340",
-   "provider": "Draft Kings",
-   "spread": "LOU -13.5",
+   "provider": "DraftKings",
+   "spread": "LOU -12.5",
    "spreadOpen": "LOU -12.5",
    "total": "50.5",
    "totalOpen": "51.5"
   },
-  "pick": "LOU ML (-575)",
-  "reason": "LOU are about 82% no-vig at -575; ESPN's model has 78%. For: line moved toward LOU (-340 → -575); form WWWWW vs LWLLL.",
+  "pick": "LOU ML (-485)",
+  "reason": "LOU are about 80% no-vig at -485; ESPN's model has 77%. For: line moved toward LOU (-340 → -485); form WWWWW vs LWLLL.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -3512,7 +3510,7 @@
   "stars": 2,
   "start": "2026-11-22T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "L&N Federal Credit Union Stadium, Louisville"
  },
  "ncaaf-401858307": {
@@ -3530,8 +3528,8 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 6.6,
-   "home": 93.4
+   "away": 6.7,
+   "home": 93.3
   },
   "home": {
    "abbr": "ND",
@@ -3546,19 +3544,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858307",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "+950",
    "mlAwayOpen": "+625",
    "mlHome": "-1650",
    "mlHomeOpen": "-950",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "ND -20.5",
    "spreadOpen": "ND -17.5",
-   "total": "56.5",
+   "total": "55.5",
    "totalOpen": "56.5"
   },
   "pick": "ND ML (-1650)",
@@ -3570,7 +3568,7 @@
   "stars": 2,
   "start": "2026-11-22T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Notre Dame Stadium, Notre Dame"
  },
  "ncaaf-401858308": {
@@ -3587,8 +3585,8 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 47.8,
-   "home": 52.2
+   "away": 47.0,
+   "home": 53.0
   },
   "home": {
    "abbr": "CAL",
@@ -3602,16 +3600,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858308",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "-135",
    "mlAwayOpen": "-122",
    "mlHome": "+114",
    "mlHomeOpen": "+102",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "STAN -2.5",
    "spreadOpen": "STAN -1.5",
    "total": "55.5",
@@ -3620,17 +3618,18 @@
   "pick": "Pass",
   "reason": "STAN about 55% no-vig at -135; no edge worth a pick.",
   "risks": [
-   "ESPN model only 48% vs market 55%"
+   "ESPN model only 47% vs market 55%"
   ],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-22T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "California Memorial Stadium, Berkeley"
  },
  "ncaaf-401858309": {
+  "_lastPick": "SYR ML (-155)",
   "away": {
    "abbr": "SYR",
    "form": "WLWWL",
@@ -3639,13 +3638,13 @@
    "short": "Syracuse",
    "teamId": "183"
   },
-  "confidence": 57,
+  "confidence": 58,
   "espnId": "401858309",
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 63.3,
-   "home": 36.6
+   "away": 64.1,
+   "home": 35.9
   },
   "home": {
    "abbr": "BC",
@@ -3658,35 +3657,37 @@
   "id": "ncaaf-401858309",
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858309",
+  "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "-155",
    "mlAwayOpen": "-166",
    "mlHome": "+130",
    "mlHomeOpen": "+140",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "SYR -3",
    "spreadOpen": "SYR -3.5",
    "total": "52.5",
    "totalOpen": "50.5"
   },
-  "pick": "Pass",
-  "reason": "SYR about 58% no-vig at -155; no edge worth a pick.",
+  "pick": "SYR ML (-155)",
+  "reason": "SYR are about 58% no-vig at -155; ESPN's model has 64%. For: ESPN model 64% vs market 58%.",
   "risks": [],
+  "side": "away",
   "slug": "college-football",
   "sport": "ncaaf",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Alumni Stadium (Chestnut Hill, MA), Chestnut Hill"
  },
  "ncaaf-401858310": {
-  "_lastPick": "WAKE ML (-1650)",
+  "_lastPick": "WAKE ML (-2100)",
   "away": {
    "abbr": "WAKE",
    "form": "WWWWW",
@@ -3695,7 +3696,7 @@
    "short": "Wake Forest",
    "teamId": "154"
   },
-  "confidence": 89,
+  "confidence": 90,
   "espnId": "401858310",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -3716,23 +3717,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858310",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
-   "mlAway": "-1650",
+   "mlAway": "-2100",
    "mlAwayOpen": "-1650",
-   "mlHome": "+950",
+   "mlHome": "+1100",
    "mlHomeOpen": "+950",
-   "provider": "Draft Kings",
-   "spread": "WAKE -21",
+   "provider": "DraftKings",
+   "spread": "WAKE -22.5",
    "spreadOpen": "WAKE -20.5",
    "total": "55.5",
    "totalOpen": "56.5"
   },
-  "pick": "WAKE ML (-1650)",
-  "reason": "WAKE are about 91% no-vig at -1650; ESPN's model has 92%. For: form WWWWW vs WLLLL. Capped at 2★: huge college spread.",
+  "pick": "WAKE ML (-2100)",
+  "reason": "WAKE are about 92% no-vig at -2100; ESPN's model has 92%. For: form WWWWW vs WLLLL. Capped at 2★: huge college spread.",
   "risks": [],
   "side": "away",
   "slug": "college-football",
@@ -3740,7 +3741,7 @@
   "stars": 2,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Bobby Dodd Stadium, Atlanta"
  },
  "ncaaf-401858527": {
@@ -3758,8 +3759,8 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 65.3,
-   "home": 34.7
+   "away": 65.2,
+   "home": 34.8
   },
   "home": {
    "abbr": "ILL",
@@ -3774,16 +3775,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858527",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "-325",
    "mlAwayOpen": "-205",
    "mlHome": "+260",
    "mlHomeOpen": "+170",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "IOWA -8.5",
    "spreadOpen": "IOWA -5.5",
    "total": "40.5",
@@ -3800,7 +3801,7 @@
   "stars": 2,
   "start": "2026-11-21T19:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Gies Memorial Stadium, Champaign"
  },
  "ncaaf-401858528": {
@@ -3817,8 +3818,8 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 53.0,
-   "home": 46.9
+   "away": 53.4,
+   "home": 46.6
   },
   "home": {
    "abbr": "MICH",
@@ -3832,16 +3833,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858528",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "-180",
    "mlAwayOpen": "-218",
    "mlHome": "+150",
    "mlHomeOpen": "+180",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UCLA -3.5",
    "spreadOpen": "UCLA -5.5",
    "total": "36.5",
@@ -3858,7 +3859,7 @@
   "stars": 1,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Michigan Stadium, Ann Arbor"
  },
  "ncaaf-401858529": {
@@ -3920,7 +3921,7 @@
   "venue": "Spartan Stadium, East Lansing"
  },
  "ncaaf-401858530": {
-  "_lastPick": "NU ML (-135)",
+  "_lastPick": "NU ML (-148)",
   "away": {
    "abbr": "NU",
    "form": "LLLWW",
@@ -3929,13 +3930,13 @@
    "short": "Northwestern",
    "teamId": "77"
   },
-  "confidence": 61,
+  "confidence": 63,
   "espnId": "401858530",
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 78.1,
-   "home": 21.9
+   "away": 78.2,
+   "home": 21.8
   },
   "home": {
    "abbr": "MINN",
@@ -3950,23 +3951,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858530",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
-   "mlAway": "-135",
+   "mlAway": "-148",
    "mlAwayOpen": "-148",
-   "mlHome": "+114",
+   "mlHome": "+124",
    "mlHomeOpen": "+124",
-   "provider": "Draft Kings",
-   "spread": "NU -2.5",
+   "provider": "DraftKings",
+   "spread": "NU -3",
    "spreadOpen": "NU -3",
    "total": "41.5",
    "totalOpen": "43.5"
   },
-  "pick": "NU ML (-135)",
-  "reason": "NU are about 55% no-vig at -135; ESPN's model has 78%. For: ESPN model 78% vs market 55%.",
+  "pick": "NU ML (-148)",
+  "reason": "NU are about 57% no-vig at -148; ESPN's model has 78%. For: ESPN model 78% vs market 57%.",
   "risks": [],
   "side": "away",
   "slug": "college-football",
@@ -3974,11 +3975,11 @@
   "stars": 2,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Huntington Bank Stadium, Minneapolis"
  },
  "ncaaf-401858531": {
-  "_lastPick": "OSU ML (-166)",
+  "_lastPick": "OSU ML (-185)",
   "away": {
    "abbr": "OSU",
    "form": "WLLWW",
@@ -3987,13 +3988,13 @@
    "short": "Ohio State",
    "teamId": "194"
   },
-  "confidence": 60,
+  "confidence": 63,
   "espnId": "401858531",
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 71.4,
-   "home": 28.6
+   "away": 71.8,
+   "home": 28.2
   },
   "home": {
    "abbr": "NEB",
@@ -4008,33 +4009,31 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858531",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
-   "mlAway": "-166",
+   "mlAway": "-185",
    "mlAwayOpen": "-198",
-   "mlHome": "+140",
+   "mlHome": "+154",
    "mlHomeOpen": "+164",
-   "provider": "Draft Kings",
-   "spread": "OSU -3",
+   "provider": "DraftKings",
+   "spread": "OSU -3.5",
    "spreadOpen": "OSU -5.5",
-   "total": "41.5",
+   "total": "42.5",
    "totalOpen": "47.5"
   },
-  "pick": "OSU ML (-166)",
-  "reason": "OSU are about 60% no-vig at -166; ESPN's model has 71%. For: ESPN model 71% vs market 60%.",
-  "risks": [
-   "line drifted away (-198 → -166)"
-  ],
+  "pick": "OSU ML (-185)",
+  "reason": "OSU are about 62% no-vig at -185; ESPN's model has 72%. For: ESPN model 72% vs market 62%.",
+  "risks": [],
   "side": "away",
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 2,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Memorial Stadium (Lincoln, NE), Lincoln"
  },
  "ncaaf-401858532": {
@@ -4052,8 +4051,8 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 6.5,
-   "home": 93.5
+   "away": 6.4,
+   "home": 93.6
   },
   "home": {
    "abbr": "PSU",
@@ -4068,19 +4067,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858532",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "+1400",
    "mlAwayOpen": "+1000",
    "mlHome": "-3200",
    "mlHomeOpen": "-1800",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "PSU -26.5",
    "spreadOpen": "PSU -20.5",
-   "total": "49.5",
+   "total": "48.5",
    "totalOpen": "49.5"
   },
   "pick": "PSU ML (-3200)",
@@ -4092,11 +4091,11 @@
   "stars": 2,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Beaver Stadium, University Park"
  },
  "ncaaf-401858533": {
-  "_lastPick": "WIS ML (-230)",
+  "_lastPick": "WIS ML (-205)",
   "away": {
    "abbr": "WIS",
    "form": "LWLWL",
@@ -4105,13 +4104,13 @@
    "short": "Wisconsin",
    "teamId": "275"
   },
-  "confidence": 63,
+  "confidence": 62,
   "espnId": "401858533",
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 65.0,
-   "home": 35.0
+   "away": 64.8,
+   "home": 35.2
   },
   "home": {
    "abbr": "PUR",
@@ -4126,23 +4125,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858533",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
-   "mlAway": "-230",
+   "mlAway": "-205",
    "mlAwayOpen": "-218",
-   "mlHome": "+190",
+   "mlHome": "+170",
    "mlHomeOpen": "+180",
-   "provider": "Draft Kings",
-   "spread": "WIS -6",
+   "provider": "DraftKings",
+   "spread": "WIS -4.5",
    "spreadOpen": "WIS -6",
    "total": "46.5",
    "totalOpen": "44.5"
   },
-  "pick": "WIS ML (-230)",
-  "reason": "WIS are about 67% no-vig at -230; ESPN's model has 65%.",
+  "pick": "WIS ML (-205)",
+  "reason": "WIS are about 64% no-vig at -205; ESPN's model has 65%.",
   "risks": [],
   "side": "away",
   "slug": "college-football",
@@ -4150,7 +4149,7 @@
   "stars": 2,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Ross-Ade Stadium, West Lafayette"
  },
  "ncaaf-401858534": {
@@ -4169,7 +4168,7 @@
   "espnSport": "football",
   "espnWinProb": {
    "away": 6.9,
-   "home": 93.1
+   "home": 93.2
   },
   "home": {
    "abbr": "USC",
@@ -4184,19 +4183,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858534",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "+625",
    "mlAwayOpen": "+550",
    "mlHome": "-950",
    "mlHomeOpen": "-800",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "USC -17.5",
    "spreadOpen": "USC -16.5",
-   "total": "56.5",
+   "total": "57.5",
    "totalOpen": "56.5"
   },
   "pick": "USC ML (-950)",
@@ -4208,11 +4207,11 @@
   "stars": 3,
   "start": "2026-11-21T23:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Los Angeles Memorial Coliseum, Los Angeles"
  },
  "ncaaf-401858535": {
-  "_lastPick": "IU ML (-310)",
+  "_lastPick": "IU ML (-340)",
   "away": {
    "abbr": "IU",
    "form": "WWWLW",
@@ -4221,13 +4220,13 @@
    "short": "Indiana",
    "teamId": "84"
   },
-  "confidence": 72,
+  "confidence": 73,
   "espnId": "401858535",
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 78.6,
-   "home": 21.4
+   "away": 78.9,
+   "home": 21.1
   },
   "home": {
    "abbr": "WASH",
@@ -4242,31 +4241,31 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858535",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
-   "mlAway": "-310",
+   "mlAway": "-340",
    "mlAwayOpen": "-278",
-   "mlHome": "+250",
+   "mlHome": "+270",
    "mlHomeOpen": "+225",
-   "provider": "Draft Kings",
-   "spread": "IU -7.5",
+   "provider": "DraftKings",
+   "spread": "IU -9.5",
    "spreadOpen": "IU -7.5",
    "total": "43.5",
    "totalOpen": "43.5"
   },
-  "pick": "IU ML (-310)",
-  "reason": "IU are about 73% no-vig at -310; ESPN's model has 79%. For: ESPN model 79% vs market 73%.",
+  "pick": "IU ML (-340)",
+  "reason": "IU are about 74% no-vig at -340; ESPN's model has 79%.",
   "risks": [],
   "side": "away",
   "slug": "college-football",
   "sport": "ncaaf",
-  "stars": 3,
+  "stars": 2,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Husky Stadium, Seattle"
  },
  "ncaaf-401860918": {
@@ -4300,16 +4299,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401860918",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "+850",
    "mlAwayOpen": "+1000",
    "mlHome": "-1450",
    "mlHomeOpen": "-1800",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "FRES -20.5",
    "spreadOpen": "FRES -19.5",
    "total": "66.5",
@@ -4324,11 +4323,11 @@
   "stars": 2,
   "start": "2026-11-22T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Valley Children's Stadium, Fresno"
  },
  "ncaaf-401860919": {
-  "_lastPick": "ORST ML (-310)",
+  "_lastPick": "ORST ML (-290)",
   "away": {
    "abbr": "USU",
    "form": "LWWLW",
@@ -4337,13 +4336,13 @@
    "short": "Utah State",
    "teamId": "328"
   },
-  "confidence": 72,
+  "confidence": 69,
   "espnId": "401860919",
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 21.6,
-   "home": 78.4
+   "away": 21.8,
+   "home": 78.2
   },
   "home": {
    "abbr": "ORST",
@@ -4358,31 +4357,33 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401860919",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
-   "mlAway": "+250",
+   "mlAway": "+235",
    "mlAwayOpen": "+295",
-   "mlHome": "-310",
+   "mlHome": "-290",
    "mlHomeOpen": "-375",
-   "provider": "Draft Kings",
-   "spread": "ORST -8.5",
+   "provider": "DraftKings",
+   "spread": "ORST -7.5",
    "spreadOpen": "ORST -10",
-   "total": "50.5",
+   "total": "51.5",
    "totalOpen": "49.5"
   },
-  "pick": "ORST ML (-310)",
-  "reason": "ORST are about 73% no-vig at -310; ESPN's model has 78%. For: ESPN model 78% vs market 73%.",
-  "risks": [],
+  "pick": "ORST ML (-290)",
+  "reason": "ORST are about 71% no-vig at -290; ESPN's model has 78%. For: ESPN model 78% vs market 71%.",
+  "risks": [
+   "line drifted away (-375 → -290)"
+  ],
   "side": "home",
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 3,
   "start": "2026-11-22T03:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Reser Stadium, Corvallis"
  },
  "ncaaf-401860920": {
@@ -4400,7 +4401,7 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 20.1,
+   "away": 20.0,
    "home": 80.0
   },
   "home": {
@@ -4416,19 +4417,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401860920",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "+400",
    "mlAwayOpen": "+500",
    "mlHome": "-535",
    "mlHomeOpen": "-700",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "TXST -13.5",
    "spreadOpen": "TXST -14.5",
-   "total": "62.5",
+   "total": "61.5",
    "totalOpen": "57.5"
   },
   "pick": "TXST ML (-535)",
@@ -4440,11 +4441,11 @@
   "stars": 3,
   "start": "2026-11-21T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "UFCU Stadium, San Marcos"
  },
  "ncaaf-401860925": {
-  "_lastPick": "BOIS ML (-950)",
+  "_lastPick": "BOIS ML (-1450)",
   "away": {
    "abbr": "SDSU",
    "form": "WWLWL",
@@ -4453,13 +4454,13 @@
    "short": "San Diego St",
    "teamId": "21"
   },
-  "confidence": 87,
+  "confidence": 88,
   "espnId": "401860925",
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 6.2,
-   "home": 93.8
+   "away": 6.1,
+   "home": 93.9
   },
   "home": {
    "abbr": "BOIS",
@@ -4474,35 +4475,35 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401860925",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
-   "mlAway": "+625",
+   "mlAway": "+850",
    "mlAwayOpen": "+850",
-   "mlHome": "-950",
+   "mlHome": "-1450",
    "mlHomeOpen": "-1450",
-   "provider": "Draft Kings",
-   "spread": "BOIS -17.5",
+   "provider": "DraftKings",
+   "spread": "BOIS -20.5",
    "spreadOpen": "BOIS -18.5",
    "total": "60.5",
    "totalOpen": "62.5"
   },
-  "pick": "BOIS ML (-950)",
-  "reason": "BOIS are about 87% no-vig at -950; ESPN's model has 94%. For: ESPN model 94% vs market 87%.",
+  "pick": "BOIS ML (-1450)",
+  "reason": "BOIS are about 90% no-vig at -1450; ESPN's model has 94%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
   "sport": "ncaaf",
-  "stars": 3,
+  "stars": 2,
   "start": "2026-11-22T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Albertsons Stadium, Boise"
  },
  "ncaaf-401861968": {
-  "_lastPick": "CONN ML (-575)",
+  "_lastPick": "CONN ML (-600)",
   "away": {
    "abbr": "ODU",
    "form": "WLLLW",
@@ -4516,8 +4517,8 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 17.7,
-   "home": 82.3
+   "away": 17.5,
+   "home": 82.5
   },
   "home": {
    "abbr": "CONN",
@@ -4532,23 +4533,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401861968",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
-   "mlAway": "+425",
+   "mlAway": "+440",
    "mlAwayOpen": "+410",
-   "mlHome": "-575",
+   "mlHome": "-600",
    "mlHomeOpen": "-550",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "CONN -13.5",
    "spreadOpen": "CONN -14.5",
-   "total": "47.5",
+   "total": "48.5",
    "totalOpen": "48.5"
   },
-  "pick": "CONN ML (-575)",
-  "reason": "CONN are about 82% no-vig at -575; ESPN's model has 82%.",
+  "pick": "CONN ML (-600)",
+  "reason": "CONN are about 82% no-vig at -600; ESPN's model has 82%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -4556,11 +4557,11 @@
   "stars": 2,
   "start": "2026-11-21T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Pratt & Whitney Stadium, East Hartford"
  },
  "ncaaf-401862831": {
-  "_lastPick": "ARMY ML (-238)",
+  "_lastPick": "ARMY ML (-205)",
   "away": {
    "abbr": "ECU",
    "form": "WWWLL",
@@ -4569,13 +4570,13 @@
    "short": "East Carolina",
    "teamId": "151"
   },
-  "confidence": 64,
+  "confidence": 62,
   "espnId": "401862831",
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 34.1,
-   "home": 65.9
+   "away": 33.7,
+   "home": 66.3
   },
   "home": {
    "abbr": "ARMY",
@@ -4590,23 +4591,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862831",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
-   "mlAway": "+195",
+   "mlAway": "+170",
    "mlAwayOpen": "+150",
-   "mlHome": "-238",
+   "mlHome": "-205",
    "mlHomeOpen": "-180",
-   "provider": "Draft Kings",
-   "spread": "ARMY -6",
+   "provider": "DraftKings",
+   "spread": "ARMY -4.5",
    "spreadOpen": "ARMY -4.5",
-   "total": "46.5",
+   "total": "45.5",
    "totalOpen": "42.5"
   },
-  "pick": "ARMY ML (-238)",
-  "reason": "ARMY are about 68% no-vig at -238; ESPN's model has 66%. For: line moved toward ARMY (-180 → -238).",
+  "pick": "ARMY ML (-205)",
+  "reason": "ARMY are about 64% no-vig at -205; ESPN's model has 66%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -4614,7 +4615,7 @@
   "stars": 2,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Michie Stadium, West Point"
  },
  "ncaaf-401862832": {
@@ -4648,16 +4649,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862832",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "+1100",
    "mlAwayOpen": "+675",
    "mlHome": "-2100",
    "mlHomeOpen": "-1050",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "TLSA -22.5",
    "spreadOpen": "TLSA -20.5",
    "total": "51.5",
@@ -4672,7 +4673,7 @@
   "stars": 2,
   "start": "2026-11-21T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "H. A. Chapman Stadium, Tulsa"
  },
  "ncaaf-401862833": {
@@ -4704,16 +4705,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401862833",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "-115",
    "mlAwayOpen": "-105",
    "mlHome": "-105",
    "mlHomeOpen": "-115",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "USF -1.5",
    "spreadOpen": "FAU -1.5",
    "total": "63.5",
@@ -4727,7 +4728,7 @@
   "stars": 1,
   "start": "2026-11-21T19:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Flagler Credit Union Stadium, Boca Raton"
  },
  "ncaaf-401862834": {
@@ -4740,13 +4741,13 @@
    "short": "Memphis",
    "teamId": "235"
   },
-  "confidence": 57,
+  "confidence": 56,
   "espnId": "401862834",
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 63.3,
-   "home": 36.6
+   "away": 62.9,
+   "home": 37.1
   },
   "home": {
    "abbr": "NAVY",
@@ -4761,23 +4762,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862834",
   "market": null,
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
-   "mlAway": "-148",
+   "mlAway": "-142",
    "mlAwayOpen": "-166",
-   "mlHome": "+124",
+   "mlHome": "+120",
    "mlHomeOpen": "+140",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "MEM -2.5",
    "spreadOpen": "MEM -3",
-   "total": "67.5",
+   "total": "68.5",
    "totalOpen": "64.5"
   },
   "pick": "Pass",
-  "reason": "MEM about 57% no-vig at -148; no edge worth a pick.",
+  "reason": "MEM about 56% no-vig at -142; no edge worth a pick.",
   "risks": [],
   "side": null,
   "slug": "college-football",
@@ -4785,11 +4786,11 @@
   "stars": 1,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Navy-Marine Corps Memorial Stadium, Annapolis"
  },
  "ncaaf-401862835": {
-  "_lastPick": "UNT ML (-250)",
+  "_lastPick": "UNT ML (-290)",
   "away": {
    "abbr": "UNT",
    "form": "LWWWW",
@@ -4798,13 +4799,13 @@
    "short": "North Texas",
    "teamId": "249"
   },
-  "confidence": 67,
+  "confidence": 68,
   "espnId": "401862835",
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 76.5,
-   "home": 23.5
+   "away": 76.7,
+   "home": 23.3
   },
   "home": {
    "abbr": "TULN",
@@ -4819,25 +4820,25 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862835",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
-   "mlAway": "-250",
+   "mlAway": "-290",
    "mlAwayOpen": "-575",
-   "mlHome": "+205",
+   "mlHome": "+235",
    "mlHomeOpen": "+425",
-   "provider": "Draft Kings",
-   "spread": "UNT -6.5",
+   "provider": "DraftKings",
+   "spread": "UNT -7.5",
    "spreadOpen": "UNT -13.5",
-   "total": "55.5",
+   "total": "56.5",
    "totalOpen": "60.5"
   },
-  "pick": "UNT ML (-250)",
-  "reason": "UNT are about 69% no-vig at -250; ESPN's model has 76%. For: ESPN model 76% vs market 69%.",
+  "pick": "UNT ML (-290)",
+  "reason": "UNT are about 71% no-vig at -290; ESPN's model has 77%. For: ESPN model 77% vs market 71%.",
   "risks": [
-   "line drifted away (-575 → -250)"
+   "line drifted away (-575 → -290)"
   ],
   "side": "away",
   "slug": "college-football",
@@ -4845,11 +4846,11 @@
   "stars": 3,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Yulman Stadium, New Orleans"
  },
  "ncaaf-401862836": {
-  "_lastPick": "UTSA ML (-225)",
+  "_lastPick": "UTSA ML (-192)",
   "away": {
    "abbr": "UTSA",
    "form": "WLWWW",
@@ -4858,7 +4859,7 @@
    "short": "UTSA",
    "teamId": "2636"
   },
-  "confidence": 63,
+  "confidence": 61,
   "espnId": "401862836",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -4879,25 +4880,25 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862836",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
-   "mlAway": "-225",
+   "mlAway": "-192",
    "mlAwayOpen": "-285",
-   "mlHome": "+185",
+   "mlHome": "+160",
    "mlHomeOpen": "+230",
-   "provider": "Draft Kings",
-   "spread": "UTSA -6",
+   "provider": "DraftKings",
+   "spread": "UTSA -4.5",
    "spreadOpen": "UTSA -7.5",
    "total": "49.5",
    "totalOpen": "53.5"
   },
-  "pick": "UTSA ML (-225)",
-  "reason": "UTSA are about 66% no-vig at -225; ESPN's model has 71%.",
+  "pick": "UTSA ML (-192)",
+  "reason": "UTSA are about 63% no-vig at -192; ESPN's model has 71%. For: ESPN model 71% vs market 63%.",
   "risks": [
-   "line drifted away (-285 → -225)"
+   "line drifted away (-285 → -192)"
   ],
   "side": "away",
   "slug": "college-football",
@@ -4905,11 +4906,11 @@
   "stars": 2,
   "start": "2026-11-22T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Protective Stadium, Birmingham"
  },
  "ncaaf-401864541": {
-  "_lastPick": "NEV ML (-238)",
+  "_lastPick": "NEV ML (-258)",
   "away": {
    "abbr": "HAW",
    "form": "LWWLL",
@@ -4918,13 +4919,13 @@
    "short": "Hawai'i",
    "teamId": "62"
   },
-  "confidence": 65,
+  "confidence": 66,
   "espnId": "401864541",
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 32.1,
-   "home": 67.9
+   "away": 31.9,
+   "home": 68.1
   },
   "home": {
    "abbr": "NEV",
@@ -4939,23 +4940,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864541",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
-   "mlAway": "+195",
+   "mlAway": "+210",
    "mlAwayOpen": "+110",
-   "mlHome": "-238",
+   "mlHome": "-258",
    "mlHomeOpen": "-130",
-   "provider": "Draft Kings",
-   "spread": "NEV -6",
+   "provider": "DraftKings",
+   "spread": "NEV -7",
    "spreadOpen": "NEV -2.5",
    "total": "40.5",
    "totalOpen": "42.5"
   },
-  "pick": "NEV ML (-238)",
-  "reason": "NEV are about 68% no-vig at -238; ESPN's model has 68%. For: line moved toward NEV (-130 → -238).",
+  "pick": "NEV ML (-258)",
+  "reason": "NEV are about 69% no-vig at -258; ESPN's model has 68%. For: line moved toward NEV (-130 → -258).",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -4963,7 +4964,7 @@
   "stars": 3,
   "start": "2026-11-22T03:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Mackay Stadium, Reno"
  },
  "ncaaf-401864542": {
@@ -5034,13 +5035,13 @@
    "short": "N Illinois",
    "teamId": "2459"
   },
-  "confidence": 93,
+  "confidence": 92,
   "espnId": "401864543",
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 4.1,
-   "home": 95.9
+   "away": 4.2,
+   "home": 95.8
   },
   "home": {
    "abbr": "NDSU",
@@ -5055,19 +5056,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864543",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "+1400",
    "mlAwayOpen": "+1800",
    "mlHome": "-3200",
    "mlHomeOpen": "-5000",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "NDSU -25.5",
    "spreadOpen": "NDSU -25.5",
-   "total": "44.5",
+   "total": "45.5",
    "totalOpen": "48.5"
   },
   "pick": "NDSU ML (-3200)",
@@ -5079,7 +5080,7 @@
   "stars": 2,
   "start": "2026-11-21T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Fargodome, Fargo"
  },
  "ncaaf-401864544": {
@@ -5097,8 +5098,8 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 70.9,
-   "home": 29.1
+   "away": 71.4,
+   "home": 28.6
   },
   "home": {
    "abbr": "SJSU",
@@ -5113,16 +5114,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864544",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "-245",
    "mlAwayOpen": "-148",
    "mlHome": "+200",
    "mlHomeOpen": "+124",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UNLV -6.5",
    "spreadOpen": "UNLV -3",
    "total": "47.5",
@@ -5137,7 +5138,7 @@
   "stars": 3,
   "start": "2026-11-22T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "CEFCU Stadium, San Jose"
  },
  "ncaaf-401864545": {
@@ -5287,16 +5288,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869929",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "+455",
    "mlAwayOpen": "+425",
    "mlHome": "-625",
    "mlHomeOpen": "-575",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "APP -14",
    "spreadOpen": "APP -13.5",
    "total": "50.5",
@@ -5311,7 +5312,7 @@
   "stars": 2,
   "start": "2026-11-21T19:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Kidd Brewer Stadium, Boone"
  },
  "ncaaf-401869938": {
@@ -5329,7 +5330,7 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 15.1,
+   "away": 15.2,
    "home": 84.9
   },
   "home": {
@@ -5345,16 +5346,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869938",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "+440",
    "mlAwayOpen": "+575",
    "mlHome": "-600",
    "mlHomeOpen": "-850",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "LT -14.5",
    "spreadOpen": "LT -16.5",
    "total": "54.5",
@@ -5369,7 +5370,7 @@
   "stars": 3,
   "start": "2026-11-22T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Joe Aillet Stadium, Ruston"
  },
  "ncaaf-401869946": {
@@ -5403,16 +5404,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869946",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "+310",
    "mlAwayOpen": "+225",
    "mlHome": "-395",
    "mlHomeOpen": "-278",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UL -10.5",
    "spreadOpen": "UL -7.5",
    "total": "49.5",
@@ -5427,7 +5428,7 @@
   "stars": 3,
   "start": "2026-11-21T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Our Lady of Lourdes Stadium, Lafayette"
  },
  "ncaaf-401869953": {
@@ -5445,8 +5446,8 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 74.5,
-   "home": 25.5
+   "away": 74.9,
+   "home": 25.1
   },
   "home": {
    "abbr": "TROY",
@@ -5461,23 +5462,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869953",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "-355",
    "mlAwayOpen": "-325",
    "mlHome": "+280",
    "mlHomeOpen": "+260",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "GASO -9.5",
    "spreadOpen": "GASO -8.5",
    "total": "47.5",
    "totalOpen": "47.5"
   },
   "pick": "GASO ML (-355)",
-  "reason": "GASO are about 75% no-vig at -355; ESPN's model has 74%. For: form WWWWL vs LLWLL.",
+  "reason": "GASO are about 75% no-vig at -355; ESPN's model has 75%. For: form WWWWL vs LLWLL.",
   "risks": [],
   "side": "away",
   "slug": "college-football",
@@ -5485,7 +5486,7 @@
   "stars": 3,
   "start": "2026-11-21T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Veterans Memorial Stadium (AL), Troy"
  },
  "ncaaf-401869958": {
@@ -5497,13 +5498,13 @@
    "short": "Georgia St",
    "teamId": "2247"
   },
-  "confidence": 44,
+  "confidence": 45,
   "espnId": "401869958",
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 64.5,
-   "home": 35.5
+   "away": 65.1,
+   "home": 34.9
   },
   "home": {
    "abbr": "MRSH",
@@ -5517,32 +5518,32 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401869958",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
-   "mlAway": "+114",
+   "mlAway": "+120",
    "mlAwayOpen": "-118",
-   "mlHome": "-135",
+   "mlHome": "-142",
    "mlHomeOpen": "-102",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "MRSH -2.5",
    "spreadOpen": "GAST -1.5",
-   "total": "54.5",
+   "total": "56.5",
    "totalOpen": "57.5"
   },
   "pick": "Pass",
-  "reason": "MRSH about 55% no-vig at -135; no edge worth a pick.",
+  "reason": "MRSH about 56% no-vig at -142; no edge worth a pick.",
   "risks": [
-   "ESPN model only 36% vs market 55%"
+   "ESPN model only 35% vs market 56%"
   ],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-21T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Joan C. Edwards Stadium, Huntington"
  },
  "ncaaf-401871077": {
@@ -5559,8 +5560,8 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 58.4,
-   "home": 41.6
+   "away": 58.5,
+   "home": 41.5
   },
   "home": {
    "abbr": "NMSU",
@@ -5574,16 +5575,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401871077",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "-155",
    "mlAwayOpen": "-185",
    "mlHome": "+130",
    "mlHomeOpen": "+154",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "DEL -3",
    "spreadOpen": "DEL -4.5",
    "total": "53.5",
@@ -5599,7 +5600,7 @@
   "stars": 1,
   "start": "2026-11-21T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Aggie Memorial Stadium, Las Cruces"
  },
  "ncaaf-401871078": {
@@ -5617,8 +5618,8 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 36.9,
-   "home": 63.1
+   "away": 36.8,
+   "home": 63.2
   },
   "home": {
    "abbr": "KENN",
@@ -5633,16 +5634,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871078",
   "market": null,
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "+105",
    "mlAwayOpen": "+145",
    "mlHome": "-125",
    "mlHomeOpen": "-175",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "KENN -2.5",
    "spreadOpen": "KENN -4",
    "total": "44.5",
@@ -5659,7 +5660,7 @@
   "stars": 1,
   "start": "2026-11-21T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Walens Family Field at Fifth Third Stadium, Kennesaw"
  },
  "ncaaf-401871079": {
@@ -5693,16 +5694,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871079",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "+320",
    "mlAwayOpen": "+270",
    "mlHome": "-410",
    "mlHomeOpen": "-340",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "JXST -10.5",
    "spreadOpen": "JXST -10.5",
    "total": "52.5",
@@ -5717,11 +5718,11 @@
   "stars": 3,
   "start": "2026-11-21T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "AmFirst Stadium, Jacksonville"
  },
  "ncaaf-401871080": {
-  "_lastPick": "LIB ML (-900)",
+  "_lastPick": "LIB ML (-1000)",
   "away": {
    "abbr": "WKU",
    "form": "WLLWW",
@@ -5751,23 +5752,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871080",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
-   "mlAway": "+600",
+   "mlAway": "+650",
    "mlAwayOpen": "+455",
-   "mlHome": "-900",
+   "mlHome": "-1000",
    "mlHomeOpen": "-625",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "LIB -17.5",
    "spreadOpen": "LIB -14.5",
    "total": "53.5",
    "totalOpen": "52.5"
   },
-  "pick": "LIB ML (-900)",
-  "reason": "LIB are about 86% no-vig at -900; ESPN's model has 92%. For: ESPN model 92% vs market 86%.",
+  "pick": "LIB ML (-1000)",
+  "reason": "LIB are about 87% no-vig at -1000; ESPN's model has 92%. For: line moved toward LIB (-625 → -1000).",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -5775,7 +5776,7 @@
   "stars": 3,
   "start": "2026-11-21T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Williams Stadium (VA), Lynchburg"
  },
  "ncaaf-401871081": {
@@ -5793,8 +5794,8 @@
   "espnLeague": "college-football",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 63.5,
-   "home": 36.5
+   "away": 63.6,
+   "home": 36.4
   },
   "home": {
    "abbr": "SHSU",
@@ -5809,16 +5810,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871081",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "-230",
    "mlAwayOpen": "-205",
    "mlHome": "+190",
    "mlHomeOpen": "+170",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "MTSU -6.5",
    "spreadOpen": "MTSU -5.5",
    "total": "48.5",
@@ -5833,7 +5834,7 @@
   "stars": 2,
   "start": "2026-11-21T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Elliott T. Bowers Stadium, Huntsville"
  },
  "ncaaf-401871101": {
@@ -5867,19 +5868,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871101",
   "market": "Moneyline",
   "news": [
-   "Richter throws TD pass to Dabbs, Griffith kicks 4 FGs for Toledo in 19-0 win over BGSU",
-   "UGA's resilience, OU's efficiency highlight best of SEC Tournament first round",
-   "Air Force runs for 429 yards in 52-3 rout of UTEP"
+   "Saturday Spin: Manning's return to Texas, Stockton nation's best QB?",
+   "Miami student misses kick for $2.25 million ... twice",
+   "Which teams have the best odds to make the College Football Playoff?"
   ],
   "odds": {
    "mlAway": "-198",
    "mlAwayOpen": "-192",
    "mlHome": "+164",
    "mlHomeOpen": "+160",
-   "provider": "Draft Kings",
-   "spread": "USA -4.5",
+   "provider": "DraftKings",
+   "spread": "USA -5.5",
    "spreadOpen": "USA -5.5",
-   "total": "66.5",
+   "total": "65.5",
    "totalOpen": "62.5"
   },
   "pick": "USA ML (-198)",
@@ -5891,11 +5892,11 @@
   "stars": 2,
   "start": "2026-11-21T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "M. M. Roberts Stadium, Hattiesburg"
  },
  "nfl-401873067": {
-  "_lastPick": "KC ML (-1660)",
+  "_lastPick": "KC ML (-1480)",
   "away": {
    "abbr": "ARI",
    "form": "LLWLW",
@@ -5910,7 +5911,7 @@
    "short": "Cardinals",
    "teamId": "22"
   },
-  "confidence": 87,
+  "confidence": 86,
   "espnId": "401873067",
   "espnLeague": "nfl",
   "espnSport": "football",
@@ -5991,35 +5992,35 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873067",
   "market": "Moneyline",
   "news": [
-   "Fantasy football Week 11 inactives: Who's in and who's out?",
-   "Back at practice again, Bengals QB Burrow optimistic he'll be at full strength",
-   "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'"
+   "Raiders' Mark Davis unhappy with 'unfair' image of his father in 'Madden' movie",
+   "Fantasy football flex and superflex rankings for Week 11",
+   "Fantasy football rankings Week 11: PPR and superflex"
   ],
   "odds": {
-   "mlAway": "+930",
+   "mlAway": "+860",
    "mlAwayOpen": "+440",
-   "mlHome": "-1660",
+   "mlHome": "-1480",
    "mlHomeOpen": "-600",
-   "provider": "Draft Kings",
-   "spread": "KC -16.5",
+   "provider": "DraftKings",
+   "spread": "KC -15.5",
    "spreadOpen": "KC -11.5",
    "total": "40.5",
    "totalOpen": "44.5"
   },
-  "pick": "KC ML (-1660)",
-  "reason": "KC are about 91% no-vig at -1660; ESPN's model has 88%. For: line moved toward KC (-600 → -1660).",
+  "pick": "KC ML (-1480)",
+  "reason": "KC are about 90% no-vig at -1480; ESPN's model has 88%. For: line moved toward KC (-600 → -1480).",
   "risks": [],
   "side": "home",
   "slug": "nfl",
   "sport": "nfl",
-  "stars": 2,
+  "stars": 3,
   "start": "2026-11-22T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Arrowhead Stadium, Kansas City"
  },
  "nfl-401873068": {
-  "_lastPick": "CAR ML (-150)",
+  "_lastPick": "CAR ML (-149)",
   "away": {
    "abbr": "BAL",
    "form": "LLLLL",
@@ -6115,23 +6116,23 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873068",
   "market": "Moneyline",
   "news": [
-   "Fantasy football Week 11 inactives: Who's in and who's out?",
-   "Back at practice again, Bengals QB Burrow optimistic he'll be at full strength",
-   "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'"
+   "Raiders' Mark Davis unhappy with 'unfair' image of his father in 'Madden' movie",
+   "Fantasy football flex and superflex rankings for Week 11",
+   "Fantasy football rankings Week 11: PPR and superflex"
   ],
   "odds": {
-   "mlAway": "+127",
+   "mlAway": "+126",
    "mlAwayOpen": "-218",
-   "mlHome": "-150",
+   "mlHome": "-149",
    "mlHomeOpen": "+180",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "CAR -3",
    "spreadOpen": "BAL -4.5",
    "total": "43.5",
    "totalOpen": "46.5"
   },
-  "pick": "CAR ML (-150)",
-  "reason": "CAR are about 58% no-vig at -150; ESPN's model has 69%. For: ESPN model 69% vs market 58%; line moved toward CAR (+180 → -150).",
+  "pick": "CAR ML (-149)",
+  "reason": "CAR are about 57% no-vig at -149; ESPN's model has 69%. For: ESPN model 69% vs market 57%; line moved toward CAR (+180 → -149).",
   "risks": [],
   "side": "home",
   "slug": "nfl",
@@ -6139,7 +6140,7 @@
   "stars": 2,
   "start": "2026-11-22T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Bank of America Stadium, Charlotte"
  },
  "nfl-401873069": {
@@ -6243,16 +6244,16 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873069",
   "market": "Moneyline",
   "news": [
-   "Fantasy football Week 11 inactives: Who's in and who's out?",
-   "Back at practice again, Bengals QB Burrow optimistic he'll be at full strength",
-   "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'"
+   "Raiders' Mark Davis unhappy with 'unfair' image of his father in 'Madden' movie",
+   "Fantasy football flex and superflex rankings for Week 11",
+   "Fantasy football rankings Week 11: PPR and superflex"
   ],
   "odds": {
    "mlAway": "-253",
    "mlAwayOpen": "-125",
    "mlHome": "+209",
    "mlHomeOpen": "+105",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "JAX -6",
    "spreadOpen": "JAX -1.5",
    "total": "46.5",
@@ -6267,11 +6268,11 @@
   "stars": 4,
   "start": "2026-11-22T21:25Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "MetLife Stadium, East Rutherford"
  },
  "nfl-401873070": {
-  "_lastPick": "BUF ML (-1640)",
+  "_lastPick": "BUF ML (-1520)",
   "away": {
    "abbr": "MIA",
    "form": "LLLWL",
@@ -6359,23 +6360,23 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873070",
   "market": "Moneyline",
   "news": [
-   "Fantasy football Week 11 inactives: Who's in and who's out?",
-   "Back at practice again, Bengals QB Burrow optimistic he'll be at full strength",
-   "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'"
+   "Raiders' Mark Davis unhappy with 'unfair' image of his father in 'Madden' movie",
+   "Fantasy football flex and superflex rankings for Week 11",
+   "Fantasy football rankings Week 11: PPR and superflex"
   ],
   "odds": {
-   "mlAway": "+920",
+   "mlAway": "+880",
    "mlAwayOpen": "+440",
-   "mlHome": "-1640",
+   "mlHome": "-1520",
    "mlHomeOpen": "-600",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "BUF -16.5",
    "spreadOpen": "BUF -11.5",
    "total": "44.5",
    "totalOpen": "47.5"
   },
-  "pick": "BUF ML (-1640)",
-  "reason": "BUF are about 91% no-vig at -1640; ESPN's model has 95%. For: line moved toward BUF (-600 → -1640); form WWWWW vs LLLWL.",
+  "pick": "BUF ML (-1520)",
+  "reason": "BUF are about 90% no-vig at -1520; ESPN's model has 95%. For: line moved toward BUF (-600 → -1520); form WWWWW vs LLLWL.",
   "risks": [],
   "side": "home",
   "slug": "nfl",
@@ -6383,7 +6384,7 @@
   "stars": 3,
   "start": "2026-11-22T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Highmark Stadium, Orchard Park"
  },
  "nfl-401873071": {
@@ -6491,23 +6492,23 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873071",
   "market": "Moneyline",
   "news": [
-   "Fantasy football Week 11 inactives: Who's in and who's out?",
-   "Back at practice again, Bengals QB Burrow optimistic he'll be at full strength",
-   "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'"
+   "Raiders' Mark Davis unhappy with 'unfair' image of his father in 'Madden' movie",
+   "Fantasy football flex and superflex rankings for Week 11",
+   "Fantasy football rankings Week 11: PPR and superflex"
   ],
   "odds": {
-   "mlAway": "+449",
+   "mlAway": "+448",
    "mlAwayOpen": "+225",
    "mlHome": "-610",
    "mlHomeOpen": "-278",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "CHI -11.5",
    "spreadOpen": "CHI -6.5",
    "total": "48.5",
    "totalOpen": "46.5"
   },
   "pick": "CHI ML (-610)",
-  "reason": "CHI are about 83% no-vig at -610; ESPN's model has 79%. For: line moved toward CHI (-278 → -610).",
+  "reason": "CHI are about 82% no-vig at -610; ESPN's model has 79%. For: line moved toward CHI (-278 → -610).",
   "risks": [],
   "side": "home",
   "slug": "nfl",
@@ -6515,11 +6516,11 @@
   "stars": 2,
   "start": "2026-11-22T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Soldier Field, Chicago"
  },
  "nfl-401873072": {
-  "_lastPick": "DET ML (-236)",
+  "_lastPick": "DET ML (-221)",
   "away": {
    "abbr": "TB",
    "form": "LWWLW",
@@ -6533,7 +6534,7 @@
    "short": "Buccaneers",
    "teamId": "27"
   },
-  "confidence": 62,
+  "confidence": 61,
   "espnId": "401873072",
   "espnLeague": "nfl",
   "espnSport": "football",
@@ -6599,25 +6600,25 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873072",
   "market": "Moneyline",
   "news": [
-   "Fantasy football Week 11 inactives: Who's in and who's out?",
-   "Back at practice again, Bengals QB Burrow optimistic he'll be at full strength",
-   "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'"
+   "Raiders' Mark Davis unhappy with 'unfair' image of his father in 'Madden' movie",
+   "Fantasy football flex and superflex rankings for Week 11",
+   "Fantasy football rankings Week 11: PPR and superflex"
   ],
   "odds": {
-   "mlAway": "+196",
+   "mlAway": "+184",
    "mlAwayOpen": "+190",
-   "mlHome": "-236",
+   "mlHome": "-221",
    "mlHomeOpen": "-230",
-   "provider": "Draft Kings",
-   "spread": "DET -5.5",
+   "provider": "DraftKings",
+   "spread": "DET -4.5",
    "spreadOpen": "DET -4.5",
-   "total": "45.5",
+   "total": "46.5",
    "totalOpen": "49.5"
   },
-  "pick": "DET ML (-236)",
-  "reason": "DET are about 68% no-vig at -236; ESPN's model has 61%.",
+  "pick": "DET ML (-221)",
+  "reason": "DET are about 66% no-vig at -221; ESPN's model has 61%.",
   "risks": [
-   "ESPN model only 61% vs market 68%"
+   "ESPN model only 61% vs market 66%"
   ],
   "side": "home",
   "slug": "nfl",
@@ -6625,11 +6626,11 @@
   "stars": 2,
   "start": "2026-11-22T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Ford Field, Detroit"
  },
  "nfl-401873073": {
-  "_lastPick": "DAL ML (-383)",
+  "_lastPick": "DAL ML (-378)",
   "away": {
    "abbr": "TEN",
    "form": "LLLWL",
@@ -6691,23 +6692,23 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873073",
   "market": "Moneyline",
   "news": [
-   "Fantasy football Week 11 inactives: Who's in and who's out?",
-   "Back at practice again, Bengals QB Burrow optimistic he'll be at full strength",
-   "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'"
+   "Raiders' Mark Davis unhappy with 'unfair' image of his father in 'Madden' movie",
+   "Fantasy football flex and superflex rankings for Week 11",
+   "Fantasy football rankings Week 11: PPR and superflex"
   ],
   "odds": {
-   "mlAway": "+304",
+   "mlAway": "+301",
    "mlAwayOpen": "+235",
-   "mlHome": "-383",
+   "mlHome": "-378",
    "mlHomeOpen": "-290",
-   "provider": "Draft Kings",
-   "spread": "DAL -8.5",
+   "provider": "DraftKings",
+   "spread": "DAL -7.5",
    "spreadOpen": "DAL -6.5",
    "total": "54.5",
    "totalOpen": "48.5"
   },
-  "pick": "DAL ML (-383)",
-  "reason": "DAL are about 76% no-vig at -383; ESPN's model has 80%. For: line moved toward DAL (-290 → -383).",
+  "pick": "DAL ML (-378)",
+  "reason": "DAL are about 76% no-vig at -378; ESPN's model has 80%. For: line moved toward DAL (-290 → -378).",
   "risks": [],
   "side": "home",
   "slug": "nfl",
@@ -6715,7 +6716,7 @@
   "stars": 3,
   "start": "2026-11-22T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "AT&T Stadium, Arlington"
  },
  "nfl-401873074": {
@@ -6799,19 +6800,19 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873074",
   "market": null,
   "news": [
-   "Fantasy football Week 11 inactives: Who's in and who's out?",
-   "Back at practice again, Bengals QB Burrow optimistic he'll be at full strength",
-   "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'"
+   "Raiders' Mark Davis unhappy with 'unfair' image of his father in 'Madden' movie",
+   "Fantasy football flex and superflex rankings for Week 11",
+   "Fantasy football rankings Week 11: PPR and superflex"
   ],
   "odds": {
    "mlAway": "+144",
    "mlAwayOpen": "+340",
    "mlHome": "-171",
    "mlHomeOpen": "-440",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "LAC -3",
    "spreadOpen": "LAC -9.5",
-   "total": "41.5",
+   "total": "42.5",
    "totalOpen": "41.5"
   },
   "pick": "Pass",
@@ -6825,11 +6826,11 @@
   "stars": 1,
   "start": "2026-11-22T21:05Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "SoFi Stadium, Inglewood"
  },
  "nfl-401873075": {
-  "_lastPick": "DEN ML (-581)",
+  "_lastPick": "DEN ML (-620)",
   "away": {
    "abbr": "LV",
    "form": "LLWLL",
@@ -6914,23 +6915,23 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873075",
   "market": "Moneyline",
   "news": [
-   "Fantasy football Week 11 inactives: Who's in and who's out?",
-   "Back at practice again, Bengals QB Burrow optimistic he'll be at full strength",
-   "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'"
+   "Raiders' Mark Davis unhappy with 'unfair' image of his father in 'Madden' movie",
+   "Fantasy football flex and superflex rankings for Week 11",
+   "Fantasy football rankings Week 11: PPR and superflex"
   ],
   "odds": {
-   "mlAway": "+435",
+   "mlAway": "+456",
    "mlAwayOpen": "+330",
-   "mlHome": "-581",
+   "mlHome": "-620",
    "mlHomeOpen": "-425",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "DEN -10.5",
    "spreadOpen": "DEN -8.5",
    "total": "40.5",
    "totalOpen": "41.5"
   },
-  "pick": "DEN ML (-581)",
-  "reason": "DEN are about 82% no-vig at -581; ESPN's model has 86%. For: line moved toward DEN (-425 → -581); form WWWWW vs LLWLL.",
+  "pick": "DEN ML (-620)",
+  "reason": "DEN are about 83% no-vig at -620; ESPN's model has 86%. For: line moved toward DEN (-425 → -620); form WWWWW vs LLWLL.",
   "risks": [],
   "side": "home",
   "slug": "nfl",
@@ -6938,11 +6939,11 @@
   "stars": 3,
   "start": "2026-11-22T21:25Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Empower Field at Mile High, Denver"
  },
  "nfl-401873076": {
-  "_lastPick": "PIT ML (-197)",
+  "_lastPick": "PIT ML (-196)",
   "away": {
    "abbr": "PIT",
    "form": "LWWWW",
@@ -7037,23 +7038,23 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873076",
   "market": "Moneyline",
   "news": [
-   "Fantasy football Week 11 inactives: Who's in and who's out?",
-   "Back at practice again, Bengals QB Burrow optimistic he'll be at full strength",
-   "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'"
+   "Raiders' Mark Davis unhappy with 'unfair' image of his father in 'Madden' movie",
+   "Fantasy football flex and superflex rankings for Week 11",
+   "Fantasy football rankings Week 11: PPR and superflex"
   ],
   "odds": {
-   "mlAway": "-197",
+   "mlAway": "-196",
    "mlAwayOpen": "+205",
-   "mlHome": "+165",
+   "mlHome": "+164",
    "mlHomeOpen": "-250",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "PIT -3.5",
    "spreadOpen": "PHI -5.5",
    "total": "37.5",
    "totalOpen": "42.5"
   },
-  "pick": "PIT ML (-197)",
-  "reason": "PIT are about 64% no-vig at -197; ESPN's model has 64%. For: line moved toward PIT (+205 → -197); form LWWWW vs LLLLL.",
+  "pick": "PIT ML (-196)",
+  "reason": "PIT are about 64% no-vig at -196; ESPN's model has 64%. For: line moved toward PIT (+205 → -196); form LWWWW vs LLLLL.",
   "risks": [],
   "side": "away",
   "slug": "nfl",
@@ -7061,7 +7062,7 @@
   "stars": 2,
   "start": "2026-11-22T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Lincoln Financial Field, Philadelphia"
  },
  "nfl-401873077": {
@@ -7145,17 +7146,17 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873077",
   "market": "Moneyline",
   "news": [
-   "Fantasy football Week 11 inactives: Who's in and who's out?",
-   "Back at practice again, Bengals QB Burrow optimistic he'll be at full strength",
-   "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'"
+   "Raiders' Mark Davis unhappy with 'unfair' image of his father in 'Madden' movie",
+   "Fantasy football flex and superflex rankings for Week 11",
+   "Fantasy football rankings Week 11: PPR and superflex"
   ],
   "odds": {
    "mlAway": "+145",
    "mlAwayOpen": "+170",
    "mlHome": "-172",
    "mlHomeOpen": "-205",
-   "provider": "Draft Kings",
-   "spread": "SF -3",
+   "provider": "DraftKings",
+   "spread": "SF -3.5",
    "spreadOpen": "SF -3.5",
    "total": "46.5",
    "totalOpen": "46.5"
@@ -7169,11 +7170,11 @@
   "stars": 2,
   "start": "2026-11-23T01:20Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Estadio Banorte, Mexico City"
  },
  "nfl-401873078": {
-  "_lastPick": "CIN ML (-300)",
+  "_lastPick": "CIN ML (-298)",
   "away": {
    "abbr": "CIN",
    "form": "WWWWW",
@@ -7245,23 +7246,23 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873078",
   "market": "Moneyline",
   "news": [
-   "Fantasy football Week 11 inactives: Who's in and who's out?",
-   "Back at practice again, Bengals QB Burrow optimistic he'll be at full strength",
-   "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'"
+   "Raiders' Mark Davis unhappy with 'unfair' image of his father in 'Madden' movie",
+   "Fantasy football flex and superflex rankings for Week 11",
+   "Fantasy football rankings Week 11: PPR and superflex"
   ],
   "odds": {
-   "mlAway": "-300",
+   "mlAway": "-298",
    "mlAwayOpen": "-125",
-   "mlHome": "+244",
+   "mlHome": "+243",
    "mlHomeOpen": "+105",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "CIN -6",
    "spreadOpen": "CIN -1.5",
    "total": "53.5",
    "totalOpen": "52.5"
   },
-  "pick": "CIN ML (-300)",
-  "reason": "CIN are about 72% no-vig at -300; ESPN's model has 76%. For: line moved toward CIN (-125 → -300); form WWWWW vs WLWLT.",
+  "pick": "CIN ML (-298)",
+  "reason": "CIN are about 72% no-vig at -298; ESPN's model has 76%. For: line moved toward CIN (-125 → -298); form WWWWW vs WLWLT.",
   "risks": [],
   "side": "away",
   "slug": "nfl",
@@ -7269,7 +7270,7 @@
   "stars": 3,
   "start": "2026-11-24T01:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Northwest Stadium, Landover"
  },
  "soccer-401874960": {
@@ -7281,7 +7282,7 @@
    "short": "Genoa",
    "teamId": "3263"
   },
-  "confidence": 35,
+  "confidence": 30,
   "espnId": "401874960",
   "espnLeague": "ita.1",
   "espnSport": "soccer",
@@ -7297,31 +7298,34 @@
   "league": "Serie A",
   "link": "https://www.espn.com/soccer/match/_/gameId/401874960",
   "news": [
+   "Transfer rumors, news: Could Scott McTominay return to Man United?",
    "Transfer rumors, news: Real Madrid expected to sign Como's Nico Paz next summer",
-   "Champions League upstarts Como suffer Moise Kean injury blow",
-   "How fallen giants and their fans bounce back from scandal, relegation"
+   "Champions League upstarts Como suffer Moise Kean injury blow"
   ],
   "odds": {
-   "mlAway": "+150",
+   "mlAway": "+160",
    "mlAwayOpen": "+180",
-   "mlDraw": "+225",
-   "mlHome": "+165",
+   "mlDraw": "+220",
+   "mlHome": "+160",
    "mlHomeOpen": "+130",
    "provider": "DraftKings",
-   "spread": "GEN +150",
+   "spread": "SAS +160",
    "spreadOpen": "SAS -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Genoa about 37% no-vig at +150; no edge worth a pick.",
-  "risks": [],
+  "reason": "Sassuolo about 36% no-vig at +160; no edge worth a pick.",
+  "risks": [
+   "line drifted away (+130 → +160)",
+   "opponent in better form (LWWWL)"
+  ],
   "slug": "ita.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-22T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Mapei Stadium, Reggio Emilia"
  },
  "soccer-401874967": {
@@ -7351,15 +7355,15 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401874967",
   "market": "Moneyline",
   "news": [
+   "Transfer rumors, news: Could Scott McTominay return to Man United?",
    "Transfer rumors, news: Real Madrid expected to sign Como's Nico Paz next summer",
-   "Champions League upstarts Como suffer Moise Kean injury blow",
-   "How fallen giants and their fans bounce back from scandal, relegation"
+   "Champions League upstarts Como suffer Moise Kean injury blow"
   ],
   "odds": {
    "mlAway": "-475",
    "mlAwayOpen": "-320",
    "mlDraw": "+500",
-   "mlHome": "+1000",
+   "mlHome": "+950",
    "mlHomeOpen": "+650",
    "provider": "DraftKings",
    "spread": "ROMA -475",
@@ -7376,7 +7380,7 @@
   "stars": 3,
   "start": "2026-11-21T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Ennio Tardini, Parma"
  },
  "soccer-401874981": {
@@ -7385,7 +7389,7 @@
    "abbr": "LEC",
    "form": "DLLLW",
    "name": "Lecce",
-   "record": "3-1-7",
+   "record": "3-1-8",
    "short": "Lecce",
    "teamId": "113"
   },
@@ -7397,7 +7401,7 @@
    "abbr": "LAZ",
    "form": "DWWWW",
    "name": "Lazio",
-   "record": "9-2-0",
+   "record": "10-2-0",
    "short": "Lazio",
    "teamId": "112"
   },
@@ -7432,12 +7436,12 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-21T14:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-21T08:52:21Z",
   "venue": "Olimpico, Roma"
  },
  "soccer-401874989": {
-  "_lastPick": "Milan ML (-195)",
+  "_lastPick": "Milan ML (-190)",
   "away": {
    "abbr": "FRO",
    "form": "LWWDW",
@@ -7463,24 +7467,24 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401874989",
   "market": "Moneyline",
   "news": [
+   "Transfer rumors, news: Could Scott McTominay return to Man United?",
    "Transfer rumors, news: Real Madrid expected to sign Como's Nico Paz next summer",
-   "Champions League upstarts Como suffer Moise Kean injury blow",
-   "How fallen giants and their fans bounce back from scandal, relegation"
+   "Champions League upstarts Como suffer Moise Kean injury blow"
   ],
   "odds": {
    "mlAway": "+400",
    "mlAwayOpen": "+390",
-   "mlDraw": "+350",
-   "mlHome": "-195",
+   "mlDraw": "+340",
+   "mlHome": "-190",
    "mlHomeOpen": "-200",
    "provider": "DraftKings",
-   "spread": "MIL -195",
+   "spread": "MIL -190",
    "spreadOpen": "MIL -1.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
-  "pick": "Milan ML (-195)",
-  "reason": "Milan are about 61% no-vig at -195.",
+  "pick": "Milan ML (-190)",
+  "reason": "Milan are about 61% no-vig at -190.",
   "risks": [],
   "side": "home",
   "slug": "ita.1",
@@ -7488,7 +7492,7 @@
   "stars": 2,
   "start": "2026-11-22T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "San Siro, Milano"
  },
  "soccer-401875001": {
@@ -7518,9 +7522,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401875001",
   "market": "Moneyline",
   "news": [
+   "Transfer rumors, news: Could Scott McTominay return to Man United?",
    "Transfer rumors, news: Real Madrid expected to sign Como's Nico Paz next summer",
-   "Champions League upstarts Como suffer Moise Kean injury blow",
-   "How fallen giants and their fans bounce back from scandal, relegation"
+   "Champions League upstarts Como suffer Moise Kean injury blow"
   ],
   "odds": {
    "mlAway": "-185",
@@ -7543,7 +7547,7 @@
   "stars": 2,
   "start": "2026-11-22T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "New Balance Arena, Bergamo"
  },
  "soccer-401875008": {
@@ -7573,9 +7577,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401875008",
   "market": "Moneyline",
   "news": [
+   "Transfer rumors, news: Could Scott McTominay return to Man United?",
    "Transfer rumors, news: Real Madrid expected to sign Como's Nico Paz next summer",
-   "Champions League upstarts Como suffer Moise Kean injury blow",
-   "How fallen giants and their fans bounce back from scandal, relegation"
+   "Champions League upstarts Como suffer Moise Kean injury blow"
   ],
   "odds": {
    "mlAway": "+650",
@@ -7598,7 +7602,7 @@
   "stars": 2,
   "start": "2026-11-22T11:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Allianz Stadium, Torino"
  },
  "soccer-401875009": {
@@ -7626,9 +7630,9 @@
   "league": "Serie A",
   "link": "https://www.espn.com/soccer/match/_/gameId/401875009",
   "news": [
+   "Transfer rumors, news: Could Scott McTominay return to Man United?",
    "Transfer rumors, news: Real Madrid expected to sign Como's Nico Paz next summer",
-   "Champions League upstarts Como suffer Moise Kean injury blow",
-   "How fallen giants and their fans bounce back from scandal, relegation"
+   "Champions League upstarts Como suffer Moise Kean injury blow"
   ],
   "odds": {
    "mlAway": "-110",
@@ -7650,7 +7654,7 @@
   "stars": 1,
   "start": "2026-11-23T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "U-Power Stadium, Monza"
  },
  "soccer-401875047": {
@@ -7678,9 +7682,9 @@
   "league": "Serie A",
   "link": "https://www.espn.com/soccer/match/_/gameId/401875047",
   "news": [
+   "Transfer rumors, news: Could Scott McTominay return to Man United?",
    "Transfer rumors, news: Real Madrid expected to sign Como's Nico Paz next summer",
-   "Champions League upstarts Como suffer Moise Kean injury blow",
-   "How fallen giants and their fans bounce back from scandal, relegation"
+   "Champions League upstarts Como suffer Moise Kean injury blow"
   ],
   "odds": {
    "mlAway": "+360",
@@ -7702,7 +7706,7 @@
   "stars": 1,
   "start": "2026-11-22T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Renato Dall'Ara, Bologna"
  },
  "soccer-401875056": {
@@ -7711,7 +7715,7 @@
    "abbr": "CAG",
    "form": "WLLLL",
    "name": "Cagliari",
-   "record": "5-1-5",
+   "record": "5-1-6",
    "short": "Cagliari",
    "teamId": "2925"
   },
@@ -7723,7 +7727,7 @@
    "abbr": "COMO",
    "form": "LWWWW",
    "name": "Como",
-   "record": "7-2-2",
+   "record": "8-2-2",
    "short": "Como",
    "teamId": "2572"
   },
@@ -7756,7 +7760,7 @@
   "sport": "soccer",
   "stars": 3,
   "start": "2026-11-21T14:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-21T08:52:21Z",
   "venue": "Giuseppe Sinigaglia, Como"
  },
@@ -7770,7 +7774,7 @@
    "short": "Torino",
    "teamId": "239"
   },
-  "confidence": 60,
+  "confidence": 56,
   "espnId": "401875067",
   "espnLeague": "ita.1",
   "espnSport": "soccer",
@@ -7785,34 +7789,36 @@
   "id": "soccer-401875067",
   "league": "Serie A",
   "link": "https://www.espn.com/soccer/match/_/gameId/401875067",
-  "market": "Moneyline",
+  "market": null,
   "news": [
+   "Transfer rumors, news: Could Scott McTominay return to Man United?",
    "Transfer rumors, news: Real Madrid expected to sign Como's Nico Paz next summer",
-   "Champions League upstarts Como suffer Moise Kean injury blow",
-   "How fallen giants and their fans bounce back from scandal, relegation"
+   "Champions League upstarts Como suffer Moise Kean injury blow"
   ],
   "odds": {
    "mlAway": "+475",
    "mlAwayOpen": "+500",
-   "mlDraw": "+340",
-   "mlHome": "-210",
+   "mlDraw": "+310",
+   "mlHome": "-200",
    "mlHomeOpen": "-245",
    "provider": "DraftKings",
-   "spread": "NAP -210",
+   "spread": "NAP -200",
    "spreadOpen": "NAP -1.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
-  "pick": "Napoli ML (-210)",
-  "reason": "Napoli are about 63% no-vig at -210.",
-  "risks": [],
-  "side": "home",
+  "pick": "Pass",
+  "reason": "Napoli about 61% no-vig at -200; no edge worth a pick.",
+  "risks": [
+   "line drifted away (-245 → -200)"
+  ],
+  "side": null,
   "slug": "ita.1",
   "sport": "soccer",
-  "stars": 2,
+  "stars": 1,
   "start": "2026-11-21T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Stadio Diego Armando Maradona, Napoli"
  },
  "soccer-401876395": {
@@ -7897,19 +7903,19 @@
    "10 Best: Ranking the world's top men's soccer players ... again!"
   ],
   "odds": {
-   "mlAway": "+210",
+   "mlAway": "+215",
    "mlAwayOpen": "+200",
-   "mlDraw": "+265",
-   "mlHome": "+120",
+   "mlDraw": "+255",
+   "mlHome": "+125",
    "mlHomeOpen": "+115",
    "provider": "DraftKings",
-   "spread": "STR +120",
+   "spread": "STR +125",
    "spreadOpen": "STR -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Strasbourg about 43% no-vig at +120; no edge worth a pick.",
+  "reason": "Strasbourg about 43% no-vig at +125; no edge worth a pick.",
   "risks": [
    "opponent in better form (WWLDW)"
   ],
@@ -7918,7 +7924,7 @@
   "stars": 1,
   "start": "2026-11-21T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Stade de la Meinau, Strasbourg"
  },
  "soccer-401876397": {
@@ -7973,7 +7979,7 @@
   "stars": 3,
   "start": "2026-11-22T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Stade Jean Bouin, Paris"
  },
  "soccer-401876398": {
@@ -8008,13 +8014,13 @@
    "10 Best: Ranking the world's top men's soccer players ... again!"
   ],
   "odds": {
-   "mlAway": "-210",
+   "mlAway": "-230",
    "mlAwayOpen": "-230",
-   "mlDraw": "+400",
-   "mlHome": "+475",
+   "mlDraw": "+425",
+   "mlHome": "+500",
    "mlHomeOpen": "+500",
    "provider": "DraftKings",
-   "spread": "PSG -210",
+   "spread": "PSG -230",
    "spreadOpen": "PSG -1.5",
    "total": "3.5",
    "totalOpen": "3.5"
@@ -8027,12 +8033,12 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-21T16:15Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-21T08:52:21Z",
   "venue": "Allianz Riviera, Nice"
  },
  "soccer-401876399": {
-  "_lastPick": "Monaco ML (-225)",
+  "_lastPick": "Monaco ML (-240)",
   "away": {
    "abbr": "AUX",
    "form": "LLDWL",
@@ -8041,7 +8047,7 @@
    "short": "Auxerre",
    "teamId": "172"
   },
-  "confidence": 63,
+  "confidence": 65,
   "espnId": "401876399",
   "espnLeague": "fra.1",
   "espnSport": "soccer",
@@ -8063,19 +8069,19 @@
    "10 Best: Ranking the world's top men's soccer players ... again!"
   ],
   "odds": {
-   "mlAway": "+600",
+   "mlAway": "+650",
    "mlAwayOpen": "+600",
-   "mlDraw": "+380",
-   "mlHome": "-225",
+   "mlDraw": "+390",
+   "mlHome": "-240",
    "mlHomeOpen": "-260",
    "provider": "DraftKings",
-   "spread": "MON -225",
+   "spread": "MON -240",
    "spreadOpen": "MON -1.5",
    "total": "2.5",
    "totalOpen": "3.5"
   },
-  "pick": "Monaco ML (-225)",
-  "reason": "Monaco are about 66% no-vig at -225.",
+  "pick": "Monaco ML (-240)",
+  "reason": "Monaco are about 68% no-vig at -240.",
   "risks": [],
   "side": "home",
   "slug": "fra.1",
@@ -8083,7 +8089,7 @@
   "stars": 2,
   "start": "2026-11-21T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Stade Louis II, Monaco"
  },
  "soccer-401876400": {
@@ -8138,7 +8144,7 @@
   "stars": 2,
   "start": "2026-11-22T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Stade Vélodrome, Marseille"
  },
  "soccer-401876401": {
@@ -8192,7 +8198,7 @@
   "stars": 1,
   "start": "2026-11-22T16:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Stade du Moustoir - Yves Allainmat, Lorient"
  },
  "soccer-401876402": {
@@ -8204,7 +8210,7 @@
    "short": "Lyon",
    "teamId": "167"
   },
-  "confidence": 39,
+  "confidence": 38,
   "espnId": "401876402",
   "espnLeague": "fra.1",
   "espnSport": "soccer",
@@ -8227,24 +8233,24 @@
   "odds": {
    "mlAway": "+225",
    "mlAwayOpen": "+200",
-   "mlDraw": "+230",
-   "mlHome": "+130",
+   "mlDraw": "+220",
+   "mlHome": "+135",
    "mlHomeOpen": "+135",
    "provider": "DraftKings",
-   "spread": "LILL +130",
+   "spread": "LILL +135",
    "spreadOpen": "LILL -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Lille about 42% no-vig at +130; no edge worth a pick.",
+  "reason": "Lille about 41% no-vig at +135; no edge worth a pick.",
   "risks": [],
   "slug": "fra.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-21T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille"
  },
  "soccer-401876403": {
@@ -8256,7 +8262,7 @@
    "short": "Toulouse",
    "teamId": "179"
   },
-  "confidence": 40,
+  "confidence": 39,
   "espnId": "401876403",
   "espnLeague": "fra.1",
   "espnSport": "soccer",
@@ -8277,9 +8283,9 @@
    "10 Best: Ranking the world's top men's soccer players ... again!"
   ],
   "odds": {
-   "mlAway": "+230",
+   "mlAway": "+225",
    "mlAwayOpen": "+300",
-   "mlDraw": "+265",
+   "mlDraw": "+260",
    "mlHome": "+115",
    "mlHomeOpen": "-125",
    "provider": "DraftKings",
@@ -8289,7 +8295,7 @@
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Lens about 45% no-vig at +115; no edge worth a pick.",
+  "reason": "Lens about 44% no-vig at +115; no edge worth a pick.",
   "risks": [
    "line drifted away (-125 → +115)"
   ],
@@ -8298,7 +8304,7 @@
   "stars": 1,
   "start": "2026-11-21T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Stade Bollaert-Delelis, Lens"
  },
  "soccer-401877046": {
@@ -8347,7 +8353,7 @@
   "stars": 1,
   "start": "2026-11-23T01:10Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Estadio Corregidora, Santiago de Querétaro"
  },
  "soccer-401877047": {
@@ -8396,7 +8402,7 @@
   "stars": 1,
   "start": "2026-11-22T23:07Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Estadio Akron, Guadalajara"
  },
  "soccer-401877048": {
@@ -8443,7 +8449,7 @@
   "stars": 1,
   "start": "2026-11-22T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Estadio Universitario, San Nicolás de los Garza"
  },
  "soccer-401877049": {
@@ -8490,7 +8496,7 @@
   "stars": 1,
   "start": "2026-11-22T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Estadio Olímpico Universitario, Mexico City"
  },
  "soccer-401877050": {
@@ -8540,7 +8546,7 @@
   "stars": 1,
   "start": "2026-11-21T22:50Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Estadio Hidalgo, Pachuca"
  },
  "soccer-401877051": {
@@ -8587,7 +8593,7 @@
   "stars": 1,
   "start": "2026-11-21T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Estadio Corona, Torreón"
  },
  "soccer-401877052": {
@@ -8765,13 +8771,13 @@
   "odds": {
    "mlAway": "+500",
    "mlAwayOpen": "+475",
-   "mlDraw": "+350",
-   "mlHome": "-190",
+   "mlDraw": "+370",
+   "mlHome": "-205",
    "mlHomeOpen": "-210",
    "provider": "DraftKings",
-   "spread": "TOT -190",
+   "spread": "TOT -205",
    "spreadOpen": "TOT -1.5",
-   "total": "2.5",
+   "total": "3.5",
    "totalOpen": "3.5"
   },
   "pick": "Spurs ML (-190)",
@@ -8782,7 +8788,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-21T15:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-21T08:52:21Z",
   "venue": "Tottenham Hotspur Stadium, London"
  },
@@ -8811,9 +8817,9 @@
   "league": "Premier League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401878755",
   "news": [
-   "Will Mauricio Pochettino start strongly at Man United? What his career stats say",
-   "Burley labels Pochettino has the biggest manager since Mourinho for Man United",
-   "Pochettino: 'Massive' pressure with USMNT makes me better coach for Man United"
+   "Dawson: Things don't get any easier for Man City after Fulham draw",
+   "Man City, Enzo Maresca at a crossroads after Premier League stumble",
+   "Maresca questions Haaland's disallowed goal: 'Not a foul'"
   ],
   "odds": {
    "mlAway": "+340",
@@ -8835,7 +8841,7 @@
   "stars": 1,
   "start": "2026-11-22T16:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Anfield, Liverpool"
  },
  "soccer-401878756": {
@@ -8868,13 +8874,13 @@
    "Pochettino: 'Massive' pressure with USMNT makes me better coach for Man United"
   ],
   "odds": {
-   "mlAway": "+350",
+   "mlAway": "+400",
    "mlAwayOpen": "+330",
-   "mlDraw": "+285",
-   "mlHome": "-130",
+   "mlDraw": "+295",
+   "mlHome": "-145",
    "mlHomeOpen": "-135",
    "provider": "DraftKings",
-   "spread": "AVL -130",
+   "spread": "AVL -145",
    "spreadOpen": "AVL -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
@@ -8886,12 +8892,12 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-21T15:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-21T08:52:21Z",
   "venue": "Villa Park, Birmingham"
  },
  "soccer-401879232": {
-  "_lastPick": "Arsenal ML (-175)",
+  "_lastPick": "Arsenal ML (-190)",
   "away": {
    "abbr": "ARS",
    "form": "WWWLW",
@@ -8900,7 +8906,7 @@
    "short": "Arsenal",
    "teamId": "359"
   },
-  "confidence": 59,
+  "confidence": 61,
   "espnId": "401879232",
   "espnLeague": "eng.1",
   "espnSport": "soccer",
@@ -8917,24 +8923,24 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401879232",
   "market": "Moneyline",
   "news": [
-   "Will Mauricio Pochettino start strongly at Man United? What his career stats say",
-   "Burley labels Pochettino has the biggest manager since Mourinho for Man United",
-   "Pochettino: 'Massive' pressure with USMNT makes me better coach for Man United"
+   "Dawson: Things don't get any easier for Man City after Fulham draw",
+   "Man City, Enzo Maresca at a crossroads after Premier League stumble",
+   "Maresca questions Haaland's disallowed goal: 'Not a foul'"
   ],
   "odds": {
-   "mlAway": "-175",
+   "mlAway": "-190",
    "mlAwayOpen": "-170",
-   "mlDraw": "+320",
-   "mlHome": "+475",
+   "mlDraw": "+330",
+   "mlHome": "+550",
    "mlHomeOpen": "+400",
    "provider": "DraftKings",
-   "spread": "ARS -175",
+   "spread": "ARS -190",
    "spreadOpen": "ARS -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
-  "pick": "Arsenal ML (-175)",
-  "reason": "Arsenal are about 61% no-vig at -175. For: form WWWLW vs DLLWL.",
+  "pick": "Arsenal ML (-190)",
+  "reason": "Arsenal are about 63% no-vig at -190. For: form WWWLW vs DLLWL.",
   "risks": [],
   "side": "away",
   "slug": "eng.1",
@@ -8942,7 +8948,7 @@
   "stars": 2,
   "start": "2026-11-21T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "St. James' Park, Newcastle-upon-Tyne"
  },
  "soccer-401879233": {
@@ -8951,7 +8957,7 @@
    "abbr": "FUL",
    "form": "DDLWW",
    "name": "Fulham",
-   "record": "2-4-4",
+   "record": "2-5-4",
    "short": "Fulham",
    "teamId": "370"
   },
@@ -8963,7 +8969,7 @@
    "abbr": "MNC",
    "form": "LWLWL",
    "name": "Manchester City",
-   "record": "7-0-3",
+   "record": "7-1-3",
    "short": "Man City",
    "teamId": "382"
   },
@@ -8996,7 +9002,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-21T12:30Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-21T08:52:21Z",
   "venue": "Etihad Stadium, Manchester"
  },
@@ -9010,7 +9016,7 @@
    "short": "Brighton",
    "teamId": "331"
   },
-  "confidence": 61,
+  "confidence": 62,
   "espnId": "401879234",
   "espnLeague": "eng.1",
   "espnSport": "soccer",
@@ -9027,15 +9033,15 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401879234",
   "market": "Moneyline",
   "news": [
-   "Will Mauricio Pochettino start strongly at Man United? What his career stats say",
-   "Burley labels Pochettino has the biggest manager since Mourinho for Man United",
-   "Pochettino: 'Massive' pressure with USMNT makes me better coach for Man United"
+   "Dawson: Things don't get any easier for Man City after Fulham draw",
+   "Man City, Enzo Maresca at a crossroads after Premier League stumble",
+   "Maresca questions Haaland's disallowed goal: 'Not a foul'"
   ],
   "odds": {
    "mlAway": "-200",
    "mlAwayOpen": "-190",
    "mlDraw": "+350",
-   "mlHome": "+500",
+   "mlHome": "+550",
    "mlHomeOpen": "+450",
    "provider": "DraftKings",
    "spread": "BHA -200",
@@ -9044,7 +9050,7 @@
    "totalOpen": "2.5"
   },
   "pick": "Brighton ML (-200)",
-  "reason": "Brighton are about 63% no-vig at -200. For: form WWWLL vs LDDLD.",
+  "reason": "Brighton are about 64% no-vig at -200. For: form WWWLL vs LDDLD.",
   "risks": [],
   "side": "away",
   "slug": "eng.1",
@@ -9052,7 +9058,7 @@
   "stars": 2,
   "start": "2026-11-22T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "The MKM Stadium, Hull"
  },
  "soccer-401879235": {
@@ -9085,13 +9091,13 @@
    "Pochettino: 'Massive' pressure with USMNT makes me better coach for Man United"
   ],
   "odds": {
-   "mlAway": "+180",
+   "mlAway": "+170",
    "mlAwayOpen": "+175",
-   "mlDraw": "+245",
-   "mlHome": "+150",
+   "mlDraw": "+250",
+   "mlHome": "+155",
    "mlHomeOpen": "+135",
    "provider": "DraftKings",
-   "spread": "COV +150",
+   "spread": "COV +155",
    "spreadOpen": "COV -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
@@ -9103,7 +9109,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-21T15:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-21T08:52:21Z",
   "venue": "Coventry Building Society Arena, Coventry"
  },
@@ -9137,13 +9143,13 @@
    "Pochettino: 'Massive' pressure with USMNT makes me better coach for Man United"
   ],
   "odds": {
-   "mlAway": "+270",
+   "mlAway": "+280",
    "mlAwayOpen": "+295",
-   "mlDraw": "+250",
-   "mlHome": "+105",
+   "mlDraw": "+260",
+   "mlHome": "-105",
    "mlHomeOpen": "-120",
    "provider": "DraftKings",
-   "spread": "CHE +105",
+   "spread": "CHE -105",
    "spreadOpen": "CHE -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
@@ -9157,7 +9163,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-21T15:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-21T08:52:21Z",
   "venue": "Stamford Bridge, London"
  },
@@ -9186,9 +9192,9 @@
   "league": "Premier League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401879237",
   "news": [
-   "Will Mauricio Pochettino start strongly at Man United? What his career stats say",
-   "Burley labels Pochettino has the biggest manager since Mourinho for Man United",
-   "Pochettino: 'Massive' pressure with USMNT makes me better coach for Man United"
+   "Dawson: Things don't get any easier for Man City after Fulham draw",
+   "Man City, Enzo Maresca at a crossroads after Premier League stumble",
+   "Maresca questions Haaland's disallowed goal: 'Not a foul'"
   ],
   "odds": {
    "mlAway": "+235",
@@ -9213,7 +9219,7 @@
   "stars": 1,
   "start": "2026-11-23T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Gtech Community Stadium, Brentford"
  },
  "soccer-401879238": {
@@ -9246,13 +9252,13 @@
    "Pochettino: 'Massive' pressure with USMNT makes me better coach for Man United"
   ],
   "odds": {
-   "mlAway": "+310",
+   "mlAway": "+260",
    "mlAwayOpen": "+260",
-   "mlDraw": "+250",
-   "mlHome": "-110",
+   "mlDraw": "+235",
+   "mlHome": "+115",
    "mlHomeOpen": "-105",
    "provider": "DraftKings",
-   "spread": "BOU -110",
+   "spread": "BOU +115",
    "spreadOpen": "BOU -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
@@ -9264,7 +9270,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-21T15:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-21T08:52:21Z",
   "venue": "Vitality Stadium, Bournemouth"
  },
@@ -9277,7 +9283,7 @@
    "short": "Betis",
    "teamId": "244"
   },
-  "confidence": 37,
+  "confidence": 32,
   "espnId": "401882797",
   "espnLeague": "esp.1",
   "espnSport": "soccer",
@@ -9293,31 +9299,33 @@
   "league": "LaLiga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401882797",
   "news": [
-   "Transfer rumors, news: Real Madrid expected to sign Como's Nico Paz next summer",
-   "Athletic Club vs. Espanyol - Game Highlights",
-   "Vinícius Júnior admits he was underprepared for the World Cup"
+   "Alavés vs. Deportivo La Coruña - Game Highlights",
+   "Andreas Christensen, Pau Cubarsí injuries leave Barcelona with defensive crisis",
+   "Florentino Pérez: \"outrageous\" that LaLiga president Javier Tebas hasn't resigned"
   ],
   "odds": {
-   "mlAway": "+140",
+   "mlAway": "+160",
    "mlAwayOpen": "+130",
-   "mlDraw": "+235",
-   "mlHome": "+205",
+   "mlDraw": "+225",
+   "mlHome": "+180",
    "mlHomeOpen": "+185",
    "provider": "DraftKings",
-   "spread": "BET +140",
+   "spread": "BET +160",
    "spreadOpen": "BET -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Betis about 40% no-vig at +140; no edge worth a pick.",
-  "risks": [],
+  "reason": "Betis about 37% no-vig at +160; no edge worth a pick.",
+  "risks": [
+   "line drifted away (+130 → +160)"
+  ],
   "slug": "esp.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-21T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Ramón Sánchez Pizjuán Stadium, Sevilla"
  },
  "soccer-401882798": {
@@ -9347,9 +9355,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401882798",
   "market": "Moneyline",
   "news": [
-   "Transfer rumors, news: Real Madrid expected to sign Como's Nico Paz next summer",
-   "Athletic Club vs. Espanyol - Game Highlights",
-   "Vinícius Júnior admits he was underprepared for the World Cup"
+   "Alavés vs. Deportivo La Coruña - Game Highlights",
+   "Andreas Christensen, Pau Cubarsí injuries leave Barcelona with defensive crisis",
+   "Florentino Pérez: \"outrageous\" that LaLiga president Javier Tebas hasn't resigned"
   ],
   "odds": {
    "mlAway": "+1500",
@@ -9372,7 +9380,7 @@
   "stars": 3,
   "start": "2026-11-21T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Santiago Bernabéu, Madrid"
  },
  "soccer-401882799": {
@@ -9405,13 +9413,13 @@
    "Vinícius Júnior admits he was underprepared for the World Cup"
   ],
   "odds": {
-   "mlAway": "+310",
+   "mlAway": "+295",
    "mlAwayOpen": "+275",
-   "mlDraw": "+245",
-   "mlHome": "-105",
+   "mlDraw": "+240",
+   "mlHome": "+100",
    "mlHomeOpen": "-105",
    "provider": "DraftKings",
-   "spread": "RAY -105",
+   "spread": "RAY +100",
    "spreadOpen": "RAY -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
@@ -9423,7 +9431,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-21T15:15Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-21T08:52:21Z",
   "venue": "Estadio de Vallecas, Madrid"
  },
@@ -9452,9 +9460,9 @@
   "league": "LaLiga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401882800",
   "news": [
-   "Transfer rumors, news: Real Madrid expected to sign Como's Nico Paz next summer",
-   "Athletic Club vs. Espanyol - Game Highlights",
-   "Vinícius Júnior admits he was underprepared for the World Cup"
+   "Alavés vs. Deportivo La Coruña - Game Highlights",
+   "Andreas Christensen, Pau Cubarsí injuries leave Barcelona with defensive crisis",
+   "Florentino Pérez: \"outrageous\" that LaLiga president Javier Tebas hasn't resigned"
   ],
   "odds": {
    "mlAway": "+100",
@@ -9476,7 +9484,7 @@
   "stars": 1,
   "start": "2026-11-22T15:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "El Sardineros, Santander"
  },
  "soccer-401882801": {
@@ -9504,9 +9512,9 @@
   "league": "LaLiga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401882801",
   "news": [
-   "Transfer rumors, news: Real Madrid expected to sign Como's Nico Paz next summer",
-   "Athletic Club vs. Espanyol - Game Highlights",
-   "Vinícius Júnior admits he was underprepared for the World Cup"
+   "Alavés vs. Deportivo La Coruña - Game Highlights",
+   "Andreas Christensen, Pau Cubarsí injuries leave Barcelona with defensive crisis",
+   "Florentino Pérez: \"outrageous\" that LaLiga president Javier Tebas hasn't resigned"
   ],
   "odds": {
    "mlAway": "+340",
@@ -9528,7 +9536,7 @@
   "stars": 1,
   "start": "2026-11-22T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "El Sadar, Pamplona"
  },
  "soccer-401882802": {
@@ -9556,9 +9564,9 @@
   "league": "LaLiga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401882802",
   "news": [
-   "Transfer rumors, news: Real Madrid expected to sign Como's Nico Paz next summer",
-   "Athletic Club vs. Espanyol - Game Highlights",
-   "Vinícius Júnior admits he was underprepared for the World Cup"
+   "Alavés vs. Deportivo La Coruña - Game Highlights",
+   "Andreas Christensen, Pau Cubarsí injuries leave Barcelona with defensive crisis",
+   "Florentino Pérez: \"outrageous\" that LaLiga president Javier Tebas hasn't resigned"
   ],
   "odds": {
    "mlAway": "+225",
@@ -9580,7 +9588,7 @@
   "stars": 1,
   "start": "2026-11-23T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Estadi Ciutat de València, Manises"
  },
  "soccer-401882803": {
@@ -9610,9 +9618,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401882803",
   "market": "Moneyline",
   "news": [
-   "Transfer rumors, news: Real Madrid expected to sign Como's Nico Paz next summer",
-   "Athletic Club vs. Espanyol - Game Highlights",
-   "Vinícius Júnior admits he was underprepared for the World Cup"
+   "Alavés vs. Deportivo La Coruña - Game Highlights",
+   "Andreas Christensen, Pau Cubarsí injuries leave Barcelona with defensive crisis",
+   "Florentino Pérez: \"outrageous\" that LaLiga president Javier Tebas hasn't resigned"
   ],
   "odds": {
    "mlAway": "-180",
@@ -9635,11 +9643,11 @@
   "stars": 2,
   "start": "2026-11-22T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Estadio Coliseum, Getafe"
  },
  "soccer-401882804": {
-  "_lastPick": "Barcelona ML (-475)",
+  "_lastPick": "Barcelona ML (-500)",
   "away": {
    "abbr": "VIL",
    "form": "WLLWW",
@@ -9665,24 +9673,24 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401882804",
   "market": "Moneyline",
   "news": [
-   "Transfer rumors, news: Real Madrid expected to sign Como's Nico Paz next summer",
-   "Athletic Club vs. Espanyol - Game Highlights",
-   "Vinícius Júnior admits he was underprepared for the World Cup"
+   "Alavés vs. Deportivo La Coruña - Game Highlights",
+   "Andreas Christensen, Pau Cubarsí injuries leave Barcelona with defensive crisis",
+   "Florentino Pérez: \"outrageous\" that LaLiga president Javier Tebas hasn't resigned"
   ],
   "odds": {
    "mlAway": "+1100",
    "mlAwayOpen": "+850",
    "mlDraw": "+650",
-   "mlHome": "-475",
+   "mlHome": "-500",
    "mlHomeOpen": "-500",
    "provider": "DraftKings",
-   "spread": "BAR -475",
+   "spread": "BAR -500",
    "spreadOpen": "BAR -2.5",
    "total": "4.5",
    "totalOpen": "4.5"
   },
-  "pick": "Barcelona ML (-475)",
-  "reason": "Barcelona are about 79% no-vig at -475.",
+  "pick": "Barcelona ML (-500)",
+  "reason": "Barcelona are about 79% no-vig at -500.",
   "risks": [],
   "side": "home",
   "slug": "esp.1",
@@ -9690,7 +9698,7 @@
   "stars": 2,
   "start": "2026-11-22T13:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Spotify Camp Nou, Barcelona"
  },
  "soccer-401882805": {
@@ -9753,7 +9761,7 @@
    "abbr": "DEP",
    "form": "DWWLD",
    "name": "Deportivo",
-   "record": "3-6-3",
+   "record": "3-6-4",
    "short": "Deportivo",
    "teamId": "90"
   },
@@ -9765,7 +9773,7 @@
    "abbr": "ALA",
    "form": "WDLDL",
    "name": "Alavés",
-   "record": "3-4-5",
+   "record": "4-4-5",
    "short": "Alavés",
    "teamId": "96"
   },
@@ -9798,7 +9806,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-21T13:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-21T08:52:21Z",
   "venue": "Mendizorrotza, Vitoria-Gasteiz"
  },
@@ -9807,7 +9815,7 @@
    "abbr": "SCF",
    "form": "WWWWL",
    "name": "SC Freiburg",
-   "record": "6-1-2",
+   "record": "7-1-2",
    "short": "Freiburg",
    "teamId": "126"
   },
@@ -9819,7 +9827,7 @@
    "abbr": "ELV",
    "form": "LWLLW",
    "name": "SV Elversberg",
-   "record": "4-1-4",
+   "record": "4-1-5",
    "short": "Elversberg",
    "teamId": "10388"
   },
@@ -9850,7 +9858,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-21T14:30Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-21T08:52:21Z",
   "venue": "URSAPHARM-Arena an der Kaiserlinde, Spiesen-Elversberg"
  },
@@ -9863,7 +9871,7 @@
    "short": "Stuttgart",
    "teamId": "134"
   },
-  "confidence": 49,
+  "confidence": 46,
   "espnId": "401884729",
   "espnLeague": "ger.1",
   "espnSport": "soccer",
@@ -9879,31 +9887,33 @@
   "league": "Bundesliga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401884729",
   "news": [
+   "Harry Kane vows to be back for 'business end of the season' after ankle surgery",
    "Ballon d'Or winner Harry Kane out a 'few months' after ankle injury",
-   "Transfer rumors, news: Real Madrid tracking Bayern Munich star Michael Olise",
-   "Borussia Dortmund to end controversial sponsorship with arms manufacturer"
+   "Transfer rumors, news: Real Madrid tracking Bayern Munich star Michael Olise"
   ],
   "odds": {
-   "mlAway": "-125",
+   "mlAway": "-115",
    "mlAwayOpen": "-140",
-   "mlDraw": "+285",
-   "mlHome": "+270",
+   "mlDraw": "+280",
+   "mlHome": "+255",
    "mlHomeOpen": "+275",
    "provider": "DraftKings",
-   "spread": "VFB -125",
+   "spread": "VFB -115",
    "spreadOpen": "VFB -0.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
   "pick": "Pass",
-  "reason": "Stuttgart about 51% no-vig at -125; no edge worth a pick.",
-  "risks": [],
+  "reason": "Stuttgart about 50% no-vig at -115; no edge worth a pick.",
+  "risks": [
+   "line drifted away (-140 → -115)"
+  ],
   "slug": "ger.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-21T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Veltins Arena, Gelsenkirchen"
  },
  "soccer-401884730": {
@@ -9938,7 +9948,7 @@
   "stars": 1,
   "start": "2026-11-22T16:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Weserstadion, Bremen"
  },
  "soccer-401884731": {
@@ -9946,7 +9956,7 @@
    "abbr": "DOR",
    "form": "WWDWW",
    "name": "Borussia Dortmund",
-   "record": "6-3-0",
+   "record": "7-3-0",
    "short": "Dortmund",
    "teamId": "124"
   },
@@ -9958,7 +9968,7 @@
    "abbr": "BMG",
    "form": "WLDWW",
    "name": "Borussia Mönchengladbach",
-   "record": "1-1-7",
+   "record": "1-1-8",
    "short": "Gladbach",
    "teamId": "268"
   },
@@ -9989,7 +9999,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-21T14:30Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-21T08:52:21Z",
   "venue": "BORUSSIA-PARK, Mönchengladbach"
  },
@@ -9999,7 +10009,7 @@
    "abbr": "RBL",
    "form": "LWLWW",
    "name": "RB Leipzig",
-   "record": "6-0-3",
+   "record": "7-0-3",
    "short": "RB Leipzig",
    "teamId": "11420"
   },
@@ -10011,7 +10021,7 @@
    "abbr": "FCU",
    "form": "LLDLD",
    "name": "1. FC Union Berlin",
-   "record": "1-4-4",
+   "record": "1-4-5",
    "short": "Union Berlin",
    "teamId": "598"
   },
@@ -10044,7 +10054,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-21T14:30Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-21T08:52:21Z",
   "venue": "Stadion An der Alten Försterei, Berlin"
  },
@@ -10073,9 +10083,9 @@
   "league": "Bundesliga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401884733",
   "news": [
+   "Harry Kane vows to be back for 'business end of the season' after ankle surgery",
    "Ballon d'Or winner Harry Kane out a 'few months' after ankle injury",
-   "Transfer rumors, news: Real Madrid tracking Bayern Munich star Michael Olise",
-   "Borussia Dortmund to end controversial sponsorship with arms manufacturer"
+   "Transfer rumors, news: Real Madrid tracking Bayern Munich star Michael Olise"
   ],
   "odds": {
    "mlAway": "+135",
@@ -10097,7 +10107,7 @@
   "stars": 1,
   "start": "2026-11-22T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "WWK Arena, Augsburg"
  },
  "soccer-401884734": {
@@ -10105,7 +10115,7 @@
    "abbr": "TSG",
    "form": "WDLLW",
    "name": "TSG Hoffenheim",
-   "record": "4-0-5",
+   "record": "4-0-6",
    "short": "Hoffenheim",
    "teamId": "7911"
   },
@@ -10117,7 +10127,7 @@
    "abbr": "SGE",
    "form": "DWWLW",
    "name": "Eintracht Frankfurt",
-   "record": "3-3-3",
+   "record": "4-3-3",
    "short": "Frankfurt",
    "teamId": "125"
   },
@@ -10148,7 +10158,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-21T14:30Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-21T08:52:21Z",
   "venue": "Deutsche Bank Park, Frankfurt"
  },
@@ -10158,7 +10168,7 @@
    "abbr": "SCP",
    "form": "WDDLW",
    "name": "SC Paderborn 07",
-   "record": "2-4-3",
+   "record": "2-4-4",
    "short": "Paderborn",
    "teamId": "3307"
   },
@@ -10170,7 +10180,7 @@
    "abbr": "B04",
    "form": "WLLWL",
    "name": "Bayer Leverkusen",
-   "record": "5-1-3",
+   "record": "6-1-3",
    "short": "Leverkusen",
    "teamId": "131"
   },
@@ -10203,7 +10213,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-21T14:30Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-21T08:52:21Z",
   "venue": "BayArena, Leverkusen"
  },
@@ -10309,7 +10319,7 @@
   "stars": 1,
   "start": "2026-11-24T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Energizer Park, St. Louis, Missouri"
  },
  "soccer-401933729": {
@@ -10362,7 +10372,7 @@
   "stars": 2,
   "start": "2026-11-23T01:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "BC Place, Vancouver"
  },
  "soccer-401933730": {
@@ -10412,7 +10422,7 @@
   "stars": 1,
   "start": "2026-11-22T23:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "SeatGeek Stadium, Bridgeview, Illinois"
  },
  "soccer-401933731": {
@@ -10465,7 +10475,7 @@
   "stars": 2,
   "start": "2026-11-22T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "GEODIS Park, Nashville, Tennessee"
  },
  "soccer-401933732": {
@@ -10517,7 +10527,7 @@
   "stars": 1,
   "start": "2026-11-21T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Toyota Stadium, Toyota Stadium"
  },
  "soccer-401933733": {
@@ -10550,8 +10560,8 @@
   "odds": {
    "mlAway": "+120",
    "mlAwayOpen": "+105",
-   "mlDraw": "+255",
-   "mlHome": "+190",
+   "mlDraw": "+240",
+   "mlHome": "+200",
    "mlHomeOpen": "+200",
    "provider": "DraftKings",
    "spread": "PHI +120",
@@ -10569,7 +10579,7 @@
   "stars": 1,
   "start": "2026-11-21T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Gillette Stadium, Foxborough, Massachusetts"
  },
  "soccer-401933739": {
@@ -10621,7 +10631,7 @@
   "stars": 1,
   "start": "2026-11-21T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-21T08:52:21Z",
+  "updatedAt": "2026-11-21T16:34:50Z",
   "venue": "Nu Stadium, Miami, Florida"
  }
 }

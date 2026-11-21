@@ -1,0 +1,288 @@
+{
+ "id": "soccer-401882806",
+ "sport": "soccer",
+ "league": "LaLiga",
+ "start": "2026-11-21T13:00Z",
+ "home": {
+  "name": "Alavés",
+  "abbr": "ALA",
+  "teamId": "96",
+  "score": 3.0
+ },
+ "away": {
+  "name": "Deportivo",
+  "abbr": "DEP",
+  "teamId": "90",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+215",
+  "mlAwayOpen": "+260",
+  "mlDraw": "+225",
+  "mlHome": "+140",
+  "mlHomeOpen": "+100",
+  "provider": "DraftKings",
+  "spread": "ALA +140",
+  "spreadOpen": "ALA -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "ALA",
+   "stats": {
+    "foulsCommitted": "20",
+    "yellowCards": "4",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "8",
+    "saves": "2",
+    "possessionPct": "48.4",
+    "totalShots": "21",
+    "shotsOnTarget": "8",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "292",
+    "totalPasses": "358",
+    "passPct": "0.8",
+    "accurateCrosses": "5",
+    "totalCrosses": "21",
+    "crossPct": "0.2",
+    "totalLongBalls": "67",
+    "accurateLongBalls": "39",
+    "longballPct": "0.6",
+    "blockedShots": "5",
+    "effectiveTackles": "10",
+    "totalTackles": "17",
+    "tacklePct": "0.6",
+    "interceptions": "12",
+    "effectiveClearance": "19",
+    "totalClearance": "19"
+   }
+  },
+  "away": {
+   "abbr": "DEP",
+   "stats": {
+    "foulsCommitted": "15",
+    "yellowCards": "4",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "2",
+    "saves": "5",
+    "possessionPct": "51.6",
+    "totalShots": "7",
+    "shotsOnTarget": "2",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "306",
+    "totalPasses": "391",
+    "passPct": "0.8",
+    "accurateCrosses": "4",
+    "totalCrosses": "14",
+    "crossPct": "0.3",
+    "totalLongBalls": "58",
+    "accurateLongBalls": "24",
+    "longballPct": "0.4",
+    "blockedShots": "4",
+    "effectiveTackles": "12",
+    "totalTackles": "21",
+    "tacklePct": "0.6",
+    "interceptions": "6",
+    "effectiveClearance": "32",
+    "totalClearance": "32"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal",
+   "clock": "2'",
+   "team": null,
+   "text": "Goal! Alaves 1, Deportivo de A Coruña 0. Ángel Pérez (Alaves) right footed shot from the right side of the six yard box to the top right corner. Assisted by Antonio Blanco with a through ball."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "5'",
+   "team": null,
+   "text": "Ximo Navarro (Deportivo de A Coruña) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "19'",
+   "team": null,
+   "text": "Giacomo Quagliata (Deportivo de A Coruña) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "32'",
+   "team": null,
+   "text": "Ángel Pérez (Alaves) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Own Goal",
+   "clock": "41'",
+   "team": null,
+   "text": "Own Goal by Nahuel Tenaglia, Alaves. Alaves 1, Deportivo de A Coruña 1."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": "First Half ends, Alaves 1, Deportivo de A Coruña 1."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Deportivo de A Coruña. Adama Traoré replaces Ximo Navarro."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Deportivo de A Coruña. José María Giménez replaces Riki Rodríguez."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Alaves 1, Deportivo de A Coruña 1."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "48'",
+   "team": null,
+   "text": "Miguel Loureiro (Deportivo de A Coruña) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Penalty - Saved",
+   "clock": "55'",
+   "team": null,
+   "text": "Penalty saved. Lucas Boyé (Alaves) right footed shot saved in the bottom right corner by Leo Román (Deportivo de A Coruña)."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "56'",
+   "team": null,
+   "text": "Adama Traoré (Deportivo de A Coruña) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "56'",
+   "team": null,
+   "text": "Abde Rebbach (Alaves) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "60'",
+   "team": null,
+   "text": "Substitution, Deportivo de A Coruña. Lorenzo Amatucci replaces Mario Soriano."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "62'",
+   "team": null,
+   "text": "Goal! Alaves 2, Deportivo de A Coruña 1. Lucas Boyé (Alaves) header from very close range to the centre of the goal. Assisted by Ángel Pérez with a cross."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "65'",
+   "team": null,
+   "text": "Lucas Boyé (Alaves) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Deportivo de A Coruña. Jonathan Asp Jensen replaces Luismi Cruz."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Deportivo de A Coruña. Bil Nsongo replaces Yeremay Hernández."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Alaves. Youssef Enriquez replaces Abde Rebbach."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Alaves. Hugo Novoa replaces Ángel Pérez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Alaves. Mariano Díaz replaces Toni Martínez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Alaves. Ander Guevara replaces Pablo Ibáñez."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "78'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "78'",
+   "team": null,
+   "text": "Delay in match because of an injury Hugo Novoa (Alaves)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "79'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "79'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Alaves. Xanet Oláiz replaces Hugo Novoa because of an injury."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "89'",
+   "team": null,
+   "text": "Ander Guevara (Alaves) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'",
+   "team": null,
+   "text": "Goal! Alaves 3, Deportivo de A Coruña 1. Denis Suárez (Alaves) right footed shot from the centre of the box to the bottom right corner. Assisted by Lucas Boyé."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+6'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}
