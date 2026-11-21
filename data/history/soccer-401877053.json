@@ -1,0 +1,318 @@
+{
+ "id": "soccer-401877053",
+ "sport": "soccer",
+ "league": "Liga MX",
+ "start": "2026-11-21T03:00Z",
+ "home": {
+  "name": "FC Juárez",
+  "abbr": "JUA",
+  "teamId": "17851",
+  "score": 3.0
+ },
+ "away": {
+  "name": "Atlas",
+  "abbr": "ATS",
+  "teamId": "216",
+  "score": 3.0
+ },
+ "odds": {
+  "mlAway": "-110",
+  "mlAwayOpen": "+105",
+  "mlDraw": "+270",
+  "mlHome": "+275",
+  "mlHomeOpen": "+235",
+  "provider": "DraftKings",
+  "spread": "ATS -110",
+  "spreadOpen": "ATS -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "JUA",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "9",
+    "saves": "7",
+    "possessionPct": "40.8",
+    "totalShots": "16",
+    "shotsOnTarget": "7",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "217",
+    "totalPasses": "283",
+    "passPct": "0.8",
+    "accurateCrosses": "8",
+    "totalCrosses": "26",
+    "crossPct": "0.3",
+    "totalLongBalls": "36",
+    "accurateLongBalls": "19",
+    "longballPct": "0.5",
+    "blockedShots": "4",
+    "effectiveTackles": "10",
+    "totalTackles": "15",
+    "tacklePct": "0.7",
+    "interceptions": "9",
+    "effectiveClearance": "18",
+    "totalClearance": "18"
+   }
+  },
+  "away": {
+   "abbr": "ATS",
+   "stats": {
+    "foulsCommitted": "13",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "9",
+    "saves": "4",
+    "possessionPct": "59.2",
+    "totalShots": "18",
+    "shotsOnTarget": "10",
+    "shotPct": "0.6",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "358",
+    "totalPasses": "429",
+    "passPct": "0.8",
+    "accurateCrosses": "8",
+    "totalCrosses": "21",
+    "crossPct": "0.4",
+    "totalLongBalls": "58",
+    "accurateLongBalls": "33",
+    "longballPct": "0.6",
+    "blockedShots": "5",
+    "effectiveTackles": "13",
+    "totalTackles": "16",
+    "tacklePct": "0.8",
+    "interceptions": "12",
+    "effectiveClearance": "24",
+    "totalClearance": "24"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "6'",
+   "team": null,
+   "text": "Delay in match because of an injury Juan Purata (Atlas)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "6'",
+   "team": null,
+   "text": "Delay in match because of an injury Óscar Estupiñán (Juárez)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "7'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "7'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "19'",
+   "team": null,
+   "text": "Goal! Juárez 0, Atlas 1. Víctor Ríos (Atlas) header from the right side of the six yard box to the bottom right corner. Assisted by Kevin Zenón with a cross following a corner."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "23'",
+   "team": null,
+   "text": "Goal! Juárez 1, Atlas 1. Óscar Estupiñán (Juárez) header from very close range to the high centre of the goal. Assisted by Guilherme Castilho with a cross following a corner."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "30'",
+   "team": null,
+   "text": "Delay in match because of an injury Camilo Vargas (Atlas)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "30'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "31'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "31'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+7'",
+   "team": null,
+   "text": "First Half ends, Juárez 1, Atlas 1."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Juárez 1, Atlas 1."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "53'",
+   "team": null,
+   "text": "Madson (Juárez) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, Atlas. Elías Montiel replaces Víctor Ríos."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "59'",
+   "team": null,
+   "text": "Delay in match because of an injury Ryan Mmaee (Atlas)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "59'",
+   "team": null,
+   "text": "Delay in match because of an injury Daniel Piña (Juárez)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "62'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "62'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "63'",
+   "team": null,
+   "text": "Delay in match because of an injury Florián Monzón (Atlas)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "63'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "64'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "64'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Juárez. Luca Martínez Dupuy replaces Óscar Estupiñán."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Atlas. Jorge Sánchez replaces Aldo Rocha."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Atlas. José Martín replaces Ryan Mmaee."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "74'",
+   "team": null,
+   "text": "Jorge Sánchez (Atlas) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "76'",
+   "team": null,
+   "text": "Goal! Juárez 2, Atlas 1. Luca Martínez Dupuy (Juárez) header from very close range to the bottom left corner. Assisted by Guilherme Castilho with a cross following a set piece situation."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Juárez. Ricardinho replaces Guilherme Castilho."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Juárez. José Luis Rodríguez replaces Jairo Torres."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Atlas. Sergio Hernández replaces Édgar Zaldívar."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "83'",
+   "team": null,
+   "text": "Goal! Juárez 2, Atlas 2. Juan Purata (Atlas) header from the right side of the six yard box to the bottom right corner. Assisted by Luís Esteves with a cross following a corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "87'",
+   "team": null,
+   "text": "Gilberto Sepúlveda (Juárez) is shown the yellow card."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Goal! Juárez 2, Atlas 3. Elías Montiel (Atlas) right footed shot from outside the box to the bottom right corner. Assisted by Kevin Zenón."
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "90'+8'",
+   "team": null,
+   "text": "Goal! Juárez 3, Atlas 3. José Luis Rodríguez (Juárez) converts the penalty with a left footed shot to the high centre of the goal."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+9'",
+   "team": null,
+   "text": "Second Half ends, Juárez 3, Atlas 3."
+  }
+ ],
+ "scoringPlays": []
+}

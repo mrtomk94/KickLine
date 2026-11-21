@@ -1,0 +1,114 @@
+{
+ "id": "ncaaf-401858303",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T00:30Z",
+ "home": {
+  "name": "Duke Blue Devils",
+  "abbr": "DUKE",
+  "teamId": "150",
+  "score": 10.0
+ },
+ "away": {
+  "name": "Clemson Tigers",
+  "abbr": "CLEM",
+  "teamId": "228",
+  "score": 20.0
+ },
+ "odds": {
+  "mlAway": "+380",
+  "mlAwayOpen": "+260",
+  "mlHome": "-500",
+  "mlHomeOpen": "-325",
+  "provider": "DraftKings",
+  "spread": "DUKE -11.5",
+  "spreadOpen": "DUKE -8.5",
+  "total": "41.5",
+  "totalOpen": "44.5"
+ },
+ "espnWinProb": {
+  "away": 20.9,
+  "home": 79.0
+ },
+ "teams": {
+  "away": {
+   "abbr": "CLEM",
+   "stats": {
+    "firstDowns": "21",
+    "thirdDownEff": "8-18",
+    "fourthDownEff": "2-2",
+    "totalYards": "384",
+    "netPassingYards": "164",
+    "completionAttempts": "17/30",
+    "yardsPerPass": "5.5",
+    "rushingYards": "220",
+    "rushingAttempts": "51",
+    "yardsPerRushAttempt": "4.3",
+    "totalPenaltiesYards": "7-60",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "interceptions": "1",
+    "possessionTime": "37:15"
+   }
+  },
+  "home": {
+   "abbr": "DUKE",
+   "stats": {
+    "firstDowns": "11",
+    "thirdDownEff": "6-16",
+    "fourthDownEff": "0-1",
+    "totalYards": "247",
+    "netPassingYards": "149",
+    "completionAttempts": "16/38",
+    "yardsPerPass": "3.9",
+    "rushingYards": "98",
+    "rushingAttempts": "22",
+    "yardsPerRushAttempt": "4.5",
+    "totalPenaltiesYards": "5-33",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "22:45"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 2,
+   "clock": "0:17",
+   "team": "CLEM",
+   "text": "Nolan Hauser 36 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "6:04",
+   "team": "CLEM",
+   "text": "Trent Pearman 9 Yd Run (Nolan Hauser Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "5:15",
+   "team": "DUKE",
+   "text": "Nate Sheppard 55 Yd Run (Gavin Strange Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "8:52",
+   "team": "CLEM",
+   "text": "Chris Denson 7 Yd Run (Nolan Hauser Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "6:54",
+   "team": "DUKE",
+   "text": "Gavin Strange 46 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "1:01",
+   "team": "CLEM",
+   "text": "Nolan Hauser 39 Yd Field Goal  "
+  }
+ ]
+}

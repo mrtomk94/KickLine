@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401858529",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T01:00Z",
+ "home": {
+  "name": "Michigan State Spartans",
+  "abbr": "MSU",
+  "teamId": "127",
+  "score": 7.0
+ },
+ "away": {
+  "name": "#13 Oregon",
+  "abbr": "ORE",
+  "teamId": "2483",
+  "score": 45.0
+ },
+ "odds": {
+  "mlAway": "-950",
+  "mlAwayOpen": "-455",
+  "mlHome": "+625",
+  "mlHomeOpen": "+350",
+  "provider": "DraftKings",
+  "spread": "ORE -17.5",
+  "spreadOpen": "ORE -12.5",
+  "total": "43.5",
+  "totalOpen": "45.5"
+ },
+ "espnWinProb": {
+  "away": 86.3,
+  "home": 13.7
+ },
+ "teams": {
+  "away": {
+   "abbr": "ORE",
+   "stats": {
+    "firstDowns": "24",
+    "thirdDownEff": "10-15",
+    "fourthDownEff": "0-0",
+    "totalYards": "422",
+    "netPassingYards": "234",
+    "completionAttempts": "21/34",
+    "yardsPerPass": "6.9",
+    "rushingYards": "188",
+    "rushingAttempts": "38",
+    "yardsPerRushAttempt": "4.9",
+    "totalPenaltiesYards": "9-75",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "28:09"
+   }
+  },
+  "home": {
+   "abbr": "MSU",
+   "stats": {
+    "firstDowns": "13",
+    "thirdDownEff": "6-15",
+    "fourthDownEff": "0-2",
+    "totalYards": "200",
+    "netPassingYards": "120",
+    "completionAttempts": "12/23",
+    "yardsPerPass": "5.2",
+    "rushingYards": "80",
+    "rushingAttempts": "37",
+    "yardsPerRushAttempt": "2.2",
+    "totalPenaltiesYards": "6-55",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "interceptions": "1",
+    "possessionTime": "31:51"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "5:14",
+   "team": "ORE",
+   "text": "Brandon Smith 5 Yd Run (Gage Hurych Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "2:53",
+   "team": "ORE",
+   "text": "Gage Hurych 40 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "0:02",
+   "team": "ORE",
+   "text": "Gage Hurych 15 Yd Run (Gage Hurych Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "9:58",
+   "team": "ORE",
+   "text": "S. Price run for 1 yd, for a TD (G. Hurych KICK) (L. Boyd KICK)"
+  },
+  {
+   "period": 3,
+   "clock": "2:50",
+   "team": "MSU",
+   "text": "Jaziun Patterson 1 Yd Run (Liam Boyd Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "0:01",
+   "team": "ORE",
+   "text": "Brandon Smith 1 Yd Run (Gage Hurych Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "13:41",
+   "team": "ORE",
+   "text": "Dakorien Moore 31 Yd pass from Dylan Raiola (Gage Hurych Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "3:56",
+   "team": "ORE",
+   "text": "Simeon Price 1 Yd Run (Gage Hurych Kick)"
+  }
+ ]
+}

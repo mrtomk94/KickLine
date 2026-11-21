@@ -1,0 +1,120 @@
+{
+ "id": "ncaaf-401864542",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T02:00Z",
+ "home": {
+  "name": "Wyoming Cowboys",
+  "abbr": "WYO",
+  "teamId": "2751",
+  "score": 17.0
+ },
+ "away": {
+  "name": "New Mexico Lobos",
+  "abbr": "UNM",
+  "teamId": "167",
+  "score": 24.0
+ },
+ "odds": {
+  "mlAway": "-395",
+  "mlAwayOpen": "-440",
+  "mlHome": "+310",
+  "mlHomeOpen": "+340",
+  "provider": "DraftKings",
+  "spread": "UNM -10.5",
+  "spreadOpen": "UNM -10.5",
+  "total": "37.5",
+  "totalOpen": "38.5"
+ },
+ "espnWinProb": {
+  "away": 86.7,
+  "home": 13.3
+ },
+ "teams": {
+  "away": {
+   "abbr": "UNM",
+   "stats": {
+    "firstDowns": "26",
+    "thirdDownEff": "7-16",
+    "fourthDownEff": "3-4",
+    "totalYards": "433",
+    "netPassingYards": "234",
+    "completionAttempts": "22/40",
+    "yardsPerPass": "5.9",
+    "rushingYards": "199",
+    "rushingAttempts": "40",
+    "yardsPerRushAttempt": "5.0",
+    "totalPenaltiesYards": "5-50",
+    "turnovers": "2",
+    "fumblesLost": "2",
+    "interceptions": "0",
+    "possessionTime": "38:01"
+   }
+  },
+  "home": {
+   "abbr": "WYO",
+   "stats": {
+    "firstDowns": "10",
+    "thirdDownEff": "3-12",
+    "fourthDownEff": "0-0",
+    "totalYards": "188",
+    "netPassingYards": "142",
+    "completionAttempts": "13/23",
+    "yardsPerPass": "6.2",
+    "rushingYards": "46",
+    "rushingAttempts": "25",
+    "yardsPerRushAttempt": "1.8",
+    "totalPenaltiesYards": "9-50",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "21:59"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "6:48",
+   "team": "UNM",
+   "text": "Cade Keith 5 Yd pass from Luke Moga (Nick Romero Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "0:59",
+   "team": "UNM",
+   "text": "Grant Glasgow 48 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "6:09",
+   "team": "UNM",
+   "text": "Luke Moga 1 Yd Run (Nick Romero Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:53",
+   "team": "WYO",
+   "text": "Landon Sims 2 Yd Run (Erik Sandvik Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "3:23",
+   "team": "UNM",
+   "text": "Kiefer Sibley 1 Yd Run (Nick Romero Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "8:12",
+   "team": "WYO",
+   "text": "Erik Sandvik 29 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "2:57",
+   "team": "WYO",
+   "text": "Kyle Frendt 34 Yd pass from Landon Sims (Erik Sandvik Kick)"
+  }
+ ]
+}

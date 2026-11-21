@@ -1,0 +1,144 @@
+{
+ "id": "ncaaf-401856869",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-20T23:00Z",
+ "home": {
+  "name": "UCF Knights",
+  "abbr": "UCF",
+  "teamId": "2116",
+  "score": 48.0
+ },
+ "away": {
+  "name": "Iowa State Cyclones",
+  "abbr": "ISU",
+  "teamId": "66",
+  "score": 17.0
+ },
+ "odds": {
+  "mlAway": "-115",
+  "mlAwayOpen": "-108",
+  "mlHome": "-105",
+  "mlHomeOpen": "-112",
+  "provider": "DraftKings",
+  "spread": "ISU -1.5",
+  "spreadOpen": "UCF -1.5",
+  "total": "49.5",
+  "totalOpen": "54.5"
+ },
+ "espnWinProb": {
+  "away": 48.4,
+  "home": 51.6
+ },
+ "teams": {
+  "away": {
+   "abbr": "ISU",
+   "stats": {
+    "firstDowns": "15",
+    "thirdDownEff": "1-10",
+    "fourthDownEff": "2-4",
+    "totalYards": "298",
+    "netPassingYards": "109",
+    "completionAttempts": "14/23",
+    "yardsPerPass": "4.7",
+    "rushingYards": "189",
+    "rushingAttempts": "34",
+    "yardsPerRushAttempt": "5.6",
+    "totalPenaltiesYards": "6-40",
+    "turnovers": "4",
+    "fumblesLost": "3",
+    "interceptions": "1",
+    "possessionTime": "27:15"
+   }
+  },
+  "home": {
+   "abbr": "UCF",
+   "stats": {
+    "firstDowns": "23",
+    "thirdDownEff": "7-12",
+    "fourthDownEff": "0-0",
+    "totalYards": "460",
+    "netPassingYards": "255",
+    "completionAttempts": "17/27",
+    "yardsPerPass": "9.4",
+    "rushingYards": "205",
+    "rushingAttempts": "42",
+    "yardsPerRushAttempt": "4.9",
+    "totalPenaltiesYards": "8-75",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "32:45"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "8:31",
+   "team": "ISU",
+   "text": "Kyle Konrardy 27 Yd Field Goal  "
+  },
+  {
+   "period": 1,
+   "clock": "3:28",
+   "team": "UCF",
+   "text": "Will Stone 24 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "13:09",
+   "team": "UCF",
+   "text": "Josh Derry 21 Yd pass from Alonza Barnett III (Will Stone Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "8:49",
+   "team": "UCF",
+   "text": "Josh Derry 65 Yd pass from Alonza Barnett III (Will Stone Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "8:33",
+   "team": "UCF",
+   "text": "Alonza Barnett III 15 Yd Run (Will Stone Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "6:31",
+   "team": "ISU",
+   "text": "Aiden Flora 17 Yd Run (Kyle Konrardy Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "11:11",
+   "team": "UCF",
+   "text": "Josh Derry 24 Yd pass from Alonza Barnett III (Will Stone Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "9:55",
+   "team": "ISU",
+   "text": "Aiden Flora 62 Yd Run (Kyle Konrardy Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "14:25",
+   "team": "UCF",
+   "text": "Duane Thomas Jr. 2 Yd Run (Will Stone Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "9:27",
+   "team": "UCF",
+   "text": "Will Stone 38 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "6:35",
+   "team": "UCF",
+   "text": "Jacob Maiava 5 Yd pass from Alonza Barnett III (Will Stone Kick)"
+  }
+ ]
+}

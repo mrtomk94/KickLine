@@ -1,0 +1,132 @@
+{
+ "id": "ncaaf-401864545",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T01:00Z",
+ "home": {
+  "name": "Air Force Falcons",
+  "abbr": "AFA",
+  "teamId": "2005",
+  "score": 52.0
+ },
+ "away": {
+  "name": "UTEP Miners",
+  "abbr": "UTEP",
+  "teamId": "2638",
+  "score": 3.0
+ },
+ "odds": {
+  "mlAway": "+1100",
+  "mlAwayOpen": "+1300",
+  "mlHome": "-2100",
+  "mlHomeOpen": "-2800",
+  "provider": "DraftKings",
+  "spread": "AF -21.5",
+  "spreadOpen": "AFA -21.5",
+  "total": "48.5",
+  "totalOpen": "46.5"
+ },
+ "espnWinProb": {
+  "away": 4.4,
+  "home": 95.6
+ },
+ "teams": {
+  "away": {
+   "abbr": "UTEP",
+   "stats": {
+    "firstDowns": "6",
+    "thirdDownEff": "3-11",
+    "fourthDownEff": "0-1",
+    "totalYards": "116",
+    "netPassingYards": "92",
+    "completionAttempts": "14/20",
+    "yardsPerPass": "4.6",
+    "rushingYards": "24",
+    "rushingAttempts": "23",
+    "yardsPerRushAttempt": "1.0",
+    "totalPenaltiesYards": "2-20",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "interceptions": "1",
+    "possessionTime": "20:14"
+   }
+  },
+  "home": {
+   "abbr": "AFA",
+   "stats": {
+    "firstDowns": "27",
+    "thirdDownEff": "9-13",
+    "fourthDownEff": "1-2",
+    "totalYards": "586",
+    "netPassingYards": "157",
+    "completionAttempts": "4/6",
+    "yardsPerPass": "26.2",
+    "rushingYards": "429",
+    "rushingAttempts": "64",
+    "yardsPerRushAttempt": "6.7",
+    "totalPenaltiesYards": "3-15",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "39:46"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "5:57",
+   "team": "AFA",
+   "text": "Gage LaDue 3 Yd Run (Carter Cremascoli Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "4:35",
+   "team": "AFA",
+   "text": "Adam Hrynciw 31 Yd pass from Evan Medders (Carter Cremascoli Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "13:46",
+   "team": "UTEP",
+   "text": "Carlos Arreola 42 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "9:31",
+   "team": "AFA",
+   "text": "Owen Allen 1 Yd Run (Carter Cremascoli Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:19",
+   "team": "AFA",
+   "text": "Matt Long 13 Yd Run (Carter Cremascoli Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "14:27",
+   "team": "AFA",
+   "text": "Jonah Dawson 77 Yd pass from Evan Medders (Carter Cremascoli Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "8:42",
+   "team": "AFA",
+   "text": "Carter Cremascoli 19 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "1:02",
+   "team": "AFA",
+   "text": "Oswaldo Morales 29 Yd Run (Jacob Medina Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "7:42",
+   "team": "AFA",
+   "text": "Major Quin 35 Yd pass from Maguire Martin (Jacob Medina Kick)"
+  }
+ ]
+}

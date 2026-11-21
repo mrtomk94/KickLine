@@ -1,0 +1,108 @@
+{
+ "id": "ncaaf-401866468",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T00:30Z",
+ "home": {
+  "name": "Toledo Rockets",
+  "abbr": "TOL",
+  "teamId": "2649",
+  "score": 19.0
+ },
+ "away": {
+  "name": "Bowling Green Falcons",
+  "abbr": "BGSU",
+  "teamId": "189",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+525",
+  "mlAwayOpen": "+500",
+  "mlHome": "-750",
+  "mlHomeOpen": "-700",
+  "provider": "DraftKings",
+  "spread": "TOL -16.5",
+  "spreadOpen": "TOL -15.5",
+  "total": "46.5",
+  "totalOpen": "47.5"
+ },
+ "espnWinProb": {
+  "away": 12.2,
+  "home": 87.8
+ },
+ "teams": {
+  "away": {
+   "abbr": "BGSU",
+   "stats": {
+    "firstDowns": "9",
+    "thirdDownEff": "1-12",
+    "fourthDownEff": "0-2",
+    "totalYards": "188",
+    "netPassingYards": "144",
+    "completionAttempts": "12/22",
+    "yardsPerPass": "6.5",
+    "rushingYards": "44",
+    "rushingAttempts": "29",
+    "yardsPerRushAttempt": "1.5",
+    "totalPenaltiesYards": "5-40",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "25:44"
+   }
+  },
+  "home": {
+   "abbr": "TOL",
+   "stats": {
+    "firstDowns": "14",
+    "thirdDownEff": "5-16",
+    "fourthDownEff": "0-0",
+    "totalYards": "290",
+    "netPassingYards": "191",
+    "completionAttempts": "14/24",
+    "yardsPerPass": "8.0",
+    "rushingYards": "99",
+    "rushingAttempts": "41",
+    "yardsPerRushAttempt": "2.4",
+    "totalPenaltiesYards": "7-55",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "34:16"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "12:50",
+   "team": "TOL",
+   "text": "Reice Griffith 46 Yd Field Goal  "
+  },
+  {
+   "period": 1,
+   "clock": "2:29",
+   "team": "TOL",
+   "text": "Reice Griffith 29 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "9:21",
+   "team": "TOL",
+   "text": "Reice Griffith 39 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "0:46",
+   "team": "TOL",
+   "text": "Adjatay Dabbs 35 Yd pass from John Alan Richter (Reice Griffith Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "3:54",
+   "team": "TOL",
+   "text": "Reice Griffith 42 Yd Field Goal  "
+  }
+ ]
+}

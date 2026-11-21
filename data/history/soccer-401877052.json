@@ -1,0 +1,312 @@
+{
+ "id": "soccer-401877052",
+ "sport": "soccer",
+ "league": "Liga MX",
+ "start": "2026-11-21T03:10Z",
+ "home": {
+  "name": "Tijuana",
+  "abbr": "TIJ",
+  "teamId": "10125",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Atlante",
+  "abbr": "ATL",
+  "teamId": "226",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+450",
+  "mlAwayOpen": "+360",
+  "mlDraw": "+320",
+  "mlHome": "-180",
+  "mlHomeOpen": "-160",
+  "provider": "DraftKings",
+  "spread": "TIJ -180",
+  "spreadOpen": "TIJ -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "TIJ",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "4",
+    "wonCorners": "5",
+    "saves": "3",
+    "possessionPct": "41.9",
+    "totalShots": "16",
+    "shotsOnTarget": "7",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "260",
+    "totalPasses": "339",
+    "passPct": "0.8",
+    "accurateCrosses": "7",
+    "totalCrosses": "18",
+    "crossPct": "0.4",
+    "totalLongBalls": "62",
+    "accurateLongBalls": "31",
+    "longballPct": "0.5",
+    "blockedShots": "3",
+    "effectiveTackles": "25",
+    "totalTackles": "33",
+    "tacklePct": "0.8",
+    "interceptions": "5",
+    "effectiveClearance": "25",
+    "totalClearance": "25"
+   }
+  },
+  "away": {
+   "abbr": "ATL",
+   "stats": {
+    "foulsCommitted": "18",
+    "yellowCards": "4",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "9",
+    "saves": "5",
+    "possessionPct": "58.1",
+    "totalShots": "10",
+    "shotsOnTarget": "3",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "397",
+    "totalPasses": "479",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "13",
+    "crossPct": "0.2",
+    "totalLongBalls": "46",
+    "accurateLongBalls": "18",
+    "longballPct": "0.4",
+    "blockedShots": "1",
+    "effectiveTackles": "9",
+    "totalTackles": "12",
+    "tacklePct": "0.8",
+    "interceptions": "2",
+    "effectiveClearance": "29",
+    "totalClearance": "29"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "14'",
+   "team": null,
+   "text": "Delay in match because of an injury Alan Vega (Club Tijuana)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "14'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "15'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "15'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "18'",
+   "team": null,
+   "text": "Substitution, Club Tijuana. Unai Bilbao replaces Alan Vega because of an injury."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "22'",
+   "team": null,
+   "text": "Alejandro Gómez (Club Tijuana) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "23'",
+   "team": null,
+   "text": "Delay in match because of an injury Martín Sarrafiore (Atlante)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "23'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "24'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "24'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "40'",
+   "team": null,
+   "text": "Unai Bilbao (Club Tijuana) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "45'",
+   "team": null,
+   "text": "Iván Tona (Club Tijuana) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "Gilberto Adame (Atlante) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+4'",
+   "team": null,
+   "text": "First Half ends, Club Tijuana 0, Atlante 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Atlante. Daniel González replaces Gilberto Adame."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Atlante. Cristóbal Alfaro replaces Diogo Bagüí."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Club Tijuana. Elias Manoel replaces Mourad El Ghezouani."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Club Tijuana 0, Atlante 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "57'",
+   "team": null,
+   "text": "Substitution, Atlante. Joaquín Moxica replaces Luis Puente."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "57'",
+   "team": null,
+   "text": "Daniel González (Atlante) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "58'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "58'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "69'",
+   "team": null,
+   "text": "Substitution, Atlante. Octavio Vázquez replaces Luis Calzadilla."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "75'",
+   "team": null,
+   "text": "Gustavo Sánchez (Atlante) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "77'",
+   "team": null,
+   "text": "Goal! Club Tijuana 1, Atlante 0. Gilberto Mora (Club Tijuana) converts the penalty with a right footed shot to the top right corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "79'",
+   "team": null,
+   "text": "Martín Sarrafiore (Atlante) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "80'",
+   "team": null,
+   "text": "Delay in match because of an injury Ignacio Rivero (Club Tijuana)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "80'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Club Tijuana. Pablo Ortíz replaces Gilberto Mora."
+  },
+  {
+   "type": "End Delay",
+   "clock": "81'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "81'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Atlante. Jairón Charcopa replaces Jhojan Julio."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Club Tijuana. Ramiro Árciga replaces Francisco González."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+6'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

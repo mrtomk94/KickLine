@@ -1,0 +1,276 @@
+{
+ "id": "soccer-401877054",
+ "sport": "soccer",
+ "league": "Liga MX",
+ "start": "2026-11-21T01:00Z",
+ "home": {
+  "name": "Puebla",
+  "abbr": "PUE",
+  "teamId": "231",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Atlético de San Luis",
+  "abbr": "ASL",
+  "teamId": "15720",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+140",
+  "mlAwayOpen": "+140",
+  "mlDraw": "+270",
+  "mlHome": "+170",
+  "mlHomeOpen": "+170",
+  "provider": "DraftKings",
+  "spread": "ASL +140",
+  "spreadOpen": "ASL -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "PUE",
+   "stats": {
+    "foulsCommitted": "19",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "2",
+    "saves": "7",
+    "possessionPct": "35.5",
+    "totalShots": "10",
+    "shotsOnTarget": "2",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "271",
+    "totalPasses": "336",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "8",
+    "crossPct": "0.4",
+    "totalLongBalls": "53",
+    "accurateLongBalls": "22",
+    "longballPct": "0.4",
+    "blockedShots": "2",
+    "effectiveTackles": "11",
+    "totalTackles": "19",
+    "tacklePct": "0.6",
+    "interceptions": "4",
+    "effectiveClearance": "21",
+    "totalClearance": "21"
+   }
+  },
+  "away": {
+   "abbr": "ASL",
+   "stats": {
+    "foulsCommitted": "4",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "6",
+    "wonCorners": "7",
+    "saves": "1",
+    "possessionPct": "64.5",
+    "totalShots": "19",
+    "shotsOnTarget": "8",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "516",
+    "totalPasses": "605",
+    "passPct": "0.9",
+    "accurateCrosses": "5",
+    "totalCrosses": "17",
+    "crossPct": "0.3",
+    "totalLongBalls": "56",
+    "accurateLongBalls": "23",
+    "longballPct": "0.4",
+    "blockedShots": "6",
+    "effectiveTackles": "7",
+    "totalTackles": "13",
+    "tacklePct": "0.5",
+    "interceptions": "6",
+    "effectiveClearance": "7",
+    "totalClearance": "7"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "4'",
+   "team": null,
+   "text": "Goal! Puebla 1, Atlético San Luis 0. Mathías Tomás (Puebla) left footed shot from the centre of the box to the bottom left corner. Assisted by Kevin Velasco following a fast break."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "23'",
+   "team": null,
+   "text": "Delay in match because of an injury José Pachuca (Puebla)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "23'",
+   "team": null,
+   "text": "Delay in match (Atlético San Luis)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "24'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "24'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Substitution",
+   "clock": "26'",
+   "team": null,
+   "text": "Substitution, Puebla. Fernando Monárrez replaces José Pachuca because of an injury."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "37'",
+   "team": null,
+   "text": "Kevin Velasco (Puebla) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "40'",
+   "team": null,
+   "text": "Eduardo Águila (Atlético San Luis) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+5'",
+   "team": null,
+   "text": "First Half ends, Puebla 1, Atlético San Luis 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Puebla 1, Atlético San Luis 0."
+  },
+  {
+   "type": "Goal",
+   "clock": "48'",
+   "team": null,
+   "text": "Goal! Puebla 1, Atlético San Luis 1. Felipe Mora (Atlético San Luis) right footed shot from the centre of the box to the centre of the goal. Assisted by Anderson Duarte with a cross."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Atlético San Luis. Santiago Muñóz replaces Felipe Mora."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Puebla. Eduardo Mustre replaces Mathías Tomás."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "71'",
+   "team": null,
+   "text": "Delay in match because of an injury Ricardo Gutiérrez (Puebla)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "71'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "72'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "72'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Puebla. Carlos Baltazar replaces Omar Moreno."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Puebla. Ángel Leyva replaces Juan Vargas."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Puebla. Sergio Sanabria replaces Alejandro Organista."
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Atlético San Luis. Sebastián Pérez Bouquet replaces David Rodríguez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'",
+   "team": null,
+   "text": "Substitution, Atlético San Luis. Leonardo Flores replaces Anderson Duarte."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'",
+   "team": null,
+   "text": "Substitution, Atlético San Luis. Román Torres replaces Benjamín Galdames."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "90'+6'",
+   "team": null,
+   "text": "Delay in match because of an injury Ricardo Gutiérrez (Puebla)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "90'+6'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'+7'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'+7'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+8'",
+   "team": null,
+   "text": "Second Half ends, Puebla 1, Atlético San Luis 1."
+  }
+ ],
+ "scoringPlays": []
+}
