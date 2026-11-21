@@ -1,0 +1,288 @@
+{
+ "id": "soccer-401884736",
+ "sport": "soccer",
+ "league": "Bundesliga",
+ "start": "2026-11-20T19:30Z",
+ "home": {
+  "name": "Bayern Munich",
+  "abbr": "MUN",
+  "teamId": "132",
+  "score": 1.0
+ },
+ "away": {
+  "name": "FC Cologne",
+  "abbr": "KOE",
+  "teamId": "122",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+2000",
+  "mlAwayOpen": "+1500",
+  "mlDraw": "+950",
+  "mlHome": "-1600",
+  "mlHomeOpen": "-1400",
+  "provider": "DraftKings",
+  "spread": "MUN -1600",
+  "spreadOpen": "MUN -2.5",
+  "total": "4.5",
+  "totalOpen": "4.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "MUN",
+   "stats": {
+    "foulsCommitted": "6",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "5",
+    "wonCorners": "5",
+    "saves": "3",
+    "possessionPct": "71.5",
+    "totalShots": "17",
+    "shotsOnTarget": "1",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "749",
+    "totalPasses": "816",
+    "passPct": "0.9",
+    "accurateCrosses": "2",
+    "totalCrosses": "14",
+    "crossPct": "0.1",
+    "totalLongBalls": "31",
+    "accurateLongBalls": "24",
+    "longballPct": "0.8",
+    "blockedShots": "5",
+    "effectiveTackles": "5",
+    "totalTackles": "14",
+    "tacklePct": "0.4",
+    "interceptions": "5",
+    "effectiveClearance": "6",
+    "totalClearance": "6"
+   }
+  },
+  "away": {
+   "abbr": "KOE",
+   "stats": {
+    "foulsCommitted": "3",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "0",
+    "saves": "0",
+    "possessionPct": "28.5",
+    "totalShots": "7",
+    "shotsOnTarget": "4",
+    "shotPct": "0.6",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "262",
+    "totalPasses": "329",
+    "passPct": "0.8",
+    "accurateCrosses": "0",
+    "totalCrosses": "1",
+    "crossPct": "0.0",
+    "totalLongBalls": "50",
+    "accurateLongBalls": "14",
+    "longballPct": "0.3",
+    "blockedShots": "1",
+    "effectiveTackles": "21",
+    "totalTackles": "32",
+    "tacklePct": "0.7",
+    "interceptions": "16",
+    "effectiveClearance": "28",
+    "totalClearance": "28"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal",
+   "clock": "12'",
+   "team": null,
+   "text": "Goal! Bayern Munich 0, FC Cologne 1. Mikey Moore (FC Cologne) right footed shot from the left side of the six yard box to the bottom left corner. Assisted by Saïd El Mala following a fast break."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "19'",
+   "team": null,
+   "text": "Delay in match because of an injury Harry Kane (Bayern Munich)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "19'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "20'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "20'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "20'",
+   "team": null,
+   "text": "Substitution, Bayern Munich. Tom Bischof replaces Harry Kane because of an injury."
+  },
+  {
+   "type": "Goal",
+   "clock": "37'",
+   "team": null,
+   "text": "Goal! Bayern Munich 1, FC Cologne 1. Nathaniel Brown (Bayern Munich) left footed shot from outside the box to the bottom right corner. Assisted by Tom Bischof."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "42'",
+   "team": null,
+   "text": "Delay in match because of an injury Michael Olise (Bayern Munich)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "42'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "43'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "43'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "45'+4'",
+   "team": null,
+   "text": "Delay in match because of an injury Luka Lochoshvili (FC Cologne)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "45'+4'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "45'+4'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "45'+4'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+5'",
+   "team": null,
+   "text": "First Half ends, Bayern Munich 1, FC Cologne 1."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Bayern Munich. Tim Binder replaces Michael Olise because of an injury."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "56'",
+   "team": null,
+   "text": "Paul Okon-Engstler (FC Cologne) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "62'",
+   "team": null,
+   "text": "Dayot Upamecano (Bayern Munich) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "66'",
+   "team": null,
+   "text": "Saïd El Mala (FC Cologne) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Bayern Munich. Jamal Musiala replaces Konrad Laimer."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Bayern Munich. Kim Min-Jae replaces Dayot Upamecano."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, FC Cologne. Jan Thielmann replaces Linton Maina."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, FC Cologne. Ísak Jóhannesson replaces Paul Okon-Engstler."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, FC Cologne. Reigan Heskey replaces Saïd El Mala."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, FC Cologne. Alessio Castro-Montes replaces Sebastian Sebulonsen."
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, Bayern Munich. Noah Codjo-Evora replaces Aleksandar Pavlovic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Substitution, FC Cologne. Marius Bülter replaces Mikey Moore."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Second Half ends, Bayern Munich 1, FC Cologne 1."
+  }
+ ],
+ "scoringPlays": []
+}

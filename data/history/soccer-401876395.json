@@ -1,0 +1,342 @@
+{
+ "id": "soccer-401876395",
+ "sport": "soccer",
+ "league": "Ligue 1",
+ "start": "2026-11-20T19:45Z",
+ "home": {
+  "name": "Troyes",
+  "abbr": "TRY",
+  "teamId": "170",
+  "score": 3.0
+ },
+ "away": {
+  "name": "Le Havre AC",
+  "abbr": "HAC",
+  "teamId": "3236",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+230",
+  "mlAwayOpen": "+235",
+  "mlDraw": "+245",
+  "mlHome": "+120",
+  "mlHomeOpen": "+105",
+  "provider": "DraftKings",
+  "spread": "TRY +120",
+  "spreadOpen": "TRY -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "TRY",
+   "stats": {
+    "foulsCommitted": "19",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "7",
+    "saves": "1",
+    "possessionPct": "46.5",
+    "totalShots": "19",
+    "shotsOnTarget": "7",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "319",
+    "totalPasses": "402",
+    "passPct": "0.8",
+    "accurateCrosses": "5",
+    "totalCrosses": "24",
+    "crossPct": "0.2",
+    "totalLongBalls": "61",
+    "accurateLongBalls": "29",
+    "longballPct": "0.5",
+    "blockedShots": "4",
+    "effectiveTackles": "11",
+    "totalTackles": "16",
+    "tacklePct": "0.7",
+    "interceptions": "7",
+    "effectiveClearance": "18",
+    "totalClearance": "18"
+   }
+  },
+  "away": {
+   "abbr": "HAC",
+   "stats": {
+    "foulsCommitted": "22",
+    "yellowCards": "3",
+    "redCards": "1",
+    "offsides": "1",
+    "wonCorners": "0",
+    "saves": "5",
+    "possessionPct": "53.5",
+    "totalShots": "7",
+    "shotsOnTarget": "3",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "400",
+    "totalPasses": "478",
+    "passPct": "0.8",
+    "accurateCrosses": "1",
+    "totalCrosses": "13",
+    "crossPct": "0.1",
+    "totalLongBalls": "68",
+    "accurateLongBalls": "24",
+    "longballPct": "0.4",
+    "blockedShots": "2",
+    "effectiveTackles": "14",
+    "totalTackles": "17",
+    "tacklePct": "0.8",
+    "interceptions": "16",
+    "effectiveClearance": "33",
+    "totalClearance": "33"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "3'",
+   "team": null,
+   "text": "Goal! Troyes 0, Le Havre 1. Josh Maja (Le Havre) right footed shot from outside the box to the centre of the goal."
+  },
+  {
+   "type": "Goal",
+   "clock": "19'",
+   "team": null,
+   "text": "Goal! Troyes 1, Le Havre 1. Antoine Mille (Troyes) left footed shot from the centre of the box to the bottom left corner. Assisted by Kandet Diawara."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "34'",
+   "team": null,
+   "text": "Josh Maja (Le Havre) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "40'",
+   "team": null,
+   "text": "Junior Mwanga (Le Havre) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "40'",
+   "team": null,
+   "text": "Dermane Karim (Troyes) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": "First Half ends, Troyes 1, Le Havre 1."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Troyes. Lucas Maronnier replaces Yvann Titi."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Troyes 1, Le Havre 1."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "64'",
+   "team": null,
+   "text": "Ismaël Boura (Troyes) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "65'",
+   "team": null,
+   "text": "Delay in match because of an injury Ayumu Seko (Le Havre)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "65'",
+   "team": null,
+   "text": "Delay in match because of an injury Hillel Konaté (Troyes)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "65'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "65'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Le Havre. Hakim Dongopandji replaces Rayan Fofana."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Le Havre. Djibril Ouziad replaces Kaito Mizuta."
+  },
+  {
+   "type": "Goal",
+   "clock": "69'",
+   "team": null,
+   "text": "Goal! Troyes 2, Le Havre 1. Antoine Mille (Troyes) left footed shot from the centre of the box to the high centre of the goal. Assisted by Anis Ouzenadji."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "77'",
+   "team": null,
+   "text": "Ahmed Touba (Le Havre) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "77'",
+   "team": null,
+   "text": "Delay in match because of an injury Merwan Ifnaoui (Troyes)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "77'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "78'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "78'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Troyes. Renaud Ripart replaces Jérémy Le Douaron."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Troyes. Hugo Picard replaces Merwan Ifnaoui because of an injury."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Le Havre. Ismaïl Bouneb replaces Simon Ebonog."
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, Troyes. Iron Gomis replaces Mouhamed Diop."
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, Le Havre. Bocar Wade replaces Vincent Sasso."
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, Le Havre. Mbwana Samatta replaces Josh Maja."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "88'",
+   "team": null,
+   "text": "Delay in match because of an injury Lucas Maronnier (Troyes)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "88'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "88'",
+   "team": null,
+   "text": "Delay in match (Le Havre). VAR checking."
+  },
+  {
+   "type": "End Delay",
+   "clock": "88'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "89'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "89'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Red Card",
+   "clock": "89'",
+   "team": null,
+   "text": "Enzo Koffi (Le Havre) is shown the red card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Substitution, Troyes. Timothé Nkada replaces Kandet Diawara."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "90'+7'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'+8'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "90'+8'",
+   "team": null,
+   "text": "Goal! Troyes 3, Le Havre 1. Renaud Ripart (Troyes) converts the penalty with a right footed shot to the centre of the goal."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+9'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}
