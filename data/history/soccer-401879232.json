@@ -1,0 +1,306 @@
+{
+ "id": "soccer-401879232",
+ "sport": "soccer",
+ "league": "Premier League",
+ "start": "2026-11-21T17:30Z",
+ "home": {
+  "name": "Newcastle United",
+  "abbr": "NEW",
+  "teamId": "361",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Arsenal",
+  "abbr": "ARS",
+  "teamId": "359",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "-190",
+  "mlAwayOpen": "-170",
+  "mlDraw": "+330",
+  "mlHome": "+550",
+  "mlHomeOpen": "+400",
+  "provider": "DraftKings",
+  "spread": "ARS -190",
+  "spreadOpen": "ARS -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "NEW",
+   "stats": {
+    "foulsCommitted": "19",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "6",
+    "saves": "2",
+    "possessionPct": "33.6",
+    "totalShots": "12",
+    "shotsOnTarget": "3",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "188",
+    "totalPasses": "256",
+    "passPct": "0.7",
+    "accurateCrosses": "2",
+    "totalCrosses": "14",
+    "crossPct": "0.1",
+    "totalLongBalls": "46",
+    "accurateLongBalls": "21",
+    "longballPct": "0.5",
+    "blockedShots": "4",
+    "effectiveTackles": "10",
+    "totalTackles": "15",
+    "tacklePct": "0.7",
+    "interceptions": "7",
+    "effectiveClearance": "23",
+    "totalClearance": "23"
+   }
+  },
+  "away": {
+   "abbr": "ARS",
+   "stats": {
+    "foulsCommitted": "7",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "3",
+    "saves": "1",
+    "possessionPct": "66.4",
+    "totalShots": "13",
+    "shotsOnTarget": "4",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "446",
+    "totalPasses": "519",
+    "passPct": "0.9",
+    "accurateCrosses": "1",
+    "totalCrosses": "15",
+    "crossPct": "0.1",
+    "totalLongBalls": "46",
+    "accurateLongBalls": "16",
+    "longballPct": "0.3",
+    "blockedShots": "1",
+    "effectiveTackles": "4",
+    "totalTackles": "7",
+    "tacklePct": "0.6",
+    "interceptions": "5",
+    "effectiveClearance": "21",
+    "totalClearance": "21"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "23'",
+   "team": null,
+   "text": "Amar Dedic (Newcastle United) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "33'",
+   "team": null,
+   "text": "Goal! Newcastle United 0, Arsenal 1. Eberechi Eze (Arsenal) right footed shot from the centre of the box to the top left corner. Assisted by Kai Havertz with a through ball."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": "First Half ends, Newcastle United 0, Arsenal 1."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Newcastle United. Jacob Ramsey replaces Sean Steur."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Newcastle United. Tino Livramento replaces Amar Dedic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Newcastle United. Anthony Elanga replaces Jacob Murphy."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Newcastle United 0, Arsenal 1."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "47'",
+   "team": null,
+   "text": "Delay in match because of an injury David Raya (Arsenal)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "47'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "48'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "48'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "49'",
+   "team": null,
+   "text": "Goal! Newcastle United 1, Arsenal 1. Harvey Barnes (Newcastle United) right footed shot from the centre of the box to the bottom left corner. Assisted by William Osula."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "56'",
+   "team": null,
+   "text": "Declan Rice (Arsenal) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "58'",
+   "team": null,
+   "text": "Harvey Barnes (Newcastle United) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "62'",
+   "team": null,
+   "text": "Goal! Newcastle United 2, Arsenal 1. Malick Thiaw (Newcastle United) right footed shot from very close range to the bottom left corner. Assisted by Joe Willock following a corner.Goal confirmed follow"
+  },
+  {
+   "type": "Start Delay",
+   "clock": "62'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "64'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "67'",
+   "team": null,
+   "text": "Delay in match because of an injury David Raya (Arsenal)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "67'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "69'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "69'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Arsenal. Myles Lewis-Skelly replaces Bruno Guimarães."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Arsenal. Kepa Arrizabalaga replaces David Raya because of an injury."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Arsenal. Christos Tzolis replaces Eberechi Eze."
+  },
+  {
+   "type": "Goal",
+   "clock": "78'",
+   "team": null,
+   "text": "Goal! Newcastle United 2, Arsenal 2. Noni Madueke (Arsenal) left footed shot from the centre of the box to the bottom left corner. Assisted by Martin Ødegaard."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "81'",
+   "team": null,
+   "text": "Dan Burn (Newcastle United) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "81'",
+   "team": null,
+   "text": "Noni Madueke (Arsenal) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, Newcastle United. Yoane Wissa replaces Joe Willock."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Substitution, Newcastle United. Sven Botman replaces Lewis Hall because of an injury."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Substitution, Arsenal. Viktor Gyökeres replaces Kai Havertz."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Substitution, Arsenal. Mikel Merino replaces Martin Ødegaard."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+10'",
+   "team": null,
+   "text": "Second Half ends, Newcastle United 2, Arsenal 2."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+10'",
+   "team": null,
+   "text": "Viktor Gyökeres (Arsenal) is shown the yellow card."
+  }
+ ],
+ "scoringPlays": []
+}

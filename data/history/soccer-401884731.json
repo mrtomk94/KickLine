@@ -1,0 +1,234 @@
+{
+ "id": "soccer-401884731",
+ "sport": "soccer",
+ "league": "Bundesliga",
+ "start": "2026-11-21T14:30Z",
+ "home": {
+  "name": "Borussia Mönchengladbach",
+  "abbr": "BMG",
+  "teamId": "268",
+  "score": 0.0
+ },
+ "away": {
+  "name": "Borussia Dortmund",
+  "abbr": "DOR",
+  "teamId": "124",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "-175",
+  "mlAwayOpen": "-165",
+  "mlDraw": "+320",
+  "mlHome": "+390",
+  "mlHomeOpen": "+320",
+  "provider": "DraftKings",
+  "spread": "DOR -175",
+  "spreadOpen": "DOR -0.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "BMG",
+   "stats": {
+    "foulsCommitted": "16",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "7",
+    "saves": "4",
+    "possessionPct": "42.6",
+    "totalShots": "9",
+    "shotsOnTarget": "2",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "284",
+    "totalPasses": "375",
+    "passPct": "0.8",
+    "accurateCrosses": "2",
+    "totalCrosses": "13",
+    "crossPct": "0.2",
+    "totalLongBalls": "63",
+    "accurateLongBalls": "23",
+    "longballPct": "0.4",
+    "blockedShots": "1",
+    "effectiveTackles": "8",
+    "totalTackles": "17",
+    "tacklePct": "0.5",
+    "interceptions": "16",
+    "effectiveClearance": "27",
+    "totalClearance": "27"
+   }
+  },
+  "away": {
+   "abbr": "DOR",
+   "stats": {
+    "foulsCommitted": "7",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "7",
+    "saves": "2",
+    "possessionPct": "57.4",
+    "totalShots": "15",
+    "shotsOnTarget": "5",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "424",
+    "totalPasses": "500",
+    "passPct": "0.8",
+    "accurateCrosses": "5",
+    "totalCrosses": "22",
+    "crossPct": "0.2",
+    "totalLongBalls": "40",
+    "accurateLongBalls": "17",
+    "longballPct": "0.4",
+    "blockedShots": "2",
+    "effectiveTackles": "8",
+    "totalTackles": "20",
+    "tacklePct": "0.4",
+    "interceptions": "5",
+    "effectiveClearance": "20",
+    "totalClearance": "20"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "3'",
+   "team": null,
+   "text": "Delay in match (Borussia Dortmund)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "3'",
+   "team": null,
+   "text": "Delay in match (Borussia M'gladbach)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "3'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "3'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "16'",
+   "team": null,
+   "text": "Joane Gadou (Borussia Dortmund) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "32'",
+   "team": null,
+   "text": "Zento Uno (Borussia M'gladbach) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, Borussia M'gladbach 0, Borussia Dortmund 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Borussia M'gladbach. Mathieu Nguefack replaces Zento Uno."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Borussia Dortmund. Waldemar Anton replaces Joane Gadou."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Borussia M'gladbach 0, Borussia Dortmund 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "60'",
+   "team": null,
+   "text": "Substitution, Borussia Dortmund. Joey Veerman replaces Jobe Bellingham."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "71'",
+   "team": null,
+   "text": "Kevin Diks (Borussia M'gladbach) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Borussia Dortmund. Mathis Albert replaces Fábio Silva."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Borussia Dortmund. Marcel Sabitzer replaces Konstantinos Karetsas."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Borussia M'gladbach. Isac Lidberg replaces Shuto Machino."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Borussia M'gladbach. David Herold replaces Robin Hack."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Borussia M'gladbach. Franck Honorat replaces Jens Castrop."
+  },
+  {
+   "type": "Goal",
+   "clock": "80'",
+   "team": null,
+   "text": "Goal! Borussia M'gladbach 0, Borussia Dortmund 1. Felix Nmecha (Borussia Dortmund) right footed shot from outside the box to the high centre of the goal."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Borussia M'gladbach. Nicolas Kühn replaces Joe Scally."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Substitution, Borussia Dortmund. Ethan Nwaneri replaces Maximilian Beier."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Second Half ends, Borussia M'gladbach 0, Borussia Dortmund 1."
+  }
+ ],
+ "scoringPlays": []
+}

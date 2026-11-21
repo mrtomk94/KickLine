@@ -1,0 +1,150 @@
+{
+ "id": "ncaaf-401856748",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T17:00Z",
+ "home": {
+  "name": "#24 Florida",
+  "abbr": "FLA",
+  "teamId": "57",
+  "score": 34.0
+ },
+ "away": {
+  "name": "Vanderbilt Commodores",
+  "abbr": "VAN",
+  "teamId": "238",
+  "score": 27.0
+ },
+ "odds": {
+  "mlAway": "+425",
+  "mlAwayOpen": "+400",
+  "mlHome": "-575",
+  "mlHomeOpen": "-535",
+  "provider": "DraftKings",
+  "spread": "FLA -13.5",
+  "spreadOpen": "FLA -13.5",
+  "total": "47.5",
+  "totalOpen": "48.5"
+ },
+ "espnWinProb": {
+  "away": 15.4,
+  "home": 84.6
+ },
+ "teams": {
+  "away": {
+   "abbr": "VAN",
+   "stats": {
+    "firstDowns": "18",
+    "thirdDownEff": "7-15",
+    "fourthDownEff": "1-3",
+    "totalYards": "378",
+    "netPassingYards": "200",
+    "completionAttempts": "12/25",
+    "yardsPerPass": "8.0",
+    "rushingYards": "178",
+    "rushingAttempts": "38",
+    "yardsPerRushAttempt": "4.7",
+    "totalPenaltiesYards": "3-20",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "26:44"
+   }
+  },
+  "home": {
+   "abbr": "FLA",
+   "stats": {
+    "firstDowns": "23",
+    "thirdDownEff": "11-16",
+    "fourthDownEff": "1-2",
+    "totalYards": "411",
+    "netPassingYards": "241",
+    "completionAttempts": "20/28",
+    "yardsPerPass": "8.6",
+    "rushingYards": "170",
+    "rushingAttempts": "44",
+    "yardsPerRushAttempt": "3.9",
+    "totalPenaltiesYards": "7-42",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "33:16"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "10:24",
+   "team": "VAN",
+   "text": "B. Taylor 53 yd FG GOOD"
+  },
+  {
+   "period": 1,
+   "clock": "4:22",
+   "team": "FLA",
+   "text": "P. Durkin 40 yd FG GOOD"
+  },
+  {
+   "period": 2,
+   "clock": "14:17",
+   "team": "VAN",
+   "text": "B. Taylor 52 yd FG GOOD"
+  },
+  {
+   "period": 2,
+   "clock": "12:43",
+   "team": "VAN",
+   "text": "B. Taylor 42 yd FG GOOD"
+  },
+  {
+   "period": 2,
+   "clock": "7:23",
+   "team": "FLA",
+   "text": "A. Philo run for 0 yards, for a TD (P. Durkin KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "5:27",
+   "team": "FLA",
+   "text": "Jar. Curtis pass to M. Young for 1 yd, M. Young fumbled, forced by Ty Jackson, recovered by M. Graham,  return  for 57 yds for a TD (P. Durkin KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "1:46",
+   "team": "VAN",
+   "text": "Jar. Curtis pass to S. Alexander for 9 yds, for a TD (Jar. Curtis pass to C. Spence GOOD for Two-Point Conversion)"
+  },
+  {
+   "period": 2,
+   "clock": "0:39",
+   "team": "VAN",
+   "text": "Jar. Curtis pass to J. Sherrill for 75 yds, for a TD (B. Taylor KICK)"
+  },
+  {
+   "period": 3,
+   "clock": "4:07",
+   "team": "FLA",
+   "text": "A. Philo run for 1 yd, for a TD (P. Durkin KICK)"
+  },
+  {
+   "period": 4,
+   "clock": "8:27",
+   "team": "FLA",
+   "text": "P. Durkin 20 yd FG GOOD"
+  },
+  {
+   "period": 4,
+   "clock": "5:52",
+   "team": "VAN",
+   "text": "B. Taylor 51 yd FG GOOD"
+  },
+  {
+   "period": 4,
+   "clock": "2:18",
+   "team": "FLA",
+   "text": "J. Baugh run for 10 yds, for a TD (P. Durkin KICK)"
+  }
+ ]
+}

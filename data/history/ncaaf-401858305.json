@@ -1,0 +1,144 @@
+{
+ "id": "ncaaf-401858305",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T17:30Z",
+ "home": {
+  "name": "Virginia Cavaliers",
+  "abbr": "UVA",
+  "teamId": "258",
+  "score": 41.0
+ },
+ "away": {
+  "name": "North Carolina Tar Heels",
+  "abbr": "UNC",
+  "teamId": "153",
+  "score": 24.0
+ },
+ "odds": {
+  "mlAway": "-115",
+  "mlAwayOpen": "-105",
+  "mlHome": "-105",
+  "mlHomeOpen": "-115",
+  "provider": "DraftKings",
+  "spread": "UNC -1.5",
+  "spreadOpen": "UVA -1.5",
+  "total": "41.5",
+  "totalOpen": "43.5"
+ },
+ "espnWinProb": {
+  "away": 59.8,
+  "home": 40.2
+ },
+ "teams": {
+  "away": {
+   "abbr": "UNC",
+   "stats": {
+    "firstDowns": "28",
+    "thirdDownEff": "8-17",
+    "fourthDownEff": "1-4",
+    "totalYards": "581",
+    "netPassingYards": "354",
+    "completionAttempts": "25/46",
+    "yardsPerPass": "7.7",
+    "rushingYards": "227",
+    "rushingAttempts": "38",
+    "yardsPerRushAttempt": "6.0",
+    "totalPenaltiesYards": "11-82",
+    "turnovers": "2",
+    "fumblesLost": "0",
+    "interceptions": "2",
+    "possessionTime": "32:56"
+   }
+  },
+  "home": {
+   "abbr": "UVA",
+   "stats": {
+    "firstDowns": "23",
+    "thirdDownEff": "5-10",
+    "fourthDownEff": "0-0",
+    "totalYards": "464",
+    "netPassingYards": "297",
+    "completionAttempts": "19/24",
+    "yardsPerPass": "12.4",
+    "rushingYards": "167",
+    "rushingAttempts": "35",
+    "yardsPerRushAttempt": "4.8",
+    "totalPenaltiesYards": "3-40",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "27:04"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "6:45",
+   "team": "UVA",
+   "text": "B. Pribula pass to D. Martin for 20 yds, for a TD (W. Bettridge KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "14:55",
+   "team": "UVA",
+   "text": "W. Bettridge 42 yd FG GOOD"
+  },
+  {
+   "period": 2,
+   "clock": "10:06",
+   "team": "UNC",
+   "text": "K. Jackson run for 1 yd, for a TD (R. Verhoff KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "9:49",
+   "team": "UVA",
+   "text": "B. Pribula pass to J. Middlebrook for 75 yds, for a TD (W. Bettridge KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "0:31",
+   "team": "UVA",
+   "text": "W. Bettridge 36 yd FG GOOD"
+  },
+  {
+   "period": 2,
+   "clock": "0:03",
+   "team": "UNC",
+   "text": "R. Verhoff 33 yd FG GOOD"
+  },
+  {
+   "period": 3,
+   "clock": "1:48",
+   "team": "UVA",
+   "text": "B. Pribula pass to X. Brown for 24 yds, for a TD (W. Bettridge KICK)"
+  },
+  {
+   "period": 4,
+   "clock": "11:26",
+   "team": "UVA",
+   "text": "B. Pribula pass to D. Twitty for 1 yd, for a TD (W. Bettridge KICK)"
+  },
+  {
+   "period": 4,
+   "clock": "6:55",
+   "team": "UNC",
+   "text": "T. Burgess pass to T. Kekahuna for 5 yds, for a TD (T. Burgess pass to S. Easter GOOD for Two-Point Conversion)"
+  },
+  {
+   "period": 4,
+   "clock": "4:00",
+   "team": "UVA",
+   "text": "S. Beebe run for 32 yds, for a TD (W. Bettridge KICK)"
+  },
+  {
+   "period": 4,
+   "clock": "0:02",
+   "team": "UNC",
+   "text": "T. Burgess run for 5 yds, for a TD (Two-Point Conversion failed)"
+  }
+ ]
+}

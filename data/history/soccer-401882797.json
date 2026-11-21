@@ -1,0 +1,342 @@
+{
+ "id": "soccer-401882797",
+ "sport": "soccer",
+ "league": "LaLiga",
+ "start": "2026-11-21T17:30Z",
+ "home": {
+  "name": "Sevilla",
+  "abbr": "SEV",
+  "teamId": "243",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Real Betis",
+  "abbr": "BET",
+  "teamId": "244",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+160",
+  "mlAwayOpen": "+130",
+  "mlDraw": "+225",
+  "mlHome": "+180",
+  "mlHomeOpen": "+185",
+  "provider": "DraftKings",
+  "spread": "BET +160",
+  "spreadOpen": "BET -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "SEV",
+   "stats": {
+    "foulsCommitted": "21",
+    "yellowCards": "5",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "7",
+    "saves": "2",
+    "possessionPct": "50",
+    "totalShots": "25",
+    "shotsOnTarget": "6",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "321",
+    "totalPasses": "392",
+    "passPct": "0.8",
+    "accurateCrosses": "8",
+    "totalCrosses": "24",
+    "crossPct": "0.3",
+    "totalLongBalls": "42",
+    "accurateLongBalls": "18",
+    "longballPct": "0.4",
+    "blockedShots": "7",
+    "effectiveTackles": "9",
+    "totalTackles": "12",
+    "tacklePct": "0.8",
+    "interceptions": "11",
+    "effectiveClearance": "20",
+    "totalClearance": "20"
+   }
+  },
+  "away": {
+   "abbr": "BET",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "4",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "2",
+    "saves": "5",
+    "possessionPct": "50",
+    "totalShots": "6",
+    "shotsOnTarget": "3",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "323",
+    "totalPasses": "406",
+    "passPct": "0.8",
+    "accurateCrosses": "2",
+    "totalCrosses": "9",
+    "crossPct": "0.2",
+    "totalLongBalls": "47",
+    "accurateLongBalls": "14",
+    "longballPct": "0.3",
+    "blockedShots": "1",
+    "effectiveTackles": "8",
+    "totalTackles": "15",
+    "tacklePct": "0.5",
+    "interceptions": "8",
+    "effectiveClearance": "40",
+    "totalClearance": "40"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "2'",
+   "team": null,
+   "text": "Delay in match because of an injury Jon Guridi (Sevilla)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "3'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "3'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "3'",
+   "team": null,
+   "text": "Delay in match (Real Betis)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "3'",
+   "team": null,
+   "text": "Delay in match (Sevilla)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "3'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "3'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "11'",
+   "team": null,
+   "text": "Junior Firpo (Real Betis) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "11'",
+   "team": null,
+   "text": "Cucho Hernández (Real Betis) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "15'",
+   "team": null,
+   "text": "Lucien Agoumé (Sevilla) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "18'",
+   "team": null,
+   "text": "Kike Salas (Sevilla) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "18'",
+   "team": null,
+   "text": "Delay in match because of an injury Aitor Ruibal (Real Betis)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "18'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "19'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "19'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, Sevilla 0, Real Betis 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Sevilla 0, Real Betis 0."
+  },
+  {
+   "type": "Goal",
+   "clock": "50'",
+   "team": null,
+   "text": "Goal! Sevilla 0, Real Betis 1. Antony (Real Betis) left footed shot from the right side of the box to the bottom right corner. Assisted by Isco."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Sevilla. Chidera Ejuke replaces Félix Correia."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Sevilla. Giorgi Kochorashvili replaces Jon Guridi."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "61'",
+   "team": null,
+   "text": "Andrés Castrín (Sevilla) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Real Betis. Troy Parrott replaces Aitor Ruibal."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "67'",
+   "team": null,
+   "text": "Delay in match because of an injury Kike Salas (Sevilla)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "67'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "68'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "68'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "69'",
+   "team": null,
+   "text": "Substitution, Sevilla. Isaac Romero replaces Lucien Agoumé."
+  },
+  {
+   "type": "Substitution",
+   "clock": "69'",
+   "team": null,
+   "text": "Substitution, Sevilla. Robbie Ure replaces Lucas Stassin."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Real Betis. Nelson Deossa replaces Abde Ezzalzouli."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "79'",
+   "team": null,
+   "text": "Héctor Bellerín (Real Betis) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Real Betis. Rodrigo Riquelme replaces Antony because of an injury."
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Sevilla. Peque Fernández replaces Rubén Vargas."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "84'",
+   "team": null,
+   "text": "Robbie Ure (Sevilla) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "86'",
+   "team": null,
+   "text": "Juan Iglesias (Sevilla) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "86'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "86'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "86'",
+   "team": null,
+   "text": "Pablo Fornals (Real Betis) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Goal! Sevilla 1, Real Betis 1. Kike Salas (Sevilla) left footed shot from outside the box to the bottom left corner. Assisted by Isaac Romero."
+  }
+ ],
+ "scoringPlays": []
+}

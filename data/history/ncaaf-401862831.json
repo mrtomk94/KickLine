@@ -1,0 +1,102 @@
+{
+ "id": "ncaaf-401862831",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T17:00Z",
+ "home": {
+  "name": "Army Black Knights",
+  "abbr": "ARMY",
+  "teamId": "349",
+  "score": 6.0
+ },
+ "away": {
+  "name": "East Carolina Pirates",
+  "abbr": "ECU",
+  "teamId": "151",
+  "score": 10.0
+ },
+ "odds": {
+  "mlAway": "+170",
+  "mlAwayOpen": "+150",
+  "mlHome": "-205",
+  "mlHomeOpen": "-180",
+  "provider": "DraftKings",
+  "spread": "ARMY -4.5",
+  "spreadOpen": "ARMY -4.5",
+  "total": "45.5",
+  "totalOpen": "42.5"
+ },
+ "espnWinProb": {
+  "away": 33.7,
+  "home": 66.3
+ },
+ "teams": {
+  "away": {
+   "abbr": "ECU",
+   "stats": {
+    "firstDowns": "16",
+    "thirdDownEff": "5-11",
+    "fourthDownEff": "1-1",
+    "totalYards": "318",
+    "netPassingYards": "137",
+    "completionAttempts": "16/24",
+    "yardsPerPass": "5.7",
+    "rushingYards": "181",
+    "rushingAttempts": "34",
+    "yardsPerRushAttempt": "5.3",
+    "totalPenaltiesYards": "9-65",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "26:16"
+   }
+  },
+  "home": {
+   "abbr": "ARMY",
+   "stats": {
+    "firstDowns": "18",
+    "thirdDownEff": "3-13",
+    "fourthDownEff": "2-4",
+    "totalYards": "264",
+    "netPassingYards": "84",
+    "completionAttempts": "8/18",
+    "yardsPerPass": "4.7",
+    "rushingYards": "180",
+    "rushingAttempts": "47",
+    "yardsPerRushAttempt": "3.8",
+    "totalPenaltiesYards": "2-10",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "33:44"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 2,
+   "clock": "0:01",
+   "team": "ARMY",
+   "text": "D. Jones 46 yd FG GOOD"
+  },
+  {
+   "period": 3,
+   "clock": "1:14",
+   "team": "ECU",
+   "text": "A. Conrad 41 yd FG GOOD"
+  },
+  {
+   "period": 4,
+   "clock": "12:59",
+   "team": "ARMY",
+   "text": "D. Jones 43 yd FG GOOD"
+  },
+  {
+   "period": 4,
+   "clock": "4:24",
+   "team": "ECU",
+   "text": "J. Dickerson pass to L. Sides for 7 yds, for a TD (A. Conrad KICK)"
+  }
+ ]
+}

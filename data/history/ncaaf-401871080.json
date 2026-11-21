@@ -1,0 +1,132 @@
+{
+ "id": "ncaaf-401871080",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T18:00Z",
+ "home": {
+  "name": "Liberty Flames",
+  "abbr": "LIB",
+  "teamId": "2335",
+  "score": 45.0
+ },
+ "away": {
+  "name": "Western Kentucky Hilltoppers",
+  "abbr": "WKU",
+  "teamId": "98",
+  "score": 14.0
+ },
+ "odds": {
+  "mlAway": "+650",
+  "mlAwayOpen": "+455",
+  "mlHome": "-1000",
+  "mlHomeOpen": "-625",
+  "provider": "DraftKings",
+  "spread": "LIB -17.5",
+  "spreadOpen": "LIB -14.5",
+  "total": "53.5",
+  "totalOpen": "52.5"
+ },
+ "espnWinProb": {
+  "away": 8.0,
+  "home": 92.0
+ },
+ "teams": {
+  "away": {
+   "abbr": "WKU",
+   "stats": {
+    "firstDowns": "17",
+    "thirdDownEff": "9-20",
+    "fourthDownEff": "3-6",
+    "totalYards": "327",
+    "netPassingYards": "273",
+    "completionAttempts": "24/47",
+    "yardsPerPass": "5.8",
+    "rushingYards": "54",
+    "rushingAttempts": "29",
+    "yardsPerRushAttempt": "1.9",
+    "totalPenaltiesYards": "2-30",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "28:32"
+   }
+  },
+  "home": {
+   "abbr": "LIB",
+   "stats": {
+    "firstDowns": "24",
+    "thirdDownEff": "9-12",
+    "fourthDownEff": "0-0",
+    "totalYards": "560",
+    "netPassingYards": "344",
+    "completionAttempts": "19/25",
+    "yardsPerPass": "13.8",
+    "rushingYards": "216",
+    "rushingAttempts": "34",
+    "yardsPerRushAttempt": "6.4",
+    "totalPenaltiesYards": "3-25",
+    "turnovers": "2",
+    "fumblesLost": "2",
+    "interceptions": "0",
+    "possessionTime": "31:28"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "12:33",
+   "team": "LIB",
+   "text": "D. Purdie pass to M. Jackson for 81 yds, for a TD (C. Reeves KICK)"
+  },
+  {
+   "period": 1,
+   "clock": "7:37",
+   "team": "LIB",
+   "text": "E. Vasko run for 3 yds, for a TD (C. Reeves KICK)"
+  },
+  {
+   "period": 1,
+   "clock": "0:47",
+   "team": "LIB",
+   "text": "D. Purdie run for 18 yds, for a TD (C. Reeves KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "11:40",
+   "team": "LIB",
+   "text": "T. Kellman run for 39 yds, for a TD (C. Reeves KICK)"
+  },
+  {
+   "period": 3,
+   "clock": "5:40",
+   "team": "LIB",
+   "text": "D. Purdie pass to J. Person for 37 yds, for a TD (C. Reeves KICK)"
+  },
+  {
+   "period": 3,
+   "clock": "0:05",
+   "team": "WKU",
+   "text": "B. Glenn pass to C. Arends for 25 yds, for a TD (K. Campbell KICK)"
+  },
+  {
+   "period": 4,
+   "clock": "8:42",
+   "team": "LIB",
+   "text": "C. Reeves 50 yd FG GOOD"
+  },
+  {
+   "period": 4,
+   "clock": "5:52",
+   "team": "WKU",
+   "text": "B. Glenn run for 16 yds, for a TD (K. Campbell KICK)"
+  },
+  {
+   "period": 4,
+   "clock": "2:53",
+   "team": "LIB",
+   "text": "J. Henderson run for 50 yds, for a TD (C. Jones KICK)"
+  }
+ ]
+}

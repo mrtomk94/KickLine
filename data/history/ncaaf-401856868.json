@@ -1,0 +1,144 @@
+{
+ "id": "ncaaf-401856868",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T18:00Z",
+ "home": {
+  "name": "West Virginia Mountaineers",
+  "abbr": "WVU",
+  "teamId": "277",
+  "score": 31.0
+ },
+ "away": {
+  "name": "#20 Houston",
+  "abbr": "HOU",
+  "teamId": "248",
+  "score": 34.0
+ },
+ "odds": {
+  "mlAway": "-270",
+  "mlAwayOpen": "-230",
+  "mlHome": "+220",
+  "mlHomeOpen": "+190",
+  "provider": "DraftKings",
+  "spread": "HOU -7",
+  "spreadOpen": "HOU -7",
+  "total": "72.5",
+  "totalOpen": "71.5"
+ },
+ "espnWinProb": {
+  "away": 73.6,
+  "home": 26.5
+ },
+ "teams": {
+  "away": {
+   "abbr": "HOU",
+   "stats": {
+    "firstDowns": "21",
+    "thirdDownEff": "9-19",
+    "fourthDownEff": "1-1",
+    "totalYards": "490",
+    "netPassingYards": "268",
+    "completionAttempts": "18/28",
+    "yardsPerPass": "9.6",
+    "rushingYards": "222",
+    "rushingAttempts": "48",
+    "yardsPerRushAttempt": "4.6",
+    "totalPenaltiesYards": "10-68",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "30:24"
+   }
+  },
+  "home": {
+   "abbr": "WVU",
+   "stats": {
+    "firstDowns": "26",
+    "thirdDownEff": "4-15",
+    "fourthDownEff": "2-2",
+    "totalYards": "459",
+    "netPassingYards": "130",
+    "completionAttempts": "13/26",
+    "yardsPerPass": "5.0",
+    "rushingYards": "329",
+    "rushingAttempts": "55",
+    "yardsPerRushAttempt": "6.0",
+    "totalPenaltiesYards": "3-29",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "29:36"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "13:43",
+   "team": "HOU",
+   "text": "K. Henderson pass to A. Thomas for 68 yds, for a TD (J. Dimas KICK)"
+  },
+  {
+   "period": 1,
+   "clock": "11:48",
+   "team": "WVU",
+   "text": "C. Cook run for 8 yds, for a TD (J. Cassidy KICK)"
+  },
+  {
+   "period": 1,
+   "clock": "6:40",
+   "team": "HOU",
+   "text": "M. Hughes run for 21 yds, for a TD (J. Dimas KICK)"
+  },
+  {
+   "period": 1,
+   "clock": "0:58",
+   "team": "WVU",
+   "text": "J. Cassidy 31 yd FG GOOD"
+  },
+  {
+   "period": 2,
+   "clock": "10:16",
+   "team": "WVU",
+   "text": "Mi. Hawkins Jr. pass to J. Neider for 3 yds, for a TD (J. Cassidy KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "6:32",
+   "team": "HOU",
+   "text": "M. Hughes run for 2 yds, for a TD (J. Dimas KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "3:41",
+   "team": "WVU",
+   "text": "A. Latimer run for 3 yds, for a TD (J. Cassidy KICK)"
+  },
+  {
+   "period": 3,
+   "clock": "12:26",
+   "team": "WVU",
+   "text": "Mi. Hawkins Jr. run for 10 yds, for a TD (J. Cassidy KICK)"
+  },
+  {
+   "period": 3,
+   "clock": "0:45",
+   "team": "HOU",
+   "text": "J. Dimas 34 yd FG GOOD"
+  },
+  {
+   "period": 4,
+   "clock": "5:25",
+   "team": "HOU",
+   "text": "M. Hughes run for 3 yds, for a TD (J. Dimas KICK)"
+  },
+  {
+   "period": 4,
+   "clock": "0:02",
+   "team": "HOU",
+   "text": "J. Dimas 23 yd FG GOOD"
+  }
+ ]
+}

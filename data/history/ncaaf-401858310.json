@@ -1,0 +1,144 @@
+{
+ "id": "ncaaf-401858310",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T17:00Z",
+ "home": {
+  "name": "Georgia Tech Yellow Jackets",
+  "abbr": "GT",
+  "teamId": "59",
+  "score": 29.0
+ },
+ "away": {
+  "name": "#11 Wake Forest",
+  "abbr": "WAKE",
+  "teamId": "154",
+  "score": 50.0
+ },
+ "odds": {
+  "mlAway": "-2100",
+  "mlAwayOpen": "-1650",
+  "mlHome": "+1100",
+  "mlHomeOpen": "+950",
+  "provider": "DraftKings",
+  "spread": "WAKE -22.5",
+  "spreadOpen": "WAKE -20.5",
+  "total": "55.5",
+  "totalOpen": "56.5"
+ },
+ "espnWinProb": {
+  "away": 92.5,
+  "home": 7.5
+ },
+ "teams": {
+  "away": {
+   "abbr": "WAKE",
+   "stats": {
+    "firstDowns": "27",
+    "thirdDownEff": "4-8",
+    "fourthDownEff": "1-1",
+    "totalYards": "607",
+    "netPassingYards": "349",
+    "completionAttempts": "18/23",
+    "yardsPerPass": "15.2",
+    "rushingYards": "258",
+    "rushingAttempts": "47",
+    "yardsPerRushAttempt": "5.5",
+    "totalPenaltiesYards": "12-111",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "32:40"
+   }
+  },
+  "home": {
+   "abbr": "GT",
+   "stats": {
+    "firstDowns": "26",
+    "thirdDownEff": "5-10",
+    "fourthDownEff": "1-1",
+    "totalYards": "389",
+    "netPassingYards": "100",
+    "completionAttempts": "10/16",
+    "yardsPerPass": "6.3",
+    "rushingYards": "289",
+    "rushingAttempts": "43",
+    "yardsPerRushAttempt": "6.7",
+    "totalPenaltiesYards": "4-20",
+    "turnovers": "3",
+    "fumblesLost": "3",
+    "interceptions": "0",
+    "possessionTime": "27:20"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "8:19",
+   "team": "WAKE",
+   "text": "Ty Clark III 4 Yd Run (Connor Calvert Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "2:25",
+   "team": "WAKE",
+   "text": "Gio Lopez 2 Yd Run (Charlie Wingfield Run for Two-Point Conversion)"
+  },
+  {
+   "period": 2,
+   "clock": "14:46",
+   "team": "WAKE",
+   "text": "Jack Foley 66 Yd pass from Gio Lopez (Connor Calvert Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "13:03",
+   "team": "WAKE",
+   "text": "Ty Clark III 1 Yd Run (Connor Calvert Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "9:02",
+   "team": "GT",
+   "text": "Justice Haynes 4 Yd Run (Aidan Birr Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:51",
+   "team": "WAKE",
+   "text": "Gio Lopez 2 Yd Run (Connor Calvert Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "11:14",
+   "team": "WAKE",
+   "text": "Dominick Barry 14 Yd pass from Gio Lopez (Connor Calvert Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "9:16",
+   "team": "GT",
+   "text": "Grady Adamson 12 Yd Run (Justice Haynes Run for Two-Point Conversion)"
+  },
+  {
+   "period": 3,
+   "clock": "5:54",
+   "team": "WAKE",
+   "text": "Deuce Lawrence 3 Yd Run (Connor Calvert Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "0:23",
+   "team": "GT",
+   "text": "Trelain Maddox 2 Yd Run (Aidan Birr Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "2:42",
+   "team": "GT",
+   "text": "Graham Knowles 7 Yd Run (Aidan Birr Kick)"
+  }
+ ]
+}

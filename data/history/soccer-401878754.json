@@ -1,0 +1,324 @@
+{
+ "id": "soccer-401878754",
+ "sport": "soccer",
+ "league": "Premier League",
+ "start": "2026-11-21T15:00Z",
+ "home": {
+  "name": "Tottenham Hotspur",
+  "abbr": "TOT",
+  "teamId": "367",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Ipswich Town",
+  "abbr": "IPS",
+  "teamId": "373",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+500",
+  "mlAwayOpen": "+475",
+  "mlDraw": "+370",
+  "mlHome": "-205",
+  "mlHomeOpen": "-210",
+  "provider": "DraftKings",
+  "spread": "TOT -205",
+  "spreadOpen": "TOT -1.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "TOT",
+   "stats": {
+    "foulsCommitted": "17",
+    "yellowCards": "4",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "8",
+    "saves": "3",
+    "possessionPct": "62.7",
+    "totalShots": "18",
+    "shotsOnTarget": "9",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "521",
+    "totalPasses": "587",
+    "passPct": "0.9",
+    "accurateCrosses": "6",
+    "totalCrosses": "19",
+    "crossPct": "0.3",
+    "totalLongBalls": "38",
+    "accurateLongBalls": "22",
+    "longballPct": "0.6",
+    "blockedShots": "3",
+    "effectiveTackles": "16",
+    "totalTackles": "18",
+    "tacklePct": "0.9",
+    "interceptions": "5",
+    "effectiveClearance": "17",
+    "totalClearance": "17"
+   }
+  },
+  "away": {
+   "abbr": "IPS",
+   "stats": {
+    "foulsCommitted": "17",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "6",
+    "saves": "8",
+    "possessionPct": "37.3",
+    "totalShots": "11",
+    "shotsOnTarget": "3",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "284",
+    "totalPasses": "344",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "14",
+    "crossPct": "0.2",
+    "totalLongBalls": "51",
+    "accurateLongBalls": "24",
+    "longballPct": "0.5",
+    "blockedShots": "8",
+    "effectiveTackles": "11",
+    "totalTackles": "16",
+    "tacklePct": "0.7",
+    "interceptions": "13",
+    "effectiveClearance": "27",
+    "totalClearance": "27"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "15'",
+   "team": null,
+   "text": "Goal! Tottenham Hotspur 1, Ipswich Town 0. Luca Williams-Barnett (Tottenham Hotspur) left footed shot from the centre of the box to the bottom right corner. Assisted by Pedro Porro with a cross."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "35'",
+   "team": null,
+   "text": "Delay in match because of an injury Conor Gallagher (Tottenham Hotspur)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "35'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "35'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "35'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "41'",
+   "team": null,
+   "text": "James Maddison (Tottenham Hotspur) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Tottenham Hotspur 1, Ipswich Town 0."
+  },
+  {
+   "type": "Goal",
+   "clock": "51'",
+   "team": null,
+   "text": "Goal! Tottenham Hotspur 2, Ipswich Town 0. Dominic Solanke (Tottenham Hotspur) right footed shot from very close range to the centre of the goal."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "52'",
+   "team": null,
+   "text": "Luca Williams-Barnett (Tottenham Hotspur) is shown the yellow card for excessive celebration."
+  },
+  {
+   "type": "Substitution",
+   "clock": "56'",
+   "team": null,
+   "text": "Substitution, Ipswich Town. Florentino replaces Exequiel Palacios."
+  },
+  {
+   "type": "Substitution",
+   "clock": "56'",
+   "team": null,
+   "text": "Substitution, Ipswich Town. Abdul Fatawu Issahaku replaces Abdoul Ouattara."
+  },
+  {
+   "type": "Substitution",
+   "clock": "56'",
+   "team": null,
+   "text": "Substitution, Ipswich Town. Jack Clarke replaces Daizen Maeda."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Tottenham Hotspur. Lucas Bergvall replaces James Maddison."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Tottenham Hotspur. Sávio replaces Luca Williams-Barnett."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Tottenham Hotspur. Omar Marmoush replaces Dominic Solanke."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Ipswich Town. Emersonn replaces Zian Flemming."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "79'",
+   "team": null,
+   "text": "Mohammed Kudus (Tottenham Hotspur) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "79'",
+   "team": null,
+   "text": "Delay in match because of an injury Leif Davis (Ipswich Town)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "79'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Tottenham Hotspur. Andy Robertson replaces Destiny Udogie."
+  },
+  {
+   "type": "End Delay",
+   "clock": "81'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "81'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "82'",
+   "team": null,
+   "text": "Delay in match because of an injury Leif Davis (Ipswich Town)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "82'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, Ipswich Town. Jacob Greaves replaces Leif Davis because of an injury."
+  },
+  {
+   "type": "End Delay",
+   "clock": "83'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "83'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "83'",
+   "team": null,
+   "text": "Issa Diop (Ipswich Town) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "89'",
+   "team": null,
+   "text": "Delay in match because of an injury Sávio (Tottenham Hotspur)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "89'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'",
+   "team": null,
+   "text": "Substitution, Tottenham Hotspur. Archie Gray replaces Sávio because of an injury."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Mateus Fernandes (Tottenham Hotspur) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+7'",
+   "team": null,
+   "text": "Second Half ends, Tottenham Hotspur 2, Ipswich Town 0."
+  }
+ ],
+ "scoringPlays": []
+}

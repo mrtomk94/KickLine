@@ -1,0 +1,246 @@
+{
+ "id": "soccer-401884735",
+ "sport": "soccer",
+ "league": "Bundesliga",
+ "start": "2026-11-21T14:30Z",
+ "home": {
+  "name": "Bayer Leverkusen",
+  "abbr": "B04",
+  "teamId": "131",
+  "score": 4.0
+ },
+ "away": {
+  "name": "SC Paderborn 07",
+  "abbr": "SCP",
+  "teamId": "3307",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+700",
+  "mlAwayOpen": "+700",
+  "mlDraw": "+500",
+  "mlHome": "-390",
+  "mlHomeOpen": "-475",
+  "provider": "DraftKings",
+  "spread": "B04 -390",
+  "spreadOpen": "B04 -1.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "B04",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "8",
+    "saves": "1",
+    "possessionPct": "63.7",
+    "totalShots": "20",
+    "shotsOnTarget": "10",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "674",
+    "totalPasses": "735",
+    "passPct": "0.9",
+    "accurateCrosses": "9",
+    "totalCrosses": "21",
+    "crossPct": "0.4",
+    "totalLongBalls": "45",
+    "accurateLongBalls": "30",
+    "longballPct": "0.7",
+    "blockedShots": "0",
+    "effectiveTackles": "4",
+    "totalTackles": "10",
+    "tacklePct": "0.4",
+    "interceptions": "10",
+    "effectiveClearance": "29",
+    "totalClearance": "29"
+   }
+  },
+  "away": {
+   "abbr": "SCP",
+   "stats": {
+    "foulsCommitted": "8",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "3",
+    "saves": "7",
+    "possessionPct": "36.3",
+    "totalShots": "8",
+    "shotsOnTarget": "1",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "355",
+    "totalPasses": "417",
+    "passPct": "0.9",
+    "accurateCrosses": "3",
+    "totalCrosses": "16",
+    "crossPct": "0.2",
+    "totalLongBalls": "37",
+    "accurateLongBalls": "16",
+    "longballPct": "0.4",
+    "blockedShots": "3",
+    "effectiveTackles": "5",
+    "totalTackles": "10",
+    "tacklePct": "0.5",
+    "interceptions": "5",
+    "effectiveClearance": "25",
+    "totalClearance": "25"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "14'",
+   "team": null,
+   "text": "Goal! Bayer 04 Leverkusen 1, Paderborn 0. Afonso Moreira (Bayer 04 Leverkusen) right footed shot from the centre of the box to the centre of the goal. Assisted by Malik Tillman with a through ball."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "18'",
+   "team": null,
+   "text": "Delay in match (Bayer 04 Leverkusen)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "18'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "18'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "18'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": "First Half ends, Bayer 04 Leverkusen 1, Paderborn 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Paderborn. Felix Götze replaces Jano ter Horst."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "47'",
+   "team": null,
+   "text": "Goal! Bayer 04 Leverkusen 2, Paderborn 0. Afonso Moreira (Bayer 04 Leverkusen) left footed shot from very close range to the centre of the goal. Assisted by Nathan Tella."
+  },
+  {
+   "type": "Goal",
+   "clock": "51'",
+   "team": null,
+   "text": "Goal! Bayer 04 Leverkusen 3, Paderborn 0. Patrik Schick (Bayer 04 Leverkusen) left footed shot from the centre of the box to the bottom right corner. Assisted by Nathan Tella."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "54'",
+   "team": null,
+   "text": "Equi Fernández (Bayer 04 Leverkusen) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "55'",
+   "team": null,
+   "text": "Miguel Gutiérrez (Bayer 04 Leverkusen) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "57'",
+   "team": null,
+   "text": "Substitution, Paderborn. Deniz Zeitler replaces Gabriel Vidovic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "57'",
+   "team": null,
+   "text": "Substitution, Paderborn. Laurin Ulrich replaces Ruben Müller."
+  },
+  {
+   "type": "Goal",
+   "clock": "59'",
+   "team": null,
+   "text": "Goal! Bayer 04 Leverkusen 4, Paderborn 0. Equi Fernández (Bayer 04 Leverkusen) left footed shot from the centre of the box to the centre of the goal. Assisted by Afonso Moreira."
+  },
+  {
+   "type": "Substitution",
+   "clock": "60'",
+   "team": null,
+   "text": "Substitution, Bayer 04 Leverkusen. Robert Andrich replaces Equi Fernández."
+  },
+  {
+   "type": "Substitution",
+   "clock": "60'",
+   "team": null,
+   "text": "Substitution, Bayer 04 Leverkusen. Moussa Diaby replaces Nathan Tella."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Bayer 04 Leverkusen. Christian Kofane replaces Patrik Schick."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Bayer 04 Leverkusen. Jonas Hofmann replaces Malik Tillman."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Paderborn. Jonah Sticker replaces Tom Baack."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Bayer 04 Leverkusen. Tim Oermann replaces Edmond Tapsoba."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Paderborn. Marvin Pieringer replaces Stefano Marino because of an injury."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Second Half ends, Bayer 04 Leverkusen 4, Paderborn 0."
+  }
+ ],
+ "scoringPlays": []
+}

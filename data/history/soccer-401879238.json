@@ -1,0 +1,246 @@
+{
+ "id": "soccer-401879238",
+ "sport": "soccer",
+ "league": "Premier League",
+ "start": "2026-11-21T15:00Z",
+ "home": {
+  "name": "AFC Bournemouth",
+  "abbr": "BOU",
+  "teamId": "349",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Nottingham Forest",
+  "abbr": "NFO",
+  "teamId": "393",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+260",
+  "mlAwayOpen": "+260",
+  "mlDraw": "+235",
+  "mlHome": "+115",
+  "mlHomeOpen": "-105",
+  "provider": "DraftKings",
+  "spread": "BOU +115",
+  "spreadOpen": "BOU -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "BOU",
+   "stats": {
+    "foulsCommitted": "13",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "6",
+    "saves": "1",
+    "possessionPct": "51.1",
+    "totalShots": "19",
+    "shotsOnTarget": "7",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "358",
+    "totalPasses": "448",
+    "passPct": "0.8",
+    "accurateCrosses": "1",
+    "totalCrosses": "12",
+    "crossPct": "0.1",
+    "totalLongBalls": "71",
+    "accurateLongBalls": "29",
+    "longballPct": "0.4",
+    "blockedShots": "5",
+    "effectiveTackles": "7",
+    "totalTackles": "13",
+    "tacklePct": "0.5",
+    "interceptions": "5",
+    "effectiveClearance": "36",
+    "totalClearance": "36"
+   }
+  },
+  "away": {
+   "abbr": "NFO",
+   "stats": {
+    "foulsCommitted": "15",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "4",
+    "saves": "5",
+    "possessionPct": "48.9",
+    "totalShots": "18",
+    "shotsOnTarget": "1",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "323",
+    "totalPasses": "431",
+    "passPct": "0.7",
+    "accurateCrosses": "4",
+    "totalCrosses": "12",
+    "crossPct": "0.3",
+    "totalLongBalls": "86",
+    "accurateLongBalls": "38",
+    "longballPct": "0.4",
+    "blockedShots": "8",
+    "effectiveTackles": "15",
+    "totalTackles": "19",
+    "tacklePct": "0.8",
+    "interceptions": "10",
+    "effectiveClearance": "22",
+    "totalClearance": "22"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal",
+   "clock": "19'",
+   "team": null,
+   "text": "Goal! Bournemouth 1, Nottingham Forest 0. Evanilson (Bournemouth) left footed shot from the centre of the box to the top left corner. Assisted by James Hill with a headed pass."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "21'",
+   "team": null,
+   "text": "Delay in match because of an injury Marcus Tavernier (Bournemouth)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "21'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "22'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "22'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "45'",
+   "team": null,
+   "text": "Liam Delap (Nottingham Forest) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "45'+3'",
+   "team": null,
+   "text": "Goal! Bournemouth 2, Nottingham Forest 0. Justin Kluivert (Bournemouth) right footed shot from very close range to the bottom right corner. Assisted by Marcus Tavernier following a fast break."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+4'",
+   "team": null,
+   "text": "First Half ends, Bournemouth 2, Nottingham Forest 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Nottingham Forest. Igor Jesus replaces Dan Ndoye."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Nottingham Forest. Xaver Schlager replaces Ryan Yates."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "57'",
+   "team": null,
+   "text": "Daniel Muñoz (Nottingham Forest) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "69'",
+   "team": null,
+   "text": "Substitution, Bournemouth. Junior Kroupi replaces Justin Kluivert."
+  },
+  {
+   "type": "Substitution",
+   "clock": "69'",
+   "team": null,
+   "text": "Substitution, Bournemouth. Lewis Cook replaces Tyler Adams."
+  },
+  {
+   "type": "Substitution",
+   "clock": "69'",
+   "team": null,
+   "text": "Substitution, Bournemouth. Alex Scott replaces Ryan Christie."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Nottingham Forest. Chris Wood replaces James McAtee."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Nottingham Forest. Luca Netz replaces Neco Williams."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Nottingham Forest. Ola Aina replaces Daniel Muñoz."
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, Bournemouth. Bafodé Diakité replaces Adam Smith."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "87'",
+   "team": null,
+   "text": "Alex Scott (Bournemouth) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'",
+   "team": null,
+   "text": "Substitution, Bournemouth. Ben Gannon-Doak replaces Rayan."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Murillo (Nottingham Forest) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Second Half ends, Bournemouth 2, Nottingham Forest 0."
+  }
+ ],
+ "scoringPlays": []
+}

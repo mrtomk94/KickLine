@@ -1,0 +1,336 @@
+{
+ "id": "soccer-401879236",
+ "sport": "soccer",
+ "league": "Premier League",
+ "start": "2026-11-21T15:00Z",
+ "home": {
+  "name": "Chelsea",
+  "abbr": "CHE",
+  "teamId": "363",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Leeds United",
+  "abbr": "LEE",
+  "teamId": "357",
+  "score": 4.0
+ },
+ "odds": {
+  "mlAway": "+280",
+  "mlAwayOpen": "+295",
+  "mlDraw": "+260",
+  "mlHome": "-105",
+  "mlHomeOpen": "-120",
+  "provider": "DraftKings",
+  "spread": "CHE -105",
+  "spreadOpen": "CHE -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "CHE",
+   "stats": {
+    "foulsCommitted": "6",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "3",
+    "saves": "4",
+    "possessionPct": "57.1",
+    "totalShots": "14",
+    "shotsOnTarget": "3",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "477",
+    "totalPasses": "546",
+    "passPct": "0.9",
+    "accurateCrosses": "3",
+    "totalCrosses": "15",
+    "crossPct": "0.2",
+    "totalLongBalls": "43",
+    "accurateLongBalls": "16",
+    "longballPct": "0.4",
+    "blockedShots": "5",
+    "effectiveTackles": "8",
+    "totalTackles": "15",
+    "tacklePct": "0.5",
+    "interceptions": "8",
+    "effectiveClearance": "24",
+    "totalClearance": "24"
+   }
+  },
+  "away": {
+   "abbr": "LEE",
+   "stats": {
+    "foulsCommitted": "16",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "7",
+    "wonCorners": "2",
+    "saves": "2",
+    "possessionPct": "42.9",
+    "totalShots": "21",
+    "shotsOnTarget": "8",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "331",
+    "totalPasses": "405",
+    "passPct": "0.8",
+    "accurateCrosses": "6",
+    "totalCrosses": "16",
+    "crossPct": "0.4",
+    "totalLongBalls": "52",
+    "accurateLongBalls": "24",
+    "longballPct": "0.5",
+    "blockedShots": "4",
+    "effectiveTackles": "10",
+    "totalTackles": "17",
+    "tacklePct": "0.6",
+    "interceptions": "7",
+    "effectiveClearance": "18",
+    "totalClearance": "18"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "15'",
+   "team": null,
+   "text": "Delay in match because of an injury Moisés Caicedo (Chelsea)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "15'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "15'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "15'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "20'",
+   "team": null,
+   "text": "Delay in match because of an injury Moisés Caicedo (Chelsea)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "20'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "22'",
+   "team": null,
+   "text": "Substitution, Chelsea. Jordan Henderson replaces Moisés Caicedo because of an injury."
+  },
+  {
+   "type": "End Delay",
+   "clock": "22'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "22'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "25'",
+   "team": null,
+   "text": "Goal! Chelsea 1, Leeds United 0. Emmanuel Emegha (Chelsea) left footed shot from the centre of the box to the bottom left corner. Assisted by Morgan Rogers."
+  },
+  {
+   "type": "Goal",
+   "clock": "28'",
+   "team": null,
+   "text": "Goal! Chelsea 1, Leeds United 1. Noah Okafor (Leeds United) left footed shot from the left side of the box to the centre of the goal. Assisted by Dominic Calvert-Lewin."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "36'",
+   "team": null,
+   "text": "Delay in match (Leeds United)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "36'",
+   "team": null,
+   "text": "Delay in match (Chelsea)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "36'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "36'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "38'",
+   "team": null,
+   "text": "Gabriel Gudmundsson (Leeds United) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "40'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "41'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+6'",
+   "team": null,
+   "text": "First Half ends, Chelsea 1, Leeds United 1."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "47'",
+   "team": null,
+   "text": "Roméo Lavia (Chelsea) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "50'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "52'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "53'",
+   "team": null,
+   "text": "Goal! Chelsea 1, Leeds United 2. Dominic Calvert-Lewin (Leeds United) converts the penalty with a right footed shot to the bottom right corner."
+  },
+  {
+   "type": "Goal",
+   "clock": "58'",
+   "team": null,
+   "text": "Goal! Chelsea 1, Leeds United 3. Noah Okafor (Leeds United) right footed shot from the centre of the box to the top left corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Chelsea. Pedro Neto replaces Estêvão."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Chelsea. Danny Welbeck replaces Emmanuel Emegha."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "68'",
+   "team": null,
+   "text": "Jayden Bogle (Leeds United) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Leeds United. Brenden Aaronson replaces Noah Okafor."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Chelsea. Geovany Quenda replaces Pep Chavarría."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Chelsea. Malo Gusto replaces Josh Acheampong."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "83'",
+   "team": null,
+   "text": "Sean Longstaff (Leeds United) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Leeds United. Anton Stach replaces Jayden Bogle."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Leeds United. Joe Rodon replaces Ao Tanaka."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Substitution, Leeds United. Harry Wilson replaces Sean Longstaff."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Substitution, Leeds United. Melvin Bard replaces Gabriel Gudmundsson."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Goal! Chelsea 1, Leeds United 4. Brenden Aaronson (Leeds United) left footed shot from a difficult angle on the right to the centre of the goal. Assisted by Harry Wilson following a fast break."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+7'",
+   "team": null,
+   "text": "Second Half ends, Chelsea 1, Leeds United 4."
+  }
+ ],
+ "scoringPlays": []
+}

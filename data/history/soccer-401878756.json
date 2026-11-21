@@ -1,0 +1,180 @@
+{
+ "id": "soccer-401878756",
+ "sport": "soccer",
+ "league": "Premier League",
+ "start": "2026-11-21T15:00Z",
+ "home": {
+  "name": "Aston Villa",
+  "abbr": "AVL",
+  "teamId": "362",
+  "score": 0.0
+ },
+ "away": {
+  "name": "Sunderland",
+  "abbr": "SUN",
+  "teamId": "366",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+400",
+  "mlAwayOpen": "+330",
+  "mlDraw": "+295",
+  "mlHome": "-145",
+  "mlHomeOpen": "-135",
+  "provider": "DraftKings",
+  "spread": "AVL -145",
+  "spreadOpen": "AVL -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "AVL",
+   "stats": {
+    "foulsCommitted": "15",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "7",
+    "saves": "1",
+    "possessionPct": "72.5",
+    "totalShots": "19",
+    "shotsOnTarget": "7",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "625",
+    "totalPasses": "701",
+    "passPct": "0.9",
+    "accurateCrosses": "6",
+    "totalCrosses": "12",
+    "crossPct": "0.5",
+    "totalLongBalls": "39",
+    "accurateLongBalls": "17",
+    "longballPct": "0.4",
+    "blockedShots": "2",
+    "effectiveTackles": "8",
+    "totalTackles": "10",
+    "tacklePct": "0.8",
+    "interceptions": "11",
+    "effectiveClearance": "8",
+    "totalClearance": "8"
+   }
+  },
+  "away": {
+   "abbr": "SUN",
+   "stats": {
+    "foulsCommitted": "20",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "5",
+    "wonCorners": "2",
+    "saves": "8",
+    "possessionPct": "27.5",
+    "totalShots": "7",
+    "shotsOnTarget": "1",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "198",
+    "totalPasses": "263",
+    "passPct": "0.8",
+    "accurateCrosses": "1",
+    "totalCrosses": "6",
+    "crossPct": "0.2",
+    "totalLongBalls": "52",
+    "accurateLongBalls": "19",
+    "longballPct": "0.4",
+    "blockedShots": "4",
+    "effectiveTackles": "8",
+    "totalTackles": "13",
+    "tacklePct": "0.6",
+    "interceptions": "12",
+    "effectiveClearance": "30",
+    "totalClearance": "30"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "38'",
+   "team": null,
+   "text": "Trai Hume (Sunderland) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, Aston Villa 0, Sunderland 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Aston Villa 0, Sunderland 0."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "54'",
+   "team": null,
+   "text": "Leon Goretzka (Aston Villa) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "60'",
+   "team": null,
+   "text": "Substitution, Aston Villa. John McGinn replaces Johan Manzambi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "60'",
+   "team": null,
+   "text": "Substitution, Aston Villa. Ibrahim Mbaye replaces Emiliano Buendía."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "66'",
+   "team": null,
+   "text": "Ian Maatsen (Aston Villa) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Aston Villa. Ross Barkley replaces Leon Goretzka."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Aston Villa. Brian Madjo replaces Nicolas Jackson."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Sunderland. Nilson Angulo replaces Wilson Isidor."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "85'",
+   "team": null,
+   "text": "Nilson Angulo (Sunderland) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Second Half ends, Aston Villa 0, Sunderland 0."
+  }
+ ],
+ "scoringPlays": []
+}

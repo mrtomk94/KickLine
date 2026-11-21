@@ -1,0 +1,324 @@
+{
+ "id": "soccer-401876398",
+ "sport": "soccer",
+ "league": "Ligue 1",
+ "start": "2026-11-21T16:15Z",
+ "home": {
+  "name": "Nice",
+  "abbr": "NICE",
+  "teamId": "2502",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Paris Saint-Germain",
+  "abbr": "PSG",
+  "teamId": "160",
+  "score": 3.0
+ },
+ "odds": {
+  "mlAway": "-230",
+  "mlAwayOpen": "-230",
+  "mlDraw": "+425",
+  "mlHome": "+500",
+  "mlHomeOpen": "+500",
+  "provider": "DraftKings",
+  "spread": "PSG -230",
+  "spreadOpen": "PSG -1.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "NICE",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "1",
+    "saves": "2",
+    "possessionPct": "36.7",
+    "totalShots": "4",
+    "shotsOnTarget": "3",
+    "shotPct": "0.8",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "353",
+    "totalPasses": "434",
+    "passPct": "0.8",
+    "accurateCrosses": "1",
+    "totalCrosses": "11",
+    "crossPct": "0.1",
+    "totalLongBalls": "51",
+    "accurateLongBalls": "24",
+    "longballPct": "0.5",
+    "blockedShots": "1",
+    "effectiveTackles": "18",
+    "totalTackles": "22",
+    "tacklePct": "0.8",
+    "interceptions": "10",
+    "effectiveClearance": "14",
+    "totalClearance": "14"
+   }
+  },
+  "away": {
+   "abbr": "PSG",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "5",
+    "saves": "1",
+    "possessionPct": "63.3",
+    "totalShots": "14",
+    "shotsOnTarget": "5",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "705",
+    "totalPasses": "764",
+    "passPct": "0.9",
+    "accurateCrosses": "2",
+    "totalCrosses": "11",
+    "crossPct": "0.2",
+    "totalLongBalls": "34",
+    "accurateLongBalls": "16",
+    "longballPct": "0.5",
+    "blockedShots": "1",
+    "effectiveTackles": "8",
+    "totalTackles": "13",
+    "tacklePct": "0.6",
+    "interceptions": "11",
+    "effectiveClearance": "13",
+    "totalClearance": "13"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal",
+   "clock": "8'",
+   "team": null,
+   "text": "Goal! Nice 1, Paris Saint Germain 0. Mohammed Amoura (Nice) right footed shot from the centre of the box to the bottom left corner. Assisted by Jonathan Clauss."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "27'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "30'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "31'",
+   "team": null,
+   "text": "Goal! Nice 1, Paris Saint Germain 1. Senny Mayulu (Paris Saint Germain) converts the penalty with a right footed shot to the bottom left corner."
+  },
+  {
+   "type": "Goal",
+   "clock": "32'",
+   "team": null,
+   "text": "Goal! Nice 1, Paris Saint Germain 2. Désiré Doué (Paris Saint Germain) right footed shot from the left side of the six yard box to the centre of the goal. Assisted by Achraf Hakimi following a fast br"
+  },
+  {
+   "type": "Start Delay",
+   "clock": "40'",
+   "team": null,
+   "text": "Delay in match because of an injury Désiré Doué (Paris Saint Germain)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "40'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "42'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "42'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "44'",
+   "team": null,
+   "text": "Substitution, Paris Saint Germain. Ferran Torres replaces Désiré Doué because of an injury."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+8'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "54'",
+   "team": null,
+   "text": "Hicham Boudaoui (Nice) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Paris Saint Germain. Willian Pacho replaces Nuno Mendes."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Paris Saint Germain. Ousmane Dembélé replaces Senny Mayulu."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Paris Saint Germain. Mika Godts replaces Maghnes Akliouche."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Nice. Morgan Sanson replaces Sofiane Diop."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "65'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "65'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Nice. Ali Abdi replaces Xavier Mandza."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Nice. Gauthier Hein replaces Mohammed Amoura."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "75'",
+   "team": null,
+   "text": "Alidu Seidu (Nice) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "77'",
+   "team": null,
+   "text": "Delay in match because of an injury Matvey Safonov (Paris Saint Germain)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "77'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Nice. Djibril Coulibaly replaces Axel Witsel."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Nice. Nathan Ngoumou replaces Elye Wahi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Paris Saint Germain. Marquinhos replaces Lucas Hernández."
+  },
+  {
+   "type": "End Delay",
+   "clock": "79'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "79'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "82'",
+   "team": null,
+   "text": "Delay in match (Paris Saint Germain)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "82'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "82'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "82'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "85'",
+   "team": null,
+   "text": "Goal! Nice 1, Paris Saint Germain 3. Ferran Torres (Paris Saint Germain) right footed shot from the centre of the box to the centre of the goal. Assisted by Ousmane Dembélé."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Goal! Nice 2, Paris Saint Germain 3. Ali Abdi (Nice) left footed shot from the centre of the box to the centre of the goal. Assisted by Jonathan Clauss."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+7'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

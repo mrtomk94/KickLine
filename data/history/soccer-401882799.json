@@ -1,0 +1,210 @@
+{
+ "id": "soccer-401882799",
+ "sport": "soccer",
+ "league": "LaLiga",
+ "start": "2026-11-21T15:15Z",
+ "home": {
+  "name": "Rayo Vallecano",
+  "abbr": "RAY",
+  "teamId": "101",
+  "score": 0.0
+ },
+ "away": {
+  "name": "Valencia",
+  "abbr": "VAL",
+  "teamId": "94",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+295",
+  "mlAwayOpen": "+275",
+  "mlDraw": "+240",
+  "mlHome": "+100",
+  "mlHomeOpen": "-105",
+  "provider": "DraftKings",
+  "spread": "RAY +100",
+  "spreadOpen": "RAY -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "RAY",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "8",
+    "saves": "1",
+    "possessionPct": "63.9",
+    "totalShots": "21",
+    "shotsOnTarget": "5",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "456",
+    "totalPasses": "529",
+    "passPct": "0.9",
+    "accurateCrosses": "6",
+    "totalCrosses": "36",
+    "crossPct": "0.2",
+    "totalLongBalls": "52",
+    "accurateLongBalls": "31",
+    "longballPct": "0.6",
+    "blockedShots": "8",
+    "effectiveTackles": "9",
+    "totalTackles": "13",
+    "tacklePct": "0.7",
+    "interceptions": "6",
+    "effectiveClearance": "13",
+    "totalClearance": "13"
+   }
+  },
+  "away": {
+   "abbr": "VAL",
+   "stats": {
+    "foulsCommitted": "17",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "5",
+    "saves": "5",
+    "possessionPct": "36.1",
+    "totalShots": "11",
+    "shotsOnTarget": "2",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "242",
+    "totalPasses": "305",
+    "passPct": "0.8",
+    "accurateCrosses": "4",
+    "totalCrosses": "10",
+    "crossPct": "0.4",
+    "totalLongBalls": "54",
+    "accurateLongBalls": "18",
+    "longballPct": "0.3",
+    "blockedShots": "4",
+    "effectiveTackles": "7",
+    "totalTackles": "18",
+    "tacklePct": "0.4",
+    "interceptions": "9",
+    "effectiveClearance": "46",
+    "totalClearance": "46"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "41'",
+   "team": null,
+   "text": "Goal! Rayo Vallecano 0, Valencia 1. Copete (Valencia) header from the centre of the box to the bottom right corner. Assisted by Javi Guerra with a cross following a corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "Sergio Camello (Rayo Vallecano) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": "First Half ends, Rayo Vallecano 0, Valencia 1."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Rayo Vallecano 0, Valencia 1."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Rayo Vallecano. Adrià Pedrosa replaces Giorgi Tsitaishvili."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Rayo Vallecano. Pedro Díaz replaces Randy Nteka."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "64'",
+   "team": null,
+   "text": "Javi Guerra (Valencia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "69'",
+   "team": null,
+   "text": "Substitution, Valencia. Filip Ugrinic replaces Dani Raba."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Rayo Vallecano. Álvaro García replaces Mujaid Sadick."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Rayo Vallecano. Alemão replaces Isi Palazón."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "71'",
+   "team": null,
+   "text": "Jorge de Frutos (Rayo Vallecano) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Valencia. Mouctar Diakhaby replaces Copete."
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Rayo Vallecano. Gnangoro replaces Unai López."
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, Valencia. Aaron Mayol replaces Guido Rodríguez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, Valencia. Hugo Duro replaces Umar Sadiq."
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, Valencia. Aliou Dieng replaces Javi Guerra."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Second Half ends, Rayo Vallecano 0, Valencia 1."
+  }
+ ],
+ "scoringPlays": []
+}

@@ -1,0 +1,300 @@
+{
+ "id": "soccer-401874967",
+ "sport": "soccer",
+ "league": "Serie A",
+ "start": "2026-11-21T17:00Z",
+ "home": {
+  "name": "Parma",
+  "abbr": "PAR",
+  "teamId": "115",
+  "score": 1.0
+ },
+ "away": {
+  "name": "AS Roma",
+  "abbr": "ROMA",
+  "teamId": "104",
+  "score": 5.0
+ },
+ "odds": {
+  "mlAway": "-475",
+  "mlAwayOpen": "-320",
+  "mlDraw": "+500",
+  "mlHome": "+950",
+  "mlHomeOpen": "+650",
+  "provider": "DraftKings",
+  "spread": "ROMA -475",
+  "spreadOpen": "ROMA -1.5",
+  "total": "3.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "PAR",
+   "stats": {
+    "foulsCommitted": "6",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "4",
+    "wonCorners": "3",
+    "saves": "4",
+    "possessionPct": "31.2",
+    "totalShots": "17",
+    "shotsOnTarget": "6",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "202",
+    "totalPasses": "283",
+    "passPct": "0.7",
+    "accurateCrosses": "7",
+    "totalCrosses": "13",
+    "crossPct": "0.5",
+    "totalLongBalls": "43",
+    "accurateLongBalls": "17",
+    "longballPct": "0.4",
+    "blockedShots": "6",
+    "effectiveTackles": "8",
+    "totalTackles": "10",
+    "tacklePct": "0.8",
+    "interceptions": "7",
+    "effectiveClearance": "25",
+    "totalClearance": "25"
+   }
+  },
+  "away": {
+   "abbr": "ROMA",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "5",
+    "wonCorners": "8",
+    "saves": "5",
+    "possessionPct": "68.8",
+    "totalShots": "19",
+    "shotsOnTarget": "9",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "554",
+    "totalPasses": "642",
+    "passPct": "0.9",
+    "accurateCrosses": "4",
+    "totalCrosses": "18",
+    "crossPct": "0.2",
+    "totalLongBalls": "43",
+    "accurateLongBalls": "18",
+    "longballPct": "0.4",
+    "blockedShots": "5",
+    "effectiveTackles": "6",
+    "totalTackles": "9",
+    "tacklePct": "0.7",
+    "interceptions": "14",
+    "effectiveClearance": "21",
+    "totalClearance": "21"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "4'",
+   "team": null,
+   "text": "Delay in match because of an injury Mile Svilar (Roma)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "4'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "5'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "5'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "37'",
+   "team": null,
+   "text": "Delay in match because of an injury Giovanni Daffara (Parma)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "37'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "38'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "38'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "39'",
+   "team": null,
+   "text": "Goal! Parma 0, Roma 1. Donyell Malen (Roma) right footed shot from the centre of the box to the bottom left corner. Assisted by Emanuele Lulli with a cross following a set piece situation."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "42'",
+   "team": null,
+   "text": "Delay in match because of an injury Gianluca Mancini (Roma)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "42'",
+   "team": null,
+   "text": "Delay in match because of an injury El Bilal Touré (Parma)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "43'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "43'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "43'",
+   "team": null,
+   "text": "Emanuele Valeri (Parma) is shown the yellow card."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": "First Half ends, Parma 0, Roma 1."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "54'",
+   "team": null,
+   "text": "Goal! Parma 1, Roma 1. Nesta Elphege (Parma) left footed shot from outside the box to the bottom left corner. Assisted by Mariano Troilo following a fast break."
+  },
+  {
+   "type": "Substitution",
+   "clock": "56'",
+   "team": null,
+   "text": "Substitution, Roma. Wesley replaces Emanuele Lulli."
+  },
+  {
+   "type": "Substitution",
+   "clock": "56'",
+   "team": null,
+   "text": "Substitution, Roma. Evan Ndicka replaces Leonardo Balerdi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Roma. Matías Soulé replaces Paulo Dybala."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Parma. Simone Lontani replaces El Bilal Touré."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Parma. Christian Ordóñez replaces Giovanni Fabbian."
+  },
+  {
+   "type": "Goal",
+   "clock": "68'",
+   "team": null,
+   "text": "Goal! Parma 1, Roma 2. Donyell Malen (Roma) right footed shot from the centre of the box to the bottom left corner."
+  },
+  {
+   "type": "Goal",
+   "clock": "71'",
+   "team": null,
+   "text": "Goal! Parma 1, Roma 3. Rodrigo Mora (Roma) right footed shot from the centre of the box to the centre of the goal."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Parma. Hans Nicolussi Caviglia replaces Vincent Sierro."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Parma. Ousmane Diallo replaces Sascha Britschgi."
+  },
+  {
+   "type": "Goal",
+   "clock": "77'",
+   "team": null,
+   "text": "Goal! Parma 1, Roma 4. Donyell Malen (Roma) right footed shot from the centre of the box to the top left corner. Assisted by Wesley with a cross."
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, Roma. Konstantinos Koulierakis replaces Nahuel Molina."
+  },
+  {
+   "type": "Substitution",
+   "clock": "84'",
+   "team": null,
+   "text": "Substitution, Roma. Niccolò Pisilli replaces Rodrigo Mora."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'",
+   "team": null,
+   "text": "Substitution, Parma. Thomás de Martis replaces Nesta Elphege."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'",
+   "team": null,
+   "text": "Goal! Parma 1, Roma 5. Donyell Malen (Roma) right footed shot from a difficult angle on the left to the bottom left corner. Assisted by Wesley following a fast break."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+3'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

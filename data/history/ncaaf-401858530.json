@@ -1,0 +1,120 @@
+{
+ "id": "ncaaf-401858530",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T17:00Z",
+ "home": {
+  "name": "Minnesota Golden Gophers",
+  "abbr": "MINN",
+  "teamId": "135",
+  "score": 20.0
+ },
+ "away": {
+  "name": "Northwestern Wildcats",
+  "abbr": "NU",
+  "teamId": "77",
+  "score": 17.0
+ },
+ "odds": {
+  "mlAway": "-148",
+  "mlAwayOpen": "-148",
+  "mlHome": "+124",
+  "mlHomeOpen": "+124",
+  "provider": "DraftKings",
+  "spread": "NU -3",
+  "spreadOpen": "NU -3",
+  "total": "41.5",
+  "totalOpen": "43.5"
+ },
+ "espnWinProb": {
+  "away": 78.2,
+  "home": 21.8
+ },
+ "teams": {
+  "away": {
+   "abbr": "NU",
+   "stats": {
+    "firstDowns": "18",
+    "thirdDownEff": "5-12",
+    "fourthDownEff": "1-1",
+    "totalYards": "365",
+    "netPassingYards": "169",
+    "completionAttempts": "13/23",
+    "yardsPerPass": "7.3",
+    "rushingYards": "196",
+    "rushingAttempts": "36",
+    "yardsPerRushAttempt": "5.4",
+    "totalPenaltiesYards": "6-25",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "25:47"
+   }
+  },
+  "home": {
+   "abbr": "MINN",
+   "stats": {
+    "firstDowns": "22",
+    "thirdDownEff": "4-12",
+    "fourthDownEff": "1-1",
+    "totalYards": "379",
+    "netPassingYards": "224",
+    "completionAttempts": "23/38",
+    "yardsPerPass": "5.9",
+    "rushingYards": "155",
+    "rushingAttempts": "28",
+    "yardsPerRushAttempt": "5.5",
+    "totalPenaltiesYards": "2-15",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "34:13"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 2,
+   "clock": "2:02",
+   "team": "NU",
+   "text": "Griffin Wilde 49 Yd pass from Nicco Marchiol (Jackson Kleather Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "11:10",
+   "team": "MINN",
+   "text": "Noah Jennings 9 Yd pass from Drake Lindsey (Luke Drzewiecki Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "6:43",
+   "team": "MINN",
+   "text": "Jalen Smith 14 Yd pass from Drake Lindsey (Luke Drzewiecki Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "1:28",
+   "team": "NU",
+   "text": "Jackson Kleather 42 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "13:01",
+   "team": "MINN",
+   "text": "Luke Drzewiecki 49 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "0:27",
+   "team": "NU",
+   "text": "Nicco Marchiol 7 Yd Run (Jackson Kleather Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "0:01",
+   "team": "MINN",
+   "text": "Luke Drzewiecki 44 Yd Field Goal  "
+  }
+ ]
+}

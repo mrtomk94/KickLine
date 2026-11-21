@@ -1,0 +1,150 @@
+{
+ "id": "ncaaf-401862834",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T17:00Z",
+ "home": {
+  "name": "Navy Midshipmen",
+  "abbr": "NAVY",
+  "teamId": "2426",
+  "score": 38.0
+ },
+ "away": {
+  "name": "Memphis Tigers",
+  "abbr": "MEM",
+  "teamId": "235",
+  "score": 34.0
+ },
+ "odds": {
+  "mlAway": "-142",
+  "mlAwayOpen": "-166",
+  "mlHome": "+120",
+  "mlHomeOpen": "+140",
+  "provider": "DraftKings",
+  "spread": "MEM -2.5",
+  "spreadOpen": "MEM -3",
+  "total": "68.5",
+  "totalOpen": "64.5"
+ },
+ "espnWinProb": {
+  "away": 62.9,
+  "home": 37.1
+ },
+ "teams": {
+  "away": {
+   "abbr": "MEM",
+   "stats": {
+    "firstDowns": "21",
+    "thirdDownEff": "3-15",
+    "fourthDownEff": "1-1",
+    "totalYards": "528",
+    "netPassingYards": "202",
+    "completionAttempts": "18/33",
+    "yardsPerPass": "6.1",
+    "rushingYards": "326",
+    "rushingAttempts": "41",
+    "yardsPerRushAttempt": "8.0",
+    "totalPenaltiesYards": "6-50",
+    "turnovers": "3",
+    "fumblesLost": "2",
+    "interceptions": "1",
+    "possessionTime": "29:58"
+   }
+  },
+  "home": {
+   "abbr": "NAVY",
+   "stats": {
+    "firstDowns": "20",
+    "thirdDownEff": "3-12",
+    "fourthDownEff": "1-1",
+    "totalYards": "445",
+    "netPassingYards": "110",
+    "completionAttempts": "4/11",
+    "yardsPerPass": "10.0",
+    "rushingYards": "335",
+    "rushingAttempts": "54",
+    "yardsPerRushAttempt": "6.2",
+    "totalPenaltiesYards": "5-33",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "30:02"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "10:35",
+   "team": "NAVY",
+   "text": "Mi. Barrow run for 10 yds, for a TD (N. Bartley KICK)"
+  },
+  {
+   "period": 1,
+   "clock": "0:46",
+   "team": "MEM",
+   "text": "J. Carter run for 68 yds, for a TD (P. Laforge KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "9:01",
+   "team": "NAVY",
+   "text": "J. Gutierrez run for 1 yd, for a TD (N. Bartley KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "5:02",
+   "team": "MEM",
+   "text": "P. Laforge 48 yd FG GOOD"
+  },
+  {
+   "period": 2,
+   "clock": "0:01",
+   "team": "NAVY",
+   "text": "N. Bartley 26 yd FG GOOD"
+  },
+  {
+   "period": 3,
+   "clock": "8:40",
+   "team": "MEM",
+   "text": "M. Covey run for 24 yds, for a TD (P. Laforge KICK)"
+  },
+  {
+   "period": 3,
+   "clock": "2:51",
+   "team": "MEM",
+   "text": "J. Carter run for 21 yds, for a TD (P. Laforge KICK)"
+  },
+  {
+   "period": 3,
+   "clock": "2:18",
+   "team": "MEM",
+   "text": "P. Laforge 47 yd FG GOOD"
+  },
+  {
+   "period": 3,
+   "clock": "1:33",
+   "team": "NAVY",
+   "text": "J. Gutierrez pass to Cha. Robinson for 72 yds, for a TD (N. Bartley KICK)"
+  },
+  {
+   "period": 4,
+   "clock": "12:38",
+   "team": "MEM",
+   "text": "J. Carter run for 1 yd, for a TD (P. Laforge KICK)"
+  },
+  {
+   "period": 4,
+   "clock": "6:57",
+   "team": "NAVY",
+   "text": "J. Gutierrez run for 68 yds, for a TD (N. Bartley KICK)"
+  },
+  {
+   "period": 4,
+   "clock": "0:15",
+   "team": "NAVY",
+   "text": "V. Listorti run for 6 yds, for a TD (N. Bartley KICK)"
+  }
+ ]
+}

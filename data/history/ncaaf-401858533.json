@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401858533",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T17:00Z",
+ "home": {
+  "name": "Purdue Boilermakers",
+  "abbr": "PUR",
+  "teamId": "2509",
+  "score": 10.0
+ },
+ "away": {
+  "name": "Wisconsin Badgers",
+  "abbr": "WIS",
+  "teamId": "275",
+  "score": 42.0
+ },
+ "odds": {
+  "mlAway": "-205",
+  "mlAwayOpen": "-218",
+  "mlHome": "+170",
+  "mlHomeOpen": "+180",
+  "provider": "DraftKings",
+  "spread": "WIS -4.5",
+  "spreadOpen": "WIS -6",
+  "total": "46.5",
+  "totalOpen": "44.5"
+ },
+ "espnWinProb": {
+  "away": 64.8,
+  "home": 35.2
+ },
+ "teams": {
+  "away": {
+   "abbr": "WIS",
+   "stats": {
+    "firstDowns": "26",
+    "thirdDownEff": "12-16",
+    "fourthDownEff": "1-1",
+    "totalYards": "508",
+    "netPassingYards": "127",
+    "completionAttempts": "13/19",
+    "yardsPerPass": "6.7",
+    "rushingYards": "381",
+    "rushingAttempts": "51",
+    "yardsPerRushAttempt": "7.5",
+    "totalPenaltiesYards": "8-95",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "35:42"
+   }
+  },
+  "home": {
+   "abbr": "PUR",
+   "stats": {
+    "firstDowns": "17",
+    "thirdDownEff": "6-14",
+    "fourthDownEff": "2-3",
+    "totalYards": "199",
+    "netPassingYards": "133",
+    "completionAttempts": "13/34",
+    "yardsPerPass": "3.9",
+    "rushingYards": "66",
+    "rushingAttempts": "22",
+    "yardsPerRushAttempt": "3.0",
+    "totalPenaltiesYards": "6-74",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "24:18"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "8:01",
+   "team": "WIS",
+   "text": "E. Hilton Jr. run for 24 yds, for a TD (G. Lahm KICK)"
+  },
+  {
+   "period": 1,
+   "clock": "2:57",
+   "team": "WIS",
+   "text": "C. Joseph run for 32 yds, for a TD (G. Lahm KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "14:55",
+   "team": "PUR",
+   "text": "J. Echeverria Lozano 53 yd FG GOOD"
+  },
+  {
+   "period": 2,
+   "clock": "14:03",
+   "team": "WIS",
+   "text": "D. Dupree run for 49 yds, for a TD (G. Lahm KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "6:53",
+   "team": "PUR",
+   "text": "F. Ijeboi run for 1 yd, for a TD (J. Echeverria Lozano KICK)"
+  },
+  {
+   "period": 3,
+   "clock": "5:35",
+   "team": "WIS",
+   "text": "D. Dupree run for 1 yd, for a TD (G. Lahm KICK)"
+  },
+  {
+   "period": 4,
+   "clock": "10:59",
+   "team": "WIS",
+   "text": "E. Hilton Jr. pass to C. Joseph for 13 yds, for a TD (G. Lahm KICK)"
+  },
+  {
+   "period": 4,
+   "clock": "6:07",
+   "team": "WIS",
+   "text": "C. Joseph run for 66 yds, for a TD (G. Lahm KICK)"
+  }
+ ]
+}

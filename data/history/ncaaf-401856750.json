@@ -1,0 +1,138 @@
+{
+ "id": "ncaaf-401856750",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T18:00Z",
+ "home": {
+  "name": "Mississippi State Bulldogs",
+  "abbr": "MSST",
+  "teamId": "344",
+  "score": 34.0
+ },
+ "away": {
+  "name": "Tennessee Tech Golden Eagles",
+  "abbr": "TNTC",
+  "teamId": "2635",
+  "score": 16.0
+ },
+ "odds": {
+  "mlAway": "+1200",
+  "mlAwayOpen": "+2500",
+  "mlHome": "-2400",
+  "mlHomeOpen": "-9000",
+  "provider": "DraftKings",
+  "spread": "MSST -29.5",
+  "spreadOpen": "MSST -35.5",
+  "total": "59.5",
+  "totalOpen": "59.5"
+ },
+ "espnWinProb": {
+  "away": 5.3,
+  "home": 94.7
+ },
+ "teams": {
+  "away": {
+   "abbr": "TNTC",
+   "stats": {
+    "firstDowns": "18",
+    "thirdDownEff": "6-16",
+    "fourthDownEff": "2-4",
+    "totalYards": "322",
+    "netPassingYards": "254",
+    "completionAttempts": "29/43",
+    "yardsPerPass": "5.9",
+    "rushingYards": "68",
+    "rushingAttempts": "28",
+    "yardsPerRushAttempt": "2.4",
+    "totalPenaltiesYards": "5-52",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "40:59"
+   }
+  },
+  "home": {
+   "abbr": "MSST",
+   "stats": {
+    "firstDowns": "19",
+    "thirdDownEff": "2-6",
+    "fourthDownEff": "0-1",
+    "totalYards": "458",
+    "netPassingYards": "232",
+    "completionAttempts": "17/25",
+    "yardsPerPass": "9.3",
+    "rushingYards": "226",
+    "rushingAttempts": "25",
+    "yardsPerRushAttempt": "9.0",
+    "totalPenaltiesYards": "7-73",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "interceptions": "1",
+    "possessionTime": "19:01"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "6:54",
+   "team": "TNTC",
+   "text": "Ca. Brown 24 yd FG GOOD"
+  },
+  {
+   "period": 1,
+   "clock": "2:12",
+   "team": "MSST",
+   "text": "K. Wilson run for 1 yd, for a TD (K. Ferrie KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "10:29",
+   "team": "TNTC",
+   "text": "J. Leatherwood pass to M. Sullivan for 4 yds, for a TD (Ca. Brown KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "9:26",
+   "team": "MSST",
+   "text": "P. Puckett pass to A. Evans III for 53 yds, for a TD (K. Ferrie KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "5:39",
+   "team": "MSST",
+   "text": "K. Ferrie 48 yd FG GOOD"
+  },
+  {
+   "period": 2,
+   "clock": "0:03",
+   "team": "MSST",
+   "text": "K. Ferrie 36 yd FG GOOD"
+  },
+  {
+   "period": 3,
+   "clock": "6:45",
+   "team": "MSST",
+   "text": "P. Puckett pass to M. Johnson for 41 yds, for a TD (K. Ferrie KICK)"
+  },
+  {
+   "period": 4,
+   "clock": "14:47",
+   "team": "MSST",
+   "text": "X. Gayten run for 90 yds, for a TD (K. Ferrie KICK)"
+  },
+  {
+   "period": 4,
+   "clock": "9:36",
+   "team": "TNTC",
+   "text": "Ca. Brown 30 yd FG GOOD"
+  },
+  {
+   "period": 4,
+   "clock": "1:57",
+   "team": "TNTC",
+   "text": "Ca. Brown 20 yd FG GOOD"
+  }
+ ]
+}

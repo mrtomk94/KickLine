@@ -1,0 +1,270 @@
+{
+ "id": "soccer-401874981",
+ "sport": "soccer",
+ "league": "Serie A",
+ "start": "2026-11-21T14:00Z",
+ "home": {
+  "name": "Lazio",
+  "abbr": "LAZ",
+  "teamId": "112",
+  "score": 3.0
+ },
+ "away": {
+  "name": "Lecce",
+  "abbr": "LEC",
+  "teamId": "113",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+500",
+  "mlAwayOpen": "+600",
+  "mlDraw": "+330",
+  "mlHome": "-220",
+  "mlHomeOpen": "-310",
+  "provider": "DraftKings",
+  "spread": "LAZ -220",
+  "spreadOpen": "LAZ -1.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "LAZ",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "7",
+    "wonCorners": "9",
+    "saves": "2",
+    "possessionPct": "61.4",
+    "totalShots": "10",
+    "shotsOnTarget": "6",
+    "shotPct": "0.6",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "406",
+    "totalPasses": "499",
+    "passPct": "0.8",
+    "accurateCrosses": "7",
+    "totalCrosses": "27",
+    "crossPct": "0.3",
+    "totalLongBalls": "58",
+    "accurateLongBalls": "24",
+    "longballPct": "0.4",
+    "blockedShots": "1",
+    "effectiveTackles": "6",
+    "totalTackles": "12",
+    "tacklePct": "0.5",
+    "interceptions": "8",
+    "effectiveClearance": "15",
+    "totalClearance": "15"
+   }
+  },
+  "away": {
+   "abbr": "LEC",
+   "stats": {
+    "foulsCommitted": "13",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "3",
+    "saves": "3",
+    "possessionPct": "38.6",
+    "totalShots": "10",
+    "shotsOnTarget": "2",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "231",
+    "totalPasses": "319",
+    "passPct": "0.7",
+    "accurateCrosses": "5",
+    "totalCrosses": "12",
+    "crossPct": "0.4",
+    "totalLongBalls": "57",
+    "accurateLongBalls": "12",
+    "longballPct": "0.2",
+    "blockedShots": "1",
+    "effectiveTackles": "17",
+    "totalTackles": "28",
+    "tacklePct": "0.6",
+    "interceptions": "12",
+    "effectiveClearance": "27",
+    "totalClearance": "27"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "25'",
+   "team": null,
+   "text": "Goal! Lazio 1, Lecce 0. Tijjani Noslin (Lazio) header from the centre of the box to the bottom right corner. Assisted by Gustav Isaksen with a cross."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "45'",
+   "team": null,
+   "text": "Delay in match because of an injury Youssef Maleh (Lecce)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "45'+1'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, Lazio 1, Lecce 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "50'",
+   "team": null,
+   "text": "Jamil Siebert (Lecce) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "51'",
+   "team": null,
+   "text": "Delay in match because of an injury Danilo Veiga (Lecce)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "51'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "52'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "52'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Lecce. Oumar Ngom replaces Mohamed Kaba."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Lecce. Paco Esteban replaces Willem Geubbels."
+  },
+  {
+   "type": "Goal",
+   "clock": "68'",
+   "team": null,
+   "text": "Goal! Lazio 2, Lecce 0. Tijjani Noslin (Lazio) left footed shot from the centre of the box to the bottom left corner. Assisted by Kenneth Taylor."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Lecce. Joël Monteiro replaces Youssef Maleh."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "77'",
+   "team": null,
+   "text": "Danilo Veiga (Lecce) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Lazio. Luca Pellegrini replaces Alfonso Pedraza."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Lazio. Matteo Cancellieri replaces Gustav Isaksen."
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, Lazio. Nicolò Rovella replaces Reda Belahyane."
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, Lazio. Fisayo Dele-Bashiru replaces Tijjani Noslin."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Lecce. Nikola Stulic replaces Konan N’Dri."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Lecce. Sadik Fofana replaces Lassana Coulibaly."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "87'",
+   "team": null,
+   "text": "Luca Pellegrini (Lazio) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "88'",
+   "team": null,
+   "text": "Substitution, Lazio. Albert Gudmundsson replaces Andrea Pinamonti."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'",
+   "team": null,
+   "text": "Goal! Lazio 3, Lecce 0. Davide Frattesi (Lazio) left footed shot from outside the box to the bottom right corner. Assisted by Matteo Cancellieri with a headed pass following a fast break."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+4'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

@@ -1,0 +1,228 @@
+{
+ "id": "soccer-401879235",
+ "sport": "soccer",
+ "league": "Premier League",
+ "start": "2026-11-21T15:00Z",
+ "home": {
+  "name": "Coventry City",
+  "abbr": "COV",
+  "teamId": "388",
+  "score": 3.0
+ },
+ "away": {
+  "name": "Crystal Palace",
+  "abbr": "CRY",
+  "teamId": "384",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "+170",
+  "mlAwayOpen": "+175",
+  "mlDraw": "+250",
+  "mlHome": "+155",
+  "mlHomeOpen": "+135",
+  "provider": "DraftKings",
+  "spread": "COV +155",
+  "spreadOpen": "COV -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "COV",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "4",
+    "saves": "3",
+    "possessionPct": "41.7",
+    "totalShots": "11",
+    "shotsOnTarget": "7",
+    "shotPct": "0.6",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "267",
+    "totalPasses": "326",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "12",
+    "crossPct": "0.3",
+    "totalLongBalls": "46",
+    "accurateLongBalls": "17",
+    "longballPct": "0.4",
+    "blockedShots": "3",
+    "effectiveTackles": "8",
+    "totalTackles": "12",
+    "tacklePct": "0.7",
+    "interceptions": "6",
+    "effectiveClearance": "44",
+    "totalClearance": "44"
+   }
+  },
+  "away": {
+   "abbr": "CRY",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "6",
+    "saves": "4",
+    "possessionPct": "58.3",
+    "totalShots": "14",
+    "shotsOnTarget": "5",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "367",
+    "totalPasses": "450",
+    "passPct": "0.8",
+    "accurateCrosses": "7",
+    "totalCrosses": "23",
+    "crossPct": "0.3",
+    "totalLongBalls": "63",
+    "accurateLongBalls": "27",
+    "longballPct": "0.4",
+    "blockedShots": "4",
+    "effectiveTackles": "12",
+    "totalTackles": "20",
+    "tacklePct": "0.6",
+    "interceptions": "6",
+    "effectiveClearance": "24",
+    "totalClearance": "24"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal",
+   "clock": "5'",
+   "team": null,
+   "text": "Goal! Coventry City 1, Crystal Palace 0. Taiwo Awoniyi (Coventry City) right footed shot from the centre of the box to the bottom right corner. Assisted by Jack Rudoni."
+  },
+  {
+   "type": "Goal",
+   "clock": "13'",
+   "team": null,
+   "text": "Goal! Coventry City 1, Crystal Palace 1. Yéremy Pino (Crystal Palace) left footed shot from the centre of the box to the high centre of the goal. Assisted by Jørgen Strand Larsen."
+  },
+  {
+   "type": "Goal",
+   "clock": "30'",
+   "team": null,
+   "text": "Goal! Coventry City 2, Crystal Palace 1. Tatsuhiro Sakamoto (Coventry City) left footed shot from outside the box to the top right corner. Assisted by Jack Rudoni following a fast break."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "36'",
+   "team": null,
+   "text": "Adam Wharton (Crystal Palace) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "Goal! Coventry City 2, Crystal Palace 2. Jørgen Strand Larsen (Crystal Palace) header from the centre of the box to the bottom right corner. Assisted by Yéremy Pino."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+4'",
+   "team": null,
+   "text": "First Half ends, Coventry City 2, Crystal Palace 2."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Coventry City. Sidiki Cherif replaces Taiwo Awoniyi because of an injury."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Coventry City 2, Crystal Palace 2."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "61'",
+   "team": null,
+   "text": "Matt Grimes (Coventry City) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Coventry City. Brandon Thomas-Asante replaces Yann Gboho."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Coventry City. Gustavo Hamer replaces Victor Torp."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Coventry City. Frank Onyeka replaces Matt Grimes."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Crystal Palace. Jefferson Lerma replaces Quinten Timber."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Crystal Palace. Jaydee Canvot replaces Anan Khalaili."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "75'",
+   "team": null,
+   "text": "Yéremy Pino (Crystal Palace) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Crystal Palace. Eddie Nketiah replaces Jørgen Strand Larsen."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Crystal Palace. Evann Guessand replaces Yéremy Pino."
+  },
+  {
+   "type": "Own Goal",
+   "clock": "85'",
+   "team": null,
+   "text": "Own Goal by Dwight McNeil, Crystal Palace. Coventry City 3, Crystal Palace 2."
+  },
+  {
+   "type": "Substitution",
+   "clock": "89'",
+   "team": null,
+   "text": "Substitution, Crystal Palace. Darío Osorio replaces Dwight McNeil."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Second Half ends, Coventry City 3, Crystal Palace 2."
+  }
+ ],
+ "scoringPlays": []
+}

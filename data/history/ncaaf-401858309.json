@@ -1,0 +1,132 @@
+{
+ "id": "ncaaf-401858309",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T17:00Z",
+ "home": {
+  "name": "Boston College Eagles",
+  "abbr": "BC",
+  "teamId": "103",
+  "score": 27.0
+ },
+ "away": {
+  "name": "Syracuse Orange",
+  "abbr": "SYR",
+  "teamId": "183",
+  "score": 15.0
+ },
+ "odds": {
+  "mlAway": "-155",
+  "mlAwayOpen": "-166",
+  "mlHome": "+130",
+  "mlHomeOpen": "+140",
+  "provider": "DraftKings",
+  "spread": "SYR -3",
+  "spreadOpen": "SYR -3.5",
+  "total": "52.5",
+  "totalOpen": "50.5"
+ },
+ "espnWinProb": {
+  "away": 64.1,
+  "home": 35.9
+ },
+ "teams": {
+  "away": {
+   "abbr": "SYR",
+   "stats": {
+    "firstDowns": "28",
+    "thirdDownEff": "7-16",
+    "fourthDownEff": "0-2",
+    "totalYards": "530",
+    "netPassingYards": "406",
+    "completionAttempts": "28/53",
+    "yardsPerPass": "7.7",
+    "rushingYards": "124",
+    "rushingAttempts": "28",
+    "yardsPerRushAttempt": "4.4",
+    "totalPenaltiesYards": "11-85",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "30:18"
+   }
+  },
+  "home": {
+   "abbr": "BC",
+   "stats": {
+    "firstDowns": "19",
+    "thirdDownEff": "5-13",
+    "fourthDownEff": "0-0",
+    "totalYards": "399",
+    "netPassingYards": "131",
+    "completionAttempts": "14/24",
+    "yardsPerPass": "5.5",
+    "rushingYards": "268",
+    "rushingAttempts": "36",
+    "yardsPerRushAttempt": "7.4",
+    "totalPenaltiesYards": "10-86",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "29:42"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "12:43",
+   "team": "BC",
+   "text": "Zeke Moore 6 Yd pass from Mason McKenzie (Luca Lombardo Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "1:26",
+   "team": "SYR",
+   "text": "Tripp Woody 24 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "11:04",
+   "team": "BC",
+   "text": "Luca Lombardo 46 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "0:00",
+   "team": "BC",
+   "text": "Luca Lombardo 32 Yd Field Goal "
+  },
+  {
+   "period": 3,
+   "clock": "10:49",
+   "team": "SYR",
+   "text": "Tripp Woody 50 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "7:05",
+   "team": "SYR",
+   "text": "Tripp Woody 24 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "3:17",
+   "team": "BC",
+   "text": "Bo MacCormack III 56 Yd Run (Luca Lombardo Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "14:55",
+   "team": "SYR",
+   "text": "Umari Hatcher 27 Yd pass from Malachi Nelson (Two-Point Pass Conversion Failed)"
+  },
+  {
+   "period": 4,
+   "clock": "8:36",
+   "team": "BC",
+   "text": "Nedrick Boldin Jr. 22 Yd pass from Mason McKenzie (Luca Lombardo Kick)"
+  }
+ ]
+}

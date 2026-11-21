@@ -1,0 +1,156 @@
+{
+ "id": "ncaaf-401856866",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T17:00Z",
+ "home": {
+  "name": "Kansas Jayhawks",
+  "abbr": "KU",
+  "teamId": "2305",
+  "score": 29.0
+ },
+ "away": {
+  "name": "#10 BYU",
+  "abbr": "BYU",
+  "teamId": "252",
+  "score": 31.0
+ },
+ "odds": {
+  "mlAway": "-198",
+  "mlAwayOpen": "-258",
+  "mlHome": "+164",
+  "mlHomeOpen": "+210",
+  "provider": "DraftKings",
+  "spread": "BYU -4.5",
+  "spreadOpen": "BYU -7",
+  "total": "46.5",
+  "totalOpen": "50.5"
+ },
+ "espnWinProb": {
+  "away": 70.6,
+  "home": 29.4
+ },
+ "teams": {
+  "away": {
+   "abbr": "BYU",
+   "stats": {
+    "firstDowns": "21",
+    "thirdDownEff": "8-15",
+    "fourthDownEff": "2-2",
+    "totalYards": "381",
+    "netPassingYards": "173",
+    "completionAttempts": "15/26",
+    "yardsPerPass": "6.7",
+    "rushingYards": "208",
+    "rushingAttempts": "47",
+    "yardsPerRushAttempt": "4.4",
+    "totalPenaltiesYards": "0-0",
+    "turnovers": "2",
+    "fumblesLost": "2",
+    "interceptions": "0",
+    "possessionTime": "32:45"
+   }
+  },
+  "home": {
+   "abbr": "KU",
+   "stats": {
+    "firstDowns": "19",
+    "thirdDownEff": "5-15",
+    "fourthDownEff": "3-3",
+    "totalYards": "359",
+    "netPassingYards": "205",
+    "completionAttempts": "21/29",
+    "yardsPerPass": "7.1",
+    "rushingYards": "154",
+    "rushingAttempts": "38",
+    "yardsPerRushAttempt": "4.1",
+    "totalPenaltiesYards": "0-0",
+    "turnovers": "2",
+    "fumblesLost": "0",
+    "interceptions": "2",
+    "possessionTime": "27:15"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "2:50",
+   "team": "KU",
+   "text": "Martin Connington 28 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "5:45",
+   "team": "BYU",
+   "text": "Matthias Dunn 52 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "0:01",
+   "team": "KU",
+   "text": "Martin Connington 24 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "12:19",
+   "team": "BYU",
+   "text": "Matthias Dunn 36 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "8:32",
+   "team": "BYU",
+   "text": "Matthias Dunn 26 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "3:12",
+   "team": "BYU",
+   "text": "Bear Bachmeier 7 Yd Run (Matthias Dunn Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "12:10",
+   "team": "KU",
+   "text": "Martin Connington 26 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "4:03",
+   "team": "KU",
+   "text": "Cam Pickett 24 Yd pass from Isaiah Marshall (Martin Connington Kick)"
+  },
+  {
+   "period": 5,
+   "clock": "0:00",
+   "team": "KU",
+   "text": "Isaiah Marshall 10 Yd Run (Martin Connington Kick)"
+  },
+  {
+   "period": 5,
+   "clock": "0:00",
+   "team": "BYU",
+   "text": "Bear Bachmeier 2 Yd Run (Matthias Dunn Kick)"
+  },
+  {
+   "period": 6,
+   "clock": "0:00",
+   "team": "BYU",
+   "text": "LJ Martin 11 Yd Run (Two-Point Pass Conversion Failed)"
+  },
+  {
+   "period": 6,
+   "clock": "0:00",
+   "team": "KU",
+   "text": "Nahzae Cox 20 Yd pass from Isaiah Marshall (Two-Point Pass Conversion Failed)"
+  },
+  {
+   "period": 7,
+   "clock": "0:00",
+   "team": "BYU",
+   "text": "Bear Bachmeier Pass to Jojo Phillips for Two-Point Conversion"
+  }
+ ]
+}

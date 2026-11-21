@@ -1,0 +1,216 @@
+{
+ "id": "soccer-401884728",
+ "sport": "soccer",
+ "league": "Bundesliga",
+ "start": "2026-11-21T14:30Z",
+ "home": {
+  "name": "SV Elversberg",
+  "abbr": "ELV",
+  "teamId": "10388",
+  "score": 0.0
+ },
+ "away": {
+  "name": "SC Freiburg",
+  "abbr": "SCF",
+  "teamId": "126",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "-105",
+  "mlAwayOpen": "-105",
+  "mlDraw": "+260",
+  "mlHome": "+240",
+  "mlHomeOpen": "+225",
+  "provider": "DraftKings",
+  "spread": "SCF -105",
+  "spreadOpen": "SCF -0.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "ELV",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "5",
+    "saves": "0",
+    "possessionPct": "57.6",
+    "totalShots": "10",
+    "shotsOnTarget": "2",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "424",
+    "totalPasses": "494",
+    "passPct": "0.9",
+    "accurateCrosses": "4",
+    "totalCrosses": "11",
+    "crossPct": "0.4",
+    "totalLongBalls": "45",
+    "accurateLongBalls": "17",
+    "longballPct": "0.4",
+    "blockedShots": "3",
+    "effectiveTackles": "7",
+    "totalTackles": "12",
+    "tacklePct": "0.6",
+    "interceptions": "4",
+    "effectiveClearance": "22",
+    "totalClearance": "22"
+   }
+  },
+  "away": {
+   "abbr": "SCF",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "3",
+    "saves": "1",
+    "possessionPct": "42.4",
+    "totalShots": "9",
+    "shotsOnTarget": "1",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "290",
+    "totalPasses": "362",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "8",
+    "crossPct": "0.4",
+    "totalLongBalls": "48",
+    "accurateLongBalls": "23",
+    "longballPct": "0.5",
+    "blockedShots": "5",
+    "effectiveTackles": "12",
+    "totalTackles": "25",
+    "tacklePct": "0.5",
+    "interceptions": "4",
+    "effectiveClearance": "30",
+    "totalClearance": "30"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "33'",
+   "team": null,
+   "text": "Niklas Beste (Freiburg) is shown the yellow card."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, Elversberg 0, Freiburg 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Elversberg 0, Freiburg 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Elversberg. Luca Sirch replaces Jan Gyamerah."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Elversberg. Noel Futkeu replaces Francis Onyeka."
+  },
+  {
+   "type": "Goal",
+   "clock": "68'",
+   "team": null,
+   "text": "Goal! Elversberg 0, Freiburg 1. Igor Matanovic (Freiburg) right footed shot from the centre of the box to the bottom right corner. Assisted by Niklas Beste."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "70'",
+   "team": null,
+   "text": "Igor Matanovic (Freiburg) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Freiburg. Yuito Suzuki replaces Lucas Höler."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Freiburg. Cyriaque Irié replaces Niklas Beste."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Elversberg. Maurice Krattenmacher replaces David Mokwa."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Elversberg. Tom Zimmerschied replaces Cole Campbell."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "76'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "77'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "78'",
+   "team": null,
+   "text": "Philipp Lienhart (Freiburg) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Freiburg. Vincenzo Grifo replaces Derry Scherhant."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Freiburg. Keisuke Goto replaces Igor Matanovic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "89'",
+   "team": null,
+   "text": "Substitution, Elversberg. Raif Adam replaces Maximilian Rohr."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+3'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

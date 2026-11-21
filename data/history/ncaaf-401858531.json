@@ -1,0 +1,132 @@
+{
+ "id": "ncaaf-401858531",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T17:00Z",
+ "home": {
+  "name": "Nebraska Cornhuskers",
+  "abbr": "NEB",
+  "teamId": "158",
+  "score": 31.0
+ },
+ "away": {
+  "name": "#14 Ohio State",
+  "abbr": "OSU",
+  "teamId": "194",
+  "score": 28.0
+ },
+ "odds": {
+  "mlAway": "-185",
+  "mlAwayOpen": "-198",
+  "mlHome": "+154",
+  "mlHomeOpen": "+164",
+  "provider": "DraftKings",
+  "spread": "OSU -3.5",
+  "spreadOpen": "OSU -5.5",
+  "total": "42.5",
+  "totalOpen": "47.5"
+ },
+ "espnWinProb": {
+  "away": 71.8,
+  "home": 28.2
+ },
+ "teams": {
+  "away": {
+   "abbr": "OSU",
+   "stats": {
+    "firstDowns": "16",
+    "thirdDownEff": "5-9",
+    "fourthDownEff": "1-1",
+    "totalYards": "335",
+    "netPassingYards": "259",
+    "completionAttempts": "16/27",
+    "yardsPerPass": "9.6",
+    "rushingYards": "76",
+    "rushingAttempts": "22",
+    "yardsPerRushAttempt": "3.5",
+    "totalPenaltiesYards": "7-55",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "interceptions": "1",
+    "possessionTime": "24:55"
+   }
+  },
+  "home": {
+   "abbr": "NEB",
+   "stats": {
+    "firstDowns": "23",
+    "thirdDownEff": "10-16",
+    "fourthDownEff": "2-2",
+    "totalYards": "376",
+    "netPassingYards": "200",
+    "completionAttempts": "19/28",
+    "yardsPerPass": "7.1",
+    "rushingYards": "176",
+    "rushingAttempts": "45",
+    "yardsPerRushAttempt": "3.9",
+    "totalPenaltiesYards": "7-45",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "35:05"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "11:43",
+   "team": "OSU",
+   "text": "Jeremiah Smith 67 Yd pass from Luke Fahey (Connor Hawkins Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "5:49",
+   "team": "NEB",
+   "text": "Luke Lindenmeyer 11 Yd pass from Anthony Colandrea (John Hohl Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "11:44",
+   "team": "NEB",
+   "text": "Kwazi Gilmer 7 Yd pass from Anthony Colandrea (John Hohl Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "4:12",
+   "team": "NEB",
+   "text": "Anthony Colandrea 13 Yd Run (John Hohl Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:55",
+   "team": "OSU",
+   "text": "Jeremiah Smith 31 Yd pass from Luke Fahey (Connor Hawkins Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "6:37",
+   "team": "OSU",
+   "text": "Bo Jackson 1 Yd Run (Connor Hawkins Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "13:42",
+   "team": "NEB",
+   "text": "John Hohl 33 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "7:41",
+   "team": "NEB",
+   "text": "Quinn Clark 26 Yd pass from Anthony Colandrea (John Hohl Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "3:52",
+   "team": "OSU",
+   "text": "Bo Jackson 1 Yd Run (Connor Hawkins Kick)"
+  }
+ ]
+}

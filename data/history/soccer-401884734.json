@@ -1,0 +1,252 @@
+{
+ "id": "soccer-401884734",
+ "sport": "soccer",
+ "league": "Bundesliga",
+ "start": "2026-11-21T14:30Z",
+ "home": {
+  "name": "Eintracht Frankfurt",
+  "abbr": "SGE",
+  "teamId": "125",
+  "score": 1.0
+ },
+ "away": {
+  "name": "TSG Hoffenheim",
+  "abbr": "TSG",
+  "teamId": "7911",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+145",
+  "mlAwayOpen": "+155",
+  "mlDraw": "+285",
+  "mlHome": "+140",
+  "mlHomeOpen": "+130",
+  "provider": "DraftKings",
+  "spread": "SGE +140",
+  "spreadOpen": "SGE -0.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "SGE",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "4",
+    "wonCorners": "9",
+    "saves": "5",
+    "possessionPct": "41.5",
+    "totalShots": "21",
+    "shotsOnTarget": "6",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "237",
+    "totalPasses": "357",
+    "passPct": "0.7",
+    "accurateCrosses": "2",
+    "totalCrosses": "18",
+    "crossPct": "0.1",
+    "totalLongBalls": "70",
+    "accurateLongBalls": "21",
+    "longballPct": "0.3",
+    "blockedShots": "6",
+    "effectiveTackles": "12",
+    "totalTackles": "16",
+    "tacklePct": "0.8",
+    "interceptions": "17",
+    "effectiveClearance": "38",
+    "totalClearance": "38"
+   }
+  },
+  "away": {
+   "abbr": "TSG",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "2",
+    "redCards": "1",
+    "offsides": "2",
+    "wonCorners": "5",
+    "saves": "5",
+    "possessionPct": "58.5",
+    "totalShots": "16",
+    "shotsOnTarget": "4",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "395",
+    "totalPasses": "507",
+    "passPct": "0.8",
+    "accurateCrosses": "4",
+    "totalCrosses": "21",
+    "crossPct": "0.2",
+    "totalLongBalls": "62",
+    "accurateLongBalls": "36",
+    "longballPct": "0.6",
+    "blockedShots": "6",
+    "effectiveTackles": "14",
+    "totalTackles": "24",
+    "tacklePct": "0.6",
+    "interceptions": "11",
+    "effectiveClearance": "41",
+    "totalClearance": "41"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal",
+   "clock": "25'",
+   "team": null,
+   "text": "Goal! Eintracht Frankfurt 1, Hoffenheim 0. Jonathan Burkardt (Eintracht Frankfurt) right footed shot from the right side of the box to the bottom left corner. Assisted by Ansgar Knauff."
+  },
+  {
+   "type": "Penalty - Saved",
+   "clock": "41'",
+   "team": null,
+   "text": "Penalty saved. Andrej Kramaric (Hoffenheim) right footed shot saved in the bottom left corner by Noah Atubolu (Eintracht Frankfurt)."
+  },
+  {
+   "type": "Penalty - Saved",
+   "clock": "44'",
+   "team": null,
+   "text": "Penalty saved. Jonathan Burkardt (Eintracht Frankfurt) right footed shot saved in the bottom right corner by Oliver Baumann (Hoffenheim)."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Eintracht Frankfurt 1, Hoffenheim 0."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "53'",
+   "team": null,
+   "text": "Delay in match because of an injury Noah Atubolu (Eintracht Frankfurt)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "53'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "54'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "54'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Hoffenheim. Adam Hlozek replaces Andrej Kramaric."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Hoffenheim. Adam Daghim replaces Tim Lemperle."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Eintracht Frankfurt. Oscar Højlund replaces Noël Aséko."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "69'",
+   "team": null,
+   "text": "Leon Avdullahu (Hoffenheim) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Hoffenheim. Bambasé Conté replaces Fisnik Asllani."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Hoffenheim. Mats Rots replaces Bernardo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Hoffenheim. Max Moerstedt replaces Alexander Prass."
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, Eintracht Frankfurt. Nnamdi Collins replaces Ansgar Knauff."
+  },
+  {
+   "type": "Substitution",
+   "clock": "84'",
+   "team": null,
+   "text": "Substitution, Eintracht Frankfurt. Mario Götze replaces Younes Ebnoutalib."
+  },
+  {
+   "type": "Substitution",
+   "clock": "84'",
+   "team": null,
+   "text": "Substitution, Eintracht Frankfurt. Malik Pimpong replaces Jonathan Burkardt."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "88'",
+   "team": null,
+   "text": "Wouter Burger (Hoffenheim) is shown the yellow card."
+  },
+  {
+   "type": "Red Card",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Ozan Kabak (Hoffenheim) is shown the red card for violent conduct."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Noah Atubolu (Eintracht Frankfurt) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Malik Pimpong (Eintracht Frankfurt) is shown the yellow card."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

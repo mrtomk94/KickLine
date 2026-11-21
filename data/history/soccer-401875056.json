@@ -1,0 +1,318 @@
+{
+ "id": "soccer-401875056",
+ "sport": "soccer",
+ "league": "Serie A",
+ "start": "2026-11-21T14:00Z",
+ "home": {
+  "name": "Como",
+  "abbr": "COMO",
+  "teamId": "2572",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Cagliari",
+  "abbr": "CAG",
+  "teamId": "2925",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+750",
+  "mlAwayOpen": "+650",
+  "mlDraw": "+450",
+  "mlHome": "-360",
+  "mlHomeOpen": "-320",
+  "provider": "DraftKings",
+  "spread": "COMO -360",
+  "spreadOpen": "COMO -1.5",
+  "total": "3.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "COMO",
+   "stats": {
+    "foulsCommitted": "6",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "3",
+    "saves": "1",
+    "possessionPct": "63.3",
+    "totalShots": "10",
+    "shotsOnTarget": "6",
+    "shotPct": "0.6",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "677",
+    "totalPasses": "739",
+    "passPct": "0.9",
+    "accurateCrosses": "4",
+    "totalCrosses": "13",
+    "crossPct": "0.3",
+    "totalLongBalls": "25",
+    "accurateLongBalls": "13",
+    "longballPct": "0.5",
+    "blockedShots": "2",
+    "effectiveTackles": "6",
+    "totalTackles": "12",
+    "tacklePct": "0.5",
+    "interceptions": "12",
+    "effectiveClearance": "17",
+    "totalClearance": "17"
+   }
+  },
+  "away": {
+   "abbr": "CAG",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "4",
+    "wonCorners": "3",
+    "saves": "4",
+    "possessionPct": "36.7",
+    "totalShots": "6",
+    "shotsOnTarget": "1",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "335",
+    "totalPasses": "422",
+    "passPct": "0.8",
+    "accurateCrosses": "2",
+    "totalCrosses": "12",
+    "crossPct": "0.2",
+    "totalLongBalls": "47",
+    "accurateLongBalls": "22",
+    "longballPct": "0.5",
+    "blockedShots": "1",
+    "effectiveTackles": "14",
+    "totalTackles": "27",
+    "tacklePct": "0.5",
+    "interceptions": "10",
+    "effectiveClearance": "20",
+    "totalClearance": "20"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "24'",
+   "team": null,
+   "text": "Goal! Como 1, Cagliari 0. Jacobo Ramón (Como) header from very close range to the top left corner. Assisted by Yan Couto with a cross."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "45'",
+   "team": null,
+   "text": "Delay in match because of an injury Jean Butez (Como)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "45'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, Como 1, Cagliari 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Cagliari. M'Bala Nzola replaces Paul Mendy."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Como 1, Cagliari 0."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "49'",
+   "team": null,
+   "text": "Delay in match because of an injury Michel Adopo (Cagliari)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "49'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "50'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "50'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "50'",
+   "team": null,
+   "text": "Substitution, Cagliari. Juan Rodríguez replaces Michel Adopo because of an injury."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "56'",
+   "team": null,
+   "text": "Goal! Como 2, Cagliari 0. Lucas da Cunha (Como) header from the centre of the box to the high centre of the goal. Assisted by Yan Couto with a cross."
+  },
+  {
+   "type": "Substitution",
+   "clock": "57'",
+   "team": null,
+   "text": "Substitution, Como. Máximo Perrone replaces Luis Milla."
+  },
+  {
+   "type": "Substitution",
+   "clock": "57'",
+   "team": null,
+   "text": "Substitution, Como. Nico Paz replaces Mattia Liberali."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "58'",
+   "team": null,
+   "text": "Delay in match because of an injury Daniel Maldini (Cagliari)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "58'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "59'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "59'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Cagliari. Yael Trepy replaces Nicola Grandu."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "67'",
+   "team": null,
+   "text": "Delay in match (Como)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "67'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "68'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "68'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Como. Adrian Lahdo replaces Samuele Ricci."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Como. Ivan Smolcic replaces Lucas da Cunha."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Cagliari. Alieu Fadera replaces Daniel Maldini."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Cagliari. Yanis Massolin replaces Alessandro Deiola."
+  },
+  {
+   "type": "Substitution",
+   "clock": "88'",
+   "team": null,
+   "text": "Substitution, Como. Álex Valle replaces Martin Baturina."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "90'",
+   "team": null,
+   "text": "Delay in match (Como)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "90'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

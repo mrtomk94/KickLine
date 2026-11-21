@@ -1,0 +1,306 @@
+{
+ "id": "soccer-401884732",
+ "sport": "soccer",
+ "league": "Bundesliga",
+ "start": "2026-11-21T14:30Z",
+ "home": {
+  "name": "1. FC Union Berlin",
+  "abbr": "FCU",
+  "teamId": "598",
+  "score": 1.0
+ },
+ "away": {
+  "name": "RB Leipzig",
+  "abbr": "RBL",
+  "teamId": "11420",
+  "score": 5.0
+ },
+ "odds": {
+  "mlAway": "-210",
+  "mlAwayOpen": "-155",
+  "mlDraw": "+350",
+  "mlHome": "+450",
+  "mlHomeOpen": "+310",
+  "provider": "DraftKings",
+  "spread": "RBL -210",
+  "spreadOpen": "RBL -0.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "FCU",
+   "stats": {
+    "foulsCommitted": "10",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "4",
+    "saves": "5",
+    "possessionPct": "33.2",
+    "totalShots": "13",
+    "shotsOnTarget": "8",
+    "shotPct": "0.6",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "217",
+    "totalPasses": "301",
+    "passPct": "0.7",
+    "accurateCrosses": "4",
+    "totalCrosses": "21",
+    "crossPct": "0.2",
+    "totalLongBalls": "48",
+    "accurateLongBalls": "21",
+    "longballPct": "0.4",
+    "blockedShots": "2",
+    "effectiveTackles": "15",
+    "totalTackles": "28",
+    "tacklePct": "0.5",
+    "interceptions": "9",
+    "effectiveClearance": "29",
+    "totalClearance": "29"
+   }
+  },
+  "away": {
+   "abbr": "RBL",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "8",
+    "saves": "6",
+    "possessionPct": "66.8",
+    "totalShots": "32",
+    "shotsOnTarget": "10",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "550",
+    "totalPasses": "632",
+    "passPct": "0.9",
+    "accurateCrosses": "2",
+    "totalCrosses": "14",
+    "crossPct": "0.1",
+    "totalLongBalls": "40",
+    "accurateLongBalls": "25",
+    "longballPct": "0.6",
+    "blockedShots": "8",
+    "effectiveTackles": "10",
+    "totalTackles": "18",
+    "tacklePct": "0.6",
+    "interceptions": "9",
+    "effectiveClearance": "44",
+    "totalClearance": "44"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "5'",
+   "team": null,
+   "text": "Brajan Gruda (RB Leipzig) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "9'",
+   "team": null,
+   "text": "András Schäfer (Union Berlin) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "13'",
+   "team": null,
+   "text": "Ezechiel Banzuzi (RB Leipzig) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "15'",
+   "team": null,
+   "text": "Delay in match (RB Leipzig). VAR checking."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "15'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "16'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "16'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "16'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "17'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "17'",
+   "team": null,
+   "text": "Zeno Van den Bosch (Union Berlin) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "18'",
+   "team": null,
+   "text": "Goal! Union Berlin 0, RB Leipzig 1. Antonio Nusa (RB Leipzig) converts the penalty with a right footed shot to the top left corner."
+  },
+  {
+   "type": "Goal",
+   "clock": "41'",
+   "team": null,
+   "text": "Goal! Union Berlin 1, RB Leipzig 1. Michel Aebischer (Union Berlin) left footed shot from the centre of the box to the bottom left corner."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+5'",
+   "team": null,
+   "text": "First Half ends, Union Berlin 1, RB Leipzig 1."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Union Berlin 1, RB Leipzig 1."
+  },
+  {
+   "type": "Goal",
+   "clock": "50'",
+   "team": null,
+   "text": "Goal! Union Berlin 1, RB Leipzig 2. Rômulo (RB Leipzig) right footed shot from the centre of the box to the bottom left corner. Assisted by Brajan Gruda following a corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, RB Leipzig. Nicolas Seiwald replaces Ezechiel Banzuzi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, RB Leipzig. Christopher Nkunku replaces Christoph Baumgartner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Union Berlin. Mekhi Gray replaces Andrej Ilic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Union Berlin. Jeong Woo-Yeong replaces Kastriot Imeri."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "67'",
+   "team": null,
+   "text": "Delay in match (RB Leipzig)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "67'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "67'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "67'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, RB Leipzig. Rocco Reitz replaces Neil El Aynaoui."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, RB Leipzig. Tidiam Gomis replaces Rômulo."
+  },
+  {
+   "type": "Goal",
+   "clock": "72'",
+   "team": null,
+   "text": "Goal! Union Berlin 1, RB Leipzig 3. Brajan Gruda (RB Leipzig) left footed shot from the centre of the box to the bottom right corner. Assisted by Christopher Nkunku."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Union Berlin. Aljoscha Kemlein replaces András Schäfer."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Union Berlin. Tim Skarke replaces Oliver Burke."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, RB Leipzig. Andrija Maksimovic replaces Brajan Gruda."
+  },
+  {
+   "type": "Goal",
+   "clock": "76'",
+   "team": null,
+   "text": "Goal! Union Berlin 1, RB Leipzig 4. Rocco Reitz (RB Leipzig) left footed shot from a difficult angle on the left to the top left corner. Assisted by David Raum with a through ball."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Union Berlin. Linus Güther replaces Michel Aebischer."
+  },
+  {
+   "type": "Goal",
+   "clock": "89'",
+   "team": null,
+   "text": "Goal! Union Berlin 1, RB Leipzig 5. Ridle Baku (RB Leipzig) left footed shot from the centre of the box to the centre of the goal. Assisted by Tidiam Gomis with a through ball."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Second Half ends, Union Berlin 1, RB Leipzig 5."
+  }
+ ],
+ "scoringPlays": []
+}
