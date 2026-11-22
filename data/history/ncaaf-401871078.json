@@ -1,0 +1,132 @@
+{
+ "id": "ncaaf-401871078",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T20:00Z",
+ "home": {
+  "name": "Kennesaw State Owls",
+  "abbr": "KENN",
+  "teamId": "338",
+  "score": 35.0
+ },
+ "away": {
+  "name": "Florida International Panthers",
+  "abbr": "FIU",
+  "teamId": "2229",
+  "score": 24.0
+ },
+ "odds": {
+  "mlAway": "+105",
+  "mlAwayOpen": "+145",
+  "mlHome": "-125",
+  "mlHomeOpen": "-175",
+  "provider": "DraftKings",
+  "spread": "KENN -2.5",
+  "spreadOpen": "KENN -4",
+  "total": "44.5",
+  "totalOpen": "42.5"
+ },
+ "espnWinProb": {
+  "away": 36.8,
+  "home": 63.2
+ },
+ "teams": {
+  "away": {
+   "abbr": "FIU",
+   "stats": {
+    "firstDowns": "20",
+    "thirdDownEff": "4-13",
+    "fourthDownEff": "3-4",
+    "totalYards": "351",
+    "netPassingYards": "231",
+    "completionAttempts": "27/39",
+    "yardsPerPass": "5.9",
+    "rushingYards": "120",
+    "rushingAttempts": "23",
+    "yardsPerRushAttempt": "5.2",
+    "totalPenaltiesYards": "12-116",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "30:49"
+   }
+  },
+  "home": {
+   "abbr": "KENN",
+   "stats": {
+    "firstDowns": "23",
+    "thirdDownEff": "6-12",
+    "fourthDownEff": "2-2",
+    "totalYards": "396",
+    "netPassingYards": "219",
+    "completionAttempts": "21/27",
+    "yardsPerPass": "8.1",
+    "rushingYards": "177",
+    "rushingAttempts": "35",
+    "yardsPerRushAttempt": "5.1",
+    "totalPenaltiesYards": "10-58",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "29:11"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "8:28",
+   "team": "KENN",
+   "text": "Boogie Woods III 53 Yd Run (Daniel Kinney Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "5:05",
+   "team": "FIU",
+   "text": "Devonte Lyons 24 Yd Run (Robert Czeremcha Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "9:37",
+   "team": "FIU",
+   "text": "Robert Czeremcha 40 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "4:25",
+   "team": "KENN",
+   "text": "Boogie Woods III 1 Yd Run (Daniel Kinney Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:43",
+   "team": "KENN",
+   "text": "Brayden Munroe 25 Yd pass from Landon Varnes (Daniel Kinney Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "8:09",
+   "team": "KENN",
+   "text": "Dylan Gary 7 Yd pass from Landon Varnes (Daniel Kinney Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "3:10",
+   "team": "KENN",
+   "text": "Latrelle Murrell 17 Yd Run (Daniel Kinney Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "12:50",
+   "team": "FIU",
+   "text": "James Resar 6 Yd pass from JJ Kohl (JJ Kohl Pass to Jackson Verdugo for Two-Point Conversion)"
+  },
+  {
+   "period": 4,
+   "clock": "1:57",
+   "team": "FIU",
+   "text": "Kyle McNeal 3 Yd pass from JJ Kohl (Two-Point Pass Conversion Failed)"
+  }
+ ]
+}

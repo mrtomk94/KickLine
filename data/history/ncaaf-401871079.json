@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401871079",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T19:00Z",
+ "home": {
+  "name": "Jacksonville State Gamecocks",
+  "abbr": "JXST",
+  "teamId": "55",
+  "score": 25.0
+ },
+ "away": {
+  "name": "Missouri State Bears",
+  "abbr": "MOST",
+  "teamId": "2623",
+  "score": 20.0
+ },
+ "odds": {
+  "mlAway": "+320",
+  "mlAwayOpen": "+270",
+  "mlHome": "-410",
+  "mlHomeOpen": "-340",
+  "provider": "DraftKings",
+  "spread": "JXST -10.5",
+  "spreadOpen": "JXST -10.5",
+  "total": "52.5",
+  "totalOpen": "53.5"
+ },
+ "espnWinProb": {
+  "away": 17.2,
+  "home": 82.8
+ },
+ "teams": {
+  "away": {
+   "abbr": "MOST",
+   "stats": {
+    "firstDowns": "19",
+    "thirdDownEff": "5-13",
+    "fourthDownEff": "0-2",
+    "totalYards": "335",
+    "netPassingYards": "161",
+    "completionAttempts": "20/30",
+    "yardsPerPass": "5.4",
+    "rushingYards": "174",
+    "rushingAttempts": "40",
+    "yardsPerRushAttempt": "4.4",
+    "totalPenaltiesYards": "7-55",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "32:03"
+   }
+  },
+  "home": {
+   "abbr": "JXST",
+   "stats": {
+    "firstDowns": "19",
+    "thirdDownEff": "6-13",
+    "fourthDownEff": "0-0",
+    "totalYards": "417",
+    "netPassingYards": "266",
+    "completionAttempts": "24/32",
+    "yardsPerPass": "8.3",
+    "rushingYards": "151",
+    "rushingAttempts": "29",
+    "yardsPerRushAttempt": "5.2",
+    "totalPenaltiesYards": "10-95",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "27:57"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "5:47",
+   "team": "MOST",
+   "text": "Yousef Obeid 35 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "14:55",
+   "team": "JXST",
+   "text": "Garrison Rippa 33 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "8:50",
+   "team": "MOST",
+   "text": "Connor Lair 79 Yd Run (Yousef Obeid Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "2:51",
+   "team": "MOST",
+   "text": "Yousef Obeid 47 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "9:26",
+   "team": "MOST",
+   "text": "Isaiah Myers 14 Yd pass from Henry Belin IV (Yousef Obeid Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "12:41",
+   "team": "JXST",
+   "text": "Deondre Johnson 59 Yd pass from Caden Creel (Caden Creel Pass to Ronnel Johnson for Two-Point Conversion)"
+  },
+  {
+   "period": 4,
+   "clock": "9:58",
+   "team": "JXST",
+   "text": "Caden Creel 22 Yd Run (Garrison Rippa Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "5:39",
+   "team": "JXST",
+   "text": "Khristian Lando 21 Yd pass from Caden Creel (Garrison Rippa Kick)"
+  }
+ ]
+}

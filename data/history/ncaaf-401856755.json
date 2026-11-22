@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401856755",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T20:30Z",
+ "home": {
+  "name": "#5 Texas",
+  "abbr": "TEX",
+  "teamId": "251",
+  "score": 45.0
+ },
+ "away": {
+  "name": "Arkansas Razorbacks",
+  "abbr": "ARK",
+  "teamId": "8",
+  "score": 3.0
+ },
+ "odds": {
+  "mlAway": "+800",
+  "mlAwayOpen": "+850",
+  "mlHome": "-1350",
+  "mlHomeOpen": "-1450",
+  "provider": "DraftKings",
+  "spread": "TEX -18.5",
+  "spreadOpen": "TEX -21",
+  "total": "46.5",
+  "totalOpen": "48.5"
+ },
+ "espnWinProb": {
+  "away": 5.9,
+  "home": 94.2
+ },
+ "teams": {
+  "away": {
+   "abbr": "ARK",
+   "stats": {
+    "firstDowns": "20",
+    "thirdDownEff": "3-14",
+    "fourthDownEff": "2-6",
+    "totalYards": "363",
+    "netPassingYards": "253",
+    "completionAttempts": "21/38",
+    "yardsPerPass": "6.7",
+    "rushingYards": "110",
+    "rushingAttempts": "33",
+    "yardsPerRushAttempt": "3.3",
+    "totalPenaltiesYards": "4-49",
+    "turnovers": "2",
+    "fumblesLost": "0",
+    "interceptions": "2",
+    "possessionTime": "31:21"
+   }
+  },
+  "home": {
+   "abbr": "TEX",
+   "stats": {
+    "firstDowns": "21",
+    "thirdDownEff": "6-11",
+    "fourthDownEff": "1-1",
+    "totalYards": "448",
+    "netPassingYards": "332",
+    "completionAttempts": "24/28",
+    "yardsPerPass": "11.9",
+    "rushingYards": "116",
+    "rushingAttempts": "30",
+    "yardsPerRushAttempt": "3.9",
+    "totalPenaltiesYards": "4-26",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "28:39"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "10:24",
+   "team": "TEX",
+   "text": "Arch Manning 3 Yd Run (Gianni Spetic Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "9:01",
+   "team": "TEX",
+   "text": "Jelani McDonald 31 Yd Interception Return (Gianni Spetic Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "3:32",
+   "team": "ARK",
+   "text": "Max Gilbert 30 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "9:13",
+   "team": "TEX",
+   "text": "Gianni Spetic 36 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "2:20",
+   "team": "TEX",
+   "text": "Emaree Winston 21 Yd pass from Arch Manning (Gianni Spetic Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:23",
+   "team": "TEX",
+   "text": "Emmett Mosley V 17 Yd pass from Arch Manning (Gianni Spetic Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "10:13",
+   "team": "TEX",
+   "text": "Michael Terry III 1 Yd Run (Gianni Spetic Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "7:31",
+   "team": "TEX",
+   "text": "Derrek Cooper 8 Yd Run (Gianni Spetic Kick)"
+  }
+ ]
+}

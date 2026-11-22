@@ -1,0 +1,114 @@
+{
+ "id": "ncaaf-401858304",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T20:30Z",
+ "home": {
+  "name": "Florida State Seminoles",
+  "abbr": "FSU",
+  "teamId": "52",
+  "score": 10.0
+ },
+ "away": {
+  "name": "NC State Wolfpack",
+  "abbr": "NCSU",
+  "teamId": "152",
+  "score": 28.0
+ },
+ "odds": {
+  "mlAway": "+310",
+  "mlAwayOpen": "+245",
+  "mlHome": "-395",
+  "mlHomeOpen": "-305",
+  "provider": "DraftKings",
+  "spread": "FSU -10.5",
+  "spreadOpen": "FSU -10",
+  "total": "56.5",
+  "totalOpen": "54.5"
+ },
+ "espnWinProb": {
+  "away": 19.4,
+  "home": 80.6
+ },
+ "teams": {
+  "away": {
+   "abbr": "NCSU",
+   "stats": {
+    "firstDowns": "25",
+    "thirdDownEff": "8-16",
+    "fourthDownEff": "2-2",
+    "totalYards": "464",
+    "netPassingYards": "292",
+    "completionAttempts": "23/36",
+    "yardsPerPass": "8.1",
+    "rushingYards": "172",
+    "rushingAttempts": "42",
+    "yardsPerRushAttempt": "4.1",
+    "totalPenaltiesYards": "6-60",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "36:38"
+   }
+  },
+  "home": {
+   "abbr": "FSU",
+   "stats": {
+    "firstDowns": "15",
+    "thirdDownEff": "5-13",
+    "fourthDownEff": "1-3",
+    "totalYards": "283",
+    "netPassingYards": "206",
+    "completionAttempts": "19/37",
+    "yardsPerPass": "5.6",
+    "rushingYards": "77",
+    "rushingAttempts": "25",
+    "yardsPerRushAttempt": "3.1",
+    "totalPenaltiesYards": "3-19",
+    "turnovers": "2",
+    "fumblesLost": "0",
+    "interceptions": "2",
+    "possessionTime": "23:22"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "12:51",
+   "team": "FSU",
+   "text": "Zay Parks 9 Yd Run (Gabe Panikowski Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "6:50",
+   "team": "NCSU",
+   "text": "Darius Johnson 1 Yd pass from CJ Bailey (Kanoah Vinesett Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:00",
+   "team": "FSU",
+   "text": "Gabe Panikowski 54 Yd Field Goal "
+  },
+  {
+   "period": 3,
+   "clock": "3:18",
+   "team": "NCSU",
+   "text": "Deandre Desinor 5 Yd Run (Kanoah Vinesett Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "11:46",
+   "team": "NCSU",
+   "text": "Preston Douglas 17 Yd pass from CJ Bailey (Kanoah Vinesett Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "7:31",
+   "team": "NCSU",
+   "text": "Davion Dozier 13 Yd pass from CJ Bailey (Kanoah Vinesett Kick)"
+  }
+ ]
+}

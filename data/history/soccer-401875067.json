@@ -1,0 +1,306 @@
+{
+ "id": "soccer-401875067",
+ "sport": "soccer",
+ "league": "Serie A",
+ "start": "2026-11-21T19:45Z",
+ "home": {
+  "name": "Napoli",
+  "abbr": "NAP",
+  "teamId": "114",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Torino",
+  "abbr": "TOR",
+  "teamId": "239",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+475",
+  "mlAwayOpen": "+500",
+  "mlDraw": "+310",
+  "mlHome": "-200",
+  "mlHomeOpen": "-245",
+  "provider": "DraftKings",
+  "spread": "NAP -200",
+  "spreadOpen": "NAP -1.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "NAP",
+   "stats": {
+    "foulsCommitted": "13",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "8",
+    "saves": "2",
+    "possessionPct": "52.5",
+    "totalShots": "22",
+    "shotsOnTarget": "10",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "395",
+    "totalPasses": "477",
+    "passPct": "0.8",
+    "accurateCrosses": "4",
+    "totalCrosses": "20",
+    "crossPct": "0.2",
+    "totalLongBalls": "51",
+    "accurateLongBalls": "19",
+    "longballPct": "0.4",
+    "blockedShots": "3",
+    "effectiveTackles": "11",
+    "totalTackles": "17",
+    "tacklePct": "0.6",
+    "interceptions": "9",
+    "effectiveClearance": "24",
+    "totalClearance": "24"
+   }
+  },
+  "away": {
+   "abbr": "TOR",
+   "stats": {
+    "foulsCommitted": "8",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "5",
+    "saves": "9",
+    "possessionPct": "47.5",
+    "totalShots": "12",
+    "shotsOnTarget": "2",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "356",
+    "totalPasses": "431",
+    "passPct": "0.8",
+    "accurateCrosses": "4",
+    "totalCrosses": "19",
+    "crossPct": "0.2",
+    "totalLongBalls": "44",
+    "accurateLongBalls": "17",
+    "longballPct": "0.4",
+    "blockedShots": "4",
+    "effectiveTackles": "6",
+    "totalTackles": "13",
+    "tacklePct": "0.5",
+    "interceptions": "16",
+    "effectiveClearance": "36",
+    "totalClearance": "36"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Substitution",
+   "clock": "13'",
+   "team": null,
+   "text": "Substitution, Napoli. Kevin De Bruyne replaces Antonio Vergara because of an injury."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "39'",
+   "team": null,
+   "text": "Delay in match because of an injury Rafik Belghali (Torino)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "39'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "39'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "39'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "40'",
+   "team": null,
+   "text": "Substitution, Torino. Zakaria Aboukhlal replaces Rafik Belghali because of an injury."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Torino. Nikola Vlasic replaces Daniel Bragança."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Napoli 0, Torino 0."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "54'",
+   "team": null,
+   "text": "Pietro Comuzzo (Torino) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "56'",
+   "team": null,
+   "text": "Billy Gilmour (Napoli) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, Napoli. Mathías Olivera replaces Rafa Marín."
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, Napoli. Noa Lang replaces Leonardo Spinazzola."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "58'",
+   "team": null,
+   "text": "Delay in match (Napoli)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "58'",
+   "team": null,
+   "text": "Delay in match (Torino)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "58'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "58'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Torino. Cesare Casadei replaces Gvidas Gineitis."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "71'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "71'",
+   "team": null,
+   "text": "Delay in match because of an injury Ardian Ismajli (Torino)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "71'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "71'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Torino. Eray Cömert replaces Ardian Ismajli because of an injury."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Torino. Duván Zapata replaces Giovanni Simeone."
+  },
+  {
+   "type": "Goal",
+   "clock": "73'",
+   "team": null,
+   "text": "Goal! Napoli 1, Torino 0. Scott McTominay (Napoli) right footed shot from outside the box to the bottom left corner. Assisted by Noa Lang following a fast break."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "76'",
+   "team": null,
+   "text": "Frank Anguissa (Napoli) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "80'",
+   "team": null,
+   "text": "Delay in match because of an injury Frank Anguissa (Napoli)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "80'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "81'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "81'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Napoli. Giovane replaces Rasmus Højlund."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Napoli. Costantino Favasuli replaces Matteo Politano."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

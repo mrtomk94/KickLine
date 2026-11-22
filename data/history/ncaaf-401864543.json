@@ -1,0 +1,132 @@
+{
+ "id": "ncaaf-401864543",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T21:00Z",
+ "home": {
+  "name": "North Dakota State Bison",
+  "abbr": "NDSU",
+  "teamId": "2449",
+  "score": 31.0
+ },
+ "away": {
+  "name": "Northern Illinois Huskies",
+  "abbr": "NIU",
+  "teamId": "2459",
+  "score": 25.0
+ },
+ "odds": {
+  "mlAway": "+1400",
+  "mlAwayOpen": "+1800",
+  "mlHome": "-3200",
+  "mlHomeOpen": "-5000",
+  "provider": "DraftKings",
+  "spread": "NDSU -25.5",
+  "spreadOpen": "NDSU -25.5",
+  "total": "45.5",
+  "totalOpen": "48.5"
+ },
+ "espnWinProb": {
+  "away": 4.2,
+  "home": 95.8
+ },
+ "teams": {
+  "away": {
+   "abbr": "NIU",
+   "stats": {
+    "firstDowns": "21",
+    "thirdDownEff": "7-14",
+    "fourthDownEff": "0-1",
+    "totalYards": "433",
+    "netPassingYards": "260",
+    "completionAttempts": "20/29",
+    "yardsPerPass": "9.0",
+    "rushingYards": "173",
+    "rushingAttempts": "36",
+    "yardsPerRushAttempt": "4.8",
+    "totalPenaltiesYards": "5-30",
+    "turnovers": "2",
+    "fumblesLost": "0",
+    "interceptions": "2",
+    "possessionTime": "32:51"
+   }
+  },
+  "home": {
+   "abbr": "NDSU",
+   "stats": {
+    "firstDowns": "21",
+    "thirdDownEff": "8-12",
+    "fourthDownEff": "0-0",
+    "totalYards": "414",
+    "netPassingYards": "280",
+    "completionAttempts": "18/26",
+    "yardsPerPass": "10.8",
+    "rushingYards": "134",
+    "rushingAttempts": "33",
+    "yardsPerRushAttempt": "4.1",
+    "totalPenaltiesYards": "3-30",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "interceptions": "1",
+    "possessionTime": "27:09"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "10:23",
+   "team": "NDSU",
+   "text": "Jackson Williams 47 Yd pass from Nathan Hayes (Drew Klein Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "10:22",
+   "team": "NIU",
+   "text": "JJ Schlenhardt 36 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "6:54",
+   "team": "NDSU",
+   "text": "Mekhi Collins 35 Yd pass from Nathan Hayes (Drew Klein Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "2:38",
+   "team": "NDSU",
+   "text": "Jett Zabel 22 Yd pass from Nathan Hayes (Drew Klein Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:00",
+   "team": "NDSU",
+   "text": "Drew Klein 51 Yd Field Goal "
+  },
+  {
+   "period": 3,
+   "clock": "11:04",
+   "team": "NDSU",
+   "text": "Jordan McCants 10 Yd pass from Nathan Hayes (Drew Klein Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "0:55",
+   "team": "NIU",
+   "text": "La'Don Bryant 7 Yd pass from Taron Dickens (Taron Dickens Pass to Afy Ibekwe for Two-Point Conversion)"
+  },
+  {
+   "period": 4,
+   "clock": "7:35",
+   "team": "NIU",
+   "text": "Afy Ibekwe 17 Yd pass from Taron Dickens (JJ Schlenhardt Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "2:46",
+   "team": "NIU",
+   "text": "DeAree Rogers 47 Yd pass from Taron Dickens (JJ Schlenhardt Kick)"
+  }
+ ]
+}

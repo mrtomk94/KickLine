@@ -1,0 +1,144 @@
+{
+ "id": "ncaaf-401871077",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T20:00Z",
+ "home": {
+  "name": "New Mexico State Aggies",
+  "abbr": "NMSU",
+  "teamId": "166",
+  "score": 30.0
+ },
+ "away": {
+  "name": "Delaware Blue Hens",
+  "abbr": "DEL",
+  "teamId": "48",
+  "score": 42.0
+ },
+ "odds": {
+  "mlAway": "-155",
+  "mlAwayOpen": "-185",
+  "mlHome": "+130",
+  "mlHomeOpen": "+154",
+  "provider": "DraftKings",
+  "spread": "DEL -3",
+  "spreadOpen": "DEL -4.5",
+  "total": "53.5",
+  "totalOpen": "53.5"
+ },
+ "espnWinProb": {
+  "away": 58.5,
+  "home": 41.5
+ },
+ "teams": {
+  "away": {
+   "abbr": "DEL",
+   "stats": {
+    "firstDowns": "25",
+    "thirdDownEff": "2-11",
+    "fourthDownEff": "4-5",
+    "totalYards": "523",
+    "netPassingYards": "398",
+    "completionAttempts": "31/41",
+    "yardsPerPass": "9.7",
+    "rushingYards": "125",
+    "rushingAttempts": "32",
+    "yardsPerRushAttempt": "3.9",
+    "totalPenaltiesYards": "7-63",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "32:14"
+   }
+  },
+  "home": {
+   "abbr": "NMSU",
+   "stats": {
+    "firstDowns": "19",
+    "thirdDownEff": "7-14",
+    "fourthDownEff": "0-1",
+    "totalYards": "401",
+    "netPassingYards": "278",
+    "completionAttempts": "18/34",
+    "yardsPerPass": "8.2",
+    "rushingYards": "123",
+    "rushingAttempts": "29",
+    "yardsPerRushAttempt": "4.2",
+    "totalPenaltiesYards": "6-35",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "27:46"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "11:04",
+   "team": "NMSU",
+   "text": "Ilya Uvaydov 26 Yd Field Goal  "
+  },
+  {
+   "period": 1,
+   "clock": "4:17",
+   "team": "DEL",
+   "text": "Elijah Sessoms 4 Yd pass from Nick Minicucci (Tucker Smack Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "14:33",
+   "team": "DEL",
+   "text": "Scott Moore 19 Yd pass from Nick Minicucci (Tucker Smack Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "7:43",
+   "team": "NMSU",
+   "text": "Terrione Graves 55 Yd pass from Trey Hedden (Ilya Uvaydov Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "2:13",
+   "team": "NMSU",
+   "text": "Myles Libman 8 Yd pass from Trey Hedden (David Barker PAT failed)"
+  },
+  {
+   "period": 3,
+   "clock": "5:49",
+   "team": "DEL",
+   "text": "Kaderris Roberts 30 Yd Run (Tucker Smack Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "1:20",
+   "team": "DEL",
+   "text": "Scott Moore 9 Yd pass from Nick Minicucci (Tucker Smack Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "11:41",
+   "team": "DEL",
+   "text": "Josh Humes 47 Yd pass from Nick Minicucci (Tucker Smack Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "3:51",
+   "team": "NMSU",
+   "text": "TJ Pride 7 Yd pass from Trey Hedden (Trey Hedden Pass to Dijon Stanley for Two-Point Conversion)"
+  },
+  {
+   "period": 4,
+   "clock": "2:03",
+   "team": "DEL",
+   "text": "Scott Moore 20 Yd pass from Nick Minicucci (Tucker Smack Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "1:05",
+   "team": "NMSU",
+   "text": "TJ Pride 14 Yd pass from Trey Hedden (TJ Washington Jr. Run for Two-Point Conversion)"
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "id": "ncaaf-401869946",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T20:00Z",
+ "home": {
+  "name": "Louisiana Ragin' Cajuns",
+  "abbr": "UL",
+  "teamId": "309",
+  "score": 38.0
+ },
+ "away": {
+  "name": "Coastal Carolina Chanticleers",
+  "abbr": "CCU",
+  "teamId": "324",
+  "score": 24.0
+ },
+ "odds": {
+  "mlAway": "+310",
+  "mlAwayOpen": "+225",
+  "mlHome": "-395",
+  "mlHomeOpen": "-278",
+  "provider": "DraftKings",
+  "spread": "UL -10.5",
+  "spreadOpen": "UL -7.5",
+  "total": "49.5",
+  "totalOpen": "50.5"
+ },
+ "espnWinProb": {
+  "away": 19.2,
+  "home": 80.8
+ },
+ "teams": {
+  "away": {
+   "abbr": "CCU",
+   "stats": {
+    "firstDowns": "21",
+    "thirdDownEff": "6-13",
+    "fourthDownEff": "0-1",
+    "totalYards": "395",
+    "netPassingYards": "290",
+    "completionAttempts": "21/38",
+    "yardsPerPass": "7.6",
+    "rushingYards": "105",
+    "rushingAttempts": "33",
+    "yardsPerRushAttempt": "3.2",
+    "totalPenaltiesYards": "2-25",
+    "turnovers": "3",
+    "fumblesLost": "1",
+    "interceptions": "2",
+    "possessionTime": "31:44"
+   }
+  },
+  "home": {
+   "abbr": "UL",
+   "stats": {
+    "firstDowns": "14",
+    "thirdDownEff": "5-12",
+    "fourthDownEff": "1-1",
+    "totalYards": "369",
+    "netPassingYards": "229",
+    "completionAttempts": "14/20",
+    "yardsPerPass": "11.5",
+    "rushingYards": "140",
+    "rushingAttempts": "35",
+    "yardsPerRushAttempt": "4.0",
+    "totalPenaltiesYards": "3-12",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "28:16"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "14:16",
+   "team": "UL",
+   "text": "Micah Johnson 24 Yd Fumble Return (Tony Sterner Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "11:18",
+   "team": "UL",
+   "text": "Lunch Winfield 6 Yd Run (Tony Sterner Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "7:35",
+   "team": "CCU",
+   "text": "Nico Cavanillas Alti 46 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "3:56",
+   "team": "UL",
+   "text": "Caden Jensen 1 Yd pass from Lunch Winfield (Tony Sterner Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:07",
+   "team": "CCU",
+   "text": "Clayton Coppock Jr. 3 Yd pass from Deuce Bailey (Nico Cavanillas Alti Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "6:24",
+   "team": "UL",
+   "text": "KeDarius Wade 27 Yd pass from Lunch Winfield (Tony Sterner Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "10:26",
+   "team": "UL",
+   "text": "Tony Sterner 36 Yd Field Goal "
+  },
+  {
+   "period": 4,
+   "clock": "6:44",
+   "team": "CCU",
+   "text": "Kente Edwards 7 Yd Run (Nico Cavanillas Alti Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "5:03",
+   "team": "UL",
+   "text": "Brock Chappell 4 Yd pass from Lunch Winfield (Tony Sterner Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "4:47",
+   "team": "CCU",
+   "text": "Robby Washington 75 Yd pass from Osiris Lopez (Nico Cavanillas Alti Kick)"
+  }
+ ]
+}

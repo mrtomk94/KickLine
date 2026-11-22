@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401858532",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T20:30Z",
+ "home": {
+  "name": "Penn State Nittany Lions",
+  "abbr": "PSU",
+  "teamId": "213",
+  "score": 24.0
+ },
+ "away": {
+  "name": "Rutgers Scarlet Knights",
+  "abbr": "RUTG",
+  "teamId": "164",
+  "score": 25.0
+ },
+ "odds": {
+  "mlAway": "+1400",
+  "mlAwayOpen": "+1000",
+  "mlHome": "-3200",
+  "mlHomeOpen": "-1800",
+  "provider": "DraftKings",
+  "spread": "PSU -26.5",
+  "spreadOpen": "PSU -20.5",
+  "total": "48.5",
+  "totalOpen": "49.5"
+ },
+ "espnWinProb": {
+  "away": 6.4,
+  "home": 93.6
+ },
+ "teams": {
+  "away": {
+   "abbr": "RUTG",
+   "stats": {
+    "firstDowns": "20",
+    "thirdDownEff": "4-16",
+    "fourthDownEff": "3-4",
+    "totalYards": "263",
+    "netPassingYards": "178",
+    "completionAttempts": "24/39",
+    "yardsPerPass": "4.6",
+    "rushingYards": "85",
+    "rushingAttempts": "33",
+    "yardsPerRushAttempt": "2.6",
+    "totalPenaltiesYards": "4-35",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "30:22"
+   }
+  },
+  "home": {
+   "abbr": "PSU",
+   "stats": {
+    "firstDowns": "15",
+    "thirdDownEff": "4-10",
+    "fourthDownEff": "0-2",
+    "totalYards": "387",
+    "netPassingYards": "233",
+    "completionAttempts": "14/21",
+    "yardsPerPass": "11.1",
+    "rushingYards": "154",
+    "rushingAttempts": "35",
+    "yardsPerRushAttempt": "4.4",
+    "totalPenaltiesYards": "7-67",
+    "turnovers": "2",
+    "fumblesLost": "2",
+    "interceptions": "0",
+    "possessionTime": "29:38"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "10:22",
+   "team": "PSU",
+   "text": "Cam Wallace 56 Yd Run (Ryan Barker Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "0:00",
+   "team": "PSU",
+   "text": "Team Safety"
+  },
+  {
+   "period": 2,
+   "clock": "5:14",
+   "team": "PSU",
+   "text": "Chase Sowell 17 Yd pass from Rocco Becht (Ryan Barker Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:55",
+   "team": "RUTG",
+   "text": "Antwan Raymond 5 Yd Run (Jack Scullion Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:15",
+   "team": "RUTG",
+   "text": "Jack Scullion 20 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "4:57",
+   "team": "PSU",
+   "text": "Rocco Becht 6 Yd Run (Benjamin Brahmer Pass to Rocco Becht for Two-Point Conversion)"
+  },
+  {
+   "period": 4,
+   "clock": "10:19",
+   "team": "RUTG",
+   "text": "Antwan Raymond 13 Yd Run (Jack Scullion Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "0:00",
+   "team": "RUTG",
+   "text": "Ben Black III 3 Yd pass from AJ Surace (AJ Surace Pass to DK Gilley for Two-Point Conversion)"
+  }
+ ]
+}

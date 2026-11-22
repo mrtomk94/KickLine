@@ -1,0 +1,114 @@
+{
+ "id": "ncaaf-401856871",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T20:30Z",
+ "home": {
+  "name": "Baylor Bears",
+  "abbr": "BAY",
+  "teamId": "239",
+  "score": 10.0
+ },
+ "away": {
+  "name": "#12 Texas Tech",
+  "abbr": "TTU",
+  "teamId": "2641",
+  "score": 20.0
+ },
+ "odds": {
+  "mlAway": "-205",
+  "mlAwayOpen": "-112",
+  "mlHome": "+170",
+  "mlHomeOpen": "-108",
+  "provider": "DraftKings",
+  "spread": "TTU -5.5",
+  "spreadOpen": "TTU -1.5",
+  "total": "57.5",
+  "totalOpen": "55.5"
+ },
+ "espnWinProb": {
+  "away": 61.5,
+  "home": 38.5
+ },
+ "teams": {
+  "away": {
+   "abbr": "TTU",
+   "stats": {
+    "firstDowns": "16",
+    "thirdDownEff": "3-13",
+    "fourthDownEff": "1-1",
+    "totalYards": "402",
+    "netPassingYards": "171",
+    "completionAttempts": "10/16",
+    "yardsPerPass": "10.7",
+    "rushingYards": "231",
+    "rushingAttempts": "51",
+    "yardsPerRushAttempt": "4.5",
+    "totalPenaltiesYards": "6-59",
+    "turnovers": "3",
+    "fumblesLost": "1",
+    "interceptions": "2",
+    "possessionTime": "32:06"
+   }
+  },
+  "home": {
+   "abbr": "BAY",
+   "stats": {
+    "firstDowns": "15",
+    "thirdDownEff": "4-18",
+    "fourthDownEff": "2-4",
+    "totalYards": "267",
+    "netPassingYards": "236",
+    "completionAttempts": "30/48",
+    "yardsPerPass": "4.9",
+    "rushingYards": "31",
+    "rushingAttempts": "22",
+    "yardsPerRushAttempt": "1.4",
+    "totalPenaltiesYards": "3-30",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "27:54"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "4:28",
+   "team": "TTU",
+   "text": "J'Koby Williams 1 Yd Run (Stone Harrington Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "8:12",
+   "team": "BAY",
+   "text": "Matthew Klopfenstein 3 Yd pass from DJ Lagway (Rhett Armstrong Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "6:15",
+   "team": "TTU",
+   "text": "Malcolm Simmons 48 Yd pass from Thomas Castellanos (Stone Harrington Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "10:47",
+   "team": "TTU",
+   "text": "Stone Harrington 34 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "8:05",
+   "team": "BAY",
+   "text": "Rhett Armstrong 24 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "2:34",
+   "team": "TTU",
+   "text": "Stone Harrington 39 Yd Field Goal  "
+  }
+ ]
+}

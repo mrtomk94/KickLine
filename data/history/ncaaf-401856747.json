@@ -1,0 +1,139 @@
+{
+ "id": "ncaaf-401856747",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T20:30Z",
+ "home": {
+  "name": "Auburn Tigers",
+  "abbr": "AUB",
+  "teamId": "2",
+  "score": 59.0
+ },
+ "away": {
+  "name": "Samford Bulldogs",
+  "abbr": "SAM",
+  "teamId": "2535",
+  "score": 17.0
+ },
+ "odds": {
+  "provider": "DraftKings"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "away": {
+   "abbr": "SAM",
+   "stats": {
+    "firstDowns": "21",
+    "thirdDownEff": "5-17",
+    "fourthDownEff": "2-3",
+    "totalYards": "334",
+    "netPassingYards": "244",
+    "completionAttempts": "23/43",
+    "yardsPerPass": "5.7",
+    "rushingYards": "90",
+    "rushingAttempts": "32",
+    "yardsPerRushAttempt": "2.8",
+    "totalPenaltiesYards": "9-66",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "38:04"
+   }
+  },
+  "home": {
+   "abbr": "AUB",
+   "stats": {
+    "firstDowns": "26",
+    "thirdDownEff": "4-9",
+    "fourthDownEff": "1-3",
+    "totalYards": "672",
+    "netPassingYards": "480",
+    "completionAttempts": "28/31",
+    "yardsPerPass": "15.5",
+    "rushingYards": "192",
+    "rushingAttempts": "30",
+    "yardsPerRushAttempt": "6.4",
+    "totalPenaltiesYards": "8-80",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "21:56"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "14:48",
+   "team": "AUB",
+   "text": "Jeremiah Cobb 62 Yd Run (Alex McPherson Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "9:28",
+   "team": "SAM",
+   "text": "Ty Ippolito 30 Yd Field Goal  "
+  },
+  {
+   "period": 1,
+   "clock": "9:13",
+   "team": "AUB",
+   "text": "Chas Nimrod 63 Yd pass from Byrum Brown (Alex McPherson Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "14:53",
+   "team": "AUB",
+   "text": "Keshaun Singleton 35 Yd pass from Tristan Ti'a (Alex McPherson Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "12:05",
+   "team": "AUB",
+   "text": "Tristan Ti'a 1 Yd Run (Alex McPherson Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "9:23",
+   "team": "AUB",
+   "text": "Keshaun Singleton 33 Yd pass from Tristan Ti'a (Alex McPherson Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "4:09",
+   "team": "AUB",
+   "text": "Jeremiah Cobb 47 Yd pass from Tristan Ti'a (Alex McPherson Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:13",
+   "team": "AUB",
+   "text": "Keshaun Singleton 28 Yd pass from Tristan Ti'a (Alex McPherson Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:00",
+   "team": "AUB",
+   "text": "Alex McPherson 40 Yd Field Goal "
+  },
+  {
+   "period": 3,
+   "clock": "3:37",
+   "team": "SAM",
+   "text": "Marquise Henderson 9 Yd pass from Will Shields (Ty Ippolito Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "12:28",
+   "team": "SAM",
+   "text": "Nicholas Bookman 25 Yd pass from Charlie Gilliam (Ty Ippolito Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "7:59",
+   "team": "AUB",
+   "text": "Jonathan Echols 6 Yd pass from Rhys Brush (Alex McPherson Kick)"
+  }
+ ]
+}

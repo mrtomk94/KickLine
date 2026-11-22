@@ -1,0 +1,342 @@
+{
+ "id": "soccer-401877050",
+ "sport": "soccer",
+ "league": "Liga MX",
+ "start": "2026-11-21T22:50Z",
+ "home": {
+  "name": "Pachuca",
+  "abbr": "PAC",
+  "teamId": "234",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Toluca",
+  "abbr": "TOL",
+  "teamId": "223",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+145",
+  "mlAwayOpen": "+115",
+  "mlDraw": "+290",
+  "mlHome": "+155",
+  "mlHomeOpen": "+180",
+  "provider": "DraftKings",
+  "spread": "TOL +145",
+  "spreadOpen": "TOL -0.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "PAC",
+   "stats": {
+    "foulsCommitted": "10",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "6",
+    "wonCorners": "5",
+    "saves": "3",
+    "possessionPct": "41.4",
+    "totalShots": "20",
+    "shotsOnTarget": "6",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "264",
+    "totalPasses": "327",
+    "passPct": "0.8",
+    "accurateCrosses": "6",
+    "totalCrosses": "16",
+    "crossPct": "0.4",
+    "totalLongBalls": "56",
+    "accurateLongBalls": "36",
+    "longballPct": "0.6",
+    "blockedShots": "5",
+    "effectiveTackles": "14",
+    "totalTackles": "23",
+    "tacklePct": "0.6",
+    "interceptions": "12",
+    "effectiveClearance": "17",
+    "totalClearance": "17"
+   }
+  },
+  "away": {
+   "abbr": "TOL",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "2",
+    "redCards": "1",
+    "offsides": "3",
+    "wonCorners": "2",
+    "saves": "4",
+    "possessionPct": "58.6",
+    "totalShots": "9",
+    "shotsOnTarget": "3",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "390",
+    "totalPasses": "462",
+    "passPct": "0.8",
+    "accurateCrosses": "4",
+    "totalCrosses": "13",
+    "crossPct": "0.3",
+    "totalLongBalls": "62",
+    "accurateLongBalls": "27",
+    "longballPct": "0.4",
+    "blockedShots": "4",
+    "effectiveTackles": "12",
+    "totalTackles": "18",
+    "tacklePct": "0.7",
+    "interceptions": "7",
+    "effectiveClearance": "14",
+    "totalClearance": "14"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "11'",
+   "team": null,
+   "text": "Carlos Moreno (Pachuca) is shown the yellow card."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "13'",
+   "team": null,
+   "text": "Delay in match because of an injury Hugo González (Toluca)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "13'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "13'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "13'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "16'",
+   "team": null,
+   "text": "Delay in match because of an injury Sergio Barreto (Pachuca)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "16'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "16'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "16'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "21'",
+   "team": null,
+   "text": "Delay in match because of an injury Sergio Barreto (Pachuca)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "21'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "21'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "21'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": "First Half ends, Pachuca 0, Toluca 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "47'",
+   "team": null,
+   "text": "Goal! Pachuca 1, Toluca 0. Alán Bautista (Pachuca) left footed shot from the centre of the box to the bottom left corner. Assisted by Salomón Rondón."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "50'",
+   "team": null,
+   "text": "Rodolfo Pizarro (Pachuca) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "57'",
+   "team": null,
+   "text": "Alexis Vega (Toluca) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "57'",
+   "team": null,
+   "text": "Delay in match because of an injury Rodolfo Pizarro (Pachuca)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "57'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "58'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "58'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Toluca. Jesús Angulo replaces Federico Viñas."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Toluca. Jorge Díaz replaces Víctor Guzmán."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Toluca. Santiago Simón replaces Alexis Vega."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Pachuca. Sebastián Santos replaces Alán Bautista."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Pachuca. Kenedy replaces Nicolás Vallejo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Toluca. Pável Pérez replaces Nicolás Castro."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Toluca. Axel Cervantes replaces Brian García."
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Pachuca. Mauricio Isaís replaces Francisco Venegas."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "84'",
+   "team": null,
+   "text": "Jorge Berlanga (Pachuca) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "88'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "88'",
+   "team": null,
+   "text": "Jesús Gallardo (Toluca) Yellow Card at 88'"
+  },
+  {
+   "type": "End Delay",
+   "clock": "89'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Red Card",
+   "clock": "89'",
+   "team": null,
+   "text": "Hugo González (Toluca) is shown the red card."
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "89'",
+   "team": null,
+   "text": "Goal! Pachuca 2, Toluca 0. Salomón Rondón (Pachuca) converts the penalty with a right footed shot to the bottom left corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'",
+   "team": null,
+   "text": "Substitution, Pachuca. Cristóbal Hernández replaces Rodolfo Pizarro."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'",
+   "team": null,
+   "text": "Substitution, Pachuca. Pedro Budib replaces Oussama Idrissi."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+6'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

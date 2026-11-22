@@ -1,0 +1,132 @@
+{
+ "id": "ncaaf-401871081",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T19:00Z",
+ "home": {
+  "name": "Sam Houston Bearkats",
+  "abbr": "SHSU",
+  "teamId": "2534",
+  "score": 28.0
+ },
+ "away": {
+  "name": "Middle Tennessee Blue Raiders",
+  "abbr": "MTSU",
+  "teamId": "2393",
+  "score": 31.0
+ },
+ "odds": {
+  "mlAway": "-230",
+  "mlAwayOpen": "-205",
+  "mlHome": "+190",
+  "mlHomeOpen": "+170",
+  "provider": "DraftKings",
+  "spread": "MTSU -6.5",
+  "spreadOpen": "MTSU -5.5",
+  "total": "48.5",
+  "totalOpen": "49.5"
+ },
+ "espnWinProb": {
+  "away": 63.6,
+  "home": 36.4
+ },
+ "teams": {
+  "away": {
+   "abbr": "MTSU",
+   "stats": {
+    "firstDowns": "22",
+    "thirdDownEff": "3-10",
+    "fourthDownEff": "2-3",
+    "totalYards": "433",
+    "netPassingYards": "189",
+    "completionAttempts": "18/29",
+    "yardsPerPass": "6.5",
+    "rushingYards": "244",
+    "rushingAttempts": "36",
+    "yardsPerRushAttempt": "6.8",
+    "totalPenaltiesYards": "7-60",
+    "turnovers": "4",
+    "fumblesLost": "2",
+    "interceptions": "2",
+    "possessionTime": "30:59"
+   }
+  },
+  "home": {
+   "abbr": "SHSU",
+   "stats": {
+    "firstDowns": "18",
+    "thirdDownEff": "8-16",
+    "fourthDownEff": "0-2",
+    "totalYards": "330",
+    "netPassingYards": "209",
+    "completionAttempts": "20/33",
+    "yardsPerPass": "6.3",
+    "rushingYards": "121",
+    "rushingAttempts": "35",
+    "yardsPerRushAttempt": "3.5",
+    "totalPenaltiesYards": "4-40",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "29:01"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "14:45",
+   "team": "MTSU",
+   "text": "Antonio Martin 10 Yd Run (Dominic Bourgeois Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "9:49",
+   "team": "SHSU",
+   "text": "Brett Holloway 3 Yd Run (Sam Carpenter Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "0:18",
+   "team": "MTSU",
+   "text": "AJ Jones 6 Yd pass from Roman Gagliano (Dominic Bourgeois Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "7:31",
+   "team": "MTSU",
+   "text": "Roman Gagliano 21 Yd Run (Dominic Bourgeois Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:10",
+   "team": "SHSU",
+   "text": "Chris Reed 15 Yd pass from Mason Holtzclaw (Sam Carpenter Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "7:05",
+   "team": "SHSU",
+   "text": "Darrick Bledsoe III 24 Yd pass from Mason Holtzclaw (Sam Carpenter Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "6:44",
+   "team": "MTSU",
+   "text": "Terrence Brown 75 Yd Run (Dominic Bourgeois Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "1:28",
+   "team": "MTSU",
+   "text": "Dominic Bourgeois 31 Yd Field Goal "
+  },
+  {
+   "period": 4,
+   "clock": "5:35",
+   "team": "SHSU",
+   "text": "Tim Burns Jr. 30 Yd pass from Mason Holtzclaw (Sam Carpenter Kick)"
+  }
+ ]
+}

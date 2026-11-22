@@ -1,0 +1,150 @@
+{
+ "id": "ncaaf-401871101",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T21:00Z",
+ "home": {
+  "name": "Southern Miss Golden Eagles",
+  "abbr": "USM",
+  "teamId": "2572",
+  "score": 35.0
+ },
+ "away": {
+  "name": "South Alabama Jaguars",
+  "abbr": "USA",
+  "teamId": "6",
+  "score": 40.0
+ },
+ "odds": {
+  "mlAway": "-198",
+  "mlAwayOpen": "-192",
+  "mlHome": "+164",
+  "mlHomeOpen": "+160",
+  "provider": "DraftKings",
+  "spread": "USA -5.5",
+  "spreadOpen": "USA -5.5",
+  "total": "65.5",
+  "totalOpen": "62.5"
+ },
+ "espnWinProb": {
+  "away": 64.8,
+  "home": 35.2
+ },
+ "teams": {
+  "away": {
+   "abbr": "USA",
+   "stats": {
+    "firstDowns": "28",
+    "thirdDownEff": "5-15",
+    "fourthDownEff": "3-3",
+    "totalYards": "514",
+    "netPassingYards": "267",
+    "completionAttempts": "20/28",
+    "yardsPerPass": "9.5",
+    "rushingYards": "247",
+    "rushingAttempts": "51",
+    "yardsPerRushAttempt": "4.8",
+    "totalPenaltiesYards": "6-65",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "37:13"
+   }
+  },
+  "home": {
+   "abbr": "USM",
+   "stats": {
+    "firstDowns": "19",
+    "thirdDownEff": "5-12",
+    "fourthDownEff": "0-0",
+    "totalYards": "415",
+    "netPassingYards": "294",
+    "completionAttempts": "21/36",
+    "yardsPerPass": "8.2",
+    "rushingYards": "121",
+    "rushingAttempts": "24",
+    "yardsPerRushAttempt": "5.0",
+    "totalPenaltiesYards": "6-78",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "22:47"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "11:39",
+   "team": "USA",
+   "text": "Bishop Davenport 3 Yd Run (Dylan Freebury PAT failed)"
+  },
+  {
+   "period": 1,
+   "clock": "7:17",
+   "team": "USA",
+   "text": "Anthony Eager 38 Yd pass from Bishop Davenport (Dylan Freebury Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "4:56",
+   "team": "USM",
+   "text": "Steven Robinson 23 Yd Run (Creighton Wilbanks Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "12:19",
+   "team": "USA",
+   "text": "Dylan Freebury 29 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "6:30",
+   "team": "USM",
+   "text": "Grant Page 46 Yd pass from John White (Creighton Wilbanks Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:41",
+   "team": "USA",
+   "text": "Dylan Freebury 33 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "6:34",
+   "team": "USM",
+   "text": "Jamarice Wilder 1 Yd Run (John White Pass to Steven Robinson for Two-Point Conversion)"
+  },
+  {
+   "period": 3,
+   "clock": "0:45",
+   "team": "USM",
+   "text": "Mario Sanders 50 Yd pass from John White (Creighton Wilbanks Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "13:23",
+   "team": "USA",
+   "text": "Anthony Eager 13 Yd pass from Bishop Davenport (Dylan Freebury Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "7:48",
+   "team": "USA",
+   "text": "PJ Martin 50 Yd Run (Dylan Freebury Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "1:57",
+   "team": "USA",
+   "text": "PJ Martin 6 Yd Run (Dylan Freebury Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "0:53",
+   "team": "USM",
+   "text": "Mario Sanders 45 Yd pass from John White (Two-Point Pass Conversion Failed)"
+  }
+ ]
+}

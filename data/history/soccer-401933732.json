@@ -1,0 +1,252 @@
+{
+ "id": "soccer-401933732",
+ "sport": "soccer",
+ "league": "MLS",
+ "start": "2026-11-21T21:00Z",
+ "home": {
+  "name": "FC Dallas",
+  "abbr": "DAL",
+  "teamId": "185",
+  "score": 3.0
+ },
+ "away": {
+  "name": "Portland Timbers",
+  "abbr": "POR",
+  "teamId": "9723",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+260",
+  "mlAwayOpen": "+230",
+  "mlDraw": "+290",
+  "mlHome": "-120",
+  "mlHomeOpen": "-120",
+  "provider": "DraftKings",
+  "spread": "DAL -120",
+  "spreadOpen": "DAL -0.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "DAL",
+   "stats": {
+    "foulsCommitted": "20",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "7",
+    "saves": "5",
+    "possessionPct": "40.8",
+    "totalShots": "15",
+    "shotsOnTarget": "8",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "253",
+    "totalPasses": "330",
+    "passPct": "0.8",
+    "accurateCrosses": "1",
+    "totalCrosses": "14",
+    "crossPct": "0.1",
+    "totalLongBalls": "47",
+    "accurateLongBalls": "26",
+    "longballPct": "0.6",
+    "blockedShots": "4",
+    "effectiveTackles": "6",
+    "totalTackles": "15",
+    "tacklePct": "0.4",
+    "interceptions": "13",
+    "effectiveClearance": "29",
+    "totalClearance": "29"
+   }
+  },
+  "away": {
+   "abbr": "POR",
+   "stats": {
+    "foulsCommitted": "8",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "5",
+    "saves": "5",
+    "possessionPct": "59.2",
+    "totalShots": "12",
+    "shotsOnTarget": "5",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "403",
+    "totalPasses": "478",
+    "passPct": "0.8",
+    "accurateCrosses": "4",
+    "totalCrosses": "24",
+    "crossPct": "0.2",
+    "totalLongBalls": "53",
+    "accurateLongBalls": "20",
+    "longballPct": "0.4",
+    "blockedShots": "2",
+    "effectiveTackles": "12",
+    "totalTackles": "19",
+    "tacklePct": "0.6",
+    "interceptions": "8",
+    "effectiveClearance": "27",
+    "totalClearance": "27"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "15'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "15'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "25'",
+   "team": null,
+   "text": "Delay in match because of an injury Vincent Janssen (Portland Timbers)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "25'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "27'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "27'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "32'",
+   "team": null,
+   "text": "Herman Johansson (FC Dallas) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "33'",
+   "team": null,
+   "text": "Substitution, Portland Timbers. Alexander Aravena replaces Ariel Lassiter."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": "First Half ends, FC Dallas 0, Portland Timbers 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins FC Dallas 0, Portland Timbers 0."
+  },
+  {
+   "type": "Goal",
+   "clock": "53'",
+   "team": null,
+   "text": "Goal! FC Dallas 1, Portland Timbers 0. Joaquín Valiente (FC Dallas) left footed shot from the centre of the box to the bottom right corner following a fast break."
+  },
+  {
+   "type": "Goal",
+   "clock": "55'",
+   "team": null,
+   "text": "Goal! FC Dallas 2, Portland Timbers 0. Joaquín Valiente (FC Dallas) left footed shot from the left side of the six yard box to the centre of the goal. Assisted by Daniel Job."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Portland Timbers. Omir Fernandez replaces Ronald Hernández."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Portland Timbers. Diego Chará replaces José Caicedo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Portland Timbers. Eric Izoita replaces Cole Bassett."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, FC Dallas. Bernard Kamungo replaces Herman Johansson."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Portland Timbers. Ian Smith replaces Jimer Fory."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, FC Dallas. Santiago Moreno replaces Daniel Job."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, FC Dallas. Christian Cappis replaces Joaquín Valiente."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, FC Dallas. Sam Sarver replaces Kaick."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, FC Dallas. Logan Farrington replaces Petar Musa."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Bernard Kamungo (FC Dallas) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Goal! FC Dallas 3, Portland Timbers 0. Sam Sarver (FC Dallas) right footed shot from the centre of the box to the bottom left corner. Assisted by Logan Farrington with a cross following a fast break."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+6'",
+   "team": null,
+   "text": "Second Half ends, FC Dallas 3, Portland Timbers 0."
+  }
+ ],
+ "scoringPlays": []
+}

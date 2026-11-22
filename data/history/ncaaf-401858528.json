@@ -1,0 +1,132 @@
+{
+ "id": "ncaaf-401858528",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T20:30Z",
+ "home": {
+  "name": "Michigan Wolverines",
+  "abbr": "MICH",
+  "teamId": "130",
+  "score": 18.0
+ },
+ "away": {
+  "name": "#4 UCLA",
+  "abbr": "UCLA",
+  "teamId": "26",
+  "score": 16.0
+ },
+ "odds": {
+  "mlAway": "-180",
+  "mlAwayOpen": "-218",
+  "mlHome": "+150",
+  "mlHomeOpen": "+180",
+  "provider": "DraftKings",
+  "spread": "UCLA -3.5",
+  "spreadOpen": "UCLA -5.5",
+  "total": "36.5",
+  "totalOpen": "42.5"
+ },
+ "espnWinProb": {
+  "away": 53.4,
+  "home": 46.6
+ },
+ "teams": {
+  "away": {
+   "abbr": "UCLA",
+   "stats": {
+    "firstDowns": "17",
+    "thirdDownEff": "7-18",
+    "fourthDownEff": "2-3",
+    "totalYards": "296",
+    "netPassingYards": "189",
+    "completionAttempts": "20/32",
+    "yardsPerPass": "5.9",
+    "rushingYards": "107",
+    "rushingAttempts": "42",
+    "yardsPerRushAttempt": "2.5",
+    "totalPenaltiesYards": "4-35",
+    "turnovers": "3",
+    "fumblesLost": "2",
+    "interceptions": "1",
+    "possessionTime": "30:04"
+   }
+  },
+  "home": {
+   "abbr": "MICH",
+   "stats": {
+    "firstDowns": "14",
+    "thirdDownEff": "5-15",
+    "fourthDownEff": "0-2",
+    "totalYards": "247",
+    "netPassingYards": "127",
+    "completionAttempts": "11/24",
+    "yardsPerPass": "5.3",
+    "rushingYards": "120",
+    "rushingAttempts": "43",
+    "yardsPerRushAttempt": "2.8",
+    "totalPenaltiesYards": "3-15",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "29:56"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 2,
+   "clock": "3:08",
+   "team": "MICH",
+   "text": "Jacob Baggett 46 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "0:05",
+   "team": "UCLA",
+   "text": "Mateen Bhaghani 44 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "12:55",
+   "team": "MICH",
+   "text": "Mason Bonner 6 Yd pass from Bryce Underwood (Jacob Baggett Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "0:10",
+   "team": "UCLA",
+   "text": "Brayden Loftin 1 Yd pass from Anthony Woods (Mateen Bhaghani Kick)"
+  },
+  {
+   "period": 5,
+   "clock": "0:00",
+   "team": "UCLA",
+   "text": "Mateen Bhaghani 38 Yd Field Goal  "
+  },
+  {
+   "period": 5,
+   "clock": "0:00",
+   "team": "MICH",
+   "text": "Jacob Baggett 29 Yd Field Goal  "
+  },
+  {
+   "period": 6,
+   "clock": "0:00",
+   "team": "MICH",
+   "text": "Jacob Baggett 52 Yd Field Goal  "
+  },
+  {
+   "period": 6,
+   "clock": "0:00",
+   "team": "UCLA",
+   "text": "Mateen Bhaghani 38 Yd Field Goal  "
+  },
+  {
+   "period": 7,
+   "clock": "0:00",
+   "team": "MICH",
+   "text": "Bryce Underwood Pass to Jalen Hoffman for Two-Point Conversion"
+  }
+ ]
+}

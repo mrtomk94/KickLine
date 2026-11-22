@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401856754",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T20:30Z",
+ "home": {
+  "name": "#9 Tennessee",
+  "abbr": "TENN",
+  "teamId": "2633",
+  "score": 27.0
+ },
+ "away": {
+  "name": "LSU Tigers",
+  "abbr": "LSU",
+  "teamId": "99",
+  "score": 13.0
+ },
+ "odds": {
+  "mlAway": "-115",
+  "mlAwayOpen": "-118",
+  "mlHome": "-105",
+  "mlHomeOpen": "-102",
+  "provider": "DraftKings",
+  "spread": "LSU -1.5",
+  "spreadOpen": "LSU -1.5",
+  "total": "45.5",
+  "totalOpen": "57.5"
+ },
+ "espnWinProb": {
+  "away": 50.1,
+  "home": 49.9
+ },
+ "teams": {
+  "away": {
+   "abbr": "LSU",
+   "stats": {
+    "firstDowns": "16",
+    "thirdDownEff": "5-17",
+    "fourthDownEff": "0-2",
+    "totalYards": "265",
+    "netPassingYards": "222",
+    "completionAttempts": "27/39",
+    "yardsPerPass": "5.7",
+    "rushingYards": "43",
+    "rushingAttempts": "34",
+    "yardsPerRushAttempt": "1.3",
+    "totalPenaltiesYards": "16-98",
+    "turnovers": "3",
+    "fumblesLost": "3",
+    "interceptions": "0",
+    "possessionTime": "30:29"
+   }
+  },
+  "home": {
+   "abbr": "TENN",
+   "stats": {
+    "firstDowns": "17",
+    "thirdDownEff": "4-17",
+    "fourthDownEff": "1-2",
+    "totalYards": "308",
+    "netPassingYards": "105",
+    "completionAttempts": "14/28",
+    "yardsPerPass": "3.8",
+    "rushingYards": "203",
+    "rushingAttempts": "43",
+    "yardsPerRushAttempt": "4.7",
+    "totalPenaltiesYards": "11-89",
+    "turnovers": "3",
+    "fumblesLost": "2",
+    "interceptions": "1",
+    "possessionTime": "29:31"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "7:32",
+   "team": "LSU",
+   "text": "Scott Starzyk 44 Yd Field Goal  "
+  },
+  {
+   "period": 1,
+   "clock": "3:13",
+   "team": "LSU",
+   "text": "Scott Starzyk 26 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "8:10",
+   "team": "TENN",
+   "text": "Cooper Ranvier 52 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "0:12",
+   "team": "TENN",
+   "text": "DaSaahn Brame 2 Yd pass from George MacIntyre (Cooper Ranvier Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "5:06",
+   "team": "TENN",
+   "text": "Cooper Ranvier 23 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "1:34",
+   "team": "LSU",
+   "text": "Trey'Dez Green 9 Yd pass from Sam Leavitt (Scott Starzyk Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "8:22",
+   "team": "TENN",
+   "text": "Faizon Brandon 18 Yd Run (Cooper Ranvier Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "4:04",
+   "team": "TENN",
+   "text": "Faizon Brandon 55 Yd Run (Cooper Ranvier Kick)"
+  }
+ ]
+}

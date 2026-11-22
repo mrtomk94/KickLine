@@ -1,0 +1,342 @@
+{
+ "id": "soccer-401876396",
+ "sport": "soccer",
+ "league": "Ligue 1",
+ "start": "2026-11-21T19:45Z",
+ "home": {
+  "name": "Strasbourg",
+  "abbr": "STR",
+  "teamId": "180",
+  "score": 0.0
+ },
+ "away": {
+  "name": "Brest",
+  "abbr": "BRE",
+  "teamId": "6997",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+215",
+  "mlAwayOpen": "+200",
+  "mlDraw": "+255",
+  "mlHome": "+125",
+  "mlHomeOpen": "+115",
+  "provider": "DraftKings",
+  "spread": "STR +125",
+  "spreadOpen": "STR -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "STR",
+   "stats": {
+    "foulsCommitted": "15",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "8",
+    "saves": "1",
+    "possessionPct": "68.6",
+    "totalShots": "15",
+    "shotsOnTarget": "5",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "541",
+    "totalPasses": "608",
+    "passPct": "0.9",
+    "accurateCrosses": "5",
+    "totalCrosses": "22",
+    "crossPct": "0.2",
+    "totalLongBalls": "44",
+    "accurateLongBalls": "24",
+    "longballPct": "0.5",
+    "blockedShots": "6",
+    "effectiveTackles": "8",
+    "totalTackles": "11",
+    "tacklePct": "0.7",
+    "interceptions": "8",
+    "effectiveClearance": "11",
+    "totalClearance": "11"
+   }
+  },
+  "away": {
+   "abbr": "BRE",
+   "stats": {
+    "foulsCommitted": "17",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "1",
+    "saves": "5",
+    "possessionPct": "31.4",
+    "totalShots": "16",
+    "shotsOnTarget": "2",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "205",
+    "totalPasses": "284",
+    "passPct": "0.7",
+    "accurateCrosses": "3",
+    "totalCrosses": "5",
+    "crossPct": "0.6",
+    "totalLongBalls": "57",
+    "accurateLongBalls": "20",
+    "longballPct": "0.4",
+    "blockedShots": "8",
+    "effectiveTackles": "15",
+    "totalTackles": "23",
+    "tacklePct": "0.7",
+    "interceptions": "15",
+    "effectiveClearance": "36",
+    "totalClearance": "36"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "13'",
+   "team": null,
+   "text": "Dário Essugo (Strasbourg) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "13'",
+   "team": null,
+   "text": "Delay in match because of an injury Ludovic Ajorque (Brest)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "13'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "14'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "14'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "22'",
+   "team": null,
+   "text": "Goal! Strasbourg 0, Brest 1. Noah Edjouma (Brest) left footed shot from the right side of the box to the centre of the goal. Assisted by Joseph Nonge."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "24'",
+   "team": null,
+   "text": "Sebastian Nanasi (Strasbourg) is shown the yellow card."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "26'",
+   "team": null,
+   "text": "Delay in match because of an injury Kenny Lala (Brest)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "26'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "27'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "27'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "27'",
+   "team": null,
+   "text": "Substitution, Brest. Luck Zogbé replaces Kenny Lala because of an injury."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "43'",
+   "team": null,
+   "text": "Delay in match because of an injury Lucas Høgsberg (Strasbourg)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "43'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "44'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "44'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": "First Half ends, Strasbourg 0, Brest 1."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Strasbourg 0, Brest 1."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "56'",
+   "team": null,
+   "text": "Lucas Tousart (Brest) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "60'",
+   "team": null,
+   "text": "Substitution, Strasbourg. Conrad Harder replaces Jacobo Ortega."
+  },
+  {
+   "type": "Substitution",
+   "clock": "60'",
+   "team": null,
+   "text": "Substitution, Strasbourg. Pape Diop replaces Dário Essugo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "60'",
+   "team": null,
+   "text": "Substitution, Strasbourg. Diogo Sousa replaces Sebastian Nanasi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Strasbourg. Sam Amo-Ameyaw replaces Gessime Yassine."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Brest. Giovani Versini replaces Pathé Mboup."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Brest. Mama Baldé replaces Noah Edjouma."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Brest. Mamady Diambou replaces Joseph Nonge."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "73'",
+   "team": null,
+   "text": "Delay in match because of an injury Hugo Magnetti (Brest)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "73'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "74'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "74'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Strasbourg. Omari Kellyman replaces Samir El Mourabet."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "84'",
+   "team": null,
+   "text": "Delay in match because of an injury Gautier Lloris (Brest)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "84'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "84'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "84'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "86'",
+   "team": null,
+   "text": "Diogo Sousa (Strasbourg) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "90'+1'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'+4'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Saved",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Penalty saved. Martial Godo (Strasbourg) right footed shot saved in the bottom right corner by Egil Selvik (Brest)."
+  }
+ ],
+ "scoringPlays": []
+}

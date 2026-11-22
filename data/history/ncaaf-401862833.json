@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401862833",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T19:30Z",
+ "home": {
+  "name": "Florida Atlantic Owls",
+  "abbr": "FAU",
+  "teamId": "2226",
+  "score": 35.0
+ },
+ "away": {
+  "name": "South Florida Bulls",
+  "abbr": "USF",
+  "teamId": "58",
+  "score": 14.0
+ },
+ "odds": {
+  "mlAway": "-115",
+  "mlAwayOpen": "-105",
+  "mlHome": "-105",
+  "mlHomeOpen": "-115",
+  "provider": "DraftKings",
+  "spread": "USF -1.5",
+  "spreadOpen": "FAU -1.5",
+  "total": "63.5",
+  "totalOpen": "69.5"
+ },
+ "espnWinProb": {
+  "away": 58.5,
+  "home": 41.5
+ },
+ "teams": {
+  "away": {
+   "abbr": "USF",
+   "stats": {
+    "firstDowns": "26",
+    "thirdDownEff": "6-15",
+    "fourthDownEff": "1-5",
+    "totalYards": "430",
+    "netPassingYards": "385",
+    "completionAttempts": "32/49",
+    "yardsPerPass": "7.9",
+    "rushingYards": "45",
+    "rushingAttempts": "27",
+    "yardsPerRushAttempt": "1.7",
+    "totalPenaltiesYards": "2-25",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "interceptions": "1",
+    "possessionTime": "30:23"
+   }
+  },
+  "home": {
+   "abbr": "FAU",
+   "stats": {
+    "firstDowns": "26",
+    "thirdDownEff": "7-11",
+    "fourthDownEff": "0-0",
+    "totalYards": "502",
+    "netPassingYards": "386",
+    "completionAttempts": "30/38",
+    "yardsPerPass": "10.2",
+    "rushingYards": "116",
+    "rushingAttempts": "28",
+    "yardsPerRushAttempt": "4.1",
+    "totalPenaltiesYards": "5-39",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "29:37"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "3:33",
+   "team": "FAU",
+   "text": "C. Veltkamp pass to AJ Johnson for 36 yds, for a TD (C. Rogers KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "14:56",
+   "team": "FAU",
+   "text": "C. Rogers 48 yd FG GOOD"
+  },
+  {
+   "period": 2,
+   "clock": "7:34",
+   "team": "FAU",
+   "text": "C. Veltkamp pass to K. Valsin for 16 yds, for a TD (C. Rogers KICK)"
+  },
+  {
+   "period": 2,
+   "clock": "0:03",
+   "team": "FAU",
+   "text": "C. Rogers 28 yd FG GOOD"
+  },
+  {
+   "period": 3,
+   "clock": "11:05",
+   "team": "FAU",
+   "text": "C. Veltkamp pass to E. Messer for 8 yds, for a TD (C. Veltkamp pass to K. Valsin GOOD for Two-Point Conversion) (J. Magwood pass to K. Valsin GOOD for"
+  },
+  {
+   "period": 3,
+   "clock": "5:40",
+   "team": "USF",
+   "text": "L. Kromenhoek pass to J. Collins Jr. for 27 yds, for a TD ( KICK) (N. Gramatica KICK)"
+  },
+  {
+   "period": 3,
+   "clock": "1:38",
+   "team": "FAU",
+   "text": "C. Veltkamp pass to E. Messer for 24 yds, for a TD (C. Rogers KICK)"
+  },
+  {
+   "period": 4,
+   "clock": "0:10",
+   "team": "USF",
+   "text": "T. Kinkle run for 2 yds, for a TD (N. Gramatica KICK)"
+  }
+ ]
+}

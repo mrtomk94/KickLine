@@ -1,0 +1,115 @@
+{
+ "id": "ncaaf-401856746",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T19:00Z",
+ "home": {
+  "name": "#3 Alabama",
+  "abbr": "ALA",
+  "teamId": "333",
+  "score": 47.0
+ },
+ "away": {
+  "name": "Chattanooga Mocs",
+  "abbr": "UTC",
+  "teamId": "236",
+  "score": 0.0
+ },
+ "odds": {
+  "provider": "DraftKings"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "away": {
+   "abbr": "UTC",
+   "stats": {
+    "firstDowns": "5",
+    "thirdDownEff": "1-9",
+    "fourthDownEff": "0-0",
+    "totalYards": "86",
+    "netPassingYards": "59",
+    "completionAttempts": "6/12",
+    "yardsPerPass": "4.9",
+    "rushingYards": "27",
+    "rushingAttempts": "24",
+    "yardsPerRushAttempt": "1.1",
+    "totalPenaltiesYards": "4-41",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "20:31"
+   }
+  },
+  "home": {
+   "abbr": "ALA",
+   "stats": {
+    "firstDowns": "31",
+    "thirdDownEff": "6-10",
+    "fourthDownEff": "1-1",
+    "totalYards": "553",
+    "netPassingYards": "290",
+    "completionAttempts": "23/30",
+    "yardsPerPass": "9.7",
+    "rushingYards": "263",
+    "rushingAttempts": "42",
+    "yardsPerRushAttempt": "6.3",
+    "totalPenaltiesYards": "6-53",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "39:29"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "7:03",
+   "team": "ALA",
+   "text": "Austin Mack 1 Yd Run (Conor Talty Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "3:56",
+   "team": "ALA",
+   "text": "Team Safety "
+  },
+  {
+   "period": 2,
+   "clock": "13:09",
+   "team": "ALA",
+   "text": "Conor Talty 24 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "8:53",
+   "team": "ALA",
+   "text": "Ryan Coleman-Williams 8 Yd pass from Austin Mack (Conor Talty Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "2:44",
+   "team": "ALA",
+   "text": "Lotzeir Brooks 3 Yd pass from Austin Mack (Conor Talty Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:53",
+   "team": "ALA",
+   "text": "Rico Scott 29 Yd pass from Austin Mack (Conor Talty Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "7:01",
+   "team": "ALA",
+   "text": "Noah Rogers 8 Yd pass from Austin Mack (Lorcan Quinn Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "7:31",
+   "team": "ALA",
+   "text": "Kevin Riley 15 Yd pass from Jett Thomalla (Tucker Cornelius Kick)"
+  }
+ ]
+}

@@ -1,0 +1,264 @@
+{
+ "id": "soccer-401876403",
+ "sport": "soccer",
+ "league": "Ligue 1",
+ "start": "2026-11-21T19:45Z",
+ "home": {
+  "name": "Lens",
+  "abbr": "RCL",
+  "teamId": "175",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Toulouse",
+  "abbr": "TOU",
+  "teamId": "179",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+225",
+  "mlAwayOpen": "+300",
+  "mlDraw": "+260",
+  "mlHome": "+115",
+  "mlHomeOpen": "-125",
+  "provider": "DraftKings",
+  "spread": "RCL +115",
+  "spreadOpen": "RCL -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "RCL",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "9",
+    "saves": "4",
+    "possessionPct": "59.6",
+    "totalShots": "22",
+    "shotsOnTarget": "8",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "493",
+    "totalPasses": "575",
+    "passPct": "0.9",
+    "accurateCrosses": "7",
+    "totalCrosses": "34",
+    "crossPct": "0.2",
+    "totalLongBalls": "56",
+    "accurateLongBalls": "26",
+    "longballPct": "0.5",
+    "blockedShots": "4",
+    "effectiveTackles": "11",
+    "totalTackles": "21",
+    "tacklePct": "0.5",
+    "interceptions": "13",
+    "effectiveClearance": "21",
+    "totalClearance": "21"
+   }
+  },
+  "away": {
+   "abbr": "TOU",
+   "stats": {
+    "foulsCommitted": "15",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "5",
+    "saves": "7",
+    "possessionPct": "40.4",
+    "totalShots": "9",
+    "shotsOnTarget": "5",
+    "shotPct": "0.6",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "311",
+    "totalPasses": "397",
+    "passPct": "0.8",
+    "accurateCrosses": "2",
+    "totalCrosses": "10",
+    "crossPct": "0.2",
+    "totalLongBalls": "49",
+    "accurateLongBalls": "18",
+    "longballPct": "0.4",
+    "blockedShots": "2",
+    "effectiveTackles": "15",
+    "totalTackles": "18",
+    "tacklePct": "0.8",
+    "interceptions": "10",
+    "effectiveClearance": "40",
+    "totalClearance": "40"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "7'",
+   "team": null,
+   "text": "Delay in match (Lens)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "7'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "7'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "7'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "28'",
+   "team": null,
+   "text": "Niko Sigur (Toulouse) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "33'",
+   "team": null,
+   "text": "Florian Thauvin (Lens) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "33'",
+   "team": null,
+   "text": "Delay in match because of an injury Rasmus Nicolaisen (Toulouse)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "33'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "34'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "34'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "39'",
+   "team": null,
+   "text": "Goal! Lens 0, Toulouse 1. Jacen Russell-Rowe (Toulouse) right footed shot from the right side of the six yard box to the bottom right corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "43'",
+   "team": null,
+   "text": "Santiago Hidalgo (Toulouse) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Toulouse. Seny Koumbassa replaces Mark McKenzie."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Lens 0, Toulouse 1."
+  },
+  {
+   "type": "Goal",
+   "clock": "47'",
+   "team": null,
+   "text": "Goal! Lens 1, Toulouse 1. Michaël Cuisance (Lens) left footed shot from the left side of the box to the high centre of the goal."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Lens. Amadou Haidara replaces Michaël Cuisance."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Lens. Saud Abdulhamid replaces Ruben Aguilar."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Lens. Abdallah Sima replaces Mezian Mesloub."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "62'",
+   "team": null,
+   "text": "Amadou Haidara (Lens) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, Toulouse. Sion Oppong replaces Santiago Hidalgo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Lens. Ismaëlo Ganiou replaces Jhoanner Chávez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Toulouse. Aron Dønnum replaces Jacen Russell-Rowe."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Substitution, Lens. Michal Skóras replaces Florian Sotoca."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Substitution, Toulouse. Alexis Vossah replaces Thomas Jørgensen."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+4'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

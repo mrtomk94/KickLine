@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401869953",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T21:00Z",
+ "home": {
+  "name": "Troy Trojans",
+  "abbr": "TROY",
+  "teamId": "2653",
+  "score": 7.0
+ },
+ "away": {
+  "name": "Georgia Southern Eagles",
+  "abbr": "GASO",
+  "teamId": "290",
+  "score": 45.0
+ },
+ "odds": {
+  "mlAway": "-355",
+  "mlAwayOpen": "-325",
+  "mlHome": "+280",
+  "mlHomeOpen": "+260",
+  "provider": "DraftKings",
+  "spread": "GASO -9.5",
+  "spreadOpen": "GASO -8.5",
+  "total": "47.5",
+  "totalOpen": "47.5"
+ },
+ "espnWinProb": {
+  "away": 74.9,
+  "home": 25.1
+ },
+ "teams": {
+  "away": {
+   "abbr": "GASO",
+   "stats": {
+    "firstDowns": "20",
+    "thirdDownEff": "8-15",
+    "fourthDownEff": "0-0",
+    "totalYards": "410",
+    "netPassingYards": "281",
+    "completionAttempts": "24/29",
+    "yardsPerPass": "9.7",
+    "rushingYards": "129",
+    "rushingAttempts": "34",
+    "yardsPerRushAttempt": "3.8",
+    "totalPenaltiesYards": "9-95",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "35:26"
+   }
+  },
+  "home": {
+   "abbr": "TROY",
+   "stats": {
+    "firstDowns": "10",
+    "thirdDownEff": "2-10",
+    "fourthDownEff": "1-2",
+    "totalYards": "127",
+    "netPassingYards": "134",
+    "completionAttempts": "17/26",
+    "yardsPerPass": "5.2",
+    "rushingYards": "-7",
+    "rushingAttempts": "21",
+    "yardsPerRushAttempt": "-0.3",
+    "totalPenaltiesYards": "7-44",
+    "turnovers": "3",
+    "fumblesLost": "2",
+    "interceptions": "1",
+    "possessionTime": "24:34"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "13:46",
+   "team": "GASO",
+   "text": "Alex Taylor 12 Yd pass from Max Johnson (Tripp Bryant Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "7:06",
+   "team": "GASO",
+   "text": "Andre Greene Jr. 45 Yd pass from Max Johnson (Tripp Bryant Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:48",
+   "team": "GASO",
+   "text": "Jeremiah Ware 22 Yd pass from Max Johnson (Tripp Bryant Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "4:03",
+   "team": "TROY",
+   "text": "Jordan Lovett 47 Yd pass from Goose Crowder (Hayden Wolfe Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "0:28",
+   "team": "GASO",
+   "text": "Tripp Bryant 35 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "10:47",
+   "team": "GASO",
+   "text": "Andre Greene Jr. 22 Yd pass from Weston Bryan (Tripp Bryant Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "4:44",
+   "team": "GASO",
+   "text": "Taeo Todd 19 Yd Run (Tripp Bryant Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "2:19",
+   "team": "GASO",
+   "text": "Ty Cummings 8 Yd Run (Tripp Bryant Kick)"
+  }
+ ]
+}

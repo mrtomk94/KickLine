@@ -1,0 +1,114 @@
+{
+ "id": "ncaaf-401869929",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T19:30Z",
+ "home": {
+  "name": "App State Mountaineers",
+  "abbr": "APP",
+  "teamId": "2026",
+  "score": 17.0
+ },
+ "away": {
+  "name": "UL Monroe Warhawks",
+  "abbr": "ULM",
+  "teamId": "2433",
+  "score": 16.0
+ },
+ "odds": {
+  "mlAway": "+455",
+  "mlAwayOpen": "+425",
+  "mlHome": "-625",
+  "mlHomeOpen": "-575",
+  "provider": "DraftKings",
+  "spread": "APP -14",
+  "spreadOpen": "APP -13.5",
+  "total": "50.5",
+  "totalOpen": "50.5"
+ },
+ "espnWinProb": {
+  "away": 12.5,
+  "home": 87.5
+ },
+ "teams": {
+  "away": {
+   "abbr": "ULM",
+   "stats": {
+    "firstDowns": "14",
+    "thirdDownEff": "4-15",
+    "fourthDownEff": "2-2",
+    "totalYards": "277",
+    "netPassingYards": "174",
+    "completionAttempts": "18/26",
+    "yardsPerPass": "6.7",
+    "rushingYards": "103",
+    "rushingAttempts": "36",
+    "yardsPerRushAttempt": "2.9",
+    "totalPenaltiesYards": "5-50",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "29:24"
+   }
+  },
+  "home": {
+   "abbr": "APP",
+   "stats": {
+    "firstDowns": "19",
+    "thirdDownEff": "5-16",
+    "fourthDownEff": "3-3",
+    "totalYards": "349",
+    "netPassingYards": "188",
+    "completionAttempts": "19/32",
+    "yardsPerPass": "5.9",
+    "rushingYards": "161",
+    "rushingAttempts": "41",
+    "yardsPerRushAttempt": "3.9",
+    "totalPenaltiesYards": "2-20",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "30:36"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 2,
+   "clock": "8:43",
+   "team": "ULM",
+   "text": "Abram Murray 26 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "2:28",
+   "team": "APP",
+   "text": "Nate Branch 3 Yd pass from Malachi Singleton (James London Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "6:23",
+   "team": "ULM",
+   "text": "Bryce Anderson 18 Yd pass from Austin Carlisle (Abram Murray Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "0:02",
+   "team": "APP",
+   "text": "James London 22 Yd Field Goal  "
+  },
+  {
+   "period": 5,
+   "clock": "0:00",
+   "team": "ULM",
+   "text": "Austin Carlisle 1 Yd Run (Abram Murray PAT blocked)"
+  },
+  {
+   "period": 5,
+   "clock": "0:00",
+   "team": "APP",
+   "text": "Jackson Grier 25 Yd pass from Malachi Singleton (James London Kick)"
+  }
+ ]
+}

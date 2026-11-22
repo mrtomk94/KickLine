@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401862832",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T19:00Z",
+ "home": {
+  "name": "Tulsa Golden Hurricane",
+  "abbr": "TLSA",
+  "teamId": "202",
+  "score": 42.0
+ },
+ "away": {
+  "name": "Charlotte 49ers",
+  "abbr": "CLT",
+  "teamId": "2429",
+  "score": 14.0
+ },
+ "odds": {
+  "mlAway": "+1100",
+  "mlAwayOpen": "+675",
+  "mlHome": "-2100",
+  "mlHomeOpen": "-1050",
+  "provider": "DraftKings",
+  "spread": "TLSA -22.5",
+  "spreadOpen": "TLSA -20.5",
+  "total": "51.5",
+  "totalOpen": "52.5"
+ },
+ "espnWinProb": {
+  "away": 4.8,
+  "home": 95.2
+ },
+ "teams": {
+  "away": {
+   "abbr": "CLT",
+   "stats": {
+    "firstDowns": "12",
+    "thirdDownEff": "4-14",
+    "fourthDownEff": "0-3",
+    "totalYards": "259",
+    "netPassingYards": "86",
+    "completionAttempts": "18/29",
+    "yardsPerPass": "3.0",
+    "rushingYards": "173",
+    "rushingAttempts": "31",
+    "yardsPerRushAttempt": "5.6",
+    "totalPenaltiesYards": "4-40",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "30:09"
+   }
+  },
+  "home": {
+   "abbr": "TLSA",
+   "stats": {
+    "firstDowns": "25",
+    "thirdDownEff": "4-12",
+    "fourthDownEff": "1-1",
+    "totalYards": "482",
+    "netPassingYards": "285",
+    "completionAttempts": "21/29",
+    "yardsPerPass": "9.8",
+    "rushingYards": "197",
+    "rushingAttempts": "39",
+    "yardsPerRushAttempt": "5.1",
+    "totalPenaltiesYards": "6-65",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "29:51"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 2,
+   "clock": "11:01",
+   "team": "CLT",
+   "text": "Jaden Barnes 21 Yd pass from Conner Harrell (Aiden Bui Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "9:45",
+   "team": "TLSA",
+   "text": "Oran Singleton Jr. 55 Yd pass from Baylor Hayes (Owen Carey Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "14:46",
+   "team": "CLT",
+   "text": "Khamani Alexander 68 Yd Run (Aiden Bui Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "11:33",
+   "team": "TLSA",
+   "text": "Baylor Hayes 9 Yd Run (Owen Carey Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "7:03",
+   "team": "TLSA",
+   "text": "Oran Singleton Jr. 14 Yd pass from Baylor Hayes (Owen Carey Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "1:01",
+   "team": "TLSA",
+   "text": "Damari Alston 12 Yd pass from Baylor Hayes (Owen Carey Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "11:51",
+   "team": "TLSA",
+   "text": "Oran Singleton Jr. 13 Yd pass from Baylor Hayes (Owen Carey Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "9:13",
+   "team": "TLSA",
+   "text": "Trequan Jones 70 Yd Run (Owen Carey Kick)"
+  }
+ ]
+}

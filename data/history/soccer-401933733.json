@@ -1,0 +1,210 @@
+{
+ "id": "soccer-401933733",
+ "sport": "soccer",
+ "league": "MLS",
+ "start": "2026-11-21T19:00Z",
+ "home": {
+  "name": "New England Revolution",
+  "abbr": "NE",
+  "teamId": "189",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Philadelphia Union",
+  "abbr": "PHI",
+  "teamId": "10739",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+120",
+  "mlAwayOpen": "+105",
+  "mlDraw": "+240",
+  "mlHome": "+200",
+  "mlHomeOpen": "+200",
+  "provider": "DraftKings",
+  "spread": "PHI +120",
+  "spreadOpen": "PHI -0.5",
+  "total": "2.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "NE",
+   "stats": {
+    "foulsCommitted": "3",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "5",
+    "saves": "3",
+    "possessionPct": "48.9",
+    "totalShots": "10",
+    "shotsOnTarget": "4",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "331",
+    "totalPasses": "406",
+    "passPct": "0.8",
+    "accurateCrosses": "1",
+    "totalCrosses": "9",
+    "crossPct": "0.1",
+    "totalLongBalls": "52",
+    "accurateLongBalls": "14",
+    "longballPct": "0.3",
+    "blockedShots": "2",
+    "effectiveTackles": "7",
+    "totalTackles": "12",
+    "tacklePct": "0.6",
+    "interceptions": "11",
+    "effectiveClearance": "46",
+    "totalClearance": "46"
+   }
+  },
+  "away": {
+   "abbr": "PHI",
+   "stats": {
+    "foulsCommitted": "15",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "9",
+    "saves": "3",
+    "possessionPct": "51.1",
+    "totalShots": "15",
+    "shotsOnTarget": "2",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "333",
+    "totalPasses": "408",
+    "passPct": "0.8",
+    "accurateCrosses": "4",
+    "totalCrosses": "28",
+    "crossPct": "0.1",
+    "totalLongBalls": "52",
+    "accurateLongBalls": "31",
+    "longballPct": "0.6",
+    "blockedShots": "5",
+    "effectiveTackles": "12",
+    "totalTackles": "16",
+    "tacklePct": "0.8",
+    "interceptions": "3",
+    "effectiveClearance": "17",
+    "totalClearance": "17"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Own Goal",
+   "clock": "10'",
+   "team": null,
+   "text": "Own Goal by Nathan Harriel, Philadelphia Union. New England Revolution 1, Philadelphia Union 0."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "17'",
+   "team": null,
+   "text": "Nathan Harriel (Philadelphia Union) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "45'",
+   "team": null,
+   "text": "Will Sands (New England Revolution) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, New England Revolution. Jack Harrison replaces Dániel Gazdag."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "69'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Philadelphia Union. Indiana Vassilev replaces Milan Iloski."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Philadelphia Union. Jesús Bueno replaces Jovan Lukic."
+  },
+  {
+   "type": "End Delay",
+   "clock": "71'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal - Volley",
+   "clock": "73'",
+   "team": null,
+   "text": "Goal! New England Revolution 2, Philadelphia Union 0. Peyton Miller (New England Revolution) left footed shot from the left side of the six yard box to the top left corner. Assisted by Jack Harrison w"
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "76'",
+   "team": null,
+   "text": "Kai Wagner (Philadelphia Union) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Philadelphia Union. Ezekiel Alladoh replaces Frankie Westfield."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, New England Revolution. Alhassan Yusuf replaces Carles Gil because of an injury."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Philadelphia Union. Agustín Anello replaces Quinn Sullivan."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, New England Revolution. Luca Langoni replaces Dor Turgeman."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+6'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

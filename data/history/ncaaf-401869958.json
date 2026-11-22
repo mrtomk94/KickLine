@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401869958",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T21:00Z",
+ "home": {
+  "name": "Marshall Thundering Herd",
+  "abbr": "MRSH",
+  "teamId": "276",
+  "score": 28.0
+ },
+ "away": {
+  "name": "Georgia State Panthers",
+  "abbr": "GAST",
+  "teamId": "2247",
+  "score": 27.0
+ },
+ "odds": {
+  "mlAway": "+120",
+  "mlAwayOpen": "-118",
+  "mlHome": "-142",
+  "mlHomeOpen": "-102",
+  "provider": "DraftKings",
+  "spread": "MRSH -2.5",
+  "spreadOpen": "GAST -1.5",
+  "total": "56.5",
+  "totalOpen": "57.5"
+ },
+ "espnWinProb": {
+  "away": 65.1,
+  "home": 34.9
+ },
+ "teams": {
+  "away": {
+   "abbr": "GAST",
+   "stats": {
+    "firstDowns": "22",
+    "thirdDownEff": "5-15",
+    "fourthDownEff": "2-3",
+    "totalYards": "458",
+    "netPassingYards": "249",
+    "completionAttempts": "16/30",
+    "yardsPerPass": "8.3",
+    "rushingYards": "209",
+    "rushingAttempts": "43",
+    "yardsPerRushAttempt": "4.9",
+    "totalPenaltiesYards": "6-39",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "33:58"
+   }
+  },
+  "home": {
+   "abbr": "MRSH",
+   "stats": {
+    "firstDowns": "16",
+    "thirdDownEff": "4-12",
+    "fourthDownEff": "0-0",
+    "totalYards": "351",
+    "netPassingYards": "199",
+    "completionAttempts": "12/23",
+    "yardsPerPass": "8.7",
+    "rushingYards": "152",
+    "rushingAttempts": "36",
+    "yardsPerRushAttempt": "4.2",
+    "totalPenaltiesYards": "4-35",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "26:02"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "8:09",
+   "team": "GAST",
+   "text": "Grant Hollier 4 Yd pass from Ayden Pereira (Samer Layous Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "5:50",
+   "team": "GAST",
+   "text": "Derrick Avery Jr. 55 Yd pass from Ayden Pereira (Samer Layous Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "13:01",
+   "team": "MRSH",
+   "text": "Xayvion Turner-Bradshaw 21 Yd pass from Carlos Del Rio-Wilson (Jorge Diaz Nicolas Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "9:42",
+   "team": "MRSH",
+   "text": "Chris Culliver 94 Yd pass from Carlos Del Rio-Wilson (Jorge Diaz Nicolas PAT blocked)"
+  },
+  {
+   "period": 2,
+   "clock": "2:34",
+   "team": "GAST",
+   "text": "Lanear McCrary Jr. 4 Yd Run (Samer Layous Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "10:03",
+   "team": "MRSH",
+   "text": "Toby Payne 5 Yd pass from Carlos Del Rio-Wilson (Owen Sweeney Pass to Carlos Del Rio-Wilson for Two-Point Conversion)"
+  },
+  {
+   "period": 4,
+   "clock": "6:30",
+   "team": "MRSH",
+   "text": "Carlos Del Rio-Wilson 2 Yd Run (Jorge Diaz Nicolas Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "0:02",
+   "team": "GAST",
+   "text": "Rodshaun Dorsey 31 Yd pass from Ayden Pereira (Samer Layous PAT failed)"
+  }
+ ]
+}
