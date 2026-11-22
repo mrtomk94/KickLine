@@ -1,0 +1,120 @@
+{
+ "id": "ncaaf-401856751",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-22T00:30Z",
+ "home": {
+  "name": "Missouri Tigers",
+  "abbr": "MIZ",
+  "teamId": "142",
+  "score": 28.0
+ },
+ "away": {
+  "name": "#16 Kentucky",
+  "abbr": "UK",
+  "teamId": "96",
+  "score": 14.0
+ },
+ "odds": {
+  "mlAway": "+170",
+  "mlAwayOpen": "+185",
+  "mlHome": "-205",
+  "mlHomeOpen": "-225",
+  "provider": "DraftKings",
+  "spread": "MIZ -4.5",
+  "spreadOpen": "MIZ -6.5",
+  "total": "49.5",
+  "totalOpen": "49.5"
+ },
+ "espnWinProb": {
+  "away": 38.5,
+  "home": 61.6
+ },
+ "teams": {
+  "away": {
+   "abbr": "UK",
+   "stats": {
+    "firstDowns": "28",
+    "thirdDownEff": "7-14",
+    "fourthDownEff": "2-3",
+    "totalYards": "446",
+    "netPassingYards": "288",
+    "completionAttempts": "27/43",
+    "yardsPerPass": "6.7",
+    "rushingYards": "158",
+    "rushingAttempts": "35",
+    "yardsPerRushAttempt": "4.5",
+    "totalPenaltiesYards": "5-40",
+    "turnovers": "3",
+    "fumblesLost": "1",
+    "interceptions": "2",
+    "possessionTime": "33:44"
+   }
+  },
+  "home": {
+   "abbr": "MIZ",
+   "stats": {
+    "firstDowns": "16",
+    "thirdDownEff": "6-10",
+    "fourthDownEff": "0-0",
+    "totalYards": "391",
+    "netPassingYards": "314",
+    "completionAttempts": "17/22",
+    "yardsPerPass": "14.3",
+    "rushingYards": "77",
+    "rushingAttempts": "28",
+    "yardsPerRushAttempt": "2.8",
+    "totalPenaltiesYards": "9-84",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "26:16"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "9:00",
+   "team": "UK",
+   "text": "Adam Zouagui 23 Yd Field Goal  "
+  },
+  {
+   "period": 1,
+   "clock": "4:10",
+   "team": "MIZ",
+   "text": "Donovan Olugbode 7 Yd pass from Austin Simmons (Oliver Robbins Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "8:28",
+   "team": "MIZ",
+   "text": "Jude James 23 Yd pass from Austin Simmons (Oliver Robbins Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "11:57",
+   "team": "MIZ",
+   "text": "Naeshaun Montgomery 41 Yd pass from Austin Simmons (Oliver Robbins Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "7:29",
+   "team": "UK",
+   "text": "Adam Zouagui 26 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "4:30",
+   "team": "MIZ",
+   "text": "Donovan Olugbode 60 Yd pass from Austin Simmons (Oliver Robbins Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "13:23",
+   "team": "UK",
+   "text": "Jovantae Barnes 3 Yd Run (Kenny Minchey Pass to Jovantae Barnes for Two-Point Conversion)"
+  }
+ ]
+}

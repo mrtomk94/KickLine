@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401858306",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-22T00:30Z",
+ "home": {
+  "name": "#23 Louisville",
+  "abbr": "LOU",
+  "teamId": "97",
+  "score": 42.0
+ },
+ "away": {
+  "name": "Pittsburgh Panthers",
+  "abbr": "PITT",
+  "teamId": "221",
+  "score": 10.0
+ },
+ "odds": {
+  "mlAway": "+370",
+  "mlAwayOpen": "+270",
+  "mlHome": "-485",
+  "mlHomeOpen": "-340",
+  "provider": "DraftKings",
+  "spread": "LOU -11.5",
+  "spreadOpen": "LOU -12.5",
+  "total": "50.5",
+  "totalOpen": "51.5"
+ },
+ "espnWinProb": {
+  "away": 23.0,
+  "home": 77.0
+ },
+ "teams": {
+  "away": {
+   "abbr": "PITT",
+   "stats": {
+    "firstDowns": "8",
+    "thirdDownEff": "2-13",
+    "fourthDownEff": "0-1",
+    "totalYards": "150",
+    "netPassingYards": "102",
+    "completionAttempts": "15/28",
+    "yardsPerPass": "3.6",
+    "rushingYards": "48",
+    "rushingAttempts": "25",
+    "yardsPerRushAttempt": "1.9",
+    "totalPenaltiesYards": "8-55",
+    "turnovers": "4",
+    "fumblesLost": "2",
+    "interceptions": "2",
+    "possessionTime": "20:58"
+   }
+  },
+  "home": {
+   "abbr": "LOU",
+   "stats": {
+    "firstDowns": "25",
+    "thirdDownEff": "8-16",
+    "fourthDownEff": "0-0",
+    "totalYards": "396",
+    "netPassingYards": "309",
+    "completionAttempts": "25/41",
+    "yardsPerPass": "7.5",
+    "rushingYards": "87",
+    "rushingAttempts": "42",
+    "yardsPerRushAttempt": "2.1",
+    "totalPenaltiesYards": "5-60",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "interceptions": "1",
+    "possessionTime": "39:02"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "1:03",
+   "team": "LOU",
+   "text": "TreyShun Hurry 13 Yd pass from Lincoln Kienholz (Antonio Chadha Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "9:22",
+   "team": "PITT",
+   "text": "Isaiah Neal 31 Yd Fumble Return (Antonio Chadha Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "4:52",
+   "team": "LOU",
+   "text": "Lawayne McCoy 14 Yd pass from Lincoln Kienholz (Carson Hilbert Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:00",
+   "team": "PITT",
+   "text": "Antonio Chadha 57 Yd Field Goal "
+  },
+  {
+   "period": 3,
+   "clock": "9:40",
+   "team": "LOU",
+   "text": "Tre Richardson 33 Yd pass from Lincoln Kienholz (Carson Hilbert Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "5:13",
+   "team": "LOU",
+   "text": "Lawayne McCoy 23 Yd pass from Lincoln Kienholz (Carson Hilbert Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "14:52",
+   "team": "LOU",
+   "text": "Tre Richardson 23 Yd pass from Lincoln Kienholz (Carson Hilbert Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "3:19",
+   "team": "LOU",
+   "text": "Keyjuan Brown 1 Yd Run (Garth White Kick)"
+  }
+ ]
+}

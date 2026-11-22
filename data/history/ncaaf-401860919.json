@@ -1,0 +1,132 @@
+{
+ "id": "ncaaf-401860919",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-22T03:30Z",
+ "home": {
+  "name": "Oregon State Beavers",
+  "abbr": "ORST",
+  "teamId": "204",
+  "score": 31.0
+ },
+ "away": {
+  "name": "Utah State Aggies",
+  "abbr": "USU",
+  "teamId": "328",
+  "score": 24.0
+ },
+ "odds": {
+  "mlAway": "+210",
+  "mlAwayOpen": "+295",
+  "mlHome": "-258",
+  "mlHomeOpen": "-375",
+  "provider": "DraftKings",
+  "spread": "ORST -7",
+  "spreadOpen": "ORST -10",
+  "total": "51.5",
+  "totalOpen": "49.5"
+ },
+ "espnWinProb": {
+  "away": 21.8,
+  "home": 78.2
+ },
+ "teams": {
+  "away": {
+   "abbr": "USU",
+   "stats": {
+    "firstDowns": "22",
+    "thirdDownEff": "6-14",
+    "fourthDownEff": "0-1",
+    "totalYards": "393",
+    "netPassingYards": "302",
+    "completionAttempts": "21/35",
+    "yardsPerPass": "8.6",
+    "rushingYards": "91",
+    "rushingAttempts": "37",
+    "yardsPerRushAttempt": "2.5",
+    "totalPenaltiesYards": "9-79",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "33:35"
+   }
+  },
+  "home": {
+   "abbr": "ORST",
+   "stats": {
+    "firstDowns": "22",
+    "thirdDownEff": "2-10",
+    "fourthDownEff": "0-0",
+    "totalYards": "361",
+    "netPassingYards": "276",
+    "completionAttempts": "20/29",
+    "yardsPerPass": "9.5",
+    "rushingYards": "85",
+    "rushingAttempts": "32",
+    "yardsPerRushAttempt": "2.7",
+    "totalPenaltiesYards": "4-50",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "26:25"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "12:40",
+   "team": "USU",
+   "text": "Javen Jacobs 25 Yd pass from Anthony Garcia (Kian Afrookhteh Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "12:39",
+   "team": "USU",
+   "text": "McCae Hillstead 7 Yd Run (Kian Afrookhteh Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "10:16",
+   "team": "ORST",
+   "text": "Caleb Ojeda 45 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "6:43",
+   "team": "ORST",
+   "text": "Cynai Thomas 29 Yd pass from Maalik Murphy (Caleb Ojeda Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:00",
+   "team": "USU",
+   "text": "Kian Afrookhteh 21 Yd Field Goal "
+  },
+  {
+   "period": 3,
+   "clock": "11:14",
+   "team": "ORST",
+   "text": "Jake Reichle 4 Yd Run (Caleb Ojeda Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "12:37",
+   "team": "USU",
+   "text": "Anthony Garcia 10 Yd pass from McCae Hillstead (Kian Afrookhteh Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "10:03",
+   "team": "ORST",
+   "text": "Jake Reichle 1 Yd Run (Caleb Ojeda Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "3:41",
+   "team": "ORST",
+   "text": "Jake Reichle 2 Yd Run (Caleb Ojeda Kick)"
+  }
+ ]
+}

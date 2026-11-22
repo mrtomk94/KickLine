@@ -1,0 +1,108 @@
+{
+ "id": "ncaaf-401858307",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-22T00:30Z",
+ "home": {
+  "name": "#6 Notre Dame",
+  "abbr": "ND",
+  "teamId": "87",
+  "score": 24.0
+ },
+ "away": {
+  "name": "SMU Mustangs",
+  "abbr": "SMU",
+  "teamId": "2567",
+  "score": 3.0
+ },
+ "odds": {
+  "mlAway": "+900",
+  "mlAwayOpen": "+625",
+  "mlHome": "-1600",
+  "mlHomeOpen": "-950",
+  "provider": "DraftKings",
+  "spread": "ND -20.5",
+  "spreadOpen": "ND -17.5",
+  "total": "55.5",
+  "totalOpen": "56.5"
+ },
+ "espnWinProb": {
+  "away": 6.7,
+  "home": 93.3
+ },
+ "teams": {
+  "away": {
+   "abbr": "SMU",
+   "stats": {
+    "firstDowns": "18",
+    "thirdDownEff": "6-17",
+    "fourthDownEff": "2-5",
+    "totalYards": "327",
+    "netPassingYards": "216",
+    "completionAttempts": "24/45",
+    "yardsPerPass": "4.8",
+    "rushingYards": "111",
+    "rushingAttempts": "25",
+    "yardsPerRushAttempt": "4.4",
+    "totalPenaltiesYards": "2-20",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "28:46"
+   }
+  },
+  "home": {
+   "abbr": "ND",
+   "stats": {
+    "firstDowns": "21",
+    "thirdDownEff": "5-9",
+    "fourthDownEff": "1-1",
+    "totalYards": "464",
+    "netPassingYards": "312",
+    "completionAttempts": "19/29",
+    "yardsPerPass": "10.8",
+    "rushingYards": "152",
+    "rushingAttempts": "35",
+    "yardsPerRushAttempt": "4.3",
+    "totalPenaltiesYards": "5-53",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "interceptions": "1",
+    "possessionTime": "31:14"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "1:49",
+   "team": "ND",
+   "text": "Cooper Flanagan 2 Yd Run (Spencer Porath Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "8:50",
+   "team": "SMU",
+   "text": "Brendan Baird 40 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "5:28",
+   "team": "ND",
+   "text": "Jordan Faison 21 Yd pass from CJ Carr (Spencer Porath Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:02",
+   "team": "ND",
+   "text": "Spencer Porath 32 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "11:31",
+   "team": "ND",
+   "text": "Nolan James Jr. 4 Yd Run (Spencer Porath Kick)"
+  }
+ ]
+}

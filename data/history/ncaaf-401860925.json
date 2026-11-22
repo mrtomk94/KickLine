@@ -1,0 +1,132 @@
+{
+ "id": "ncaaf-401860925",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-22T02:30Z",
+ "home": {
+  "name": "#17 Boise State",
+  "abbr": "BOIS",
+  "teamId": "68",
+  "score": 20.0
+ },
+ "away": {
+  "name": "San Diego State Aztecs",
+  "abbr": "SDSU",
+  "teamId": "21",
+  "score": 22.0
+ },
+ "odds": {
+  "mlAway": "+850",
+  "mlAwayOpen": "+850",
+  "mlHome": "-1450",
+  "mlHomeOpen": "-1450",
+  "provider": "DraftKings",
+  "spread": "BOIS -20.5",
+  "spreadOpen": "BOIS -18.5",
+  "total": "60.5",
+  "totalOpen": "62.5"
+ },
+ "espnWinProb": {
+  "away": 6.1,
+  "home": 93.9
+ },
+ "teams": {
+  "away": {
+   "abbr": "SDSU",
+   "stats": {
+    "firstDowns": "20",
+    "thirdDownEff": "7-17",
+    "fourthDownEff": "1-1",
+    "totalYards": "406",
+    "netPassingYards": "227",
+    "completionAttempts": "19/38",
+    "yardsPerPass": "6.0",
+    "rushingYards": "179",
+    "rushingAttempts": "35",
+    "yardsPerRushAttempt": "5.1",
+    "totalPenaltiesYards": "6-50",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "28:11"
+   }
+  },
+  "home": {
+   "abbr": "BOIS",
+   "stats": {
+    "firstDowns": "20",
+    "thirdDownEff": "4-12",
+    "fourthDownEff": "2-3",
+    "totalYards": "412",
+    "netPassingYards": "311",
+    "completionAttempts": "23/35",
+    "yardsPerPass": "8.9",
+    "rushingYards": "101",
+    "rushingAttempts": "30",
+    "yardsPerRushAttempt": "3.4",
+    "totalPenaltiesYards": "3-20",
+    "turnovers": "3",
+    "fumblesLost": "1",
+    "interceptions": "2",
+    "possessionTime": "31:49"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 2,
+   "clock": "14:57",
+   "team": "BOIS",
+   "text": "Maddux Madsen 1 Yd Run (Canaan Moore Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "7:40",
+   "team": "SDSU",
+   "text": "Stone Saunders 9 Yd Run (Cooper DiLeva Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "3:32",
+   "team": "BOIS",
+   "text": "Canaan Moore 52 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "1:27",
+   "team": "SDSU",
+   "text": "Cooper DiLeva 51 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "12:58",
+   "team": "BOIS",
+   "text": "Akeem Wright 30 Yd pass from Maddux Madsen (Canaan Moore Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "9:02",
+   "team": "SDSU",
+   "text": "Cooper DiLeva 29 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "3:53",
+   "team": "BOIS",
+   "text": "Canaan Moore 26 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "1:51",
+   "team": "SDSU",
+   "text": "Jaylon Hawkins 39 Yd pass from Stone Saunders (Two-Point Pass Conversion Failed)"
+  },
+  {
+   "period": 4,
+   "clock": "0:00",
+   "team": "SDSU",
+   "text": "Cooper DiLeva 42 Yd Field Goal "
+  }
+ ]
+}

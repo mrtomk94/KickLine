@@ -1,0 +1,138 @@
+{
+ "id": "ncaaf-401856865",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-22T00:00Z",
+ "home": {
+  "name": "Kansas State Wildcats",
+  "abbr": "KSU",
+  "teamId": "2306",
+  "score": 28.0
+ },
+ "away": {
+  "name": "#19 Arizona",
+  "abbr": "ARIZ",
+  "teamId": "12",
+  "score": 35.0
+ },
+ "odds": {
+  "mlAway": "-375",
+  "mlAwayOpen": "-380",
+  "mlHome": "+295",
+  "mlHomeOpen": "+300",
+  "provider": "DraftKings",
+  "spread": "ARIZ -10",
+  "spreadOpen": "ARIZ -10.5",
+  "total": "53.5",
+  "totalOpen": "50.5"
+ },
+ "espnWinProb": {
+  "away": 74.0,
+  "home": 26.0
+ },
+ "teams": {
+  "away": {
+   "abbr": "ARIZ",
+   "stats": {
+    "firstDowns": "20",
+    "thirdDownEff": "7-17",
+    "fourthDownEff": "0-3",
+    "totalYards": "409",
+    "netPassingYards": "323",
+    "completionAttempts": "29/42",
+    "yardsPerPass": "7.7",
+    "rushingYards": "86",
+    "rushingAttempts": "31",
+    "yardsPerRushAttempt": "2.8",
+    "totalPenaltiesYards": "6-55",
+    "turnovers": "2",
+    "fumblesLost": "2",
+    "interceptions": "0",
+    "possessionTime": "31:41"
+   }
+  },
+  "home": {
+   "abbr": "KSU",
+   "stats": {
+    "firstDowns": "15",
+    "thirdDownEff": "3-13",
+    "fourthDownEff": "0-2",
+    "totalYards": "349",
+    "netPassingYards": "110",
+    "completionAttempts": "7/15",
+    "yardsPerPass": "7.3",
+    "rushingYards": "239",
+    "rushingAttempts": "49",
+    "yardsPerRushAttempt": "4.9",
+    "totalPenaltiesYards": "9-80",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "28:19"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 2,
+   "clock": "13:29",
+   "team": "ARIZ",
+   "text": "Noah Fifita 8 Yd Run (Michael Salgado-Medina Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "9:01",
+   "team": "KSU",
+   "text": "Rodney Fields Jr. 3 Yd Run (Luis Rodriguez Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "3:59",
+   "team": "ARIZ",
+   "text": "Kedrick Reescano 1 Yd Run (Michael Salgado-Medina Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:33",
+   "team": "KSU",
+   "text": "Derrick Salley Jr. 34 Yd pass from Dillon Duff (Luis Rodriguez Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "11:01",
+   "team": "ARIZ",
+   "text": "Michael Salgado-Medina 33 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "5:34",
+   "team": "KSU",
+   "text": "Dillon Duff 58 Yd Run (Luis Rodriguez Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "10:55",
+   "team": "KSU",
+   "text": "Wendell Gregory 0 Yd Fumble Return (Luis Rodriguez Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "6:03",
+   "team": "ARIZ",
+   "text": "Michael Salgado-Medina 26 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "1:52",
+   "team": "ARIZ",
+   "text": "Isaiah Mizell 35 Yd pass from Noah Fifita (Noah Fifita Pass to Giovanni Richardson for Two-Point Conversion)"
+  },
+  {
+   "period": 5,
+   "clock": "0:00",
+   "team": "ARIZ",
+   "text": "Giovanni Richardson 25 Yd pass from Noah Fifita (Michael Salgado-Medina Kick)"
+  }
+ ]
+}

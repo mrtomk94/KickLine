@@ -1,0 +1,270 @@
+{
+ "id": "soccer-401877051",
+ "sport": "soccer",
+ "league": "Liga MX",
+ "start": "2026-11-21T23:00Z",
+ "home": {
+  "name": "Santos",
+  "abbr": "SAN",
+  "teamId": "225",
+  "score": 1.0
+ },
+ "away": {
+  "name": "León",
+  "abbr": "LEO",
+  "teamId": "228",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "+175",
+  "mlAwayOpen": "+155",
+  "mlDraw": "+265",
+  "mlHome": "+140",
+  "mlHomeOpen": "+140",
+  "provider": "DraftKings",
+  "spread": "SAN +140",
+  "spreadOpen": "SAN -0.5",
+  "total": "2.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "SAN",
+   "stats": {
+    "foulsCommitted": "15",
+    "yellowCards": "0",
+    "redCards": "1",
+    "offsides": "0",
+    "wonCorners": "4",
+    "saves": "3",
+    "possessionPct": "36.4",
+    "totalShots": "6",
+    "shotsOnTarget": "2",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "227",
+    "totalPasses": "312",
+    "passPct": "0.7",
+    "accurateCrosses": "3",
+    "totalCrosses": "18",
+    "crossPct": "0.2",
+    "totalLongBalls": "61",
+    "accurateLongBalls": "27",
+    "longballPct": "0.4",
+    "blockedShots": "1",
+    "effectiveTackles": "4",
+    "totalTackles": "6",
+    "tacklePct": "0.7",
+    "interceptions": "6",
+    "effectiveClearance": "30",
+    "totalClearance": "30"
+   }
+  },
+  "away": {
+   "abbr": "LEO",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "5",
+    "saves": "1",
+    "possessionPct": "63.6",
+    "totalShots": "20",
+    "shotsOnTarget": "5",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "470",
+    "totalPasses": "553",
+    "passPct": "0.9",
+    "accurateCrosses": "3",
+    "totalCrosses": "28",
+    "crossPct": "0.1",
+    "totalLongBalls": "57",
+    "accurateLongBalls": "25",
+    "longballPct": "0.4",
+    "blockedShots": "4",
+    "effectiveTackles": "4",
+    "totalTackles": "9",
+    "tacklePct": "0.4",
+    "interceptions": "11",
+    "effectiveClearance": "22",
+    "totalClearance": "22"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "19'",
+   "team": null,
+   "text": "Jesús Lara (León) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "20'",
+   "team": null,
+   "text": "Delay in match because of an injury Emmanuel Echeverría (Santos Laguna)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "20'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "20'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "20'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "33'",
+   "team": null,
+   "text": "Delay in match because of an injury Carlos Acevedo (Santos Laguna)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "33'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "34'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "34'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Own Goal",
+   "clock": "37'",
+   "team": null,
+   "text": "Own Goal by Emmanuel Echeverría, Santos Laguna. Santos Laguna 0, León 1."
+  },
+  {
+   "type": "Red Card",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "Kevin Palacios (Santos Laguna) is shown the red card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "Luis Valadez (León) is shown the yellow card."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+6'",
+   "team": null,
+   "text": "First Half ends, Santos Laguna 0, León 1."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Santos Laguna. Aldo López replaces Emmanuel Echeverría."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Santos Laguna. Ramiro Sordo replaces Fran Villalba."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, León. Sebastián Fierro replaces Luis Valadez."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Santos Laguna 0, León 1."
+  },
+  {
+   "type": "Substitution",
+   "clock": "49'",
+   "team": null,
+   "text": "Substitution, León. Jordi Cortizo replaces Jesús Lara."
+  },
+  {
+   "type": "Goal",
+   "clock": "50'",
+   "team": null,
+   "text": "Goal! Santos Laguna 1, León 1. Ramiro Sordo (Santos Laguna) right footed shot from the centre of the box to the bottom right corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, León. Juan Domínguez replaces Rodrigo Echeverría."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, León. Ismael Díaz replaces Sebastián Vegas."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Santos Laguna. Esteban Lozano replaces Tahiel Jiménez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, León. Alfonso Alvarado replaces Fernando Beltrán."
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Santos Laguna. Eduardo Aguirre replaces Ezequiel Bullaude."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Santos Laguna. Salvador Mariscal replaces Facundo Cáseres."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'",
+   "team": null,
+   "text": "Goal! Santos Laguna 1, León 2. Ismael Díaz (León) right footed shot from outside the box to the bottom right corner. Assisted by Daniel Arcila."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+7'",
+   "team": null,
+   "text": "Second Half ends, Santos Laguna 1, León 2."
+  }
+ ],
+ "scoringPlays": []
+}

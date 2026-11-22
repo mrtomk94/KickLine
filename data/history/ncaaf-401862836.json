@@ -1,0 +1,120 @@
+{
+ "id": "ncaaf-401862836",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-22T01:00Z",
+ "home": {
+  "name": "UAB Blazers",
+  "abbr": "UAB",
+  "teamId": "5",
+  "score": 17.0
+ },
+ "away": {
+  "name": "UTSA Roadrunners",
+  "abbr": "UTSA",
+  "teamId": "2636",
+  "score": 19.0
+ },
+ "odds": {
+  "mlAway": "-192",
+  "mlAwayOpen": "-285",
+  "mlHome": "+160",
+  "mlHomeOpen": "+230",
+  "provider": "DraftKings",
+  "spread": "UTSA -4",
+  "spreadOpen": "UTSA -7.5",
+  "total": "49.5",
+  "totalOpen": "53.5"
+ },
+ "espnWinProb": {
+  "away": 70.9,
+  "home": 29.1
+ },
+ "teams": {
+  "away": {
+   "abbr": "UTSA",
+   "stats": {
+    "firstDowns": "15",
+    "thirdDownEff": "6-17",
+    "fourthDownEff": "2-2",
+    "totalYards": "336",
+    "netPassingYards": "139",
+    "completionAttempts": "13/22",
+    "yardsPerPass": "6.3",
+    "rushingYards": "197",
+    "rushingAttempts": "47",
+    "yardsPerRushAttempt": "4.2",
+    "totalPenaltiesYards": "6-60",
+    "turnovers": "3",
+    "fumblesLost": "2",
+    "interceptions": "1",
+    "possessionTime": "32:02"
+   }
+  },
+  "home": {
+   "abbr": "UAB",
+   "stats": {
+    "firstDowns": "14",
+    "thirdDownEff": "5-15",
+    "fourthDownEff": "1-1",
+    "totalYards": "227",
+    "netPassingYards": "118",
+    "completionAttempts": "10/25",
+    "yardsPerPass": "4.7",
+    "rushingYards": "109",
+    "rushingAttempts": "39",
+    "yardsPerRushAttempt": "2.8",
+    "totalPenaltiesYards": "8-39",
+    "turnovers": "2",
+    "fumblesLost": "2",
+    "interceptions": "0",
+    "possessionTime": "27:58"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 2,
+   "clock": "13:59",
+   "team": "UTSA",
+   "text": "A'Marion Peterson 1 Yd Run (Michael Petro Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "13:44",
+   "team": "UTSA",
+   "text": "Jamel Hardy Jr. 0 Yd Fumble Return (Michael Petro Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "7:58",
+   "team": "UAB",
+   "text": "Rod Robinson II 11 Yd Run (Jonah Delange Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:41",
+   "team": "UAB",
+   "text": "Rod Robinson II 1 Yd Run (Jonah Delange Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "9:31",
+   "team": "UTSA",
+   "text": "Michael Petro 26 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "13:32",
+   "team": "UTSA",
+   "text": "Team Safety "
+  },
+  {
+   "period": 4,
+   "clock": "9:36",
+   "team": "UAB",
+   "text": "Jonah Delange 39 Yd Field Goal  "
+  }
+ ]
+}

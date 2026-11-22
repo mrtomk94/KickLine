@@ -1,0 +1,342 @@
+{
+ "id": "soccer-401877049",
+ "sport": "soccer",
+ "league": "Liga MX",
+ "start": "2026-11-22T01:00Z",
+ "home": {
+  "name": "Pumas UNAM",
+  "abbr": "UNAM",
+  "teamId": "233",
+  "score": 0.0
+ },
+ "away": {
+  "name": "Monterrey",
+  "abbr": "MTY",
+  "teamId": "220",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "+155",
+  "mlAwayOpen": "+150",
+  "mlDraw": "+240",
+  "mlHome": "+170",
+  "mlHomeOpen": "+150",
+  "provider": "DraftKings",
+  "spread": "MTY +155",
+  "spreadOpen": "UNAM -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "UNAM",
+   "stats": {
+    "foulsCommitted": "21",
+    "yellowCards": "2",
+    "redCards": "1",
+    "offsides": "3",
+    "wonCorners": "6",
+    "saves": "4",
+    "possessionPct": "51.3",
+    "totalShots": "11",
+    "shotsOnTarget": "4",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "302",
+    "totalPasses": "362",
+    "passPct": "0.8",
+    "accurateCrosses": "4",
+    "totalCrosses": "19",
+    "crossPct": "0.2",
+    "totalLongBalls": "49",
+    "accurateLongBalls": "26",
+    "longballPct": "0.5",
+    "blockedShots": "1",
+    "effectiveTackles": "7",
+    "totalTackles": "11",
+    "tacklePct": "0.6",
+    "interceptions": "3",
+    "effectiveClearance": "23",
+    "totalClearance": "23"
+   }
+  },
+  "away": {
+   "abbr": "MTY",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "0",
+    "redCards": "1",
+    "offsides": "2",
+    "wonCorners": "2",
+    "saves": "4",
+    "possessionPct": "48.7",
+    "totalShots": "11",
+    "shotsOnTarget": "6",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "279",
+    "totalPasses": "345",
+    "passPct": "0.8",
+    "accurateCrosses": "4",
+    "totalCrosses": "16",
+    "crossPct": "0.3",
+    "totalLongBalls": "56",
+    "accurateLongBalls": "22",
+    "longballPct": "0.4",
+    "blockedShots": "0",
+    "effectiveTackles": "13",
+    "totalTackles": "16",
+    "tacklePct": "0.8",
+    "interceptions": "9",
+    "effectiveClearance": "25",
+    "totalClearance": "25"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "36'",
+   "team": null,
+   "text": "Delay in match because of an injury Luis Cárdenas (Monterrey)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "36'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "38'",
+   "team": null,
+   "text": "Substitution, Monterrey. Óliver Torres replaces Érick Aguirre."
+  },
+  {
+   "type": "End Delay",
+   "clock": "38'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "38'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "45'+3'",
+   "team": null,
+   "text": "Nathan Silva (Pumas UNAM) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+5'",
+   "team": null,
+   "text": "First Half ends, Pumas UNAM 0, Monterrey 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Monterrey. Jorge Rodríguez replaces Diego Rossi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Monterrey. Luca Orellano replaces César Garza."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "53'",
+   "team": null,
+   "text": "Carlos Salcedo (Monterrey) is shown the yellow card."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "55'",
+   "team": null,
+   "text": "Delay in match because of an injury Carlos Salcedo (Monterrey)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "55'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "56'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "56'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Red Card",
+   "clock": "58'",
+   "team": null,
+   "text": "Second yellow card to Carlos Salcedo (Monterrey) for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "59'",
+   "team": null,
+   "text": "Delay in match because of an injury Robert Morales (Pumas UNAM)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "59'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "60'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "60'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "70'",
+   "team": null,
+   "text": "Víctor Arteaga (Pumas UNAM) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Pumas UNAM. Pablo Bennevendo replaces Rodrigo López."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Pumas UNAM. Israel Luna replaces Víctor Arteaga."
+  },
+  {
+   "type": "Goal",
+   "clock": "74'",
+   "team": null,
+   "text": "Goal! Pumas UNAM 0, Monterrey 1. Luca Orellano (Monterrey) left footed shot from outside the box to the top left corner. Assisted by Orbelín Pineda."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Monterrey. Fidel Ambríz replaces Lucas Ocampos."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "76'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "76'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "80'",
+   "team": null,
+   "text": "Delay in match because of an injury Luca Orellano (Monterrey)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "80'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "80'",
+   "team": null,
+   "text": "Delay in match (Pumas UNAM). VAR checking."
+  },
+  {
+   "type": "Red Card",
+   "clock": "81'",
+   "team": null,
+   "text": "Álvaro Angulo (Pumas UNAM) is shown the red card."
+  },
+  {
+   "type": "End Delay",
+   "clock": "81'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "81'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "81'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Pumas UNAM. Alan Medina replaces Juninho."
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, Monterrey. Luis Reyes replaces Jesús Corona."
+  },
+  {
+   "type": "Substitution",
+   "clock": "89'",
+   "team": null,
+   "text": "Substitution, Pumas UNAM. Luciano Herrera replaces Rubén Duarte."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Goal! Pumas UNAM 0, Monterrey 2. Luca Orellano (Monterrey) left footed shot from the right side of the six yard box to the bottom left corner. Assisted by Óliver Torres."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+7'",
+   "team": null,
+   "text": "Second Half ends, Pumas UNAM 0, Monterrey 2."
+  }
+ ],
+ "scoringPlays": []
+}

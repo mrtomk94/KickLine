@@ -1,0 +1,144 @@
+{
+ "id": "ncaaf-401856870",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-22T03:15Z",
+ "home": {
+  "name": "Arizona State Sun Devils",
+  "abbr": "ASU",
+  "teamId": "9",
+  "score": 27.0
+ },
+ "away": {
+  "name": "Oklahoma State Cowboys",
+  "abbr": "OKST",
+  "teamId": "197",
+  "score": 30.0
+ },
+ "odds": {
+  "mlAway": "-135",
+  "mlAwayOpen": "-175",
+  "mlHome": "+114",
+  "mlHomeOpen": "+145",
+  "provider": "DraftKings",
+  "spread": "OKST -2.5",
+  "spreadOpen": "OKST -4",
+  "total": "59.5",
+  "totalOpen": "62.5"
+ },
+ "espnWinProb": {
+  "away": 67.6,
+  "home": 32.4
+ },
+ "teams": {
+  "away": {
+   "abbr": "OKST",
+   "stats": {
+    "firstDowns": "26",
+    "thirdDownEff": "4-12",
+    "fourthDownEff": "1-1",
+    "totalYards": "408",
+    "netPassingYards": "294",
+    "completionAttempts": "30/40",
+    "yardsPerPass": "7.4",
+    "rushingYards": "114",
+    "rushingAttempts": "33",
+    "yardsPerRushAttempt": "3.5",
+    "totalPenaltiesYards": "4-30",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "29:53"
+   }
+  },
+  "home": {
+   "abbr": "ASU",
+   "stats": {
+    "firstDowns": "16",
+    "thirdDownEff": "3-15",
+    "fourthDownEff": "5-5",
+    "totalYards": "352",
+    "netPassingYards": "232",
+    "completionAttempts": "17/29",
+    "yardsPerPass": "8.0",
+    "rushingYards": "120",
+    "rushingAttempts": "37",
+    "yardsPerRushAttempt": "3.2",
+    "totalPenaltiesYards": "4-35",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "30:07"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "10:09",
+   "team": "OKST",
+   "text": "William Mason 13 Yd Run (Sam Keltner Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "2:49",
+   "team": "ASU",
+   "text": "Reed Harris 1 Yd pass from Jake Fette (Carson Smith Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "7:04",
+   "team": "ASU",
+   "text": "Jake Fette 1 Yd Run (Carson Smith Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:47",
+   "team": "ASU",
+   "text": "Reed Harris 60 Yd pass from Jake Fette (Carson Smith Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:00",
+   "team": "ASU",
+   "text": "Carson Smith 51 Yd Field Goal "
+  },
+  {
+   "period": 3,
+   "clock": "10:39",
+   "team": "OKST",
+   "text": "Caleb Hawkins 9 Yd Run (Sam Keltner Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "2:50",
+   "team": "OKST",
+   "text": "Sam Keltner 25 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "9:11",
+   "team": "OKST",
+   "text": "Caleb Hawkins 7 Yd Run (Sam Keltner Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "3:12",
+   "team": "ASU",
+   "text": "Carson Smith 38 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "1:11",
+   "team": "OKST",
+   "text": "Sam Keltner 43 Yd Field Goal  "
+  },
+  {
+   "period": 5,
+   "clock": "0:00",
+   "team": "OKST",
+   "text": "Sam Keltner 35 Yd Field Goal  "
+  }
+ ]
+}

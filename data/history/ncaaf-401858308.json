@@ -1,0 +1,144 @@
+{
+ "id": "ncaaf-401858308",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-22T00:30Z",
+ "home": {
+  "name": "California Golden Bears",
+  "abbr": "CAL",
+  "teamId": "25",
+  "score": 28.0
+ },
+ "away": {
+  "name": "Stanford Cardinal",
+  "abbr": "STAN",
+  "teamId": "24",
+  "score": 44.0
+ },
+ "odds": {
+  "mlAway": "-135",
+  "mlAwayOpen": "-122",
+  "mlHome": "+114",
+  "mlHomeOpen": "+102",
+  "provider": "DraftKings",
+  "spread": "STAN -2.5",
+  "spreadOpen": "STAN -1.5",
+  "total": "55.5",
+  "totalOpen": "55.5"
+ },
+ "espnWinProb": {
+  "away": 47.0,
+  "home": 53.0
+ },
+ "teams": {
+  "away": {
+   "abbr": "STAN",
+   "stats": {
+    "firstDowns": "20",
+    "thirdDownEff": "5-12",
+    "fourthDownEff": "1-2",
+    "totalYards": "412",
+    "netPassingYards": "215",
+    "completionAttempts": "15/27",
+    "yardsPerPass": "8.0",
+    "rushingYards": "197",
+    "rushingAttempts": "34",
+    "yardsPerRushAttempt": "5.8",
+    "totalPenaltiesYards": "3-30",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "28:27"
+   }
+  },
+  "home": {
+   "abbr": "CAL",
+   "stats": {
+    "firstDowns": "18",
+    "thirdDownEff": "7-16",
+    "fourthDownEff": "2-3",
+    "totalYards": "387",
+    "netPassingYards": "204",
+    "completionAttempts": "22/30",
+    "yardsPerPass": "6.8",
+    "rushingYards": "183",
+    "rushingAttempts": "39",
+    "yardsPerRushAttempt": "4.7",
+    "totalPenaltiesYards": "13-112",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "31:33"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "5:27",
+   "team": "STAN",
+   "text": "Chico Holt 1 Yd pass from Micah Ford (Emmet Kenney Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "13:33",
+   "team": "CAL",
+   "text": "Taimane Purcell 2 Yd Run (Towns McGough Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "5:38",
+   "team": "STAN",
+   "text": "Davis Warren 8 Yd Run (Emmet Kenney Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:45",
+   "team": "CAL",
+   "text": "Ian Strong 12 Yd pass from Jaron-Keawe Sagapolutele (Towns McGough Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:00",
+   "team": "STAN",
+   "text": "Emmet Kenney 47 Yd Field Goal "
+  },
+  {
+   "period": 3,
+   "clock": "13:51",
+   "team": "STAN",
+   "text": "Micah Ford 1 Yd Run (Two-Point Run Conversion Failed)"
+  },
+  {
+   "period": 3,
+   "clock": "9:46",
+   "team": "STAN",
+   "text": "Micah Ford 63 Yd Run (Emmet Kenney Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "14:47",
+   "team": "STAN",
+   "text": "Nico Brown 49 Yd pass from Davis Warren (Emmet Kenney Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "11:24",
+   "team": "CAL",
+   "text": "Adam Mohammed 1 Yd Run (Two-Point Pass Conversion Failed)"
+  },
+  {
+   "period": 4,
+   "clock": "6:16",
+   "team": "STAN",
+   "text": "Zach Giuliano 48 Yd pass from Davis Warren (Emmet Kenney Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "1:40",
+   "team": "CAL",
+   "text": "Chase Hendricks 4 Yd pass from Jackson Brousseau (Jackson Brousseau Pass to Mason Mini for Two-Point Conversion)"
+  }
+ ]
+}

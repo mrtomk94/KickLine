@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401869938",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-22T00:00Z",
+ "home": {
+  "name": "Louisiana Tech Bulldogs",
+  "abbr": "LT",
+  "teamId": "2348",
+  "score": 48.0
+ },
+ "away": {
+  "name": "Arkansas State Red Wolves",
+  "abbr": "ARST",
+  "teamId": "2032",
+  "score": 3.0
+ },
+ "odds": {
+  "mlAway": "+440",
+  "mlAwayOpen": "+575",
+  "mlHome": "-600",
+  "mlHomeOpen": "-850",
+  "provider": "DraftKings",
+  "spread": "LT -14.5",
+  "spreadOpen": "LT -16.5",
+  "total": "54.5",
+  "totalOpen": "50.5"
+ },
+ "espnWinProb": {
+  "away": 15.2,
+  "home": 84.9
+ },
+ "teams": {
+  "away": {
+   "abbr": "ARST",
+   "stats": {
+    "firstDowns": "13",
+    "thirdDownEff": "3-13",
+    "fourthDownEff": "1-1",
+    "totalYards": "235",
+    "netPassingYards": "209",
+    "completionAttempts": "18/28",
+    "yardsPerPass": "7.5",
+    "rushingYards": "26",
+    "rushingAttempts": "28",
+    "yardsPerRushAttempt": "0.9",
+    "totalPenaltiesYards": "12-85",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "interceptions": "1",
+    "possessionTime": "30:17"
+   }
+  },
+  "home": {
+   "abbr": "LT",
+   "stats": {
+    "firstDowns": "23",
+    "thirdDownEff": "8-12",
+    "fourthDownEff": "1-1",
+    "totalYards": "488",
+    "netPassingYards": "319",
+    "completionAttempts": "19/28",
+    "yardsPerPass": "11.4",
+    "rushingYards": "169",
+    "rushingAttempts": "36",
+    "yardsPerRushAttempt": "4.7",
+    "totalPenaltiesYards": "3-35",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "29:43"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "5:31",
+   "team": "LT",
+   "text": "Eli Finley 1 Yd Run (Kaegan Kent Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "11:24",
+   "team": "ARST",
+   "text": "Clune Van Andel 45 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "6:42",
+   "team": "LT",
+   "text": "Eli Finley 10 Yd pass from Blake Baker (Kaegan Kent Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "5:02",
+   "team": "LT",
+   "text": "Marcus Calwise Jr. 18 Yd pass from Blake Baker (Kaegan Kent Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:44",
+   "team": "LT",
+   "text": "Rayshun Hurt 52 Yd pass from Blake Baker (Kaegan Kent Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "3:38",
+   "team": "LT",
+   "text": "Blake Baker 7 Yd Run (Kaegan Kent Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "12:41",
+   "team": "LT",
+   "text": "Jalen Mickens 24 Yd pass from Blake Baker (Kaegan Kent Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "0:35",
+   "team": "LT",
+   "text": "Andrew Burnette 22 Yd Run (Eli Finley PAT blocked)"
+  }
+ ]
+}

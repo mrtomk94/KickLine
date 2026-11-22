@@ -1,0 +1,276 @@
+{
+ "id": "soccer-401877048",
+ "sport": "soccer",
+ "league": "Liga MX",
+ "start": "2026-11-22T03:00Z",
+ "home": {
+  "name": "Tigres UANL",
+  "abbr": "UANL",
+  "teamId": "232",
+  "score": 1.0
+ },
+ "away": {
+  "name": "América",
+  "abbr": "AME",
+  "teamId": "227",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "-105",
+  "mlAwayOpen": "+100",
+  "mlDraw": "+265",
+  "mlHome": "+260",
+  "mlHomeOpen": "+230",
+  "provider": "DraftKings",
+  "spread": "AME -105",
+  "spreadOpen": "AME -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "UANL",
+   "stats": {
+    "foulsCommitted": "10",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "6",
+    "saves": "4",
+    "possessionPct": "50.4",
+    "totalShots": "14",
+    "shotsOnTarget": "4",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "369",
+    "totalPasses": "444",
+    "passPct": "0.8",
+    "accurateCrosses": "4",
+    "totalCrosses": "21",
+    "crossPct": "0.2",
+    "totalLongBalls": "45",
+    "accurateLongBalls": "26",
+    "longballPct": "0.6",
+    "blockedShots": "3",
+    "effectiveTackles": "11",
+    "totalTackles": "16",
+    "tacklePct": "0.7",
+    "interceptions": "14",
+    "effectiveClearance": "14",
+    "totalClearance": "14"
+   }
+  },
+  "away": {
+   "abbr": "AME",
+   "stats": {
+    "foulsCommitted": "16",
+    "yellowCards": "4",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "5",
+    "saves": "3",
+    "possessionPct": "49.6",
+    "totalShots": "10",
+    "shotsOnTarget": "4",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "367",
+    "totalPasses": "441",
+    "passPct": "0.8",
+    "accurateCrosses": "1",
+    "totalCrosses": "17",
+    "crossPct": "0.1",
+    "totalLongBalls": "36",
+    "accurateLongBalls": "18",
+    "longballPct": "0.5",
+    "blockedShots": "1",
+    "effectiveTackles": "8",
+    "totalTackles": "13",
+    "tacklePct": "0.6",
+    "interceptions": "10",
+    "effectiveClearance": "24",
+    "totalClearance": "24"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "13'",
+   "team": null,
+   "text": "Delay in match (Tigres)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "13'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "13'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "13'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "19'",
+   "team": null,
+   "text": "Edwin Cerrillo (Club América) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "27'",
+   "team": null,
+   "text": "Delay in match because of an injury Franco Rossano (Club América)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "27'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "28'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "28'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "40'",
+   "team": null,
+   "text": "César Araújo (Tigres) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": "First Half ends, Tigres 0, Club América 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Tigres. Edgar Villavicencio replaces César Araújo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Tigres. Ozziel Herrera replaces Isac Galván."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Tigres 0, Club América 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Club América. Miguel Borja replaces Henry Martín."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Club América. Isaías Violante replaces Carlos Álvarez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Club América. Israel Reyes replaces Edwin Cerrillo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Tigres. Jesús Garza replaces Vladimir Loroña."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "63'",
+   "team": null,
+   "text": "Franco Rossano (Club América) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Club América. Cristián Borja replaces Franco Rossano."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Tigres. Rodrigo Aguirre replaces Diego Lainez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Club América. Derek Jiménez replaces Óscar Perea."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "74'",
+   "team": null,
+   "text": "Alan Cervantes (Club América) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Tigres. Juan Vigón replaces Rômulo."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Israel Reyes (Club América) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal - Free-kick",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Goal! Tigres 1, Club América 0. Juan Brunetta (Tigres) from a free kick with a right footed shot to the top left corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Juan Brunetta (Tigres) is shown the yellow card for excessive celebration."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Second Half ends, Tigres 1, Club América 0."
+  }
+ ],
+ "scoringPlays": []
+}

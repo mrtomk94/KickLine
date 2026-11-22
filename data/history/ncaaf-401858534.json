@@ -1,0 +1,132 @@
+{
+ "id": "ncaaf-401858534",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T23:15Z",
+ "home": {
+  "name": "#18 USC",
+  "abbr": "USC",
+  "teamId": "30",
+  "score": 35.0
+ },
+ "away": {
+  "name": "Maryland Terrapins",
+  "abbr": "MD",
+  "teamId": "120",
+  "score": 21.0
+ },
+ "odds": {
+  "mlAway": "+625",
+  "mlAwayOpen": "+550",
+  "mlHome": "-950",
+  "mlHomeOpen": "-800",
+  "provider": "DraftKings",
+  "spread": "USC -17.5",
+  "spreadOpen": "USC -16.5",
+  "total": "57.5",
+  "totalOpen": "56.5"
+ },
+ "espnWinProb": {
+  "away": 6.9,
+  "home": 93.2
+ },
+ "teams": {
+  "away": {
+   "abbr": "MD",
+   "stats": {
+    "firstDowns": "19",
+    "thirdDownEff": "7-13",
+    "fourthDownEff": "2-2",
+    "totalYards": "352",
+    "netPassingYards": "251",
+    "completionAttempts": "24/39",
+    "yardsPerPass": "6.4",
+    "rushingYards": "101",
+    "rushingAttempts": "24",
+    "yardsPerRushAttempt": "4.2",
+    "totalPenaltiesYards": "7-69",
+    "turnovers": "3",
+    "fumblesLost": "0",
+    "interceptions": "3",
+    "possessionTime": "26:15"
+   }
+  },
+  "home": {
+   "abbr": "USC",
+   "stats": {
+    "firstDowns": "22",
+    "thirdDownEff": "8-16",
+    "fourthDownEff": "1-2",
+    "totalYards": "421",
+    "netPassingYards": "237",
+    "completionAttempts": "21/35",
+    "yardsPerPass": "6.8",
+    "rushingYards": "184",
+    "rushingAttempts": "38",
+    "yardsPerRushAttempt": "4.8",
+    "totalPenaltiesYards": "6-37",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "33:45"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "11:38",
+   "team": "USC",
+   "text": "Caden Chittenden 30 Yd Field Goal  "
+  },
+  {
+   "period": 1,
+   "clock": "2:21",
+   "team": "USC",
+   "text": "Trent Mosley 13 Yd pass from Jayden Maiava (Caden Chittenden Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "14:51",
+   "team": "MD",
+   "text": "DeJuan Williams 52 Yd Run (Sean O'Haire Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "8:52",
+   "team": "USC",
+   "text": "Caden Chittenden 31 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "0:26",
+   "team": "MD",
+   "text": "DeJuan Williams 1 Yd Run (Sean O'Haire Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "2:06",
+   "team": "USC",
+   "text": "Trent Mosley 9 Yd pass from Jayden Maiava (Caden Chittenden Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "12:49",
+   "team": "USC",
+   "text": "Waymond Jordan 1 Yd Run (Jayden Maiava Pass to Tanook Hines for Two-Point Conversion)"
+  },
+  {
+   "period": 4,
+   "clock": "11:51",
+   "team": "USC",
+   "text": "Waymond Jordan 17 Yd Run (Caden Chittenden Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "3:56",
+   "team": "MD",
+   "text": "Malik Washington 4 Yd Run (Sean O'Haire Kick)"
+  }
+ ]
+}

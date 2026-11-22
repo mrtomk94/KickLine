@@ -1,0 +1,132 @@
+{
+ "id": "ncaaf-401856872",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-22T02:00Z",
+ "home": {
+  "name": "TCU Horned Frogs",
+  "abbr": "TCU",
+  "teamId": "2628",
+  "score": 17.0
+ },
+ "away": {
+  "name": "#2 Utah",
+  "abbr": "UTAH",
+  "teamId": "254",
+  "score": 38.0
+ },
+ "odds": {
+  "mlAway": "-340",
+  "mlAwayOpen": "-205",
+  "mlHome": "+270",
+  "mlHomeOpen": "+170",
+  "provider": "DraftKings",
+  "spread": "UTAH -9.5",
+  "spreadOpen": "UTAH -5.5",
+  "total": "46.5",
+  "totalOpen": "44.5"
+ },
+ "espnWinProb": {
+  "away": 72.5,
+  "home": 27.5
+ },
+ "teams": {
+  "away": {
+   "abbr": "UTAH",
+   "stats": {
+    "firstDowns": "24",
+    "thirdDownEff": "7-14",
+    "fourthDownEff": "0-1",
+    "totalYards": "421",
+    "netPassingYards": "278",
+    "completionAttempts": "18/29",
+    "yardsPerPass": "9.6",
+    "rushingYards": "143",
+    "rushingAttempts": "41",
+    "yardsPerRushAttempt": "3.5",
+    "totalPenaltiesYards": "10-90",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "31:40"
+   }
+  },
+  "home": {
+   "abbr": "TCU",
+   "stats": {
+    "firstDowns": "15",
+    "thirdDownEff": "4-14",
+    "fourthDownEff": "0-1",
+    "totalYards": "259",
+    "netPassingYards": "106",
+    "completionAttempts": "15/32",
+    "yardsPerPass": "3.3",
+    "rushingYards": "153",
+    "rushingAttempts": "29",
+    "yardsPerRushAttempt": "5.3",
+    "totalPenaltiesYards": "8-62",
+    "turnovers": "2",
+    "fumblesLost": "0",
+    "interceptions": "2",
+    "possessionTime": "28:20"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "7:02",
+   "team": "UTAH",
+   "text": "Dillon Curtis 45 Yd Field Goal  "
+  },
+  {
+   "period": 1,
+   "clock": "3:55",
+   "team": "UTAH",
+   "text": "Devon Dampier 4 Yd Run (Dillon Curtis Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:28",
+   "team": "UTAH",
+   "text": "Braden Pegan 68 Yd pass from Devon Dampier (Dillon Curtis Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "9:13",
+   "team": "TCU",
+   "text": "Jeremy Payne 43 Yd Run (Kyle Lemmermann Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "3:37",
+   "team": "TCU",
+   "text": "Jeremy Payne 8 Yd Run (Kyle Lemmermann Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "9:26",
+   "team": "TCU",
+   "text": "Kyle Lemmermann 32 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "5:46",
+   "team": "UTAH",
+   "text": "Hunter Andrews 2 Yd Run (Dillon Curtis Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "2:59",
+   "team": "UTAH",
+   "text": "Larry Simmons 85 Yd pass from Devon Dampier (Dillon Curtis Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "1:53",
+   "team": "UTAH",
+   "text": "Devon Dampier 10 Yd Run (Dillon Curtis Kick)"
+  }
+ ]
+}

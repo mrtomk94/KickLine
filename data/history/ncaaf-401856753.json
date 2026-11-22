@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401856753",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-22T00:30Z",
+ "home": {
+  "name": "#21 South Carolina",
+  "abbr": "SC",
+  "teamId": "2579",
+  "score": 6.0
+ },
+ "away": {
+  "name": "#1 Georgia",
+  "abbr": "UGA",
+  "teamId": "61",
+  "score": 34.0
+ },
+ "odds": {
+  "mlAway": "-750",
+  "mlAwayOpen": "-375",
+  "mlHome": "+525",
+  "mlHomeOpen": "+295",
+  "provider": "DraftKings",
+  "spread": "UGA -14.5",
+  "spreadOpen": "UGA -10.5",
+  "total": "50.5",
+  "totalOpen": "50.5"
+ },
+ "espnWinProb": {
+  "away": 86.9,
+  "home": 13.1
+ },
+ "teams": {
+  "away": {
+   "abbr": "UGA",
+   "stats": {
+    "firstDowns": "24",
+    "thirdDownEff": "4-9",
+    "fourthDownEff": "1-1",
+    "totalYards": "421",
+    "netPassingYards": "281",
+    "completionAttempts": "19/23",
+    "yardsPerPass": "12.2",
+    "rushingYards": "140",
+    "rushingAttempts": "42",
+    "yardsPerRushAttempt": "3.3",
+    "totalPenaltiesYards": "5-47",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "37:17"
+   }
+  },
+  "home": {
+   "abbr": "SC",
+   "stats": {
+    "firstDowns": "15",
+    "thirdDownEff": "5-11",
+    "fourthDownEff": "0-0",
+    "totalYards": "218",
+    "netPassingYards": "87",
+    "completionAttempts": "10/18",
+    "yardsPerPass": "4.8",
+    "rushingYards": "131",
+    "rushingAttempts": "31",
+    "yardsPerRushAttempt": "4.2",
+    "totalPenaltiesYards": "7-60",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "22:43"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "9:23",
+   "team": "SC",
+   "text": "Malik Orsan 31 Yd Field Goal  "
+  },
+  {
+   "period": 1,
+   "clock": "2:34",
+   "team": "UGA",
+   "text": "Peyton Woodring 25 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "14:51",
+   "team": "SC",
+   "text": "Malik Orsan 32 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "1:56",
+   "team": "UGA",
+   "text": "Nate Frazier 1 Yd Run (Peyton Woodring Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "11:07",
+   "team": "UGA",
+   "text": "Nate Frazier 2 Yd Run (Peyton Woodring Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "5:33",
+   "team": "UGA",
+   "text": "Peyton Woodring 40 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "9:11",
+   "team": "UGA",
+   "text": "Craig Dandridge 14 Yd pass from Gunner Stockton (Peyton Woodring Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "1:03",
+   "team": "UGA",
+   "text": "Nick Peal 1 Yd Run (Peyton Woodring Kick)"
+  }
+ ]
+}

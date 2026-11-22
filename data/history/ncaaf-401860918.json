@@ -1,0 +1,162 @@
+{
+ "id": "ncaaf-401860918",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-22T00:30Z",
+ "home": {
+  "name": "Fresno State Bulldogs",
+  "abbr": "FRES",
+  "teamId": "278",
+  "score": 49.0
+ },
+ "away": {
+  "name": "Colorado State Rams",
+  "abbr": "CSU",
+  "teamId": "36",
+  "score": 42.0
+ },
+ "odds": {
+  "mlAway": "+850",
+  "mlAwayOpen": "+1000",
+  "mlHome": "-1450",
+  "mlHomeOpen": "-1800",
+  "provider": "DraftKings",
+  "spread": "FRES -20.5",
+  "spreadOpen": "FRES -19.5",
+  "total": "67.5",
+  "totalOpen": "61.5"
+ },
+ "espnWinProb": {
+  "away": 8.2,
+  "home": 91.8
+ },
+ "teams": {
+  "away": {
+   "abbr": "CSU",
+   "stats": {
+    "firstDowns": "29",
+    "thirdDownEff": "7-16",
+    "fourthDownEff": "3-3",
+    "totalYards": "571",
+    "netPassingYards": "413",
+    "completionAttempts": "27/38",
+    "yardsPerPass": "10.9",
+    "rushingYards": "158",
+    "rushingAttempts": "39",
+    "yardsPerRushAttempt": "4.1",
+    "totalPenaltiesYards": "10-81",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "33:21"
+   }
+  },
+  "home": {
+   "abbr": "FRES",
+   "stats": {
+    "firstDowns": "23",
+    "thirdDownEff": "6-9",
+    "fourthDownEff": "0-0",
+    "totalYards": "475",
+    "netPassingYards": "210",
+    "completionAttempts": "17/21",
+    "yardsPerPass": "10.0",
+    "rushingYards": "265",
+    "rushingAttempts": "32",
+    "yardsPerRushAttempt": "8.3",
+    "totalPenaltiesYards": "8-69",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "26:39"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "13:52",
+   "team": "FRES",
+   "text": "Simeon Harris 35 Yd Interception Return (Manaki Watanabe Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "10:32",
+   "team": "CSU",
+   "text": "Hauss Hejny 23 Yd Run (Kali Nguma Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "5:55",
+   "team": "FRES",
+   "text": "Rayshon Luke 18 Yd Run (Manaki Watanabe Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "0:40",
+   "team": "CSU",
+   "text": "Hauss Hejny 1 Yd Run (Kali Nguma Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "12:06",
+   "team": "FRES",
+   "text": "Rayshon Luke 6 Yd pass from Jayden Mandal (Manaki Watanabe Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "5:53",
+   "team": "FRES",
+   "text": "Josiah Freeman 5 Yd pass from Jayden Mandal (Manaki Watanabe Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:41",
+   "team": "CSU",
+   "text": "Kali Nguma 30 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "14:03",
+   "team": "FRES",
+   "text": "Bryson Donelson 61 Yd Run (Manaki Watanabe Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "10:42",
+   "team": "CSU",
+   "text": "Kali Nguma 39 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "8:18",
+   "team": "FRES",
+   "text": "Josiah Freeman 21 Yd pass from Jayden Mandal (Manaki Watanabe Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "1:27",
+   "team": "CSU",
+   "text": "Mel Brown 9 Yd Run (Kali Nguma Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "13:57",
+   "team": "FRES",
+   "text": "Rayshon Luke 3 Yd Run (Manaki Watanabe Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "1:48",
+   "team": "CSU",
+   "text": "Ryan McConnell 5 Yd pass from Hauss Hejny (Kali Nguma Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "0:26",
+   "team": "CSU",
+   "text": "Daven Amos 33 Yd pass from Hauss Hejny (Hauss Hejny Pass to Terrence Smith Jr. for Two-Point Conversion)"
+  }
+ ]
+}

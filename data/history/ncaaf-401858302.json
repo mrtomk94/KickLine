@@ -1,0 +1,132 @@
+{
+ "id": "ncaaf-401858302",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-22T00:00Z",
+ "home": {
+  "name": "#7 Miami",
+  "abbr": "MIA",
+  "teamId": "2390",
+  "score": 28.0
+ },
+ "away": {
+  "name": "Virginia Tech Hokies",
+  "abbr": "VT",
+  "teamId": "259",
+  "score": 20.0
+ },
+ "odds": {
+  "mlAway": "+950",
+  "mlAwayOpen": "+675",
+  "mlHome": "-1650",
+  "mlHomeOpen": "-1050",
+  "provider": "DraftKings",
+  "spread": "MIA -20.5",
+  "spreadOpen": "MIA -16.5",
+  "total": "61.5",
+  "totalOpen": "56.5"
+ },
+ "espnWinProb": {
+  "away": 3.7,
+  "home": 96.3
+ },
+ "teams": {
+  "away": {
+   "abbr": "VT",
+   "stats": {
+    "firstDowns": "13",
+    "thirdDownEff": "5-13",
+    "fourthDownEff": "0-1",
+    "totalYards": "208",
+    "netPassingYards": "168",
+    "completionAttempts": "22/36",
+    "yardsPerPass": "4.7",
+    "rushingYards": "40",
+    "rushingAttempts": "19",
+    "yardsPerRushAttempt": "2.1",
+    "totalPenaltiesYards": "1-10",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "24:54"
+   }
+  },
+  "home": {
+   "abbr": "MIA",
+   "stats": {
+    "firstDowns": "23",
+    "thirdDownEff": "9-14",
+    "fourthDownEff": "0-1",
+    "totalYards": "396",
+    "netPassingYards": "241",
+    "completionAttempts": "25/37",
+    "yardsPerPass": "6.5",
+    "rushingYards": "155",
+    "rushingAttempts": "38",
+    "yardsPerRushAttempt": "4.1",
+    "totalPenaltiesYards": "6-45",
+    "turnovers": "2",
+    "fumblesLost": "0",
+    "interceptions": "2",
+    "possessionTime": "35:06"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "6:43",
+   "team": "VT",
+   "text": "Jeffrey Overton Jr. 5 Yd pass from Ethan Grunkemeyer (John Love Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "5:56",
+   "team": "VT",
+   "text": "Messiah Mickens 15 Yd Run (John Love Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "1:44",
+   "team": "MIA",
+   "text": "Jake Weinberg 49 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "10:09",
+   "team": "MIA",
+   "text": "Mark Fletcher Jr. 1 Yd Run (Darian Mensah Pass to Daylyn Upshaw for Two-Point Conversion)"
+  },
+  {
+   "period": 2,
+   "clock": "1:03",
+   "team": "VT",
+   "text": "John Love 38 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "0:00",
+   "team": "MIA",
+   "text": "Jake Weinberg 59 Yd Field Goal "
+  },
+  {
+   "period": 3,
+   "clock": "11:13",
+   "team": "VT",
+   "text": "John Love 27 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "14:57",
+   "team": "MIA",
+   "text": "Mark Fletcher Jr. 1 Yd Run (Jake Weinberg Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "2:08",
+   "team": "MIA",
+   "text": "Mark Fletcher Jr. 11 Yd Run (Jake Weinberg Kick)"
+  }
+ ]
+}

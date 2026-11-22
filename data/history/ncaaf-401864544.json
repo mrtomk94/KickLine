@@ -1,0 +1,132 @@
+{
+ "id": "ncaaf-401864544",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-22T00:00Z",
+ "home": {
+  "name": "San José State Spartans",
+  "abbr": "SJSU",
+  "teamId": "23",
+  "score": 22.0
+ },
+ "away": {
+  "name": "UNLV Rebels",
+  "abbr": "UNLV",
+  "teamId": "2439",
+  "score": 24.0
+ },
+ "odds": {
+  "mlAway": "-238",
+  "mlAwayOpen": "-148",
+  "mlHome": "+195",
+  "mlHomeOpen": "+124",
+  "provider": "DraftKings",
+  "spread": "UNLV -6.5",
+  "spreadOpen": "UNLV -3",
+  "total": "47.5",
+  "totalOpen": "49.5"
+ },
+ "espnWinProb": {
+  "away": 71.4,
+  "home": 28.6
+ },
+ "teams": {
+  "away": {
+   "abbr": "UNLV",
+   "stats": {
+    "firstDowns": "20",
+    "thirdDownEff": "7-14",
+    "fourthDownEff": "0-2",
+    "totalYards": "346",
+    "netPassingYards": "197",
+    "completionAttempts": "17/27",
+    "yardsPerPass": "7.3",
+    "rushingYards": "149",
+    "rushingAttempts": "41",
+    "yardsPerRushAttempt": "3.6",
+    "totalPenaltiesYards": "6-45",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "interceptions": "1",
+    "possessionTime": "34:26"
+   }
+  },
+  "home": {
+   "abbr": "SJSU",
+   "stats": {
+    "firstDowns": "16",
+    "thirdDownEff": "7-16",
+    "fourthDownEff": "0-0",
+    "totalYards": "306",
+    "netPassingYards": "250",
+    "completionAttempts": "21/40",
+    "yardsPerPass": "6.3",
+    "rushingYards": "56",
+    "rushingAttempts": "23",
+    "yardsPerRushAttempt": "2.4",
+    "totalPenaltiesYards": "6-55",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "25:34"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "7:27",
+   "team": "UNLV",
+   "text": "Jai'Den Thomas 9 Yd Run (Ramon Villela Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "6:45",
+   "team": "SJSU",
+   "text": "Jabari Bates 33 Yd pass from Luke Weaver (Trajan Sinatra Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "1:02",
+   "team": "SJSU",
+   "text": "Trajan Sinatra 29 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "10:43",
+   "team": "UNLV",
+   "text": "Keyan Burnett 38 Yd pass from Jackson Arnold (Ramon Villela Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "9:09",
+   "team": "SJSU",
+   "text": "Trajan Sinatra 29 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "0:34",
+   "team": "UNLV",
+   "text": "Ramon Villela 32 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "0:16",
+   "team": "UNLV",
+   "text": "Jackson Arnold 1 Yd Run (Ramon Villela Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "6:51",
+   "team": "SJSU",
+   "text": "Trajan Sinatra 27 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "0:45",
+   "team": "SJSU",
+   "text": "Carson Clark 30 Yd pass from Luke Weaver (Two-Point Pass Conversion Failed)"
+  }
+ ]
+}

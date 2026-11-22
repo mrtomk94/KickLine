@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401860920",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-21T23:00Z",
+ "home": {
+  "name": "Texas State Bobcats",
+  "abbr": "TXST",
+  "teamId": "326",
+  "score": 42.0
+ },
+ "away": {
+  "name": "Washington State Cougars",
+  "abbr": "WSU",
+  "teamId": "265",
+  "score": 14.0
+ },
+ "odds": {
+  "mlAway": "+425",
+  "mlAwayOpen": "+500",
+  "mlHome": "-575",
+  "mlHomeOpen": "-700",
+  "provider": "DraftKings",
+  "spread": "TXST -13.5",
+  "spreadOpen": "TXST -14.5",
+  "total": "61.5",
+  "totalOpen": "57.5"
+ },
+ "espnWinProb": {
+  "away": 20.0,
+  "home": 80.0
+ },
+ "teams": {
+  "away": {
+   "abbr": "WSU",
+   "stats": {
+    "firstDowns": "18",
+    "thirdDownEff": "3-13",
+    "fourthDownEff": "1-4",
+    "totalYards": "255",
+    "netPassingYards": "150",
+    "completionAttempts": "21/33",
+    "yardsPerPass": "4.5",
+    "rushingYards": "105",
+    "rushingAttempts": "31",
+    "yardsPerRushAttempt": "3.4",
+    "totalPenaltiesYards": "7-45",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "30:16"
+   }
+  },
+  "home": {
+   "abbr": "TXST",
+   "stats": {
+    "firstDowns": "21",
+    "thirdDownEff": "7-13",
+    "fourthDownEff": "2-3",
+    "totalYards": "421",
+    "netPassingYards": "122",
+    "completionAttempts": "11/19",
+    "yardsPerPass": "6.4",
+    "rushingYards": "299",
+    "rushingAttempts": "45",
+    "yardsPerRushAttempt": "6.6",
+    "totalPenaltiesYards": "8-85",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "29:44"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "11:40",
+   "team": "WSU",
+   "text": "Daniel Blood 22 Yd pass from Owen Eshelman (Jack Stevens Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "8:13",
+   "team": "TXST",
+   "text": "Brad Jackson 9 Yd Run (Jacob Bonilla Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "4:07",
+   "team": "TXST",
+   "text": "Davian Jackson 1 Yd Run (Jacob Bonilla Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "11:34",
+   "team": "TXST",
+   "text": "Brad Jackson 44 Yd Run (Jacob Bonilla Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "2:14",
+   "team": "TXST",
+   "text": "Torrance Burgess Jr. 1 Yd Run (Jacob Bonilla Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "12:22",
+   "team": "TXST",
+   "text": "Beau Sparks 15 Yd pass from Brad Jackson (Jacob Bonilla Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "10:01",
+   "team": "TXST",
+   "text": "Brad Jackson 36 Yd Run (Jacob Bonilla Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "5:18",
+   "team": "WSU",
+   "text": "Isaiah Hung 30 Yd Fumble Return (Jack Stevens Kick)"
+  }
+ ]
+}

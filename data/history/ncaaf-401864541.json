@@ -1,0 +1,108 @@
+{
+ "id": "ncaaf-401864541",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-22T03:30Z",
+ "home": {
+  "name": "Nevada Wolf Pack",
+  "abbr": "NEV",
+  "teamId": "2440",
+  "score": 16.0
+ },
+ "away": {
+  "name": "Hawai'i Rainbow Warriors",
+  "abbr": "HAW",
+  "teamId": "62",
+  "score": 8.0
+ },
+ "odds": {
+  "mlAway": "+225",
+  "mlAwayOpen": "+110",
+  "mlHome": "-278",
+  "mlHomeOpen": "-130",
+  "provider": "DraftKings",
+  "spread": "NEV -7",
+  "spreadOpen": "NEV -2.5",
+  "total": "40.5",
+  "totalOpen": "42.5"
+ },
+ "espnWinProb": {
+  "away": 31.9,
+  "home": 68.1
+ },
+ "teams": {
+  "away": {
+   "abbr": "HAW",
+   "stats": {
+    "firstDowns": "14",
+    "thirdDownEff": "2-12",
+    "fourthDownEff": "0-2",
+    "totalYards": "182",
+    "netPassingYards": "141",
+    "completionAttempts": "20/36",
+    "yardsPerPass": "3.9",
+    "rushingYards": "41",
+    "rushingAttempts": "21",
+    "yardsPerRushAttempt": "2.0",
+    "totalPenaltiesYards": "8-65",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "29:24"
+   }
+  },
+  "home": {
+   "abbr": "NEV",
+   "stats": {
+    "firstDowns": "16",
+    "thirdDownEff": "3-12",
+    "fourthDownEff": "0-1",
+    "totalYards": "311",
+    "netPassingYards": "106",
+    "completionAttempts": "8/19",
+    "yardsPerPass": "5.6",
+    "rushingYards": "205",
+    "rushingAttempts": "42",
+    "yardsPerRushAttempt": "4.9",
+    "totalPenaltiesYards": "9-71",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "30:36"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 2,
+   "clock": "8:56",
+   "team": "NEV",
+   "text": "Jacob Fernandez 24 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "0:12",
+   "team": "NEV",
+   "text": "Jacob Fernandez 45 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "12:44",
+   "team": "NEV",
+   "text": "AJ Bianco 5 Yd Run (Jacob Fernandez Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "2:25",
+   "team": "NEV",
+   "text": "Jacob Fernandez 38 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "1:38",
+   "team": "HAW",
+   "text": "Titan Lacaden 14 Yd pass from Bjorn Jurgensen (Bjorn Jurgensen Pass to Tama Uiliata for Two-Point Conversion)"
+  }
+ ]
+}
