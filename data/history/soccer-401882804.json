@@ -1,0 +1,306 @@
+{
+ "id": "soccer-401882804",
+ "sport": "soccer",
+ "league": "LaLiga",
+ "start": "2026-11-22T13:00Z",
+ "home": {
+  "name": "Barcelona",
+  "abbr": "BAR",
+  "teamId": "83",
+  "score": 3.0
+ },
+ "away": {
+  "name": "Villarreal",
+  "abbr": "VIL",
+  "teamId": "102",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "+1100",
+  "mlAwayOpen": "+850",
+  "mlDraw": "+700",
+  "mlHome": "-525",
+  "mlHomeOpen": "-500",
+  "provider": "DraftKings",
+  "spread": "BAR -525",
+  "spreadOpen": "BAR -2.5",
+  "total": "4.5",
+  "totalOpen": "4.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "BAR",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "2",
+    "redCards": "1",
+    "offsides": "2",
+    "wonCorners": "10",
+    "saves": "0",
+    "possessionPct": "69.9",
+    "totalShots": "30",
+    "shotsOnTarget": "9",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "550",
+    "totalPasses": "621",
+    "passPct": "0.9",
+    "accurateCrosses": "5",
+    "totalCrosses": "23",
+    "crossPct": "0.2",
+    "totalLongBalls": "23",
+    "accurateLongBalls": "9",
+    "longballPct": "0.4",
+    "blockedShots": "10",
+    "effectiveTackles": "13",
+    "totalTackles": "17",
+    "tacklePct": "0.8",
+    "interceptions": "3",
+    "effectiveClearance": "9",
+    "totalClearance": "9"
+   }
+  },
+  "away": {
+   "abbr": "VIL",
+   "stats": {
+    "foulsCommitted": "19",
+    "yellowCards": "4",
+    "redCards": "1",
+    "offsides": "2",
+    "wonCorners": "0",
+    "saves": "7",
+    "possessionPct": "30.1",
+    "totalShots": "4",
+    "shotsOnTarget": "2",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "199",
+    "totalPasses": "276",
+    "passPct": "0.7",
+    "accurateCrosses": "1",
+    "totalCrosses": "2",
+    "crossPct": "0.5",
+    "totalLongBalls": "50",
+    "accurateLongBalls": "11",
+    "longballPct": "0.2",
+    "blockedShots": "0",
+    "effectiveTackles": "12",
+    "totalTackles": "22",
+    "tacklePct": "0.5",
+    "interceptions": "5",
+    "effectiveClearance": "37",
+    "totalClearance": "37"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "5'",
+   "team": null,
+   "text": "Goal! Barcelona 0, Villarreal 1. Tajon Buchanan (Villarreal) right footed shot from outside the box to the bottom right corner."
+  },
+  {
+   "type": "Goal",
+   "clock": "7'",
+   "team": null,
+   "text": "Goal! Barcelona 0, Villarreal 2. Tani Oluwaseyi (Villarreal) left footed shot from the left side of the box to the high centre of the goal. Assisted by Alberto Moleiro following a fast break."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "11'",
+   "team": null,
+   "text": "Pape Gueye (Villarreal) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "20'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "21'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Missed",
+   "clock": "23'",
+   "team": null,
+   "text": "Penalty missed! Still Barcelona 0, Villarreal 2. Lamine Yamal (Barcelona) hits the right post with a left footed shot."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "32'",
+   "team": null,
+   "text": "Alberto Moleiro (Villarreal) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": "First Half ends, Barcelona 0, Villarreal 2."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Barcelona 0, Villarreal 2."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "47'",
+   "team": null,
+   "text": "Pau Navarro (Villarreal) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "49'",
+   "team": null,
+   "text": "Alex Freeman (Villarreal) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "57'",
+   "team": null,
+   "text": "Goal! Barcelona 1, Villarreal 2. Gerard Martín (Barcelona) header from the centre of the box to the top right corner. Assisted by Pedri with a cross following a corner."
+  },
+  {
+   "type": "Goal",
+   "clock": "61'",
+   "team": null,
+   "text": "Goal! Barcelona 2, Villarreal 2. Fermín López (Barcelona) left footed shot from the centre of the box to the bottom left corner. Assisted by Lamine Yamal."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "63'",
+   "team": null,
+   "text": "Carlos Romero (Villarreal) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Villarreal. Carlos Maciá replaces Alberto Moleiro."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Villarreal. Sergi Cardona replaces Carlos Romero."
+  },
+  {
+   "type": "Own Goal",
+   "clock": "67'",
+   "team": null,
+   "text": "Own Goal by Pau Navarro, Villarreal. Barcelona 3, Villarreal 2."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Barcelona. Anthony Gordon replaces Karim Adeyemi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Barcelona. Dani Olmo replaces Fermín López."
+  },
+  {
+   "type": "Red Card",
+   "clock": "75'",
+   "team": null,
+   "text": "Fermín López (Barcelona) is shown the red card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "76'",
+   "team": null,
+   "text": "Raphinha (Barcelona) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Villarreal. Nicolas Pepe replaces Santi Comesaña."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Villarreal. Ayoze Pérez replaces Tajon Buchanan."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "80'",
+   "team": null,
+   "text": "Marc Bernal (Barcelona) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "84'",
+   "team": null,
+   "text": "Substitution, Barcelona. Jules Koundé replaces Eric García."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Villarreal. Santiago Mouriño replaces Georges Mikautadze."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Delay in match because of an injury Marc Bernal (Barcelona)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "90'+1'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'+1'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Substitution, Barcelona. Gavi replaces Marc Bernal because of an injury."
+  },
+  {
+   "type": "Red Card",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Second yellow card to Pau Navarro (Villarreal) for a bad foul."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+6'",
+   "team": null,
+   "text": "Second Half ends, Barcelona 3, Villarreal 2."
+  }
+ ],
+ "scoringPlays": []
+}

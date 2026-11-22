@@ -1,0 +1,342 @@
+{
+ "id": "soccer-401876397",
+ "sport": "soccer",
+ "league": "Ligue 1",
+ "start": "2026-11-22T14:00Z",
+ "home": {
+  "name": "Paris FC",
+  "abbr": "PAR",
+  "teamId": "6851",
+  "score": 4.0
+ },
+ "away": {
+  "name": "Angers",
+  "abbr": "ANG",
+  "teamId": "7868",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+800",
+  "mlAwayOpen": "+700",
+  "mlDraw": "+500",
+  "mlHome": "-330",
+  "mlHomeOpen": "-290",
+  "provider": "DraftKings",
+  "spread": "PAR -330",
+  "spreadOpen": "PAR -1.5",
+  "total": "3.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "PAR",
+   "stats": {
+    "foulsCommitted": "17",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "10",
+    "saves": "1",
+    "possessionPct": "64.9",
+    "totalShots": "18",
+    "shotsOnTarget": "9",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "754",
+    "totalPasses": "814",
+    "passPct": "0.9",
+    "accurateCrosses": "6",
+    "totalCrosses": "19",
+    "crossPct": "0.3",
+    "totalLongBalls": "24",
+    "accurateLongBalls": "19",
+    "longballPct": "0.8",
+    "blockedShots": "5",
+    "effectiveTackles": "7",
+    "totalTackles": "11",
+    "tacklePct": "0.6",
+    "interceptions": "10",
+    "effectiveClearance": "11",
+    "totalClearance": "11"
+   }
+  },
+  "away": {
+   "abbr": "ANG",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "2",
+    "saves": "5",
+    "possessionPct": "35.1",
+    "totalShots": "9",
+    "shotsOnTarget": "1",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "383",
+    "totalPasses": "435",
+    "passPct": "0.9",
+    "accurateCrosses": "1",
+    "totalCrosses": "13",
+    "crossPct": "0.1",
+    "totalLongBalls": "37",
+    "accurateLongBalls": "19",
+    "longballPct": "0.5",
+    "blockedShots": "3",
+    "effectiveTackles": "16",
+    "totalTackles": "20",
+    "tacklePct": "0.8",
+    "interceptions": "12",
+    "effectiveClearance": "22",
+    "totalClearance": "22"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "26'",
+   "team": null,
+   "text": "Delay in match because of an injury Anthony Lopes (Angers)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "26'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "27'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "27'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "36'",
+   "team": null,
+   "text": "Delay in match because of an injury Haris Belkebla (Angers)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "36'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "37'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "37'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "42'",
+   "team": null,
+   "text": "Luca Koleosho (Paris FC) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "47'",
+   "team": null,
+   "text": "Goal! Paris FC 1, Angers 0. Patrick Zabi (Paris FC) right footed shot from very close range to the centre of the goal. Assisted by Diego Coppola with a headed pass following a corner."
+  },
+  {
+   "type": "Goal",
+   "clock": "55'",
+   "team": null,
+   "text": "Goal! Paris FC 2, Angers 0. Luca Koleosho (Paris FC) left footed shot from the left side of the six yard box to the centre of the goal."
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, Angers. Jim Allevinah replaces Anthony Bermont."
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, Angers. Amine El Ouazzani replaces Usman Simbakoli."
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, Angers. Lilian Raolisoa replaces Carlens Arcus."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "60'",
+   "team": null,
+   "text": "Delay in match (Paris FC)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "60'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "60'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "60'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "61'",
+   "team": null,
+   "text": "Delay in match because of an injury Lilian Raolisoa (Angers)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "61'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "61'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "61'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "65'",
+   "team": null,
+   "text": "Goal! Paris FC 3, Angers 0. Maxime Lopez (Paris FC) right footed shot from very close range to the centre of the goal."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Paris FC. Jonathan Ikoné replaces Ilan Kebbal."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Paris FC. Adama Camara replaces Rudy Matondo."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "69'",
+   "team": null,
+   "text": "Delay in match because of an injury Pablo Pagis (Paris FC)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "69'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "70'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "70'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "72'",
+   "team": null,
+   "text": "Goal! Paris FC 4, Angers 0. Diego Coppola (Paris FC) header from very close range to the bottom left corner. Assisted by Pablo Pagis with a cross following a set piece situation."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "75'",
+   "team": null,
+   "text": "Jim Allevinah (Angers) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Angers. Emmanuel Biumla replaces Amine Sbaï."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Paris FC. Jean-Philippe Krasso replaces Pablo Pagis."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Paris FC. Moustapha Mbow replaces Samir Chergui."
+  },
+  {
+   "type": "Substitution",
+   "clock": "84'",
+   "team": null,
+   "text": "Substitution, Paris FC. Vincent Marchetti replaces Maxime Lopez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Angers. Jules Bouffandeau replaces Yassin Belkhdim."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Delay in match (Paris FC)."
+  }
+ ],
+ "scoringPlays": []
+}

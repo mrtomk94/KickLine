@@ -1,0 +1,258 @@
+{
+ "id": "soccer-401879234",
+ "sport": "soccer",
+ "league": "Premier League",
+ "start": "2026-11-22T14:00Z",
+ "home": {
+  "name": "Hull City",
+  "abbr": "HUL",
+  "teamId": "306",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Brighton & Hove Albion",
+  "abbr": "BHA",
+  "teamId": "331",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "-200",
+  "mlAwayOpen": "-190",
+  "mlDraw": "+340",
+  "mlHome": "+550",
+  "mlHomeOpen": "+450",
+  "provider": "DraftKings",
+  "spread": "BHA -200",
+  "spreadOpen": "BHA -1.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "HUL",
+   "stats": {
+    "foulsCommitted": "7",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "3",
+    "saves": "7",
+    "possessionPct": "29.8",
+    "totalShots": "11",
+    "shotsOnTarget": "5",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "135",
+    "totalPasses": "242",
+    "passPct": "0.6",
+    "accurateCrosses": "3",
+    "totalCrosses": "15",
+    "crossPct": "0.2",
+    "totalLongBalls": "81",
+    "accurateLongBalls": "22",
+    "longballPct": "0.3",
+    "blockedShots": "2",
+    "effectiveTackles": "10",
+    "totalTackles": "16",
+    "tacklePct": "0.6",
+    "interceptions": "9",
+    "effectiveClearance": "23",
+    "totalClearance": "23"
+   }
+  },
+  "away": {
+   "abbr": "BHA",
+   "stats": {
+    "foulsCommitted": "17",
+    "yellowCards": "2",
+    "redCards": "1",
+    "offsides": "1",
+    "wonCorners": "5",
+    "saves": "3",
+    "possessionPct": "70.2",
+    "totalShots": "15",
+    "shotsOnTarget": "8",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "501",
+    "totalPasses": "589",
+    "passPct": "0.9",
+    "accurateCrosses": "6",
+    "totalCrosses": "24",
+    "crossPct": "0.3",
+    "totalLongBalls": "63",
+    "accurateLongBalls": "37",
+    "longballPct": "0.6",
+    "blockedShots": "3",
+    "effectiveTackles": "8",
+    "totalTackles": "13",
+    "tacklePct": "0.6",
+    "interceptions": "13",
+    "effectiveClearance": "23",
+    "totalClearance": "23"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "34'",
+   "team": null,
+   "text": "Luka Vuskovic (Brighton and Hove Albion) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "37'",
+   "team": null,
+   "text": "Nobel Mendy (Hull City) is shown the yellow card."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "43'",
+   "team": null,
+   "text": "Delay in match because of an injury Tim Iroegbunam (Hull City)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "43'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "45'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Hull City. Lucas Gourna-Douath replaces Tim Iroegbunam because of an injury."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+4'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Hull City. Sorba Thomas replaces Mohamed-Ali Cho."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "59'",
+   "team": null,
+   "text": "Lucas Gourna-Douath (Hull City) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "63'",
+   "team": null,
+   "text": "Costinha (Brighton and Hove Albion) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Brighton and Hove Albion. Jack Hinshelwood replaces Yasin Ayari."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Brighton and Hove Albion. Charalampos Kostoulas replaces Georginio Rutter."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Brighton and Hove Albion. Yankuba Minteh replaces Olivier Boscagli."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Hull City. Ryan Giles replaces Elliot Stroud."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Hull City. Jens Hjertø-Dahl replaces Matt Crooks."
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Brighton and Hove Albion. Ferdi Kadıoğlu replaces Diego Gómez."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "81'",
+   "team": null,
+   "text": "Chema Andrés (Brighton and Hove Albion) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "84'",
+   "team": null,
+   "text": "Substitution, Hull City. Brooke Norton-Cuffy replaces Lewie Coyle."
+  },
+  {
+   "type": "Red Card",
+   "clock": "89'",
+   "team": null,
+   "text": "Second yellow card to Costinha (Brighton and Hove Albion) for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Goal! Hull City 1, Brighton and Hove Albion 0. Oliver McBurnie (Hull City) right footed shot from the centre of the box to the bottom right corner. Assisted by Lucas Gourna-Douath following a fast bre"
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Substitution, Brighton and Hove Albion. Ibrahim Osman replaces Chema Andrés."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Goal! Hull City 2, Brighton and Hove Albion 0. Oliver McBurnie (Hull City) right footed shot from the left side of the six yard box to the centre of the goal. Assisted by Mohamed Belloumi following a "
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+6'",
+   "team": null,
+   "text": "Second Half ends, Hull City 2, Brighton and Hove Albion 0."
+  }
+ ],
+ "scoringPlays": []
+}

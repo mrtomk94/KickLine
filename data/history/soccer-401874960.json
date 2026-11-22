@@ -1,0 +1,228 @@
+{
+ "id": "soccer-401874960",
+ "sport": "soccer",
+ "league": "Serie A",
+ "start": "2026-11-22T14:00Z",
+ "home": {
+  "name": "Sassuolo",
+  "abbr": "SAS",
+  "teamId": "3997",
+  "score": 0.0
+ },
+ "away": {
+  "name": "Genoa",
+  "abbr": "GEN",
+  "teamId": "3263",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "+160",
+  "mlAwayOpen": "+180",
+  "mlDraw": "+215",
+  "mlHome": "+165",
+  "mlHomeOpen": "+130",
+  "provider": "DraftKings",
+  "spread": "GEN +160",
+  "spreadOpen": "SAS -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "SAS",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "5",
+    "saves": "2",
+    "possessionPct": "64.7",
+    "totalShots": "25",
+    "shotsOnTarget": "7",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "525",
+    "totalPasses": "616",
+    "passPct": "0.9",
+    "accurateCrosses": "3",
+    "totalCrosses": "22",
+    "crossPct": "0.1",
+    "totalLongBalls": "65",
+    "accurateLongBalls": "36",
+    "longballPct": "0.6",
+    "blockedShots": "5",
+    "effectiveTackles": "9",
+    "totalTackles": "21",
+    "tacklePct": "0.4",
+    "interceptions": "11",
+    "effectiveClearance": "21",
+    "totalClearance": "21"
+   }
+  },
+  "away": {
+   "abbr": "GEN",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "3",
+    "saves": "7",
+    "possessionPct": "35.3",
+    "totalShots": "11",
+    "shotsOnTarget": "5",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "249",
+    "totalPasses": "334",
+    "passPct": "0.7",
+    "accurateCrosses": "2",
+    "totalCrosses": "9",
+    "crossPct": "0.2",
+    "totalLongBalls": "64",
+    "accurateLongBalls": "20",
+    "longballPct": "0.3",
+    "blockedShots": "3",
+    "effectiveTackles": "11",
+    "totalTackles": "19",
+    "tacklePct": "0.6",
+    "interceptions": "9",
+    "effectiveClearance": "35",
+    "totalClearance": "35"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal",
+   "clock": "26'",
+   "team": null,
+   "text": "Goal! Sassuolo 0, Genoa 1. Milutin Osmajic (Genoa) right footed shot from the centre of the box to the bottom right corner. Assisted by Hamed Traoré with a through ball."
+  },
+  {
+   "type": "Goal",
+   "clock": "38'",
+   "team": null,
+   "text": "Goal! Sassuolo 0, Genoa 2. Milutin Osmajic (Genoa) left footed shot from very close range to the bottom right corner following a fast break."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, Sassuolo 0, Genoa 2."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Sassuolo. Kieron Bowie replaces Sebastiano Esposito."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Sassuolo. Ibrahim Sulemana replaces Fali Candé."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "63'",
+   "team": null,
+   "text": "Kristian Thorstvedt (Sassuolo) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, Genoa. Vítinha replaces Tommaso Baldanzi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, Genoa. Morten Frendrup replaces Alex Amorim."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Genoa. Ethan Meichtry replaces Junior Messias."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Sassuolo. Benja Domínguez replaces Nemanja Matic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Sassuolo. Simone Cinquegrano replaces Ignace Van der Brempt."
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, Genoa. Lorenzo Colombo replaces Milutin Osmajic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, Genoa. Samuel Wiafe replaces Hamed Traoré."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Sassuolo. Josh Doig replaces Rafa Obrador."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "87'",
+   "team": null,
+   "text": "Delay in match because of an injury Lorenzo Colombo (Genoa)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "87'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "88'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "88'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

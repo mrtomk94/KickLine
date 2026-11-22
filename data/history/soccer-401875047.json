@@ -1,0 +1,216 @@
+{
+ "id": "soccer-401875047",
+ "sport": "soccer",
+ "league": "Serie A",
+ "start": "2026-11-22T14:00Z",
+ "home": {
+  "name": "Bologna",
+  "abbr": "BOL",
+  "teamId": "107",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Udinese",
+  "abbr": "UDI",
+  "teamId": "118",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+360",
+  "mlAwayOpen": "+330",
+  "mlDraw": "+250",
+  "mlHome": "-135",
+  "mlHomeOpen": "-140",
+  "provider": "DraftKings",
+  "spread": "BOL -135",
+  "spreadOpen": "BOL -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "BOL",
+   "stats": {
+    "foulsCommitted": "13",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "8",
+    "saves": "2",
+    "possessionPct": "51.5",
+    "totalShots": "18",
+    "shotsOnTarget": "4",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "361",
+    "totalPasses": "430",
+    "passPct": "0.8",
+    "accurateCrosses": "8",
+    "totalCrosses": "30",
+    "crossPct": "0.3",
+    "totalLongBalls": "38",
+    "accurateLongBalls": "13",
+    "longballPct": "0.3",
+    "blockedShots": "9",
+    "effectiveTackles": "5",
+    "totalTackles": "18",
+    "tacklePct": "0.3",
+    "interceptions": "6",
+    "effectiveClearance": "24",
+    "totalClearance": "24"
+   }
+  },
+  "away": {
+   "abbr": "UDI",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "4",
+    "saves": "3",
+    "possessionPct": "48.5",
+    "totalShots": "11",
+    "shotsOnTarget": "3",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "334",
+    "totalPasses": "414",
+    "passPct": "0.8",
+    "accurateCrosses": "7",
+    "totalCrosses": "20",
+    "crossPct": "0.4",
+    "totalLongBalls": "54",
+    "accurateLongBalls": "20",
+    "longballPct": "0.4",
+    "blockedShots": "1",
+    "effectiveTackles": "7",
+    "totalTackles": "11",
+    "tacklePct": "0.6",
+    "interceptions": "5",
+    "effectiveClearance": "26",
+    "totalClearance": "26"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "6'",
+   "team": null,
+   "text": "Matteo Palma (Udinese) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "43'",
+   "team": null,
+   "text": "Goal! Bologna 1, Udinese 0. Nadir Zortea (Bologna) left footed shot from very close range to the centre of the goal. Assisted by Jens Odgaard."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Bologna. Rahim Alhassane replaces Riccardo Orsolini."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Bologna 1, Udinese 0."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "51'",
+   "team": null,
+   "text": "Oumar Solet (Udinese) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "52'",
+   "team": null,
+   "text": "Federico Bernardeschi (Bologna) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "56'",
+   "team": null,
+   "text": "Substitution, Udinese. Alessandro Zanoli replaces Matteo Palma."
+  },
+  {
+   "type": "Substitution",
+   "clock": "56'",
+   "team": null,
+   "text": "Substitution, Udinese. Vakoun Bayo replaces Sandi Lovric."
+  },
+  {
+   "type": "Goal",
+   "clock": "67'",
+   "team": null,
+   "text": "Goal! Bologna 1, Udinese 1. Nicolò Zaniolo (Udinese) left footed shot from the left side of the box to the top left corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Udinese. Mërgim Vojvoda replaces Nicolò Zaniolo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Bologna. Samuel Mbangula replaces Federico Bernardeschi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Bologna. Martin Vitík replaces Nadir Zortea."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Bologna. Mikel Amondarain replaces Matteo Darmian."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Bologna. Roberto Piccoli replaces Nicolò Cambiaghi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, Udinese. Oier Zarraga replaces Jakub Piotrowski."
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, Udinese. David Alaba replaces Christian Kabasele."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+4'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}
