@@ -1,0 +1,312 @@
+{
+ "id": "soccer-401874989",
+ "sport": "soccer",
+ "league": "Serie A",
+ "start": "2026-11-22T17:00Z",
+ "home": {
+  "name": "AC Milan",
+  "abbr": "MIL",
+  "teamId": "103",
+  "score": 5.0
+ },
+ "away": {
+  "name": "Frosinone",
+  "abbr": "FRO",
+  "teamId": "4057",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+340",
+  "mlAwayOpen": "+390",
+  "mlDraw": "+300",
+  "mlHome": "-150",
+  "mlHomeOpen": "-200",
+  "provider": "DraftKings",
+  "spread": "MIL -150",
+  "spreadOpen": "MIL -1.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "MIL",
+   "stats": {
+    "foulsCommitted": "6",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "2",
+    "saves": "2",
+    "possessionPct": "53.7",
+    "totalShots": "12",
+    "shotsOnTarget": "8",
+    "shotPct": "0.7",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "376",
+    "totalPasses": "452",
+    "passPct": "0.8",
+    "accurateCrosses": "2",
+    "totalCrosses": "7",
+    "crossPct": "0.3",
+    "totalLongBalls": "49",
+    "accurateLongBalls": "23",
+    "longballPct": "0.5",
+    "blockedShots": "1",
+    "effectiveTackles": "10",
+    "totalTackles": "18",
+    "tacklePct": "0.6",
+    "interceptions": "8",
+    "effectiveClearance": "30",
+    "totalClearance": "30"
+   }
+  },
+  "away": {
+   "abbr": "FRO",
+   "stats": {
+    "foulsCommitted": "17",
+    "yellowCards": "4",
+    "redCards": "0",
+    "offsides": "5",
+    "wonCorners": "9",
+    "saves": "4",
+    "possessionPct": "46.3",
+    "totalShots": "15",
+    "shotsOnTarget": "3",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "302",
+    "totalPasses": "377",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "20",
+    "crossPct": "0.2",
+    "totalLongBalls": "41",
+    "accurateLongBalls": "16",
+    "longballPct": "0.4",
+    "blockedShots": "5",
+    "effectiveTackles": "14",
+    "totalTackles": "23",
+    "tacklePct": "0.6",
+    "interceptions": "10",
+    "effectiveClearance": "18",
+    "totalClearance": "18"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Own Goal",
+   "clock": "4'",
+   "team": null,
+   "text": "Own Goal by Gabriele Calvani, Frosinone. AC Milan 1, Frosinone 0."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "12'",
+   "team": null,
+   "text": "Delay in match (AC Milan)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "12'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "12'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "12'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "19'",
+   "team": null,
+   "text": "Goal! AC Milan 2, Frosinone 0. Gonçalo Ramos (AC Milan) left footed shot from the centre of the box to the bottom left corner. Assisted by Adrien Rabiot following a fast break."
+  },
+  {
+   "type": "Goal",
+   "clock": "25'",
+   "team": null,
+   "text": "Goal! AC Milan 2, Frosinone 1. Patrizio Masini (Frosinone) left footed shot from the left side of the six yard box to the centre of the goal."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "34'",
+   "team": null,
+   "text": "Giorgio Cittadini (Frosinone) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "40'",
+   "team": null,
+   "text": "Giacomo Calò (Frosinone) is shown the yellow card."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, AC Milan 2, Frosinone 1."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, AC Milan. Ardon Jashari replaces Davide Bartesaghi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Frosinone. Wisdom Amey replaces Giorgio Cittadini."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "48'",
+   "team": null,
+   "text": "Goal! AC Milan 3, Frosinone 1. Ardon Jashari (AC Milan) left footed shot from the left side of the box to the top left corner. Assisted by Adrien Rabiot."
+  },
+  {
+   "type": "Substitution",
+   "clock": "51'",
+   "team": null,
+   "text": "Substitution, AC Milan. Alphadjo Cisse replaces Gonçalo Ramos."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "57'",
+   "team": null,
+   "text": "Ilario Monterisi (Frosinone) is shown the yellow card."
+  },
+  {
+   "type": "Goal",
+   "clock": "60'",
+   "team": null,
+   "text": "Goal! AC Milan 4, Frosinone 1. Alphadjo Cisse (AC Milan) right footed shot from the centre of the box to the bottom right corner. Assisted by Diego Moreira following a fast break.Goal awarded followin"
+  },
+  {
+   "type": "Start Delay",
+   "clock": "60'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "62'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Frosinone. Daniel Bîrligea replaces Giorgi Kvernadze."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Frosinone. Aleksa Terzic replaces Enzo Tchato."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "66'",
+   "team": null,
+   "text": "Anthony Oyono (Frosinone) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "68'",
+   "team": null,
+   "text": "Goal! AC Milan 5, Frosinone 1. Christian Pulisic (AC Milan) right footed shot from the centre of the box to the bottom left corner following a fast break."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, AC Milan. Strahinja Pavlovic replaces Sankhoun Diawara."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, AC Milan. Pervis Estupiñán replaces Yunus Musah."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Frosinone. Alessio Zerbin replaces Romano Schmid."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Frosinone. Anouar El Azzouzi replaces Giacomo Calò."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "81'",
+   "team": null,
+   "text": "Delay in match because of an injury Daniel Bîrligea (Frosinone)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "81'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, AC Milan. Omari Hutchinson replaces Christian Pulisic."
+  },
+  {
+   "type": "End Delay",
+   "clock": "82'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "82'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "87'",
+   "team": null,
+   "text": "Alphadjo Cisse (AC Milan) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Second Half ends, AC Milan 5, Frosinone 1."
+  }
+ ],
+ "scoringPlays": []
+}

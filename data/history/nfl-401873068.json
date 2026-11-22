@@ -1,0 +1,168 @@
+{
+ "id": "nfl-401873068",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-22T18:00Z",
+ "home": {
+  "name": "Carolina Panthers",
+  "abbr": "CAR",
+  "teamId": "29",
+  "score": 35.0
+ },
+ "away": {
+  "name": "Baltimore Ravens",
+  "abbr": "BAL",
+  "teamId": "33",
+  "score": 33.0
+ },
+ "odds": {
+  "mlAway": "+119",
+  "mlAwayOpen": "-218",
+  "mlHome": "-141",
+  "mlHomeOpen": "+180",
+  "provider": "DraftKings",
+  "spread": "CAR -2.5",
+  "spreadOpen": "BAL -4.5",
+  "total": "44.5",
+  "totalOpen": "46.5"
+ },
+ "espnWinProb": {
+  "away": 30.8,
+  "home": 69.0
+ },
+ "teams": {
+  "away": {
+   "abbr": "BAL",
+   "stats": {
+    "firstDowns": "23",
+    "firstDownsPassing": "12",
+    "firstDownsRushing": "8",
+    "firstDownsPenalty": "3",
+    "thirdDownEff": "4-10",
+    "fourthDownEff": "2-2",
+    "totalOffensivePlays": "61",
+    "totalYards": "421",
+    "yardsPerPlay": "6.9",
+    "totalDrives": "12",
+    "netPassingYards": "264",
+    "completionAttempts": "24/37",
+    "yardsPerPass": "6.8",
+    "interceptions": "1",
+    "sacksYardsLost": "2-12",
+    "rushingYards": "157",
+    "rushingAttempts": "22",
+    "yardsPerRushAttempt": "7.1",
+    "redZoneAttempts": "2-3",
+    "totalPenaltiesYards": "5-41",
+    "turnovers": "4",
+    "fumblesLost": "3",
+    "defensiveTouchdowns": "1",
+    "possessionTime": "28:08"
+   }
+  },
+  "home": {
+   "abbr": "CAR",
+   "stats": {
+    "firstDowns": "23",
+    "firstDownsPassing": "12",
+    "firstDownsRushing": "9",
+    "firstDownsPenalty": "2",
+    "thirdDownEff": "5-13",
+    "fourthDownEff": "0-0",
+    "totalOffensivePlays": "68",
+    "totalYards": "378",
+    "yardsPerPlay": "5.6",
+    "totalDrives": "13",
+    "netPassingYards": "231",
+    "completionAttempts": "22/30",
+    "yardsPerPass": "7.0",
+    "interceptions": "1",
+    "sacksYardsLost": "3-23",
+    "rushingYards": "147",
+    "rushingAttempts": "35",
+    "yardsPerRushAttempt": "4.2",
+    "redZoneAttempts": "3-6",
+    "totalPenaltiesYards": "6-54",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "31:52"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "12:22",
+   "team": "BAL",
+   "text": "Bryce Young Sacked by Mike Green For 8 Yd Loss for Safety"
+  },
+  {
+   "period": 1,
+   "clock": "11:21",
+   "team": "BAL",
+   "text": "Rashod Bateman 52 Yd pass from Jacoby Brissett (Riley Patterson Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "2:48",
+   "team": "BAL",
+   "text": "Riley Patterson 28 Yd Field Goal"
+  },
+  {
+   "period": 1,
+   "clock": "0:01",
+   "team": "CAR",
+   "text": "Mitchell Evans 23 Yd pass from Bryce Young (Ryan Fitzgerald Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "10:01",
+   "team": "CAR",
+   "text": "Chuba Hubbard 18 Yd Rush (Ryan Fitzgerald Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "9:49",
+   "team": "BAL",
+   "text": "Devontez Walker 86 Yd Kickoff Return (Riley Patterson Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "5:06",
+   "team": "CAR",
+   "text": "Tetairoa McMillan 7 Yd pass from Bryce Young (Chuba Hubbard Run for Two-Point Conversion)"
+  },
+  {
+   "period": 2,
+   "clock": "2:22",
+   "team": "BAL",
+   "text": "Justice Hill 19 Yd Rush (Riley Patterson Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "11:01",
+   "team": "CAR",
+   "text": "Chuba Hubbard 1 Yd Rush (Ryan Fitzgerald Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "0:31",
+   "team": "CAR",
+   "text": "Ryan Fitzgerald 33 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "6:32",
+   "team": "BAL",
+   "text": "Derrick Henry 15 Yd Rush (Riley Patterson Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "1:44",
+   "team": "CAR",
+   "text": "Ryan Fitzgerald 37 Yd Field Goal"
+  }
+ ]
+}

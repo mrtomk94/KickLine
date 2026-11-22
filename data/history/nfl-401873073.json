@@ -1,0 +1,180 @@
+{
+ "id": "nfl-401873073",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-22T18:00Z",
+ "home": {
+  "name": "Dallas Cowboys",
+  "abbr": "DAL",
+  "teamId": "6",
+  "score": 51.0
+ },
+ "away": {
+  "name": "Tennessee Titans",
+  "abbr": "TEN",
+  "teamId": "10",
+  "score": 30.0
+ },
+ "odds": {
+  "mlAway": "+271",
+  "mlAwayOpen": "+235",
+  "mlHome": "-336",
+  "mlHomeOpen": "-290",
+  "provider": "DraftKings",
+  "spread": "DAL -7.5",
+  "spreadOpen": "DAL -6.5",
+  "total": "54.5",
+  "totalOpen": "48.5"
+ },
+ "espnWinProb": {
+  "away": 19.4,
+  "home": 80.5
+ },
+ "teams": {
+  "away": {
+   "abbr": "TEN",
+   "stats": {
+    "firstDowns": "24",
+    "firstDownsPassing": "11",
+    "firstDownsRushing": "11",
+    "firstDownsPenalty": "2",
+    "thirdDownEff": "3-10",
+    "fourthDownEff": "2-2",
+    "totalOffensivePlays": "63",
+    "totalYards": "346",
+    "yardsPerPlay": "5.5",
+    "totalDrives": "9",
+    "netPassingYards": "220",
+    "completionAttempts": "21/30",
+    "yardsPerPass": "6.3",
+    "interceptions": "0",
+    "sacksYardsLost": "5-28",
+    "rushingYards": "126",
+    "rushingAttempts": "28",
+    "yardsPerRushAttempt": "4.5",
+    "redZoneAttempts": "2-5",
+    "totalPenaltiesYards": "8-60",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "27:06"
+   }
+  },
+  "home": {
+   "abbr": "DAL",
+   "stats": {
+    "firstDowns": "33",
+    "firstDownsPassing": "21",
+    "firstDownsRushing": "10",
+    "firstDownsPenalty": "2",
+    "thirdDownEff": "4-6",
+    "fourthDownEff": "1-1",
+    "totalOffensivePlays": "63",
+    "totalYards": "480",
+    "yardsPerPlay": "7.6",
+    "totalDrives": "9",
+    "netPassingYards": "325",
+    "completionAttempts": "28/33",
+    "yardsPerPass": "9.8",
+    "interceptions": "0",
+    "sacksYardsLost": "0-0",
+    "rushingYards": "155",
+    "rushingAttempts": "30",
+    "yardsPerRushAttempt": "5.2",
+    "redZoneAttempts": "6-6",
+    "totalPenaltiesYards": "11-128",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "32:54"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "8:23",
+   "team": "DAL",
+   "text": "Javonte Williams 1 Yd Rush (Two-Point Pass Conversion Failed)"
+  },
+  {
+   "period": 1,
+   "clock": "4:56",
+   "team": "TEN",
+   "text": "Joey Slye 38 Yd Field Goal"
+  },
+  {
+   "period": 1,
+   "clock": "1:35",
+   "team": "DAL",
+   "text": "KaVontae Turpin 22 Yd Rush (Brandon Aubrey Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "12:59",
+   "team": "DAL",
+   "text": "CeeDee Lamb 8 Yd pass from Dak Prescott (Brandon Aubrey Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "10:34",
+   "team": "TEN",
+   "text": "Joey Slye 48 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "4:08",
+   "team": "DAL",
+   "text": "George Pickens 10 Yd pass from Dak Prescott (Brandon Aubrey Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:00",
+   "team": "TEN",
+   "text": "Joey Slye 28 Yd Field Goal"
+  },
+  {
+   "period": 3,
+   "clock": "13:08",
+   "team": "TEN",
+   "text": "Cam Ward 1 Yd Rush (Joey Slye Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "8:58",
+   "team": "DAL",
+   "text": "Javonte Williams 11 Yd pass from Dak Prescott (Brandon Aubrey Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "7:19",
+   "team": "TEN",
+   "text": "Carnell Tate 59 Yd pass from Cam Ward (Joey Slye Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "4:17",
+   "team": "DAL",
+   "text": "Dak Prescott 2 Yd Rush (Brandon Aubrey Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "11:33",
+   "team": "DAL",
+   "text": "Brandon Aubrey 49 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "4:59",
+   "team": "DAL",
+   "text": "Brevyn Spann-Ford 2 Yd pass from Dak Prescott (Brandon Aubrey Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "0:31",
+   "team": "TEN",
+   "text": "Calvin Ridley 12 Yd pass from Cam Ward (Joey Slye Kick)"
+  }
+ ]
+}

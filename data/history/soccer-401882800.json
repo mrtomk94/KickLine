@@ -1,0 +1,276 @@
+{
+ "id": "soccer-401882800",
+ "sport": "soccer",
+ "league": "LaLiga",
+ "start": "2026-11-22T15:15Z",
+ "home": {
+  "name": "Racing Santander",
+  "abbr": "RAC",
+  "teamId": "87",
+  "score": 3.0
+ },
+ "away": {
+  "name": "Real Sociedad",
+  "abbr": "RSO",
+  "teamId": "89",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "+105",
+  "mlAwayOpen": "+105",
+  "mlDraw": "+300",
+  "mlHome": "+225",
+  "mlHomeOpen": "+205",
+  "provider": "DraftKings",
+  "spread": "RSO +105",
+  "spreadOpen": "RSO -0.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "RAC",
+   "stats": {
+    "foulsCommitted": "10",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "7",
+    "saves": "5",
+    "possessionPct": "37.2",
+    "totalShots": "12",
+    "shotsOnTarget": "8",
+    "shotPct": "0.7",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "273",
+    "totalPasses": "367",
+    "passPct": "0.7",
+    "accurateCrosses": "1",
+    "totalCrosses": "7",
+    "crossPct": "0.1",
+    "totalLongBalls": "57",
+    "accurateLongBalls": "14",
+    "longballPct": "0.2",
+    "blockedShots": "2",
+    "effectiveTackles": "11",
+    "totalTackles": "19",
+    "tacklePct": "0.6",
+    "interceptions": "13",
+    "effectiveClearance": "28",
+    "totalClearance": "28"
+   }
+  },
+  "away": {
+   "abbr": "RSO",
+   "stats": {
+    "foulsCommitted": "10",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "14",
+    "saves": "3",
+    "possessionPct": "62.8",
+    "totalShots": "31",
+    "shotsOnTarget": "7",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "531",
+    "totalPasses": "610",
+    "passPct": "0.9",
+    "accurateCrosses": "4",
+    "totalCrosses": "28",
+    "crossPct": "0.1",
+    "totalLongBalls": "55",
+    "accurateLongBalls": "35",
+    "longballPct": "0.6",
+    "blockedShots": "13",
+    "effectiveTackles": "14",
+    "totalTackles": "25",
+    "tacklePct": "0.6",
+    "interceptions": "11",
+    "effectiveClearance": "13",
+    "totalClearance": "13"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "6'",
+   "team": null,
+   "text": "Goal! Racing de Santander 1, Real Sociedad 0. Yassir Zabiri (Racing de Santander) left footed shot from the centre of the box to the high centre of the goal. Assisted by Iker Luque."
+  },
+  {
+   "type": "Goal",
+   "clock": "8'",
+   "team": null,
+   "text": "Goal! Racing de Santander 2, Real Sociedad 0. Yassir Zabiri (Racing de Santander) right footed shot from outside the box to the bottom left corner."
+  },
+  {
+   "type": "Goal",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "Goal! Racing de Santander 2, Real Sociedad 1. Mikel Oyarzabal (Real Sociedad) left footed shot from the centre of the box to the top right corner. Assisted by Sergio Gómez."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": "First Half ends, Racing de Santander 2, Real Sociedad 1."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Racing de Santander 2, Real Sociedad 1."
+  },
+  {
+   "type": "Goal",
+   "clock": "60'",
+   "team": null,
+   "text": "Goal! Racing de Santander 2, Real Sociedad 2. Gonçalo Guedes (Real Sociedad) right footed shot from outside the box to the bottom left corner. Assisted by Jon Gorrotxategi following a corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "66'",
+   "team": null,
+   "text": "Álex Remiro (Real Sociedad) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "68'",
+   "team": null,
+   "text": "Goal! Racing de Santander 3, Real Sociedad 2. Sergio Canales (Racing de Santander) converts the penalty with a left footed shot to the bottom left corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Real Sociedad. Takefusa Kubo replaces Carlos Soler."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Real Sociedad. Jon Aramburu replaces Héctor Fort."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "74'",
+   "team": null,
+   "text": "Iker Luque (Racing de Santander) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "75'",
+   "team": null,
+   "text": "Delay in match (Real Sociedad)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "75'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "75'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "75'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Racing de Santander. Pablo García replaces Sergio Canales."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Real Sociedad. Arsen Zakharyan replaces Orri Óskarsson."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "80'",
+   "team": null,
+   "text": "Mamadou Sarr (Real Sociedad) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "81'",
+   "team": null,
+   "text": "Delay in match because of an injury Yassir Zabiri (Racing de Santander)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "81'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "81'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "81'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Real Sociedad. Aihen Muñoz replaces Sergio Gómez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Real Sociedad. Beñat Turrientes replaces Jon Gorrotxategi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Racing de Santander. André Almeida replaces Yassir Zabiri."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Iñigo Vicente (Racing de Santander) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Substitution, Racing de Santander. Facu González replaces Iñigo Vicente."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

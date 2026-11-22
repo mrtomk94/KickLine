@@ -1,0 +1,150 @@
+{
+ "id": "nfl-401873070",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-22T18:00Z",
+ "home": {
+  "name": "Buffalo Bills",
+  "abbr": "BUF",
+  "teamId": "2",
+  "score": 26.0
+ },
+ "away": {
+  "name": "Miami Dolphins",
+  "abbr": "MIA",
+  "teamId": "15",
+  "score": 9.0
+ },
+ "odds": {
+  "mlAway": "+990",
+  "mlAwayOpen": "+440",
+  "mlHome": "-1860",
+  "mlHomeOpen": "-600",
+  "provider": "DraftKings",
+  "spread": "BUF -16.5",
+  "spreadOpen": "BUF -11.5",
+  "total": "45.5",
+  "totalOpen": "47.5"
+ },
+ "espnWinProb": {
+  "away": 5.2,
+  "home": 94.8
+ },
+ "teams": {
+  "away": {
+   "abbr": "MIA",
+   "stats": {
+    "firstDowns": "10",
+    "firstDownsPassing": "5",
+    "firstDownsRushing": "4",
+    "firstDownsPenalty": "1",
+    "thirdDownEff": "2-14",
+    "fourthDownEff": "2-4",
+    "totalOffensivePlays": "55",
+    "totalYards": "185",
+    "yardsPerPlay": "3.4",
+    "totalDrives": "10",
+    "netPassingYards": "86",
+    "completionAttempts": "12/33",
+    "yardsPerPass": "2.5",
+    "interceptions": "1",
+    "sacksYardsLost": "2-16",
+    "rushingYards": "99",
+    "rushingAttempts": "20",
+    "yardsPerRushAttempt": "5.0",
+    "redZoneAttempts": "0-1",
+    "totalPenaltiesYards": "3-25",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "23:15"
+   }
+  },
+  "home": {
+   "abbr": "BUF",
+   "stats": {
+    "firstDowns": "25",
+    "firstDownsPassing": "17",
+    "firstDownsRushing": "7",
+    "firstDownsPenalty": "1",
+    "thirdDownEff": "9-17",
+    "fourthDownEff": "2-2",
+    "totalOffensivePlays": "76",
+    "totalYards": "405",
+    "yardsPerPlay": "5.3",
+    "totalDrives": "11",
+    "netPassingYards": "310",
+    "completionAttempts": "28/46",
+    "yardsPerPass": "6.3",
+    "interceptions": "2",
+    "sacksYardsLost": "3-24",
+    "rushingYards": "95",
+    "rushingAttempts": "27",
+    "yardsPerRushAttempt": "3.5",
+    "redZoneAttempts": "2-5",
+    "totalPenaltiesYards": "7-48",
+    "turnovers": "2",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "36:45"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "11:04",
+   "team": "BUF",
+   "text": "Tyler Bass 43 Yd Field Goal"
+  },
+  {
+   "period": 1,
+   "clock": "5:27",
+   "team": "BUF",
+   "text": "Tyler Bass 54 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "13:23",
+   "team": "BUF",
+   "text": "DJ Moore 4 Yd pass from Josh Allen (Tyler Bass Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "9:44",
+   "team": "MIA",
+   "text": "Daniel Carlson 52 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "3:48",
+   "team": "BUF",
+   "text": "James Cook III 1 Yd Rush (Tyler Bass Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:14",
+   "team": "MIA",
+   "text": "Daniel Carlson 52 Yd Field Goal"
+  },
+  {
+   "period": 3,
+   "clock": "11:42",
+   "team": "MIA",
+   "text": "Daniel Carlson 27 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "14:56",
+   "team": "BUF",
+   "text": "Tyler Bass 40 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "1:57",
+   "team": "BUF",
+   "text": "Tyler Bass 28 Yd Field Goal"
+  }
+ ]
+}

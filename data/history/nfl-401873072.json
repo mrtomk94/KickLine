@@ -1,0 +1,144 @@
+{
+ "id": "nfl-401873072",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-22T18:00Z",
+ "home": {
+  "name": "Detroit Lions",
+  "abbr": "DET",
+  "teamId": "8",
+  "score": 31.0
+ },
+ "away": {
+  "name": "Tampa Bay Buccaneers",
+  "abbr": "TB",
+  "teamId": "27",
+  "score": 21.0
+ },
+ "odds": {
+  "mlAway": "+183",
+  "mlAwayOpen": "+190",
+  "mlHome": "-220",
+  "mlHomeOpen": "-230",
+  "provider": "DraftKings",
+  "spread": "DET -3.5",
+  "spreadOpen": "DET -4.5",
+  "total": "48.5",
+  "totalOpen": "49.5"
+ },
+ "espnWinProb": {
+  "away": 38.6,
+  "home": 61.1
+ },
+ "teams": {
+  "away": {
+   "abbr": "TB",
+   "stats": {
+    "firstDowns": "22",
+    "firstDownsPassing": "12",
+    "firstDownsRushing": "8",
+    "firstDownsPenalty": "2",
+    "thirdDownEff": "8-14",
+    "fourthDownEff": "0-2",
+    "totalOffensivePlays": "65",
+    "totalYards": "274",
+    "yardsPerPlay": "4.2",
+    "totalDrives": "9",
+    "netPassingYards": "154",
+    "completionAttempts": "20/33",
+    "yardsPerPass": "4.2",
+    "interceptions": "0",
+    "sacksYardsLost": "4-33",
+    "rushingYards": "120",
+    "rushingAttempts": "28",
+    "yardsPerRushAttempt": "4.3",
+    "redZoneAttempts": "2-3",
+    "totalPenaltiesYards": "8-58",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "32:01"
+   }
+  },
+  "home": {
+   "abbr": "DET",
+   "stats": {
+    "firstDowns": "22",
+    "firstDownsPassing": "10",
+    "firstDownsRushing": "10",
+    "firstDownsPenalty": "2",
+    "thirdDownEff": "7-11",
+    "fourthDownEff": "0-0",
+    "totalOffensivePlays": "58",
+    "totalYards": "386",
+    "yardsPerPlay": "6.7",
+    "totalDrives": "10",
+    "netPassingYards": "277",
+    "completionAttempts": "20/28",
+    "yardsPerPass": "9.6",
+    "interceptions": "0",
+    "sacksYardsLost": "1-2",
+    "rushingYards": "109",
+    "rushingAttempts": "29",
+    "yardsPerRushAttempt": "3.8",
+    "redZoneAttempts": "3-3",
+    "totalPenaltiesYards": "8-72",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "27:59"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 2,
+   "clock": "10:37",
+   "team": "DET",
+   "text": "Amon-Ra St. Brown 14 Yd pass from Jared Goff (Jake Bates Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:48",
+   "team": "DET",
+   "text": "Jake Bates 56 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "0:04",
+   "team": "TB",
+   "text": "Ted Hurst III 23 Yd pass from Baker Mayfield (Chase McLaughlin Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "9:01",
+   "team": "DET",
+   "text": "Jameson Williams 57 Yd pass from Jared Goff (Jake Bates Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "2:41",
+   "team": "TB",
+   "text": "Bucky Irving 1 Yd Rush (Chase McLaughlin Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "5:24",
+   "team": "DET",
+   "text": "Jahmyr Gibbs 1 Yd Rush (Jake Bates Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "1:55",
+   "team": "DET",
+   "text": "Jahmyr Gibbs 4 Yd Rush (Jake Bates Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "0:08",
+   "team": "TB",
+   "text": "Ted Hurst III 4 Yd pass from Baker Mayfield (Chase McLaughlin Kick)"
+  }
+ ]
+}

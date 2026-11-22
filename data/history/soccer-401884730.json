@@ -1,0 +1,279 @@
+{
+ "id": "soccer-401884730",
+ "sport": "soccer",
+ "league": "Bundesliga",
+ "start": "2026-11-22T16:30Z",
+ "home": {
+  "name": "Werder Bremen",
+  "abbr": "SVW",
+  "teamId": "137",
+  "score": 4.0
+ },
+ "away": {
+  "name": "Hamburg SV",
+  "abbr": "HSV",
+  "teamId": "127",
+  "score": 0.0
+ },
+ "odds": {
+  "provider": "DraftKings"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "SVW",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "1",
+    "saves": "1",
+    "possessionPct": "53.3",
+    "totalShots": "18",
+    "shotsOnTarget": "7",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "356",
+    "totalPasses": "451",
+    "passPct": "0.8",
+    "accurateCrosses": "6",
+    "totalCrosses": "12",
+    "crossPct": "0.5",
+    "totalLongBalls": "64",
+    "accurateLongBalls": "37",
+    "longballPct": "0.6",
+    "blockedShots": "2",
+    "effectiveTackles": "9",
+    "totalTackles": "19",
+    "tacklePct": "0.5",
+    "interceptions": "8",
+    "effectiveClearance": "15",
+    "totalClearance": "15"
+   }
+  },
+  "away": {
+   "abbr": "HSV",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "8",
+    "saves": "3",
+    "possessionPct": "46.7",
+    "totalShots": "17",
+    "shotsOnTarget": "2",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "307",
+    "totalPasses": "388",
+    "passPct": "0.8",
+    "accurateCrosses": "4",
+    "totalCrosses": "18",
+    "crossPct": "0.2",
+    "totalLongBalls": "53",
+    "accurateLongBalls": "23",
+    "longballPct": "0.4",
+    "blockedShots": "9",
+    "effectiveTackles": "8",
+    "totalTackles": "13",
+    "tacklePct": "0.6",
+    "interceptions": "15",
+    "effectiveClearance": "19",
+    "totalClearance": "19"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "10'",
+   "team": null,
+   "text": "Amos Pieper (Werder Bremen) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "17'",
+   "team": null,
+   "text": "Delay in match because of an injury Miro Muheim (Hamburger SV)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "17'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "19'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "19'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "19'",
+   "team": null,
+   "text": "Substitution, Hamburger SV. Kofi Amoako replaces Miro Muheim because of an injury."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "23'",
+   "team": null,
+   "text": "Warmed Omari (Hamburger SV) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "39'",
+   "team": null,
+   "text": "Chuki (Werder Bremen) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Werder Bremen 0, Hamburger SV 0."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "48'",
+   "team": null,
+   "text": "Delay in match (Werder Bremen)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "48'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "48'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "48'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "50'",
+   "team": null,
+   "text": "Olivier Deman (Werder Bremen) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "55'",
+   "team": null,
+   "text": "Goal! Werder Bremen 1, Hamburger SV 0. Marco Friedl (Werder Bremen) right footed shot from the left side of the box to the high centre of the goal following a corner."
+  },
+  {
+   "type": "Goal",
+   "clock": "66'",
+   "team": null,
+   "text": "Goal! Werder Bremen 2, Hamburger SV 0. Justin Njinmah (Werder Bremen) right footed shot from the left side of the box to the bottom right corner. Assisted by Niclas Füllkrug."
+  },
+  {
+   "type": "Goal",
+   "clock": "70'",
+   "team": null,
+   "text": "Goal! Werder Bremen 3, Hamburger SV 0. Justin Njinmah (Werder Bremen) right footed shot from outside the box to the top right corner. Assisted by Ludovit Reis."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Hamburger SV. Otto Stange replaces Alexander Røssing-Lelesiit."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Hamburger SV. Fábio Vieira replaces Kofi Amoako."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Hamburger SV. Terem Moffi replaces Patson Daka."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "74'",
+   "team": null,
+   "text": "Nicolás Capaldo (Hamburger SV) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Werder Bremen. Paul Erevbenagie replaces Eren Dinkçi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Werder Bremen. Dariusz Stalmach replaces Chuki."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "84'",
+   "team": null,
+   "text": "Albert Grønbæk (Hamburger SV) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "88'",
+   "team": null,
+   "text": "Substitution, Werder Bremen. Oskar Wójcik replaces Justin Njinmah."
+  },
+  {
+   "type": "Substitution",
+   "clock": "88'",
+   "team": null,
+   "text": "Substitution, Werder Bremen. Mick Schmetgens replaces Olivier Deman."
+  },
+  {
+   "type": "Substitution",
+   "clock": "88'",
+   "team": null,
+   "text": "Substitution, Werder Bremen. Cedric Itten replaces Ludovit Reis."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Goal! Werder Bremen 4, Hamburger SV 0. Niclas Füllkrug (Werder Bremen) right footed shot from outside the box to the top right corner."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Second Half ends, Werder Bremen 4, Hamburger SV 0."
+  }
+ ],
+ "scoringPlays": []
+}

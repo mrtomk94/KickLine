@@ -1,0 +1,240 @@
+{
+ "id": "soccer-401884733",
+ "sport": "soccer",
+ "league": "Bundesliga",
+ "start": "2026-11-22T14:30Z",
+ "home": {
+  "name": "FC Augsburg",
+  "abbr": "FCA",
+  "teamId": "3841",
+  "score": 3.0
+ },
+ "away": {
+  "name": "Mainz",
+  "abbr": "M05",
+  "teamId": "2950",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+130",
+  "mlAwayOpen": "+130",
+  "mlDraw": "+275",
+  "mlHome": "+165",
+  "mlHomeOpen": "+155",
+  "provider": "DraftKings",
+  "spread": "M05 +130",
+  "spreadOpen": "M05 -0.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "FCA",
+   "stats": {
+    "foulsCommitted": "10",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "6",
+    "saves": "3",
+    "possessionPct": "49.5",
+    "totalShots": "22",
+    "shotsOnTarget": "9",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "349",
+    "totalPasses": "455",
+    "passPct": "0.8",
+    "accurateCrosses": "5",
+    "totalCrosses": "15",
+    "crossPct": "0.3",
+    "totalLongBalls": "45",
+    "accurateLongBalls": "19",
+    "longballPct": "0.4",
+    "blockedShots": "6",
+    "effectiveTackles": "11",
+    "totalTackles": "18",
+    "tacklePct": "0.6",
+    "interceptions": "14",
+    "effectiveClearance": "17",
+    "totalClearance": "17"
+   }
+  },
+  "away": {
+   "abbr": "M05",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "4",
+    "wonCorners": "0",
+    "saves": "6",
+    "possessionPct": "50.5",
+    "totalShots": "7",
+    "shotsOnTarget": "4",
+    "shotPct": "0.6",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "381",
+    "totalPasses": "466",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "13",
+    "crossPct": "0.2",
+    "totalLongBalls": "53",
+    "accurateLongBalls": "24",
+    "longballPct": "0.5",
+    "blockedShots": "1",
+    "effectiveTackles": "10",
+    "totalTackles": "17",
+    "tacklePct": "0.6",
+    "interceptions": "16",
+    "effectiveClearance": "33",
+    "totalClearance": "33"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "19'",
+   "team": null,
+   "text": "Goal! Augsburg 1, Mainz 0. Michael Gregoritsch (Augsburg) right footed shot from very close range to the centre of the goal following a corner."
+  },
+  {
+   "type": "Goal",
+   "clock": "36'",
+   "team": null,
+   "text": "Goal! Augsburg 2, Mainz 0. Juma Bah (Augsburg) right footed shot from very close range to the bottom left corner following a corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "43'",
+   "team": null,
+   "text": "Nadiem Amiri (Mainz) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "44'",
+   "team": null,
+   "text": "Robin Fellhauer (Augsburg) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "45'+1'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+6'",
+   "team": null,
+   "text": "First Half ends, Augsburg 2, Mainz 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Mainz. Ransford Königsdörffer replaces Paul Nebel."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal - Volley",
+   "clock": "48'",
+   "team": null,
+   "text": "Goal! Augsburg 3, Mainz 0. Michael Gregoritsch (Augsburg) right footed shot from the centre of the box to the centre of the goal following a set piece situation."
+  },
+  {
+   "type": "Goal",
+   "clock": "51'",
+   "team": null,
+   "text": "Goal! Augsburg 3, Mainz 1. Ransford Königsdörffer (Mainz) right footed shot from outside the box to the bottom left corner. Assisted by Danny da Costa."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Augsburg. Arijon Ibrahimovic replaces Alexis Claude-Maurice."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Mainz. Silvan Widmer replaces Anthony Caci."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Mainz. Benedict Hollerbach replaces Sheraldo Becker."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Augsburg. Seol Young-Woo replaces Marius Wolf."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Augsburg. Uchenna Ogundu replaces Michael Gregoritsch."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "75'",
+   "team": null,
+   "text": "Stefan Posch (Mainz) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "76'",
+   "team": null,
+   "text": "Silvan Widmer (Mainz) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Mainz. Eric Martel replaces Danny da Costa."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Mainz. Rael Nakuzola replaces Phillipp Mwene."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Substitution, Augsburg. Mert Kömür replaces Anton Kade."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+4'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

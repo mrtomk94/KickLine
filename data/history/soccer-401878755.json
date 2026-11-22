@@ -1,0 +1,234 @@
+{
+ "id": "soccer-401878755",
+ "sport": "soccer",
+ "league": "Premier League",
+ "start": "2026-11-22T16:30Z",
+ "home": {
+  "name": "Liverpool",
+  "abbr": "LIV",
+  "teamId": "364",
+  "score": 4.0
+ },
+ "away": {
+  "name": "Manchester United",
+  "abbr": "MAN",
+  "teamId": "360",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+310",
+  "mlAwayOpen": "+290",
+  "mlDraw": "+320",
+  "mlHome": "-130",
+  "mlHomeOpen": "-125",
+  "provider": "DraftKings",
+  "spread": "LIV -130",
+  "spreadOpen": "LIV -0.5",
+  "total": "3.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "LIV",
+   "stats": {
+    "foulsCommitted": "15",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "15",
+    "saves": "4",
+    "possessionPct": "63.8",
+    "totalShots": "28",
+    "shotsOnTarget": "11",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "509",
+    "totalPasses": "575",
+    "passPct": "0.9",
+    "accurateCrosses": "4",
+    "totalCrosses": "24",
+    "crossPct": "0.2",
+    "totalLongBalls": "34",
+    "accurateLongBalls": "19",
+    "longballPct": "0.6",
+    "blockedShots": "10",
+    "effectiveTackles": "8",
+    "totalTackles": "12",
+    "tacklePct": "0.7",
+    "interceptions": "9",
+    "effectiveClearance": "14",
+    "totalClearance": "14"
+   }
+  },
+  "away": {
+   "abbr": "MAN",
+   "stats": {
+    "foulsCommitted": "7",
+    "yellowCards": "0",
+    "redCards": "1",
+    "offsides": "2",
+    "wonCorners": "5",
+    "saves": "7",
+    "possessionPct": "36.2",
+    "totalShots": "10",
+    "shotsOnTarget": "3",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "252",
+    "totalPasses": "327",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "12",
+    "crossPct": "0.3",
+    "totalLongBalls": "51",
+    "accurateLongBalls": "18",
+    "longballPct": "0.4",
+    "blockedShots": "2",
+    "effectiveTackles": "12",
+    "totalTackles": "18",
+    "tacklePct": "0.7",
+    "interceptions": "9",
+    "effectiveClearance": "34",
+    "totalClearance": "34"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "8'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Red Card",
+   "clock": "8'",
+   "team": null,
+   "text": "Leny Yoro (Manchester United) is shown the red card."
+  },
+  {
+   "type": "End Delay",
+   "clock": "9'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal - Free-kick",
+   "clock": "10'",
+   "team": null,
+   "text": "Goal! Liverpool 1, Manchester United 0. Dominik Szoboszlai (Liverpool) from a free kick with a right footed shot to the bottom left corner."
+  },
+  {
+   "type": "Goal",
+   "clock": "13'",
+   "team": null,
+   "text": "Goal! Liverpool 2, Manchester United 0. Florian Wirtz (Liverpool) left footed shot from very close range to the high centre of the goal. Assisted by Rio Ngumoha."
+  },
+  {
+   "type": "Substitution",
+   "clock": "22'",
+   "team": null,
+   "text": "Substitution, Manchester United. Harry Maguire replaces Bryan Mbeumo."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+5'",
+   "team": null,
+   "text": "First Half ends, Liverpool 2, Manchester United 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Manchester United. Joshua Zirkzee replaces Matheus Cunha."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "62'",
+   "team": null,
+   "text": "Bradley Barcola (Liverpool) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Manchester United. Mason Mount replaces Youri Tielemans."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Manchester United. Noussair Mazraoui replaces Patrick Dorgu."
+  },
+  {
+   "type": "Goal",
+   "clock": "66'",
+   "team": null,
+   "text": "Goal! Liverpool 3, Manchester United 0. Rio Ngumoha (Liverpool) right footed shot from the centre of the box to the centre of the goal. Assisted by Bradley Barcola following a fast break."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Liverpool. Trey Nyoni replaces Alexis Mac Allister."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Liverpool. Víctor Muñoz replaces Bradley Barcola."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Liverpool. Jeremie Frimpong replaces Rio Ngumoha."
+  },
+  {
+   "type": "Goal",
+   "clock": "82'",
+   "team": null,
+   "text": "Goal! Liverpool 4, Manchester United 0. Víctor Muñoz (Liverpool) right footed shot from the centre of the box to the top right corner. Assisted by Florian Wirtz with a through ball."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Liverpool. Joe Gomez replaces Ronald Araujo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Liverpool. Lewis Koumas replaces Alexander Isak."
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, Manchester United. Andrey Santos replaces Kobbie Mainoo."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Second Half ends, Liverpool 4, Manchester United 0."
+  }
+ ],
+ "scoringPlays": []
+}

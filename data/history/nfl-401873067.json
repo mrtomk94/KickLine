@@ -1,0 +1,138 @@
+{
+ "id": "nfl-401873067",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-22T18:00Z",
+ "home": {
+  "name": "Kansas City Chiefs",
+  "abbr": "KC",
+  "teamId": "12",
+  "score": 34.0
+ },
+ "away": {
+  "name": "Arizona Cardinals",
+  "abbr": "ARI",
+  "teamId": "22",
+  "score": 7.0
+ },
+ "odds": {
+  "mlAway": "+860",
+  "mlAwayOpen": "+440",
+  "mlHome": "-1460",
+  "mlHomeOpen": "-600",
+  "provider": "DraftKings",
+  "spread": "KC -15.5",
+  "spreadOpen": "KC -11.5",
+  "total": "40.5",
+  "totalOpen": "44.5"
+ },
+ "espnWinProb": {
+  "away": 11.4,
+  "home": 88.5
+ },
+ "teams": {
+  "away": {
+   "abbr": "ARI",
+   "stats": {
+    "firstDowns": "14",
+    "firstDownsPassing": "9",
+    "firstDownsRushing": "5",
+    "firstDownsPenalty": "0",
+    "thirdDownEff": "5-13",
+    "fourthDownEff": "0-2",
+    "totalOffensivePlays": "55",
+    "totalYards": "205",
+    "yardsPerPlay": "3.7",
+    "totalDrives": "9",
+    "netPassingYards": "130",
+    "completionAttempts": "18/31",
+    "yardsPerPass": "3.8",
+    "interceptions": "0",
+    "sacksYardsLost": "3-25",
+    "rushingYards": "75",
+    "rushingAttempts": "21",
+    "yardsPerRushAttempt": "3.6",
+    "redZoneAttempts": "1-1",
+    "totalPenaltiesYards": "4-25",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "27:34"
+   }
+  },
+  "home": {
+   "abbr": "KC",
+   "stats": {
+    "firstDowns": "27",
+    "firstDownsPassing": "20",
+    "firstDownsRushing": "7",
+    "firstDownsPenalty": "0",
+    "thirdDownEff": "7-13",
+    "fourthDownEff": "1-1",
+    "totalOffensivePlays": "72",
+    "totalYards": "435",
+    "yardsPerPlay": "6.0",
+    "totalDrives": "10",
+    "netPassingYards": "317",
+    "completionAttempts": "27/40",
+    "yardsPerPass": "7.7",
+    "interceptions": "0",
+    "sacksYardsLost": "1-7",
+    "rushingYards": "118",
+    "rushingAttempts": "31",
+    "yardsPerRushAttempt": "3.8",
+    "redZoneAttempts": "3-5",
+    "totalPenaltiesYards": "2-15",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "32:26"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "9:46",
+   "team": "KC",
+   "text": "Travis Kelce 8 Yd pass from Patrick Mahomes (Harrison Butker Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "0:48",
+   "team": "KC",
+   "text": "Emmett Johnson 3 Yd Rush (Harrison Butker Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "9:48",
+   "team": "ARI",
+   "text": "Simi Fehoko 2 Yd pass from Josh Johnson (Chad Ryland Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "4:32",
+   "team": "KC",
+   "text": "Harrison Butker 40 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "1:54",
+   "team": "KC",
+   "text": "Travis Kelce 22 Yd pass from Patrick Mahomes (Harrison Butker Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:00",
+   "team": "KC",
+   "text": "Harrison Butker 44 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "14:54",
+   "team": "KC",
+   "text": "Xavier Worthy 18 Yd pass from Patrick Mahomes (Harrison Butker Kick)"
+  }
+ ]
+}

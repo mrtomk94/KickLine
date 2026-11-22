@@ -1,0 +1,150 @@
+{
+ "id": "nfl-401873076",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-22T18:00Z",
+ "home": {
+  "name": "Philadelphia Eagles",
+  "abbr": "PHI",
+  "teamId": "21",
+  "score": 19.0
+ },
+ "away": {
+  "name": "Pittsburgh Steelers",
+  "abbr": "PIT",
+  "teamId": "23",
+  "score": 16.0
+ },
+ "odds": {
+  "mlAway": "-198",
+  "mlAwayOpen": "+205",
+  "mlHome": "+166",
+  "mlHomeOpen": "-250",
+  "provider": "DraftKings",
+  "spread": "PIT -3.5",
+  "spreadOpen": "PHI -5.5",
+  "total": "37.5",
+  "totalOpen": "42.5"
+ },
+ "espnWinProb": {
+  "away": 63.5,
+  "home": 36.2
+ },
+ "teams": {
+  "away": {
+   "abbr": "PIT",
+   "stats": {
+    "firstDowns": "17",
+    "firstDownsPassing": "10",
+    "firstDownsRushing": "6",
+    "firstDownsPenalty": "1",
+    "thirdDownEff": "5-17",
+    "fourthDownEff": "2-3",
+    "totalOffensivePlays": "69",
+    "totalYards": "255",
+    "yardsPerPlay": "3.7",
+    "totalDrives": "11",
+    "netPassingYards": "182",
+    "completionAttempts": "30/44",
+    "yardsPerPass": "3.7",
+    "interceptions": "0",
+    "sacksYardsLost": "5-45",
+    "rushingYards": "73",
+    "rushingAttempts": "20",
+    "yardsPerRushAttempt": "3.7",
+    "redZoneAttempts": "0-2",
+    "totalPenaltiesYards": "6-49",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "35:30"
+   }
+  },
+  "home": {
+   "abbr": "PHI",
+   "stats": {
+    "firstDowns": "11",
+    "firstDownsPassing": "7",
+    "firstDownsRushing": "3",
+    "firstDownsPenalty": "1",
+    "thirdDownEff": "4-13",
+    "fourthDownEff": "0-0",
+    "totalOffensivePlays": "50",
+    "totalYards": "214",
+    "yardsPerPlay": "4.3",
+    "totalDrives": "12",
+    "netPassingYards": "123",
+    "completionAttempts": "11/21",
+    "yardsPerPass": "5.1",
+    "interceptions": "0",
+    "sacksYardsLost": "3-18",
+    "rushingYards": "91",
+    "rushingAttempts": "26",
+    "yardsPerRushAttempt": "3.5",
+    "redZoneAttempts": "0-1",
+    "totalPenaltiesYards": "4-25",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "24:30"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "10:01",
+   "team": "PHI",
+   "text": "Jake Elliott 41 Yd Field Goal"
+  },
+  {
+   "period": 1,
+   "clock": "2:57",
+   "team": "PHI",
+   "text": "Jake Elliott 29 Yd Field Goal "
+  },
+  {
+   "period": 1,
+   "clock": "0:35",
+   "team": "PHI",
+   "text": "Saquon Barkley 38 Yd Rush (Jake Elliott Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:01",
+   "team": "PIT",
+   "text": "Chris Boswell 25 Yd Field Goal"
+  },
+  {
+   "period": 3,
+   "clock": "13:55",
+   "team": "PIT",
+   "text": "Chris Boswell 40 Yd Field Goal"
+  },
+  {
+   "period": 3,
+   "clock": "8:33",
+   "team": "PHI",
+   "text": "Jake Elliott 53 Yd Field Goal"
+  },
+  {
+   "period": 3,
+   "clock": "4:48",
+   "team": "PIT",
+   "text": "Chris Boswell 52 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "4:19",
+   "team": "PHI",
+   "text": "Jake Elliott 55 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "1:21",
+   "team": "PIT",
+   "text": "Max Hurleman 20 Yd pass from Aaron Rodgers (Chris Boswell Kick)"
+  }
+ ]
+}

@@ -1,0 +1,264 @@
+{
+ "id": "soccer-401882801",
+ "sport": "soccer",
+ "league": "LaLiga",
+ "start": "2026-11-22T17:30Z",
+ "home": {
+  "name": "Osasuna",
+  "abbr": "OSA",
+  "teamId": "97",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Málaga",
+  "abbr": "MCF",
+  "teamId": "99",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+370",
+  "mlAwayOpen": "+350",
+  "mlDraw": "+270",
+  "mlHome": "-130",
+  "mlHomeOpen": "-135",
+  "provider": "DraftKings",
+  "spread": "OSA -130",
+  "spreadOpen": "OSA -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "OSA",
+   "stats": {
+    "foulsCommitted": "15",
+    "yellowCards": "2",
+    "redCards": "1",
+    "offsides": "2",
+    "wonCorners": "4",
+    "saves": "0",
+    "possessionPct": "47.2",
+    "totalShots": "11",
+    "shotsOnTarget": "2",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "360",
+    "totalPasses": "442",
+    "passPct": "0.8",
+    "accurateCrosses": "10",
+    "totalCrosses": "28",
+    "crossPct": "0.4",
+    "totalLongBalls": "57",
+    "accurateLongBalls": "29",
+    "longballPct": "0.5",
+    "blockedShots": "6",
+    "effectiveTackles": "12",
+    "totalTackles": "15",
+    "tacklePct": "0.8",
+    "interceptions": "12",
+    "effectiveClearance": "19",
+    "totalClearance": "19"
+   }
+  },
+  "away": {
+   "abbr": "MCF",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "1",
+    "saves": "1",
+    "possessionPct": "52.8",
+    "totalShots": "5",
+    "shotsOnTarget": "0",
+    "shotPct": "0.0",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "433",
+    "totalPasses": "507",
+    "passPct": "0.9",
+    "accurateCrosses": "2",
+    "totalCrosses": "17",
+    "crossPct": "0.1",
+    "totalLongBalls": "48",
+    "accurateLongBalls": "22",
+    "longballPct": "0.5",
+    "blockedShots": "1",
+    "effectiveTackles": "5",
+    "totalTackles": "9",
+    "tacklePct": "0.6",
+    "interceptions": "10",
+    "effectiveClearance": "33",
+    "totalClearance": "33"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "20'",
+   "team": null,
+   "text": "Goal! Osasuna 1, Malaga 0. Ante Budimir (Osasuna) header from the centre of the box to the bottom left corner. Assisted by Valentin Rosier with a cross."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "38'",
+   "team": null,
+   "text": "Delay in match because of an injury Adrián Niño (Malaga)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "38'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "38'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "38'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "42'",
+   "team": null,
+   "text": "Alejandro Catena (Osasuna) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Malaga. Ramón Enríquez replaces Rafa Rodríguez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Malaga. Carlos Puga replaces Álex Pastor."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Osasuna 1, Malaga 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "60'",
+   "team": null,
+   "text": "Substitution, Malaga. Dani Lorenzo replaces Joaquín Muñoz."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Osasuna. Asier Osambela replaces Aimar Oroz."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Osasuna. Raúl Moro replaces Kike Barja."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "74'",
+   "team": null,
+   "text": "Asier Osambela (Osasuna) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "74'",
+   "team": null,
+   "text": "Delay in match because of an injury Diego Murillo (Malaga)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "74'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Osasuna. Iker Muñoz replaces Rubén García."
+  },
+  {
+   "type": "End Delay",
+   "clock": "76'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "76'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Osasuna. Lucas Torró replaces Moi Gómez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Malaga. Chupe replaces Pablo Martínez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, Malaga. Juan Cruz replaces David Larrubia."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Osasuna. Raúl García replaces Ante Budimir."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "88'",
+   "team": null,
+   "text": "Raúl García (Osasuna) is shown the yellow card."
+  },
+  {
+   "type": "Red Card",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Second yellow card to Alejandro Catena (Osasuna) for a bad foul."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Second Half ends, Osasuna 1, Malaga 0."
+  }
+ ],
+ "scoringPlays": []
+}

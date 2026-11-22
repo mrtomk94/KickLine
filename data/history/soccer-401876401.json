@@ -1,0 +1,240 @@
+{
+ "id": "soccer-401876401",
+ "sport": "soccer",
+ "league": "Ligue 1",
+ "start": "2026-11-22T16:15Z",
+ "home": {
+  "name": "Lorient",
+  "abbr": "LOR",
+  "teamId": "273",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Stade Rennais",
+  "abbr": "REN",
+  "teamId": "169",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+100",
+  "mlAwayOpen": "+140",
+  "mlDraw": "+235",
+  "mlHome": "+300",
+  "mlHomeOpen": "+180",
+  "provider": "DraftKings",
+  "spread": "REN +100",
+  "spreadOpen": "REN -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "LOR",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "7",
+    "saves": "2",
+    "possessionPct": "50.5",
+    "totalShots": "12",
+    "shotsOnTarget": "3",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "452",
+    "totalPasses": "509",
+    "passPct": "0.9",
+    "accurateCrosses": "3",
+    "totalCrosses": "25",
+    "crossPct": "0.1",
+    "totalLongBalls": "34",
+    "accurateLongBalls": "16",
+    "longballPct": "0.5",
+    "blockedShots": "3",
+    "effectiveTackles": "10",
+    "totalTackles": "12",
+    "tacklePct": "0.8",
+    "interceptions": "15",
+    "effectiveClearance": "23",
+    "totalClearance": "23"
+   }
+  },
+  "away": {
+   "abbr": "REN",
+   "stats": {
+    "foulsCommitted": "19",
+    "yellowCards": "2",
+    "redCards": "1",
+    "offsides": "1",
+    "wonCorners": "5",
+    "saves": "2",
+    "possessionPct": "49.5",
+    "totalShots": "13",
+    "shotsOnTarget": "3",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "436",
+    "totalPasses": "506",
+    "passPct": "0.9",
+    "accurateCrosses": "6",
+    "totalCrosses": "17",
+    "crossPct": "0.4",
+    "totalLongBalls": "37",
+    "accurateLongBalls": "16",
+    "longballPct": "0.4",
+    "blockedShots": "4",
+    "effectiveTackles": "12",
+    "totalTackles": "17",
+    "tacklePct": "0.7",
+    "interceptions": "6",
+    "effectiveClearance": "22",
+    "totalClearance": "22"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal",
+   "clock": "27'",
+   "team": null,
+   "text": "Goal! Lorient 0, Rennes 1. Boulaye Dia (Rennes) left footed shot from the left side of the six yard box to the centre of the goal. Assisted by Mousa Al Tamari."
+  },
+  {
+   "type": "Substitution",
+   "clock": "29'",
+   "team": null,
+   "text": "Substitution, Rennes. Djaoui Cissé replaces Valentin Rongier because of an injury."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "36'",
+   "team": null,
+   "text": "Sebastian Szymanski (Rennes) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "45'",
+   "team": null,
+   "text": "Goal! Lorient 1, Rennes 1. Montassar Talbi (Lorient) header from the right side of the six yard box to the centre of the goal. Assisted by Arthur Avom with a cross following a corner."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "50'",
+   "team": null,
+   "text": "Aboubakar Nagida (Rennes) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Penalty - Missed",
+   "clock": "52'",
+   "team": null,
+   "text": "Penalty missed. Noah Cadiou (Lorient) right footed shot is close, but misses to the right."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Lorient. Souleymane Faye replaces Gabin Bernardeau."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Lorient. Mamadou Koné replaces Aiyegun Tosin."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "66'",
+   "team": null,
+   "text": "Souleymane Faye (Lorient) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "70'",
+   "team": null,
+   "text": "Noah Cadiou (Lorient) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Rennes. Estéban Lepaul replaces Boulaye Dia."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Rennes. Issa Soumaré replaces Mousa Al Tamari."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Rennes. Adrien Thomasson replaces Sebastian Szymanski."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Lorient. Théo Le Bris replaces Arsène Kouassi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Rennes. Quentin Merlin replaces Aboubakar Nagida."
+  },
+  {
+   "type": "Substitution",
+   "clock": "88'",
+   "team": null,
+   "text": "Substitution, Lorient. Srdjan Kuzmic replaces Dembo Sylla."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "90'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'+2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Red Card",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Adrien Thomasson (Rennes) is shown the red card."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

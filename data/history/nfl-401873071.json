@@ -1,0 +1,144 @@
+{
+ "id": "nfl-401873071",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-22T18:00Z",
+ "home": {
+  "name": "Chicago Bears",
+  "abbr": "CHI",
+  "teamId": "3",
+  "score": 21.0
+ },
+ "away": {
+  "name": "New Orleans Saints",
+  "abbr": "NO",
+  "teamId": "18",
+  "score": 13.0
+ },
+ "odds": {
+  "mlAway": "+485",
+  "mlAwayOpen": "+225",
+  "mlHome": "-670",
+  "mlHomeOpen": "-278",
+  "provider": "DraftKings",
+  "spread": "CHI -11.5",
+  "spreadOpen": "CHI -6.5",
+  "total": "47.5",
+  "totalOpen": "46.5"
+ },
+ "espnWinProb": {
+  "away": 21.2,
+  "home": 78.6
+ },
+ "teams": {
+  "away": {
+   "abbr": "NO",
+   "stats": {
+    "firstDowns": "17",
+    "firstDownsPassing": "15",
+    "firstDownsRushing": "2",
+    "firstDownsPenalty": "0",
+    "thirdDownEff": "8-17",
+    "fourthDownEff": "1-2",
+    "totalOffensivePlays": "71",
+    "totalYards": "307",
+    "yardsPerPlay": "4.3",
+    "totalDrives": "11",
+    "netPassingYards": "187",
+    "completionAttempts": "25/43",
+    "yardsPerPass": "3.8",
+    "interceptions": "1",
+    "sacksYardsLost": "6-35",
+    "rushingYards": "120",
+    "rushingAttempts": "22",
+    "yardsPerRushAttempt": "5.5",
+    "redZoneAttempts": "1-2",
+    "totalPenaltiesYards": "7-30",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "29:32"
+   }
+  },
+  "home": {
+   "abbr": "CHI",
+   "stats": {
+    "firstDowns": "18",
+    "firstDownsPassing": "9",
+    "firstDownsRushing": "6",
+    "firstDownsPenalty": "3",
+    "thirdDownEff": "5-12",
+    "fourthDownEff": "0-1",
+    "totalOffensivePlays": "58",
+    "totalYards": "311",
+    "yardsPerPlay": "5.4",
+    "totalDrives": "11",
+    "netPassingYards": "165",
+    "completionAttempts": "15/23",
+    "yardsPerPass": "6.6",
+    "interceptions": "1",
+    "sacksYardsLost": "2-16",
+    "rushingYards": "146",
+    "rushingAttempts": "33",
+    "yardsPerRushAttempt": "4.4",
+    "redZoneAttempts": "2-3",
+    "totalPenaltiesYards": "3-15",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "30:28"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "10:43",
+   "team": "CHI",
+   "text": "Cairo Santos 41 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "11:34",
+   "team": "CHI",
+   "text": "D'Andre Swift 3 Yd pass from Caleb Williams (Cairo Santos Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "7:21",
+   "team": "CHI",
+   "text": "Colston Loveland 15 Yd pass from Caleb Williams (Cairo Santos PAT Failed)"
+  },
+  {
+   "period": 2,
+   "clock": "3:34",
+   "team": "NO",
+   "text": "Alvin Kamara 1 Yd pass from Tyler Shough (Charlie Smyth Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:00",
+   "team": "NO",
+   "text": "Charlie Smyth 56 Yd Field Goal "
+  },
+  {
+   "period": 3,
+   "clock": "7:16",
+   "team": "CHI",
+   "text": "Cairo Santos 35 Yd Field Goal "
+  },
+  {
+   "period": 4,
+   "clock": "12:55",
+   "team": "CHI",
+   "text": "Tyler Shough Sacked by Montez Sweat For 7 Yd Loss for Safety"
+  },
+  {
+   "period": 4,
+   "clock": "1:10",
+   "team": "NO",
+   "text": "Charlie Smyth 51 Yd Field Goal"
+  }
+ ]
+}
