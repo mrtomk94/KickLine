@@ -1,0 +1,156 @@
+{
+ "id": "nfl-401873069",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-22T21:25Z",
+ "home": {
+  "name": "New York Giants",
+  "abbr": "NYG",
+  "teamId": "19",
+  "score": 23.0
+ },
+ "away": {
+  "name": "Jacksonville Jaguars",
+  "abbr": "JAX",
+  "teamId": "30",
+  "score": 18.0
+ },
+ "odds": {
+  "mlAway": "-266",
+  "mlAwayOpen": "-125",
+  "mlHome": "+219",
+  "mlHomeOpen": "+105",
+  "provider": "DraftKings",
+  "spread": "JAX -6",
+  "spreadOpen": "JAX -1.5",
+  "total": "45.5",
+  "totalOpen": "46.5"
+ },
+ "espnWinProb": {
+  "away": 81.4,
+  "home": 18.5
+ },
+ "teams": {
+  "away": {
+   "abbr": "JAX",
+   "stats": {
+    "firstDowns": "18",
+    "firstDownsPassing": "15",
+    "firstDownsRushing": "3",
+    "firstDownsPenalty": "0",
+    "thirdDownEff": "5-15",
+    "fourthDownEff": "1-2",
+    "totalOffensivePlays": "68",
+    "totalYards": "354",
+    "yardsPerPlay": "5.2",
+    "totalDrives": "12",
+    "netPassingYards": "277",
+    "completionAttempts": "25/47",
+    "yardsPerPass": "5.5",
+    "interceptions": "2",
+    "sacksYardsLost": "3-24",
+    "rushingYards": "77",
+    "rushingAttempts": "18",
+    "yardsPerRushAttempt": "4.3",
+    "redZoneAttempts": "1-6",
+    "totalPenaltiesYards": "13-107",
+    "turnovers": "2",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "29:41"
+   }
+  },
+  "home": {
+   "abbr": "NYG",
+   "stats": {
+    "firstDowns": "18",
+    "firstDownsPassing": "9",
+    "firstDownsRushing": "6",
+    "firstDownsPenalty": "3",
+    "thirdDownEff": "4-15",
+    "fourthDownEff": "2-2",
+    "totalOffensivePlays": "65",
+    "totalYards": "238",
+    "yardsPerPlay": "3.7",
+    "totalDrives": "12",
+    "netPassingYards": "161",
+    "completionAttempts": "18/39",
+    "yardsPerPass": "4.0",
+    "interceptions": "0",
+    "sacksYardsLost": "1-12",
+    "rushingYards": "77",
+    "rushingAttempts": "25",
+    "yardsPerRushAttempt": "3.1",
+    "redZoneAttempts": "2-3",
+    "totalPenaltiesYards": "6-46",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "30:19"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "11:58",
+   "team": "JAX",
+   "text": "Cam Little 42 Yd Field Goal"
+  },
+  {
+   "period": 1,
+   "clock": "6:06",
+   "team": "NYG",
+   "text": "Dominic Zvada 53 Yd Field Goal"
+  },
+  {
+   "period": 1,
+   "clock": "2:07",
+   "team": "NYG",
+   "text": "Jameis Winston 1 Yd Rush (Dominic Zvada Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "11:23",
+   "team": "JAX",
+   "text": "Cam Little 35 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "6:04",
+   "team": "NYG",
+   "text": "Malik Nabers 8 Yd pass from J.J. McCarthy (Dominic Zvada Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:11",
+   "team": "NYG",
+   "text": "Dominic Zvada 54 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "12:17",
+   "team": "JAX",
+   "text": "Cam Little 31 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "10:03",
+   "team": "NYG",
+   "text": "Dominic Zvada 43 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "6:39",
+   "team": "JAX",
+   "text": "Brian Thomas Jr. 18 Yd pass from Trevor Lawrence (Two-Point Pass Conversion Failed)"
+  },
+  {
+   "period": 4,
+   "clock": "3:40",
+   "team": "JAX",
+   "text": "Cam Little 26 Yd Field Goal"
+  }
+ ]
+}

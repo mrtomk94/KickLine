@@ -1,0 +1,156 @@
+{
+ "id": "nfl-401873075",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-22T21:25Z",
+ "home": {
+  "name": "Denver Broncos",
+  "abbr": "DEN",
+  "teamId": "7",
+  "score": 38.0
+ },
+ "away": {
+  "name": "Las Vegas Raiders",
+  "abbr": "LV",
+  "teamId": "13",
+  "score": 24.0
+ },
+ "odds": {
+  "mlAway": "+445",
+  "mlAwayOpen": "+330",
+  "mlHome": "-598",
+  "mlHomeOpen": "-425",
+  "provider": "DraftKings",
+  "spread": "DEN -10.5",
+  "spreadOpen": "DEN -8.5",
+  "total": "40.5",
+  "totalOpen": "41.5"
+ },
+ "espnWinProb": {
+  "away": 13.4,
+  "home": 86.5
+ },
+ "teams": {
+  "away": {
+   "abbr": "LV",
+   "stats": {
+    "firstDowns": "14",
+    "firstDownsPassing": "10",
+    "firstDownsRushing": "4",
+    "firstDownsPenalty": "0",
+    "thirdDownEff": "8-18",
+    "fourthDownEff": "0-2",
+    "totalOffensivePlays": "66",
+    "totalYards": "370",
+    "yardsPerPlay": "5.6",
+    "totalDrives": "13",
+    "netPassingYards": "227",
+    "completionAttempts": "18/37",
+    "yardsPerPass": "5.4",
+    "interceptions": "1",
+    "sacksYardsLost": "5-40",
+    "rushingYards": "143",
+    "rushingAttempts": "24",
+    "yardsPerRushAttempt": "6.0",
+    "redZoneAttempts": "2-3",
+    "totalPenaltiesYards": "9-63",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "26:16"
+   }
+  },
+  "home": {
+   "abbr": "DEN",
+   "stats": {
+    "firstDowns": "25",
+    "firstDownsPassing": "12",
+    "firstDownsRushing": "10",
+    "firstDownsPenalty": "3",
+    "thirdDownEff": "6-13",
+    "fourthDownEff": "0-1",
+    "totalOffensivePlays": "70",
+    "totalYards": "351",
+    "yardsPerPlay": "5.0",
+    "totalDrives": "13",
+    "netPassingYards": "218",
+    "completionAttempts": "19/35",
+    "yardsPerPass": "6.1",
+    "interceptions": "1",
+    "sacksYardsLost": "1-7",
+    "rushingYards": "133",
+    "rushingAttempts": "34",
+    "yardsPerRushAttempt": "3.9",
+    "redZoneAttempts": "4-4",
+    "totalPenaltiesYards": "2-10",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "1",
+    "possessionTime": "33:44"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "8:43",
+   "team": "DEN",
+   "text": "Wil Lutz 38 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "14:50",
+   "team": "DEN",
+   "text": "Adam Trautman 1 Yd pass from Bo Nix (Wil Lutz Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "10:35",
+   "team": "DEN",
+   "text": "Jonah Coleman 1 Yd Rush (Wil Lutz Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "6:43",
+   "team": "LV",
+   "text": "Matt Gay 28 Yd Field Goal "
+  },
+  {
+   "period": 2,
+   "clock": "2:45",
+   "team": "LV",
+   "text": "Ashton Jeanty 68 Yd pass from Fernando Mendoza (Matt Gay Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "5:13",
+   "team": "LV",
+   "text": "Ian Thomas 19 Yd pass from Fernando Mendoza (Matt Gay Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "0:20",
+   "team": "DEN",
+   "text": "Jonah Coleman 4 Yd Rush (Wil Lutz Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "9:21",
+   "team": "DEN",
+   "text": "Jonah Coleman 7 Yd Rush (Wil Lutz Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "4:29",
+   "team": "LV",
+   "text": "Jack Bech 7 Yd pass from Fernando Mendoza (Matt Gay Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "1:52",
+   "team": "DEN",
+   "text": "Ja'Quan McMillian 35 Yd Interception Return (Wil Lutz Kick)"
+  }
+ ]
+}

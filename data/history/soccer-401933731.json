@@ -1,0 +1,252 @@
+{
+ "id": "soccer-401933731",
+ "sport": "soccer",
+ "league": "MLS",
+ "start": "2026-11-22T21:00Z",
+ "home": {
+  "name": "Nashville SC",
+  "abbr": "NSH",
+  "teamId": "18986",
+  "score": 0.0
+ },
+ "away": {
+  "name": "FC Cincinnati",
+  "abbr": "CIN",
+  "teamId": "18267",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+450",
+  "mlAwayOpen": "+425",
+  "mlDraw": "+350",
+  "mlHome": "-210",
+  "mlHomeOpen": "-200",
+  "provider": "DraftKings",
+  "spread": "NSH -210",
+  "spreadOpen": "NSH -1.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "NSH",
+   "stats": {
+    "foulsCommitted": "7",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "4",
+    "wonCorners": "9",
+    "saves": "2",
+    "possessionPct": "68.7",
+    "totalShots": "23",
+    "shotsOnTarget": "6",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "533",
+    "totalPasses": "594",
+    "passPct": "0.9",
+    "accurateCrosses": "5",
+    "totalCrosses": "36",
+    "crossPct": "0.1",
+    "totalLongBalls": "46",
+    "accurateLongBalls": "30",
+    "longballPct": "0.7",
+    "blockedShots": "6",
+    "effectiveTackles": "11",
+    "totalTackles": "18",
+    "tacklePct": "0.6",
+    "interceptions": "3",
+    "effectiveClearance": "8",
+    "totalClearance": "8"
+   }
+  },
+  "away": {
+   "abbr": "CIN",
+   "stats": {
+    "foulsCommitted": "13",
+    "yellowCards": "5",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "2",
+    "saves": "6",
+    "possessionPct": "31.3",
+    "totalShots": "5",
+    "shotsOnTarget": "2",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "214",
+    "totalPasses": "278",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "6",
+    "crossPct": "0.5",
+    "totalLongBalls": "50",
+    "accurateLongBalls": "26",
+    "longballPct": "0.5",
+    "blockedShots": "0",
+    "effectiveTackles": "6",
+    "totalTackles": "10",
+    "tacklePct": "0.6",
+    "interceptions": "7",
+    "effectiveClearance": "51",
+    "totalClearance": "51"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Own Goal",
+   "clock": "7'",
+   "team": null,
+   "text": "Own Goal by Patrick Yazbek, Nashville SC. Nashville SC 0, FC Cincinnati 1."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "39'",
+   "team": null,
+   "text": "Miles Robinson (FC Cincinnati) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "45'",
+   "team": null,
+   "text": "José Martínez (FC Cincinnati) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "45'+2'",
+   "team": null,
+   "text": "Patrick Yazbek (Nashville SC) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": "First Half ends, Nashville SC 0, FC Cincinnati 1."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Nashville SC. Bryan Acosta replaces Patrick Yazbek."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Nashville SC 0, FC Cincinnati 1."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "53'",
+   "team": null,
+   "text": "Delay in match because of an injury Maxwell Woledzi (Nashville SC)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "53'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "56'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "56'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "56'",
+   "team": null,
+   "text": "Substitution, Nashville SC. Jack Maher replaces Maxwell Woledzi because of an injury."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, FC Cincinnati. Tyrell Malacia replaces Bryan Ramírez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, FC Cincinnati. Pavel Bucha replaces José Martínez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, FC Cincinnati. Tom Barlow replaces Evander."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Nashville SC. Warren Madrigal replaces Matthew Corcoran."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, FC Cincinnati. Kenji Mboma Dem replaces Samuel Gidi."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "78'",
+   "team": null,
+   "text": "Tyrell Malacia (FC Cincinnati) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "85'",
+   "team": null,
+   "text": "David Doudera (FC Cincinnati) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Nashville SC. Shak Mohammed replaces Cristian Espinoza."
+  },
+  {
+   "type": "Substitution",
+   "clock": "89'",
+   "team": null,
+   "text": "Substitution, Nashville SC. Alex Muyl replaces Reed Baker-Whiting."
+  },
+  {
+   "type": "Substitution",
+   "clock": "89'",
+   "team": null,
+   "text": "Substitution, FC Cincinnati. Ayoub Jabbari replaces David Doudera."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'",
+   "team": null,
+   "text": "Ayoub Jabbari (FC Cincinnati) is shown the yellow card."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+9'",
+   "team": null,
+   "text": "Second Half ends, Nashville SC 0, FC Cincinnati 1."
+  }
+ ],
+ "scoringPlays": []
+}

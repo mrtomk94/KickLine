@@ -3,7 +3,7 @@
   "away": {
    "abbr": "DET",
    "name": "Detroit Pistons",
-   "record": "10-5",
+   "record": "10-6",
    "short": "Pistons",
    "teamId": "8"
   },
@@ -13,7 +13,7 @@
   "home": {
    "abbr": "ORL",
    "name": "Orlando Magic",
-   "record": "7-8",
+   "record": "7-9",
    "short": "Magic",
    "teamId": "19"
   },
@@ -31,7 +31,7 @@
   "stars": 1,
   "start": "2026-11-25T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Kia Center, Orlando"
  },
  "nba-401909315": {
@@ -48,7 +48,7 @@
   "home": {
    "abbr": "WSH",
    "name": "Washington Wizards",
-   "record": "6-11",
+   "record": "7-11",
    "short": "Wizards",
    "teamId": "27"
   },
@@ -66,14 +66,14 @@
   "stars": 1,
   "start": "2026-11-25T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Capital One Arena, Washington"
  },
  "nba-401909316": {
   "away": {
    "abbr": "DAL",
    "name": "Dallas Mavericks",
-   "record": "9-7",
+   "record": "10-7",
    "short": "Mavericks",
    "teamId": "6"
   },
@@ -83,7 +83,7 @@
   "home": {
    "abbr": "DEN",
    "name": "Denver Nuggets",
-   "record": "9-5",
+   "record": "10-5",
    "short": "Nuggets",
    "teamId": "7"
   },
@@ -101,14 +101,14 @@
   "stars": 1,
   "start": "2026-11-25T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Ball Arena, Denver"
  },
  "nba-401909317": {
   "away": {
    "abbr": "MIA",
    "name": "Miami Heat",
-   "record": "9-6",
+   "record": "10-6",
    "short": "Heat",
    "teamId": "14"
   },
@@ -136,602 +136,288 @@
   "stars": 1,
   "start": "2026-11-25T22:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Xfinity Mobile Arena, Philadelphia"
  },
- "nba-401910024": {
-  "_lastPick": "NY ML (-201)",
+ "nba-401909318": {
   "away": {
-   "abbr": "POR",
-   "form": "WLLWW",
-   "injuries": [
-    "Chris Youngblood (G) – Out, Heel",
-    "Vit Krejci (G) – Out, Ankle",
-    "Ja Morant (G) – Out, Hamstring"
-   ],
-   "name": "Portland Trail Blazers",
-   "record": "10-5",
-   "short": "Trail Blazers",
-   "teamId": "22"
+   "abbr": "CHI",
+   "name": "Chicago Bulls",
+   "record": "4-12",
+   "short": "Bulls",
+   "teamId": "4"
   },
-  "confidence": 54,
-  "espnId": "401910024",
+  "espnId": "401909318",
   "espnLeague": "nba",
   "espnSport": "basketball",
-  "espnWinProb": {
-   "away": 40.8,
-   "home": 59.2
-  },
   "home": {
-   "abbr": "NY",
-   "form": "WWWLL",
-   "injuries": [
-    "Jordan Clarkson (G) – Out, Foot"
-   ],
-   "name": "New York Knicks",
-   "record": "9-6",
-   "short": "Knicks",
-   "teamId": "18"
+   "abbr": "CHA",
+   "name": "Charlotte Hornets",
+   "record": "4-11",
+   "short": "Hornets",
+   "teamId": "30"
   },
-  "id": "nba-401910024",
-  "injuriesRaw": {
-   "away": [
-    {
-     "detail": "Heel",
-     "player": "Chris Youngblood",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Ankle",
-     "player": "Vit Krejci",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Hamstring",
-     "player": "Ja Morant",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Shaedon Sharpe",
-     "pos": "G",
-     "stale": true,
-     "status": "Out"
-    }
-   ],
-   "home": [
-    {
-     "detail": "Foot",
-     "player": "Jordan Clarkson",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    }
-   ]
-  },
+  "id": "nba-401909318",
   "league": "NBA",
-  "link": "https://www.espn.com/nba/game/_/gameId/401910024",
-  "market": null,
-  "news": [
-   "Joel Embiid, LeBron James lead Eastern Conference-leading 76ers past the Bucks 132-129",
-   "Fantasy basketball adds and NBA bets: Zero in on Acuff Jr., Queta on Saturday",
-   "76ers' Jaylen Brown, Dean Wade out, Tyrese Maxey starting vs. Bucks"
-  ],
+  "link": "https://www.espn.com/nba/game/_/gameId/401909318",
   "odds": {
-   "mlAway": "+131",
-   "mlAwayOpen": "+168",
-   "mlHome": "-156",
-   "mlHomeOpen": "-201",
-   "provider": "DraftKings",
-   "spread": "NY -2.5",
-   "spreadOpen": "NY -5.5",
-   "total": "215.5",
-   "totalOpen": "218.5"
+   "provider": "DraftKings"
   },
   "pick": "Pass",
-  "reason": "NY about 58% no-vig at -156; no edge worth a pick.",
-  "risks": [
-   "line drifted away (-201 → -156)"
-  ],
-  "side": null,
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
   "slug": "nba",
   "sport": "nba",
   "stars": 1,
-  "start": "2026-11-22T00:30Z",
-  "state": "in",
-  "updatedAt": "2026-11-21T21:51:43Z",
-  "venue": "Madison Square Garden, New York"
+  "start": "2026-11-26T00:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-23T03:01:43Z",
+  "venue": "Spectrum Center, Charlotte"
  },
- "nba-401910025": {
-  "_lastPick": "DAL ML (-196)",
+ "nba-401909319": {
   "away": {
-   "abbr": "LAC",
-   "form": "LLWWL",
-   "injuries": [
-    "Brandon Ingram (F) – Out, Achilles"
-   ],
-   "name": "LA Clippers",
-   "record": "4-10",
-   "short": "Clippers",
-   "teamId": "12"
+   "abbr": "CLE",
+   "name": "Cleveland Cavaliers",
+   "record": "9-8",
+   "short": "Cavaliers",
+   "teamId": "5"
   },
-  "confidence": 64,
-  "espnId": "401910025",
+  "espnId": "401909319",
   "espnLeague": "nba",
   "espnSport": "basketball",
-  "espnWinProb": {
-   "away": 28.1,
-   "home": 71.9
-  },
   "home": {
-   "abbr": "DAL",
-   "form": "WLLLW",
-   "injuries": [
-    "Tobi Lawal (F) – Out, Groin",
-    "Dereck Lively II (C) – Out, Foot",
-    "Sergio de Larrea (F) – Out, Knee"
-   ],
-   "name": "Dallas Mavericks",
-   "record": "8-7",
-   "short": "Mavericks",
-   "teamId": "6"
+   "abbr": "NY",
+   "name": "New York Knicks",
+   "record": "10-6",
+   "short": "Knicks",
+   "teamId": "18"
   },
-  "id": "nba-401910025",
-  "injuriesRaw": {
-   "away": [
-    {
-     "detail": "Achilles",
-     "player": "Brandon Ingram",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Bradley Beal",
-     "pos": "G",
-     "stale": true,
-     "status": "Out"
-    },
-    {
-     "detail": "Shoulder",
-     "player": "Jordan Miller",
-     "pos": "G",
-     "stale": true,
-     "status": "Out"
-    }
-   ],
-   "home": [
-    {
-     "detail": "Groin",
-     "player": "Tobi Lawal",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Foot",
-     "player": "Dereck Lively II",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Sergio de Larrea",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    }
-   ]
-  },
+  "id": "nba-401909319",
   "league": "NBA",
-  "link": "https://www.espn.com/nba/game/_/gameId/401910025",
-  "market": "Moneyline",
-  "news": [
-   "Joel Embiid, LeBron James lead Eastern Conference-leading 76ers past the Bucks 132-129",
-   "Fantasy basketball adds and NBA bets: Zero in on Acuff Jr., Queta on Saturday",
-   "76ers' Jaylen Brown, Dean Wade out, Tyrese Maxey starting vs. Bucks"
-  ],
+  "link": "https://www.espn.com/nba/game/_/gameId/401909319",
   "odds": {
-   "mlAway": "+164",
-   "mlAwayOpen": "+168",
-   "mlHome": "-196",
-   "mlHomeOpen": "-201",
-   "provider": "DraftKings",
-   "spread": "DAL -4.5",
-   "spreadOpen": "DAL -5.5",
-   "total": "230.5",
-   "totalOpen": "229.5"
+   "provider": "DraftKings"
   },
-  "pick": "DAL ML (-196)",
-  "reason": "DAL are about 64% no-vig at -196; ESPN's model has 72%. For: ESPN model 72% vs market 64%.",
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
   "risks": [],
-  "side": "home",
   "slug": "nba",
   "sport": "nba",
-  "stars": 2,
-  "start": "2026-11-22T01:00Z",
-  "state": "in",
-  "updatedAt": "2026-11-21T21:51:43Z",
-  "venue": "American Airlines Center, Dallas"
+  "stars": 1,
+  "start": "2026-11-26T00:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-23T03:01:43Z",
+  "venue": "Madison Square Garden, New York"
  },
- "nba-401910026": {
-  "_lastPick": "MIN ML (-223)",
+ "nba-401909320": {
   "away": {
-   "abbr": "MEM",
-   "form": "WWWWW",
-   "injuries": [
-    "Jerami Grant (F) – Out, Calf",
-    "Javon Small (G) – Out, Personal",
-    "Cameron Boozer (F) – Out, Ankle",
-    "GG Jackson (F) – Out, Foot",
-    "Scotty Pippen Jr. (G) – Out, Back"
-   ],
-   "name": "Memphis Grizzlies",
-   "record": "12-4",
-   "short": "Grizzlies",
-   "teamId": "29"
-  },
-  "confidence": 62,
-  "espnId": "401910026",
-  "espnLeague": "nba",
-  "espnSport": "basketball",
-  "espnWinProb": {
-   "away": 32.0,
-   "home": 68.0
-  },
-  "home": {
    "abbr": "MIN",
-   "form": "LWWLW",
-   "injuries": [
-    "Jaylen Clark (G) – Out, Hamstring"
-   ],
    "name": "Minnesota Timberwolves",
-   "record": "11-5",
+   "record": "12-5",
    "short": "Timberwolves",
    "teamId": "16"
   },
-  "id": "nba-401910026",
-  "injuriesRaw": {
-   "away": [
-    {
-     "detail": "Calf",
-     "player": "Jerami Grant",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Personal",
-     "player": "Javon Small",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Ankle",
-     "player": "Cameron Boozer",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Foot",
-     "player": "GG Jackson",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Back",
-     "player": "Scotty Pippen Jr.",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    }
-   ],
-   "home": [
-    {
-     "detail": "Hamstring",
-     "player": "Jaylen Clark",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Anthony Edwards",
-     "pos": "G",
-     "stale": true,
-     "status": "Out"
-    },
-    {
-     "detail": "Achilles",
-     "player": "Donte DiVincenzo",
-     "pos": "G",
-     "stale": true,
-     "status": "Out"
-    }
-   ]
-  },
-  "league": "NBA",
-  "link": "https://www.espn.com/nba/game/_/gameId/401910026",
-  "market": "Moneyline",
-  "news": [
-   "Joel Embiid, LeBron James lead Eastern Conference-leading 76ers past the Bucks 132-129",
-   "Fantasy basketball adds and NBA bets: Zero in on Acuff Jr., Queta on Saturday",
-   "76ers' Jaylen Brown, Dean Wade out, Tyrese Maxey starting vs. Bucks"
-  ],
-  "odds": {
-   "mlAway": "+185",
-   "mlAwayOpen": "+160",
-   "mlHome": "-223",
-   "mlHomeOpen": "-191",
-   "provider": "DraftKings",
-   "spread": "MIN -6.5",
-   "spreadOpen": "MIN -5.5",
-   "total": "228.5",
-   "totalOpen": "227.5"
-  },
-  "pick": "MIN ML (-223)",
-  "reason": "MIN are about 66% no-vig at -223; ESPN's model has 68%.",
-  "risks": [
-   "opponent in better form (WWWWW)",
-   "history stats favor the opponent"
-  ],
-  "side": "home",
-  "slug": "nba",
-  "sport": "nba",
-  "stars": 2,
-  "start": "2026-11-22T01:00Z",
-  "state": "in",
-  "updatedAt": "2026-11-21T21:51:43Z",
-  "venue": "Target Center, Minneapolis"
- },
- "nba-401910027": {
-  "_lastPick": "SA ML (-1740)",
-  "away": {
-   "abbr": "NO",
-   "form": "LLWLL",
-   "injuries": [
-    "Trey Murphy III (F) – Out, Knee",
-    "Trendon Watford (F) – Out, Ankle",
-    "Bryce McGowens (G) – Out, Elbow",
-    "Bennedict Mathurin (G) – Out, Foot",
-    "Dejounte Murray (G) – Out, Ankle"
-   ],
-   "name": "New Orleans Pelicans",
-   "record": "5-12",
-   "short": "Pelicans",
-   "teamId": "3"
-  },
-  "confidence": 90,
-  "espnId": "401910027",
+  "espnId": "401909320",
   "espnLeague": "nba",
   "espnSport": "basketball",
-  "espnWinProb": {
-   "away": 7.9,
-   "home": 92.1
-  },
   "home": {
-   "abbr": "SA",
-   "form": "WLWWW",
-   "injuries": [
-    "Dylan Harper (G) – Out, Hip",
-    "Tobias Harris (F) – Out, Calf"
-   ],
-   "name": "San Antonio Spurs",
-   "record": "13-3",
-   "short": "Spurs",
-   "teamId": "24"
+   "abbr": "OKC",
+   "name": "Oklahoma City Thunder",
+   "record": "10-7",
+   "short": "Thunder",
+   "teamId": "25"
   },
-  "id": "nba-401910027",
-  "injuriesRaw": {
-   "away": [
-    {
-     "detail": "Knee",
-     "player": "Trey Murphy III",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Ankle",
-     "player": "Trendon Watford",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Elbow",
-     "player": "Bryce McGowens",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Foot",
-     "player": "Bennedict Mathurin",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Ankle",
-     "player": "Dejounte Murray",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    }
-   ],
-   "home": [
-    {
-     "detail": "Hip",
-     "player": "Dylan Harper",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Calf",
-     "player": "Tobias Harris",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Jayden Quaintance",
-     "pos": "F",
-     "stale": true,
-     "status": "Out"
-    }
-   ]
-  },
+  "id": "nba-401909320",
   "league": "NBA",
-  "link": "https://www.espn.com/nba/game/_/gameId/401910027",
-  "market": "Moneyline",
-  "news": [
-   "Joel Embiid, LeBron James lead Eastern Conference-leading 76ers past the Bucks 132-129",
-   "Fantasy basketball adds and NBA bets: Zero in on Acuff Jr., Queta on Saturday",
-   "76ers' Jaylen Brown, Dean Wade out, Tyrese Maxey starting vs. Bucks"
-  ],
+  "link": "https://www.espn.com/nba/game/_/gameId/401909320",
   "odds": {
-   "mlAway": "+950",
-   "mlAwayOpen": "+850",
-   "mlHome": "-1740",
-   "mlHomeOpen": "-1440",
-   "provider": "DraftKings",
-   "spread": "SA -18.5",
-   "spreadOpen": "SA -16.5",
-   "total": "228.5",
-   "totalOpen": "226.5"
+   "provider": "DraftKings"
   },
-  "pick": "SA ML (-1740)",
-  "reason": "SA are about 91% no-vig at -1740; ESPN's model has 92%. For: form WLWWW vs LLWLL; last-5 scoring margin: SA +10.2, NO -7.4. Capped at 2★: NBA capped by lessons.",
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
   "risks": [],
-  "side": "home",
   "slug": "nba",
   "sport": "nba",
-  "stars": 2,
-  "start": "2026-11-22T01:00Z",
-  "state": "in",
-  "updatedAt": "2026-11-21T21:51:43Z",
-  "venue": "Frost Bank Center, San Antonio"
+  "stars": 1,
+  "start": "2026-11-26T00:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-23T03:01:43Z",
+  "venue": "Paycom Center, Oklahoma City"
  },
- "nba-401910028": {
-  "_lastPick": "BOS ML (-650)",
+ "nba-401909321": {
   "away": {
-   "abbr": "BOS",
-   "form": "LLWWW",
-   "injuries": [
-    "Mitchell Robinson (C) – Out, Illness",
-    "Derrick White (G) – Out, Shoulder",
-    "Jayson Tatum (F) – Out, Rest"
-   ],
-   "name": "Boston Celtics",
-   "record": "11-4",
-   "short": "Celtics",
-   "teamId": "2"
+   "abbr": "LAC",
+   "name": "LA Clippers",
+   "record": "4-11",
+   "short": "Clippers",
+   "teamId": "12"
   },
-  "confidence": 83,
-  "espnId": "401910028",
+  "espnId": "401909321",
   "espnLeague": "nba",
   "espnSport": "basketball",
-  "espnWinProb": {
-   "away": 84.4,
-   "home": 15.6
-  },
   "home": {
+   "abbr": "MEM",
+   "name": "Memphis Grizzlies",
+   "record": "12-5",
+   "short": "Grizzlies",
+   "teamId": "29"
+  },
+  "id": "nba-401909321",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401909321",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-26T01:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-23T03:01:43Z",
+  "venue": "FedExForum, Memphis"
+ },
+ "nba-401909322": {
+  "away": {
+   "abbr": "BKN",
+   "name": "Brooklyn Nets",
+   "record": "3-12",
+   "short": "Nets",
+   "teamId": "17"
+  },
+  "espnId": "401909322",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "MIL",
+   "name": "Milwaukee Bucks",
+   "record": "1-16",
+   "short": "Bucks",
+   "teamId": "15"
+  },
+  "id": "nba-401909322",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401909322",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-26T01:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-23T03:01:43Z",
+  "venue": "Fiserv Forum, Milwaukee"
+ },
+ "nba-401909323": {
+  "away": {
+   "abbr": "PHX",
+   "name": "Phoenix Suns",
+   "record": "8-7",
+   "short": "Suns",
+   "teamId": "21"
+  },
+  "espnId": "401909323",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "HOU",
+   "name": "Houston Rockets",
+   "record": "12-5",
+   "short": "Rockets",
+   "teamId": "10"
+  },
+  "id": "nba-401909323",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401909323",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-26T01:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-23T03:01:43Z",
+  "venue": "Toyota Center (Houston), Houston"
+ },
+ "nba-401909324": {
+  "away": {
    "abbr": "SAC",
-   "form": "LLLLL",
-   "injuries": [
-    "Maxime Raynaud (C) – Out, Knee"
-   ],
    "name": "Sacramento Kings",
-   "record": "1-14",
+   "record": "2-14",
    "short": "Kings",
    "teamId": "23"
   },
-  "id": "nba-401910028",
-  "injuriesRaw": {
-   "away": [
-    {
-     "detail": "Illness",
-     "player": "Mitchell Robinson",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Shoulder",
-     "player": "Derrick White",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Rest",
-     "player": "Jayson Tatum",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    }
-   ],
-   "home": [
-    {
-     "detail": "Knee",
-     "player": "Maxime Raynaud",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Achilles",
-     "player": "Ben Simmons",
-     "pos": "G",
-     "stale": true,
-     "status": "Out"
-    }
-   ]
+  "espnId": "401909324",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "GS",
+   "name": "Golden State Warriors",
+   "record": "8-8",
+   "short": "Warriors",
+   "teamId": "9"
   },
+  "id": "nba-401909324",
   "league": "NBA",
-  "link": "https://www.espn.com/nba/game/_/gameId/401910028",
-  "market": "Moneyline",
-  "news": [
-   "76ers survive in clutch again despite Herro's 50: 'Got to finish better'",
-   "Joel Embiid, LeBron James lead Eastern Conference-leading 76ers past the Bucks 132-129",
-   "Milwaukee Bucks vs. Philadelphia 76ers: Game Highlights"
-  ],
+  "link": "https://www.espn.com/nba/game/_/gameId/401909324",
   "odds": {
-   "mlAway": "-650",
-   "mlAwayOpen": "-465",
-   "mlHome": "+470",
-   "mlHomeOpen": "+359",
-   "provider": "DraftKings",
-   "spread": "BOS -12.5",
-   "spreadOpen": "BOS -12.5",
-   "total": "217.5",
-   "totalOpen": "217.5"
+   "provider": "DraftKings"
   },
-  "pick": "BOS ML (-650)",
-  "reason": "BOS are about 83% no-vig at -650; ESPN's model has 84%. For: line moved toward BOS (-465 → -650); form LLWWW vs LLLLL; last-5 scoring margin: SAC -13.0, BOS +10.0. Capped at 2★: NBA capped by lessons.",
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
   "risks": [],
-  "side": "away",
   "slug": "nba",
   "sport": "nba",
-  "stars": 2,
-  "start": "2026-11-22T03:00Z",
+  "stars": 1,
+  "start": "2026-11-26T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T01:52:10Z",
-  "venue": "Golden 1 Center, Sacramento"
+  "updatedAt": "2026-11-23T03:01:43Z",
+  "venue": "Chase Center, San Francisco"
+ },
+ "nba-401909325": {
+  "away": {
+   "abbr": "SA",
+   "name": "San Antonio Spurs",
+   "record": "14-3",
+   "short": "Spurs",
+   "teamId": "24"
+  },
+  "espnId": "401909325",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "POR",
+   "name": "Portland Trail Blazers",
+   "record": "10-6",
+   "short": "Trail Blazers",
+   "teamId": "22"
+  },
+  "id": "nba-401909325",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401909325",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-26T03:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-23T03:01:43Z",
+  "venue": "Moda Center, Portland"
  },
  "nba-401910029": {
   "away": {
@@ -876,7 +562,7 @@
     "Thomas Sorber (C) – Out, Knee"
    ],
    "name": "Oklahoma City Thunder",
-   "record": "10-6",
+   "record": "10-7",
    "short": "Thunder",
    "teamId": "25"
   },
@@ -895,7 +581,7 @@
     "Giannis Antetokounmpo (F) – Out, Groin"
    ],
    "name": "Miami Heat",
-   "record": "9-6",
+   "record": "10-6",
    "short": "Heat",
    "teamId": "14"
   },
@@ -975,7 +661,7 @@
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-22T23:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-22T22:29:34Z",
   "venue": "Kaseya Center, Miami"
  },
@@ -990,7 +676,7 @@
     "Noah Penda (F) – Out, Hamstring"
    ],
    "name": "Orlando Magic",
-   "record": "7-8",
+   "record": "7-9",
    "short": "Magic",
    "teamId": "19"
   },
@@ -1010,7 +696,7 @@
     "Reece Beekman (G) – Out, Shoulder"
    ],
    "name": "Washington Wizards",
-   "record": "6-11",
+   "record": "7-11",
    "short": "Wizards",
    "teamId": "27"
   },
@@ -1097,7 +783,7 @@
   "sport": "nba",
   "stars": 2,
   "start": "2026-11-23T00:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-22T22:29:34Z",
   "venue": "Capital One Arena, Washington"
  },
@@ -1108,7 +794,7 @@
    "form": "WWLWW",
    "injuries": [],
    "name": "Denver Nuggets",
-   "record": "9-5",
+   "record": "10-5",
    "short": "Nuggets",
    "teamId": "7"
   },
@@ -1129,7 +815,7 @@
     "Caleb Wilson (F) – Out, Hand"
    ],
    "name": "Chicago Bulls",
-   "record": "4-11",
+   "record": "4-12",
    "short": "Bulls",
    "teamId": "4"
   },
@@ -1195,7 +881,7 @@
   "sport": "nba",
   "stars": 2,
   "start": "2026-11-23T00:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-22T22:29:34Z",
   "venue": "United Center, Chicago"
  },
@@ -1210,7 +896,7 @@
     "Sergio de Larrea (F) – Out, Knee"
    ],
    "name": "Dallas Mavericks",
-   "record": "9-7",
+   "record": "10-7",
    "short": "Mavericks",
    "teamId": "6"
   },
@@ -1230,7 +916,7 @@
     "Lauri Markkanen (F) – Out, Hand"
    ],
    "name": "Utah Jazz",
-   "record": "3-14",
+   "record": "3-15",
    "short": "Jazz",
    "teamId": "26"
   },
@@ -1317,7 +1003,7 @@
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-23T00:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-22T22:29:34Z",
   "venue": "Delta Center, Salt Lake City"
  },
@@ -1433,7 +1119,7 @@
   "sport": "nba",
   "stars": 2,
   "start": "2026-11-23T01:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-22T22:29:34Z",
   "venue": "Madison Square Garden, New York"
  },
@@ -1555,85 +1241,258 @@
   "sport": "nba",
   "stars": 2,
   "start": "2026-11-23T01:30Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-22T22:29:34Z",
   "venue": "Chase Center, San Francisco"
  },
  "nba-401910036": {
+  "_lastPick": "MEM ML (-162)",
   "away": {
    "abbr": "MEM",
+   "form": "LWWWW",
+   "injuries": [
+    "Cameron Boozer (F) – Out, Ankle",
+    "GG Jackson (F) – Out, Foot",
+    "Scotty Pippen Jr. (G) – Out, Back",
+    "Richie Saunders (G) – Out, Knee"
+   ],
    "name": "Memphis Grizzlies",
    "record": "12-5",
    "short": "Grizzlies",
    "teamId": "29"
   },
+  "confidence": 61,
   "espnId": "401910036",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 65.9,
+   "home": 34.1
+  },
   "home": {
    "abbr": "CHA",
+   "form": "LLLLW",
+   "injuries": [
+    "Grayson Allen (G) – Out, Concussion",
+    "Grant Williams (F) – Out, Hamstring",
+    "Kon Knueppel (G) – Out, Hamstring",
+    "Dennis Schroder (G) – Out, Hamstring"
+   ],
    "name": "Charlotte Hornets",
    "record": "4-11",
    "short": "Hornets",
    "teamId": "30"
   },
   "id": "nba-401910036",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Ankle",
+     "player": "Cameron Boozer",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Foot",
+     "player": "GG Jackson",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Back",
+     "player": "Scotty Pippen Jr.",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Richie Saunders",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Concussion",
+     "player": "Grayson Allen",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "Grant Williams",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "Kon Knueppel",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "Dennis Schroder",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401910036",
+  "market": "Moneyline",
+  "news": [
+   "Cooper Flagg saves Mavericks with late free throws to hold off Jazz comeback in 116-114 win",
+   "Denver Nuggets vs. Chicago Bulls: Game Highlights",
+   "Dallas Mavericks vs. Utah Jazz: Game Highlights"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "-162",
+   "mlAwayOpen": "-157",
+   "mlHome": "+136",
+   "mlHomeOpen": "+132",
+   "provider": "DraftKings",
+   "spread": "MEM -3.5",
+   "spreadOpen": "MEM -3.5",
+   "total": "216.5",
+   "totalOpen": "218.5"
   },
-  "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "pick": "MEM ML (-162)",
+  "reason": "MEM are about 59% no-vig at -162; ESPN's model has 66%. For: ESPN model 66% vs market 59%; form LWWWW vs LLLLW; last-5 scoring margin: CHA -3.8, MEM +11.4.",
   "risks": [],
+  "side": "away",
   "slug": "nba",
   "sport": "nba",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-24T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Spectrum Center, Charlotte"
  },
  "nba-401910037": {
   "away": {
    "abbr": "POR",
+   "form": "LWLLW",
+   "injuries": [
+    "Chris Youngblood (G) – Out, Heel",
+    "Vit Krejci (G) – Out, Ankle",
+    "Ja Morant (G) – Out, Hamstring"
+   ],
    "name": "Portland Trail Blazers",
    "record": "10-6",
    "short": "Trail Blazers",
    "teamId": "22"
   },
+  "confidence": 56,
   "espnId": "401910037",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 41.4,
+   "home": 58.6
+  },
   "home": {
    "abbr": "PHI",
+   "form": "WWWWW",
+   "injuries": [
+    "Adem Bona (C) – Out, Back"
+   ],
    "name": "Philadelphia 76ers",
    "record": "14-3",
    "short": "76ers",
    "teamId": "20"
   },
   "id": "nba-401910037",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Heel",
+     "player": "Chris Youngblood",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Vit Krejci",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "Ja Morant",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Shaedon Sharpe",
+     "pos": "G",
+     "stale": true,
+     "status": "Out"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Back",
+     "player": "Adem Bona",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Achilles",
+     "player": "Ariel Hukporti",
+     "pos": "C",
+     "stale": true,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401910037",
+  "news": [
+   "Cooper Flagg saves Mavericks with late free throws to hold off Jazz comeback in 116-114 win",
+   "Denver Nuggets vs. Chicago Bulls: Game Highlights",
+   "Dallas Mavericks vs. Utah Jazz: Game Highlights"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+130",
+   "mlAwayOpen": "+121",
+   "mlHome": "-155",
+   "mlHomeOpen": "-144",
+   "provider": "DraftKings",
+   "spread": "PHI -3.5",
+   "spreadOpen": "PHI -2.5",
+   "total": "229.5",
+   "totalOpen": "228.5"
   },
   "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "reason": "PHI about 58% no-vig at -155; no edge worth a pick.",
   "risks": [],
   "slug": "nba",
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-24T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Xfinity Mobile Arena, Philadelphia"
  },
  "nba-401910038": {
   "away": {
    "abbr": "OKC",
    "name": "Oklahoma City Thunder",
-   "record": "10-6",
+   "record": "10-7",
    "short": "Thunder",
    "teamId": "25"
   },
@@ -1661,427 +1520,716 @@
   "stars": 1,
   "start": "2026-11-24T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Gainbridge Fieldhouse, Indianapolis"
  },
  "nba-401910039": {
+  "_lastPick": "TOR ML (-537)",
   "away": {
    "abbr": "MIL",
+   "form": "LLLLL",
+   "injuries": [
+    "Ousmane Dieng (F) – Out, Finger"
+   ],
    "name": "Milwaukee Bucks",
    "record": "1-16",
    "short": "Bucks",
    "teamId": "15"
   },
+  "confidence": 75,
   "espnId": "401910039",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 25.4,
+   "home": 74.6
+  },
   "home": {
    "abbr": "TOR",
+   "form": "WLLLL",
+   "injuries": [
+    "Nate Bittle (C) – Out, Foot",
+    "Kawhi Leonard (F) – Out, Knee",
+    "RJ Barrett (F) – Out, Hamstring"
+   ],
    "name": "Toronto Raptors",
    "record": "6-10",
    "short": "Raptors",
    "teamId": "28"
   },
   "id": "nba-401910039",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Finger",
+     "player": "Ousmane Dieng",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Foot",
+     "player": "Nate Bittle",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Kawhi Leonard",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "RJ Barrett",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401910039",
+  "market": "Moneyline",
+  "news": [
+   "Cooper Flagg saves Mavericks with late free throws to hold off Jazz comeback in 116-114 win",
+   "Denver Nuggets vs. Chicago Bulls: Game Highlights",
+   "Dallas Mavericks vs. Utah Jazz: Game Highlights"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+406",
+   "mlAwayOpen": "+368",
+   "mlHome": "-537",
+   "mlHomeOpen": "-479",
+   "provider": "DraftKings",
+   "spread": "TOR -10.5",
+   "spreadOpen": "TOR -11.5",
+   "total": "223.5",
+   "totalOpen": "224.5"
   },
-  "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
-  "risks": [],
+  "pick": "TOR ML (-537)",
+  "reason": "TOR are about 81% no-vig at -537; ESPN's model has 75%.",
+  "risks": [
+   "ESPN model only 75% vs market 81%"
+  ],
+  "side": "home",
   "slug": "nba",
   "sport": "nba",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-24T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Scotiabank Arena, Toronto"
  },
  "nba-401910040": {
+  "_lastPick": "MIN ML (-670)",
   "away": {
    "abbr": "BKN",
+   "form": "LLLLW",
+   "injuries": [
+    "Nolan Traore (G) – Out, Hamstring"
+   ],
    "name": "Brooklyn Nets",
    "record": "3-12",
    "short": "Nets",
    "teamId": "17"
   },
+  "confidence": 82,
   "espnId": "401910040",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 14.3,
+   "home": 85.7
+  },
   "home": {
    "abbr": "MIN",
+   "form": "WLWWL",
+   "injuries": [
+    "Jaylen Clark (G) – Out, Hamstring"
+   ],
    "name": "Minnesota Timberwolves",
    "record": "12-5",
    "short": "Timberwolves",
    "teamId": "16"
   },
   "id": "nba-401910040",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Hamstring",
+     "player": "Nolan Traore",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Hamstring",
+     "player": "Jaylen Clark",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Anthony Edwards",
+     "pos": "G",
+     "stale": true,
+     "status": "Out"
+    },
+    {
+     "detail": "Achilles",
+     "player": "Donte DiVincenzo",
+     "pos": "G",
+     "stale": true,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401910040",
+  "market": "Moneyline",
+  "news": [
+   "Cooper Flagg saves Mavericks with late free throws to hold off Jazz comeback in 116-114 win",
+   "Denver Nuggets vs. Chicago Bulls: Game Highlights",
+   "Dallas Mavericks vs. Utah Jazz: Game Highlights"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+487",
+   "mlAwayOpen": "+431",
+   "mlHome": "-670",
+   "mlHomeOpen": "-578",
+   "provider": "DraftKings",
+   "spread": "MIN -12.5",
+   "spreadOpen": "MIN -11.5",
+   "total": "224.5",
+   "totalOpen": "225.5"
   },
-  "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "pick": "MIN ML (-670)",
+  "reason": "MIN are about 84% no-vig at -670; ESPN's model has 86%. For: last-5 scoring margin: MIN +0.8, BKN -5.8. Capped at 2★: NBA capped by lessons.",
   "risks": [],
+  "side": "home",
   "slug": "nba",
   "sport": "nba",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-24T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Target Center, Minneapolis"
  },
  "nba-401910041": {
+  "_lastPick": "CLE ML (-378)",
   "away": {
    "abbr": "CLE",
+   "form": "WLWWL",
+   "injuries": [
+    "Jaylon Tyson (G) – Out, Ankle",
+    "Nae'Qwan Tomlin (F) – Out, Back",
+    "Evan Mobley (C) – Out, Toe"
+   ],
    "name": "Cleveland Cavaliers",
    "record": "9-8",
    "short": "Cavaliers",
    "teamId": "5"
   },
+  "confidence": 73,
   "espnId": "401910041",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 76.7,
+   "home": 23.3
+  },
   "home": {
    "abbr": "CHI",
+   "form": "LLWLW",
+   "injuries": [
+    "Nic Claxton (C) – Out, Illness",
+    "Norman Powell (G) – Out, Hamstring",
+    "Caleb Wilson (F) – Out, Hand"
+   ],
    "name": "Chicago Bulls",
-   "record": "4-11",
+   "record": "4-12",
    "short": "Bulls",
    "teamId": "4"
   },
   "id": "nba-401910041",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Ankle",
+     "player": "Jaylon Tyson",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Back",
+     "player": "Nae'Qwan Tomlin",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Toe",
+     "player": "Evan Mobley",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Illness",
+     "player": "Nic Claxton",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "Norman Powell",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hand",
+     "player": "Caleb Wilson",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401910041",
+  "market": "Moneyline",
+  "news": [
+   "Cooper Flagg saves Mavericks with late free throws to hold off Jazz comeback in 116-114 win",
+   "Denver Nuggets vs. Chicago Bulls: Game Highlights",
+   "Dallas Mavericks vs. Utah Jazz: Game Highlights"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "-378",
+   "mlAwayOpen": "-356",
+   "mlHome": "+300",
+   "mlHomeOpen": "+284",
+   "provider": "DraftKings",
+   "spread": "CLE -9.5",
+   "spreadOpen": "CLE -9.5",
+   "total": "241.5",
+   "totalOpen": "241.5"
   },
-  "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "pick": "CLE ML (-378)",
+  "reason": "CLE are about 76% no-vig at -378; ESPN's model has 77%.",
   "risks": [],
+  "side": "away",
   "slug": "nba",
   "sport": "nba",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-24T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "United Center, Chicago"
  },
  "nba-401910042": {
+  "_lastPick": "PHX ML (-150)",
   "away": {
    "abbr": "PHX",
+   "form": "WWWLW",
+   "injuries": [],
    "name": "Phoenix Suns",
    "record": "8-7",
    "short": "Suns",
    "teamId": "21"
   },
+  "confidence": 64,
   "espnId": "401910042",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 75.1,
+   "home": 24.9
+  },
   "home": {
    "abbr": "NO",
+   "form": "LLLWL",
+   "injuries": [
+    "Bryce McGowens (G) – Out, Elbow",
+    "Trendon Watford (F) – Out, Ankle",
+    "Bennedict Mathurin (G) – Out, Foot"
+   ],
    "name": "New Orleans Pelicans",
    "record": "5-13",
    "short": "Pelicans",
    "teamId": "3"
   },
   "id": "nba-401910042",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Shoulder",
+     "player": "Mark Williams",
+     "pos": "C",
+     "stale": true,
+     "status": "Out"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Elbow",
+     "player": "Bryce McGowens",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Trendon Watford",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Foot",
+     "player": "Bennedict Mathurin",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401910042",
+  "market": "Moneyline",
+  "news": [
+   "Cooper Flagg saves Mavericks with late free throws to hold off Jazz comeback in 116-114 win",
+   "Denver Nuggets vs. Chicago Bulls: Game Highlights",
+   "Dallas Mavericks vs. Utah Jazz: Game Highlights"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "-150",
+   "mlAwayOpen": "-149",
+   "mlHome": "+126",
+   "mlHomeOpen": "+125",
+   "provider": "DraftKings",
+   "spread": "PHX -3.5",
+   "spreadOpen": "PHX -3.5",
+   "total": "234.5",
+   "totalOpen": "232.5"
   },
-  "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "pick": "PHX ML (-150)",
+  "reason": "PHX are about 58% no-vig at -150; ESPN's model has 75%. For: ESPN model 75% vs market 58%; form WWWLW vs LLLWL; last-5 scoring margin: NO -5.8, PHX +8.0.",
   "risks": [],
+  "side": "away",
   "slug": "nba",
   "sport": "nba",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-24T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Smoothie King Center, New Orleans"
  },
  "nba-401910043": {
+  "_lastPick": "HOU ML (-700)",
   "away": {
    "abbr": "LAC",
+   "form": "LLLWW",
+   "injuries": [],
    "name": "LA Clippers",
    "record": "4-11",
    "short": "Clippers",
    "teamId": "12"
   },
+  "confidence": 83,
   "espnId": "401910043",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 14.5,
+   "home": 85.5
+  },
   "home": {
    "abbr": "HOU",
+   "form": "LWLWW",
+   "injuries": [],
    "name": "Houston Rockets",
    "record": "12-5",
    "short": "Rockets",
    "teamId": "10"
   },
   "id": "nba-401910043",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Knee",
+     "player": "Bradley Beal",
+     "pos": "G",
+     "stale": true,
+     "status": "Out"
+    },
+    {
+     "detail": "Shoulder",
+     "player": "Jordan Miller",
+     "pos": "G",
+     "stale": true,
+     "status": "Out"
+    }
+   ],
+   "home": []
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401910043",
+  "market": "Moneyline",
+  "news": [
+   "Cooper Flagg saves Mavericks with late free throws to hold off Jazz comeback in 116-114 win",
+   "Denver Nuggets vs. Chicago Bulls: Game Highlights",
+   "Dallas Mavericks vs. Utah Jazz: Game Highlights"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+501",
+   "mlAwayOpen": "+448",
+   "mlHome": "-700",
+   "mlHomeOpen": "-610",
+   "provider": "DraftKings",
+   "spread": "HOU -12.5",
+   "spreadOpen": "HOU -13.5",
+   "total": "224.5",
+   "totalOpen": "225.5"
   },
-  "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "pick": "HOU ML (-700)",
+  "reason": "HOU are about 84% no-vig at -700; ESPN's model has 86%. For: last-5 scoring margin: HOU +4.6, LAC -7.6. Capped at 2★: NBA capped by lessons.",
   "risks": [],
+  "side": "home",
   "slug": "nba",
   "sport": "nba",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-24T01:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Toyota Center (Houston), Houston"
  },
  "nba-401910044": {
+  "_lastPick": "LAL ML (-890)",
   "away": {
    "abbr": "UTAH",
+   "form": "LLWWL",
+   "injuries": [
+    "Jaxson Hayes (C) – Out, Knee",
+    "Jusuf Nurkic (C) – Out, Foot",
+    "Lauri Markkanen (F) – Out, Hand"
+   ],
    "name": "Utah Jazz",
-   "record": "3-14",
+   "record": "3-15",
    "short": "Jazz",
    "teamId": "26"
   },
+  "confidence": 81,
   "espnId": "401910044",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 18.8,
+   "home": 81.2
+  },
   "home": {
    "abbr": "LAL",
+   "form": "WLWWW",
+   "injuries": [
+    "Austin Reaves (G) – Out, Heel"
+   ],
    "name": "Los Angeles Lakers",
    "record": "14-3",
    "short": "Lakers",
    "teamId": "13"
   },
   "id": "nba-401910044",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Knee",
+     "player": "Jaxson Hayes",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Foot",
+     "player": "Jusuf Nurkic",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hand",
+     "player": "Lauri Markkanen",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Jaren Jackson Jr.",
+     "pos": "F",
+     "stale": true,
+     "status": "Out"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Heel",
+     "player": "Austin Reaves",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401910044",
+  "market": "Moneyline",
+  "news": [
+   "Cooper Flagg saves Mavericks with late free throws to hold off Jazz comeback in 116-114 win",
+   "Denver Nuggets vs. Chicago Bulls: Game Highlights",
+   "Dallas Mavericks vs. Utah Jazz: Game Highlights"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+600",
+   "mlAwayOpen": "+501",
+   "mlHome": "-890",
+   "mlHomeOpen": "-700",
+   "provider": "DraftKings",
+   "spread": "LAL -13.5",
+   "spreadOpen": "LAL -12.5",
+   "total": "230.5",
+   "totalOpen": "230.5"
   },
-  "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
-  "risks": [],
+  "pick": "LAL ML (-890)",
+  "reason": "LAL are about 86% no-vig at -890; ESPN's model has 81%.",
+  "risks": [
+   "ESPN model only 81% vs market 86%"
+  ],
+  "side": "home",
   "slug": "nba",
   "sport": "nba",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-24T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "crypto.com Arena, Los Angeles"
  },
  "nba-401910045": {
+  "_lastPick": "SA ML (-467)",
   "away": {
    "abbr": "SA",
+   "form": "WWLWW",
+   "injuries": [
+    "Dylan Harper (G) – Out, Hip",
+    "Tobias Harris (F) – Out, Calf"
+   ],
    "name": "San Antonio Spurs",
    "record": "14-3",
    "short": "Spurs",
    "teamId": "24"
   },
+  "confidence": 83,
   "espnId": "401910045",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 90.2,
+   "home": 9.8
+  },
   "home": {
    "abbr": "SAC",
+   "form": "WLLLL",
+   "injuries": [
+    "Maxime Raynaud (C) – Out, Knee"
+   ],
    "name": "Sacramento Kings",
    "record": "2-14",
    "short": "Kings",
    "teamId": "23"
   },
   "id": "nba-401910045",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Hip",
+     "player": "Dylan Harper",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Calf",
+     "player": "Tobias Harris",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Jayden Quaintance",
+     "pos": "F",
+     "stale": true,
+     "status": "Out"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Knee",
+     "player": "Maxime Raynaud",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Achilles",
+     "player": "Ben Simmons",
+     "pos": "G",
+     "stale": true,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401910045",
+  "market": "Moneyline",
+  "news": [
+   "Cooper Flagg saves Mavericks with late free throws to hold off Jazz comeback in 116-114 win",
+   "Denver Nuggets vs. Chicago Bulls: Game Highlights",
+   "Dallas Mavericks vs. Utah Jazz: Game Highlights"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "-467",
+   "mlAwayOpen": "-448",
+   "mlHome": "+360",
+   "mlHomeOpen": "+348",
+   "provider": "DraftKings",
+   "spread": "SA -10.5",
+   "spreadOpen": "SA -10.5",
+   "total": "224.5",
+   "totalOpen": "224.5"
   },
-  "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "pick": "SA ML (-467)",
+  "reason": "SA are about 79% no-vig at -467; ESPN's model has 90%. For: ESPN model 90% vs market 79%; form WWLWW vs WLLLL; last-5 scoring margin: SAC -11.4, SA +13.8. Capped at 2★: NBA capped by lessons.",
   "risks": [],
+  "side": "away",
   "slug": "nba",
   "sport": "nba",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-24T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Golden 1 Center, Sacramento"
- },
- "ncaaf-401856751": {
-  "_lastPick": "MIZ ML (-205)",
-  "away": {
-   "abbr": "UK",
-   "form": "LLWWW",
-   "name": "#16 Kentucky",
-   "record": "7-3",
-   "short": "Kentucky",
-   "teamId": "96"
-  },
-  "confidence": 60,
-  "espnId": "401856751",
-  "espnLeague": "college-football",
-  "espnSport": "football",
-  "espnWinProb": {
-   "away": 38.5,
-   "home": 61.6
-  },
-  "home": {
-   "abbr": "MIZ",
-   "form": "LLWLW",
-   "name": "Missouri Tigers",
-   "record": "6-4",
-   "short": "Missouri",
-   "teamId": "142"
-  },
-  "id": "ncaaf-401856751",
-  "league": "College Football",
-  "link": "https://www.espn.com/college-football/game/_/gameId/401856751",
-  "market": "Moneyline",
-  "news": [
-   "Weaver throws 7 TDs including game-winner to Neal and Monmouth completes perfect CAA season",
-   "Jonathan Dimas kicks 23-yard field goal to send No. 20 Houston past West Virginia 34-31",
-   "Puckett throws 2 TD passes and Mississippi State beats Tennessee Tech, ends 6-game losing streak"
-  ],
-  "odds": {
-   "mlAway": "+170",
-   "mlAwayOpen": "+185",
-   "mlHome": "-205",
-   "mlHomeOpen": "-225",
-   "provider": "DraftKings",
-   "spread": "MIZ -4.5",
-   "spreadOpen": "MIZ -6.5",
-   "total": "49.5",
-   "totalOpen": "49.5"
-  },
-  "pick": "MIZ ML (-205)",
-  "reason": "MIZ are about 64% no-vig at -205; ESPN's model has 62%.",
-  "risks": [],
-  "side": "home",
-  "slug": "college-football",
-  "sport": "ncaaf",
-  "stars": 2,
-  "start": "2026-11-22T00:30Z",
-  "state": "in",
-  "updatedAt": "2026-11-21T21:51:43Z",
-  "venue": "Memorial Stadium, Columbia"
- },
- "ncaaf-401856753": {
-  "_lastPick": "UGA ML (-750)",
-  "away": {
-   "abbr": "UGA",
-   "form": "WWWLW",
-   "name": "#1 Georgia",
-   "record": "9-1",
-   "short": "Georgia",
-   "teamId": "61"
-  },
-  "confidence": 83,
-  "espnId": "401856753",
-  "espnLeague": "college-football",
-  "espnSport": "football",
-  "espnWinProb": {
-   "away": 86.9,
-   "home": 13.1
-  },
-  "home": {
-   "abbr": "SC",
-   "form": "LWWWW",
-   "name": "#21 South Carolina",
-   "record": "6-4",
-   "short": "South Carolina",
-   "teamId": "2579"
-  },
-  "id": "ncaaf-401856753",
-  "league": "College Football",
-  "link": "https://www.espn.com/college-football/game/_/gameId/401856753",
-  "market": "Moneyline",
-  "news": [
-   "Weaver throws 7 TDs including game-winner to Neal and Monmouth completes perfect CAA season",
-   "Jonathan Dimas kicks 23-yard field goal to send No. 20 Houston past West Virginia 34-31",
-   "Puckett throws 2 TD passes and Mississippi State beats Tennessee Tech, ends 6-game losing streak"
-  ],
-  "odds": {
-   "mlAway": "-750",
-   "mlAwayOpen": "-375",
-   "mlHome": "+525",
-   "mlHomeOpen": "+295",
-   "provider": "DraftKings",
-   "spread": "UGA -14.5",
-   "spreadOpen": "UGA -10.5",
-   "total": "50.5",
-   "totalOpen": "50.5"
-  },
-  "pick": "UGA ML (-750)",
-  "reason": "UGA are about 85% no-vig at -750; ESPN's model has 87%. For: line moved toward UGA (-375 → -750).",
-  "risks": [],
-  "side": "away",
-  "slug": "college-football",
-  "sport": "ncaaf",
-  "stars": 3,
-  "start": "2026-11-22T00:30Z",
-  "state": "in",
-  "updatedAt": "2026-11-21T21:51:43Z",
-  "venue": "Williams-Brice Stadium, Columbia"
- },
- "ncaaf-401856865": {
-  "_lastPick": "ARIZ ML (-375)",
-  "away": {
-   "abbr": "ARIZ",
-   "form": "LWLWW",
-   "name": "#19 Arizona",
-   "record": "7-3",
-   "short": "Arizona",
-   "teamId": "12"
-  },
-  "confidence": 72,
-  "espnId": "401856865",
-  "espnLeague": "college-football",
-  "espnSport": "football",
-  "espnWinProb": {
-   "away": 74.0,
-   "home": 26.0
-  },
-  "home": {
-   "abbr": "KSU",
-   "form": "LLLLW",
-   "name": "Kansas State Wildcats",
-   "record": "4-6",
-   "short": "Kansas St",
-   "teamId": "2306"
-  },
-  "id": "ncaaf-401856865",
-  "league": "College Football",
-  "link": "https://www.espn.com/college-football/game/_/gameId/401856865",
-  "market": "Moneyline",
-  "news": [
-   "Weaver throws 7 TDs including game-winner to Neal and Monmouth completes perfect CAA season",
-   "Jonathan Dimas kicks 23-yard field goal to send No. 20 Houston past West Virginia 34-31",
-   "Puckett throws 2 TD passes and Mississippi State beats Tennessee Tech, ends 6-game losing streak"
-  ],
-  "odds": {
-   "mlAway": "-375",
-   "mlAwayOpen": "-380",
-   "mlHome": "+295",
-   "mlHomeOpen": "+300",
-   "provider": "DraftKings",
-   "spread": "ARIZ -10",
-   "spreadOpen": "ARIZ -10.5",
-   "total": "53.5",
-   "totalOpen": "50.5"
-  },
-  "pick": "ARIZ ML (-375)",
-  "reason": "ARIZ are about 76% no-vig at -375; ESPN's model has 74%.",
-  "risks": [],
-  "side": "away",
-  "slug": "college-football",
-  "sport": "ncaaf",
-  "stars": 2,
-  "start": "2026-11-22T00:00Z",
-  "state": "in",
-  "updatedAt": "2026-11-21T21:51:43Z",
-  "venue": "Bill Snyder Family Stadium, Manhattan"
  },
  "ncaaf-401856870": {
   "away": {
@@ -2139,411 +2287,6 @@
   "state": "pre",
   "updatedAt": "2026-11-22T01:52:10Z",
   "venue": "Mountain America Stadium, Tempe"
- },
- "ncaaf-401856872": {
-  "_lastPick": "UTAH ML (-340)",
-  "away": {
-   "abbr": "UTAH",
-   "form": "WWWWW",
-   "name": "#2 Utah",
-   "record": "10-0",
-   "short": "Utah",
-   "teamId": "254"
-  },
-  "confidence": 70,
-  "espnId": "401856872",
-  "espnLeague": "college-football",
-  "espnSport": "football",
-  "espnWinProb": {
-   "away": 72.5,
-   "home": 27.5
-  },
-  "home": {
-   "abbr": "TCU",
-   "form": "WLWLW",
-   "name": "TCU Horned Frogs",
-   "record": "5-5",
-   "short": "TCU",
-   "teamId": "2628"
-  },
-  "id": "ncaaf-401856872",
-  "league": "College Football",
-  "link": "https://www.espn.com/college-football/game/_/gameId/401856872",
-  "market": "Moneyline",
-  "news": [
-   "Veltkamp throws 4 more TDs in Florida Atlantic's 35-14 win over South Florida",
-   "Undefeated Tarleton State wraps up UIC championship with 31-24 win over North Alabama",
-   "Treynor Cleeland, Jordan Fisher rally UC Davis to 44-43 victory over Cal Poly to end regular season"
-  ],
-  "odds": {
-   "mlAway": "-340",
-   "mlAwayOpen": "-205",
-   "mlHome": "+270",
-   "mlHomeOpen": "+170",
-   "provider": "DraftKings",
-   "spread": "UTAH -9.5",
-   "spreadOpen": "UTAH -5.5",
-   "total": "46.5",
-   "totalOpen": "44.5"
-  },
-  "pick": "UTAH ML (-340)",
-  "reason": "UTAH are about 74% no-vig at -340; ESPN's model has 72%. For: line moved toward UTAH (-205 → -340).",
-  "risks": [],
-  "side": "away",
-  "slug": "college-football",
-  "sport": "ncaaf",
-  "stars": 3,
-  "start": "2026-11-22T02:00Z",
-  "state": "pre",
-  "updatedAt": "2026-11-22T01:52:10Z",
-  "venue": "Amon G. Carter Stadium, Fort Worth"
- },
- "ncaaf-401858302": {
-  "_lastPick": "MIA ML (-1650)",
-  "away": {
-   "abbr": "VT",
-   "form": "LLWWL",
-   "name": "Virginia Tech Hokies",
-   "record": "6-4",
-   "short": "Virginia Tech",
-   "teamId": "259"
-  },
-  "confidence": 90,
-  "espnId": "401858302",
-  "espnLeague": "college-football",
-  "espnSport": "football",
-  "espnWinProb": {
-   "away": 3.7,
-   "home": 96.3
-  },
-  "home": {
-   "abbr": "MIA",
-   "form": "WLWWW",
-   "name": "#7 Miami",
-   "record": "9-1",
-   "short": "Miami",
-   "teamId": "2390"
-  },
-  "id": "ncaaf-401858302",
-  "league": "College Football",
-  "link": "https://www.espn.com/college-football/game/_/gameId/401858302",
-  "market": "Moneyline",
-  "news": [
-   "Weaver throws 7 TDs including game-winner to Neal and Monmouth completes perfect CAA season",
-   "Jonathan Dimas kicks 23-yard field goal to send No. 20 Houston past West Virginia 34-31",
-   "Puckett throws 2 TD passes and Mississippi State beats Tennessee Tech, ends 6-game losing streak"
-  ],
-  "odds": {
-   "mlAway": "+950",
-   "mlAwayOpen": "+675",
-   "mlHome": "-1650",
-   "mlHomeOpen": "-1050",
-   "provider": "DraftKings",
-   "spread": "MIA -20.5",
-   "spreadOpen": "MIA -16.5",
-   "total": "61.5",
-   "totalOpen": "56.5"
-  },
-  "pick": "MIA ML (-1650)",
-  "reason": "MIA are about 91% no-vig at -1650; ESPN's model has 96%. For: ESPN model 96% vs market 91%. Capped at 2★: huge college spread.",
-  "risks": [],
-  "side": "home",
-  "slug": "college-football",
-  "sport": "ncaaf",
-  "stars": 2,
-  "start": "2026-11-22T00:00Z",
-  "state": "in",
-  "updatedAt": "2026-11-21T21:51:43Z",
-  "venue": "Hard Rock Stadium, Miami Gardens"
- },
- "ncaaf-401858306": {
-  "_lastPick": "LOU ML (-485)",
-  "away": {
-   "abbr": "PITT",
-   "form": "LWLLL",
-   "name": "Pittsburgh Panthers",
-   "record": "6-4",
-   "short": "Pitt",
-   "teamId": "221"
-  },
-  "confidence": 77,
-  "espnId": "401858306",
-  "espnLeague": "college-football",
-  "espnSport": "football",
-  "espnWinProb": {
-   "away": 23.0,
-   "home": 77.0
-  },
-  "home": {
-   "abbr": "LOU",
-   "form": "WWWWW",
-   "name": "#23 Louisville",
-   "record": "7-3",
-   "short": "Louisville",
-   "teamId": "97"
-  },
-  "id": "ncaaf-401858306",
-  "league": "College Football",
-  "link": "https://www.espn.com/college-football/game/_/gameId/401858306",
-  "market": "Moneyline",
-  "news": [
-   "Weaver throws 7 TDs including game-winner to Neal and Monmouth completes perfect CAA season",
-   "Jonathan Dimas kicks 23-yard field goal to send No. 20 Houston past West Virginia 34-31",
-   "Puckett throws 2 TD passes and Mississippi State beats Tennessee Tech, ends 6-game losing streak"
-  ],
-  "odds": {
-   "mlAway": "+370",
-   "mlAwayOpen": "+270",
-   "mlHome": "-485",
-   "mlHomeOpen": "-340",
-   "provider": "DraftKings",
-   "spread": "LOU -11.5",
-   "spreadOpen": "LOU -12.5",
-   "total": "50.5",
-   "totalOpen": "51.5"
-  },
-  "pick": "LOU ML (-485)",
-  "reason": "LOU are about 80% no-vig at -485; ESPN's model has 77%. For: line moved toward LOU (-340 → -485); form WWWWW vs LWLLL.",
-  "risks": [],
-  "side": "home",
-  "slug": "college-football",
-  "sport": "ncaaf",
-  "stars": 2,
-  "start": "2026-11-22T00:30Z",
-  "state": "in",
-  "updatedAt": "2026-11-21T21:51:43Z",
-  "venue": "L&N Federal Credit Union Stadium, Louisville"
- },
- "ncaaf-401858307": {
-  "_lastPick": "ND ML (-1600)",
-  "away": {
-   "abbr": "SMU",
-   "form": "LWLWW",
-   "name": "SMU Mustangs",
-   "record": "7-3",
-   "short": "SMU",
-   "teamId": "2567"
-  },
-  "confidence": 89,
-  "espnId": "401858307",
-  "espnLeague": "college-football",
-  "espnSport": "football",
-  "espnWinProb": {
-   "away": 6.7,
-   "home": 93.3
-  },
-  "home": {
-   "abbr": "ND",
-   "form": "WWWLW",
-   "name": "#6 Notre Dame",
-   "record": "9-1",
-   "short": "Notre Dame",
-   "teamId": "87"
-  },
-  "id": "ncaaf-401858307",
-  "league": "College Football",
-  "link": "https://www.espn.com/college-football/game/_/gameId/401858307",
-  "market": "Moneyline",
-  "news": [
-   "Weaver throws 7 TDs including game-winner to Neal and Monmouth completes perfect CAA season",
-   "Jonathan Dimas kicks 23-yard field goal to send No. 20 Houston past West Virginia 34-31",
-   "Puckett throws 2 TD passes and Mississippi State beats Tennessee Tech, ends 6-game losing streak"
-  ],
-  "odds": {
-   "mlAway": "+900",
-   "mlAwayOpen": "+625",
-   "mlHome": "-1600",
-   "mlHomeOpen": "-950",
-   "provider": "DraftKings",
-   "spread": "ND -20.5",
-   "spreadOpen": "ND -17.5",
-   "total": "55.5",
-   "totalOpen": "56.5"
-  },
-  "pick": "ND ML (-1600)",
-  "reason": "ND are about 90% no-vig at -1600; ESPN's model has 93%.",
-  "risks": [],
-  "side": "home",
-  "slug": "college-football",
-  "sport": "ncaaf",
-  "stars": 2,
-  "start": "2026-11-22T00:30Z",
-  "state": "in",
-  "updatedAt": "2026-11-21T21:51:43Z",
-  "venue": "Notre Dame Stadium, Notre Dame"
- },
- "ncaaf-401858308": {
-  "away": {
-   "abbr": "STAN",
-   "form": "WLWWL",
-   "name": "Stanford Cardinal",
-   "record": "5-5",
-   "short": "Stanford",
-   "teamId": "24"
-  },
-  "confidence": 49,
-  "espnId": "401858308",
-  "espnLeague": "college-football",
-  "espnSport": "football",
-  "espnWinProb": {
-   "away": 47.0,
-   "home": 53.0
-  },
-  "home": {
-   "abbr": "CAL",
-   "form": "LLLLW",
-   "name": "California Golden Bears",
-   "record": "3-7",
-   "short": "California",
-   "teamId": "25"
-  },
-  "id": "ncaaf-401858308",
-  "league": "College Football",
-  "link": "https://www.espn.com/college-football/game/_/gameId/401858308",
-  "news": [
-   "Weaver throws 7 TDs including game-winner to Neal and Monmouth completes perfect CAA season",
-   "Jonathan Dimas kicks 23-yard field goal to send No. 20 Houston past West Virginia 34-31",
-   "Puckett throws 2 TD passes and Mississippi State beats Tennessee Tech, ends 6-game losing streak"
-  ],
-  "odds": {
-   "mlAway": "-135",
-   "mlAwayOpen": "-122",
-   "mlHome": "+114",
-   "mlHomeOpen": "+102",
-   "provider": "DraftKings",
-   "spread": "STAN -2.5",
-   "spreadOpen": "STAN -1.5",
-   "total": "55.5",
-   "totalOpen": "55.5"
-  },
-  "pick": "Pass",
-  "reason": "STAN about 55% no-vig at -135; no edge worth a pick.",
-  "risks": [
-   "ESPN model only 47% vs market 55%"
-  ],
-  "slug": "college-football",
-  "sport": "ncaaf",
-  "stars": 1,
-  "start": "2026-11-22T00:30Z",
-  "state": "in",
-  "updatedAt": "2026-11-21T21:51:43Z",
-  "venue": "California Memorial Stadium, Berkeley"
- },
- "ncaaf-401858534": {
-  "_lastPick": "USC ML (-950)",
-  "away": {
-   "abbr": "MD",
-   "form": "WWLLL",
-   "name": "Maryland Terrapins",
-   "record": "4-6",
-   "short": "Maryland",
-   "teamId": "120"
-  },
-  "confidence": 86,
-  "espnId": "401858534",
-  "espnLeague": "college-football",
-  "espnSport": "football",
-  "espnWinProb": {
-   "away": 6.9,
-   "home": 93.2
-  },
-  "home": {
-   "abbr": "USC",
-   "form": "LWLWW",
-   "name": "#18 USC",
-   "record": "7-3",
-   "short": "USC",
-   "teamId": "30"
-  },
-  "id": "ncaaf-401858534",
-  "league": "College Football",
-  "link": "https://www.espn.com/college-football/game/_/gameId/401858534",
-  "market": "Moneyline",
-  "news": [
-   "Weaver throws 7 TDs including game-winner to Neal and Monmouth completes perfect CAA season",
-   "Jonathan Dimas kicks 23-yard field goal to send No. 20 Houston past West Virginia 34-31",
-   "Puckett throws 2 TD passes and Mississippi State beats Tennessee Tech, ends 6-game losing streak"
-  ],
-  "odds": {
-   "mlAway": "+625",
-   "mlAwayOpen": "+550",
-   "mlHome": "-950",
-   "mlHomeOpen": "-800",
-   "provider": "DraftKings",
-   "spread": "USC -17.5",
-   "spreadOpen": "USC -16.5",
-   "total": "57.5",
-   "totalOpen": "56.5"
-  },
-  "pick": "USC ML (-950)",
-  "reason": "USC are about 87% no-vig at -950; ESPN's model has 93%. For: ESPN model 93% vs market 87%.",
-  "risks": [],
-  "side": "home",
-  "slug": "college-football",
-  "sport": "ncaaf",
-  "stars": 3,
-  "start": "2026-11-21T23:15Z",
-  "state": "in",
-  "updatedAt": "2026-11-21T21:51:43Z",
-  "venue": "Los Angeles Memorial Coliseum, Los Angeles"
- },
- "ncaaf-401860918": {
-  "_lastPick": "FRES ML (-1450)",
-  "away": {
-   "abbr": "CSU",
-   "form": "LLLWL",
-   "name": "Colorado State Rams",
-   "record": "3-7",
-   "short": "Colorado St",
-   "teamId": "36"
-  },
-  "confidence": 88,
-  "espnId": "401860918",
-  "espnLeague": "college-football",
-  "espnSport": "football",
-  "espnWinProb": {
-   "away": 8.2,
-   "home": 91.8
-  },
-  "home": {
-   "abbr": "FRES",
-   "form": "LLWLL",
-   "name": "Fresno State Bulldogs",
-   "record": "5-5",
-   "short": "Fresno St",
-   "teamId": "278"
-  },
-  "id": "ncaaf-401860918",
-  "league": "College Football",
-  "link": "https://www.espn.com/college-football/game/_/gameId/401860918",
-  "market": "Moneyline",
-  "news": [
-   "Weaver throws 7 TDs including game-winner to Neal and Monmouth completes perfect CAA season",
-   "Jonathan Dimas kicks 23-yard field goal to send No. 20 Houston past West Virginia 34-31",
-   "Puckett throws 2 TD passes and Mississippi State beats Tennessee Tech, ends 6-game losing streak"
-  ],
-  "odds": {
-   "mlAway": "+850",
-   "mlAwayOpen": "+1000",
-   "mlHome": "-1450",
-   "mlHomeOpen": "-1800",
-   "provider": "DraftKings",
-   "spread": "FRES -20.5",
-   "spreadOpen": "FRES -19.5",
-   "total": "67.5",
-   "totalOpen": "61.5"
-  },
-  "pick": "FRES ML (-1450)",
-  "reason": "FRES are about 90% no-vig at -1450; ESPN's model has 92%.",
-  "risks": [],
-  "side": "home",
-  "slug": "college-football",
-  "sport": "ncaaf",
-  "stars": 2,
-  "start": "2026-11-22T00:30Z",
-  "state": "in",
-  "updatedAt": "2026-11-21T21:51:43Z",
-  "venue": "Valley Children's Stadium, Fresno"
  },
  "ncaaf-401860919": {
   "_lastPick": "ORST ML (-258)",
@@ -2605,182 +2348,6 @@
   "updatedAt": "2026-11-22T01:52:10Z",
   "venue": "Reser Stadium, Corvallis"
  },
- "ncaaf-401860920": {
-  "_lastPick": "TXST ML (-575)",
-  "away": {
-   "abbr": "WSU",
-   "form": "WLLLL",
-   "name": "Washington State Cougars",
-   "record": "2-8",
-   "short": "Washington St",
-   "teamId": "265"
-  },
-  "confidence": 79,
-  "espnId": "401860920",
-  "espnLeague": "college-football",
-  "espnSport": "football",
-  "espnWinProb": {
-   "away": 20.0,
-   "home": 80.0
-  },
-  "home": {
-   "abbr": "TXST",
-   "form": "WWLWW",
-   "name": "Texas State Bobcats",
-   "record": "6-4",
-   "short": "Texas St",
-   "teamId": "326"
-  },
-  "id": "ncaaf-401860920",
-  "league": "College Football",
-  "link": "https://www.espn.com/college-football/game/_/gameId/401860920",
-  "market": "Moneyline",
-  "news": [
-   "Weaver throws 7 TDs including game-winner to Neal and Monmouth completes perfect CAA season",
-   "Jonathan Dimas kicks 23-yard field goal to send No. 20 Houston past West Virginia 34-31",
-   "Puckett throws 2 TD passes and Mississippi State beats Tennessee Tech, ends 6-game losing streak"
-  ],
-  "odds": {
-   "mlAway": "+425",
-   "mlAwayOpen": "+500",
-   "mlHome": "-575",
-   "mlHomeOpen": "-700",
-   "provider": "DraftKings",
-   "spread": "TXST -13.5",
-   "spreadOpen": "TXST -14.5",
-   "total": "61.5",
-   "totalOpen": "57.5"
-  },
-  "pick": "TXST ML (-575)",
-  "reason": "TXST are about 82% no-vig at -575; ESPN's model has 80%. For: form WWLWW vs WLLLL.",
-  "risks": [],
-  "side": "home",
-  "slug": "college-football",
-  "sport": "ncaaf",
-  "stars": 3,
-  "start": "2026-11-21T23:00Z",
-  "state": "in",
-  "updatedAt": "2026-11-21T21:51:43Z",
-  "venue": "UFCU Stadium, San Marcos"
- },
- "ncaaf-401860925": {
-  "_lastPick": "BOIS ML (-1450)",
-  "away": {
-   "abbr": "SDSU",
-   "form": "WWLWL",
-   "name": "San Diego State Aztecs",
-   "record": "5-5",
-   "short": "San Diego St",
-   "teamId": "21"
-  },
-  "confidence": 88,
-  "espnId": "401860925",
-  "espnLeague": "college-football",
-  "espnSport": "football",
-  "espnWinProb": {
-   "away": 6.1,
-   "home": 93.9
-  },
-  "home": {
-   "abbr": "BOIS",
-   "form": "WWWWW",
-   "name": "#17 Boise State",
-   "record": "9-1",
-   "short": "Boise St",
-   "teamId": "68"
-  },
-  "id": "ncaaf-401860925",
-  "league": "College Football",
-  "link": "https://www.espn.com/college-football/game/_/gameId/401860925",
-  "market": "Moneyline",
-  "news": [
-   "Veltkamp throws 4 more TDs in Florida Atlantic's 35-14 win over South Florida",
-   "Undefeated Tarleton State wraps up UIC championship with 31-24 win over North Alabama",
-   "Treynor Cleeland, Jordan Fisher rally UC Davis to 44-43 victory over Cal Poly to end regular season"
-  ],
-  "odds": {
-   "mlAway": "+850",
-   "mlAwayOpen": "+850",
-   "mlHome": "-1450",
-   "mlHomeOpen": "-1450",
-   "provider": "DraftKings",
-   "spread": "BOIS -20.5",
-   "spreadOpen": "BOIS -18.5",
-   "total": "60.5",
-   "totalOpen": "62.5"
-  },
-  "pick": "BOIS ML (-1450)",
-  "reason": "BOIS are about 90% no-vig at -1450; ESPN's model has 94%.",
-  "risks": [],
-  "side": "home",
-  "slug": "college-football",
-  "sport": "ncaaf",
-  "stars": 2,
-  "start": "2026-11-22T02:30Z",
-  "state": "pre",
-  "updatedAt": "2026-11-22T01:52:10Z",
-  "venue": "Albertsons Stadium, Boise"
- },
- "ncaaf-401862836": {
-  "_lastPick": "UTSA ML (-192)",
-  "away": {
-   "abbr": "UTSA",
-   "form": "WLWWW",
-   "name": "UTSA Roadrunners",
-   "record": "8-2",
-   "short": "UTSA",
-   "teamId": "2636"
-  },
-  "confidence": 61,
-  "espnId": "401862836",
-  "espnLeague": "college-football",
-  "espnSport": "football",
-  "espnWinProb": {
-   "away": 70.9,
-   "home": 29.1
-  },
-  "home": {
-   "abbr": "UAB",
-   "form": "WWLWL",
-   "name": "UAB Blazers",
-   "record": "6-4",
-   "short": "UAB",
-   "teamId": "5"
-  },
-  "id": "ncaaf-401862836",
-  "league": "College Football",
-  "link": "https://www.espn.com/college-football/game/_/gameId/401862836",
-  "market": "Moneyline",
-  "news": [
-   "Weaver throws 7 TDs including game-winner to Neal and Monmouth completes perfect CAA season",
-   "Jonathan Dimas kicks 23-yard field goal to send No. 20 Houston past West Virginia 34-31",
-   "Puckett throws 2 TD passes and Mississippi State beats Tennessee Tech, ends 6-game losing streak"
-  ],
-  "odds": {
-   "mlAway": "-192",
-   "mlAwayOpen": "-285",
-   "mlHome": "+160",
-   "mlHomeOpen": "+230",
-   "provider": "DraftKings",
-   "spread": "UTSA -4",
-   "spreadOpen": "UTSA -7.5",
-   "total": "49.5",
-   "totalOpen": "53.5"
-  },
-  "pick": "UTSA ML (-192)",
-  "reason": "UTSA are about 63% no-vig at -192; ESPN's model has 71%. For: ESPN model 71% vs market 63%.",
-  "risks": [
-   "line drifted away (-285 → -192)"
-  ],
-  "side": "away",
-  "slug": "college-football",
-  "sport": "ncaaf",
-  "stars": 2,
-  "start": "2026-11-22T01:00Z",
-  "state": "in",
-  "updatedAt": "2026-11-21T21:51:43Z",
-  "venue": "Protective Stadium, Birmingham"
- },
  "ncaaf-401864541": {
   "_lastPick": "NEV ML (-278)",
   "away": {
@@ -2839,66 +2406,8 @@
   "updatedAt": "2026-11-22T01:52:10Z",
   "venue": "Mackay Stadium, Reno"
  },
- "ncaaf-401864544": {
-  "_lastPick": "UNLV ML (-238)",
-  "away": {
-   "abbr": "UNLV",
-   "form": "WLWLW",
-   "name": "UNLV Rebels",
-   "record": "6-4",
-   "short": "UNLV",
-   "teamId": "2439"
-  },
-  "confidence": 66,
-  "espnId": "401864544",
-  "espnLeague": "college-football",
-  "espnSport": "football",
-  "espnWinProb": {
-   "away": 71.4,
-   "home": 28.6
-  },
-  "home": {
-   "abbr": "SJSU",
-   "form": "LWLLW",
-   "name": "San José State Spartans",
-   "record": "5-6",
-   "short": "San José St",
-   "teamId": "23"
-  },
-  "id": "ncaaf-401864544",
-  "league": "College Football",
-  "link": "https://www.espn.com/college-football/game/_/gameId/401864544",
-  "market": "Moneyline",
-  "news": [
-   "Weaver throws 7 TDs including game-winner to Neal and Monmouth completes perfect CAA season",
-   "Jonathan Dimas kicks 23-yard field goal to send No. 20 Houston past West Virginia 34-31",
-   "Puckett throws 2 TD passes and Mississippi State beats Tennessee Tech, ends 6-game losing streak"
-  ],
-  "odds": {
-   "mlAway": "-238",
-   "mlAwayOpen": "-148",
-   "mlHome": "+195",
-   "mlHomeOpen": "+124",
-   "provider": "DraftKings",
-   "spread": "UNLV -6.5",
-   "spreadOpen": "UNLV -3",
-   "total": "47.5",
-   "totalOpen": "49.5"
-  },
-  "pick": "UNLV ML (-238)",
-  "reason": "UNLV are about 68% no-vig at -238; ESPN's model has 71%. For: line moved toward UNLV (-148 → -238).",
-  "risks": [],
-  "side": "away",
-  "slug": "college-football",
-  "sport": "ncaaf",
-  "stars": 3,
-  "start": "2026-11-22T00:00Z",
-  "state": "in",
-  "updatedAt": "2026-11-21T21:51:43Z",
-  "venue": "CEFCU Stadium, San Jose"
- },
  "ncaaf-401866470": {
-  "_lastPick": "EMU ML (-218)",
+  "_lastPick": "EMU ML (-225)",
   "away": {
    "abbr": "KENT",
    "form": "LLLWL",
@@ -2928,23 +2437,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401866470",
   "market": "Moneyline",
   "news": [
-   "2027 recruit AJ Randle Jr. flips from Miami to Notre Dame",
-   "Pac-12 reveals unique flex schedule for season's final week",
-   "Montana State ranked No. 1, 5-7 LIU makes FCS bracket as conference champ"
+   "Tennessee fined by SEC after fans throw golf balls on field",
+   "Sources: Notre Dame loses safety Luke Talich to torn Achilles",
+   "What Week 12's unexpected results mean for Rivalry Week and beyond"
   ],
   "odds": {
-   "mlAway": "+180",
+   "mlAway": "+185",
    "mlAwayOpen": "+185",
-   "mlHome": "-218",
+   "mlHome": "-225",
    "mlHomeOpen": "-225",
-   "provider": "Draft Kings",
-   "spread": "EMU -6",
+   "provider": "DraftKings",
+   "spread": "EMU -5.5",
    "spreadOpen": "EMU -6.5",
    "total": "45.5",
    "totalOpen": "46.5"
   },
-  "pick": "EMU ML (-218)",
-  "reason": "EMU are about 66% no-vig at -218; ESPN's model has 76%. For: ESPN model 76% vs market 66%.",
+  "pick": "EMU ML (-225)",
+  "reason": "EMU are about 66% no-vig at -225; ESPN's model has 76%. For: ESPN model 76% vs market 66%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -2952,11 +2461,11 @@
   "stars": 3,
   "start": "2026-11-25T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Rynearson Stadium, Ypsilanti"
  },
  "ncaaf-401866471": {
-  "_lastPick": "WMU ML (-278)",
+  "_lastPick": "WMU ML (-298)",
   "away": {
    "abbr": "M-OH",
    "form": "WWLWW",
@@ -2986,23 +2495,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401866471",
   "market": "Moneyline",
   "news": [
-   "2027 recruit AJ Randle Jr. flips from Miami to Notre Dame",
-   "Pac-12 reveals unique flex schedule for season's final week",
-   "Montana State ranked No. 1, 5-7 LIU makes FCS bracket as conference champ"
+   "Tennessee fined by SEC after fans throw golf balls on field",
+   "Sources: Notre Dame loses safety Luke Talich to torn Achilles",
+   "What Week 12's unexpected results mean for Rivalry Week and beyond"
   ],
   "odds": {
-   "mlAway": "+225",
+   "mlAway": "+240",
    "mlAwayOpen": "+240",
-   "mlHome": "-278",
+   "mlHome": "-298",
    "mlHomeOpen": "-298",
-   "provider": "Draft Kings",
-   "spread": "WMU -7",
+   "provider": "DraftKings",
+   "spread": "WMU -7.5",
    "spreadOpen": "WMU -7.5",
-   "total": "46.5",
+   "total": "45.5",
    "totalOpen": "46.5"
   },
-  "pick": "WMU ML (-278)",
-  "reason": "WMU are about 71% no-vig at -278; ESPN's model has 71%.",
+  "pick": "WMU ML (-298)",
+  "reason": "WMU are about 72% no-vig at -298; ESPN's model has 71%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -3010,66 +2519,8 @@
   "stars": 2,
   "start": "2026-11-25T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Waldo Stadium, Kalamazoo"
- },
- "ncaaf-401869938": {
-  "_lastPick": "LT ML (-600)",
-  "away": {
-   "abbr": "ARST",
-   "form": "LLWWL",
-   "name": "Arkansas State Red Wolves",
-   "record": "4-6",
-   "short": "Arkansas St",
-   "teamId": "2032"
-  },
-  "confidence": 81,
-  "espnId": "401869938",
-  "espnLeague": "college-football",
-  "espnSport": "football",
-  "espnWinProb": {
-   "away": 15.2,
-   "home": 84.9
-  },
-  "home": {
-   "abbr": "LT",
-   "form": "WWWWW",
-   "name": "Louisiana Tech Bulldogs",
-   "record": "8-2",
-   "short": "Louisiana Tech",
-   "teamId": "2348"
-  },
-  "id": "ncaaf-401869938",
-  "league": "College Football",
-  "link": "https://www.espn.com/college-football/game/_/gameId/401869938",
-  "market": "Moneyline",
-  "news": [
-   "Weaver throws 7 TDs including game-winner to Neal and Monmouth completes perfect CAA season",
-   "Jonathan Dimas kicks 23-yard field goal to send No. 20 Houston past West Virginia 34-31",
-   "Puckett throws 2 TD passes and Mississippi State beats Tennessee Tech, ends 6-game losing streak"
-  ],
-  "odds": {
-   "mlAway": "+440",
-   "mlAwayOpen": "+575",
-   "mlHome": "-600",
-   "mlHomeOpen": "-850",
-   "provider": "DraftKings",
-   "spread": "LT -14.5",
-   "spreadOpen": "LT -16.5",
-   "total": "54.5",
-   "totalOpen": "50.5"
-  },
-  "pick": "LT ML (-600)",
-  "reason": "LT are about 82% no-vig at -600; ESPN's model has 85%. For: form WWWWW vs LLWWL.",
-  "risks": [],
-  "side": "home",
-  "slug": "college-football",
-  "sport": "ncaaf",
-  "stars": 3,
-  "start": "2026-11-22T00:00Z",
-  "state": "in",
-  "updatedAt": "2026-11-21T21:51:43Z",
-  "venue": "Joe Aillet Stadium, Ruston"
  },
  "nfl-401873067": {
   "_lastPick": "KC ML (-1460)",
@@ -3383,7 +2834,7 @@
     "Eric Murray (S) – Injured Reserve, Elbow"
    ],
    "name": "Jacksonville Jaguars",
-   "record": "7-2",
+   "record": "7-3",
    "short": "Jaguars",
    "teamId": "30"
   },
@@ -3402,7 +2853,7 @@
     "Tyrone Tracy Jr. (RB) – Injured Reserve, Hamstring"
    ],
    "name": "New York Giants",
-   "record": "5-3-1",
+   "record": "6-3-1",
    "short": "Giants",
    "teamId": "19"
   },
@@ -3503,7 +2954,7 @@
   "sport": "nfl",
   "stars": 4,
   "start": "2026-11-22T21:25Z",
-  "state": "in",
+  "state": "post",
   "updatedAt": "2026-11-22T17:14:04Z",
   "venue": "MetLife Stadium, East Rutherford"
  },
@@ -4103,7 +3554,7 @@
     "Isaiah Williams (WR) – Out, Ribs"
    ],
    "name": "New York Jets",
-   "record": "2-8",
+   "record": "3-8",
    "short": "Jets",
    "teamId": "20"
   },
@@ -4123,7 +3574,7 @@
     "Kendall Williamson (S) – Out, Calf"
    ],
    "name": "Los Angeles Chargers",
-   "record": "1-8",
+   "record": "1-9",
    "short": "Chargers",
    "teamId": "24"
   },
@@ -4191,7 +3642,7 @@
   "sport": "nfl",
   "stars": 1,
   "start": "2026-11-22T21:05Z",
-  "state": "in",
+  "state": "post",
   "updatedAt": "2026-11-22T17:14:04Z",
   "venue": "SoFi Stadium, Inglewood"
  },
@@ -4204,7 +3655,7 @@
     "Tonka Hemingway (DT) – Out, Upper Body"
    ],
    "name": "Las Vegas Raiders",
-   "record": "4-6",
+   "record": "4-7",
    "short": "Raiders",
    "teamId": "13"
   },
@@ -4224,7 +3675,7 @@
     "Eyioma Uwazurike (DE) – Injured Reserve, Shoulder"
    ],
    "name": "Denver Broncos",
-   "record": "7-2",
+   "record": "8-2",
    "short": "Broncos",
    "teamId": "7"
   },
@@ -4304,7 +3755,7 @@
   "sport": "nfl",
   "stars": 3,
   "start": "2026-11-22T21:25Z",
-  "state": "in",
+  "state": "post",
   "updatedAt": "2026-11-22T17:14:04Z",
   "venue": "Empower Field at Mile High, Denver"
  },
@@ -4554,12 +4005,12 @@
   "sport": "nfl",
   "stars": 2,
   "start": "2026-11-23T01:20Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-22T22:29:34Z",
   "venue": "Estadio Banorte, Mexico City"
  },
  "nfl-401873078": {
-  "_lastPick": "CIN ML (-296)",
+  "_lastPick": "CIN ML (-295)",
   "away": {
    "abbr": "CIN",
    "form": "WWWWW",
@@ -4639,23 +4090,23 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873078",
   "market": "Moneyline",
   "news": [
-   "Why this might be a good time for fantasy managers to trade Derrick Henry",
-   "NFL Week 11: Big takeaways, questions and fantasy spin from Sunday's games",
-   "Is Saquon Barkley back to must-start status in fantasy?"
+   "49ers' Colton McKivitz exits game vs. Vikings with lower leg injury",
+   "49ers' Nick Bosa booed heavily in Mexico after remarks about fans' cheering",
+   "Making sense of the Jaguars going for two, then kicking a field goal down eight"
   ],
   "odds": {
-   "mlAway": "-296",
+   "mlAway": "-295",
    "mlAwayOpen": "-125",
-   "mlHome": "+241",
+   "mlHome": "+240",
    "mlHomeOpen": "+105",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "CIN -6",
    "spreadOpen": "CIN -1.5",
    "total": "54.5",
    "totalOpen": "52.5"
   },
-  "pick": "CIN ML (-296)",
-  "reason": "CIN are about 72% no-vig at -296; ESPN's model has 76%. For: line moved toward CIN (-125 → -296); form WWWWW vs WLWLT.",
+  "pick": "CIN ML (-295)",
+  "reason": "CIN are about 72% no-vig at -295; ESPN's model has 76%. For: line moved toward CIN (-125 → -295); form WWWWW vs WLWLT.",
   "risks": [],
   "side": "away",
   "slug": "nfl",
@@ -4663,8 +4114,123 @@
   "stars": 3,
   "start": "2026-11-24T01:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Northwest Stadium, Landover"
+ },
+ "nfl-401873079": {
+  "away": {
+   "abbr": "GB",
+   "form": "LWWLW",
+   "injuries": [
+    "Micah Parsons (DE) – Out, Knee - ACL",
+    "Josh Jacobs (RB) – Out, Finger",
+    "Sean Rhyan (G) – Out, Ankle",
+    "Zaire Franklin (LB) – Out, Shin"
+   ],
+   "name": "Green Bay Packers",
+   "record": "6-4",
+   "short": "Packers",
+   "teamId": "9"
+  },
+  "confidence": 56,
+  "espnId": "401873079",
+  "espnLeague": "nfl",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 33.9,
+   "home": 65.8
+  },
+  "home": {
+   "abbr": "LAR",
+   "form": "WWWWL",
+   "injuries": [
+    "Davante Adams (WR) – Injured Reserve, Hamstring",
+    "Puka Nacua (WR) – Injured Reserve, Knee - MCL"
+   ],
+   "name": "Los Angeles Rams",
+   "record": "6-4",
+   "short": "Rams",
+   "teamId": "14"
+  },
+  "id": "nfl-401873079",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Knee - ACL",
+     "player": "Micah Parsons",
+     "pos": "DE",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Finger",
+     "player": "Josh Jacobs",
+     "pos": "RB",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Sean Rhyan",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Shin",
+     "player": "Zaire Franklin",
+     "pos": "LB",
+     "stale": false,
+     "status": "Out"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Hamstring",
+     "player": "Davante Adams",
+     "pos": "WR",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Knee - MCL",
+     "player": "Puka Nacua",
+     "pos": "WR",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ]
+  },
+  "league": "NFL",
+  "link": "https://www.espn.com/nfl/game/_/gameId/401873079",
+  "news": [
+   "49ers' Colton McKivitz exits game vs. Vikings with lower leg injury",
+   "49ers' Nick Bosa booed heavily in Mexico after remarks about fans' cheering",
+   "Making sense of the Jaguars going for two, then kicking a field goal down eight"
+  ],
+  "odds": {
+   "mlAway": "+127",
+   "mlAwayOpen": "+164",
+   "mlHome": "-150",
+   "mlHomeOpen": "-198",
+   "provider": "DraftKings",
+   "spread": "LAR -3",
+   "spreadOpen": "LAR -3.5",
+   "total": "44.5",
+   "totalOpen": "49.5"
+  },
+  "pick": "Pass",
+  "reason": "LAR about 58% no-vig at -150; no edge worth a pick.",
+  "risks": [
+   "line drifted away (-198 → -150)"
+  ],
+  "slug": "nfl",
+  "sport": "nfl",
+  "stars": 1,
+  "start": "2026-11-26T01:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-23T03:01:43Z",
+  "venue": "SoFi Stadium, Inglewood"
  },
  "soccer-401874960": {
   "away": {
@@ -4892,7 +4458,7 @@
    "short": "Fiorentina",
    "teamId": "109"
   },
-  "confidence": 46,
+  "confidence": 45,
   "espnId": "401875009",
   "espnLeague": "ita.1",
   "espnSport": "soccer",
@@ -4915,8 +4481,8 @@
   "odds": {
    "mlAway": "-110",
    "mlAwayOpen": "-110",
-   "mlDraw": "+270",
-   "mlHome": "+255",
+   "mlDraw": "+265",
+   "mlHome": "+250",
    "mlHomeOpen": "+225",
    "provider": "DraftKings",
    "spread": "FIO -110",
@@ -4925,14 +4491,14 @@
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Fiorentina about 49% no-vig at -110; no edge worth a pick.",
+  "reason": "Fiorentina about 48% no-vig at -110; no edge worth a pick.",
   "risks": [],
   "slug": "ita.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-23T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "U-Power Stadium, Monza"
  },
  "soccer-401875047": {
@@ -5176,15 +4742,15 @@
   "league": "Liga MX",
   "link": "https://www.espn.com/soccer/match/_/gameId/401877046",
   "odds": {
-   "mlAway": "+200",
+   "mlAway": "+180",
    "mlAwayOpen": "+250",
-   "mlDraw": "+275",
-   "mlHome": "+120",
+   "mlDraw": "+255",
+   "mlHome": "+140",
    "mlHomeOpen": "-125",
    "provider": "DraftKings",
-   "spread": "QRO +120",
+   "spread": "QRO +140",
    "spreadOpen": "QRO -0.5",
-   "total": "3.5",
+   "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
@@ -5196,7 +4762,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-23T01:10Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-22T22:29:34Z",
   "venue": "Estadio Corregidora, Santiago de Querétaro"
  },
@@ -5205,7 +4771,7 @@
    "abbr": "CAZ",
    "form": "WWWWW",
    "name": "Cruz Azul",
-   "record": "10-2-4",
+   "record": "10-2-5",
    "short": "Cruz Azul",
    "teamId": "218"
   },
@@ -5217,7 +4783,7 @@
    "abbr": "GDL",
    "form": "DWWWD",
    "name": "Guadalajara",
-   "record": "8-6-2",
+   "record": "9-6-2",
    "short": "Guadalajara",
    "teamId": "219"
   },
@@ -5245,200 +4811,9 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-22T23:07Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-22T22:29:34Z",
   "venue": "Estadio Akron, Guadalajara"
- },
- "soccer-401877048": {
-  "away": {
-   "abbr": "AME",
-   "form": "LDDDL",
-   "name": "América",
-   "record": "8-6-2",
-   "short": "América",
-   "teamId": "227"
-  },
-  "confidence": 45,
-  "espnId": "401877048",
-  "espnLeague": "mex.1",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "UANL",
-   "form": "LLDLD",
-   "name": "Tigres UANL",
-   "record": "3-6-7",
-   "short": "Tigres",
-   "teamId": "232"
-  },
-  "id": "soccer-401877048",
-  "league": "Liga MX",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401877048",
-  "odds": {
-   "mlAway": "-105",
-   "mlAwayOpen": "+100",
-   "mlDraw": "+265",
-   "mlHome": "+260",
-   "mlHomeOpen": "+230",
-   "provider": "DraftKings",
-   "spread": "AME -105",
-   "spreadOpen": "AME -0.5",
-   "total": "2.5",
-   "totalOpen": "2.5"
-  },
-  "pick": "Pass",
-  "reason": "América about 48% no-vig at -105; no edge worth a pick.",
-  "risks": [],
-  "slug": "mex.1",
-  "sport": "soccer",
-  "stars": 1,
-  "start": "2026-11-22T03:00Z",
-  "state": "pre",
-  "updatedAt": "2026-11-22T01:52:10Z",
-  "venue": "Estadio Universitario, San Nicolás de los Garza"
- },
- "soccer-401877049": {
-  "away": {
-   "abbr": "MTY",
-   "form": "WLDLW",
-   "name": "Monterrey",
-   "record": "7-3-6",
-   "short": "Monterrey",
-   "teamId": "220"
-  },
-  "confidence": 34,
-  "espnId": "401877049",
-  "espnLeague": "mex.1",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "UNAM",
-   "form": "DWDLW",
-   "name": "Pumas UNAM",
-   "record": "5-6-5",
-   "short": "UNAM",
-   "teamId": "233"
-  },
-  "id": "soccer-401877049",
-  "league": "Liga MX",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401877049",
-  "odds": {
-   "mlAway": "+155",
-   "mlAwayOpen": "+150",
-   "mlDraw": "+240",
-   "mlHome": "+170",
-   "mlHomeOpen": "+150",
-   "provider": "DraftKings",
-   "spread": "MTY +155",
-   "spreadOpen": "UNAM -0.5",
-   "total": "2.5",
-   "totalOpen": "2.5"
-  },
-  "pick": "Pass",
-  "reason": "Monterrey about 37% no-vig at +160; no edge worth a pick.",
-  "risks": [],
-  "slug": "mex.1",
-  "sport": "soccer",
-  "stars": 1,
-  "start": "2026-11-22T01:00Z",
-  "state": "in",
-  "updatedAt": "2026-11-21T21:51:43Z",
-  "venue": "Estadio Olímpico Universitario, Mexico City"
- },
- "soccer-401877050": {
-  "away": {
-   "abbr": "TOL",
-   "form": "WDDDD",
-   "name": "Toluca",
-   "record": "7-6-4",
-   "short": "Toluca",
-   "teamId": "223"
-  },
-  "confidence": 33,
-  "espnId": "401877050",
-  "espnLeague": "mex.1",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "PAC",
-   "form": "WWWLL",
-   "name": "Pachuca",
-   "record": "7-4-6",
-   "short": "Pachuca",
-   "teamId": "234"
-  },
-  "id": "soccer-401877050",
-  "league": "Liga MX",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401877050",
-  "odds": {
-   "mlAway": "+145",
-   "mlAwayOpen": "+115",
-   "mlDraw": "+290",
-   "mlHome": "+155",
-   "mlHomeOpen": "+180",
-   "provider": "DraftKings",
-   "spread": "TOL +145",
-   "spreadOpen": "TOL -0.5",
-   "total": "3.5",
-   "totalOpen": "3.5"
-  },
-  "pick": "Pass",
-  "reason": "Toluca about 39% no-vig at +145; no edge worth a pick.",
-  "risks": [
-   "line drifted away (+115 → +145)",
-   "opponent in better form (WWWLL)"
-  ],
-  "slug": "mex.1",
-  "sport": "soccer",
-  "stars": 1,
-  "start": "2026-11-21T22:50Z",
-  "state": "post",
-  "updatedAt": "2026-11-21T21:51:43Z",
-  "venue": "Estadio Hidalgo, Pachuca"
- },
- "soccer-401877051": {
-  "away": {
-   "abbr": "LEO",
-   "form": "DLDWL",
-   "name": "León",
-   "record": "7-5-5",
-   "short": "León",
-   "teamId": "228"
-  },
-  "confidence": 38,
-  "espnId": "401877051",
-  "espnLeague": "mex.1",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "SAN",
-   "form": "WWLWW",
-   "name": "Santos",
-   "record": "8-1-8",
-   "short": "Santos",
-   "teamId": "225"
-  },
-  "id": "soccer-401877051",
-  "league": "Liga MX",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401877051",
-  "odds": {
-   "mlAway": "+175",
-   "mlAwayOpen": "+155",
-   "mlDraw": "+265",
-   "mlHome": "+140",
-   "mlHomeOpen": "+140",
-   "provider": "DraftKings",
-   "spread": "SAN +140",
-   "spreadOpen": "SAN -0.5",
-   "total": "2.5",
-   "totalOpen": "3.5"
-  },
-  "pick": "Pass",
-  "reason": "Santos about 40% no-vig at +140; no edge worth a pick.",
-  "risks": [],
-  "slug": "mex.1",
-  "sport": "soccer",
-  "stars": 1,
-  "start": "2026-11-21T23:00Z",
-  "state": "post",
-  "updatedAt": "2026-11-21T21:51:43Z",
-  "venue": "Estadio Corona, Torreón"
  },
  "soccer-401878755": {
   "away": {
@@ -5572,9 +4947,9 @@
   "league": "Premier League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401879237",
   "news": [
+   "Rough start for Pochettino at Manchester United",
    "Bruno Fernandes disputes Leny Yoro red card in Liverpool's rout of Man United",
-   "Pochettino: Isak wasn't in control of the ball for Yoro red card",
-   "Rio Ngumoha: Need to 'stay grounded' despite 'special' goal against Man Utd"
+   "Pochettino: Isak wasn't in control of the ball for Yoro red card"
   ],
   "odds": {
    "mlAway": "+205",
@@ -5599,7 +4974,7 @@
   "stars": 1,
   "start": "2026-11-23T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Gtech Community Stadium, Brentford"
  },
  "soccer-401882800": {
@@ -5731,9 +5106,9 @@
   "league": "LaLiga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401882802",
   "news": [
+   "USMNT's Cardoso scores as Atlético ease to win over Getafe",
    "Getafe vs. Atletico Madrid - Game Highlights",
-   "Pedri leads Barça's comeback win over Villarreal",
-   "Villarreal deny Nicolas Pépé eye surgery was due to viewing solar eclipse"
+   "Pedri leads Barça's comeback win over Villarreal"
   ],
   "odds": {
    "mlAway": "+225",
@@ -5755,7 +5130,7 @@
   "stars": 1,
   "start": "2026-11-23T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Estadi Ciutat de València, Manises"
  },
  "soccer-401882803": {
@@ -5971,7 +5346,7 @@
   "espnSport": "soccer",
   "home": {
    "abbr": "ATM",
-   "form": "LLWWD",
+   "form": "WLLWW",
    "name": "Atlético Madrid",
    "record": "1-1-2",
    "short": "Atlético",
@@ -6007,19 +5382,19 @@
   "stars": 2,
   "start": "2026-11-25T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Riyadh Air Metropolitano, Madrid"
  },
  "soccer-401915292": {
   "away": {
    "abbr": "LIV",
-   "form": "WLLWW",
+   "form": "WWLLW",
    "name": "Liverpool",
    "record": "3-0-1",
    "short": "Liverpool",
    "teamId": "364"
   },
-  "confidence": 54,
+  "confidence": 55,
   "espnId": "401915292",
   "espnLeague": "uefa.champions",
   "espnSport": "soccer",
@@ -6040,38 +5415,38 @@
    "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win"
   ],
   "odds": {
-   "mlAway": "-150",
+   "mlAway": "-155",
    "mlAwayOpen": "-145",
-   "mlDraw": "+360",
-   "mlHome": "+320",
+   "mlDraw": "+370",
+   "mlHome": "+340",
    "mlHomeOpen": "+310",
    "provider": "DraftKings",
-   "spread": "LIV -150",
+   "spread": "LIV -155",
    "spreadOpen": "LIV -0.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
   "pick": "Pass",
-  "reason": "Liverpool about 57% no-vig at -150; no edge worth a pick.",
+  "reason": "Liverpool about 58% no-vig at -155; no edge worth a pick.",
   "risks": [],
   "slug": "uefa.champions",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-25T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Jan Breydel Stadium, Brugge"
  },
  "soccer-401915293": {
   "away": {
    "abbr": "VIL",
-   "form": "WLLWW",
+   "form": "LWLLW",
    "name": "Villarreal",
    "record": "1-0-3",
    "short": "Villarreal",
    "teamId": "102"
   },
-  "confidence": 42,
+  "confidence": 41,
   "espnId": "401915293",
   "espnLeague": "uefa.champions",
   "espnSport": "soccer",
@@ -6111,7 +5486,7 @@
   "stars": 1,
   "start": "2026-11-25T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Fortuna Arena, Prague"
  },
  "soccer-401915294": {
@@ -6163,7 +5538,7 @@
   "stars": 1,
   "start": "2026-11-24T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "De Kuip, Rotterdam"
  },
  "soccer-401915295": {
@@ -6218,7 +5593,7 @@
   "stars": 2,
   "start": "2026-11-24T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Emirates Stadium, London"
  },
  "soccer-401915296": {
@@ -6273,7 +5648,7 @@
   "stars": 2,
   "start": "2026-11-24T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Giuseppe Sinigaglia, Como"
  },
  "soccer-401915297": {
@@ -6328,7 +5703,7 @@
   "stars": 2,
   "start": "2026-11-24T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Národny Futbalovy Stadión, Bratislava"
  },
  "soccer-401915298": {
@@ -6383,7 +5758,7 @@
   "stars": 2,
   "start": "2026-11-24T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Santiago Bernabéu, Madrid"
  },
  "soccer-401915299": {
@@ -6438,7 +5813,7 @@
   "stars": 2,
   "start": "2026-11-24T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Red Bull Arena, Leipzig"
  },
  "soccer-401915300": {
@@ -6492,19 +5867,19 @@
   "stars": 1,
   "start": "2026-11-24T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "RAMS Park, Istanbul"
  },
  "soccer-401915373": {
   "away": {
    "abbr": "MAN",
-   "form": "DWLLL",
+   "form": "LDWLL",
    "name": "Manchester United",
    "record": "2-0-2",
    "short": "Man Utd",
    "teamId": "360"
   },
-  "confidence": 35,
+  "confidence": 36,
   "espnId": "401915373",
   "espnLeague": "uefa.champions",
   "espnSport": "soccer",
@@ -6525,26 +5900,26 @@
    "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win"
   ],
   "odds": {
-   "mlAway": "+160",
+   "mlAway": "+165",
    "mlAwayOpen": "+160",
-   "mlDraw": "+270",
-   "mlHome": "+155",
+   "mlDraw": "+275",
+   "mlHome": "+150",
    "mlHomeOpen": "+145",
    "provider": "DraftKings",
-   "spread": "SCP +155",
+   "spread": "SCP +150",
    "spreadOpen": "SCP -0.5",
    "total": "3.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Sporting about 37% no-vig at +155; no edge worth a pick.",
+  "reason": "Sporting about 38% no-vig at +150; no edge worth a pick.",
   "risks": [],
   "slug": "uefa.champions",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-25T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Estádio José Alvalade, Lisbon"
  },
  "soccer-401915374": {
@@ -6599,7 +5974,7 @@
   "stars": 2,
   "start": "2026-11-25T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Parc des Princes, Paris"
  },
  "soccer-401915375": {
@@ -6651,7 +6026,7 @@
   "stars": 1,
   "start": "2026-11-25T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Stamford Bridge, London"
  },
  "soccer-401915376": {
@@ -6670,7 +6045,7 @@
   "espnSport": "soccer",
   "home": {
    "abbr": "INT",
-   "form": "WWLWW",
+   "form": "DWWLW",
    "name": "Internazionale",
    "record": "2-0-2",
    "short": "Inter Milan",
@@ -6706,7 +6081,7 @@
   "stars": 2,
   "start": "2026-11-25T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "San Siro, Milano"
  },
  "soccer-401915377": {
@@ -6760,14 +6135,14 @@
   "stars": 1,
   "start": "2026-11-25T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille"
  },
  "soccer-401915378": {
   "_lastPick": "Barcelona ML (-1400)",
   "away": {
    "abbr": "BAR",
-   "form": "WWWLL",
+   "form": "WWWWL",
    "name": "Barcelona",
    "record": "3-0-1",
    "short": "Barcelona",
@@ -6815,7 +6190,7 @@
   "stars": 2,
   "start": "2026-11-25T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Baku Olympic Stadium, Baku"
  },
  "soccer-401915379": {
@@ -6870,7 +6245,7 @@
   "stars": 2,
   "start": "2026-11-24T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Etihad Stadium, Manchester"
  },
  "soccer-401915380": {
@@ -6925,7 +6300,7 @@
   "stars": 2,
   "start": "2026-11-24T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Aspmyra Stadion, Bodø/Glimt"
  },
  "soccer-401933728": {
@@ -6951,9 +6326,9 @@
   "league": "MLS",
   "link": "https://www.espn.com/soccer/match/_/gameId/401933728",
   "news": [
-   "Columbus coach says Messi should've got red card in Miami loss: 'Everyone knows'",
-   "Messi tracker: Goals, assists, key moments in 2026",
-   "Inter Miami CF vs. Columbus Crew SC - Game Highlights"
+   "VAR gives Charlotte late penalty in series-opening win over Chicago",
+   "Cincinnati stuns Shield-winners Nashville to start best-of-3 series",
+   "Reports: Dynamo's Herrera charged with DWI, club aware of 'incident'"
   ],
   "odds": {
    "mlAway": "+170",
@@ -6975,7 +6350,7 @@
   "stars": 1,
   "start": "2026-11-24T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "Energizer Park, St. Louis, Missouri"
  },
  "soccer-401933729": {
@@ -7008,13 +6383,13 @@
    "Inter Miami CF vs. Columbus Crew SC - Game Highlights"
   ],
   "odds": {
-   "mlAway": "+450",
+   "mlAway": "+500",
    "mlAwayOpen": "+500",
    "mlDraw": "+380",
-   "mlHome": "-230",
+   "mlHome": "-240",
    "mlHomeOpen": "-220",
    "provider": "DraftKings",
-   "spread": "VAN -230",
+   "spread": "VAN -240",
    "spreadOpen": "VAN -1.5",
    "total": "3.5",
    "totalOpen": "3.5"
@@ -7027,7 +6402,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-23T01:30Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-22T22:29:34Z",
   "venue": "BC Place, Vancouver"
  },
@@ -7077,7 +6452,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-22T23:30Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-22T22:29:34Z",
   "venue": "SeatGeek Stadium, Bridgeview, Illinois"
  },
@@ -7157,9 +6532,9 @@
   "league": "MLS",
   "link": "https://www.espn.com/soccer/match/_/gameId/401933738",
   "news": [
-   "Columbus coach says Messi should've got red card in Miami loss: 'Everyone knows'",
-   "Messi tracker: Goals, assists, key moments in 2026",
-   "Inter Miami CF vs. Columbus Crew SC - Game Highlights"
+   "VAR gives Charlotte late penalty in series-opening win over Chicago",
+   "Cincinnati stuns Shield-winners Nashville to start best-of-3 series",
+   "Reports: Dynamo's Herrera charged with DWI, club aware of 'incident'"
   ],
   "odds": {
    "mlAway": "+215",
@@ -7181,59 +6556,7 @@
   "stars": 1,
   "start": "2026-11-25T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-22T22:29:34Z",
+  "updatedAt": "2026-11-23T03:01:43Z",
   "venue": "PayPal Park, San Jose, California"
- },
- "soccer-401933739": {
-  "away": {
-   "abbr": "CLB",
-   "form": "WWWWL",
-   "name": "Columbus Crew",
-   "short": "Columbus",
-   "teamId": "183"
-  },
-  "confidence": 54,
-  "espnId": "401933739",
-  "espnLeague": "usa.1",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "MIA",
-   "form": "DWDLW",
-   "name": "Inter Miami CF",
-   "short": "Miami",
-   "teamId": "20232"
-  },
-  "id": "soccer-401933739",
-  "league": "MLS",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401933739",
-  "news": [
-   "Peyton Miller doubles Revs' lead with neat finish",
-   "Hirving Lozano returns to San Diego FC as LA Galaxy loan ends",
-   "Nashville coach Callaghan '100%' focused on playoffs amid USMNT links"
-  ],
-  "odds": {
-   "mlAway": "+350",
-   "mlAwayOpen": "+275",
-   "mlDraw": "+340",
-   "mlHome": "-170",
-   "mlHomeOpen": "-145",
-   "provider": "DraftKings",
-   "spread": "MIA -170",
-   "spreadOpen": "MIA -0.5",
-   "total": "3.5",
-   "totalOpen": "3.5"
-  },
-  "pick": "Pass",
-  "reason": "Miami about 58% no-vig at -170; no edge worth a pick.",
-  "risks": [
-   "opponent in better form (WWWWL)"
-  ],
-  "slug": "usa.1",
-  "sport": "soccer",
-  "stars": 1,
-  "start": "2026-11-21T23:00Z",
-  "state": "post",
-  "updatedAt": "2026-11-21T21:51:43Z",
-  "venue": "Nu Stadium, Miami, Florida"
  }
 }

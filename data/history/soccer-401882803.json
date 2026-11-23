@@ -1,0 +1,246 @@
+{
+ "id": "soccer-401882803",
+ "sport": "soccer",
+ "league": "LaLiga",
+ "start": "2026-11-22T20:00Z",
+ "home": {
+  "name": "Getafe",
+  "abbr": "GET",
+  "teamId": "2922",
+  "score": 0.0
+ },
+ "away": {
+  "name": "Atlético Madrid",
+  "abbr": "ATM",
+  "teamId": "1068",
+  "score": 3.0
+ },
+ "odds": {
+  "mlAway": "-185",
+  "mlAwayOpen": "-165",
+  "mlDraw": "+295",
+  "mlHome": "+600",
+  "mlHomeOpen": "+450",
+  "provider": "DraftKings",
+  "spread": "ATM -185",
+  "spreadOpen": "ATM -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "GET",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "2",
+    "redCards": "1",
+    "offsides": "0",
+    "wonCorners": "2",
+    "saves": "7",
+    "possessionPct": "31.3",
+    "totalShots": "11",
+    "shotsOnTarget": "1",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "239",
+    "totalPasses": "320",
+    "passPct": "0.7",
+    "accurateCrosses": "4",
+    "totalCrosses": "18",
+    "crossPct": "0.2",
+    "totalLongBalls": "46",
+    "accurateLongBalls": "15",
+    "longballPct": "0.3",
+    "blockedShots": "1",
+    "effectiveTackles": "10",
+    "totalTackles": "12",
+    "tacklePct": "0.8",
+    "interceptions": "13",
+    "effectiveClearance": "14",
+    "totalClearance": "14"
+   }
+  },
+  "away": {
+   "abbr": "ATM",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "7",
+    "saves": "1",
+    "possessionPct": "68.7",
+    "totalShots": "20",
+    "shotsOnTarget": "10",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "655",
+    "totalPasses": "733",
+    "passPct": "0.9",
+    "accurateCrosses": "3",
+    "totalCrosses": "14",
+    "crossPct": "0.2",
+    "totalLongBalls": "61",
+    "accurateLongBalls": "35",
+    "longballPct": "0.6",
+    "blockedShots": "3",
+    "effectiveTackles": "11",
+    "totalTackles": "25",
+    "tacklePct": "0.4",
+    "interceptions": "9",
+    "effectiveClearance": "23",
+    "totalClearance": "23"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal",
+   "clock": "10'",
+   "team": null,
+   "text": "Goal! Getafe 0, Atletico Madrid 1. Álex Baena (Atletico Madrid) right footed shot from outside the box to the bottom left corner. Assisted by Julián Alvarez."
+  },
+  {
+   "type": "Goal",
+   "clock": "30'",
+   "team": null,
+   "text": "Goal! Getafe 0, Atletico Madrid 2. Johnny Cardoso (Atletico Madrid) right footed shot from very close range to the centre of the goal. Assisted by Julián Alvarez with a cross following a corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "36'",
+   "team": null,
+   "text": "Johnny Cardoso (Atletico Madrid) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Getafe. Kiko Femenía replaces Ramón Terrats."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Getafe. Martín Satriano replaces Jean Valou."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Atletico Madrid. Lee Kang-In replaces Johnny Cardoso."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Getafe 0, Atletico Madrid 2."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "49'",
+   "team": null,
+   "text": "Robin Le Normand (Atletico Madrid) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "67'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "67'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Atletico Madrid. Rodrigo Mendoza replaces Álex Baena."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Getafe. Borja Mayoral replaces Iván Azón."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Getafe. Mario Martín replaces Francho Serrano."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "71'",
+   "team": null,
+   "text": "Djené Dakonam (Getafe) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Atletico Madrid. Alexander Sørloth replaces Julián Alvarez."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "84'",
+   "team": null,
+   "text": "Mario Martín (Getafe) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Getafe. Davinchi replaces Andrés García because of an injury."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "89'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Red Card",
+   "clock": "90'",
+   "team": null,
+   "text": "Djené Dakonam (Getafe) is shown the red card."
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Goal! Getafe 0, Atletico Madrid 3. Alejandro Grimaldo (Atletico Madrid) converts the penalty with a left footed shot to the top right corner."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

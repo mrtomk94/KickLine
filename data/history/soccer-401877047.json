@@ -1,0 +1,270 @@
+{
+ "id": "soccer-401877047",
+ "sport": "soccer",
+ "league": "Liga MX",
+ "start": "2026-11-22T23:07Z",
+ "home": {
+  "name": "Guadalajara",
+  "abbr": "GDL",
+  "teamId": "219",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Cruz Azul",
+  "abbr": "CAZ",
+  "teamId": "218",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+210",
+  "mlAwayOpen": "+145",
+  "mlDraw": "+260",
+  "mlHome": "+120",
+  "mlHomeOpen": "+135",
+  "provider": "DraftKings",
+  "spread": "GDL +120",
+  "spreadOpen": "GDL -0.5",
+  "total": "2.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "GDL",
+   "stats": {
+    "foulsCommitted": "6",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "3",
+    "saves": "3",
+    "possessionPct": "50.7",
+    "totalShots": "12",
+    "shotsOnTarget": "8",
+    "shotPct": "0.7",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "430",
+    "totalPasses": "511",
+    "passPct": "0.8",
+    "accurateCrosses": "2",
+    "totalCrosses": "11",
+    "crossPct": "0.2",
+    "totalLongBalls": "61",
+    "accurateLongBalls": "35",
+    "longballPct": "0.6",
+    "blockedShots": "3",
+    "effectiveTackles": "6",
+    "totalTackles": "12",
+    "tacklePct": "0.5",
+    "interceptions": "8",
+    "effectiveClearance": "28",
+    "totalClearance": "28"
+   }
+  },
+  "away": {
+   "abbr": "CAZ",
+   "stats": {
+    "foulsCommitted": "16",
+    "yellowCards": "4",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "5",
+    "saves": "7",
+    "possessionPct": "49.3",
+    "totalShots": "15",
+    "shotsOnTarget": "3",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "409",
+    "totalPasses": "491",
+    "passPct": "0.8",
+    "accurateCrosses": "2",
+    "totalCrosses": "15",
+    "crossPct": "0.1",
+    "totalLongBalls": "48",
+    "accurateLongBalls": "18",
+    "longballPct": "0.4",
+    "blockedShots": "5",
+    "effectiveTackles": "6",
+    "totalTackles": "11",
+    "tacklePct": "0.5",
+    "interceptions": "12",
+    "effectiveClearance": "21",
+    "totalClearance": "21"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "10'",
+   "team": null,
+   "text": "Delay in match (Guadalajara)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "10'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "11'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "11'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal - Volley",
+   "clock": "21'",
+   "team": null,
+   "text": "Goal! Guadalajara 1, Cruz Azul 0. Efraín Álvarez (Guadalajara) left footed shot from the left side of the box to the top right corner. Assisted by Richard Ledezma with a cross."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "31'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "32'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "35'",
+   "team": null,
+   "text": "Carlos Rodríguez (Cruz Azul) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "38'",
+   "team": null,
+   "text": "Carlos Rotondi (Cruz Azul) is shown the yellow card."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": "First Half ends, Guadalajara 1, Cruz Azul 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Guadalajara 1, Cruz Azul 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Guadalajara. Luis Gabriel Rey replaces José Castillo Pérez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Cruz Azul. Nicolás Ibáñez replaces Gabriel Fernández."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Cruz Azul. Andrés Montaño replaces José Paradela."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Cruz Azul. Christian Ebere replaces Carlos Rotondi."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "60'",
+   "team": null,
+   "text": "Rubén González (Guadalajara) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Guadalajara. Ricardo Marín replaces Efraín Álvarez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Cruz Azul. Jeremy Márquez replaces Alan Mozo."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "73'",
+   "team": null,
+   "text": "Jeremy Márquez (Cruz Azul) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "73'",
+   "team": null,
+   "text": "Gonzalo Piovi (Cruz Azul) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "73'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "74'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Guadalajara. Miguel Gómez replaces Richard Ledezma."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Guadalajara. Brian Gutiérrez replaces Santiago Sandoval."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Guadalajara. Ángel Sepúlveda replaces Roberto Alvarado."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Cruz Azul. Luka Romero replaces Agustín Palavecino."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+6'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

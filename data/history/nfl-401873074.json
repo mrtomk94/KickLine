@@ -1,0 +1,150 @@
+{
+ "id": "nfl-401873074",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-22T21:05Z",
+ "home": {
+  "name": "Los Angeles Chargers",
+  "abbr": "LAC",
+  "teamId": "24",
+  "score": 24.0
+ },
+ "away": {
+  "name": "New York Jets",
+  "abbr": "NYJ",
+  "teamId": "20",
+  "score": 27.0
+ },
+ "odds": {
+  "mlAway": "+146",
+  "mlAwayOpen": "+340",
+  "mlHome": "-173",
+  "mlHomeOpen": "-440",
+  "provider": "DraftKings",
+  "spread": "LAC -3",
+  "spreadOpen": "LAC -9.5",
+  "total": "43.5",
+  "totalOpen": "41.5"
+ },
+ "espnWinProb": {
+  "away": 36.3,
+  "home": 63.4
+ },
+ "teams": {
+  "away": {
+   "abbr": "NYJ",
+   "stats": {
+    "firstDowns": "24",
+    "firstDownsPassing": "10",
+    "firstDownsRushing": "13",
+    "firstDownsPenalty": "1",
+    "thirdDownEff": "9-11",
+    "fourthDownEff": "0-0",
+    "totalOffensivePlays": "59",
+    "totalYards": "341",
+    "yardsPerPlay": "5.8",
+    "totalDrives": "6",
+    "netPassingYards": "176",
+    "completionAttempts": "17/21",
+    "yardsPerPass": "8.0",
+    "interceptions": "0",
+    "sacksYardsLost": "1-0",
+    "rushingYards": "165",
+    "rushingAttempts": "37",
+    "yardsPerRushAttempt": "4.5",
+    "redZoneAttempts": "3-4",
+    "totalPenaltiesYards": "4-18",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "32:12"
+   }
+  },
+  "home": {
+   "abbr": "LAC",
+   "stats": {
+    "firstDowns": "21",
+    "firstDownsPassing": "10",
+    "firstDownsRushing": "9",
+    "firstDownsPenalty": "2",
+    "thirdDownEff": "8-12",
+    "fourthDownEff": "1-1",
+    "totalOffensivePlays": "57",
+    "totalYards": "261",
+    "yardsPerPlay": "4.6",
+    "totalDrives": "6",
+    "netPassingYards": "103",
+    "completionAttempts": "15/21",
+    "yardsPerPass": "3.8",
+    "interceptions": "0",
+    "sacksYardsLost": "6-28",
+    "rushingYards": "158",
+    "rushingAttempts": "30",
+    "yardsPerRushAttempt": "5.3",
+    "redZoneAttempts": "3-3",
+    "totalPenaltiesYards": "6-50",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "27:48"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "11:08",
+   "team": "NYJ",
+   "text": "Jason Sanders 50 Yd Field Goal"
+  },
+  {
+   "period": 1,
+   "clock": "5:17",
+   "team": "LAC",
+   "text": "Cameron Dicker 52 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "13:34",
+   "team": "NYJ",
+   "text": "Breece Hall 7 Yd pass from Geno Smith (Jason Sanders Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "3:07",
+   "team": "NYJ",
+   "text": "Sterling Shepard 8 Yd pass from Geno Smith (Jason Sanders Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:00",
+   "team": "LAC",
+   "text": "Justin Herbert 10 Yd Rush (Cameron Dicker Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "3:23",
+   "team": "NYJ",
+   "text": "Jason Sanders 24 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "13:01",
+   "team": "LAC",
+   "text": "Ladd McConkey 11 Yd pass from Justin Herbert (Cameron Dicker Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "9:46",
+   "team": "NYJ",
+   "text": "Sterling Shepard 16 Yd pass from Geno Smith (Jason Sanders Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "1:58",
+   "team": "LAC",
+   "text": "Ladd McConkey 6 Yd pass from Justin Herbert (Cameron Dicker Kick)"
+  }
+ ]
+}

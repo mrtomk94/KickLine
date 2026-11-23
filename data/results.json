@@ -1822,6 +1822,50 @@
   "stars": 2,
   "start": "2026-11-22T03:00Z"
  },
+ "nba-401910031": {
+  "awayScore": 96.0,
+  "confidence": 61,
+  "espnWinProb": {
+   "away": 61.5,
+   "home": 38.5
+  },
+  "final": "ORL 96 – WSH 116",
+  "gradedAt": "2026-11-23T03:01:43Z",
+  "homeScore": 116.0,
+  "league": "NBA",
+  "market": "Moneyline",
+  "matchup": "ORL @ WSH",
+  "note": "Final ORL 96 – WSH 116; the pick lost.",
+  "oddsAtPick": "-197",
+  "outcome": "loss",
+  "pick": "ORL ML (-197)",
+  "reason": "ORL are about 64% no-vig at -197; ESPN's model has 62%. For: last-5 scoring margin: WSH -8.0, ORL +6.0.",
+  "sport": "nba",
+  "stars": 2,
+  "start": "2026-11-23T00:00Z"
+ },
+ "nba-401910032": {
+  "awayScore": 151.0,
+  "confidence": 74,
+  "espnWinProb": {
+   "away": 75.5,
+   "home": 24.5
+  },
+  "final": "DEN 151 – CHI 145",
+  "gradedAt": "2026-11-23T03:01:43Z",
+  "homeScore": 145.0,
+  "league": "NBA",
+  "market": "Moneyline",
+  "matchup": "DEN @ CHI",
+  "note": "Final DEN 151 – CHI 145; the pick won.",
+  "oddsAtPick": "-419",
+  "outcome": "win",
+  "pick": "DEN ML (-419)",
+  "reason": "DEN are about 78% no-vig at -419; ESPN's model has 76%.",
+  "sport": "nba",
+  "stars": 2,
+  "start": "2026-11-23T00:00Z"
+ },
  "ncaaf-401856727": {
   "confidence": 79,
   "final": "TA&M 20 – ALA 31",
@@ -5689,6 +5733,28 @@
   "stars": 3,
   "start": "2026-11-22T18:00Z"
  },
+ "nfl-401873069": {
+  "awayScore": 18.0,
+  "confidence": 71,
+  "espnWinProb": {
+   "away": 81.4,
+   "home": 18.5
+  },
+  "final": "JAX 18 – NYG 23",
+  "gradedAt": "2026-11-23T03:01:43Z",
+  "homeScore": 23.0,
+  "league": "NFL",
+  "market": "Moneyline",
+  "matchup": "JAX @ NYG",
+  "note": "Final JAX 18 – NYG 23; the pick lost.",
+  "oddsAtPick": "-266",
+  "outcome": "loss",
+  "pick": "JAX ML (-266)",
+  "reason": "JAX are about 70% no-vig at -266; ESPN's model has 81%. For: ESPN model 81% vs market 70%; line moved toward JAX (-125 → -266).",
+  "sport": "nfl",
+  "stars": 4,
+  "start": "2026-11-22T21:25Z"
+ },
  "nfl-401873070": {
   "awayScore": 9.0,
   "confidence": 91,
@@ -5776,6 +5842,28 @@
   "sport": "nfl",
   "stars": 3,
   "start": "2026-11-22T18:00Z"
+ },
+ "nfl-401873075": {
+  "awayScore": 24.0,
+  "confidence": 82,
+  "espnWinProb": {
+   "away": 13.4,
+   "home": 86.5
+  },
+  "final": "LV 24 – DEN 38",
+  "gradedAt": "2026-11-23T03:01:43Z",
+  "homeScore": 38.0,
+  "league": "NFL",
+  "market": "Moneyline",
+  "matchup": "LV @ DEN",
+  "note": "Final LV 24 – DEN 38; the pick won.",
+  "oddsAtPick": "-598",
+  "outcome": "win",
+  "pick": "DEN ML (-598)",
+  "reason": "DEN are about 82% no-vig at -598; ESPN's model has 86%. For: line moved toward DEN (-425 → -598); form WWWWW vs LLWLL.",
+  "sport": "nfl",
+  "stars": 3,
+  "start": "2026-11-22T21:25Z"
  },
  "nfl-401873076": {
   "awayScore": 16.0,
@@ -6635,6 +6723,24 @@
   "stars": 2,
   "start": "2026-10-28T17:30:00Z"
  },
+ "soccer-401875001": {
+  "awayScore": 4.0,
+  "confidence": 60,
+  "final": "INT 4 – ATA 4",
+  "gradedAt": "2026-11-23T03:01:43Z",
+  "homeScore": 4.0,
+  "league": "Serie A",
+  "market": "Moneyline",
+  "matchup": "INT @ ATA",
+  "note": "Final INT 4 – ATA 4; the pick lost. Match ended level.",
+  "oddsAtPick": "-200",
+  "outcome": "loss",
+  "pick": "Inter Milan ML (-200)",
+  "reason": "Inter Milan are about 62% no-vig at -200. For: form WWLWW vs WDLDD.",
+  "sport": "soccer",
+  "stars": 2,
+  "start": "2026-11-22T19:45Z"
+ },
  "soccer-401875002": {
   "confidence": 68,
   "final": "VEN 0 – COMO 1",
@@ -6794,6 +6900,24 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-21T19:45Z"
+ },
+ "soccer-401876400": {
+  "awayScore": 3.0,
+  "confidence": 65,
+  "final": "MNS 3 – OLM 2",
+  "gradedAt": "2026-11-23T03:01:43Z",
+  "homeScore": 2.0,
+  "league": "Ligue 1",
+  "market": "Moneyline",
+  "matchup": "MNS @ OLM",
+  "note": "Final MNS 3 – OLM 2; the pick lost.",
+  "oddsAtPick": "-235",
+  "outcome": "loss",
+  "pick": "Marseille ML (-235)",
+  "reason": "Marseille are about 67% no-vig at -235. For: form WWWWL vs DLDLL.",
+  "sport": "soccer",
+  "stars": 3,
+  "start": "2026-11-22T19:45Z"
  },
  "soccer-401876407": {
   "confidence": 78,
@@ -7890,6 +8014,24 @@
   "sport": "soccer",
   "stars": 3,
   "start": "2026-11-21T20:00Z"
+ },
+ "soccer-401882803": {
+  "awayScore": 3.0,
+  "confidence": 59,
+  "final": "ATM 3 – GET 0",
+  "gradedAt": "2026-11-23T03:01:43Z",
+  "homeScore": 0.0,
+  "league": "LaLiga",
+  "market": "Moneyline",
+  "matchup": "ATM @ GET",
+  "note": "Final ATM 3 – GET 0; the pick won.",
+  "oddsAtPick": "-185",
+  "outcome": "win",
+  "pick": "Atlético ML (-185)",
+  "reason": "Atlético are about 62% no-vig at -185.",
+  "sport": "soccer",
+  "stars": 2,
+  "start": "2026-11-22T20:00Z"
  },
  "soccer-401882804": {
   "awayScore": 2.0,
@@ -10012,6 +10154,24 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-13T15:00Z"
+ },
+ "soccer-401933731": {
+  "awayScore": 1.0,
+  "confidence": 59,
+  "final": "CIN 1 – NSH 0",
+  "gradedAt": "2026-11-23T03:01:43Z",
+  "homeScore": 0.0,
+  "league": "MLS",
+  "market": "Moneyline",
+  "matchup": "CIN @ NSH",
+  "note": "Final CIN 1 – NSH 0; the pick lost.",
+  "oddsAtPick": "-205",
+  "outcome": "loss",
+  "pick": "Nashville ML (-205)",
+  "reason": "Nashville are about 62% no-vig at -205.",
+  "sport": "soccer",
+  "stars": 2,
+  "start": "2026-11-22T21:00Z"
  },
  "soccer-761845": {
   "confidence": 29,

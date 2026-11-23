@@ -1,0 +1,97 @@
+{
+ "id": "nba-401910030",
+ "sport": "nba",
+ "league": "NBA",
+ "start": "2026-11-22T23:00Z",
+ "home": {
+  "name": "Miami Heat",
+  "abbr": "MIA",
+  "teamId": "14",
+  "score": 123.0
+ },
+ "away": {
+  "name": "Oklahoma City Thunder",
+  "abbr": "OKC",
+  "teamId": "25",
+  "score": 113.0
+ },
+ "odds": {
+  "mlAway": "+162",
+  "mlAwayOpen": "+117",
+  "mlHome": "-194",
+  "mlHomeOpen": "-139",
+  "provider": "Draft Kings",
+  "spread": "MIA -4.5",
+  "spreadOpen": "MIA -2.5",
+  "total": "226.5",
+  "totalOpen": "231.5"
+ },
+ "espnWinProb": {
+  "away": 50.4,
+  "home": 49.6
+ },
+ "teams": {
+  "away": {
+   "abbr": "OKC",
+   "stats": {
+    "fieldGoalsMade-fieldGoalsAttempted": "42-92",
+    "fieldGoalPct": "46",
+    "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "16-35",
+    "threePointFieldGoalPct": "46",
+    "freeThrowsMade-freeThrowsAttempted": "13-19",
+    "freeThrowPct": "68",
+    "totalRebounds": "38",
+    "offensiveRebounds": "10",
+    "defensiveRebounds": "28",
+    "assists": "24",
+    "steals": "8",
+    "blocks": "0",
+    "turnovers": "13",
+    "teamTurnovers": "0",
+    "totalTurnovers": "13",
+    "technicalFouls": "0",
+    "totalTechnicalFouls": "0",
+    "flagrantFouls": "0",
+    "turnoverPoints": "13",
+    "fastBreakPoints": "11",
+    "pointsInPaint": "46",
+    "fouls": "17",
+    "largestLead": "0",
+    "leadChanges": "0",
+    "leadPercentage": "0"
+   }
+  },
+  "home": {
+   "abbr": "MIA",
+   "stats": {
+    "fieldGoalsMade-fieldGoalsAttempted": "45-85",
+    "fieldGoalPct": "53",
+    "threePointFieldGoalsMade-threePointFieldGoalsAttempted": "15-38",
+    "threePointFieldGoalPct": "39",
+    "freeThrowsMade-freeThrowsAttempted": "18-21",
+    "freeThrowPct": "86",
+    "totalRebounds": "48",
+    "offensiveRebounds": "11",
+    "defensiveRebounds": "37",
+    "assists": "30",
+    "steals": "9",
+    "blocks": "7",
+    "turnovers": "15",
+    "teamTurnovers": "0",
+    "totalTurnovers": "15",
+    "technicalFouls": "0",
+    "totalTechnicalFouls": "0",
+    "flagrantFouls": "1",
+    "turnoverPoints": "21",
+    "fastBreakPoints": "11",
+    "pointsInPaint": "54",
+    "fouls": "19",
+    "largestLead": "20",
+    "leadChanges": "0",
+    "leadPercentage": "99"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": []
+}

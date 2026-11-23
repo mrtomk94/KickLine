@@ -1,0 +1,258 @@
+{
+ "id": "soccer-401876400",
+ "sport": "soccer",
+ "league": "Ligue 1",
+ "start": "2026-11-22T19:45Z",
+ "home": {
+  "name": "Marseille",
+  "abbr": "OLM",
+  "teamId": "176",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Le Mans",
+  "abbr": "MNS",
+  "teamId": "2697",
+  "score": 3.0
+ },
+ "odds": {
+  "mlAway": "+600",
+  "mlAwayOpen": "+500",
+  "mlDraw": "+400",
+  "mlHome": "-235",
+  "mlHomeOpen": "-225",
+  "provider": "DraftKings",
+  "spread": "OLM -235",
+  "spreadOpen": "OLM -1.5",
+  "total": "2.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "OLM",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "4",
+    "wonCorners": "2",
+    "saves": "6",
+    "possessionPct": "55.2",
+    "totalShots": "11",
+    "shotsOnTarget": "5",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "502",
+    "totalPasses": "570",
+    "passPct": "0.9",
+    "accurateCrosses": "3",
+    "totalCrosses": "6",
+    "crossPct": "0.5",
+    "totalLongBalls": "51",
+    "accurateLongBalls": "27",
+    "longballPct": "0.5",
+    "blockedShots": "1",
+    "effectiveTackles": "10",
+    "totalTackles": "16",
+    "tacklePct": "0.6",
+    "interceptions": "5",
+    "effectiveClearance": "22",
+    "totalClearance": "22"
+   }
+  },
+  "away": {
+   "abbr": "MNS",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "4",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "5",
+    "saves": "3",
+    "possessionPct": "44.8",
+    "totalShots": "18",
+    "shotsOnTarget": "9",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "379",
+    "totalPasses": "452",
+    "passPct": "0.8",
+    "accurateCrosses": "7",
+    "totalCrosses": "18",
+    "crossPct": "0.4",
+    "totalLongBalls": "54",
+    "accurateLongBalls": "24",
+    "longballPct": "0.4",
+    "blockedShots": "4",
+    "effectiveTackles": "8",
+    "totalTackles": "15",
+    "tacklePct": "0.5",
+    "interceptions": "9",
+    "effectiveClearance": "15",
+    "totalClearance": "15"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "33'",
+   "team": null,
+   "text": "Goal! Marseille 1, Le Mans 0. Amine Gouiri (Marseille) right footed shot from the centre of the box to the bottom right corner. Assisted by CJ Egan-Riley with a through ball."
+  },
+  {
+   "type": "Goal",
+   "clock": "40'",
+   "team": null,
+   "text": "Goal! Marseille 2, Le Mans 0. Igor Paixão (Marseille) right footed shot from the centre of the box to the bottom left corner. Assisted by Amine Gouiri."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "53'",
+   "team": null,
+   "text": "Antoine Rabillard (Le Mans) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, Le Mans. Jean Vercruysse replaces Antoine Rabillard."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, Le Mans. Erwan Colas replaces Dame Gueye."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "67'",
+   "team": null,
+   "text": "Tochukwu Nnadi (Marseille) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "69'",
+   "team": null,
+   "text": "Geoffrey Kondogbia (Marseille) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal - Free-kick",
+   "clock": "70'",
+   "team": null,
+   "text": "Goal! Marseille 2, Le Mans 1. Louis Mafouta (Le Mans) from a free kick with a right footed shot to the top right corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "71'",
+   "team": null,
+   "text": "Harold Voyer (Le Mans) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Marseille. Nouhoum Kamissoko replaces Geoffrey Kondogbia."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Marseille. Angel Gomes replaces Tochukwu Nnadi."
+  },
+  {
+   "type": "Penalty - Saved",
+   "clock": "79'",
+   "team": null,
+   "text": "Penalty saved. Louis Mafouta (Le Mans) right footed shot saved in the centre of the goal by Jeffrey de Lange (Marseille)."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "80'",
+   "team": null,
+   "text": "Himad Abdelli (Marseille) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "80'",
+   "team": null,
+   "text": "Rayan Bamba (Le Mans) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Le Mans. Noa Boissé replaces Lucas Buadés."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Le Mans. Raúl Torrente replaces Harold Voyer."
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, Le Mans. William Harhouz replaces Louis Mafouta."
+  },
+  {
+   "type": "Goal",
+   "clock": "84'",
+   "team": null,
+   "text": "Goal! Marseille 2, Le Mans 2. Erwan Colas (Le Mans) left footed shot from very close range to the bottom left corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "88'",
+   "team": null,
+   "text": "Daouda Traoré (Le Mans) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "88'",
+   "team": null,
+   "text": "Substitution, Marseille. Alexi Koum replaces Ulisses Garcia."
+  },
+  {
+   "type": "Substitution",
+   "clock": "88'",
+   "team": null,
+   "text": "Substitution, Marseille. Keyliane Abdallah replaces Amine Harit."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Goal! Marseille 2, Le Mans 3. Jean Vercruysse (Le Mans) left footed shot from the centre of the box to the bottom left corner. Assisted by Rayan Bamba."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+6'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

@@ -1,0 +1,264 @@
+{
+ "id": "soccer-401875001",
+ "sport": "soccer",
+ "league": "Serie A",
+ "start": "2026-11-22T19:45Z",
+ "home": {
+  "name": "Atalanta",
+  "abbr": "ATA",
+  "teamId": "105",
+  "score": 4.0
+ },
+ "away": {
+  "name": "Internazionale",
+  "abbr": "INT",
+  "teamId": "110",
+  "score": 4.0
+ },
+ "odds": {
+  "mlAway": "-200",
+  "mlAwayOpen": "-175",
+  "mlDraw": "+350",
+  "mlHome": "+425",
+  "mlHomeOpen": "+340",
+  "provider": "DraftKings",
+  "spread": "INT -200",
+  "spreadOpen": "INT -0.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "ATA",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "4",
+    "wonCorners": "5",
+    "saves": "2",
+    "possessionPct": "40.6",
+    "totalShots": "15",
+    "shotsOnTarget": "10",
+    "shotPct": "0.7",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "363",
+    "totalPasses": "415",
+    "passPct": "0.9",
+    "accurateCrosses": "5",
+    "totalCrosses": "22",
+    "crossPct": "0.2",
+    "totalLongBalls": "29",
+    "accurateLongBalls": "13",
+    "longballPct": "0.4",
+    "blockedShots": "4",
+    "effectiveTackles": "7",
+    "totalTackles": "11",
+    "tacklePct": "0.6",
+    "interceptions": "15",
+    "effectiveClearance": "20",
+    "totalClearance": "20"
+   }
+  },
+  "away": {
+   "abbr": "INT",
+   "stats": {
+    "foulsCommitted": "10",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "6",
+    "saves": "6",
+    "possessionPct": "59.4",
+    "totalShots": "16",
+    "shotsOnTarget": "6",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "555",
+    "totalPasses": "622",
+    "passPct": "0.9",
+    "accurateCrosses": "8",
+    "totalCrosses": "21",
+    "crossPct": "0.4",
+    "totalLongBalls": "51",
+    "accurateLongBalls": "29",
+    "longballPct": "0.6",
+    "blockedShots": "6",
+    "effectiveTackles": "5",
+    "totalTackles": "7",
+    "tacklePct": "0.7",
+    "interceptions": "11",
+    "effectiveClearance": "30",
+    "totalClearance": "30"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal",
+   "clock": "16'",
+   "team": null,
+   "text": "Goal! Atalanta 0, Inter Milan 1. Francesco Pio Esposito (Inter Milan) right footed shot from the centre of the box to the bottom left corner."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "32'",
+   "team": null,
+   "text": "Goal! Atalanta 0, Inter Milan 2. Francesco Pio Esposito (Inter Milan) header from very close range to the bottom left corner. Assisted by Federico Dimarco with a cross following a corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "33'",
+   "team": null,
+   "text": "Substitution, Inter Milan. Petar Sucic replaces Hakan Çalhanoğlu because of an injury."
+  },
+  {
+   "type": "Goal",
+   "clock": "35'",
+   "team": null,
+   "text": "Goal! Atalanta 1, Inter Milan 2. Eljif Elmas (Atalanta) right footed shot from the centre of the box to the top left corner. Assisted by Nicola Zalewski with a cross."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": "First Half ends, Atalanta 1, Inter Milan 2."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "52'",
+   "team": null,
+   "text": "Goal! Atalanta 1, Inter Milan 3. Francesco Pio Esposito (Inter Milan) right footed shot from the centre of the box to the bottom left corner. Assisted by Marcus Thuram with a through ball following a "
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "60'",
+   "team": null,
+   "text": "Giorgio Scalvini (Atalanta) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Inter Milan. Manuel Akanji replaces Federico Dimarco."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Inter Milan. Curtis Jones replaces Nicolò Barella."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Atalanta. Jonathan Rowe replaces Eljif Elmas."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Atalanta. Mario Pasalic replaces Éderson."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "72'",
+   "team": null,
+   "text": "Goal! Atalanta 2, Inter Milan 3. Charles De Ketelaere (Atalanta) header from very close range to the high centre of the goal. Assisted by Nicola Zalewski with a cross following a corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Atalanta. Giacomo Raspadori replaces Nicola Zalewski."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "74'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "74'",
+   "team": null,
+   "text": "Davide Zappacosta (Atalanta) is shown the yellow card for handball."
+  },
+  {
+   "type": "End Delay",
+   "clock": "76'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "76'",
+   "team": null,
+   "text": "Goal! Atalanta 2, Inter Milan 4. Petar Sucic (Inter Milan) converts the penalty with a right footed shot to the bottom left corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Inter Milan. Lautaro Martínez replaces Francesco Pio Esposito."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Inter Milan. Aleksandar Stankovic replaces Henrikh Mkhitaryan."
+  },
+  {
+   "type": "Goal",
+   "clock": "80'",
+   "team": null,
+   "text": "Goal! Atalanta 3, Inter Milan 4. Charles De Ketelaere (Atalanta) left footed shot from the centre of the box to the high centre of the goal. Assisted by Jonathan Rowe."
+  },
+  {
+   "type": "Substitution",
+   "clock": "88'",
+   "team": null,
+   "text": "Substitution, Atalanta. Gianluca Scamacca replaces Nikola Krstovic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "88'",
+   "team": null,
+   "text": "Substitution, Atalanta. Lorenzo Bernasconi replaces Raoul Bellanova."
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Goal! Atalanta 4, Inter Milan 4. Franck Kessie (Atalanta) converts the penalty with a right footed shot to the bottom right corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Carlos Augusto (Inter Milan) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+6'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

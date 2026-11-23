@@ -1,0 +1,324 @@
+{
+ "id": "soccer-401933730",
+ "sport": "soccer",
+ "league": "MLS",
+ "start": "2026-11-22T23:30Z",
+ "home": {
+  "name": "Chicago Fire FC",
+  "abbr": "CHI",
+  "teamId": "182",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Charlotte FC",
+  "abbr": "CLT",
+  "teamId": "21300",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "+370",
+  "mlAwayOpen": "+340",
+  "mlDraw": "+330",
+  "mlHome": "-170",
+  "mlHomeOpen": "-180",
+  "provider": "DraftKings",
+  "spread": "CHI -170",
+  "spreadOpen": "CHI -0.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "CHI",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "5",
+    "saves": "3",
+    "possessionPct": "58.1",
+    "totalShots": "27",
+    "shotsOnTarget": "4",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "380",
+    "totalPasses": "460",
+    "passPct": "0.8",
+    "accurateCrosses": "9",
+    "totalCrosses": "28",
+    "crossPct": "0.3",
+    "totalLongBalls": "28",
+    "accurateLongBalls": "10",
+    "longballPct": "0.4",
+    "blockedShots": "9",
+    "effectiveTackles": "16",
+    "totalTackles": "19",
+    "tacklePct": "0.8",
+    "interceptions": "6",
+    "effectiveClearance": "26",
+    "totalClearance": "26"
+   }
+  },
+  "away": {
+   "abbr": "CLT",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "8",
+    "saves": "4",
+    "possessionPct": "41.9",
+    "totalShots": "19",
+    "shotsOnTarget": "5",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "259",
+    "totalPasses": "332",
+    "passPct": "0.8",
+    "accurateCrosses": "7",
+    "totalCrosses": "19",
+    "crossPct": "0.4",
+    "totalLongBalls": "60",
+    "accurateLongBalls": "24",
+    "longballPct": "0.4",
+    "blockedShots": "6",
+    "effectiveTackles": "5",
+    "totalTackles": "6",
+    "tacklePct": "0.8",
+    "interceptions": "9",
+    "effectiveClearance": "40",
+    "totalClearance": "40"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "5'",
+   "team": null,
+   "text": "Delay in match because of an injury Philip Zinckernagel (Chicago Fire FC)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "5'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "5'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "5'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'",
+   "team": null,
+   "text": "First Half ends, Chicago Fire FC 0, Charlotte FC 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "48'",
+   "team": null,
+   "text": "Goal! Chicago Fire FC 0, Charlotte FC 1. Liel Abada (Charlotte FC) header from very close range to the top left corner. Assisted by Henry Kessler following a set piece situation."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "50'",
+   "team": null,
+   "text": "Delay in match because of an injury Liel Abada (Charlotte FC)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "50'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "51'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "51'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Charlotte FC. Rodolfo Aloko replaces Liel Abada."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Chicago Fire FC. Robin Lod replaces Maren Haile-Selassie."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "68'",
+   "team": null,
+   "text": "Goal! Chicago Fire FC 1, Charlotte FC 1. Robert Lewandowski (Chicago Fire FC) header from very close range to the top left corner. Assisted by Jonathan Dean."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "74'",
+   "team": null,
+   "text": "Harry Toffolo (Charlotte FC) is shown the yellow card."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "75'",
+   "team": null,
+   "text": "Delay in match because of an injury Nathan Byrne (Charlotte FC)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "75'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "75'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "75'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Charlotte FC. Abdoulaye Doucouré replaces Ashley Westwood."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Charlotte FC. Will Cleary replaces Nathan Byrne because of an injury."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Charlotte FC. David Schnegg replaces Harry Toffolo."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "81'",
+   "team": null,
+   "text": "Delay in match because of an injury Robert Lewandowski (Chicago Fire FC)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "81'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "81'",
+   "team": null,
+   "text": "Morrison Agyemang (Charlotte FC) is shown the yellow card."
+  },
+  {
+   "type": "End Delay",
+   "clock": "82'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "82'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "85'",
+   "team": null,
+   "text": "Jonathan Bamba (Chicago Fire FC) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'",
+   "team": null,
+   "text": "Substitution, Chicago Fire FC. Anzor Mekvabishvili replaces Djé D'Avilla."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'",
+   "team": null,
+   "text": "Substitution, Chicago Fire FC. Johan Gómez replaces Jonathan Bamba."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Substitution, Chicago Fire FC. Josh Cohen replaces Chris Brady."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "90'+7'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'+10'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Saved",
+   "clock": "90'+12'",
+   "team": null,
+   "text": "Penalty saved. Pep Biel (Charlotte FC) left footed shot saved in the bottom right corner by Josh Cohen (Chicago Fire FC)."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'+12'",
+   "team": null,
+   "text": "Goal! Chicago Fire FC 1, Charlotte FC 2. Pep Biel (Charlotte FC) left footed shot from the centre of the box to the centre of the goal following a set piece situation."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+13'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}
