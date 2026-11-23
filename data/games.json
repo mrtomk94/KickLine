@@ -31,14 +31,14 @@
   "stars": 1,
   "start": "2026-11-25T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Kia Center, Orlando"
  },
  "nba-401909315": {
   "away": {
    "abbr": "BOS",
    "name": "Boston Celtics",
-   "record": "11-5",
+   "record": "11-6",
    "short": "Celtics",
    "teamId": "2"
   },
@@ -66,7 +66,7 @@
   "stars": 1,
   "start": "2026-11-25T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Capital One Arena, Washington"
  },
  "nba-401909316": {
@@ -101,7 +101,7 @@
   "stars": 1,
   "start": "2026-11-25T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Ball Arena, Denver"
  },
  "nba-401909317": {
@@ -136,7 +136,7 @@
   "stars": 1,
   "start": "2026-11-25T22:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Xfinity Mobile Arena, Philadelphia"
  },
  "nba-401909318": {
@@ -171,7 +171,7 @@
   "stars": 1,
   "start": "2026-11-26T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Spectrum Center, Charlotte"
  },
  "nba-401909319": {
@@ -188,7 +188,7 @@
   "home": {
    "abbr": "NY",
    "name": "New York Knicks",
-   "record": "10-6",
+   "record": "11-6",
    "short": "Knicks",
    "teamId": "18"
   },
@@ -206,7 +206,7 @@
   "stars": 1,
   "start": "2026-11-26T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Madison Square Garden, New York"
  },
  "nba-401909320": {
@@ -241,7 +241,7 @@
   "stars": 1,
   "start": "2026-11-26T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Paycom Center, Oklahoma City"
  },
  "nba-401909321": {
@@ -276,7 +276,7 @@
   "stars": 1,
   "start": "2026-11-26T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "FedExForum, Memphis"
  },
  "nba-401909322": {
@@ -311,7 +311,7 @@
   "stars": 1,
   "start": "2026-11-26T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Fiserv Forum, Milwaukee"
  },
  "nba-401909323": {
@@ -346,7 +346,7 @@
   "stars": 1,
   "start": "2026-11-26T01:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Toyota Center (Houston), Houston"
  },
  "nba-401909324": {
@@ -363,7 +363,7 @@
   "home": {
    "abbr": "GS",
    "name": "Golden State Warriors",
-   "record": "8-8",
+   "record": "9-8",
    "short": "Warriors",
    "teamId": "9"
   },
@@ -381,7 +381,7 @@
   "stars": 1,
   "start": "2026-11-26T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Chase Center, San Francisco"
  },
  "nba-401909325": {
@@ -416,7 +416,7 @@
   "stars": 1,
   "start": "2026-11-26T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Moda Center, Portland"
  },
  "nba-401910029": {
@@ -1251,6 +1251,7 @@
    "abbr": "MEM",
    "form": "LWWWW",
    "injuries": [
+    "Jerami Grant (F) – Out, Calf",
     "Cameron Boozer (F) – Out, Ankle",
     "GG Jackson (F) – Out, Foot",
     "Scotty Pippen Jr. (G) – Out, Back",
@@ -1266,8 +1267,8 @@
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 65.9,
-   "home": 34.1
+   "away": 65.8,
+   "home": 34.2
   },
   "home": {
    "abbr": "CHA",
@@ -1286,6 +1287,13 @@
   "id": "nba-401910036",
   "injuriesRaw": {
    "away": [
+    {
+     "detail": "Calf",
+     "player": "Jerami Grant",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
     {
      "detail": "Ankle",
      "player": "Cameron Boozer",
@@ -1350,19 +1358,19 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401910036",
   "market": "Moneyline",
   "news": [
-   "Cooper Flagg saves Mavericks with late free throws to hold off Jazz comeback in 116-114 win",
-   "Denver Nuggets vs. Chicago Bulls: Game Highlights",
-   "Dallas Mavericks vs. Utah Jazz: Game Highlights"
+   "Brandin Podziemski scores 18 points as Warriors hold of Celtics 88-87 to snap five-game losing skid",
+   "Sport on ESPN in Africa this festive - What to watch on DStv, Disney+ in December",
+   "Draymond Green swats back at online critics, fuels Warriors' win over Celtics"
   ],
   "odds": {
    "mlAway": "-162",
    "mlAwayOpen": "-157",
    "mlHome": "+136",
    "mlHomeOpen": "+132",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "MEM -3.5",
    "spreadOpen": "MEM -3.5",
-   "total": "216.5",
+   "total": "214.5",
    "totalOpen": "218.5"
   },
   "pick": "MEM ML (-162)",
@@ -1374,10 +1382,11 @@
   "stars": 2,
   "start": "2026-11-24T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Spectrum Center, Charlotte"
  },
  "nba-401910037": {
+  "_lastPick": "PHI ML (-179)",
   "away": {
    "abbr": "POR",
    "form": "LWLLW",
@@ -1391,13 +1400,13 @@
    "short": "Trail Blazers",
    "teamId": "22"
   },
-  "confidence": 56,
+  "confidence": 58,
   "espnId": "401910037",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 41.4,
-   "home": 58.6
+   "away": 42.2,
+   "home": 57.8
   },
   "home": {
    "abbr": "PHI",
@@ -1461,70 +1470,175 @@
   },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401910037",
+  "market": "Moneyline",
   "news": [
-   "Cooper Flagg saves Mavericks with late free throws to hold off Jazz comeback in 116-114 win",
-   "Denver Nuggets vs. Chicago Bulls: Game Highlights",
-   "Dallas Mavericks vs. Utah Jazz: Game Highlights"
+   "Brandin Podziemski scores 18 points as Warriors hold of Celtics 88-87 to snap five-game losing skid",
+   "Sport on ESPN in Africa this festive - What to watch on DStv, Disney+ in December",
+   "Draymond Green swats back at online critics, fuels Warriors' win over Celtics"
   ],
   "odds": {
-   "mlAway": "+130",
+   "mlAway": "+150",
    "mlAwayOpen": "+121",
-   "mlHome": "-155",
+   "mlHome": "-179",
    "mlHomeOpen": "-144",
-   "provider": "DraftKings",
-   "spread": "PHI -3.5",
+   "provider": "Draft Kings",
+   "spread": "PHI -4.5",
    "spreadOpen": "PHI -2.5",
-   "total": "229.5",
+   "total": "230.5",
    "totalOpen": "228.5"
   },
-  "pick": "Pass",
-  "reason": "PHI about 58% no-vig at -155; no edge worth a pick.",
+  "pick": "PHI ML (-179)",
+  "reason": "PHI are about 62% no-vig at -179; ESPN's model has 58%. For: line moved toward PHI (-144 → -179); form WWWWW vs LWLLW.",
   "risks": [],
+  "side": "home",
   "slug": "nba",
   "sport": "nba",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-24T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Xfinity Mobile Arena, Philadelphia"
  },
  "nba-401910038": {
+  "_lastPick": "OKC ML (-191)",
   "away": {
    "abbr": "OKC",
+   "form": "LWLWL",
+   "injuries": [
+    "Aday Mara (C) – Out, Lower Leg",
+    "Shai Gilgeous-Alexander (G) – Out, Back",
+    "Nikola Topic (G) – Out, Hip",
+    "Jaylin Williams (F) – Out, Back",
+    "Alex Caruso (G) – Out, Hip"
+   ],
    "name": "Oklahoma City Thunder",
    "record": "10-7",
    "short": "Thunder",
    "teamId": "25"
   },
+  "confidence": 62,
   "espnId": "401910038",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 65.7,
+   "home": 34.3
+  },
   "home": {
    "abbr": "IND",
+   "form": "LLLLW",
+   "injuries": [
+    "T.J. McConnell (G) – Out, Hamstring",
+    "Tyrese Haliburton (G) – Out, Hamstring"
+   ],
    "name": "Indiana Pacers",
-   "record": "5-11",
+   "record": "5-12",
    "short": "Pacers",
    "teamId": "11"
   },
   "id": "nba-401910038",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Lower Leg",
+     "player": "Aday Mara",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Back",
+     "player": "Shai Gilgeous-Alexander",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hip",
+     "player": "Nikola Topic",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Back",
+     "player": "Jaylin Williams",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hip",
+     "player": "Alex Caruso",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Hamstring",
+     "player": "T.J. McConnell",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "Tyrese Haliburton",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Johnny Furphy",
+     "pos": "G",
+     "stale": true,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Ben Sheppard",
+     "pos": "G",
+     "stale": true,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401910038",
+  "market": "Moneyline",
+  "news": [
+   "Brandin Podziemski scores 18 points as Warriors hold of Celtics 88-87 to snap five-game losing skid",
+   "Sport on ESPN in Africa this festive - What to watch on DStv, Disney+ in December",
+   "Draymond Green swats back at online critics, fuels Warriors' win over Celtics"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "-191",
+   "mlAwayOpen": "-193",
+   "mlHome": "+160",
+   "mlHomeOpen": "+161",
+   "provider": "Draft Kings",
+   "spread": "OKC -5.5",
+   "spreadOpen": "OKC -4.5",
+   "total": "222.5",
+   "totalOpen": "222.5"
   },
-  "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "pick": "OKC ML (-191)",
+  "reason": "OKC are about 63% no-vig at -191; ESPN's model has 66%. For: last-5 scoring margin: IND -7.2, OKC +2.4.",
   "risks": [],
+  "side": "away",
   "slug": "nba",
   "sport": "nba",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-24T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Gainbridge Fieldhouse, Indianapolis"
  },
  "nba-401910039": {
-  "_lastPick": "TOR ML (-537)",
+  "_lastPick": "TOR ML (-494)",
   "away": {
    "abbr": "MIL",
    "form": "LLLLL",
@@ -1541,8 +1655,8 @@
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 25.4,
-   "home": 74.6
+   "away": 25.3,
+   "home": 74.7
   },
   "home": {
    "abbr": "TOR",
@@ -1596,25 +1710,25 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401910039",
   "market": "Moneyline",
   "news": [
-   "Cooper Flagg saves Mavericks with late free throws to hold off Jazz comeback in 116-114 win",
-   "Denver Nuggets vs. Chicago Bulls: Game Highlights",
-   "Dallas Mavericks vs. Utah Jazz: Game Highlights"
+   "Brandin Podziemski scores 18 points as Warriors hold of Celtics 88-87 to snap five-game losing skid",
+   "Sport on ESPN in Africa this festive - What to watch on DStv, Disney+ in December",
+   "Draymond Green swats back at online critics, fuels Warriors' win over Celtics"
   ],
   "odds": {
-   "mlAway": "+406",
+   "mlAway": "+378",
    "mlAwayOpen": "+368",
-   "mlHome": "-537",
+   "mlHome": "-494",
    "mlHomeOpen": "-479",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "TOR -10.5",
    "spreadOpen": "TOR -11.5",
-   "total": "223.5",
+   "total": "222.5",
    "totalOpen": "224.5"
   },
-  "pick": "TOR ML (-537)",
-  "reason": "TOR are about 81% no-vig at -537; ESPN's model has 75%.",
+  "pick": "TOR ML (-494)",
+  "reason": "TOR are about 80% no-vig at -494; ESPN's model has 75%.",
   "risks": [
-   "ESPN model only 75% vs market 81%"
+   "ESPN model only 75% vs market 80%"
   ],
   "side": "home",
   "slug": "nba",
@@ -1622,11 +1736,11 @@
   "stars": 2,
   "start": "2026-11-24T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Scotiabank Arena, Toronto"
  },
  "nba-401910040": {
-  "_lastPick": "MIN ML (-670)",
+  "_lastPick": "MIN ML (-620)",
   "away": {
    "abbr": "BKN",
    "form": "LLLLW",
@@ -1643,8 +1757,8 @@
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 14.3,
-   "home": 85.7
+   "away": 14.1,
+   "home": 85.9
   },
   "home": {
    "abbr": "MIN",
@@ -1696,23 +1810,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401910040",
   "market": "Moneyline",
   "news": [
-   "Cooper Flagg saves Mavericks with late free throws to hold off Jazz comeback in 116-114 win",
-   "Denver Nuggets vs. Chicago Bulls: Game Highlights",
-   "Dallas Mavericks vs. Utah Jazz: Game Highlights"
+   "Brandin Podziemski scores 18 points as Warriors hold of Celtics 88-87 to snap five-game losing skid",
+   "Sport on ESPN in Africa this festive - What to watch on DStv, Disney+ in December",
+   "Draymond Green swats back at online critics, fuels Warriors' win over Celtics"
   ],
   "odds": {
-   "mlAway": "+487",
+   "mlAway": "+455",
    "mlAwayOpen": "+431",
-   "mlHome": "-670",
+   "mlHome": "-620",
    "mlHomeOpen": "-578",
-   "provider": "DraftKings",
-   "spread": "MIN -12.5",
+   "provider": "Draft Kings",
+   "spread": "MIN -11.5",
    "spreadOpen": "MIN -11.5",
    "total": "224.5",
    "totalOpen": "225.5"
   },
-  "pick": "MIN ML (-670)",
-  "reason": "MIN are about 84% no-vig at -670; ESPN's model has 86%. For: last-5 scoring margin: MIN +0.8, BKN -5.8. Capped at 2★: NBA capped by lessons.",
+  "pick": "MIN ML (-620)",
+  "reason": "MIN are about 83% no-vig at -620; ESPN's model has 86%. For: last-5 scoring margin: MIN +0.8, BKN -5.8. Capped at 2★: NBA capped by lessons.",
   "risks": [],
   "side": "home",
   "slug": "nba",
@@ -1720,11 +1834,11 @@
   "stars": 2,
   "start": "2026-11-24T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Target Center, Minneapolis"
  },
  "nba-401910041": {
-  "_lastPick": "CLE ML (-378)",
+  "_lastPick": "CLE ML (-336)",
   "away": {
    "abbr": "CLE",
    "form": "WLWWL",
@@ -1738,13 +1852,13 @@
    "short": "Cavaliers",
    "teamId": "5"
   },
-  "confidence": 73,
+  "confidence": 72,
   "espnId": "401910041",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 76.7,
-   "home": 23.3
+   "away": 76.4,
+   "home": 23.6
   },
   "home": {
    "abbr": "CHI",
@@ -1812,23 +1926,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401910041",
   "market": "Moneyline",
   "news": [
-   "Cooper Flagg saves Mavericks with late free throws to hold off Jazz comeback in 116-114 win",
-   "Denver Nuggets vs. Chicago Bulls: Game Highlights",
-   "Dallas Mavericks vs. Utah Jazz: Game Highlights"
+   "Brandin Podziemski scores 18 points as Warriors hold of Celtics 88-87 to snap five-game losing skid",
+   "Sport on ESPN in Africa this festive - What to watch on DStv, Disney+ in December",
+   "Draymond Green swats back at online critics, fuels Warriors' win over Celtics"
   ],
   "odds": {
-   "mlAway": "-378",
+   "mlAway": "-336",
    "mlAwayOpen": "-356",
-   "mlHome": "+300",
+   "mlHome": "+270",
    "mlHomeOpen": "+284",
-   "provider": "DraftKings",
-   "spread": "CLE -9.5",
+   "provider": "Draft Kings",
+   "spread": "CLE -8.5",
    "spreadOpen": "CLE -9.5",
-   "total": "241.5",
+   "total": "240.5",
    "totalOpen": "241.5"
   },
-  "pick": "CLE ML (-378)",
-  "reason": "CLE are about 76% no-vig at -378; ESPN's model has 77%.",
+  "pick": "CLE ML (-336)",
+  "reason": "CLE are about 74% no-vig at -336; ESPN's model has 76%.",
   "risks": [],
   "side": "away",
   "slug": "nba",
@@ -1836,11 +1950,11 @@
   "stars": 2,
   "start": "2026-11-24T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "United Center, Chicago"
  },
  "nba-401910042": {
-  "_lastPick": "PHX ML (-150)",
+  "_lastPick": "PHX ML (-155)",
   "away": {
    "abbr": "PHX",
    "form": "WWWLW",
@@ -1855,8 +1969,8 @@
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 75.1,
-   "home": 24.9
+   "away": 74.5,
+   "home": 25.5
   },
   "home": {
    "abbr": "NO",
@@ -1910,23 +2024,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401910042",
   "market": "Moneyline",
   "news": [
-   "Cooper Flagg saves Mavericks with late free throws to hold off Jazz comeback in 116-114 win",
-   "Denver Nuggets vs. Chicago Bulls: Game Highlights",
-   "Dallas Mavericks vs. Utah Jazz: Game Highlights"
+   "Brandin Podziemski scores 18 points as Warriors hold of Celtics 88-87 to snap five-game losing skid",
+   "Sport on ESPN in Africa this festive - What to watch on DStv, Disney+ in December",
+   "Draymond Green swats back at online critics, fuels Warriors' win over Celtics"
   ],
   "odds": {
-   "mlAway": "-150",
+   "mlAway": "-155",
    "mlAwayOpen": "-149",
-   "mlHome": "+126",
+   "mlHome": "+131",
    "mlHomeOpen": "+125",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "PHX -3.5",
    "spreadOpen": "PHX -3.5",
-   "total": "234.5",
+   "total": "232.5",
    "totalOpen": "232.5"
   },
-  "pick": "PHX ML (-150)",
-  "reason": "PHX are about 58% no-vig at -150; ESPN's model has 75%. For: ESPN model 75% vs market 58%; form WWWLW vs LLLWL; last-5 scoring margin: NO -5.8, PHX +8.0.",
+  "pick": "PHX ML (-155)",
+  "reason": "PHX are about 58% no-vig at -155; ESPN's model has 74%. For: ESPN model 74% vs market 58%; form WWWLW vs LLLWL; last-5 scoring margin: NO -5.8, PHX +8.0.",
   "risks": [],
   "side": "away",
   "slug": "nba",
@@ -1934,11 +2048,11 @@
   "stars": 2,
   "start": "2026-11-24T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Smoothie King Center, New Orleans"
  },
  "nba-401910043": {
-  "_lastPick": "HOU ML (-700)",
+  "_lastPick": "HOU ML (-650)",
   "away": {
    "abbr": "LAC",
    "form": "LLLWW",
@@ -1948,13 +2062,13 @@
    "short": "Clippers",
    "teamId": "12"
   },
-  "confidence": 83,
+  "confidence": 82,
   "espnId": "401910043",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 14.5,
-   "home": 85.5
+   "away": 14.4,
+   "home": 85.6
   },
   "home": {
    "abbr": "HOU",
@@ -1989,23 +2103,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401910043",
   "market": "Moneyline",
   "news": [
-   "Cooper Flagg saves Mavericks with late free throws to hold off Jazz comeback in 116-114 win",
-   "Denver Nuggets vs. Chicago Bulls: Game Highlights",
-   "Dallas Mavericks vs. Utah Jazz: Game Highlights"
+   "Brandin Podziemski scores 18 points as Warriors hold of Celtics 88-87 to snap five-game losing skid",
+   "Sport on ESPN in Africa this festive - What to watch on DStv, Disney+ in December",
+   "Draymond Green swats back at online critics, fuels Warriors' win over Celtics"
   ],
   "odds": {
-   "mlAway": "+501",
+   "mlAway": "+470",
    "mlAwayOpen": "+448",
-   "mlHome": "-700",
+   "mlHome": "-650",
    "mlHomeOpen": "-610",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "HOU -12.5",
    "spreadOpen": "HOU -13.5",
    "total": "224.5",
    "totalOpen": "225.5"
   },
-  "pick": "HOU ML (-700)",
-  "reason": "HOU are about 84% no-vig at -700; ESPN's model has 86%. For: last-5 scoring margin: HOU +4.6, LAC -7.6. Capped at 2★: NBA capped by lessons.",
+  "pick": "HOU ML (-650)",
+  "reason": "HOU are about 83% no-vig at -650; ESPN's model has 86%. For: last-5 scoring margin: HOU +4.6, LAC -7.6. Capped at 2★: NBA capped by lessons.",
   "risks": [],
   "side": "home",
   "slug": "nba",
@@ -2013,11 +2127,11 @@
   "stars": 2,
   "start": "2026-11-24T01:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Toyota Center (Houston), Houston"
  },
  "nba-401910044": {
-  "_lastPick": "LAL ML (-890)",
+  "_lastPick": "LAL ML (-790)",
   "away": {
    "abbr": "UTAH",
    "form": "LLWWL",
@@ -2036,8 +2150,8 @@
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 18.8,
-   "home": 81.2
+   "away": 19.0,
+   "home": 81.0
   },
   "home": {
    "abbr": "LAL",
@@ -2096,37 +2210,35 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401910044",
   "market": "Moneyline",
   "news": [
-   "Cooper Flagg saves Mavericks with late free throws to hold off Jazz comeback in 116-114 win",
-   "Denver Nuggets vs. Chicago Bulls: Game Highlights",
-   "Dallas Mavericks vs. Utah Jazz: Game Highlights"
+   "Brandin Podziemski scores 18 points as Warriors hold of Celtics 88-87 to snap five-game losing skid",
+   "Sport on ESPN in Africa this festive - What to watch on DStv, Disney+ in December",
+   "Draymond Green swats back at online critics, fuels Warriors' win over Celtics"
   ],
   "odds": {
-   "mlAway": "+600",
+   "mlAway": "+554",
    "mlAwayOpen": "+501",
-   "mlHome": "-890",
+   "mlHome": "-790",
    "mlHomeOpen": "-700",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "LAL -13.5",
    "spreadOpen": "LAL -12.5",
-   "total": "230.5",
+   "total": "227.5",
    "totalOpen": "230.5"
   },
-  "pick": "LAL ML (-890)",
-  "reason": "LAL are about 86% no-vig at -890; ESPN's model has 81%.",
-  "risks": [
-   "ESPN model only 81% vs market 86%"
-  ],
+  "pick": "LAL ML (-790)",
+  "reason": "LAL are about 85% no-vig at -790; ESPN's model has 81%.",
+  "risks": [],
   "side": "home",
   "slug": "nba",
   "sport": "nba",
   "stars": 2,
   "start": "2026-11-24T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "crypto.com Arena, Los Angeles"
  },
  "nba-401910045": {
-  "_lastPick": "SA ML (-467)",
+  "_lastPick": "SA ML (-484)",
   "away": {
    "abbr": "SA",
    "form": "WWLWW",
@@ -2139,13 +2251,13 @@
    "short": "Spurs",
    "teamId": "24"
   },
-  "confidence": 83,
+  "confidence": 81,
   "espnId": "401910045",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 90.2,
-   "home": 9.8
+   "away": 85.7,
+   "home": 14.3
   },
   "home": {
    "abbr": "SAC",
@@ -2174,13 +2286,6 @@
      "pos": "F",
      "stale": false,
      "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Jayden Quaintance",
-     "pos": "F",
-     "stale": true,
-     "status": "Out"
     }
    ],
    "home": [
@@ -2204,23 +2309,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401910045",
   "market": "Moneyline",
   "news": [
-   "Cooper Flagg saves Mavericks with late free throws to hold off Jazz comeback in 116-114 win",
-   "Denver Nuggets vs. Chicago Bulls: Game Highlights",
-   "Dallas Mavericks vs. Utah Jazz: Game Highlights"
+   "Brandin Podziemski scores 18 points as Warriors hold of Celtics 88-87 to snap five-game losing skid",
+   "Sport on ESPN in Africa this festive - What to watch on DStv, Disney+ in December",
+   "Draymond Green swats back at online critics, fuels Warriors' win over Celtics"
   ],
   "odds": {
-   "mlAway": "-467",
+   "mlAway": "-484",
    "mlAwayOpen": "-448",
-   "mlHome": "+360",
+   "mlHome": "+371",
    "mlHomeOpen": "+348",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "SA -10.5",
    "spreadOpen": "SA -10.5",
-   "total": "224.5",
+   "total": "223.5",
    "totalOpen": "224.5"
   },
-  "pick": "SA ML (-467)",
-  "reason": "SA are about 79% no-vig at -467; ESPN's model has 90%. For: ESPN model 90% vs market 79%; form WWLWW vs WLLLL; last-5 scoring margin: SAC -11.4, SA +13.8. Capped at 2★: NBA capped by lessons.",
+  "pick": "SA ML (-484)",
+  "reason": "SA are about 80% no-vig at -484; ESPN's model has 86%. For: ESPN model 86% vs market 80%; form WWLWW vs WLLLL; last-5 scoring margin: SAC -11.4, SA +13.8. Capped at 2★: NBA capped by lessons.",
   "risks": [],
   "side": "away",
   "slug": "nba",
@@ -2228,183 +2333,8 @@
   "stars": 2,
   "start": "2026-11-24T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Golden 1 Center, Sacramento"
- },
- "ncaaf-401856870": {
-  "away": {
-   "abbr": "OKST",
-   "form": "LWLWL",
-   "name": "Oklahoma State Cowboys",
-   "record": "6-4",
-   "short": "Oklahoma St",
-   "teamId": "197"
-  },
-  "confidence": 55,
-  "espnId": "401856870",
-  "espnLeague": "college-football",
-  "espnSport": "football",
-  "espnWinProb": {
-   "away": 67.6,
-   "home": 32.4
-  },
-  "home": {
-   "abbr": "ASU",
-   "form": "WWLWL",
-   "name": "Arizona State Sun Devils",
-   "record": "6-4",
-   "short": "Arizona St",
-   "teamId": "9"
-  },
-  "id": "ncaaf-401856870",
-  "league": "College Football",
-  "link": "https://www.espn.com/college-football/game/_/gameId/401856870",
-  "news": [
-   "Veltkamp throws 4 more TDs in Florida Atlantic's 35-14 win over South Florida",
-   "Undefeated Tarleton State wraps up UIC championship with 31-24 win over North Alabama",
-   "Treynor Cleeland, Jordan Fisher rally UC Davis to 44-43 victory over Cal Poly to end regular season"
-  ],
-  "odds": {
-   "mlAway": "-135",
-   "mlAwayOpen": "-175",
-   "mlHome": "+114",
-   "mlHomeOpen": "+145",
-   "provider": "DraftKings",
-   "spread": "OKST -2.5",
-   "spreadOpen": "OKST -4",
-   "total": "59.5",
-   "totalOpen": "62.5"
-  },
-  "pick": "Pass",
-  "reason": "OKST about 55% no-vig at -135; no edge worth a pick.",
-  "risks": [
-   "line drifted away (-175 → -135)"
-  ],
-  "slug": "college-football",
-  "sport": "ncaaf",
-  "stars": 1,
-  "start": "2026-11-22T03:15Z",
-  "state": "pre",
-  "updatedAt": "2026-11-22T01:52:10Z",
-  "venue": "Mountain America Stadium, Tempe"
- },
- "ncaaf-401860919": {
-  "_lastPick": "ORST ML (-258)",
-  "away": {
-   "abbr": "USU",
-   "form": "LWWLW",
-   "name": "Utah State Aggies",
-   "record": "4-6",
-   "short": "Utah State",
-   "teamId": "328"
-  },
-  "confidence": 68,
-  "espnId": "401860919",
-  "espnLeague": "college-football",
-  "espnSport": "football",
-  "espnWinProb": {
-   "away": 21.8,
-   "home": 78.2
-  },
-  "home": {
-   "abbr": "ORST",
-   "form": "LLLWW",
-   "name": "Oregon State Beavers",
-   "record": "5-5",
-   "short": "Oregon St",
-   "teamId": "204"
-  },
-  "id": "ncaaf-401860919",
-  "league": "College Football",
-  "link": "https://www.espn.com/college-football/game/_/gameId/401860919",
-  "market": "Moneyline",
-  "news": [
-   "Veltkamp throws 4 more TDs in Florida Atlantic's 35-14 win over South Florida",
-   "Undefeated Tarleton State wraps up UIC championship with 31-24 win over North Alabama",
-   "Treynor Cleeland, Jordan Fisher rally UC Davis to 44-43 victory over Cal Poly to end regular season"
-  ],
-  "odds": {
-   "mlAway": "+210",
-   "mlAwayOpen": "+295",
-   "mlHome": "-258",
-   "mlHomeOpen": "-375",
-   "provider": "DraftKings",
-   "spread": "ORST -7",
-   "spreadOpen": "ORST -10",
-   "total": "51.5",
-   "totalOpen": "49.5"
-  },
-  "pick": "ORST ML (-258)",
-  "reason": "ORST are about 69% no-vig at -258; ESPN's model has 78%. For: ESPN model 78% vs market 69%.",
-  "risks": [
-   "line drifted away (-375 → -258)"
-  ],
-  "side": "home",
-  "slug": "college-football",
-  "sport": "ncaaf",
-  "stars": 3,
-  "start": "2026-11-22T03:30Z",
-  "state": "pre",
-  "updatedAt": "2026-11-22T01:52:10Z",
-  "venue": "Reser Stadium, Corvallis"
- },
- "ncaaf-401864541": {
-  "_lastPick": "NEV ML (-278)",
-  "away": {
-   "abbr": "HAW",
-   "form": "LWWLL",
-   "name": "Hawai'i Rainbow Warriors",
-   "record": "3-7",
-   "short": "Hawai'i",
-   "teamId": "62"
-  },
-  "confidence": 67,
-  "espnId": "401864541",
-  "espnLeague": "college-football",
-  "espnSport": "football",
-  "espnWinProb": {
-   "away": 31.9,
-   "home": 68.1
-  },
-  "home": {
-   "abbr": "NEV",
-   "form": "WLLWL",
-   "name": "Nevada Wolf Pack",
-   "record": "4-6",
-   "short": "Nevada",
-   "teamId": "2440"
-  },
-  "id": "ncaaf-401864541",
-  "league": "College Football",
-  "link": "https://www.espn.com/college-football/game/_/gameId/401864541",
-  "market": "Moneyline",
-  "news": [
-   "Veltkamp throws 4 more TDs in Florida Atlantic's 35-14 win over South Florida",
-   "Undefeated Tarleton State wraps up UIC championship with 31-24 win over North Alabama",
-   "Treynor Cleeland, Jordan Fisher rally UC Davis to 44-43 victory over Cal Poly to end regular season"
-  ],
-  "odds": {
-   "mlAway": "+225",
-   "mlAwayOpen": "+110",
-   "mlHome": "-278",
-   "mlHomeOpen": "-130",
-   "provider": "DraftKings",
-   "spread": "NEV -7",
-   "spreadOpen": "NEV -2.5",
-   "total": "40.5",
-   "totalOpen": "42.5"
-  },
-  "pick": "NEV ML (-278)",
-  "reason": "NEV are about 71% no-vig at -278; ESPN's model has 68%. For: line moved toward NEV (-130 → -278).",
-  "risks": [],
-  "side": "home",
-  "slug": "college-football",
-  "sport": "ncaaf",
-  "stars": 2,
-  "start": "2026-11-22T03:30Z",
-  "state": "pre",
-  "updatedAt": "2026-11-22T01:52:10Z",
-  "venue": "Mackay Stadium, Reno"
  },
  "ncaaf-401866470": {
   "_lastPick": "EMU ML (-225)",
@@ -2437,16 +2367,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401866470",
   "market": "Moneyline",
   "news": [
+   "Power Rankings: Chaos shifts top 25 in Week 12",
    "Tennessee fined by SEC after fans throw golf balls on field",
-   "Sources: Notre Dame loses safety Luke Talich to torn Achilles",
-   "What Week 12's unexpected results mean for Rivalry Week and beyond"
+   "Sources: Notre Dame loses safety Luke Talich to torn Achilles"
   ],
   "odds": {
    "mlAway": "+185",
    "mlAwayOpen": "+185",
    "mlHome": "-225",
    "mlHomeOpen": "-225",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "EMU -5.5",
    "spreadOpen": "EMU -6.5",
    "total": "45.5",
@@ -2461,7 +2391,7 @@
   "stars": 3,
   "start": "2026-11-25T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Rynearson Stadium, Ypsilanti"
  },
  "ncaaf-401866471": {
@@ -2495,16 +2425,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401866471",
   "market": "Moneyline",
   "news": [
+   "Power Rankings: Chaos shifts top 25 in Week 12",
    "Tennessee fined by SEC after fans throw golf balls on field",
-   "Sources: Notre Dame loses safety Luke Talich to torn Achilles",
-   "What Week 12's unexpected results mean for Rivalry Week and beyond"
+   "Sources: Notre Dame loses safety Luke Talich to torn Achilles"
   ],
   "odds": {
    "mlAway": "+240",
    "mlAwayOpen": "+240",
    "mlHome": "-298",
    "mlHomeOpen": "-298",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "WMU -7.5",
    "spreadOpen": "WMU -7.5",
    "total": "45.5",
@@ -2519,7 +2449,7 @@
   "stars": 2,
   "start": "2026-11-25T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Waldo Stadium, Kalamazoo"
  },
  "nfl-401873067": {
@@ -4010,7 +3940,7 @@
   "venue": "Estadio Banorte, Mexico City"
  },
  "nfl-401873078": {
-  "_lastPick": "CIN ML (-295)",
+  "_lastPick": "CIN ML (-302)",
   "away": {
    "abbr": "CIN",
    "form": "WWWWW",
@@ -4029,8 +3959,8 @@
   "espnLeague": "nfl",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 76.0,
-   "home": 23.8
+   "away": 74.5,
+   "home": 25.3
   },
   "home": {
    "abbr": "WSH",
@@ -4090,23 +4020,23 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873078",
   "market": "Moneyline",
   "news": [
-   "49ers' Colton McKivitz exits game vs. Vikings with lower leg injury",
-   "49ers' Nick Bosa booed heavily in Mexico after remarks about fans' cheering",
-   "Making sense of the Jaguars going for two, then kicking a field goal down eight"
+   "Inside the gymnastics lore of Bengals star Ja'Marr Chase",
+   "NFL Thanksgiving games: Traditions, best moments, team records, 2026 schedule",
+   "2027 NFL draft order projections for Round 1, chances for top pick, more"
   ],
   "odds": {
-   "mlAway": "-295",
+   "mlAway": "-302",
    "mlAwayOpen": "-125",
-   "mlHome": "+240",
+   "mlHome": "+246",
    "mlHomeOpen": "+105",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "CIN -6",
    "spreadOpen": "CIN -1.5",
    "total": "54.5",
    "totalOpen": "52.5"
   },
-  "pick": "CIN ML (-295)",
-  "reason": "CIN are about 72% no-vig at -295; ESPN's model has 76%. For: line moved toward CIN (-125 → -295); form WWWWW vs WLWLT.",
+  "pick": "CIN ML (-302)",
+  "reason": "CIN are about 72% no-vig at -302; ESPN's model has 74%. For: line moved toward CIN (-125 → -302); form WWWWW vs WLWLT.",
   "risks": [],
   "side": "away",
   "slug": "nfl",
@@ -4114,7 +4044,7 @@
   "stars": 3,
   "start": "2026-11-24T01:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Northwest Stadium, Landover"
  },
  "nfl-401873079": {
@@ -4137,8 +4067,8 @@
   "espnLeague": "nfl",
   "espnSport": "football",
   "espnWinProb": {
-   "away": 33.9,
-   "home": 65.8
+   "away": 32.9,
+   "home": 66.8
   },
   "home": {
    "abbr": "LAR",
@@ -4204,32 +4134,32 @@
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873079",
   "news": [
-   "49ers' Colton McKivitz exits game vs. Vikings with lower leg injury",
-   "49ers' Nick Bosa booed heavily in Mexico after remarks about fans' cheering",
-   "Making sense of the Jaguars going for two, then kicking a field goal down eight"
+   "Inside the gymnastics lore of Bengals star Ja'Marr Chase",
+   "NFL Thanksgiving games: Traditions, best moments, team records, 2026 schedule",
+   "2027 NFL draft order projections for Round 1, chances for top pick, more"
   ],
   "odds": {
-   "mlAway": "+127",
+   "mlAway": "+123",
    "mlAwayOpen": "+164",
-   "mlHome": "-150",
+   "mlHome": "-145",
    "mlHomeOpen": "-198",
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "spread": "LAR -3",
    "spreadOpen": "LAR -3.5",
    "total": "44.5",
    "totalOpen": "49.5"
   },
   "pick": "Pass",
-  "reason": "LAR about 58% no-vig at -150; no edge worth a pick.",
+  "reason": "LAR about 57% no-vig at -145; no edge worth a pick.",
   "risks": [
-   "line drifted away (-198 → -150)"
+   "line drifted away (-198 → -145)"
   ],
   "slug": "nfl",
   "sport": "nfl",
   "stars": 1,
   "start": "2026-11-26T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "SoFi Stadium, Inglewood"
  },
  "soccer-401874960": {
@@ -4394,61 +4324,6 @@
   "updatedAt": "2026-11-22T17:14:04Z",
   "venue": "New Balance Arena, Bergamo"
  },
- "soccer-401875008": {
-  "_lastPick": "Juventus ML (-260)",
-  "away": {
-   "abbr": "VEN",
-   "form": "WLLLW",
-   "name": "Venezia",
-   "record": "2-0-10",
-   "short": "Venezia",
-   "teamId": "17530"
-  },
-  "confidence": 64,
-  "espnId": "401875008",
-  "espnLeague": "ita.1",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "JUV",
-   "form": "DWWLW",
-   "name": "Juventus",
-   "record": "6-3-3",
-   "short": "Juventus",
-   "teamId": "111"
-  },
-  "id": "soccer-401875008",
-  "league": "Serie A",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401875008",
-  "market": "Moneyline",
-  "news": [
-   "Scott McTominay sinks Torino to end Napoli's three-game winless streak",
-   "Transfer rumors, news: Liverpool, Man United want Scalvini",
-   "Ruben Amorim: Christian Pulisic is the player AC Milan 'cannot replace'"
-  ],
-  "odds": {
-   "mlAway": "+600",
-   "mlAwayOpen": "+600",
-   "mlDraw": "+370",
-   "mlHome": "-260",
-   "mlHomeOpen": "-310",
-   "provider": "DraftKings",
-   "spread": "JUV -260",
-   "spreadOpen": "JUV -1.5",
-   "total": "2.5",
-   "totalOpen": "2.5"
-  },
-  "pick": "Juventus ML (-260)",
-  "reason": "Juventus are about 67% no-vig at -260.",
-  "risks": [],
-  "side": "home",
-  "slug": "ita.1",
-  "sport": "soccer",
-  "stars": 2,
-  "start": "2026-11-22T11:30Z",
-  "state": "post",
-  "updatedAt": "2026-11-22T09:16:48Z",
-  "venue": "Allianz Stadium, Torino"
- },
  "soccer-401875009": {
   "away": {
    "abbr": "FIO",
@@ -4458,7 +4333,7 @@
    "short": "Fiorentina",
    "teamId": "109"
   },
-  "confidence": 45,
+  "confidence": 46,
   "espnId": "401875009",
   "espnLeague": "ita.1",
   "espnSport": "soccer",
@@ -4474,31 +4349,31 @@
   "league": "Serie A",
   "link": "https://www.espn.com/soccer/match/_/gameId/401875009",
   "news": [
+   "Transfer rumors, news: AC Milan to land Liverpool defender Virgil van Dijk?",
    "Milan into top four as classy Pulisic solo goal caps Serie A rout",
-   "Scott McTominay sinks Torino to end Napoli's three-game winless streak",
-   "Transfer rumors, news: Liverpool, Man United want Scalvini"
+   "Scott McTominay sinks Torino to end Napoli's three-game winless streak"
   ],
   "odds": {
    "mlAway": "-110",
    "mlAwayOpen": "-110",
    "mlDraw": "+265",
-   "mlHome": "+250",
+   "mlHome": "+255",
    "mlHomeOpen": "+225",
    "provider": "DraftKings",
    "spread": "FIO -110",
    "spreadOpen": "FIO -0.5",
-   "total": "3.5",
+   "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Fiorentina about 48% no-vig at -110; no edge worth a pick.",
+  "reason": "Fiorentina about 49% no-vig at -110; no edge worth a pick.",
   "risks": [],
   "slug": "ita.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-23T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "U-Power Stadium, Monza"
  },
  "soccer-401875047": {
@@ -4931,7 +4806,7 @@
    "short": "Everton",
    "teamId": "368"
   },
-  "confidence": 35,
+  "confidence": 36,
   "espnId": "401879237",
   "espnLeague": "eng.1",
   "espnSport": "soccer",
@@ -4947,26 +4822,26 @@
   "league": "Premier League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401879237",
   "news": [
-   "Rough start for Pochettino at Manchester United",
-   "Bruno Fernandes disputes Leny Yoro red card in Liverpool's rout of Man United",
-   "Pochettino: Isak wasn't in control of the ball for Yoro red card"
+   "Dominik Szoboszlai labels Liverpool teammate Florian Wirtz 'world-class'",
+   "Transfer rumors, news: AC Milan to land Liverpool defender Virgil van Dijk?",
+   "Luca Williams-Barnett fell for under-21s joke before stellar Tottenham debut"
   ],
   "odds": {
-   "mlAway": "+205",
+   "mlAway": "+215",
    "mlAwayOpen": "+280",
    "mlDraw": "+250",
-   "mlHome": "+130",
+   "mlHome": "+125",
    "mlHomeOpen": "-115",
    "provider": "DraftKings",
-   "spread": "BRE +130",
+   "spread": "BRE +125",
    "spreadOpen": "BRE -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Brentford about 41% no-vig at +130; no edge worth a pick.",
+  "reason": "Brentford about 42% no-vig at +125; no edge worth a pick.",
   "risks": [
-   "line drifted away (-115 → +130)",
+   "line drifted away (-115 → +125)",
    "opponent in better form (WWWLL)"
   ],
   "slug": "eng.1",
@@ -4974,7 +4849,7 @@
   "stars": 1,
   "start": "2026-11-23T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Gtech Community Stadium, Brentford"
  },
  "soccer-401882800": {
@@ -5106,9 +4981,9 @@
   "league": "LaLiga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401882802",
   "news": [
-   "USMNT's Cardoso scores as Atlético ease to win over Getafe",
-   "Getafe vs. Atletico Madrid - Game Highlights",
-   "Pedri leads Barça's comeback win over Villarreal"
+   "Lamine Yamal out of Barcelona's Champions League game at Sabah",
+   "Barcelona stun Villarreal after second-half comeback",
+   "USMNT's Cardoso scores as Atlético ease to win over Getafe"
   ],
   "odds": {
    "mlAway": "+225",
@@ -5130,7 +5005,7 @@
   "stars": 1,
   "start": "2026-11-23T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Estadi Ciutat de València, Manises"
  },
  "soccer-401882803": {
@@ -5331,7 +5206,7 @@
   "venue": "WWK Arena, Augsburg"
  },
  "soccer-401915291": {
-  "_lastPick": "Atlético ML (-900)",
+  "_lastPick": "Atlético ML (-1000)",
   "away": {
    "abbr": "VFK",
    "form": "LWWLW",
@@ -5340,7 +5215,7 @@
    "short": "Viking FK",
    "teamId": "510"
   },
-  "confidence": 83,
+  "confidence": 84,
   "espnId": "401915291",
   "espnLeague": "uefa.champions",
   "espnSport": "soccer",
@@ -5357,24 +5232,24 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401915291",
   "market": "Moneyline",
   "news": [
+   "Lamine Yamal out of Barcelona's Champions League game at Sabah",
    "DiBernardo joins Rapinoe, Pulisic in pantheon of great Olimpicos",
-   "Champions League upstarts Como suffer Moise Kean injury blow",
-   "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win"
+   "Champions League upstarts Como suffer Moise Kean injury blow"
   ],
   "odds": {
-   "mlAway": "+1900",
+   "mlAway": "+2000",
    "mlAwayOpen": "+1800",
    "mlDraw": "+1000",
-   "mlHome": "-900",
+   "mlHome": "-1000",
    "mlHomeOpen": "-1000",
    "provider": "DraftKings",
-   "spread": "ATM -900",
+   "spread": "ATM -1000",
    "spreadOpen": "ATM -2.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
-  "pick": "Atlético ML (-900)",
-  "reason": "Atlético are about 86% no-vig at -900.",
+  "pick": "Atlético ML (-1000)",
+  "reason": "Atlético are about 87% no-vig at -1000.",
   "risks": [],
   "side": "home",
   "slug": "uefa.champions",
@@ -5382,7 +5257,7 @@
   "stars": 2,
   "start": "2026-11-25T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Riyadh Air Metropolitano, Madrid"
  },
  "soccer-401915292": {
@@ -5410,9 +5285,9 @@
   "league": "Champions League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401915292",
   "news": [
+   "Lamine Yamal out of Barcelona's Champions League game at Sabah",
    "DiBernardo joins Rapinoe, Pulisic in pantheon of great Olimpicos",
-   "Champions League upstarts Como suffer Moise Kean injury blow",
-   "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win"
+   "Champions League upstarts Como suffer Moise Kean injury blow"
   ],
   "odds": {
    "mlAway": "-155",
@@ -5434,7 +5309,7 @@
   "stars": 1,
   "start": "2026-11-25T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Jan Breydel Stadium, Brugge"
  },
  "soccer-401915293": {
@@ -5462,9 +5337,9 @@
   "league": "Champions League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401915293",
   "news": [
+   "Lamine Yamal out of Barcelona's Champions League game at Sabah",
    "DiBernardo joins Rapinoe, Pulisic in pantheon of great Olimpicos",
-   "Champions League upstarts Como suffer Moise Kean injury blow",
-   "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win"
+   "Champions League upstarts Como suffer Moise Kean injury blow"
   ],
   "odds": {
    "mlAway": "+115",
@@ -5486,7 +5361,7 @@
   "stars": 1,
   "start": "2026-11-25T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Fortuna Arena, Prague"
  },
  "soccer-401915294": {
@@ -5498,7 +5373,7 @@
    "short": "FC Porto",
    "teamId": "437"
   },
-  "confidence": 37,
+  "confidence": 38,
   "espnId": "401915294",
   "espnLeague": "uefa.champions",
   "espnSport": "soccer",
@@ -5514,31 +5389,31 @@
   "league": "Champions League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401915294",
   "news": [
+   "Lamine Yamal out of Barcelona's Champions League game at Sabah",
    "DiBernardo joins Rapinoe, Pulisic in pantheon of great Olimpicos",
-   "Champions League upstarts Como suffer Moise Kean injury blow",
-   "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win"
+   "Champions League upstarts Como suffer Moise Kean injury blow"
   ],
   "odds": {
-   "mlAway": "+145",
+   "mlAway": "+140",
    "mlAwayOpen": "+125",
    "mlDraw": "+270",
-   "mlHome": "+175",
+   "mlHome": "+180",
    "mlHomeOpen": "+180",
    "provider": "DraftKings",
-   "spread": "FCP +145",
+   "spread": "FCP +140",
    "spreadOpen": "FCP -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "FC Porto about 39% no-vig at +145; no edge worth a pick.",
+  "reason": "FC Porto about 40% no-vig at +140; no edge worth a pick.",
   "risks": [],
   "slug": "uefa.champions",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-24T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "De Kuip, Rotterdam"
  },
  "soccer-401915295": {
@@ -5568,9 +5443,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401915295",
   "market": "Moneyline",
   "news": [
+   "Lamine Yamal out of Barcelona's Champions League game at Sabah",
    "DiBernardo joins Rapinoe, Pulisic in pantheon of great Olimpicos",
-   "Champions League upstarts Como suffer Moise Kean injury blow",
-   "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win"
+   "Champions League upstarts Como suffer Moise Kean injury blow"
   ],
   "odds": {
    "mlAway": "+700",
@@ -5593,7 +5468,7 @@
   "stars": 2,
   "start": "2026-11-24T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Emirates Stadium, London"
  },
  "soccer-401915296": {
@@ -5623,9 +5498,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401915296",
   "market": "Moneyline",
   "news": [
+   "Lamine Yamal out of Barcelona's Champions League game at Sabah",
    "DiBernardo joins Rapinoe, Pulisic in pantheon of great Olimpicos",
-   "Champions League upstarts Como suffer Moise Kean injury blow",
-   "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win"
+   "Champions League upstarts Como suffer Moise Kean injury blow"
   ],
   "odds": {
    "mlAway": "+850",
@@ -5648,7 +5523,7 @@
   "stars": 2,
   "start": "2026-11-24T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Giuseppe Sinigaglia, Como"
  },
  "soccer-401915297": {
@@ -5678,9 +5553,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401915297",
   "market": "Moneyline",
   "news": [
+   "Lamine Yamal out of Barcelona's Champions League game at Sabah",
    "DiBernardo joins Rapinoe, Pulisic in pantheon of great Olimpicos",
-   "Champions League upstarts Como suffer Moise Kean injury blow",
-   "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win"
+   "Champions League upstarts Como suffer Moise Kean injury blow"
   ],
   "odds": {
    "mlAway": "-425",
@@ -5703,11 +5578,11 @@
   "stars": 2,
   "start": "2026-11-24T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Národny Futbalovy Stadión, Bratislava"
  },
  "soccer-401915298": {
-  "_lastPick": "Real Madrid ML (-525)",
+  "_lastPick": "Real Madrid ML (-550)",
   "away": {
    "abbr": "PSV",
    "form": "WWLWD",
@@ -5716,7 +5591,7 @@
    "short": "PSV",
    "teamId": "148"
   },
-  "confidence": 77,
+  "confidence": 78,
   "espnId": "401915298",
   "espnLeague": "uefa.champions",
   "espnSport": "soccer",
@@ -5733,24 +5608,24 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401915298",
   "market": "Moneyline",
   "news": [
+   "Lamine Yamal out of Barcelona's Champions League game at Sabah",
    "DiBernardo joins Rapinoe, Pulisic in pantheon of great Olimpicos",
-   "Champions League upstarts Como suffer Moise Kean injury blow",
-   "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win"
+   "Champions League upstarts Como suffer Moise Kean injury blow"
   ],
   "odds": {
-   "mlAway": "+1000",
+   "mlAway": "+1100",
    "mlAwayOpen": "+850",
    "mlDraw": "+750",
-   "mlHome": "-525",
+   "mlHome": "-550",
    "mlHomeOpen": "-500",
    "provider": "DraftKings",
-   "spread": "RMA -525",
+   "spread": "RMA -550",
    "spreadOpen": "RMA -2.5",
    "total": "4.5",
    "totalOpen": "4.5"
   },
-  "pick": "Real Madrid ML (-525)",
-  "reason": "Real Madrid are about 80% no-vig at -525.",
+  "pick": "Real Madrid ML (-550)",
+  "reason": "Real Madrid are about 81% no-vig at -550.",
   "risks": [],
   "side": "home",
   "slug": "uefa.champions",
@@ -5758,7 +5633,7 @@
   "stars": 2,
   "start": "2026-11-24T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Santiago Bernabéu, Madrid"
  },
  "soccer-401915299": {
@@ -5788,9 +5663,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401915299",
   "market": "Moneyline",
   "news": [
+   "Lamine Yamal out of Barcelona's Champions League game at Sabah",
    "DiBernardo joins Rapinoe, Pulisic in pantheon of great Olimpicos",
-   "Champions League upstarts Como suffer Moise Kean injury blow",
-   "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win"
+   "Champions League upstarts Como suffer Moise Kean injury blow"
   ],
   "odds": {
    "mlAway": "+500",
@@ -5813,7 +5688,7 @@
   "stars": 2,
   "start": "2026-11-24T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Red Bull Arena, Leipzig"
  },
  "soccer-401915300": {
@@ -5825,7 +5700,7 @@
    "short": "Aston Villa",
    "teamId": "362"
   },
-  "confidence": 36,
+  "confidence": 39,
   "espnId": "401915300",
   "espnLeague": "uefa.champions",
   "espnSport": "soccer",
@@ -5841,24 +5716,24 @@
   "league": "Champions League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401915300",
   "news": [
+   "Lamine Yamal out of Barcelona's Champions League game at Sabah",
    "DiBernardo joins Rapinoe, Pulisic in pantheon of great Olimpicos",
-   "Champions League upstarts Como suffer Moise Kean injury blow",
-   "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win"
+   "Champions League upstarts Como suffer Moise Kean injury blow"
   ],
   "odds": {
-   "mlAway": "+135",
+   "mlAway": "+125",
    "mlAwayOpen": "+145",
    "mlDraw": "+300",
-   "mlHome": "+165",
+   "mlHome": "+185",
    "mlHomeOpen": "+155",
    "provider": "DraftKings",
-   "spread": "AVL +135",
+   "spread": "AVL +125",
    "spreadOpen": "AVL -0.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
   "pick": "Pass",
-  "reason": "Aston Villa about 40% no-vig at +135; no edge worth a pick.",
+  "reason": "Aston Villa about 43% no-vig at +125; no edge worth a pick.",
   "risks": [
    "opponent in better form (WWWWW)"
   ],
@@ -5867,7 +5742,7 @@
   "stars": 1,
   "start": "2026-11-24T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "RAMS Park, Istanbul"
  },
  "soccer-401915373": {
@@ -5895,9 +5770,9 @@
   "league": "Champions League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401915373",
   "news": [
+   "Lamine Yamal out of Barcelona's Champions League game at Sabah",
    "DiBernardo joins Rapinoe, Pulisic in pantheon of great Olimpicos",
-   "Champions League upstarts Como suffer Moise Kean injury blow",
-   "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win"
+   "Champions League upstarts Como suffer Moise Kean injury blow"
   ],
   "odds": {
    "mlAway": "+165",
@@ -5919,7 +5794,7 @@
   "stars": 1,
   "start": "2026-11-25T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Estádio José Alvalade, Lisbon"
  },
  "soccer-401915374": {
@@ -5949,9 +5824,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401915374",
   "market": "Moneyline",
   "news": [
+   "Lamine Yamal out of Barcelona's Champions League game at Sabah",
    "DiBernardo joins Rapinoe, Pulisic in pantheon of great Olimpicos",
-   "Champions League upstarts Como suffer Moise Kean injury blow",
-   "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win"
+   "Champions League upstarts Como suffer Moise Kean injury blow"
   ],
   "odds": {
    "mlAway": "+600",
@@ -5974,7 +5849,7 @@
   "stars": 2,
   "start": "2026-11-25T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Parc des Princes, Paris"
  },
  "soccer-401915375": {
@@ -6002,9 +5877,9 @@
   "league": "Champions League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401915375",
   "news": [
+   "Lamine Yamal out of Barcelona's Champions League game at Sabah",
    "DiBernardo joins Rapinoe, Pulisic in pantheon of great Olimpicos",
-   "Champions League upstarts Como suffer Moise Kean injury blow",
-   "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win"
+   "Champions League upstarts Como suffer Moise Kean injury blow"
   ],
   "odds": {
    "mlAway": "+160",
@@ -6026,7 +5901,7 @@
   "stars": 1,
   "start": "2026-11-25T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Stamford Bridge, London"
  },
  "soccer-401915376": {
@@ -6056,9 +5931,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401915376",
   "market": "Moneyline",
   "news": [
+   "Lamine Yamal out of Barcelona's Champions League game at Sabah",
    "DiBernardo joins Rapinoe, Pulisic in pantheon of great Olimpicos",
-   "Champions League upstarts Como suffer Moise Kean injury blow",
-   "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win"
+   "Champions League upstarts Como suffer Moise Kean injury blow"
   ],
   "odds": {
    "mlAway": "+500",
@@ -6081,7 +5956,7 @@
   "stars": 2,
   "start": "2026-11-25T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "San Siro, Milano"
  },
  "soccer-401915377": {
@@ -6109,9 +5984,9 @@
   "league": "Champions League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401915377",
   "news": [
+   "Lamine Yamal out of Barcelona's Champions League game at Sabah",
    "DiBernardo joins Rapinoe, Pulisic in pantheon of great Olimpicos",
-   "Champions League upstarts Como suffer Moise Kean injury blow",
-   "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win"
+   "Champions League upstarts Como suffer Moise Kean injury blow"
   ],
   "odds": {
    "mlAway": "-165",
@@ -6122,7 +5997,7 @@
    "provider": "DraftKings",
    "spread": "MUN -165",
    "spreadOpen": "MUN -1.5",
-   "total": "3.5",
+   "total": "2.5",
    "totalOpen": "3.5"
   },
   "pick": "Pass",
@@ -6135,11 +6010,11 @@
   "stars": 1,
   "start": "2026-11-25T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille"
  },
  "soccer-401915378": {
-  "_lastPick": "Barcelona ML (-1400)",
+  "_lastPick": "Barcelona ML (-1100)",
   "away": {
    "abbr": "BAR",
    "form": "WWWWL",
@@ -6148,7 +6023,7 @@
    "short": "Barcelona",
    "teamId": "83"
   },
-  "confidence": 86,
+  "confidence": 84,
   "espnId": "401915378",
   "espnLeague": "uefa.champions",
   "espnSport": "soccer",
@@ -6165,24 +6040,24 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401915378",
   "market": "Moneyline",
   "news": [
+   "Lamine Yamal out of Barcelona's Champions League game at Sabah",
    "DiBernardo joins Rapinoe, Pulisic in pantheon of great Olimpicos",
-   "Champions League upstarts Como suffer Moise Kean injury blow",
-   "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win"
+   "Champions League upstarts Como suffer Moise Kean injury blow"
   ],
   "odds": {
-   "mlAway": "-1400",
+   "mlAway": "-1100",
    "mlAwayOpen": "-1400",
-   "mlDraw": "+1400",
-   "mlHome": "+2000",
+   "mlDraw": "+1200",
+   "mlHome": "+1700",
    "mlHomeOpen": "+1600",
    "provider": "DraftKings",
-   "spread": "BAR -1400",
+   "spread": "BAR -1100",
    "spreadOpen": "BAR -3.5",
-   "total": "5.5",
+   "total": "4.5",
    "totalOpen": "4.5"
   },
-  "pick": "Barcelona ML (-1400)",
-  "reason": "Barcelona are about 89% no-vig at -1400.",
+  "pick": "Barcelona ML (-1100)",
+  "reason": "Barcelona are about 87% no-vig at -1100.",
   "risks": [],
   "side": "away",
   "slug": "uefa.champions",
@@ -6190,7 +6065,7 @@
   "stars": 2,
   "start": "2026-11-25T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Baku Olympic Stadium, Baku"
  },
  "soccer-401915379": {
@@ -6220,9 +6095,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401915379",
   "market": "Moneyline",
   "news": [
+   "Lamine Yamal out of Barcelona's Champions League game at Sabah",
    "DiBernardo joins Rapinoe, Pulisic in pantheon of great Olimpicos",
-   "Champions League upstarts Como suffer Moise Kean injury blow",
-   "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win"
+   "Champions League upstarts Como suffer Moise Kean injury blow"
   ],
   "odds": {
    "mlAway": "+900",
@@ -6245,7 +6120,7 @@
   "stars": 2,
   "start": "2026-11-24T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Etihad Stadium, Manchester"
  },
  "soccer-401915380": {
@@ -6275,9 +6150,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401915380",
   "market": "Moneyline",
   "news": [
+   "Lamine Yamal out of Barcelona's Champions League game at Sabah",
    "DiBernardo joins Rapinoe, Pulisic in pantheon of great Olimpicos",
-   "Champions League upstarts Como suffer Moise Kean injury blow",
-   "Harry Kane sets sights on Champions League, England trophy after Ballon d'Or win"
+   "Champions League upstarts Como suffer Moise Kean injury blow"
   ],
   "odds": {
    "mlAway": "+400",
@@ -6300,7 +6175,7 @@
   "stars": 2,
   "start": "2026-11-24T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Aspmyra Stadion, Bodø/Glimt"
  },
  "soccer-401933728": {
@@ -6311,7 +6186,7 @@
    "short": "LAFC",
    "teamId": "18966"
   },
-  "confidence": 37,
+  "confidence": 36,
   "espnId": "401933728",
   "espnLeague": "usa.1",
   "espnSport": "soccer",
@@ -6326,31 +6201,31 @@
   "league": "MLS",
   "link": "https://www.espn.com/soccer/match/_/gameId/401933728",
   "news": [
+   "Vancouver Whitecaps vs. Real Salt Lake - Game Highlights",
    "VAR gives Charlotte late penalty in series-opening win over Chicago",
-   "Cincinnati stuns Shield-winners Nashville to start best-of-3 series",
-   "Reports: Dynamo's Herrera charged with DWI, club aware of 'incident'"
+   "Cincinnati stuns Shield-winners Nashville to start best-of-3 series"
   ],
   "odds": {
    "mlAway": "+170",
    "mlAwayOpen": "+150",
-   "mlDraw": "+250",
-   "mlHome": "+130",
+   "mlDraw": "+245",
+   "mlHome": "+135",
    "mlHomeOpen": "+140",
    "provider": "DraftKings",
-   "spread": "STL +130",
+   "spread": "STL +135",
    "spreadOpen": "STL -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "St. Louis about 40% no-vig at +130; no edge worth a pick.",
+  "reason": "St. Louis about 39% no-vig at +135; no edge worth a pick.",
   "risks": [],
   "slug": "usa.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-24T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "Energizer Park, St. Louis, Missouri"
  },
  "soccer-401933729": {
@@ -6532,9 +6407,9 @@
   "league": "MLS",
   "link": "https://www.espn.com/soccer/match/_/gameId/401933738",
   "news": [
+   "Vancouver Whitecaps vs. Real Salt Lake - Game Highlights",
    "VAR gives Charlotte late penalty in series-opening win over Chicago",
-   "Cincinnati stuns Shield-winners Nashville to start best-of-3 series",
-   "Reports: Dynamo's Herrera charged with DWI, club aware of 'incident'"
+   "Cincinnati stuns Shield-winners Nashville to start best-of-3 series"
   ],
   "odds": {
    "mlAway": "+215",
@@ -6556,7 +6431,7 @@
   "stars": 1,
   "start": "2026-11-25T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-23T03:01:43Z",
+  "updatedAt": "2026-11-23T12:18:51Z",
   "venue": "PayPal Park, San Jose, California"
  }
 }

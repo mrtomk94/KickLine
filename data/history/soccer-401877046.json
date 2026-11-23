@@ -1,0 +1,318 @@
+{
+ "id": "soccer-401877046",
+ "sport": "soccer",
+ "league": "Liga MX",
+ "start": "2026-11-23T01:10Z",
+ "home": {
+  "name": "Querétaro",
+  "abbr": "QRO",
+  "teamId": "222",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Necaxa",
+  "abbr": "NCX",
+  "teamId": "229",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "+180",
+  "mlAwayOpen": "+250",
+  "mlDraw": "+255",
+  "mlHome": "+140",
+  "mlHomeOpen": "-125",
+  "provider": "DraftKings",
+  "spread": "QRO +140",
+  "spreadOpen": "QRO -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "QRO",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "5",
+    "saves": "2",
+    "possessionPct": "41.5",
+    "totalShots": "8",
+    "shotsOnTarget": "4",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "318",
+    "totalPasses": "388",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "15",
+    "crossPct": "0.2",
+    "totalLongBalls": "35",
+    "accurateLongBalls": "19",
+    "longballPct": "0.5",
+    "blockedShots": "2",
+    "effectiveTackles": "8",
+    "totalTackles": "15",
+    "tacklePct": "0.5",
+    "interceptions": "6",
+    "effectiveClearance": "33",
+    "totalClearance": "33"
+   }
+  },
+  "away": {
+   "abbr": "NCX",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "6",
+    "saves": "2",
+    "possessionPct": "58.5",
+    "totalShots": "13",
+    "shotsOnTarget": "4",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "473",
+    "totalPasses": "544",
+    "passPct": "0.9",
+    "accurateCrosses": "4",
+    "totalCrosses": "19",
+    "crossPct": "0.2",
+    "totalLongBalls": "57",
+    "accurateLongBalls": "30",
+    "longballPct": "0.5",
+    "blockedShots": "7",
+    "effectiveTackles": "5",
+    "totalTackles": "6",
+    "tacklePct": "0.8",
+    "interceptions": "8",
+    "effectiveClearance": "24",
+    "totalClearance": "24"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "13'",
+   "team": null,
+   "text": "Goal! Querétaro 1, Necaxa 0. Alí Ávila (Querétaro) header from very close range to the bottom left corner. Assisted by Mateo Coronel with a cross."
+  },
+  {
+   "type": "Goal",
+   "clock": "15'",
+   "team": null,
+   "text": "Goal! Querétaro 1, Necaxa 1. Emilio Rodríguez (Necaxa) left footed shot from outside the box to the bottom left corner. Assisted by Diego Ochoa."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "27'",
+   "team": null,
+   "text": "Delay in match because of an injury Danny Leyva (Necaxa)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "27'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "27'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "27'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "33'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "36'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+4'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Querétaro. Santiago Homenchenko replaces Jesús Arellano."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Querétaro 1, Necaxa 1."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Querétaro. Álex Alcalá replaces Iker Benito."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "69'",
+   "team": null,
+   "text": "Delay in match because of an injury Danny Leyva (Necaxa)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "69'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "70'",
+   "team": null,
+   "text": "Delay in match (Querétaro). VAR checking."
+  },
+  {
+   "type": "End Delay",
+   "clock": "70'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "71'",
+   "team": null,
+   "text": "Lucas Abascia (Querétaro) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Delay",
+   "clock": "71'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "71'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Necaxa. Juan Valencia replaces Owen González."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Necaxa. Matías Espíndola replaces Lorenzo Faravelli."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Querétaro. Bayron Duarte replaces Denilson Muñoz."
+  },
+  {
+   "type": "Goal",
+   "clock": "75'",
+   "team": null,
+   "text": "Goal! Querétaro 2, Necaxa 1. Enzo Giménez (Querétaro) right footed shot from outside the box to the centre of the goal. Assisted by Carlo García."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Necaxa. Javier Ruiz replaces Diego Ochoa."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Querétaro. Carlos Villanueva replaces Alí Ávila."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Querétaro. Edison Gruezo replaces Paulo Victor."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "83'",
+   "team": null,
+   "text": "Diego Reyes (Querétaro) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "84'",
+   "team": null,
+   "text": "Delay in match because of an injury Javier Orantes (Necaxa)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "84'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "85'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "85'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "89'",
+   "team": null,
+   "text": "Goal! Querétaro 2, Necaxa 2. Julián Carranza (Necaxa) converts the penalty with a right footed shot to the bottom right corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'",
+   "team": null,
+   "text": "Substitution, Necaxa. Leonardo Arvizo replaces Danny Leyva."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'",
+   "team": null,
+   "text": "Substitution, Necaxa. Omar Domínguez replaces Mauro Zaleta."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+6'",
+   "team": null,
+   "text": "Second Half ends, Querétaro 2, Necaxa 2."
+  }
+ ],
+ "scoringPlays": []
+}

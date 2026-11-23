@@ -1,0 +1,240 @@
+{
+ "id": "soccer-401933729",
+ "sport": "soccer",
+ "league": "MLS",
+ "start": "2026-11-23T01:30Z",
+ "home": {
+  "name": "Vancouver Whitecaps",
+  "abbr": "VAN",
+  "teamId": "9727",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Real Salt Lake",
+  "abbr": "RSL",
+  "teamId": "4771",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+500",
+  "mlAwayOpen": "+500",
+  "mlDraw": "+380",
+  "mlHome": "-240",
+  "mlHomeOpen": "-220",
+  "provider": "DraftKings",
+  "spread": "VAN -240",
+  "spreadOpen": "VAN -1.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "VAN",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "7",
+    "saves": "5",
+    "possessionPct": "63.1",
+    "totalShots": "22",
+    "shotsOnTarget": "7",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "540",
+    "totalPasses": "601",
+    "passPct": "0.9",
+    "accurateCrosses": "7",
+    "totalCrosses": "23",
+    "crossPct": "0.3",
+    "totalLongBalls": "35",
+    "accurateLongBalls": "17",
+    "longballPct": "0.5",
+    "blockedShots": "5",
+    "effectiveTackles": "13",
+    "totalTackles": "19",
+    "tacklePct": "0.7",
+    "interceptions": "11",
+    "effectiveClearance": "17",
+    "totalClearance": "17"
+   }
+  },
+  "away": {
+   "abbr": "RSL",
+   "stats": {
+    "foulsCommitted": "8",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "8",
+    "saves": "5",
+    "possessionPct": "36.9",
+    "totalShots": "14",
+    "shotsOnTarget": "5",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "271",
+    "totalPasses": "347",
+    "passPct": "0.8",
+    "accurateCrosses": "2",
+    "totalCrosses": "12",
+    "crossPct": "0.2",
+    "totalLongBalls": "53",
+    "accurateLongBalls": "25",
+    "longballPct": "0.5",
+    "blockedShots": "5",
+    "effectiveTackles": "6",
+    "totalTackles": "8",
+    "tacklePct": "0.8",
+    "interceptions": "11",
+    "effectiveClearance": "22",
+    "totalClearance": "22"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "44'",
+   "team": null,
+   "text": "Goal! Vancouver Whitecaps FC 1, Real Salt Lake 0. Édier Ocampo (Vancouver Whitecaps FC) right footed shot from a difficult angle on the right to the top right corner. Assisted by Emmanuel Sabbi."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "Andrés Cubas (Vancouver Whitecaps FC) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Vancouver Whitecaps FC 1, Real Salt Lake 0."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "46'",
+   "team": null,
+   "text": "Juan Manuel Sanabria (Real Salt Lake) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "55'",
+   "team": null,
+   "text": "Goal! Vancouver Whitecaps FC 2, Real Salt Lake 0. Bruno Caicedo (Vancouver Whitecaps FC) header from the centre of the box to the centre of the goal. Assisted by Édier Ocampo with a cross."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "59'",
+   "team": null,
+   "text": "Oliver Larraz (Vancouver Whitecaps FC) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "60'",
+   "team": null,
+   "text": "Substitution, Vancouver Whitecaps FC. Thomas Müller replaces Emmanuel Sabbi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, Vancouver Whitecaps FC. Rayan Elloumi replaces Brian White."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, Vancouver Whitecaps FC. Jeevan Badwal replaces Oliver Larraz."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, Real Salt Lake. Samuel Junqua replaces Juan Manuel Sanabria."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Real Salt Lake. Aiden Hezarkhani replaces Morgan Guilavogui."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Real Salt Lake. Luc De Fougerolles replaces Justen Glad."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Real Salt Lake. Stijn Spierings replaces Noel Caliskan."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Vancouver Whitecaps FC. Aleksa Cvetkovic replaces Andrés Cubas."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "82'",
+   "team": null,
+   "text": "Delay in match (Vancouver Whitecaps FC)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "82'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "82'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "82'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "84'",
+   "team": null,
+   "text": "DeAndre Yedlin (Real Salt Lake) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Real Salt Lake. Lineker Rodrigues replaces Sergi Solans."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+7'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

@@ -1,0 +1,138 @@
+{
+ "id": "nfl-401873077",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-23T01:20Z",
+ "home": {
+  "name": "San Francisco 49ers",
+  "abbr": "SF",
+  "teamId": "25",
+  "score": 35.0
+ },
+ "away": {
+  "name": "Minnesota Vikings",
+  "abbr": "MIN",
+  "teamId": "16",
+  "score": 10.0
+ },
+ "odds": {
+  "mlAway": "+159",
+  "mlAwayOpen": "+170",
+  "mlHome": "-190",
+  "mlHomeOpen": "-205",
+  "provider": "Draft Kings",
+  "spread": "SF -3.5",
+  "spreadOpen": "SF -3.5",
+  "total": "46.5",
+  "totalOpen": "46.5"
+ },
+ "espnWinProb": {
+  "away": 36.7,
+  "home": 63.0
+ },
+ "teams": {
+  "away": {
+   "abbr": "MIN",
+   "stats": {
+    "firstDowns": "19",
+    "firstDownsPassing": "13",
+    "firstDownsRushing": "5",
+    "firstDownsPenalty": "1",
+    "thirdDownEff": "7-14",
+    "fourthDownEff": "1-3",
+    "totalOffensivePlays": "65",
+    "totalYards": "324",
+    "yardsPerPlay": "5.0",
+    "totalDrives": "10",
+    "netPassingYards": "255",
+    "completionAttempts": "29/43",
+    "yardsPerPass": "5.8",
+    "interceptions": "1",
+    "sacksYardsLost": "1-9",
+    "rushingYards": "69",
+    "rushingAttempts": "21",
+    "yardsPerRushAttempt": "3.3",
+    "redZoneAttempts": "1-3",
+    "totalPenaltiesYards": "3-23",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "32:23"
+   }
+  },
+  "home": {
+   "abbr": "SF",
+   "stats": {
+    "firstDowns": "20",
+    "firstDownsPassing": "15",
+    "firstDownsRushing": "4",
+    "firstDownsPenalty": "1",
+    "thirdDownEff": "4-9",
+    "fourthDownEff": "0-0",
+    "totalOffensivePlays": "53",
+    "totalYards": "343",
+    "yardsPerPlay": "6.5",
+    "totalDrives": "9",
+    "netPassingYards": "253",
+    "completionAttempts": "22/27",
+    "yardsPerPass": "9.0",
+    "interceptions": "0",
+    "sacksYardsLost": "1-7",
+    "rushingYards": "90",
+    "rushingAttempts": "25",
+    "yardsPerRushAttempt": "3.6",
+    "redZoneAttempts": "4-4",
+    "totalPenaltiesYards": "6-49",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "1",
+    "possessionTime": "27:37"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "11:16",
+   "team": "SF",
+   "text": "George Kittle 17 Yd pass from Brock Purdy (Eddy Pineiro Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "1:13",
+   "team": "MIN",
+   "text": "Aaron Jones Sr. 11 Yd Rush (Will Reichard Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "14:13",
+   "team": "SF",
+   "text": "George Kittle 8 Yd pass from Brock Purdy (Eddy Pineiro Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "6:48",
+   "team": "MIN",
+   "text": "Will Reichard 48 Yd Field Goal "
+  },
+  {
+   "period": 2,
+   "clock": "2:09",
+   "team": "SF",
+   "text": "Mike Evans 4 Yd pass from Brock Purdy (Eddy Pineiro Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:59",
+   "team": "SF",
+   "text": "Ji'Ayir Brown 18 Yd Interception Return (Eddy Pineiro Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "13:26",
+   "team": "SF",
+   "text": "Christian McCaffrey 6 Yd Rush (Eddy Pineiro Kick)"
+  }
+ ]
+}
