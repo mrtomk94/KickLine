@@ -1,0 +1,318 @@
+{
+ "id": "soccer-401879237",
+ "sport": "soccer",
+ "league": "Premier League",
+ "start": "2026-11-23T20:00Z",
+ "home": {
+  "name": "Brentford",
+  "abbr": "BRE",
+  "teamId": "337",
+  "score": 4.0
+ },
+ "away": {
+  "name": "Everton",
+  "abbr": "EVE",
+  "teamId": "368",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+215",
+  "mlAwayOpen": "+280",
+  "mlDraw": "+250",
+  "mlHome": "+125",
+  "mlHomeOpen": "-115",
+  "provider": "DraftKings",
+  "spread": "BRE +125",
+  "spreadOpen": "BRE -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "BRE",
+   "stats": {
+    "foulsCommitted": "8",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "6",
+    "saves": "2",
+    "possessionPct": "72.1",
+    "totalShots": "21",
+    "shotsOnTarget": "7",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "681",
+    "totalPasses": "758",
+    "passPct": "0.9",
+    "accurateCrosses": "8",
+    "totalCrosses": "31",
+    "crossPct": "0.3",
+    "totalLongBalls": "42",
+    "accurateLongBalls": "22",
+    "longballPct": "0.5",
+    "blockedShots": "10",
+    "effectiveTackles": "3",
+    "totalTackles": "3",
+    "tacklePct": "1.0",
+    "interceptions": "8",
+    "effectiveClearance": "13",
+    "totalClearance": "13"
+   }
+  },
+  "away": {
+   "abbr": "EVE",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "1",
+    "redCards": "1",
+    "offsides": "0",
+    "wonCorners": "3",
+    "saves": "3",
+    "possessionPct": "27.9",
+    "totalShots": "4",
+    "shotsOnTarget": "2",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "205",
+    "totalPasses": "296",
+    "passPct": "0.7",
+    "accurateCrosses": "1",
+    "totalCrosses": "8",
+    "crossPct": "0.1",
+    "totalLongBalls": "60",
+    "accurateLongBalls": "21",
+    "longballPct": "0.4",
+    "blockedShots": "1",
+    "effectiveTackles": "6",
+    "totalTackles": "17",
+    "tacklePct": "0.4",
+    "interceptions": "15",
+    "effectiveClearance": "49",
+    "totalClearance": "49"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "2'",
+   "team": null,
+   "text": "Delay in match because of an injury Vitalii Mykolenko (Everton)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "4'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "4'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "23'",
+   "team": null,
+   "text": "Goal! Brentford 1, Everton 0. Keane Lewis-Potter (Brentford) right footed shot from the centre of the box to the centre of the goal. Assisted by Jaidon Anthony."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "24'",
+   "team": null,
+   "text": "Vitalii Mykolenko (Everton) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "25'",
+   "team": null,
+   "text": "Goal! Brentford 2, Everton 0. Keane Lewis-Potter (Brentford) left footed shot from the centre of the box to the bottom left corner following a set piece situation."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "32'",
+   "team": null,
+   "text": "Delay in match because of an injury Yehor Yarmoliuk (Brentford)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "32'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "34'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "34'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "39'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Red Card",
+   "clock": "40'",
+   "team": null,
+   "text": "James Tarkowski (Everton) is shown the red card."
+  },
+  {
+   "type": "End Delay",
+   "clock": "40'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "42'",
+   "team": null,
+   "text": "Delay in match because of an injury Kristoffer Ajer (Brentford)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "42'",
+   "team": null,
+   "text": "Delay in match because of an injury Thierno Barry (Everton)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "42'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "42'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+12'",
+   "team": null,
+   "text": "First Half ends, Brentford 2, Everton 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Everton. Jack Grealish replaces Tyrique George."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Brentford. Kevin Schade replaces Dango Ouattara."
+  },
+  {
+   "type": "Goal",
+   "clock": "67'",
+   "team": null,
+   "text": "Goal! Brentford 3, Everton 0. Vitaly Janelt (Brentford) left footed shot from outside the box to the top right corner. Assisted by Jaidon Anthony."
+  },
+  {
+   "type": "Substitution",
+   "clock": "69'",
+   "team": null,
+   "text": "Substitution, Everton. Hayden Hackney replaces Kiernan Dewsbury-Hall."
+  },
+  {
+   "type": "Substitution",
+   "clock": "69'",
+   "team": null,
+   "text": "Substitution, Everton. Brennan Johnson replaces Thierno Barry."
+  },
+  {
+   "type": "Substitution",
+   "clock": "69'",
+   "team": null,
+   "text": "Substitution, Everton. Michael Keane replaces Merlin Röhl."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Brentford. El Hadji Malick Diouf replaces Keane Lewis-Potter."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Brentford. Mathias Jensen replaces Yehor Yarmoliuk."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Brentford. Fábio Carvalho replaces Jaidon Anthony."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Brentford. Mamadou Sangaré replaces Vitaly Janelt."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Everton. Christian Nørgaard replaces James Garner."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'",
+   "team": null,
+   "text": "Goal! Brentford 4, Everton 0. Fábio Carvalho (Brentford) right footed shot from very close range to the centre of the goal. Assisted by Mathias Jensen with a cross following a corner.Goal confirmed fo"
+  },
+  {
+   "type": "Start Delay",
+   "clock": "90'+1'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'+2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

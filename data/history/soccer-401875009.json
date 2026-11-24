@@ -1,0 +1,228 @@
+{
+ "id": "soccer-401875009",
+ "sport": "soccer",
+ "league": "Serie A",
+ "start": "2026-11-23T19:45Z",
+ "home": {
+  "name": "Monza",
+  "abbr": "MON",
+  "teamId": "4007",
+  "score": 3.0
+ },
+ "away": {
+  "name": "Fiorentina",
+  "abbr": "FIO",
+  "teamId": "109",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "-110",
+  "mlAwayOpen": "-110",
+  "mlDraw": "+265",
+  "mlHome": "+255",
+  "mlHomeOpen": "+225",
+  "provider": "DraftKings",
+  "spread": "FIO -110",
+  "spreadOpen": "FIO -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "MON",
+   "stats": {
+    "foulsCommitted": "8",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "3",
+    "saves": "8",
+    "possessionPct": "44.6",
+    "totalShots": "13",
+    "shotsOnTarget": "5",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "333",
+    "totalPasses": "398",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "19",
+    "crossPct": "0.2",
+    "totalLongBalls": "57",
+    "accurateLongBalls": "24",
+    "longballPct": "0.4",
+    "blockedShots": "4",
+    "effectiveTackles": "12",
+    "totalTackles": "23",
+    "tacklePct": "0.5",
+    "interceptions": "14",
+    "effectiveClearance": "41",
+    "totalClearance": "41"
+   }
+  },
+  "away": {
+   "abbr": "FIO",
+   "stats": {
+    "foulsCommitted": "13",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "7",
+    "saves": "2",
+    "possessionPct": "55.4",
+    "totalShots": "17",
+    "shotsOnTarget": "8",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "437",
+    "totalPasses": "498",
+    "passPct": "0.9",
+    "accurateCrosses": "7",
+    "totalCrosses": "31",
+    "crossPct": "0.2",
+    "totalLongBalls": "27",
+    "accurateLongBalls": "13",
+    "longballPct": "0.5",
+    "blockedShots": "3",
+    "effectiveTackles": "13",
+    "totalTackles": "21",
+    "tacklePct": "0.6",
+    "interceptions": "10",
+    "effectiveClearance": "23",
+    "totalClearance": "23"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "27'",
+   "team": null,
+   "text": "Delay in match because of an injury Viery (Fiorentina)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "27'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "27'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "27'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "27'",
+   "team": null,
+   "text": "Substitution, Fiorentina. Luca Ranieri replaces Viery because of an injury."
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "45'",
+   "team": null,
+   "text": "Goal! Monza 1, Fiorentina 0. Gustavo Varela (Monza) converts the penalty with a right footed shot to the bottom right corner."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Fiorentina. Alieu Njie replaces Pote."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "51'",
+   "team": null,
+   "text": "Goal! Monza 2, Fiorentina 0. Gustavo Varela (Monza) left footed shot from the centre of the box to the bottom right corner. Assisted by Matteo Pessina with a cross following a fast break."
+  },
+  {
+   "type": "Goal - Volley",
+   "clock": "59'",
+   "team": null,
+   "text": "Goal! Monza 3, Fiorentina 0. Jay Robinson (Monza) right footed shot from the centre of the box to the top left corner following a corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Fiorentina. Valde replaces Wilfried Gnonto."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Fiorentina. Beto replaces Franco Mastantuono."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Monza. Dany Mota replaces Jay Robinson."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Monza. Manga Foe Ondoa replaces Ebenezer Akinsanmiro."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Monza. Jan Ziólkowski replaces Eddy Kouadio."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "80'",
+   "team": null,
+   "text": "Radu Dragusin (Fiorentina) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Monza. Idrissa Touré replaces Matteo Pessina."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Monza. Lorenzo Lucchesi replaces Samuele Birindelli."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+3'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

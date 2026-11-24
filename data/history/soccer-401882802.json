@@ -1,0 +1,282 @@
+{
+ "id": "soccer-401882802",
+ "sport": "soccer",
+ "league": "LaLiga",
+ "start": "2026-11-23T20:00Z",
+ "home": {
+  "name": "Levante",
+  "abbr": "LEV",
+  "teamId": "1538",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Elche",
+  "abbr": "ELC",
+  "teamId": "3751",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+225",
+  "mlAwayOpen": "+200",
+  "mlDraw": "+255",
+  "mlHome": "+120",
+  "mlHomeOpen": "+115",
+  "provider": "DraftKings",
+  "spread": "LEV +120",
+  "spreadOpen": "LEV -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "LEV",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "4",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "5",
+    "saves": "1",
+    "possessionPct": "50.7",
+    "totalShots": "18",
+    "shotsOnTarget": "2",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "384",
+    "totalPasses": "446",
+    "passPct": "0.9",
+    "accurateCrosses": "4",
+    "totalCrosses": "29",
+    "crossPct": "0.1",
+    "totalLongBalls": "50",
+    "accurateLongBalls": "30",
+    "longballPct": "0.6",
+    "blockedShots": "9",
+    "effectiveTackles": "16",
+    "totalTackles": "23",
+    "tacklePct": "0.7",
+    "interceptions": "14",
+    "effectiveClearance": "11",
+    "totalClearance": "11"
+   }
+  },
+  "away": {
+   "abbr": "ELC",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "1",
+    "saves": "1",
+    "possessionPct": "49.3",
+    "totalShots": "4",
+    "shotsOnTarget": "2",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "392",
+    "totalPasses": "458",
+    "passPct": "0.9",
+    "accurateCrosses": "1",
+    "totalCrosses": "9",
+    "crossPct": "0.1",
+    "totalLongBalls": "62",
+    "accurateLongBalls": "28",
+    "longballPct": "0.5",
+    "blockedShots": "0",
+    "effectiveTackles": "13",
+    "totalTackles": "19",
+    "tacklePct": "0.7",
+    "interceptions": "4",
+    "effectiveClearance": "33",
+    "totalClearance": "33"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "20'",
+   "team": null,
+   "text": "Delay in match because of an injury Jeremy Toljan (Levante)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "20'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "22'",
+   "team": null,
+   "text": "Substitution, Levante. Nacho Pérez replaces Jeremy Toljan because of an injury."
+  },
+  {
+   "type": "End Delay",
+   "clock": "22'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "22'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "40'",
+   "team": null,
+   "text": "Aïssa Mandi (Levante) is shown the yellow card."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "45'+2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "45'+2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Elche. Thomas Lemar replaces Abiel Osorio."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Levante 0, Elche 0."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "53'",
+   "team": null,
+   "text": "Thiago Fernández (Levante) is shown the yellow card."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "54'",
+   "team": null,
+   "text": "Delay in match because of an injury Manu Sánchez (Levante)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "54'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "56'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "56'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "56'",
+   "team": null,
+   "text": "Substitution, Levante. Marc Santos replaces Manu Sánchez because of an injury."
+  },
+  {
+   "type": "Goal",
+   "clock": "62'",
+   "team": null,
+   "text": "Goal! Levante 0, Elche 1. Roy Revivo (Elche) right footed shot from a difficult angle on the left to the bottom right corner. Assisted by Germán Valera."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Elche. Martim Neto replaces Gonzalo Villar."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "71'",
+   "team": null,
+   "text": "Oriol Rey (Levante) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Levante. Petar Ratkov replaces Iván Romero."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Levante. Karl Etta Eyong replaces Oriol Rey."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Elche. Tete Morente replaces Lucas Cepeda."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Elche. Matia Barzic replaces Roy Revivo."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "84'",
+   "team": null,
+   "text": "Federico Redondo (Elche) is shown the yellow card."
+  },
+  {
+   "type": "Goal - Volley",
+   "clock": "88'",
+   "team": null,
+   "text": "Goal! Levante 1, Elche 1. Dani Requena (Levante) right footed shot from the centre of the box to the bottom right corner. Assisted by Jon Ander Olasagasti with a headed pass."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'",
+   "team": null,
+   "text": "Substitution, Elche. Grady Diangana replaces Thomas Lemar."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Dani Requena (Levante) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}
