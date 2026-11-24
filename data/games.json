@@ -5,16 +5,16 @@
    "form": "LLWWL",
    "injuries": [
     "Ebuka Okorie (G) – Out, Oblique",
-    "Jalen Duren (C) – Out, Hamstring",
     "Taurean Prince (F) – Out, Knee",
-    "Duncan Robinson (F) – Out, Quadriceps"
+    "Duncan Robinson (F) – Out, Quadriceps",
+    "Jalen Duren (C) – Out, Hamstring"
    ],
    "name": "Detroit Pistons",
    "record": "10-6",
    "short": "Pistons",
    "teamId": "8"
   },
-  "confidence": 52,
+  "confidence": 51,
   "espnId": "401909314",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -46,13 +46,6 @@
      "status": "Out"
     },
     {
-     "detail": "Hamstring",
-     "player": "Jalen Duren",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    },
-    {
      "detail": "Knee",
      "player": "Taurean Prince",
      "pos": "F",
@@ -63,6 +56,13 @@
      "detail": "Quadriceps",
      "player": "Duncan Robinson",
      "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "Jalen Duren",
+     "pos": "C",
      "stale": false,
      "status": "Out"
     }
@@ -101,30 +101,30 @@
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909314",
   "news": [
-   "Castle helps Spurs stay unbeaten on road with 123-107 win over Kings minus Wemby, Fox and Harper",
-   "Utah Jazz vs. Los Angeles Lakers: Game Highlights",
-   "Luka Doncic scores 28, Lakers avenge loss to Jazz last week with 109-94 victory in rematch"
+   "Fantasy notebook: Karabell on Paul George, Tyler Herro, De'Aaron Fox, more",
+   "Fantasy basketball adds and NBA bets: Hot streaks for Paul Reed, Jamal Murray",
+   "Sources: Wolves' Donte DiVincenzo eyes New Year's for season debut"
   ],
   "odds": {
-   "mlAway": "-135",
+   "mlAway": "-130",
    "mlAwayOpen": "-125",
-   "mlHome": "+114",
+   "mlHome": "+110",
    "mlHomeOpen": "+106",
    "provider": "DraftKings",
    "spread": "DET -2.5",
    "spreadOpen": "DET -1.5",
-   "total": "213.5",
+   "total": "212.5",
    "totalOpen": "214.5"
   },
   "pick": "Pass",
-  "reason": "DET about 55% no-vig at -135; no edge worth a pick.",
+  "reason": "DET about 54% no-vig at -130; no edge worth a pick.",
   "risks": [],
   "slug": "nba",
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-25T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Kia Center, Orlando"
  },
  "nba-401909315": {
@@ -205,9 +205,9 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909315",
   "market": "Moneyline",
   "news": [
-   "Castle helps Spurs stay unbeaten on road with 123-107 win over Kings minus Wemby, Fox and Harper",
-   "Utah Jazz vs. Los Angeles Lakers: Game Highlights",
-   "Luka Doncic scores 28, Lakers avenge loss to Jazz last week with 109-94 victory in rematch"
+   "Fantasy notebook: Karabell on Paul George, Tyler Herro, De'Aaron Fox, more",
+   "Fantasy basketball adds and NBA bets: Hot streaks for Paul Reed, Jamal Murray",
+   "Sources: Wolves' Donte DiVincenzo eyes New Year's for season debut"
   ],
   "odds": {
    "mlAway": "-453",
@@ -215,9 +215,9 @@
    "mlHome": "+351",
    "mlHomeOpen": "+164",
    "provider": "DraftKings",
-   "spread": "BOS -10.5",
+   "spread": "BOS -11.5",
    "spreadOpen": "BOS -5.5",
-   "total": "217.5",
+   "total": "218.5",
    "totalOpen": "230.5"
   },
   "pick": "BOS ML (-453)",
@@ -231,11 +231,11 @@
   "stars": 2,
   "start": "2026-11-25T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Capital One Arena, Washington"
  },
  "nba-401909316": {
-  "_lastPick": "DEN ML (-324)",
+  "_lastPick": "DEN ML (-310)",
   "away": {
    "abbr": "DAL",
    "form": "WWWLL",
@@ -250,7 +250,7 @@
    "short": "Mavericks",
    "teamId": "6"
   },
-  "confidence": 69,
+  "confidence": 68,
   "espnId": "401909316",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -305,23 +305,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909316",
   "market": "Moneyline",
   "news": [
-   "Castle helps Spurs stay unbeaten on road with 123-107 win over Kings minus Wemby, Fox and Harper",
-   "Utah Jazz vs. Los Angeles Lakers: Game Highlights",
-   "Luka Doncic scores 28, Lakers avenge loss to Jazz last week with 109-94 victory in rematch"
+   "Fantasy notebook: Karabell on Paul George, Tyler Herro, De'Aaron Fox, more",
+   "Fantasy basketball adds and NBA bets: Hot streaks for Paul Reed, Jamal Murray",
+   "Sources: Wolves' Donte DiVincenzo eyes New Year's for season debut"
   ],
   "odds": {
-   "mlAway": "+261",
+   "mlAway": "+251",
    "mlAwayOpen": "+275",
-   "mlHome": "-324",
+   "mlHome": "-310",
    "mlHomeOpen": "-345",
    "provider": "DraftKings",
    "spread": "DEN -8.5",
    "spreadOpen": "DEN -8.5",
-   "total": "232.5",
+   "total": "234.5",
    "totalOpen": "236.5"
   },
-  "pick": "DEN ML (-324)",
-  "reason": "DEN are about 73% no-vig at -324; ESPN's model has 70%.",
+  "pick": "DEN ML (-310)",
+  "reason": "DEN are about 73% no-vig at -310; ESPN's model has 70%.",
   "risks": [],
   "side": "home",
   "slug": "nba",
@@ -329,42 +329,78 @@
   "stars": 2,
   "start": "2026-11-25T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Ball Arena, Denver"
  },
  "nba-401909317": {
   "away": {
    "abbr": "MIA",
+   "form": "WWWWW",
+   "injuries": [],
    "name": "Miami Heat",
    "record": "10-6",
    "short": "Heat",
    "teamId": "14"
   },
+  "confidence": 57,
   "espnId": "401909317",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 32.7,
+   "home": 67.3
+  },
   "home": {
    "abbr": "PHI",
+   "form": "LWWWW",
+   "injuries": [],
    "name": "Philadelphia 76ers",
    "record": "14-4",
    "short": "76ers",
    "teamId": "20"
   },
   "id": "nba-401909317",
+  "injuriesRaw": {
+   "away": [],
+   "home": [
+    {
+     "detail": "Achilles",
+     "player": "Ariel Hukporti",
+     "pos": "C",
+     "stale": true,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909317",
+  "news": [
+   "Fantasy notebook: Karabell on Paul George, Tyler Herro, De'Aaron Fox, more",
+   "Fantasy basketball adds and NBA bets: Hot streaks for Paul Reed, Jamal Murray",
+   "Sources: Wolves' Donte DiVincenzo eyes New Year's for season debut"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+124",
+   "mlAwayOpen": "+136",
+   "mlHome": "-148",
+   "mlHomeOpen": "-162",
+   "provider": "DraftKings",
+   "spread": "PHI -2.5",
+   "spreadOpen": "PHI -3.5",
+   "total": "239.5",
+   "totalOpen": "238.5"
   },
   "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
-  "risks": [],
+  "reason": "PHI about 57% no-vig at -148; no edge worth a pick.",
+  "risks": [
+   "history stats favor the opponent"
+  ],
   "slug": "nba",
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-25T22:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Xfinity Mobile Arena, Philadelphia"
  },
  "nba-401909318": {
@@ -399,77 +435,215 @@
   "stars": 1,
   "start": "2026-11-26T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Spectrum Center, Charlotte"
  },
  "nba-401909319": {
+  "_lastPick": "NY ML (-224)",
   "away": {
    "abbr": "CLE",
+   "form": "LWLWW",
+   "injuries": [
+    "Nae'Qwan Tomlin (F) – Out, Back",
+    "Evan Mobley (C) – Out, Toe"
+   ],
    "name": "Cleveland Cavaliers",
    "record": "9-9",
    "short": "Cavaliers",
    "teamId": "5"
   },
+  "confidence": 63,
   "espnId": "401909319",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 34.1,
+   "home": 65.9
+  },
   "home": {
    "abbr": "NY",
+   "form": "WWWWW",
+   "injuries": [
+    "Jordan Clarkson (G) – Out, Foot"
+   ],
    "name": "New York Knicks",
    "record": "11-6",
    "short": "Knicks",
    "teamId": "18"
   },
   "id": "nba-401909319",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Back",
+     "player": "Nae'Qwan Tomlin",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Toe",
+     "player": "Evan Mobley",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Foot",
+     "player": "Jordan Clarkson",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909319",
+  "market": "Moneyline",
+  "news": [
+   "Fantasy notebook: Karabell on Paul George, Tyler Herro, De'Aaron Fox, more",
+   "Fantasy basketball adds and NBA bets: Hot streaks for Paul Reed, Jamal Murray",
+   "Sources: Wolves' Donte DiVincenzo eyes New Year's for season debut"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+186",
+   "mlAwayOpen": "+186",
+   "mlHome": "-224",
+   "mlHomeOpen": "-224",
+   "provider": "DraftKings",
+   "spread": "NY -5.5",
+   "spreadOpen": "NY -5.5",
+   "total": "220.5",
+   "totalOpen": "220.5"
   },
-  "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "pick": "NY ML (-224)",
+  "reason": "NY are about 66% no-vig at -224; ESPN's model has 66%.",
   "risks": [],
+  "side": "home",
   "slug": "nba",
   "sport": "nba",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-26T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Madison Square Garden, New York"
  },
  "nba-401909320": {
   "away": {
    "abbr": "MIN",
+   "form": "WWLWW",
+   "injuries": [
+    "Donte DiVincenzo (G) – Out, Achilles",
+    "Jaylen Clark (G) – Out, Hamstring"
+   ],
    "name": "Minnesota Timberwolves",
    "record": "13-5",
    "short": "Timberwolves",
    "teamId": "16"
   },
+  "confidence": 48,
   "espnId": "401909320",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 44.3,
+   "home": 55.7
+  },
   "home": {
    "abbr": "OKC",
+   "form": "LLWLW",
+   "injuries": [
+    "Nikola Topic (G) – Out, Hip",
+    "Jalen Williams (G) – Out, Leg",
+    "Alex Caruso (G) – Out, Hip"
+   ],
    "name": "Oklahoma City Thunder",
    "record": "10-8",
    "short": "Thunder",
    "teamId": "25"
   },
   "id": "nba-401909320",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Achilles",
+     "player": "Donte DiVincenzo",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "Jaylen Clark",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Anthony Edwards",
+     "pos": "G",
+     "stale": true,
+     "status": "Out"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Hip",
+     "player": "Nikola Topic",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Leg",
+     "player": "Jalen Williams",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hip",
+     "player": "Alex Caruso",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909320",
+  "news": [
+   "Fantasy notebook: Karabell on Paul George, Tyler Herro, De'Aaron Fox, more",
+   "Fantasy basketball adds and NBA bets: Hot streaks for Paul Reed, Jamal Murray",
+   "Sources: Wolves' Donte DiVincenzo eyes New Year's for season debut"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+114",
+   "mlAwayOpen": "+275",
+   "mlHome": "-135",
+   "mlHomeOpen": "-345",
+   "provider": "DraftKings",
+   "spread": "OKC -1.5",
+   "spreadOpen": "MIN -9.5",
+   "total": "224.5",
+   "totalOpen": "232.5"
   },
   "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
-  "risks": [],
+  "reason": "OKC about 55% no-vig at -135; no edge worth a pick.",
+  "risks": [
+   "line drifted away (-345 → -135)",
+   "opponent in better form (WWLWW)",
+   "history stats favor the opponent"
+  ],
   "slug": "nba",
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-26T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Paycom Center, Oklahoma City"
  },
  "nba-401909321": {
@@ -504,7 +678,7 @@
   "stars": 1,
   "start": "2026-11-26T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "FedExForum, Memphis"
  },
  "nba-401909322": {
@@ -539,42 +713,79 @@
   "stars": 1,
   "start": "2026-11-26T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Fiserv Forum, Milwaukee"
  },
  "nba-401909323": {
+  "_lastPick": "HOU ML (-406)",
   "away": {
    "abbr": "PHX",
+   "form": "WWWWL",
+   "injuries": [],
    "name": "Phoenix Suns",
    "record": "9-7",
    "short": "Suns",
    "teamId": "21"
   },
+  "confidence": 73,
   "espnId": "401909323",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 25.9,
+   "home": 74.2
+  },
   "home": {
    "abbr": "HOU",
+   "form": "WLWLW",
+   "injuries": [],
    "name": "Houston Rockets",
    "record": "13-5",
    "short": "Rockets",
    "teamId": "10"
   },
   "id": "nba-401909323",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Shoulder",
+     "player": "Mark Williams",
+     "pos": "C",
+     "stale": true,
+     "status": "Out"
+    }
+   ],
+   "home": []
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909323",
+  "market": "Moneyline",
+  "news": [
+   "Fantasy notebook: Karabell on Paul George, Tyler Herro, De'Aaron Fox, more",
+   "Fantasy basketball adds and NBA bets: Hot streaks for Paul Reed, Jamal Murray",
+   "Sources: Wolves' Donte DiVincenzo eyes New Year's for season debut"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+319",
+   "mlAwayOpen": "+294",
+   "mlHome": "-406",
+   "mlHomeOpen": "-369",
+   "provider": "DraftKings",
+   "spread": "HOU -9.5",
+   "spreadOpen": "HOU -10.5",
+   "total": "224.5",
+   "totalOpen": "223.5"
   },
-  "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "pick": "HOU ML (-406)",
+  "reason": "HOU are about 77% no-vig at -406; ESPN's model has 74%.",
   "risks": [],
+  "side": "home",
   "slug": "nba",
   "sport": "nba",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-26T01:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Toyota Center (Houston), Houston"
  },
  "nba-401909324": {
@@ -609,7 +820,7 @@
   "stars": 1,
   "start": "2026-11-26T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Chase Center, San Francisco"
  },
  "nba-401909325": {
@@ -644,7 +855,7 @@
   "stars": 1,
   "start": "2026-11-26T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Moda Center, Portland"
  },
  "nba-401910036": {
@@ -1726,6 +1937,64 @@
   "updatedAt": "2026-11-24T00:04:06Z",
   "venue": "Golden 1 Center, Sacramento"
  },
+ "ncaaf-401856762": {
+  "_lastPick": "MISS ML (-1050)",
+  "away": {
+   "abbr": "MSST",
+   "form": "WLLLL",
+   "name": "Mississippi State Bulldogs",
+   "record": "5-6",
+   "short": "Mississippi St",
+   "teamId": "344"
+  },
+  "confidence": 85,
+  "espnId": "401856762",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 12.4,
+   "home": 87.5
+  },
+  "home": {
+   "abbr": "MISS",
+   "form": "WLLWL",
+   "name": "#25 Ole Miss",
+   "record": "7-4",
+   "short": "Ole Miss",
+   "teamId": "145"
+  },
+  "id": "ncaaf-401856762",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401856762",
+  "market": "Moneyline",
+  "news": [
+   "Memphis' Charles Huff says he's not candidate for Maryland head coaching job",
+   "NCAA sanctions Liberty over tampering with two players before entering portal",
+   "Five-star OT Lincoln Fa'alafi commits to Notre Dame, to join 2028 class"
+  ],
+  "odds": {
+   "mlAway": "+675",
+   "mlAwayOpen": "+490",
+   "mlHome": "-1050",
+   "mlHomeOpen": "-675",
+   "provider": "DraftKings",
+   "spread": "MISS -18.5",
+   "spreadOpen": "MISS -14.5",
+   "total": "56.5",
+   "totalOpen": "57.5"
+  },
+  "pick": "MISS ML (-1050)",
+  "reason": "MISS are about 88% no-vig at -1050; ESPN's model has 88%. For: line moved toward MISS (-675 → -1050).",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 3,
+  "start": "2026-11-27T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-24T20:23:02Z",
+  "venue": "Vaught-Hemingway Stadium, Oxford"
+ },
  "ncaaf-401856879": {
   "_lastPick": "TTU ML (-650)",
   "away": {
@@ -1757,9 +2026,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856879",
   "market": "Moneyline",
   "news": [
-   "SEC to consider termination of LSU's membership at Dec. 3 meeting",
-   "Key strategies Alabama, Auburn must remember ahead of Iron Bowl",
-   "Georgia defensive coordinator Glenn Schumann agrees to coach Florida State"
+   "Memphis' Charles Huff says he's not candidate for Maryland head coaching job",
+   "NCAA sanctions Liberty over tampering with two players before entering portal",
+   "Five-star OT Lincoln Fa'alafi commits to Notre Dame, to join 2028 class"
   ],
   "odds": {
    "mlAway": "+470",
@@ -1781,8 +2050,123 @@
   "stars": 2,
   "start": "2026-11-27T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Galaxy Stadium, Lubbock"
+ },
+ "ncaaf-401858536": {
+  "_lastPick": "IOWA ML (-205)",
+  "away": {
+   "abbr": "NEB",
+   "form": "WWLLL",
+   "name": "Nebraska Cornhuskers",
+   "record": "7-4",
+   "short": "Nebraska",
+   "teamId": "158"
+  },
+  "confidence": 59,
+  "espnId": "401858536",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 41.4,
+   "home": 58.6
+  },
+  "home": {
+   "abbr": "IOWA",
+   "form": "WWWWL",
+   "name": "#15 Iowa",
+   "record": "9-2",
+   "short": "Iowa",
+   "teamId": "2294"
+  },
+  "id": "ncaaf-401858536",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858536",
+  "market": "Moneyline",
+  "news": [
+   "Memphis' Charles Huff says he's not candidate for Maryland head coaching job",
+   "NCAA sanctions Liberty over tampering with two players before entering portal",
+   "Five-star OT Lincoln Fa'alafi commits to Notre Dame, to join 2028 class"
+  ],
+  "odds": {
+   "mlAway": "+170",
+   "mlAwayOpen": "+190",
+   "mlHome": "-205",
+   "mlHomeOpen": "-230",
+   "provider": "DraftKings",
+   "spread": "IOWA -4.5",
+   "spreadOpen": "IOWA -6.5",
+   "total": "40.5",
+   "totalOpen": "38.5"
+  },
+  "pick": "IOWA ML (-205)",
+  "reason": "IOWA are about 64% no-vig at -205; ESPN's model has 59%.",
+  "risks": [
+   "ESPN model only 59% vs market 64%"
+  ],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-27T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-24T20:23:02Z",
+  "venue": "Kinnick Stadium, Iowa City"
+ },
+ "ncaaf-401862840": {
+  "away": {
+   "abbr": "TLSA",
+   "form": "WWWLW",
+   "name": "Tulsa Golden Hurricane",
+   "record": "7-4",
+   "short": "Tulsa",
+   "teamId": "202"
+  },
+  "confidence": 47,
+  "espnId": "401862840",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 50.9,
+   "home": 49.1
+  },
+  "home": {
+   "abbr": "UTSA",
+   "form": "WWLWW",
+   "name": "UTSA Roadrunners",
+   "record": "9-2",
+   "short": "UTSA",
+   "teamId": "2636"
+  },
+  "id": "ncaaf-401862840",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401862840",
+  "news": [
+   "Memphis' Charles Huff says he's not candidate for Maryland head coaching job",
+   "NCAA sanctions Liberty over tampering with two players before entering portal",
+   "Five-star OT Lincoln Fa'alafi commits to Notre Dame, to join 2028 class"
+  ],
+  "odds": {
+   "mlAway": "-105",
+   "mlAwayOpen": "+110",
+   "mlHome": "-115",
+   "mlHomeOpen": "-130",
+   "provider": "DraftKings",
+   "spread": "UTSA -1.5",
+   "spreadOpen": "UTSA -2.5",
+   "total": "57.5",
+   "totalOpen": "58.5"
+  },
+  "pick": "Pass",
+  "reason": "UTSA about 51% no-vig at -115; no edge worth a pick.",
+  "risks": [],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-27T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-24T20:23:02Z",
+  "venue": "Alamodome, San Antonio"
  },
  "ncaaf-401866470": {
   "_lastPick": "EMU ML (-225)",
@@ -1815,9 +2199,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401866470",
   "market": "Moneyline",
   "news": [
-   "SEC to consider termination of LSU's membership at Dec. 3 meeting",
-   "Key strategies Alabama, Auburn must remember ahead of Iron Bowl",
-   "Georgia defensive coordinator Glenn Schumann agrees to coach Florida State"
+   "Memphis' Charles Huff says he's not candidate for Maryland head coaching job",
+   "NCAA sanctions Liberty over tampering with two players before entering portal",
+   "Five-star OT Lincoln Fa'alafi commits to Notre Dame, to join 2028 class"
   ],
   "odds": {
    "mlAway": "+185",
@@ -1825,7 +2209,7 @@
    "mlHome": "-225",
    "mlHomeOpen": "-225",
    "provider": "DraftKings",
-   "spread": "EMU -5.5",
+   "spread": "EMU -6",
    "spreadOpen": "EMU -6.5",
    "total": "46.5",
    "totalOpen": "46.5"
@@ -1839,11 +2223,11 @@
   "stars": 3,
   "start": "2026-11-25T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Rynearson Stadium, Ypsilanti"
  },
  "ncaaf-401866471": {
-  "_lastPick": "WMU ML (-270)",
+  "_lastPick": "WMU ML (-230)",
   "away": {
    "abbr": "M-OH",
    "form": "WWLWW",
@@ -1852,7 +2236,7 @@
    "short": "Miami OH",
    "teamId": "193"
   },
-  "confidence": 67,
+  "confidence": 63,
   "espnId": "401866471",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -1873,32 +2257,205 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401866471",
   "market": "Moneyline",
   "news": [
-   "SEC to consider termination of LSU's membership at Dec. 3 meeting",
-   "Key strategies Alabama, Auburn must remember ahead of Iron Bowl",
-   "Georgia defensive coordinator Glenn Schumann agrees to coach Florida State"
+   "Memphis' Charles Huff says he's not candidate for Maryland head coaching job",
+   "NCAA sanctions Liberty over tampering with two players before entering portal",
+   "Five-star OT Lincoln Fa'alafi commits to Notre Dame, to join 2028 class"
   ],
   "odds": {
-   "mlAway": "+220",
+   "mlAway": "+190",
    "mlAwayOpen": "+240",
-   "mlHome": "-270",
+   "mlHome": "-230",
    "mlHomeOpen": "-298",
    "provider": "DraftKings",
-   "spread": "WMU -6.5",
+   "spread": "WMU -4.5",
    "spreadOpen": "WMU -7.5",
    "total": "45.5",
    "totalOpen": "46.5"
   },
-  "pick": "WMU ML (-270)",
-  "reason": "WMU are about 70% no-vig at -270; ESPN's model has 71%.",
-  "risks": [],
+  "pick": "WMU ML (-230)",
+  "reason": "WMU are about 67% no-vig at -230; ESPN's model has 71%.",
+  "risks": [
+   "line drifted away (-298 → -230)"
+  ],
   "side": "home",
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 2,
   "start": "2026-11-25T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Waldo Stadium, Kalamazoo"
+ },
+ "ncaaf-401866472": {
+  "_lastPick": "BUFF ML (-305)",
+  "away": {
+   "abbr": "BUFF",
+   "form": "WWWWW",
+   "name": "Buffalo Bulls",
+   "record": "8-3",
+   "short": "Buffalo",
+   "teamId": "2084"
+  },
+  "confidence": 73,
+  "espnId": "401866472",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 79.4,
+   "home": 20.6
+  },
+  "home": {
+   "abbr": "AKR",
+   "form": "WLLLL",
+   "name": "Akron Zips",
+   "record": "2-9",
+   "short": "Akron",
+   "teamId": "2006"
+  },
+  "id": "ncaaf-401866472",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401866472",
+  "market": "Moneyline",
+  "news": [
+   "Memphis' Charles Huff says he's not candidate for Maryland head coaching job",
+   "NCAA sanctions Liberty over tampering with two players before entering portal",
+   "Five-star OT Lincoln Fa'alafi commits to Notre Dame, to join 2028 class"
+  ],
+  "odds": {
+   "mlAway": "-305",
+   "mlAwayOpen": "-375",
+   "mlHome": "+245",
+   "mlHomeOpen": "+295",
+   "provider": "DraftKings",
+   "spread": "BUF -7.5",
+   "spreadOpen": "BUFF -10",
+   "total": "48.5",
+   "totalOpen": "49.5"
+  },
+  "pick": "BUFF ML (-305)",
+  "reason": "BUFF are about 72% no-vig at -305; ESPN's model has 79%. For: ESPN model 79% vs market 72%; form WWWWW vs WLLLL.",
+  "risks": [],
+  "side": "away",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 4,
+  "start": "2026-11-27T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-24T20:23:02Z",
+  "venue": "InfoCision Stadium, Akron"
+ },
+ "ncaaf-401866473": {
+  "away": {
+   "abbr": "TOL",
+   "form": "WWWWW",
+   "name": "Toledo Rockets",
+   "record": "9-2",
+   "short": "Toledo",
+   "teamId": "2649"
+  },
+  "confidence": 57,
+  "espnId": "401866473",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 63.7,
+   "home": 36.3
+  },
+  "home": {
+   "abbr": "OHIO",
+   "form": "WLWWW",
+   "name": "Ohio Bobcats",
+   "record": "8-3",
+   "short": "Ohio",
+   "teamId": "195"
+  },
+  "id": "ncaaf-401866473",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401866473",
+  "news": [
+   "Memphis' Charles Huff says he's not candidate for Maryland head coaching job",
+   "NCAA sanctions Liberty over tampering with two players before entering portal",
+   "Five-star OT Lincoln Fa'alafi commits to Notre Dame, to join 2028 class"
+  ],
+  "odds": {
+   "mlAway": "-155",
+   "mlAwayOpen": "-180",
+   "mlHome": "+130",
+   "mlHomeOpen": "+150",
+   "provider": "DraftKings",
+   "spread": "TOL -3",
+   "spreadOpen": "TOL -4.5",
+   "total": "46.5",
+   "totalOpen": "48.5"
+  },
+  "pick": "Pass",
+  "reason": "TOL about 58% no-vig at -155; no edge worth a pick.",
+  "risks": [],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-27T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-24T20:23:02Z",
+  "venue": "Peden Stadium, Athens"
+ },
+ "ncaaf-401869930": {
+  "_lastPick": "USA ML (-166)",
+  "away": {
+   "abbr": "APP",
+   "form": "WWLLW",
+   "name": "App State Mountaineers",
+   "record": "7-4",
+   "short": "App State",
+   "teamId": "2026"
+  },
+  "confidence": 58,
+  "espnId": "401869930",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 37.3,
+   "home": 62.7
+  },
+  "home": {
+   "abbr": "USA",
+   "form": "WWLLL",
+   "name": "South Alabama Jaguars",
+   "record": "6-5",
+   "short": "South Alabama",
+   "teamId": "6"
+  },
+  "id": "ncaaf-401869930",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401869930",
+  "market": "Moneyline",
+  "news": [
+   "Memphis' Charles Huff says he's not candidate for Maryland head coaching job",
+   "NCAA sanctions Liberty over tampering with two players before entering portal",
+   "Five-star OT Lincoln Fa'alafi commits to Notre Dame, to join 2028 class"
+  ],
+  "odds": {
+   "mlAway": "+140",
+   "mlAwayOpen": "+105",
+   "mlHome": "-166",
+   "mlHomeOpen": "-125",
+   "provider": "DraftKings",
+   "spread": "USA -3.5",
+   "spreadOpen": "USA -2.5",
+   "total": "56.5",
+   "totalOpen": "55.5"
+  },
+  "pick": "USA ML (-166)",
+  "reason": "USA are about 60% no-vig at -166; ESPN's model has 63%. For: line moved toward USA (-125 → -166).",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-27T20:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-24T20:23:02Z",
+  "venue": "Hancock Whitney Stadium, Mobile"
  },
  "nfl-401873078": {
   "_lastPick": "CIN ML (-301)",
@@ -2052,10 +2609,7 @@
   "away": {
    "abbr": "GB",
    "form": "LWWLW",
-   "injuries": [
-    "Micah Parsons (DE) – Out, Knee - ACL",
-    "Josh Jacobs (RB) – Out, Finger"
-   ],
+   "injuries": [],
    "name": "Green Bay Packers",
    "record": "6-4",
    "short": "Packers",
@@ -2076,7 +2630,8 @@
     "Justin Dedich (G) – Injured Reserve, Hand",
     "Kobie Turner (DE) – Injured Reserve, Groin",
     "Coleman Shelton (C) – Out, Hamstring",
-    "Terrance Ferguson (TE) – Injured Reserve, Ankle"
+    "Terrance Ferguson (TE) – Injured Reserve, Ankle",
+    "Davante Adams (WR) – Injured Reserve, Hamstring"
    ],
    "name": "Los Angeles Rams",
    "record": "6-4",
@@ -2085,22 +2640,7 @@
   },
   "id": "nfl-401873079",
   "injuriesRaw": {
-   "away": [
-    {
-     "detail": "Knee - ACL",
-     "player": "Micah Parsons",
-     "pos": "DE",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Finger",
-     "player": "Josh Jacobs",
-     "pos": "RB",
-     "stale": false,
-     "status": "Out"
-    }
-   ],
+   "away": [],
    "home": [
     {
      "detail": "Hand",
@@ -2129,42 +2669,49 @@
      "pos": "TE",
      "stale": false,
      "status": "Injured Reserve"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "Davante Adams",
+     "pos": "WR",
+     "stale": false,
+     "status": "Injured Reserve"
     }
    ]
   },
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873079",
   "news": [
-   "Jayden Daniels again delivers in 'high-pressure' situation for Commanders",
-   "Jayden Daniels reacts to Countdown crew picking Bengals over Commanders",
-   "Commanders' Jayden Daniels-themed post aimed at Bengals tops NFL Week 11 trolls"
+   "2026 expected fantasy points against (xFPA) by position",
+   "Expected fantasy points (xFP): 2026 leaderboard for TEs",
+   "Expected fantasy points (xFP): 2026 leaderboard for WRs"
   ],
   "odds": {
-   "mlAway": "+113",
+   "mlAway": "+115",
    "mlAwayOpen": "+164",
-   "mlHome": "-134",
+   "mlHome": "-136",
    "mlHomeOpen": "-198",
    "provider": "DraftKings",
    "spread": "LAR -2.5",
    "spreadOpen": "LAR -3.5",
-   "total": "43.5",
+   "total": "44.5",
    "totalOpen": "49.5"
   },
   "pick": "Pass",
-  "reason": "LAR about 55% no-vig at -134; no edge worth a pick.",
+  "reason": "LAR about 55% no-vig at -136; no edge worth a pick.",
   "risks": [
-   "line drifted away (-198 → -134)"
+   "line drifted away (-198 → -136)"
   ],
   "slug": "nfl",
   "sport": "nfl",
   "stars": 1,
   "start": "2026-11-26T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "SoFi Stadium, Inglewood"
  },
  "nfl-401873080": {
-  "_lastPick": "DAL ML (-467)",
+  "_lastPick": "DAL ML (-469)",
   "away": {
    "abbr": "PHI",
    "form": "WLLLL",
@@ -2234,14 +2781,14 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873080",
   "market": "Moneyline",
   "news": [
-   "Jayden Daniels again delivers in 'high-pressure' situation for Commanders",
-   "Jayden Daniels reacts to Countdown crew picking Bengals over Commanders",
-   "Commanders' Jayden Daniels-themed post aimed at Bengals tops NFL Week 11 trolls"
+   "2026 expected fantasy points against (xFPA) by position",
+   "Expected fantasy points (xFP): 2026 leaderboard for TEs",
+   "Expected fantasy points (xFP): 2026 leaderboard for WRs"
   ],
   "odds": {
-   "mlAway": "+362",
+   "mlAway": "+363",
    "mlAwayOpen": "+100",
-   "mlHome": "-467",
+   "mlHome": "-469",
    "mlHomeOpen": "-120",
    "provider": "DraftKings",
    "spread": "DAL -8.5",
@@ -2249,8 +2796,8 @@
    "total": "47.5",
    "totalOpen": "49.5"
   },
-  "pick": "DAL ML (-467)",
-  "reason": "DAL are about 79% no-vig at -467; ESPN's model has 83%. For: line moved toward DAL (-120 → -467).",
+  "pick": "DAL ML (-469)",
+  "reason": "DAL are about 79% no-vig at -469; ESPN's model has 83%. For: line moved toward DAL (-120 → -469).",
   "risks": [],
   "side": "home",
   "slug": "nfl",
@@ -2258,7 +2805,7 @@
   "stars": 3,
   "start": "2026-11-26T21:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "AT&T Stadium, Arlington"
  },
  "nfl-401873081": {
@@ -2266,7 +2813,6 @@
    "abbr": "CHI",
    "form": "WWWWW",
    "injuries": [
-    "Kyler Gordon (CB) – Out, Shoulder",
     "Zavier Scott (RB) – Injured Reserve, Wrist"
    ],
    "name": "Chicago Bears",
@@ -2286,7 +2832,7 @@
    "abbr": "DET",
    "form": "WWWWW",
    "injuries": [
-    "Ennis Rakestraw Jr. (CB) – Out, Shoulder"
+    "Skyler Gill-Howard (DT) – Out, Knee"
    ],
    "name": "Detroit Lions",
    "record": "8-2",
@@ -2296,13 +2842,6 @@
   "id": "nfl-401873081",
   "injuriesRaw": {
    "away": [
-    {
-     "detail": "Shoulder",
-     "player": "Kyler Gordon",
-     "pos": "CB",
-     "stale": false,
-     "status": "Out"
-    },
     {
      "detail": "Wrist",
      "player": "Zavier Scott",
@@ -2320,9 +2859,9 @@
    ],
    "home": [
     {
-     "detail": "Shoulder",
-     "player": "Ennis Rakestraw Jr.",
-     "pos": "CB",
+     "detail": "Knee",
+     "player": "Skyler Gill-Howard",
+     "pos": "DT",
      "stale": false,
      "status": "Out"
     }
@@ -2331,14 +2870,14 @@
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873081",
   "news": [
-   "Jayden Daniels again delivers in 'high-pressure' situation for Commanders",
-   "Jayden Daniels reacts to Countdown crew picking Bengals over Commanders",
-   "Commanders' Jayden Daniels-themed post aimed at Bengals tops NFL Week 11 trolls"
+   "2026 expected fantasy points against (xFPA) by position",
+   "Expected fantasy points (xFP): 2026 leaderboard for TEs",
+   "Expected fantasy points (xFP): 2026 leaderboard for WRs"
   ],
   "odds": {
-   "mlAway": "-144",
+   "mlAway": "-142",
    "mlAwayOpen": "+114",
-   "mlHome": "+122",
+   "mlHome": "+120",
    "mlHomeOpen": "-135",
    "provider": "DraftKings",
    "spread": "CHI -2.5",
@@ -2347,16 +2886,16 @@
    "totalOpen": "51.5"
   },
   "pick": "Pass",
-  "reason": "CHI about 57% no-vig at -144; no edge worth a pick.",
+  "reason": "CHI about 56% no-vig at -142; no edge worth a pick.",
   "risks": [
-   "ESPN model only 44% vs market 57%"
+   "ESPN model only 44% vs market 56%"
   ],
   "slug": "nfl",
   "sport": "nfl",
   "stars": 1,
   "start": "2026-11-26T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Ford Field, Detroit"
  },
  "nfl-401873082": {
@@ -2364,9 +2903,7 @@
    "abbr": "KC",
    "form": "WWWLL",
    "injuries": [
-    "Kenneth Walker III (RB) – Out, Groin",
-    "Trey Smith (G) – Out, Concussion",
-    "Jaylon Moore (OT) – Out, Ankle"
+    "Ben VanSumeren (FB) – Injured Reserve, Knee"
    ],
    "name": "Kansas City Chiefs",
    "record": "8-2",
@@ -2384,10 +2921,7 @@
   "home": {
    "abbr": "BUF",
    "form": "WWWWW",
-   "injuries": [
-    "Dorian Williams (LB) – Out, Calf",
-    "Christian Benford (CB) – Out, Groin"
-   ],
+   "injuries": [],
    "name": "Buffalo Bills",
    "record": "9-1",
    "short": "Bills",
@@ -2397,60 +2931,31 @@
   "injuriesRaw": {
    "away": [
     {
-     "detail": "Groin",
-     "player": "Kenneth Walker III",
-     "pos": "RB",
+     "detail": "Knee",
+     "player": "Ben VanSumeren",
+     "pos": "FB",
      "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Concussion",
-     "player": "Trey Smith",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Ankle",
-     "player": "Jaylon Moore",
-     "pos": "OT",
-     "stale": false,
-     "status": "Out"
+     "status": "Injured Reserve"
     }
    ],
-   "home": [
-    {
-     "detail": "Calf",
-     "player": "Dorian Williams",
-     "pos": "LB",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Groin",
-     "player": "Christian Benford",
-     "pos": "CB",
-     "stale": false,
-     "status": "Out"
-    }
-   ]
+   "home": []
   },
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873082",
   "news": [
-   "Jayden Daniels again delivers in 'high-pressure' situation for Commanders",
-   "Jayden Daniels reacts to Countdown crew picking Bengals over Commanders",
-   "Commanders' Jayden Daniels-themed post aimed at Bengals tops NFL Week 11 trolls"
+   "2026 expected fantasy points against (xFPA) by position",
+   "Expected fantasy points (xFP): 2026 leaderboard for TEs",
+   "Expected fantasy points (xFP): 2026 leaderboard for WRs"
   ],
   "odds": {
-   "mlAway": "+127",
+   "mlAway": "+126",
    "mlAwayOpen": "+114",
    "mlHome": "-150",
    "mlHomeOpen": "-135",
    "provider": "DraftKings",
    "spread": "BUF -3",
    "spreadOpen": "BUF -2.5",
-   "total": "48.5",
+   "total": "47.5",
    "totalOpen": "49.5"
   },
   "pick": "Pass",
@@ -2461,167 +2966,399 @@
   "stars": 1,
   "start": "2026-11-27T01:20Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Highmark Stadium, Orchard Park"
  },
- "soccer-401875009": {
+ "nfl-401873083": {
   "away": {
-   "abbr": "FIO",
-   "form": "DWDLL",
-   "name": "Fiorentina",
-   "record": "2-3-7",
-   "short": "Fiorentina",
-   "teamId": "109"
+   "abbr": "DEN",
+   "form": "WWWWW",
+   "injuries": [
+    "Caleb Lohner (TE) – Injured Reserve, Foot",
+    "Eyioma Uwazurike (DE) – Injured Reserve, Shoulder"
+   ],
+   "name": "Denver Broncos",
+   "record": "8-2",
+   "short": "Broncos",
+   "teamId": "7"
   },
-  "confidence": 46,
-  "espnId": "401875009",
+  "confidence": 57,
+  "espnId": "401873083",
+  "espnLeague": "nfl",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 61.3,
+   "home": 38.4
+  },
+  "home": {
+   "abbr": "PIT",
+   "form": "LLWWW",
+   "injuries": [
+    "Michael Pittman Jr. (WR) – Injured Reserve, Foot",
+    "Alex Highsmith (LB) – Doubtful, Ankle",
+    "Gennings Dunker (G) – Injured Reserve, Knee",
+    "Mason McCormick (G) – Injured Reserve, Ankle"
+   ],
+   "name": "Pittsburgh Steelers",
+   "record": "6-4",
+   "short": "Steelers",
+   "teamId": "23"
+  },
+  "id": "nfl-401873083",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Foot",
+     "player": "Caleb Lohner",
+     "pos": "TE",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Shoulder",
+     "player": "Eyioma Uwazurike",
+     "pos": "DE",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Knee",
+     "player": "RJ Harvey",
+     "pos": "RB",
+     "stale": true,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Thumb",
+     "player": "Tyler Badie",
+     "pos": "RB",
+     "stale": true,
+     "status": "Injured Reserve"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Foot",
+     "player": "Michael Pittman Jr.",
+     "pos": "WR",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Alex Highsmith",
+     "pos": "LB",
+     "stale": false,
+     "status": "Doubtful"
+    },
+    {
+     "detail": "Knee",
+     "player": "Gennings Dunker",
+     "pos": "G",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Mason McCormick",
+     "pos": "G",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ]
+  },
+  "league": "NFL",
+  "link": "https://www.espn.com/nfl/game/_/gameId/401873083",
+  "news": [
+   "2026 expected fantasy points against (xFPA) by position",
+   "Expected fantasy points (xFP): 2026 leaderboard for TEs",
+   "Expected fantasy points (xFP): 2026 leaderboard for WRs"
+  ],
+  "odds": {
+   "mlAway": "-159",
+   "mlAwayOpen": "-118",
+   "mlHome": "+134",
+   "mlHomeOpen": "-102",
+   "provider": "DraftKings",
+   "spread": "DEN -3",
+   "spreadOpen": "DEN -1.5",
+   "total": "38.5",
+   "totalOpen": "41.5"
+  },
+  "pick": "Pass",
+  "reason": "DEN about 59% no-vig at -159; no edge worth a pick.",
+  "risks": [],
+  "slug": "nfl",
+  "sport": "nfl",
+  "stars": 1,
+  "start": "2026-11-27T20:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-24T20:23:02Z",
+  "venue": "Acrisure Stadium, Pittsburgh"
+ },
+ "soccer-401875004": {
+  "away": {
+   "abbr": "BOL",
+   "form": "DWWWW",
+   "name": "Bologna",
+   "record": "5-3-4",
+   "short": "Bologna",
+   "teamId": "107"
+  },
+  "confidence": 39,
+  "espnId": "401875004",
   "espnLeague": "ita.1",
   "espnSport": "soccer",
   "home": {
-   "abbr": "MON",
-   "form": "LLLLW",
-   "name": "Monza",
-   "record": "3-1-8",
-   "short": "Monza",
-   "teamId": "4007"
+   "abbr": "VEN",
+   "form": "LWLLL",
+   "name": "Venezia",
+   "record": "2-0-10",
+   "short": "Venezia",
+   "teamId": "17530"
   },
-  "id": "soccer-401875009",
+  "id": "soccer-401875004",
   "league": "Serie A",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401875009",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401875004",
   "news": [
-   "Transfer rumors, news: AC Milan to land Liverpool defender Virgil van Dijk?",
+   "Lazio are top of Serie A despite playing without their fans",
    "Milan into top four as classy Pulisic solo goal caps Serie A rout",
    "Scott McTominay sinks Torino to end Napoli's three-game winless streak"
   ],
   "odds": {
-   "mlAway": "-110",
-   "mlAwayOpen": "-110",
-   "mlDraw": "+265",
-   "mlHome": "+255",
-   "mlHomeOpen": "+225",
+   "mlAway": "+115",
+   "mlAwayOpen": "-105",
+   "mlDraw": "+220",
+   "mlHome": "+235",
+   "mlHomeOpen": "+235",
    "provider": "DraftKings",
-   "spread": "FIO -110",
-   "spreadOpen": "FIO -0.5",
+   "spread": "BOL +115",
+   "spreadOpen": "BOL -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Fiorentina about 49% no-vig at -110; no edge worth a pick.",
-  "risks": [],
+  "reason": "Bologna about 43% no-vig at +115; no edge worth a pick.",
+  "risks": [
+   "line drifted away (-105 → +115)"
+  ],
   "slug": "ita.1",
   "sport": "soccer",
   "stars": 1,
-  "start": "2026-11-23T19:45Z",
-  "state": "post",
-  "updatedAt": "2026-11-23T12:18:51Z",
-  "venue": "U-Power Stadium, Monza"
+  "start": "2026-11-27T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-24T20:23:02Z",
+  "venue": "Stadio Pier Luigi Penzo, Venezia"
  },
- "soccer-401879237": {
+ "soccer-401876392": {
   "away": {
-   "abbr": "EVE",
-   "form": "WWWLL",
-   "name": "Everton",
-   "record": "4-4-3",
-   "short": "Everton",
-   "teamId": "368"
+   "abbr": "PAR",
+   "form": "WWWLW",
+   "name": "Paris FC",
+   "record": "7-2-2",
+   "short": "Paris FC",
+   "teamId": "6851"
   },
-  "confidence": 36,
-  "espnId": "401879237",
-  "espnLeague": "eng.1",
+  "confidence": 40,
+  "espnId": "401876392",
+  "espnLeague": "fra.1",
   "espnSport": "soccer",
   "home": {
    "abbr": "BRE",
-   "form": "LWLDL",
-   "name": "Brentford",
-   "record": "4-5-2",
-   "short": "Brentford",
-   "teamId": "337"
+   "form": "WWWLD",
+   "name": "Brest",
+   "record": "5-3-3",
+   "short": "Brest",
+   "teamId": "6997"
   },
-  "id": "soccer-401879237",
-  "league": "Premier League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401879237",
+  "id": "soccer-401876392",
+  "league": "Ligue 1",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401876392",
   "news": [
-   "Dominik Szoboszlai labels Liverpool teammate Florian Wirtz 'world-class'",
-   "Transfer rumors, news: AC Milan to land Liverpool defender Virgil van Dijk?",
-   "Luca Williams-Barnett fell for under-21s joke before stellar Tottenham debut"
+   "Luis Enrique insists PSG won't 'start crying' over Doué, Kvaratskhelia injuries",
+   "Paris Saint-Germain drop one of this season's best kits in latest Jordan collab",
+   "PSG star Désiré Doué suffers 'serious' knee injury in win over Nice"
   ],
   "odds": {
-   "mlAway": "+215",
-   "mlAwayOpen": "+280",
-   "mlDraw": "+250",
-   "mlHome": "+125",
-   "mlHomeOpen": "-115",
+   "mlAway": "+120",
+   "mlAwayOpen": "+125",
+   "mlDraw": "+240",
+   "mlHome": "+230",
+   "mlHomeOpen": "+210",
    "provider": "DraftKings",
-   "spread": "BRE +125",
-   "spreadOpen": "BRE -0.5",
+   "spread": "PAR +120",
+   "spreadOpen": "PAR -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Brentford about 42% no-vig at +125; no edge worth a pick.",
-  "risks": [
-   "line drifted away (-115 → +125)",
-   "opponent in better form (WWWLL)"
+  "reason": "Paris FC about 43% no-vig at +120; no edge worth a pick.",
+  "risks": [],
+  "slug": "fra.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-27T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-24T20:23:02Z",
+  "venue": "Stade Francis-Le Blé, Brest"
+ },
+ "soccer-401879225": {
+  "away": {
+   "abbr": "CHE",
+   "form": "LLWLL",
+   "name": "Chelsea",
+   "record": "5-1-5",
+   "short": "Chelsea",
+   "teamId": "363"
+  },
+  "confidence": 34,
+  "espnId": "401879225",
+  "espnLeague": "eng.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "NFO",
+   "form": "LWLDL",
+   "name": "Nottingham Forest",
+   "record": "2-3-6",
+   "short": "Nottm Forest",
+   "teamId": "393"
+  },
+  "id": "soccer-401879225",
+  "league": "Premier League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401879225",
+  "news": [
+   "Tottenham prodigy Luca Williams-Barnett, 18, signs new contract",
+   "Man United win appeal over Leny Yoro red card",
+   "Transfer rumors, news: PSG eye Chelsea's Estêvão, Bayern's Luis Díaz amid injury woes"
   ],
+  "odds": {
+   "mlAway": "+175",
+   "mlAwayOpen": "+145",
+   "mlDraw": "+240",
+   "mlHome": "+160",
+   "mlHomeOpen": "+170",
+   "provider": "DraftKings",
+   "spread": "NFO +160",
+   "spreadOpen": "CHE -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Nottm Forest about 37% no-vig at +160; no edge worth a pick.",
+  "risks": [],
   "slug": "eng.1",
   "sport": "soccer",
   "stars": 1,
-  "start": "2026-11-23T20:00Z",
-  "state": "post",
-  "updatedAt": "2026-11-23T12:18:51Z",
-  "venue": "Gtech Community Stadium, Brentford"
+  "start": "2026-11-27T20:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-24T20:23:02Z",
+  "venue": "The City Ground, Nottingham"
  },
- "soccer-401882802": {
+ "soccer-401882791": {
   "away": {
-   "abbr": "ELC",
-   "form": "LLWWD",
-   "name": "Elche",
-   "record": "2-5-6",
-   "short": "Elche",
-   "teamId": "3751"
+   "abbr": "RAC",
+   "form": "WWLWW",
+   "name": "Racing Santander",
+   "record": "5-2-6",
+   "short": "Racing",
+   "teamId": "87"
   },
-  "confidence": 41,
-  "espnId": "401882802",
+  "confidence": 42,
+  "espnId": "401882791",
   "espnLeague": "esp.1",
   "espnSport": "soccer",
   "home": {
    "abbr": "LEV",
-   "form": "WDLLW",
+   "form": "DWDLL",
    "name": "Levante",
    "record": "2-6-5",
    "short": "Levante",
    "teamId": "1538"
   },
-  "id": "soccer-401882802",
+  "id": "soccer-401882791",
   "league": "LaLiga",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401882802",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401882791",
   "news": [
-   "Lamine Yamal out of Barcelona's Champions League game at Sabah",
-   "Barcelona stun Villarreal after second-half comeback",
-   "USMNT's Cardoso scores as Atlético ease to win over Getafe"
+   "Levante vs. Elche - Game Highlights",
+   "Diego Simeone takes LaLiga win record with 345th Atlético Madrid victory",
+   "Lamine Yamal out of Barcelona's Champions League game at Sabah"
   ],
   "odds": {
-   "mlAway": "+225",
-   "mlAwayOpen": "+200",
-   "mlDraw": "+255",
-   "mlHome": "+120",
-   "mlHomeOpen": "+115",
+   "mlAway": "+220",
+   "mlAwayOpen": "+215",
+   "mlDraw": "+290",
+   "mlHome": "+110",
+   "mlHomeOpen": "+105",
    "provider": "DraftKings",
-   "spread": "LEV +120",
+   "spread": "LEV +110",
    "spreadOpen": "LEV -0.5",
-   "total": "2.5",
-   "totalOpen": "2.5"
+   "total": "3.5",
+   "totalOpen": "3.5"
   },
   "pick": "Pass",
-  "reason": "Levante about 44% no-vig at +120; no edge worth a pick.",
-  "risks": [],
+  "reason": "Levante about 46% no-vig at +110; no edge worth a pick.",
+  "risks": [
+   "opponent in better form (WWLWW)"
+  ],
   "slug": "esp.1",
   "sport": "soccer",
   "stars": 1,
-  "start": "2026-11-23T20:00Z",
-  "state": "post",
-  "updatedAt": "2026-11-23T12:18:51Z",
+  "start": "2026-11-27T20:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Estadi Ciutat de València, Manises"
+ },
+ "soccer-401884720": {
+  "away": {
+   "abbr": "BMG",
+   "form": "LWLDW",
+   "name": "Borussia Mönchengladbach",
+   "record": "1-1-8",
+   "short": "Gladbach",
+   "teamId": "268"
+  },
+  "confidence": 52,
+  "espnId": "401884720",
+  "espnLeague": "ger.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "SVW",
+   "form": "WLWLW",
+   "name": "Werder Bremen",
+   "record": "5-3-2",
+   "short": "Bremen",
+   "teamId": "137"
+  },
+  "id": "soccer-401884720",
+  "league": "Bundesliga",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401884720",
+  "news": [
+   "Bayern hold 'constructive' talks with Musiala's agents over health, not money",
+   "Niko Kovac hails Jobe Bellingham's development after England call-up",
+   "FIFPRO slams Bayern Munich's treatment of Jamal Musiala: Club has 'duty of care'"
+  ],
+  "odds": {
+   "mlAway": "+300",
+   "mlAwayOpen": "+280",
+   "mlDraw": "+320",
+   "mlHome": "-145",
+   "mlHomeOpen": "-145",
+   "provider": "DraftKings",
+   "spread": "SVW -145",
+   "spreadOpen": "SVW -0.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Pass",
+  "reason": "Bremen about 55% no-vig at -145; no edge worth a pick.",
+  "risks": [],
+  "slug": "ger.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-27T19:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-24T20:23:02Z",
+  "venue": "Weserstadion, Bremen"
  },
  "soccer-401915291": {
   "_lastPick": "Atlético ML (-1000)",
@@ -2650,9 +3387,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401915291",
   "market": "Moneyline",
   "news": [
-   "Premier League's set-piece goal surge is over, but Arsenal are No. 1 anyway",
-   "Burley questions Man United's desire after Anfield collapse",
-   "Kevin De Bruyne: Man City achievements will not be tainted if appeal fails"
+   "Champions League live updates: Arsenal lead Dortmund, City take on Napoli",
+   "Villa succumb to late Galatasaray goal to suffer 2nd straight UCL loss",
+   "Luis Enrique insists PSG won't 'start crying' over Doué, Kvaratskhelia injuries"
   ],
   "odds": {
    "mlAway": "+2000",
@@ -2675,7 +3412,7 @@
   "stars": 2,
   "start": "2026-11-25T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Riyadh Air Metropolitano, Madrid"
  },
  "soccer-401915292": {
@@ -2703,9 +3440,9 @@
   "league": "Champions League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401915292",
   "news": [
-   "Premier League's set-piece goal surge is over, but Arsenal are No. 1 anyway",
-   "Burley questions Man United's desire after Anfield collapse",
-   "Kevin De Bruyne: Man City achievements will not be tainted if appeal fails"
+   "Champions League live updates: Arsenal lead Dortmund, City take on Napoli",
+   "Villa succumb to late Galatasaray goal to suffer 2nd straight UCL loss",
+   "Luis Enrique insists PSG won't 'start crying' over Doué, Kvaratskhelia injuries"
   ],
   "odds": {
    "mlAway": "-155",
@@ -2727,7 +3464,7 @@
   "stars": 1,
   "start": "2026-11-25T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Jan Breydel Stadium, Brugge"
  },
  "soccer-401915293": {
@@ -2739,7 +3476,7 @@
    "short": "Villarreal",
    "teamId": "102"
   },
-  "confidence": 42,
+  "confidence": 41,
   "espnId": "401915293",
   "espnLeague": "uefa.champions",
   "espnSport": "soccer",
@@ -2755,15 +3492,15 @@
   "league": "Champions League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401915293",
   "news": [
-   "Premier League's set-piece goal surge is over, but Arsenal are No. 1 anyway",
-   "Burley questions Man United's desire after Anfield collapse",
-   "Kevin De Bruyne: Man City achievements will not be tainted if appeal fails"
+   "Champions League live updates: Arsenal lead Dortmund, City take on Napoli",
+   "Villa succumb to late Galatasaray goal to suffer 2nd straight UCL loss",
+   "Luis Enrique insists PSG won't 'start crying' over Doué, Kvaratskhelia injuries"
   ],
   "odds": {
    "mlAway": "+115",
    "mlAwayOpen": "+125",
    "mlDraw": "+290",
-   "mlHome": "+210",
+   "mlHome": "+200",
    "mlHomeOpen": "+175",
    "provider": "DraftKings",
    "spread": "VIL +115",
@@ -2772,14 +3509,14 @@
    "totalOpen": "3.5"
   },
   "pick": "Pass",
-  "reason": "Villarreal about 45% no-vig at +115; no edge worth a pick.",
+  "reason": "Villarreal about 44% no-vig at +115; no edge worth a pick.",
   "risks": [],
   "slug": "uefa.champions",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-25T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Fortuna Arena, Prague"
  },
  "soccer-401915294": {
@@ -2812,13 +3549,13 @@
    "Kevin De Bruyne: Man City achievements will not be tainted if appeal fails"
   ],
   "odds": {
-   "mlAway": "+120",
+   "mlAway": "-105",
    "mlAwayOpen": "+125",
-   "mlDraw": "+270",
-   "mlHome": "+215",
+   "mlDraw": "+280",
+   "mlHome": "+275",
    "mlHomeOpen": "+180",
    "provider": "DraftKings",
-   "spread": "FCP +120",
+   "spread": "FCP -105",
    "spreadOpen": "FCP -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
@@ -2830,7 +3567,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-24T20:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-24T09:45:15Z",
   "venue": "De Kuip, Rotterdam"
  },
@@ -2868,11 +3605,11 @@
   "odds": {
    "mlAway": "+600",
    "mlAwayOpen": "+600",
-   "mlDraw": "+370",
-   "mlHome": "-220",
+   "mlDraw": "+360",
+   "mlHome": "-215",
    "mlHomeOpen": "-250",
    "provider": "DraftKings",
-   "spread": "ARS -220",
+   "spread": "ARS -215",
    "spreadOpen": "ARS -1.5",
    "total": "2.5",
    "totalOpen": "2.5"
@@ -2885,7 +3622,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-24T20:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-24T09:45:15Z",
   "venue": "Emirates Stadium, London"
  },
@@ -2921,7 +3658,7 @@
    "Kevin De Bruyne: Man City achievements will not be tainted if appeal fails"
   ],
   "odds": {
-   "mlAway": "+850",
+   "mlAway": "+900",
    "mlAwayOpen": "+600",
    "mlDraw": "+550",
    "mlHome": "-380",
@@ -2940,7 +3677,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-24T20:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-24T09:45:15Z",
   "venue": "Giuseppe Sinigaglia, Como"
  },
@@ -2976,13 +3713,13 @@
    "Kevin De Bruyne: Man City achievements will not be tainted if appeal fails"
   ],
   "odds": {
-   "mlAway": "-380",
+   "mlAway": "-260",
    "mlAwayOpen": "-350",
-   "mlDraw": "+550",
-   "mlHome": "+850",
+   "mlDraw": "+425",
+   "mlHome": "+650",
    "mlHomeOpen": "+700",
    "provider": "DraftKings",
-   "spread": "BET -380",
+   "spread": "BET -260",
    "spreadOpen": "BET -1.5",
    "total": "3.5",
    "totalOpen": "3.5"
@@ -2995,7 +3732,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-24T20:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-24T09:45:15Z",
   "venue": "Národny Futbalovy Stadión, Bratislava"
  },
@@ -3031,13 +3768,13 @@
    "Kevin De Bruyne: Man City achievements will not be tainted if appeal fails"
   ],
   "odds": {
-   "mlAway": "+1400",
+   "mlAway": "+1500",
    "mlAwayOpen": "+850",
-   "mlDraw": "+850",
-   "mlHome": "-700",
+   "mlDraw": "+900",
+   "mlHome": "-750",
    "mlHomeOpen": "-500",
    "provider": "DraftKings",
-   "spread": "RMA -700",
+   "spread": "RMA -750",
    "spreadOpen": "RMA -2.5",
    "total": "4.5",
    "totalOpen": "4.5"
@@ -3050,7 +3787,7 @@
   "sport": "soccer",
   "stars": 3,
   "start": "2026-11-24T20:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-24T09:45:15Z",
   "venue": "Santiago Bernabéu, Madrid"
  },
@@ -3088,11 +3825,11 @@
   "odds": {
    "mlAway": "+600",
    "mlAwayOpen": "+450",
-   "mlDraw": "+475",
-   "mlHome": "-275",
+   "mlDraw": "+450",
+   "mlHome": "-260",
    "mlHomeOpen": "-230",
    "provider": "DraftKings",
-   "spread": "RBL -275",
+   "spread": "RBL -260",
    "spreadOpen": "RBL -1.5",
    "total": "3.5",
    "totalOpen": "3.5"
@@ -3105,7 +3842,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-24T20:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-24T09:45:15Z",
   "venue": "Red Bull Arena, Leipzig"
  },
@@ -3114,7 +3851,7 @@
    "abbr": "AVL",
    "form": "DDLDL",
    "name": "Aston Villa",
-   "record": "3-0-1",
+   "record": "3-0-2",
    "short": "Aston Villa",
    "teamId": "362"
   },
@@ -3126,7 +3863,7 @@
    "abbr": "GAL",
    "form": "WWWWW",
    "name": "Galatasaray",
-   "record": "2-0-2",
+   "record": "3-0-2",
    "short": "Galatasaray",
    "teamId": "432"
   },
@@ -3159,7 +3896,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-24T17:45Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-24T09:45:15Z",
   "venue": "RAMS Park, Istanbul"
  },
@@ -3188,35 +3925,35 @@
   "league": "Champions League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401915373",
   "news": [
-   "Premier League's set-piece goal surge is over, but Arsenal are No. 1 anyway",
-   "Burley questions Man United's desire after Anfield collapse",
-   "Kevin De Bruyne: Man City achievements will not be tainted if appeal fails"
+   "Champions League live updates: Arsenal lead Dortmund, City take on Napoli",
+   "Villa succumb to late Galatasaray goal to suffer 2nd straight UCL loss",
+   "Luis Enrique insists PSG won't 'start crying' over Doué, Kvaratskhelia injuries"
   ],
   "odds": {
-   "mlAway": "+165",
+   "mlAway": "+160",
    "mlAwayOpen": "+160",
    "mlDraw": "+275",
-   "mlHome": "+150",
+   "mlHome": "+155",
    "mlHomeOpen": "+145",
    "provider": "DraftKings",
-   "spread": "SCP +150",
+   "spread": "SCP +155",
    "spreadOpen": "SCP -0.5",
    "total": "3.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Sporting about 38% no-vig at +150; no edge worth a pick.",
+  "reason": "Sporting about 38% no-vig at +155; no edge worth a pick.",
   "risks": [],
   "slug": "uefa.champions",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-25T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Estádio José Alvalade, Lisbon"
  },
  "soccer-401915374": {
-  "_lastPick": "PSG ML (-235)",
+  "_lastPick": "PSG ML (-225)",
   "away": {
    "abbr": "ROMA",
    "form": "WWLWW",
@@ -3225,7 +3962,7 @@
    "short": "AS Roma",
    "teamId": "104"
   },
-  "confidence": 63,
+  "confidence": 61,
   "espnId": "401915374",
   "espnLeague": "uefa.champions",
   "espnSport": "soccer",
@@ -3242,32 +3979,34 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401915374",
   "market": "Moneyline",
   "news": [
-   "Premier League's set-piece goal surge is over, but Arsenal are No. 1 anyway",
-   "Burley questions Man United's desire after Anfield collapse",
-   "Kevin De Bruyne: Man City achievements will not be tainted if appeal fails"
+   "Champions League live updates: Arsenal lead Dortmund, City take on Napoli",
+   "Villa succumb to late Galatasaray goal to suffer 2nd straight UCL loss",
+   "Luis Enrique insists PSG won't 'start crying' over Doué, Kvaratskhelia injuries"
   ],
   "odds": {
    "mlAway": "+550",
    "mlAwayOpen": "+600",
    "mlDraw": "+400",
-   "mlHome": "-235",
+   "mlHome": "-225",
    "mlHomeOpen": "-285",
    "provider": "DraftKings",
-   "spread": "PSG -235",
+   "spread": "PSG -225",
    "spreadOpen": "PSG -1.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
-  "pick": "PSG ML (-235)",
-  "reason": "PSG are about 66% no-vig at -235.",
-  "risks": [],
+  "pick": "PSG ML (-225)",
+  "reason": "PSG are about 66% no-vig at -225.",
+  "risks": [
+   "line drifted away (-285 → -225)"
+  ],
   "side": "home",
   "slug": "uefa.champions",
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-25T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Parc des Princes, Paris"
  },
  "soccer-401915375": {
@@ -3279,7 +4018,7 @@
    "short": "Fenerbahce",
    "teamId": "436"
   },
-  "confidence": 34,
+  "confidence": 37,
   "espnId": "401915375",
   "espnLeague": "uefa.champions",
   "espnSport": "soccer",
@@ -3295,31 +4034,31 @@
   "league": "Champions League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401915375",
   "news": [
-   "Premier League's set-piece goal surge is over, but Arsenal are No. 1 anyway",
-   "Burley questions Man United's desire after Anfield collapse",
-   "Kevin De Bruyne: Man City achievements will not be tainted if appeal fails"
+   "Champions League live updates: Arsenal lead Dortmund, City take on Napoli",
+   "Villa succumb to late Galatasaray goal to suffer 2nd straight UCL loss",
+   "Luis Enrique insists PSG won't 'start crying' over Doué, Kvaratskhelia injuries"
   ],
   "odds": {
-   "mlAway": "+160",
+   "mlAway": "+140",
    "mlAwayOpen": "+160",
-   "mlDraw": "+250",
-   "mlHome": "+165",
+   "mlDraw": "+255",
+   "mlHome": "+185",
    "mlHomeOpen": "+150",
    "provider": "DraftKings",
-   "spread": "FEN +160",
+   "spread": "FEN +140",
    "spreadOpen": "SHK -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Fenerbahce about 37% no-vig at +160; no edge worth a pick.",
+  "reason": "Fenerbahce about 40% no-vig at +140; no edge worth a pick.",
   "risks": [],
   "slug": "uefa.champions",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-25T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Stamford Bridge, London"
  },
  "soccer-401915376": {
@@ -3349,9 +4088,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401915376",
   "market": "Moneyline",
   "news": [
-   "Premier League's set-piece goal surge is over, but Arsenal are No. 1 anyway",
-   "Burley questions Man United's desire after Anfield collapse",
-   "Kevin De Bruyne: Man City achievements will not be tainted if appeal fails"
+   "Champions League live updates: Arsenal lead Dortmund, City take on Napoli",
+   "Villa succumb to late Galatasaray goal to suffer 2nd straight UCL loss",
+   "Luis Enrique insists PSG won't 'start crying' over Doué, Kvaratskhelia injuries"
   ],
   "odds": {
    "mlAway": "+500",
@@ -3374,7 +4113,7 @@
   "stars": 2,
   "start": "2026-11-25T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "San Siro, Milano"
  },
  "soccer-401915377": {
@@ -3386,7 +4125,7 @@
    "short": "Bayern",
    "teamId": "132"
   },
-  "confidence": 54,
+  "confidence": 51,
   "espnId": "401915377",
   "espnLeague": "uefa.champions",
   "espnSport": "soccer",
@@ -3402,33 +4141,33 @@
   "league": "Champions League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401915377",
   "news": [
-   "Premier League's set-piece goal surge is over, but Arsenal are No. 1 anyway",
-   "Burley questions Man United's desire after Anfield collapse",
-   "Kevin De Bruyne: Man City achievements will not be tainted if appeal fails"
+   "Champions League live updates: Arsenal lead Dortmund, City take on Napoli",
+   "Villa succumb to late Galatasaray goal to suffer 2nd straight UCL loss",
+   "Luis Enrique insists PSG won't 'start crying' over Doué, Kvaratskhelia injuries"
   ],
   "odds": {
-   "mlAway": "-165",
+   "mlAway": "-145",
    "mlAwayOpen": "-320",
-   "mlDraw": "+340",
-   "mlHome": "+400",
+   "mlDraw": "+310",
+   "mlHome": "+370",
    "mlHomeOpen": "+600",
    "provider": "DraftKings",
-   "spread": "MUN -165",
+   "spread": "MUN -145",
    "spreadOpen": "MUN -1.5",
    "total": "2.5",
    "totalOpen": "3.5"
   },
   "pick": "Pass",
-  "reason": "Bayern about 59% no-vig at -165; no edge worth a pick.",
+  "reason": "Bayern about 56% no-vig at -145; no edge worth a pick.",
   "risks": [
-   "line drifted away (-320 → -165)"
+   "line drifted away (-320 → -145)"
   ],
   "slug": "uefa.champions",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-25T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille"
  },
  "soccer-401915378": {
@@ -3458,9 +4197,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401915378",
   "market": "Moneyline",
   "news": [
-   "Premier League's set-piece goal surge is over, but Arsenal are No. 1 anyway",
-   "Burley questions Man United's desire after Anfield collapse",
-   "Kevin De Bruyne: Man City achievements will not be tainted if appeal fails"
+   "Champions League live updates: Arsenal lead Dortmund, City take on Napoli",
+   "Villa succumb to late Galatasaray goal to suffer 2nd straight UCL loss",
+   "Luis Enrique insists PSG won't 'start crying' over Doué, Kvaratskhelia injuries"
   ],
   "odds": {
    "mlAway": "-1200",
@@ -3483,7 +4222,7 @@
   "stars": 2,
   "start": "2026-11-25T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Baku Olympic Stadium, Baku"
  },
  "soccer-401915379": {
@@ -3518,13 +4257,13 @@
    "Kevin De Bruyne: Man City achievements will not be tainted if appeal fails"
   ],
   "odds": {
-   "mlAway": "+750",
+   "mlAway": "+950",
    "mlAwayOpen": "+850",
    "mlDraw": "+550",
-   "mlHome": "-340",
+   "mlHome": "-390",
    "mlHomeOpen": "-425",
    "provider": "DraftKings",
-   "spread": "MNC -340",
+   "spread": "MNC -390",
    "spreadOpen": "MNC -1.5",
    "total": "3.5",
    "totalOpen": "3.5"
@@ -3537,7 +4276,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-24T20:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-24T09:45:15Z",
   "venue": "Etihad Stadium, Manchester"
  },
@@ -3547,7 +4286,7 @@
    "abbr": "LAS",
    "form": "WWWWL",
    "name": "LASK Linz",
-   "record": "2-0-2",
+   "record": "2-0-3",
    "short": "LASK Linz",
    "teamId": "4411"
   },
@@ -3559,7 +4298,7 @@
    "abbr": "BODO",
    "form": "WWDWL",
    "name": "Bodo/Glimt",
-   "record": "1-1-2",
+   "record": "2-1-2",
    "short": "Bodo/Glimt",
    "teamId": "2980"
   },
@@ -3592,12 +4331,12 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-24T17:45Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-24T09:45:15Z",
   "venue": "Aspmyra Stadion, Bodø/Glimt"
  },
  "soccer-401915501": {
-  "_lastPick": "Lyon ML (-525)",
+  "_lastPick": "Lyon ML (-550)",
   "away": {
    "abbr": "LSK",
    "form": "WWLWW",
@@ -3606,7 +4345,7 @@
    "short": "Lillestrom",
    "teamId": "987"
   },
-  "confidence": 76,
+  "confidence": 77,
   "espnId": "401915501",
   "espnLeague": "uefa.europa",
   "espnSport": "soccer",
@@ -3623,19 +4362,19 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401915501",
   "market": "Moneyline",
   "odds": {
-   "mlAway": "+1200",
+   "mlAway": "+1300",
    "mlAwayOpen": "+1000",
-   "mlDraw": "+650",
-   "mlHome": "-525",
+   "mlDraw": "+700",
+   "mlHome": "-550",
    "mlHomeOpen": "-525",
    "provider": "DraftKings",
-   "spread": "LYON -525",
+   "spread": "LYON -550",
    "spreadOpen": "LYON -1.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
-  "pick": "Lyon ML (-525)",
-  "reason": "Lyon are about 80% no-vig at -525.",
+  "pick": "Lyon ML (-550)",
+  "reason": "Lyon are about 81% no-vig at -550.",
   "risks": [
    "opponent in better form (WWLWW)"
   ],
@@ -3645,7 +4384,7 @@
   "stars": 2,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Groupama Stadium, Lyon"
  },
  "soccer-401915502": {
@@ -3695,7 +4434,7 @@
   "stars": 2,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Allianz Stadium, Torino"
  },
  "soccer-401915503": {
@@ -3742,7 +4481,7 @@
   "stars": 1,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Pankritio Stadium, Crete"
  },
  "soccer-401915504": {
@@ -3789,7 +4528,7 @@
   "stars": 1,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Selhurst Park, London"
  },
  "soccer-401915505": {
@@ -3836,7 +4575,7 @@
   "stars": 1,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Goffertstadion, Nijmegen"
  },
  "soccer-401915506": {
@@ -3886,11 +4625,11 @@
   "stars": 2,
   "start": "2026-11-26T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Batumi Stadium (Adjarabet Arena), Batumi"
  },
  "soccer-401915507": {
-  "_lastPick": "Marseille ML (-230)",
+  "_lastPick": "Marseille ML (-245)",
   "away": {
    "abbr": "LEV",
    "form": "WWDLL",
@@ -3899,7 +4638,7 @@
    "short": "Levski Sofia",
    "teamId": "490"
   },
-  "confidence": 64,
+  "confidence": 65,
   "espnId": "401915507",
   "espnLeague": "uefa.europa",
   "espnSport": "soccer",
@@ -3916,19 +4655,19 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401915507",
   "market": "Moneyline",
   "odds": {
-   "mlAway": "+600",
+   "mlAway": "+650",
    "mlAwayOpen": "+500",
-   "mlDraw": "+390",
-   "mlHome": "-230",
+   "mlDraw": "+400",
+   "mlHome": "-245",
    "mlHomeOpen": "-210",
    "provider": "DraftKings",
-   "spread": "OLM -230",
+   "spread": "OLM -245",
    "spreadOpen": "OLM -1.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
-  "pick": "Marseille ML (-230)",
-  "reason": "Marseille are about 67% no-vig at -230.",
+  "pick": "Marseille ML (-245)",
+  "reason": "Marseille are about 68% no-vig at -245.",
   "risks": [],
   "side": "home",
   "slug": "uefa.europa",
@@ -3936,7 +4675,7 @@
   "stars": 2,
   "start": "2026-11-26T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Stade Vélodrome, Marseille"
  },
  "soccer-401915508": {
@@ -3986,7 +4725,7 @@
   "stars": 2,
   "start": "2026-11-26T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "King Power at Den Dreef Stadion, Leuven"
  },
  "soccer-401915512": {
@@ -4033,11 +4772,11 @@
   "stars": 1,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Estádio Dr. Magalhaes Pessoa, Leiria"
  },
  "soccer-401915513": {
-  "_lastPick": "Sunderland ML (-390)",
+  "_lastPick": "Sunderland ML (-425)",
   "away": {
    "abbr": "JAG",
    "form": "LLWLW",
@@ -4046,7 +4785,7 @@
    "short": "Jagiellonia ",
    "teamId": "11505"
   },
-  "confidence": 73,
+  "confidence": 74,
   "espnId": "401915513",
   "espnLeague": "uefa.europa",
   "espnSport": "soccer",
@@ -4065,17 +4804,17 @@
   "odds": {
    "mlAway": "+1000",
    "mlAwayOpen": "+900",
-   "mlDraw": "+500",
-   "mlHome": "-390",
+   "mlDraw": "+550",
+   "mlHome": "-425",
    "mlHomeOpen": "-380",
    "provider": "DraftKings",
-   "spread": "SUN -390",
+   "spread": "SUN -425",
    "spreadOpen": "SUN -1.5",
-   "total": "2.5",
+   "total": "3.5",
    "totalOpen": "2.5"
   },
-  "pick": "Sunderland ML (-390)",
-  "reason": "Sunderland are about 76% no-vig at -390.",
+  "pick": "Sunderland ML (-425)",
+  "reason": "Sunderland are about 77% no-vig at -425.",
   "risks": [],
   "side": "home",
   "slug": "uefa.europa",
@@ -4083,7 +4822,7 @@
   "stars": 2,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Stadium of Light, Sunderland"
  },
  "soccer-401915514": {
@@ -4095,7 +4834,7 @@
    "short": "AZ Alkmaar",
    "teamId": "140"
   },
-  "confidence": 37,
+  "confidence": 38,
   "espnId": "401915514",
   "espnLeague": "uefa.europa",
   "espnSport": "soccer",
@@ -4111,26 +4850,26 @@
   "league": "Europa League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401915514",
   "odds": {
-   "mlAway": "+140",
+   "mlAway": "+135",
    "mlAwayOpen": "+145",
-   "mlDraw": "+265",
-   "mlHome": "+180",
+   "mlDraw": "+270",
+   "mlHome": "+185",
    "mlHomeOpen": "+165",
    "provider": "DraftKings",
-   "spread": "AZ +140",
+   "spread": "AZ +135",
    "spreadOpen": "AZ -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "AZ Alkmaar about 40% no-vig at +140; no edge worth a pick.",
+  "reason": "AZ Alkmaar about 41% no-vig at +135; no edge worth a pick.",
   "risks": [],
   "slug": "uefa.europa",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Generali Arena, Prague"
  },
  "soccer-401915515": {
@@ -4180,7 +4919,7 @@
   "stars": 2,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "PreZero Arena, Sinsheim"
  },
  "soccer-401915516": {
@@ -4230,7 +4969,7 @@
   "stars": 2,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Groupama Arena, Budapest"
  },
  "soccer-401915517": {
@@ -4277,7 +5016,7 @@
   "stars": 1,
   "start": "2026-11-26T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Maksimir Stadium, Zagreb"
  },
  "soccer-401915518": {
@@ -4327,7 +5066,7 @@
   "stars": 2,
   "start": "2026-11-26T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Doosan Arena, Plzen"
  },
  "soccer-401915519": {
@@ -4376,11 +5115,11 @@
   "stars": 1,
   "start": "2026-11-26T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Balaidos, Vigo"
  },
  "soccer-401915520": {
-  "_lastPick": "RB Salzburg ML (-600)",
+  "_lastPick": "RB Salzburg ML (-550)",
   "away": {
    "abbr": "ARA",
    "form": "LLLWL",
@@ -4389,7 +5128,7 @@
    "short": "Ararat-Armenia",
    "teamId": "20024"
   },
-  "confidence": 79,
+  "confidence": 78,
   "espnId": "401915520",
   "espnLeague": "uefa.europa",
   "espnSport": "soccer",
@@ -4406,19 +5145,19 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401915520",
   "market": "Moneyline",
   "odds": {
-   "mlAway": "+1300",
+   "mlAway": "+1200",
    "mlAwayOpen": "+1000",
-   "mlDraw": "+750",
-   "mlHome": "-600",
+   "mlDraw": "+700",
+   "mlHome": "-550",
    "mlHomeOpen": "-500",
    "provider": "DraftKings",
-   "spread": "SLZ -600",
+   "spread": "SLZ -550",
    "spreadOpen": "SLZ -2.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
-  "pick": "RB Salzburg ML (-600)",
-  "reason": "RB Salzburg are about 82% no-vig at -600.",
+  "pick": "RB Salzburg ML (-550)",
+  "reason": "RB Salzburg are about 81% no-vig at -550.",
   "risks": [],
   "side": "home",
   "slug": "uefa.europa",
@@ -4426,7 +5165,7 @@
   "stars": 2,
   "start": "2026-11-26T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Red Bull Arena Salzburg, Salzburg"
  },
  "soccer-401915521": {
@@ -4438,7 +5177,7 @@
    "short": "Milan",
    "teamId": "103"
   },
-  "confidence": 35,
+  "confidence": 36,
   "espnId": "401915521",
   "espnLeague": "uefa.europa",
   "espnSport": "soccer",
@@ -4454,26 +5193,26 @@
   "league": "Europa League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401915521",
   "odds": {
-   "mlAway": "+155",
+   "mlAway": "+145",
    "mlAwayOpen": "+185",
    "mlDraw": "+245",
-   "mlHome": "+175",
+   "mlHome": "+190",
    "mlHomeOpen": "+135",
    "provider": "DraftKings",
-   "spread": "MIL +155",
+   "spread": "MIL +145",
    "spreadOpen": "OLY -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Milan about 38% no-vig at +155; no edge worth a pick.",
+  "reason": "Milan about 39% no-vig at +145; no edge worth a pick.",
   "risks": [],
   "slug": "uefa.europa",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-26T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Georgios Karaiskakis Stadium, Piraeus"
  },
  "soccer-401931982": {
@@ -4506,21 +5245,25 @@
   "stars": 1,
   "start": "2026-11-27T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Estadio Hidalgo, Pachuca"
  },
  "soccer-401931986": {
+  "_lastPick": "Toluca ML (-230)",
   "away": {
    "abbr": "ATS",
+   "form": "DLWWL",
    "name": "Atlas",
    "short": "Atlas",
    "teamId": "216"
   },
+  "confidence": 62,
   "espnId": "401931986",
   "espnLeague": "mex.1",
   "espnSport": "soccer",
   "home": {
    "abbr": "TOL",
+   "form": "LWDDD",
    "name": "Toluca",
    "short": "Toluca",
    "teamId": "223"
@@ -4528,18 +5271,32 @@
   "id": "soccer-401931986",
   "league": "Liga MX",
   "link": "https://www.espn.com/soccer/match/_/gameId/401931986",
+  "market": "Moneyline",
+  "news": [
+   "Liga MX Apertura playoff preview: Will Cruz Azul win back-to-back titles?"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+500",
+   "mlAwayOpen": "+500",
+   "mlDraw": "+380",
+   "mlHome": "-230",
+   "mlHomeOpen": "-230",
+   "provider": "DraftKings",
+   "spread": "TOL -230",
+   "spreadOpen": "TOL -1.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
   },
-  "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "pick": "Toluca ML (-230)",
+  "reason": "Toluca are about 65% no-vig at -230.",
   "risks": [],
+  "side": "home",
   "slug": "mex.1",
   "sport": "soccer",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-26T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Estadio Nemesio Díez Riega, Toluca"
  },
  "soccer-401931995": {
@@ -4587,7 +5344,7 @@
   "stars": 1,
   "start": "2026-11-27T03:10Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Estadio León, León de los Aldamas"
  },
  "soccer-401931998": {
@@ -4616,9 +5373,9 @@
    "Liga MX Apertura playoff preview: Will Cruz Azul win back-to-back titles?"
   ],
   "odds": {
-   "mlAway": "+190",
+   "mlAway": "+200",
    "mlAwayOpen": "+190",
-   "mlDraw": "+230",
+   "mlDraw": "+225",
    "mlHome": "+135",
    "mlHomeOpen": "+135",
    "provider": "DraftKings",
@@ -4635,7 +5392,7 @@
   "stars": 1,
   "start": "2026-11-26T03:10Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "Estadio BBVA, Guadalupe"
  },
  "soccer-401933728": {
@@ -4696,7 +5453,7 @@
    "short": "Houston",
    "teamId": "6077"
   },
-  "confidence": 41,
+  "confidence": 47,
   "espnId": "401933738",
   "espnLeague": "usa.1",
   "espnSport": "soccer",
@@ -4711,31 +5468,31 @@
   "league": "MLS",
   "link": "https://www.espn.com/soccer/match/_/gameId/401933738",
   "news": [
+   "Fiona the hippo to be honored by FC Cincinnati with tifo after untimely death",
    "Gomez: MLS won't change format for relegation",
-   "St. Louis City holds off LAFC in 3-2 victory to take first-round lead",
-   "St. Louis CITY SC vs. LAFC - Game Highlights"
+   "St. Louis City holds off LAFC in 3-2 victory to take first-round lead"
   ],
   "odds": {
-   "mlAway": "+215",
+   "mlAway": "+270",
    "mlAwayOpen": "+200",
-   "mlDraw": "+245",
-   "mlHome": "+110",
+   "mlDraw": "+270",
+   "mlHome": "-120",
    "mlHomeOpen": "+105",
    "provider": "DraftKings",
-   "spread": "SJ +110",
+   "spread": "SJ -120",
    "spreadOpen": "SJ -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "San Jose about 44% no-vig at +110; no edge worth a pick.",
+  "reason": "San Jose about 50% no-vig at -120; no edge worth a pick.",
   "risks": [],
   "slug": "usa.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-25T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-24T09:45:15Z",
+  "updatedAt": "2026-11-24T20:23:02Z",
   "venue": "PayPal Park, San Jose, California"
  }
 }
