@@ -1,0 +1,156 @@
+{
+ "id": "nfl-401873078",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-24T01:15Z",
+ "home": {
+  "name": "Washington Commanders",
+  "abbr": "WSH",
+  "teamId": "28",
+  "score": 22.0
+ },
+ "away": {
+  "name": "Cincinnati Bengals",
+  "abbr": "CIN",
+  "teamId": "4",
+  "score": 20.0
+ },
+ "odds": {
+  "mlAway": "-301",
+  "mlAwayOpen": "-125",
+  "mlHome": "+245",
+  "mlHomeOpen": "+105",
+  "provider": "DraftKings",
+  "spread": "CIN -6",
+  "spreadOpen": "CIN -1.5",
+  "total": "54.5",
+  "totalOpen": "52.5"
+ },
+ "espnWinProb": {
+  "away": 74.5,
+  "home": 25.3
+ },
+ "teams": {
+  "away": {
+   "abbr": "CIN",
+   "stats": {
+    "firstDowns": "17",
+    "firstDownsPassing": "15",
+    "firstDownsRushing": "1",
+    "firstDownsPenalty": "1",
+    "thirdDownEff": "4-12",
+    "fourthDownEff": "1-2",
+    "totalOffensivePlays": "57",
+    "totalYards": "312",
+    "yardsPerPlay": "5.5",
+    "totalDrives": "10",
+    "netPassingYards": "281",
+    "completionAttempts": "28/40",
+    "yardsPerPass": "6.5",
+    "interceptions": "0",
+    "sacksYardsLost": "3-19",
+    "rushingYards": "31",
+    "rushingAttempts": "14",
+    "yardsPerRushAttempt": "2.2",
+    "redZoneAttempts": "1-1",
+    "totalPenaltiesYards": "5-39",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "28:29"
+   }
+  },
+  "home": {
+   "abbr": "WSH",
+   "stats": {
+    "firstDowns": "23",
+    "firstDownsPassing": "13",
+    "firstDownsRushing": "8",
+    "firstDownsPenalty": "2",
+    "thirdDownEff": "2-10",
+    "fourthDownEff": "0-0",
+    "totalOffensivePlays": "64",
+    "totalYards": "428",
+    "yardsPerPlay": "6.7",
+    "totalDrives": "10",
+    "netPassingYards": "278",
+    "completionAttempts": "23/35",
+    "yardsPerPass": "7.3",
+    "interceptions": "0",
+    "sacksYardsLost": "3-11",
+    "rushingYards": "150",
+    "rushingAttempts": "26",
+    "yardsPerRushAttempt": "5.8",
+    "redZoneAttempts": "1-4",
+    "totalPenaltiesYards": "5-40",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "31:31"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 2,
+   "clock": "6:17",
+   "team": "CIN",
+   "text": "Evan McPherson 38 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "1:55",
+   "team": "CIN",
+   "text": "Tee Higgins 31 Yd pass from Joe Burrow (Evan McPherson Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:12",
+   "team": "WSH",
+   "text": "Jacory Croskey-Merritt 1 Yd Rush (Drew Stevens Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "11:47",
+   "team": "WSH",
+   "text": "Drew Stevens 36 Yd Field Goal"
+  },
+  {
+   "period": 3,
+   "clock": "7:04",
+   "team": "CIN",
+   "text": "Colbie Young 4 Yd pass from Joe Burrow (Evan McPherson Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "2:36",
+   "team": "WSH",
+   "text": "Drew Stevens 40 Yd Field Goal "
+  },
+  {
+   "period": 4,
+   "clock": "10:32",
+   "team": "WSH",
+   "text": "Drew Stevens 25 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "2:26",
+   "team": "WSH",
+   "text": "Drew Stevens 41 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "0:46",
+   "team": "CIN",
+   "text": "Evan McPherson 56 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "0:00",
+   "team": "WSH",
+   "text": "Drew Stevens 26 Yd Field Goal "
+  }
+ ]
+}

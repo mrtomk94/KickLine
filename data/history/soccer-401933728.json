@@ -1,0 +1,282 @@
+{
+ "id": "soccer-401933728",
+ "sport": "soccer",
+ "league": "MLS",
+ "start": "2026-11-24T01:00Z",
+ "home": {
+  "name": "St. Louis CITY SC",
+  "abbr": "STL",
+  "teamId": "21812",
+  "score": 3.0
+ },
+ "away": {
+  "name": "LAFC",
+  "abbr": "LAFC",
+  "teamId": "18966",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "+155",
+  "mlAwayOpen": "+150",
+  "mlDraw": "+235",
+  "mlHome": "+155",
+  "mlHomeOpen": "+140",
+  "provider": "DraftKings",
+  "spread": "STL +155",
+  "spreadOpen": "STL -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "STL",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "7",
+    "saves": "2",
+    "possessionPct": "55",
+    "totalShots": "10",
+    "shotsOnTarget": "6",
+    "shotPct": "0.6",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "452",
+    "totalPasses": "562",
+    "passPct": "0.8",
+    "accurateCrosses": "2",
+    "totalCrosses": "11",
+    "crossPct": "0.2",
+    "totalLongBalls": "49",
+    "accurateLongBalls": "17",
+    "longballPct": "0.3",
+    "blockedShots": "2",
+    "effectiveTackles": "13",
+    "totalTackles": "18",
+    "tacklePct": "0.7",
+    "interceptions": "10",
+    "effectiveClearance": "24",
+    "totalClearance": "24"
+   }
+  },
+  "away": {
+   "abbr": "LAFC",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "2",
+    "saves": "3",
+    "possessionPct": "45",
+    "totalShots": "17",
+    "shotsOnTarget": "4",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "373",
+    "totalPasses": "464",
+    "passPct": "0.8",
+    "accurateCrosses": "2",
+    "totalCrosses": "8",
+    "crossPct": "0.3",
+    "totalLongBalls": "49",
+    "accurateLongBalls": "19",
+    "longballPct": "0.4",
+    "blockedShots": "7",
+    "effectiveTackles": "8",
+    "totalTackles": "19",
+    "tacklePct": "0.4",
+    "interceptions": "16",
+    "effectiveClearance": "17",
+    "totalClearance": "17"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "34'",
+   "team": null,
+   "text": "Goal! St. Louis City SC 1, Los Angeles Football Club 0. Daniel Edelman (St. Louis City SC) right footed shot from the centre of the box to the bottom left corner. Assisted by Rafael Navarro."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins St. Louis City SC 1, Los Angeles Football Club 0."
+  },
+  {
+   "type": "Goal",
+   "clock": "51'",
+   "team": null,
+   "text": "Goal! St. Louis City SC 2, Los Angeles Football Club 0. Jeong Sang-Bin (St. Louis City SC) right footed shot from outside the box to the bottom left corner. Assisted by Chris Durkin following a corner"
+  },
+  {
+   "type": "Substitution",
+   "clock": "60'",
+   "team": null,
+   "text": "Substitution, Los Angeles Football Club. Igor Jesus replaces Mark Delgado."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Los Angeles Football Club. Sergio Vasquez replaces Leo Walta."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "62'",
+   "team": null,
+   "text": "Goal! St. Louis City SC 2, Los Angeles Football Club 1. Sergi Palencia (Los Angeles Football Club) header from the centre of the box to the bottom left corner. Assisted by Ryan Porteous with a cross."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "71'",
+   "team": null,
+   "text": "Delay in match (St. Louis City SC)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "71'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "71'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "71'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "76'",
+   "team": null,
+   "text": "Delay in match because of an injury Alexandru Matan (St. Louis City SC)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "76'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "76'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "76'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, St. Louis City SC. Simon Becher replaces Jeong Sang-Bin."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, St. Louis City SC. Tomás Ostrák replaces Alexandru Matan because of an injury."
+  },
+  {
+   "type": "Goal - Volley",
+   "clock": "78'",
+   "team": null,
+   "text": "Goal! St. Louis City SC 3, Los Angeles Football Club 1. Simon Becher (St. Louis City SC) right footed shot from outside the box to the bottom left corner. Assisted by Chris Durkin."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Los Angeles Football Club. Tommy Mihalic replaces Mathieu Choinière."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Los Angeles Football Club. Ryan Hollingshead replaces Yevhen Cheberko."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "80'",
+   "team": null,
+   "text": "Eddie Segura (Los Angeles Football Club) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "85'",
+   "team": null,
+   "text": "Goal! St. Louis City SC 3, Los Angeles Football Club 2. Denis Bouanga (Los Angeles Football Club) converts the penalty with a right footed shot to the bottom right corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "85'",
+   "team": null,
+   "text": "Tomás Ostrák (St. Louis City SC) is shown the yellow card."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "89'",
+   "team": null,
+   "text": "Delay in match because of an injury Conrad Wallem (St. Louis City SC)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "89'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Substitution, St. Louis City SC. Jaziel Orozco replaces Conrad Wallem because of an injury."
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'+1'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+13'",
+   "team": null,
+   "text": "Second Half ends, St. Louis City SC 3, Los Angeles Football Club 2."
+  }
+ ],
+ "scoringPlays": []
+}
