@@ -1,0 +1,246 @@
+{
+ "id": "soccer-401933738",
+ "sport": "soccer",
+ "league": "MLS",
+ "start": "2026-11-25T03:00Z",
+ "home": {
+  "name": "San Jose Earthquakes",
+  "abbr": "SJ",
+  "teamId": "191",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Houston Dynamo FC",
+  "abbr": "HOU",
+  "teamId": "6077",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+260",
+  "mlAwayOpen": "+200",
+  "mlDraw": "+260",
+  "mlHome": "-110",
+  "mlHomeOpen": "+105",
+  "provider": "DraftKings",
+  "spread": "SJ -110",
+  "spreadOpen": "SJ -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "SJ",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "7",
+    "saves": "4",
+    "possessionPct": "36.8",
+    "totalShots": "11",
+    "shotsOnTarget": "5",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "278",
+    "totalPasses": "345",
+    "passPct": "0.8",
+    "accurateCrosses": "4",
+    "totalCrosses": "14",
+    "crossPct": "0.3",
+    "totalLongBalls": "35",
+    "accurateLongBalls": "13",
+    "longballPct": "0.4",
+    "blockedShots": "4",
+    "effectiveTackles": "13",
+    "totalTackles": "17",
+    "tacklePct": "0.8",
+    "interceptions": "13",
+    "effectiveClearance": "25",
+    "totalClearance": "25"
+   }
+  },
+  "away": {
+   "abbr": "HOU",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "3",
+    "redCards": "1",
+    "offsides": "1",
+    "wonCorners": "5",
+    "saves": "3",
+    "possessionPct": "63.2",
+    "totalShots": "9",
+    "shotsOnTarget": "5",
+    "shotPct": "0.6",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "521",
+    "totalPasses": "606",
+    "passPct": "0.9",
+    "accurateCrosses": "6",
+    "totalCrosses": "20",
+    "crossPct": "0.3",
+    "totalLongBalls": "43",
+    "accurateLongBalls": "21",
+    "longballPct": "0.5",
+    "blockedShots": "0",
+    "effectiveTackles": "11",
+    "totalTackles": "18",
+    "tacklePct": "0.6",
+    "interceptions": "9",
+    "effectiveClearance": "8",
+    "totalClearance": "8"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Start Delay",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "11'",
+   "team": null,
+   "text": "Goal! San Jose Earthquakes 1, Houston Dynamo FC 0. Ronaldo Vieira (San Jose Earthquakes) header from very close range to the bottom left corner. Assisted by Timo Werner with a cross following a corner"
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "23'",
+   "team": null,
+   "text": "Agustin Resch (Houston Dynamo FC) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal - Free-kick",
+   "clock": "24'",
+   "team": null,
+   "text": "Goal! San Jose Earthquakes 2, Houston Dynamo FC 0. Eduard Löwen (San Jose Earthquakes) from a free kick with a right footed shot to the top left corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "30'",
+   "team": null,
+   "text": "Artur (Houston Dynamo FC) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": "First Half ends, San Jose Earthquakes 2, Houston Dynamo FC 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Houston Dynamo FC. Duncan McGuire replaces Lyle Foster."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins San Jose Earthquakes 2, Houston Dynamo FC 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Houston Dynamo FC. Lawrence Ennali replaces Ibrahim Aliyu."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Houston Dynamo FC. Agustín Bouzat replaces Héctor Herrera."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "67'",
+   "team": null,
+   "text": "Timo Werner (San Jose Earthquakes) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "70'",
+   "team": null,
+   "text": "Reid Roberts (San Jose Earthquakes) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, San Jose Earthquakes. Jamar Ricketts replaces Timo Werner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, San Jose Earthquakes. Ian Harkes replaces Vítor Costa."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, San Jose Earthquakes. Dave Romney replaces Ronaldo Vieira."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, San Jose Earthquakes. Ousseni Bouda replaces Preston Judd."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Houston Dynamo FC. Nick Markanich replaces Duane Holmes."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "80'",
+   "team": null,
+   "text": "Goal! San Jose Earthquakes 2, Houston Dynamo FC 1. Duncan McGuire (Houston Dynamo FC) header from the centre of the box to the top right corner. Assisted by Mateusz Bogusz with a cross following a cor"
+  },
+  {
+   "type": "Red Card",
+   "clock": "81'",
+   "team": null,
+   "text": "Agustin Resch (Houston Dynamo FC) is shown the red card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "82'",
+   "team": null,
+   "text": "Lucas Halter (Houston Dynamo FC) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "87'",
+   "team": null,
+   "text": "Jamar Ricketts (San Jose Earthquakes) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Substitution, San Jose Earthquakes. Nick Fernandez replaces Eduard Löwen."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+6'",
+   "team": null,
+   "text": "Second Half ends, San Jose Earthquakes 2, Houston Dynamo FC 1."
+  }
+ ],
+ "scoringPlays": []
+}
