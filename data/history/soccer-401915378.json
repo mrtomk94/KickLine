@@ -1,0 +1,282 @@
+{
+ "id": "soccer-401915378",
+ "sport": "soccer",
+ "league": "Champions League",
+ "start": "2026-11-25T17:45Z",
+ "home": {
+  "name": "Sabah FK",
+  "abbr": "SAB",
+  "teamId": "21922",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Barcelona",
+  "abbr": "BAR",
+  "teamId": "83",
+  "score": 4.0
+ },
+ "odds": {
+  "mlAway": "-1400",
+  "mlAwayOpen": "-1400",
+  "mlDraw": "+1300",
+  "mlHome": "+2200",
+  "mlHomeOpen": "+1600",
+  "provider": "DraftKings",
+  "spread": "BAR -1400",
+  "spreadOpen": "BAR -3.5",
+  "total": "4.5",
+  "totalOpen": "4.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "SAB",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "4",
+    "wonCorners": "4",
+    "saves": "9",
+    "possessionPct": "28.6",
+    "totalShots": "8",
+    "shotsOnTarget": "3",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "215",
+    "totalPasses": "268",
+    "passPct": "0.8",
+    "accurateCrosses": "1",
+    "totalCrosses": "6",
+    "crossPct": "0.2",
+    "totalLongBalls": "39",
+    "accurateLongBalls": "16",
+    "longballPct": "0.4",
+    "blockedShots": "1",
+    "effectiveTackles": "6",
+    "totalTackles": "14",
+    "tacklePct": "0.4",
+    "interceptions": "10",
+    "effectiveClearance": "17",
+    "totalClearance": "17"
+   }
+  },
+  "away": {
+   "abbr": "BAR",
+   "stats": {
+    "foulsCommitted": "8",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "6",
+    "saves": "2",
+    "possessionPct": "71.4",
+    "totalShots": "25",
+    "shotsOnTarget": "14",
+    "shotPct": "0.6",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "633",
+    "totalPasses": "685",
+    "passPct": "0.9",
+    "accurateCrosses": "1",
+    "totalCrosses": "10",
+    "crossPct": "0.1",
+    "totalLongBalls": "16",
+    "accurateLongBalls": "9",
+    "longballPct": "0.6",
+    "blockedShots": "3",
+    "effectiveTackles": "9",
+    "totalTackles": "14",
+    "tacklePct": "0.6",
+    "interceptions": "2",
+    "effectiveClearance": "11",
+    "totalClearance": "11"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "31'",
+   "team": null,
+   "text": "Goal! Sabah 0, Barcelona 1. Anthony Gordon (Barcelona) right footed shot from the centre of the box to the centre of the goal."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, Sabah 0, Barcelona 1."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Sabah. Joy-Lance Mickels replaces Xayal Aliyev."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Barcelona. Dani Olmo replaces Pedri."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal - Volley",
+   "clock": "51'",
+   "team": null,
+   "text": "Goal! Sabah 0, Barcelona 2. Anthony Gordon (Barcelona) right footed shot from the left side of the six yard box to the bottom left corner."
+  },
+  {
+   "type": "Goal",
+   "clock": "55'",
+   "team": null,
+   "text": "Goal! Sabah 0, Barcelona 3. Karim Adeyemi (Barcelona) right footed shot from very close range to the bottom right corner. Assisted by Alejandro Balde."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "58'",
+   "team": null,
+   "text": "Delay in match because of an injury Alejandro Balde (Barcelona)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "58'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "60'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "60'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "60'",
+   "team": null,
+   "text": "Goal! Sabah 0, Barcelona 4. Gabriel Jesus (Barcelona) right footed shot from very close range to the bottom right corner following a corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Sabah. Aleksey Isayev replaces Du Queiroz."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Sabah. Kaheem Parris replaces Xander Severina."
+  },
+  {
+   "type": "Goal",
+   "clock": "63'",
+   "team": null,
+   "text": "Goal! Sabah 1, Barcelona 4. Joy-Lance Mickels (Sabah) left footed shot from the centre of the box to the bottom left corner. Assisted by Christian Nwachukwu.Goal confirmed following VAR Review."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "63'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "64'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Barcelona. Álex Campos replaces Frenkie de Jong."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Barcelona. João Cancelo replaces Alejandro Balde because of an injury."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "69'",
+   "team": null,
+   "text": "Ivan Lepinjica (Sabah) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "74'",
+   "team": null,
+   "text": "Delay in match because of an injury Akim Zedadka (Sabah)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "74'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "76'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "76'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Barcelona. Raphinha replaces Anthony Gordon."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Sabah. Rahman Dasdamirov replaces Júnior Almeida."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Sabah. Tellur Mütallimov replaces Akim Zedadka because of an injury."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Barcelona. Brian Fariñas replaces Gavi."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+3'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

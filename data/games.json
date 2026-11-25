@@ -400,7 +400,7 @@
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-25T22:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-25T13:29:33Z",
   "venue": "Xfinity Mobile Arena, Philadelphia"
  },
@@ -409,6 +409,7 @@
    "abbr": "CHI",
    "form": "WLLWL",
    "injuries": [
+    "Jalen Smith (F) – Out, Illness",
     "Norman Powell (G) – Out, Hamstring",
     "Caleb Wilson (F) – Out, Hand"
    ],
@@ -417,20 +418,21 @@
    "short": "Bulls",
    "teamId": "4"
   },
-  "confidence": 51,
+  "confidence": 53,
   "espnId": "401909318",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 47.9,
-   "home": 52.1
+   "away": 48.2,
+   "home": 51.8
   },
   "home": {
    "abbr": "CHA",
    "form": "LLLLL",
    "injuries": [
-    "Dennis Schroder (G) – Out, Hamstring",
+    "Ryan Kalkbrenner (C) – Out, Hip",
     "Grayson Allen (G) – Out, Concussion",
+    "Dennis Schroder (G) – Out, Hamstring",
     "Kon Knueppel (G) – Out, Hamstring"
    ],
    "name": "Charlotte Hornets",
@@ -441,6 +443,13 @@
   "id": "nba-401909318",
   "injuriesRaw": {
    "away": [
+    {
+     "detail": "Illness",
+     "player": "Jalen Smith",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
     {
      "detail": "Hamstring",
      "player": "Norman Powell",
@@ -458,15 +467,22 @@
    ],
    "home": [
     {
-     "detail": "Hamstring",
-     "player": "Dennis Schroder",
-     "pos": "G",
+     "detail": "Hip",
+     "player": "Ryan Kalkbrenner",
+     "pos": "C",
      "stale": false,
      "status": "Out"
     },
     {
      "detail": "Concussion",
      "player": "Grayson Allen",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "Dennis Schroder",
      "pos": "G",
      "stale": false,
      "status": "Out"
@@ -483,25 +499,25 @@
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909318",
   "news": [
-   "Inside LeBron's first game in Philly -- more than two decades ago",
-   "LaMelo Ball and the 'collective' carrying Minnesota without Anthony Edwards",
-   "NBA Power Rankings: Whom is each team most thankful for this year?"
+   "2026 NBA Cup: Schedule, format, groups, updates and more",
+   "Austin Reaves rejoins Lakers for full practice, no call yet on facing Spurs",
+   "The Spurs look to stay undefeated on the road as they take on the Trail Blazers"
   ],
   "odds": {
-   "mlAway": "+130",
+   "mlAway": "+151",
    "mlAwayOpen": "+137",
-   "mlHome": "-154",
+   "mlHome": "-180",
    "mlHomeOpen": "-163",
    "provider": "Draft Kings",
    "spread": "CHA -3.5",
    "spreadOpen": "CHA -3.5",
-   "total": "221.5",
+   "total": "218.5",
    "totalOpen": "222.5"
   },
   "pick": "Pass",
-  "reason": "CHA about 58% no-vig at -154; no edge worth a pick.",
+  "reason": "CHA about 62% no-vig at -180; no edge worth a pick.",
   "risks": [
-   "ESPN model only 52% vs market 58%",
+   "ESPN model only 52% vs market 62%",
    "opponent in better form (WLLWL)",
    "history stats favor the opponent"
   ],
@@ -510,7 +526,7 @@
   "stars": 1,
   "start": "2026-11-26T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Spectrum Center, Charlotte"
  },
  "nba-401909319": {
@@ -527,20 +543,20 @@
    "short": "Cavaliers",
    "teamId": "5"
   },
-  "confidence": 54,
+  "confidence": 53,
   "espnId": "401909319",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 40.7,
-   "home": 59.3
+   "away": 48.0,
+   "home": 52.0
   },
   "home": {
    "abbr": "NY",
    "form": "WWWWW",
    "injuries": [
-    "Jordan Clarkson (G) – Out, Foot",
-    "OG Anunoby (F) – Out, Calf"
+    "Miles McBride (G) – Out, Groin",
+    "Jordan Clarkson (G) – Out, Foot"
    ],
    "name": "New York Knicks",
    "record": "11-6",
@@ -567,16 +583,16 @@
    ],
    "home": [
     {
-     "detail": "Foot",
-     "player": "Jordan Clarkson",
+     "detail": "Groin",
+     "player": "Miles McBride",
      "pos": "G",
      "stale": false,
      "status": "Out"
     },
     {
-     "detail": "Calf",
-     "player": "OG Anunoby",
-     "pos": "F",
+     "detail": "Foot",
+     "player": "Jordan Clarkson",
+     "pos": "G",
      "stale": false,
      "status": "Out"
     }
@@ -586,25 +602,26 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909319",
   "market": null,
   "news": [
-   "Inside LeBron's first game in Philly -- more than two decades ago",
-   "LaMelo Ball and the 'collective' carrying Minnesota without Anthony Edwards",
-   "NBA Power Rankings: Whom is each team most thankful for this year?"
+   "2026 NBA Cup: Schedule, format, groups, updates and more",
+   "Austin Reaves rejoins Lakers for full practice, no call yet on facing Spurs",
+   "The Spurs look to stay undefeated on the road as they take on the Trail Blazers"
   ],
   "odds": {
-   "mlAway": "+130",
+   "mlAway": "+151",
    "mlAwayOpen": "+186",
-   "mlHome": "-155",
+   "mlHome": "-180",
    "mlHomeOpen": "-224",
    "provider": "Draft Kings",
-   "spread": "NY -2.5",
+   "spread": "NY -4.5",
    "spreadOpen": "NY -5.5",
-   "total": "218.5",
+   "total": "219.5",
    "totalOpen": "220.5"
   },
   "pick": "Pass",
-  "reason": "NY about 58% no-vig at -155; no edge worth a pick.",
+  "reason": "NY about 62% no-vig at -180; no edge worth a pick.",
   "risks": [
-   "line drifted away (-224 → -155)"
+   "ESPN model only 52% vs market 62%",
+   "line drifted away (-224 → -180)"
   ],
   "side": null,
   "slug": "nba",
@@ -612,7 +629,7 @@
   "stars": 1,
   "start": "2026-11-26T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Madison Square Garden, New York"
  },
  "nba-401909320": {
@@ -628,7 +645,7 @@
    "short": "Timberwolves",
    "teamId": "16"
   },
-  "confidence": 47,
+  "confidence": 48,
   "espnId": "401909320",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -717,25 +734,25 @@
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909320",
   "news": [
-   "Inside LeBron's first game in Philly -- more than two decades ago",
-   "LaMelo Ball and the 'collective' carrying Minnesota without Anthony Edwards",
-   "NBA Power Rankings: Whom is each team most thankful for this year?"
+   "2026 NBA Cup: Schedule, format, groups, updates and more",
+   "Austin Reaves rejoins Lakers for full practice, no call yet on facing Spurs",
+   "The Spurs look to stay undefeated on the road as they take on the Trail Blazers"
   ],
   "odds": {
-   "mlAway": "+101",
+   "mlAway": "+114",
    "mlAwayOpen": "+275",
-   "mlHome": "-119",
+   "mlHome": "-135",
    "mlHomeOpen": "-345",
    "provider": "Draft Kings",
-   "spread": "OKC -1.5",
+   "spread": "OKC -2.5",
    "spreadOpen": "MIN -9.5",
-   "total": "224.5",
+   "total": "222.5",
    "totalOpen": "232.5"
   },
   "pick": "Pass",
-  "reason": "OKC about 52% no-vig at -119; no edge worth a pick.",
+  "reason": "OKC about 55% no-vig at -135; no edge worth a pick.",
   "risks": [
-   "line drifted away (-345 → -119)",
+   "line drifted away (-345 → -135)",
    "opponent in better form (WWLWW)",
    "history stats favor the opponent"
   ],
@@ -744,11 +761,11 @@
   "stars": 1,
   "start": "2026-11-26T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Paycom Center, Oklahoma City"
  },
  "nba-401909321": {
-  "_lastPick": "MEM ML (-257)",
+  "_lastPick": "MEM ML (-269)",
   "away": {
    "abbr": "LAC",
    "form": "LLLLW",
@@ -841,23 +858,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909321",
   "market": "Moneyline",
   "news": [
-   "Inside LeBron's first game in Philly -- more than two decades ago",
-   "LaMelo Ball and the 'collective' carrying Minnesota without Anthony Edwards",
-   "NBA Power Rankings: Whom is each team most thankful for this year?"
+   "2026 NBA Cup: Schedule, format, groups, updates and more",
+   "Austin Reaves rejoins Lakers for full practice, no call yet on facing Spurs",
+   "The Spurs look to stay undefeated on the road as they take on the Trail Blazers"
   ],
   "odds": {
-   "mlAway": "+211",
+   "mlAway": "+220",
    "mlAwayOpen": "+226",
-   "mlHome": "-257",
+   "mlHome": "-269",
    "mlHomeOpen": "-276",
    "provider": "Draft Kings",
-   "spread": "MEM -6.5",
+   "spread": "MEM -7.5",
    "spreadOpen": "MEM -6.5",
-   "total": "229.5",
+   "total": "227.5",
    "totalOpen": "229.5"
   },
-  "pick": "MEM ML (-257)",
-  "reason": "MEM are about 69% no-vig at -257; ESPN's model has 74%. For: form WLWWW vs LLLLW; last-5 scoring margin: MEM +8.8, LAC -10.2. Capped at 2★: NBA capped by lessons.",
+  "pick": "MEM ML (-269)",
+  "reason": "MEM are about 70% no-vig at -269; ESPN's model has 74%. For: form WLWWW vs LLLLW; last-5 scoring margin: MEM +8.8, LAC -10.2. Capped at 2★: NBA capped by lessons.",
   "risks": [],
   "side": "home",
   "slug": "nba",
@@ -865,7 +882,7 @@
   "stars": 2,
   "start": "2026-11-26T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "FedExForum, Memphis"
  },
  "nba-401909322": {
@@ -880,7 +897,7 @@
    "short": "Nets",
    "teamId": "17"
   },
-  "confidence": 50,
+  "confidence": 51,
   "espnId": "401909322",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -913,34 +930,34 @@
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909322",
   "news": [
-   "Inside LeBron's first game in Philly -- more than two decades ago",
-   "LaMelo Ball and the 'collective' carrying Minnesota without Anthony Edwards",
-   "NBA Power Rankings: Whom is each team most thankful for this year?"
+   "2026 NBA Cup: Schedule, format, groups, updates and more",
+   "Austin Reaves rejoins Lakers for full practice, no call yet on facing Spurs",
+   "The Spurs look to stay undefeated on the road as they take on the Trail Blazers"
   ],
   "odds": {
-   "mlAway": "-105",
+   "mlAway": "-101",
    "mlAwayOpen": "+101",
-   "mlHome": "-113",
+   "mlHome": "-117",
    "mlHomeOpen": "-119",
    "provider": "Draft Kings",
    "spread": "MIL -1.5",
    "spreadOpen": "MIL -1.5",
-   "total": "233.5",
+   "total": "234.5",
    "totalOpen": "229.5"
   },
   "pick": "Pass",
-  "reason": "MIL about 51% no-vig at -113; no edge worth a pick.",
+  "reason": "MIL about 52% no-vig at -117; no edge worth a pick.",
   "risks": [],
   "slug": "nba",
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-26T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Fiserv Forum, Milwaukee"
  },
  "nba-401909323": {
-  "_lastPick": "HOU ML (-424)",
+  "_lastPick": "HOU ML (-395)",
   "away": {
    "abbr": "PHX",
    "form": "WWWWL",
@@ -950,7 +967,7 @@
    "short": "Suns",
    "teamId": "21"
   },
-  "confidence": 73,
+  "confidence": 72,
   "espnId": "401909323",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -984,23 +1001,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909323",
   "market": "Moneyline",
   "news": [
-   "Inside LeBron's first game in Philly -- more than two decades ago",
-   "LaMelo Ball and the 'collective' carrying Minnesota without Anthony Edwards",
-   "NBA Power Rankings: Whom is each team most thankful for this year?"
+   "2026 NBA Cup: Schedule, format, groups, updates and more",
+   "Austin Reaves rejoins Lakers for full practice, no call yet on facing Spurs",
+   "The Spurs look to stay undefeated on the road as they take on the Trail Blazers"
   ],
   "odds": {
-   "mlAway": "+331",
+   "mlAway": "+312",
    "mlAwayOpen": "+294",
-   "mlHome": "-424",
+   "mlHome": "-395",
    "mlHomeOpen": "-369",
    "provider": "Draft Kings",
    "spread": "HOU -9.5",
    "spreadOpen": "HOU -10.5",
-   "total": "223.5",
+   "total": "222.5",
    "totalOpen": "223.5"
   },
-  "pick": "HOU ML (-424)",
-  "reason": "HOU are about 78% no-vig at -424; ESPN's model has 73%.",
+  "pick": "HOU ML (-395)",
+  "reason": "HOU are about 77% no-vig at -395; ESPN's model has 73%.",
   "risks": [],
   "side": "home",
   "slug": "nba",
@@ -1008,15 +1025,16 @@
   "stars": 2,
   "start": "2026-11-26T01:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Toyota Center (Houston), Houston"
  },
  "nba-401909324": {
-  "_lastPick": "GS ML (-264)",
+  "_lastPick": "GS ML (-319)",
   "away": {
    "abbr": "SAC",
    "form": "LWLLL",
    "injuries": [
+    "Zach LaVine (G) – Out, Knee",
     "Maxime Raynaud (C) – Out, Knee"
    ],
    "name": "Sacramento Kings",
@@ -1024,7 +1042,7 @@
    "short": "Kings",
    "teamId": "23"
   },
-  "confidence": 67,
+  "confidence": 69,
   "espnId": "401909324",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -1048,6 +1066,13 @@
   "id": "nba-401909324",
   "injuriesRaw": {
    "away": [
+    {
+     "detail": "Knee",
+     "player": "Zach LaVine",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
     {
      "detail": "Knee",
      "player": "Maxime Raynaud",
@@ -1098,23 +1123,23 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909324",
   "market": "Moneyline",
   "news": [
-   "Inside LeBron's first game in Philly -- more than two decades ago",
-   "LaMelo Ball and the 'collective' carrying Minnesota without Anthony Edwards",
-   "NBA Power Rankings: Whom is each team most thankful for this year?"
+   "2026 NBA Cup: Schedule, format, groups, updates and more",
+   "Austin Reaves rejoins Lakers for full practice, no call yet on facing Spurs",
+   "The Spurs look to stay undefeated on the road as they take on the Trail Blazers"
   ],
   "odds": {
-   "mlAway": "+217",
+   "mlAway": "+257",
    "mlAwayOpen": "+199",
-   "mlHome": "-264",
+   "mlHome": "-319",
    "mlHomeOpen": "-241",
    "provider": "Draft Kings",
-   "spread": "GS -6.5",
+   "spread": "GS -7.5",
    "spreadOpen": "GS -5.5",
-   "total": "217.5",
+   "total": "214.5",
    "totalOpen": "218.5"
   },
-  "pick": "GS ML (-264)",
-  "reason": "GS are about 70% no-vig at -264; ESPN's model has 73%.",
+  "pick": "GS ML (-319)",
+  "reason": "GS are about 73% no-vig at -319; ESPN's model has 73%. For: line moved toward GS (-241 → -319). Capped at 2★: NBA capped by lessons.",
   "risks": [
    "history stats favor the opponent"
   ],
@@ -1124,7 +1149,7 @@
   "stars": 2,
   "start": "2026-11-26T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Chase Center, San Francisco"
  },
  "nba-401909325": {
@@ -1140,7 +1165,7 @@
    "short": "Spurs",
    "teamId": "24"
   },
-  "confidence": 52,
+  "confidence": 53,
   "espnId": "401909325",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -1220,14 +1245,14 @@
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909325",
   "news": [
-   "Inside LeBron's first game in Philly -- more than two decades ago",
-   "LaMelo Ball and the 'collective' carrying Minnesota without Anthony Edwards",
-   "NBA Power Rankings: Whom is each team most thankful for this year?"
+   "2026 NBA Cup: Schedule, format, groups, updates and more",
+   "Austin Reaves rejoins Lakers for full practice, no call yet on facing Spurs",
+   "The Spurs look to stay undefeated on the road as they take on the Trail Blazers"
   ],
   "odds": {
-   "mlAway": "-148",
+   "mlAway": "-162",
    "mlAwayOpen": "-170",
-   "mlHome": "+124",
+   "mlHome": "+136",
    "mlHomeOpen": "+142",
    "provider": "Draft Kings",
    "spread": "SA -3.5",
@@ -1236,16 +1261,16 @@
    "totalOpen": "237.5"
   },
   "pick": "Pass",
-  "reason": "SA about 57% no-vig at -148; no edge worth a pick.",
+  "reason": "SA about 59% no-vig at -162; no edge worth a pick.",
   "risks": [
-   "ESPN model only 49% vs market 57%"
+   "ESPN model only 49% vs market 59%"
   ],
   "slug": "nba",
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-26T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Moda Center, Portland"
  },
  "nba-401909326": {
@@ -1280,7 +1305,7 @@
   "stars": 1,
   "start": "2026-11-28T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Madison Square Garden, New York"
  },
  "nba-401909327": {
@@ -1315,7 +1340,7 @@
   "stars": 1,
   "start": "2026-11-28T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Little Caesars Arena, Detroit"
  },
  "nba-401909328": {
@@ -1350,7 +1375,7 @@
   "stars": 1,
   "start": "2026-11-28T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Gainbridge Fieldhouse, Indianapolis"
  },
  "nba-401909329": {
@@ -1385,7 +1410,7 @@
   "stars": 1,
   "start": "2026-11-28T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Scotiabank Arena, Toronto"
  },
  "nba-401909330": {
@@ -1420,7 +1445,7 @@
   "stars": 1,
   "start": "2026-11-28T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "TD Garden, Boston"
  },
  "nba-401909331": {
@@ -1455,7 +1480,7 @@
   "stars": 1,
   "start": "2026-11-28T01:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Target Center, Minneapolis"
  },
  "nba-401909332": {
@@ -1490,7 +1515,7 @@
   "stars": 1,
   "start": "2026-11-28T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Mortgage Matchup Center, Phoenix"
  },
  "nba-401909333": {
@@ -1525,7 +1550,7 @@
   "stars": 1,
   "start": "2026-11-28T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Frost Bank Center, San Antonio"
  },
  "nba-401909334": {
@@ -1560,7 +1585,7 @@
   "stars": 1,
   "start": "2026-11-28T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Delta Center, Salt Lake City"
  },
  "nba-401909335": {
@@ -1595,7 +1620,7 @@
   "stars": 1,
   "start": "2026-11-28T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Intuit Dome, Inglewood"
  },
  "nba-401909336": {
@@ -1630,8 +1655,43 @@
   "stars": 1,
   "start": "2026-11-28T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Moda Center, Portland"
+ },
+ "nba-401910046": {
+  "away": {
+   "abbr": "ORL",
+   "name": "Orlando Magic",
+   "record": "7-10",
+   "short": "Magic",
+   "teamId": "19"
+  },
+  "espnId": "401910046",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "WSH",
+   "name": "Washington Wizards",
+   "record": "7-12",
+   "short": "Wizards",
+   "teamId": "27"
+  },
+  "id": "nba-401910046",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401910046",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-28T22:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Capital One Arena, Washington"
  },
  "ncaaf-401856756": {
   "_lastPick": "TEX ML (-455)",
@@ -1664,9 +1724,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856756",
   "market": "Moneyline",
   "news": [
-   "Bottom 10 after Week 12: How the Bruins put the 'L' in UCLA",
-   "What went wrong for Michigan and Ohio State in 2026?",
-   "Best bets for rivalry week: Breaking down Michigan-OSU, Iowa-Nebraska and more"
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
   ],
   "odds": {
    "mlAway": "-455",
@@ -1674,7 +1734,7 @@
    "mlHome": "+350",
    "mlHomeOpen": "+124",
    "provider": "Draft Kings",
-   "spread": "TEX -11.5",
+   "spread": "TEX -10.5",
    "spreadOpen": "TEX -2.5",
    "total": "40.5",
    "totalOpen": "53.5"
@@ -1688,8 +1748,66 @@
   "stars": 3,
   "start": "2026-11-28T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Kyle Field, College Station"
+ },
+ "ncaaf-401856758": {
+  "_lastPick": "LSU ML (-625)",
+  "away": {
+   "abbr": "LSU",
+   "form": "LLLWW",
+   "name": "LSU Tigers",
+   "record": "6-5",
+   "short": "LSU",
+   "teamId": "99"
+  },
+  "confidence": 82,
+  "espnId": "401856758",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 87.9,
+   "home": 12.1
+  },
+  "home": {
+   "abbr": "ARK",
+   "form": "LWLLW",
+   "name": "Arkansas Razorbacks",
+   "record": "4-7",
+   "short": "Arkansas",
+   "teamId": "8"
+  },
+  "id": "ncaaf-401856758",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401856758",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "-625",
+   "mlAwayOpen": "-625",
+   "mlHome": "+455",
+   "mlHomeOpen": "+455",
+   "provider": "Draft Kings",
+   "spread": "LSU -14.5",
+   "spreadOpen": "LSU -13.5",
+   "total": "49.5",
+   "totalOpen": "47.5"
+  },
+  "pick": "LSU ML (-625)",
+  "reason": "LSU are about 83% no-vig at -625; ESPN's model has 88%. For: ESPN model 88% vs market 83%.",
+  "risks": [],
+  "side": "away",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 3,
+  "start": "2026-11-28T17:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Donald W. Reynolds Razorback Stadium, Fayetteville"
  },
  "ncaaf-401856759": {
   "_lastPick": "FLA ML (-230)",
@@ -1722,9 +1840,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856759",
   "market": "Moneyline",
   "news": [
-   "Bottom 10 after Week 12: How the Bruins put the 'L' in UCLA",
-   "What went wrong for Michigan and Ohio State in 2026?",
-   "Best bets for rivalry week: Breaking down Michigan-OSU, Iowa-Nebraska and more"
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
   ],
   "odds": {
    "mlAway": "-230",
@@ -1746,8 +1864,124 @@
   "stars": 2,
   "start": "2026-11-27T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Doak Campbell Stadium, Tallahassee"
+ },
+ "ncaaf-401856760": {
+  "_lastPick": "UGA ML (-8000)",
+  "away": {
+   "abbr": "GT",
+   "form": "LWLLL",
+   "name": "Georgia Tech Yellow Jackets",
+   "record": "3-8",
+   "short": "Georgia Tech",
+   "teamId": "59"
+  },
+  "confidence": 95,
+  "espnId": "401856760",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 1.7,
+   "home": 98.3
+  },
+  "home": {
+   "abbr": "UGA",
+   "form": "WWWWL",
+   "name": "#1 Georgia",
+   "record": "10-1",
+   "short": "Georgia",
+   "teamId": "61"
+  },
+  "id": "ncaaf-401856760",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401856760",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "+2200",
+   "mlAwayOpen": "+4000",
+   "mlHome": "-8000",
+   "mlHomeOpen": "-50000",
+   "provider": "Draft Kings",
+   "spread": "UGA -35.5",
+   "spreadOpen": "UGA -35.5",
+   "total": "55.5",
+   "totalOpen": "55.5"
+  },
+  "pick": "UGA ML (-8000)",
+  "reason": "UGA are about 96% no-vig at -8000; ESPN's model has 98%. For: form WWWWL vs LWLLL. Capped at 2★: huge college spread.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-28T20:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Sanford Stadium, Athens"
+ },
+ "ncaaf-401856761": {
+  "_lastPick": "LOU ML (-142)",
+  "away": {
+   "abbr": "LOU",
+   "form": "WWWWW",
+   "name": "#19 Louisville",
+   "record": "8-3",
+   "short": "Louisville",
+   "teamId": "97"
+  },
+  "confidence": 58,
+  "espnId": "401856761",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 64.4,
+   "home": 35.6
+  },
+  "home": {
+   "abbr": "UK",
+   "form": "LLLWW",
+   "name": "Kentucky Wildcats",
+   "record": "7-4",
+   "short": "Kentucky",
+   "teamId": "96"
+  },
+  "id": "ncaaf-401856761",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401856761",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "-142",
+   "mlAwayOpen": "-102",
+   "mlHome": "+120",
+   "mlHomeOpen": "-118",
+   "provider": "Draft Kings",
+   "spread": "LOU -3",
+   "spreadOpen": "UK -1.5",
+   "total": "54.5",
+   "totalOpen": "54.5"
+  },
+  "pick": "LOU ML (-142)",
+  "reason": "LOU are about 56% no-vig at -142; ESPN's model has 64%. For: ESPN model 64% vs market 56%; line moved toward LOU (-102 → -142); form WWWWW vs LLLWW.",
+  "risks": [],
+  "side": "away",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-28T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Kroger Field, Lexington"
  },
  "ncaaf-401856762": {
   "_lastPick": "MISS ML (-1050)",
@@ -1780,9 +2014,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856762",
   "market": "Moneyline",
   "news": [
-   "Bottom 10 after Week 12: How the Bruins put the 'L' in UCLA",
-   "What went wrong for Michigan and Ohio State in 2026?",
-   "Best bets for rivalry week: Breaking down Michigan-OSU, Iowa-Nebraska and more"
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
   ],
   "odds": {
    "mlAway": "+675",
@@ -1804,11 +2038,298 @@
   "stars": 3,
   "start": "2026-11-27T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Vaught-Hemingway Stadium, Oxford"
  },
+ "ncaaf-401856763": {
+  "away": {
+   "abbr": "OU",
+   "form": "WWWLW",
+   "name": "#17 Oklahoma",
+   "record": "7-4",
+   "short": "Oklahoma",
+   "teamId": "201"
+  },
+  "confidence": 48,
+  "espnId": "401856763",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 49.7,
+   "home": 50.3
+  },
+  "home": {
+   "abbr": "MIZ",
+   "form": "WLLWL",
+   "name": "#23 Missouri",
+   "record": "7-4",
+   "short": "Missouri",
+   "teamId": "142"
+  },
+  "id": "ncaaf-401856763",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401856763",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "+102",
+   "mlAwayOpen": "-102",
+   "mlHome": "-122",
+   "mlHomeOpen": "-118",
+   "provider": "Draft Kings",
+   "spread": "MIZ -2.5",
+   "spreadOpen": "MIZ -1.5",
+   "total": "41.5",
+   "totalOpen": "42.5"
+  },
+  "pick": "Pass",
+  "reason": "MIZ about 53% no-vig at -122; no edge worth a pick.",
+  "risks": [
+   "opponent in better form (WWWLW)"
+  ],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-28T21:15Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Memorial Stadium, Columbia"
+ },
+ "ncaaf-401856764": {
+  "_lastPick": "SC ML (-230)",
+  "away": {
+   "abbr": "SC",
+   "form": "LLWWW",
+   "name": "South Carolina Gamecocks",
+   "record": "6-5",
+   "short": "South Carolina",
+   "teamId": "2579"
+  },
+  "confidence": 59,
+  "espnId": "401856764",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 55.6,
+   "home": 44.4
+  },
+  "home": {
+   "abbr": "CLEM",
+   "form": "WLWWL",
+   "name": "Clemson Tigers",
+   "record": "7-4",
+   "short": "Clemson",
+   "teamId": "228"
+  },
+  "id": "ncaaf-401856764",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401856764",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "-230",
+   "mlAwayOpen": "+130",
+   "mlHome": "+190",
+   "mlHomeOpen": "-155",
+   "provider": "Draft Kings",
+   "spread": "SC -6",
+   "spreadOpen": "CLEM -3",
+   "total": "41.5",
+   "totalOpen": "53.5"
+  },
+  "pick": "SC ML (-230)",
+  "reason": "SC are about 67% no-vig at -230; ESPN's model has 56%. For: line moved toward SC (+130 → -230).",
+  "risks": [
+   "ESPN model only 56% vs market 67%"
+  ],
+  "side": "away",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-28T20:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Memorial Stadium (Clemson, SC), Clemson"
+ },
+ "ncaaf-401856875": {
+  "away": {
+   "abbr": "UCF",
+   "form": "WLWLW",
+   "name": "UCF Knights",
+   "record": "6-5",
+   "short": "UCF",
+   "teamId": "2116"
+  },
+  "confidence": 48,
+  "espnId": "401856875",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 52.3,
+   "home": 47.7
+  },
+  "home": {
+   "abbr": "COLO",
+   "form": "LWLWL",
+   "name": "Colorado Buffaloes",
+   "record": "4-7",
+   "short": "Colorado",
+   "teamId": "38"
+  },
+  "id": "ncaaf-401856875",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401856875",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "+105",
+   "mlAwayOpen": "-105",
+   "mlHome": "-125",
+   "mlHomeOpen": "-115",
+   "provider": "Draft Kings",
+   "spread": "COLO -2.5",
+   "spreadOpen": "COLO -1.5",
+   "total": "49.5",
+   "totalOpen": "50.5"
+  },
+  "pick": "Pass",
+  "reason": "COLO about 53% no-vig at -125; no edge worth a pick.",
+  "risks": [
+   "ESPN model only 48% vs market 53%"
+  ],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-28T19:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Folsom Field, Boulder"
+ },
+ "ncaaf-401856876": {
+  "_lastPick": "BYU ML (-675)",
+  "away": {
+   "abbr": "CIN",
+   "form": "WLLLW",
+   "name": "Cincinnati Bearcats",
+   "record": "6-5",
+   "short": "Cincinnati",
+   "teamId": "2132"
+  },
+  "confidence": 83,
+  "espnId": "401856876",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 11.8,
+   "home": 88.2
+  },
+  "home": {
+   "abbr": "BYU",
+   "form": "WWLWL",
+   "name": "#10 BYU",
+   "record": "9-2",
+   "short": "BYU",
+   "teamId": "252"
+  },
+  "id": "ncaaf-401856876",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401856876",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "+490",
+   "mlAwayOpen": "+380",
+   "mlHome": "-675",
+   "mlHomeOpen": "-500",
+   "provider": "Draft Kings",
+   "spread": "BYU -15.5",
+   "spreadOpen": "BYU -12.5",
+   "total": "55.5",
+   "totalOpen": "56.5"
+  },
+  "pick": "BYU ML (-675)",
+  "reason": "BYU are about 84% no-vig at -675; ESPN's model has 88%.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-28T20:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "LaVell Edwards Stadium, Provo"
+ },
+ "ncaaf-401856878": {
+  "away": {
+   "abbr": "KSU",
+   "form": "LLLLL",
+   "name": "Kansas State Wildcats",
+   "record": "4-7",
+   "short": "Kansas St",
+   "teamId": "2306"
+  },
+  "confidence": 57,
+  "espnId": "401856878",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 42.2,
+   "home": 57.8
+  },
+  "home": {
+   "abbr": "ISU",
+   "form": "LWLWL",
+   "name": "Iowa State Cyclones",
+   "record": "5-6",
+   "short": "Iowa State",
+   "teamId": "66"
+  },
+  "id": "ncaaf-401856878",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401856878",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "+154",
+   "mlAwayOpen": "+154",
+   "mlHome": "-185",
+   "mlHomeOpen": "-185",
+   "provider": "Draft Kings",
+   "spread": "ISU -3.5",
+   "spreadOpen": "ISU -5.5",
+   "total": "53.5",
+   "totalOpen": "54.5"
+  },
+  "pick": "Pass",
+  "reason": "ISU about 62% no-vig at -185; no edge worth a pick.",
+  "risks": [],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-28T19:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Jack Trice Stadium, Ames"
+ },
  "ncaaf-401856879": {
-  "_lastPick": "TTU ML (-650)",
+  "_lastPick": "TTU ML (-700)",
   "away": {
    "abbr": "TCU",
    "form": "LWLWL",
@@ -1838,23 +2359,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856879",
   "market": "Moneyline",
   "news": [
-   "Bottom 10 after Week 12: How the Bruins put the 'L' in UCLA",
-   "What went wrong for Michigan and Ohio State in 2026?",
-   "Best bets for rivalry week: Breaking down Michigan-OSU, Iowa-Nebraska and more"
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
   ],
   "odds": {
-   "mlAway": "+470",
+   "mlAway": "+500",
    "mlAwayOpen": "+575",
-   "mlHome": "-650",
+   "mlHome": "-700",
    "mlHomeOpen": "-850",
    "provider": "Draft Kings",
-   "spread": "TTU -14",
+   "spread": "TTU -15.5",
    "spreadOpen": "TTU -16.5",
-   "total": "47.5",
+   "total": "46.5",
    "totalOpen": "55.5"
   },
-  "pick": "TTU ML (-650)",
-  "reason": "TTU are about 83% no-vig at -650; ESPN's model has 82%.",
+  "pick": "TTU ML (-700)",
+  "reason": "TTU are about 84% no-vig at -700; ESPN's model has 82%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -1862,7 +2383,7 @@
   "stars": 2,
   "start": "2026-11-27T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Galaxy Stadium, Lubbock"
  },
  "ncaaf-401856880": {
@@ -1896,9 +2417,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856880",
   "market": "Moneyline",
   "news": [
-   "Bottom 10 after Week 12: How the Bruins put the 'L' in UCLA",
-   "What went wrong for Michigan and Ohio State in 2026?",
-   "Best bets for rivalry week: Breaking down Michigan-OSU, Iowa-Nebraska and more"
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
   ],
   "odds": {
    "mlAway": "+1300",
@@ -1908,7 +2429,7 @@
    "provider": "Draft Kings",
    "spread": "UTAH -25.5",
    "spreadOpen": "UTAH -20.5",
-   "total": "67.5",
+   "total": "66.5",
    "totalOpen": "68.5"
   },
   "pick": "UTAH ML (-2800)",
@@ -1920,8 +2441,359 @@
   "stars": 2,
   "start": "2026-11-28T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Rice-Eccles Stadium, Salt Lake City"
+ },
+ "ncaaf-401858311": {
+  "_lastPick": "MIA ML (-2800)",
+  "away": {
+   "abbr": "BC",
+   "form": "WLLLW",
+   "name": "Boston College Eagles",
+   "record": "5-6",
+   "short": "Boston College",
+   "teamId": "103"
+  },
+  "confidence": 92,
+  "espnId": "401858311",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 2.1,
+   "home": 97.9
+  },
+  "home": {
+   "abbr": "MIA",
+   "form": "WWLWW",
+   "name": "#7 Miami",
+   "record": "10-1",
+   "short": "Miami",
+   "teamId": "2390"
+  },
+  "id": "ncaaf-401858311",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858311",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "+1300",
+   "mlAwayOpen": "+1500",
+   "mlHome": "-2800",
+   "mlHomeOpen": "-3600",
+   "provider": "Draft Kings",
+   "spread": "MIA -25.5",
+   "spreadOpen": "MIA -26.5",
+   "total": "53.5",
+   "totalOpen": "53.5"
+  },
+  "pick": "MIA ML (-2800)",
+  "reason": "MIA are about 93% no-vig at -2800; ESPN's model has 98%.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-28T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Hard Rock Stadium, Miami Gardens"
+ },
+ "ncaaf-401858312": {
+  "_lastPick": "WAKE ML (-650)",
+  "away": {
+   "abbr": "DUKE",
+   "form": "LLWWW",
+   "name": "Duke Blue Devils",
+   "record": "7-4",
+   "short": "Duke",
+   "teamId": "150"
+  },
+  "confidence": 78,
+  "espnId": "401858312",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 22.4,
+   "home": 77.6
+  },
+  "home": {
+   "abbr": "WAKE",
+   "form": "WWWWW",
+   "name": "#8 Wake Forest",
+   "record": "10-1",
+   "short": "Wake Forest",
+   "teamId": "154"
+  },
+  "id": "ncaaf-401858312",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858312",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "+470",
+   "mlAwayOpen": "+280",
+   "mlHome": "-650",
+   "mlHomeOpen": "-355",
+   "provider": "Draft Kings",
+   "spread": "WAKE -14.5",
+   "spreadOpen": "WAKE -10.5",
+   "total": "55.5",
+   "totalOpen": "52.5"
+  },
+  "pick": "WAKE ML (-650)",
+  "reason": "WAKE are about 83% no-vig at -650; ESPN's model has 78%. For: line moved toward WAKE (-355 → -650).",
+  "risks": [
+   "ESPN model only 78% vs market 83%"
+  ],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-28T20:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Allegacy Federal Credit Union Stadium, Winston-Salem"
+ },
+ "ncaaf-401858313": {
+  "_lastPick": "UNC ML (-218)",
+  "away": {
+   "abbr": "NCSU",
+   "form": "WLLWL",
+   "name": "NC State Wolfpack",
+   "record": "5-6",
+   "short": "NC State",
+   "teamId": "152"
+  },
+  "confidence": 66,
+  "espnId": "401858313",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 27.2,
+   "home": 72.8
+  },
+  "home": {
+   "abbr": "UNC",
+   "form": "LLWLL",
+   "name": "North Carolina Tar Heels",
+   "record": "5-6",
+   "short": "North Carolina",
+   "teamId": "153"
+  },
+  "id": "ncaaf-401858313",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858313",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "+180",
+   "mlAwayOpen": "-118",
+   "mlHome": "-218",
+   "mlHomeOpen": "-102",
+   "provider": "Draft Kings",
+   "spread": "UNC -5.5",
+   "spreadOpen": "NCSU -1.5",
+   "total": "53.5",
+   "totalOpen": "55.5"
+  },
+  "pick": "UNC ML (-218)",
+  "reason": "UNC are about 66% no-vig at -218; ESPN's model has 73%. For: ESPN model 73% vs market 66%; line moved toward UNC (-102 → -218).",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 4,
+  "start": "2026-11-28T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Kenan Stadium, Chapel Hill"
+ },
+ "ncaaf-401858314": {
+  "_lastPick": "ND ML (-2800)",
+  "away": {
+   "abbr": "ND",
+   "form": "WWWWL",
+   "name": "#4 Notre Dame",
+   "record": "10-1",
+   "short": "Notre Dame",
+   "teamId": "87"
+  },
+  "confidence": 91,
+  "espnId": "401858314",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 95.1,
+   "home": 4.9
+  },
+  "home": {
+   "abbr": "SYR",
+   "form": "LWLWW",
+   "name": "Syracuse Orange",
+   "record": "5-6",
+   "short": "Syracuse",
+   "teamId": "183"
+  },
+  "id": "ncaaf-401858314",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858314",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "-2800",
+   "mlAwayOpen": "-1350",
+   "mlHome": "+1300",
+   "mlHomeOpen": "+800",
+   "provider": "Draft Kings",
+   "spread": "ND -25.5",
+   "spreadOpen": "ND -21",
+   "total": "53.5",
+   "totalOpen": "54.5"
+  },
+  "pick": "ND ML (-2800)",
+  "reason": "ND are about 93% no-vig at -2800; ESPN's model has 95%.",
+  "risks": [],
+  "side": "away",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-28T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "JMA Wireless Dome, Syracuse"
+ },
+ "ncaaf-401858316": {
+  "_lastPick": "SMU ML (-298)",
+  "away": {
+   "abbr": "SMU",
+   "form": "LLWLW",
+   "name": "SMU Mustangs",
+   "record": "7-4",
+   "short": "SMU",
+   "teamId": "2567"
+  },
+  "confidence": 71,
+  "espnId": "401858316",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 79.1,
+   "home": 20.9
+  },
+  "home": {
+   "abbr": "STAN",
+   "form": "WWLWW",
+   "name": "Stanford Cardinal",
+   "record": "6-5",
+   "short": "Stanford",
+   "teamId": "24"
+  },
+  "id": "ncaaf-401858316",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858316",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "-298",
+   "mlAwayOpen": "-340",
+   "mlHome": "+240",
+   "mlHomeOpen": "+270",
+   "provider": "Draft Kings",
+   "spread": "SMU -7.5",
+   "spreadOpen": "SMU -10",
+   "total": "61.5",
+   "totalOpen": "60.5"
+  },
+  "pick": "SMU ML (-298)",
+  "reason": "SMU are about 72% no-vig at -298; ESPN's model has 79%. For: ESPN model 79% vs market 72%.",
+  "risks": [
+   "opponent in better form (WWLWW)"
+  ],
+  "side": "away",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 3,
+  "start": "2026-11-28T20:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Stanford Stadium, Stanford"
+ },
+ "ncaaf-401858317": {
+  "away": {
+   "abbr": "UVA",
+   "form": "WWLLL",
+   "name": "Virginia Cavaliers",
+   "record": "6-5",
+   "short": "Virginia",
+   "teamId": "258"
+  },
+  "confidence": 51,
+  "espnId": "401858317",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 52.0,
+   "home": 47.9
+  },
+  "home": {
+   "abbr": "VT",
+   "form": "LLLWW",
+   "name": "Virginia Tech Hokies",
+   "record": "6-5",
+   "short": "Virginia Tech",
+   "teamId": "259"
+  },
+  "id": "ncaaf-401858317",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858317",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "+130",
+   "mlAwayOpen": "+105",
+   "mlHome": "-155",
+   "mlHomeOpen": "-125",
+   "provider": "Draft Kings",
+   "spread": "VT -3",
+   "spreadOpen": "VT -1.5",
+   "total": "50.5",
+   "totalOpen": "53.5"
+  },
+  "pick": "Pass",
+  "reason": "VT about 58% no-vig at -155; no edge worth a pick.",
+  "risks": [
+   "ESPN model only 48% vs market 58%"
+  ],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-28T20:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Lane Stadium, Blacksburg"
  },
  "ncaaf-401858536": {
   "_lastPick": "IOWA ML (-205)",
@@ -1954,9 +2826,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858536",
   "market": "Moneyline",
   "news": [
-   "Bottom 10 after Week 12: How the Bruins put the 'L' in UCLA",
-   "What went wrong for Michigan and Ohio State in 2026?",
-   "Best bets for rivalry week: Breaking down Michigan-OSU, Iowa-Nebraska and more"
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
   ],
   "odds": {
    "mlAway": "+170",
@@ -1980,8 +2852,297 @@
   "stars": 2,
   "start": "2026-11-27T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Kinnick Stadium, Iowa City"
+ },
+ "ncaaf-401858537": {
+  "_lastPick": "NU ML (-155)",
+  "away": {
+   "abbr": "ILL",
+   "form": "LLWWW",
+   "name": "Illinois Fighting Illini",
+   "record": "6-5",
+   "short": "Illinois",
+   "teamId": "356"
+  },
+  "confidence": 59,
+  "espnId": "401858537",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 29.8,
+   "home": 70.2
+  },
+  "home": {
+   "abbr": "NU",
+   "form": "LLLLW",
+   "name": "Northwestern Wildcats",
+   "record": "6-5",
+   "short": "Northwestern",
+   "teamId": "77"
+  },
+  "id": "ncaaf-401858537",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858537",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "+130",
+   "mlAwayOpen": "-170",
+   "mlHome": "-155",
+   "mlHomeOpen": "+142",
+   "provider": "Draft Kings",
+   "spread": "NU -3",
+   "spreadOpen": "ILL -3.5",
+   "total": "50.5",
+   "totalOpen": "52.5"
+  },
+  "pick": "NU ML (-155)",
+  "reason": "NU are about 58% no-vig at -155; ESPN's model has 70%. For: ESPN model 70% vs market 58%; line moved toward NU (+142 → -155).",
+  "risks": [
+   "opponent in better form (LLWWW)"
+  ],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-28T17:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Ryan Field, Evanston"
+ },
+ "ncaaf-401858539": {
+  "_lastPick": "PSU ML (-278)",
+  "away": {
+   "abbr": "PSU",
+   "form": "LWWWL",
+   "name": "Penn State Nittany Lions",
+   "record": "6-5",
+   "short": "Penn State",
+   "teamId": "213"
+  },
+  "confidence": 72,
+  "espnId": "401858539",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 81.5,
+   "home": 18.5
+  },
+  "home": {
+   "abbr": "MD",
+   "form": "LWWLL",
+   "name": "Maryland Terrapins",
+   "record": "4-7",
+   "short": "Maryland",
+   "teamId": "120"
+  },
+  "id": "ncaaf-401858539",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858539",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "-278",
+   "mlAwayOpen": "-290",
+   "mlHome": "+225",
+   "mlHomeOpen": "+235",
+   "provider": "Draft Kings",
+   "spread": "PSU -7",
+   "spreadOpen": "PSU -7.5",
+   "total": "48.5",
+   "totalOpen": "49.5"
+  },
+  "pick": "PSU ML (-278)",
+  "reason": "PSU are about 71% no-vig at -278; ESPN's model has 82%. For: ESPN model 82% vs market 71%.",
+  "risks": [],
+  "side": "away",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 3,
+  "start": "2026-11-28T20:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "SECU Stadium, College Park"
+ },
+ "ncaaf-401858540": {
+  "_lastPick": "OSU ML (-425)",
+  "away": {
+   "abbr": "MICH",
+   "form": "WLLWL",
+   "name": "Michigan Wolverines",
+   "record": "6-5",
+   "short": "Michigan",
+   "teamId": "130"
+  },
+  "confidence": 79,
+  "espnId": "401858540",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 10.8,
+   "home": 89.2
+  },
+  "home": {
+   "abbr": "OSU",
+   "form": "LWLLW",
+   "name": "#21 Ohio State",
+   "record": "7-4",
+   "short": "Ohio State",
+   "teamId": "194"
+  },
+  "id": "ncaaf-401858540",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858540",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "+330",
+   "mlAwayOpen": "+400",
+   "mlHome": "-425",
+   "mlHomeOpen": "-535",
+   "provider": "Draft Kings",
+   "spread": "OSU -10.5",
+   "spreadOpen": "OSU -14",
+   "total": "37.5",
+   "totalOpen": "46.5"
+  },
+  "pick": "OSU ML (-425)",
+  "reason": "OSU are about 78% no-vig at -425; ESPN's model has 89%. For: ESPN model 89% vs market 78%.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 3,
+  "start": "2026-11-28T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Ohio Stadium, Columbus"
+ },
+ "ncaaf-401858542": {
+  "away": {
+   "abbr": "MSU",
+   "form": "LLWLL",
+   "name": "Michigan State Spartans",
+   "record": "3-8",
+   "short": "Michigan St",
+   "teamId": "127"
+  },
+  "confidence": 57,
+  "espnId": "401858542",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 60.4,
+   "home": 39.6
+  },
+  "home": {
+   "abbr": "RUTG",
+   "form": "WLLLL",
+   "name": "Rutgers Scarlet Knights",
+   "record": "3-8",
+   "short": "Rutgers",
+   "teamId": "164"
+  },
+  "id": "ncaaf-401858542",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858542",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "-170",
+   "mlAwayOpen": "-142",
+   "mlHome": "+142",
+   "mlHomeOpen": "+120",
+   "provider": "Draft Kings",
+   "spread": "MSU -3.5",
+   "spreadOpen": "MSU -3.5",
+   "total": "46.5",
+   "totalOpen": "48.5"
+  },
+  "pick": "Pass",
+  "reason": "MSU about 60% no-vig at -170; no edge worth a pick.",
+  "risks": [],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-28T21:15Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "SHI Stadium, Piscataway"
+ },
+ "ncaaf-401858543": {
+  "away": {
+   "abbr": "USC",
+   "form": "WLWLW",
+   "name": "#15 USC",
+   "record": "8-3",
+   "short": "USC",
+   "teamId": "30"
+  },
+  "confidence": 56,
+  "espnId": "401858543",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 49.2,
+   "home": 50.7
+  },
+  "home": {
+   "abbr": "UCLA",
+   "form": "LWWWW",
+   "name": "#9 UCLA",
+   "record": "10-1",
+   "short": "UCLA",
+   "teamId": "26"
+  },
+  "id": "ncaaf-401858543",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858543",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "-250",
+   "mlAwayOpen": "-425",
+   "mlHome": "+205",
+   "mlHomeOpen": "+330",
+   "provider": "Draft Kings",
+   "spread": "USC -7",
+   "spreadOpen": "USC -11.5",
+   "total": "45.5",
+   "totalOpen": "55.5"
+  },
+  "pick": "Pass",
+  "reason": "USC about 69% no-vig at -250; no edge worth a pick.",
+  "risks": [
+   "ESPN model only 49% vs market 69%",
+   "line drifted away (-425 → -250)"
+  ],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-28T20:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Rose Bowl, Pasadena"
  },
  "ncaaf-401858544": {
   "_lastPick": "WIS ML (-305)",
@@ -2014,9 +3175,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858544",
   "market": "Moneyline",
   "news": [
-   "Bottom 10 after Week 12: How the Bruins put the 'L' in UCLA",
-   "What went wrong for Michigan and Ohio State in 2026?",
-   "Best bets for rivalry week: Breaking down Michigan-OSU, Iowa-Nebraska and more"
+   "Kent State TD overturned by replay was incorrect, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
   ],
   "odds": {
    "mlAway": "+245",
@@ -2038,8 +3199,118 @@
   "stars": 4,
   "start": "2026-11-28T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Camp Randall Stadium, Madison"
+ },
+ "ncaaf-401861969": {
+  "away": {
+   "abbr": "CONN",
+   "form": "WWLLW",
+   "name": "UConn Huskies",
+   "record": "6-5",
+   "short": "UConn",
+   "teamId": "41"
+  },
+  "confidence": 55,
+  "espnId": "401861969",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 58.7,
+   "home": 41.3
+  },
+  "home": {
+   "abbr": "WYO",
+   "form": "LWWWW",
+   "name": "Wyoming Cowboys",
+   "record": "7-4",
+   "short": "Wyoming",
+   "teamId": "2751"
+  },
+  "id": "ncaaf-401861969",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401861969",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "-155",
+   "mlAwayOpen": "-130",
+   "mlHome": "+130",
+   "mlHomeOpen": "+120",
+   "provider": "Draft Kings",
+   "spread": "CONN -3",
+   "spreadOpen": "CONN -2.5",
+   "total": "44.5",
+   "totalOpen": "49.5"
+  },
+  "pick": "Pass",
+  "reason": "CONN about 58% no-vig at -155; no edge worth a pick.",
+  "risks": [],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-28T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "War Memorial Stadium, Laramie"
+ },
+ "ncaaf-401862837": {
+  "away": {
+   "abbr": "FAU",
+   "form": "WLWLW",
+   "name": "Florida Atlantic Owls",
+   "record": "7-4",
+   "short": "FAU",
+   "teamId": "2226"
+  },
+  "confidence": 53,
+  "espnId": "401862837",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 37.0,
+   "home": 63.0
+  },
+  "home": {
+   "abbr": "ECU",
+   "form": "WWWWL",
+   "name": "East Carolina Pirates",
+   "record": "7-4",
+   "short": "East Carolina",
+   "teamId": "151"
+  },
+  "id": "ncaaf-401862837",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401862837",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "-102",
+   "mlAwayOpen": "+110",
+   "mlHome": "-118",
+   "mlHomeOpen": "-130",
+   "provider": "Draft Kings",
+   "spread": "ECU -1.5",
+   "spreadOpen": "ECU -2.5",
+   "total": "57.5",
+   "totalOpen": "55.5"
+  },
+  "pick": "Pass",
+  "reason": "ECU about 52% no-vig at -118; no edge worth a pick.",
+  "risks": [],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-28T18:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Dowdy-Ficklen Stadium, Greenville"
  },
  "ncaaf-401862838": {
   "_lastPick": "MEM ML (-950)",
@@ -2072,9 +3343,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862838",
   "market": "Moneyline",
   "news": [
-   "Bottom 10 after Week 12: How the Bruins put the 'L' in UCLA",
-   "What went wrong for Michigan and Ohio State in 2026?",
-   "Best bets for rivalry week: Breaking down Michigan-OSU, Iowa-Nebraska and more"
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
   ],
   "odds": {
    "mlAway": "+625",
@@ -2096,8 +3367,68 @@
   "stars": 3,
   "start": "2026-11-27T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Simmons Bank Liberty Stadium, Memphis"
+ },
+ "ncaaf-401862839": {
+  "_lastPick": "USF ML (-238)",
+  "away": {
+   "abbr": "TULN",
+   "form": "WWLWL",
+   "name": "Tulane Green Wave",
+   "record": "6-5",
+   "short": "Tulane",
+   "teamId": "2655"
+  },
+  "confidence": 63,
+  "espnId": "401862839",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 32.1,
+   "home": 67.9
+  },
+  "home": {
+   "abbr": "USF",
+   "form": "LLLWW",
+   "name": "South Florida Bulls",
+   "record": "6-5",
+   "short": "South Florida",
+   "teamId": "58"
+  },
+  "id": "ncaaf-401862839",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401862839",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "+195",
+   "mlAwayOpen": "+245",
+   "mlHome": "-238",
+   "mlHomeOpen": "-305",
+   "provider": "Draft Kings",
+   "spread": "USF -6.5",
+   "spreadOpen": "USF -8.5",
+   "total": "43.5",
+   "totalOpen": "45.5"
+  },
+  "pick": "USF ML (-238)",
+  "reason": "USF are about 68% no-vig at -238; ESPN's model has 68%.",
+  "risks": [
+   "line drifted away (-305 → -238)"
+  ],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-28T20:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Raymond James Stadium, Tampa"
  },
  "ncaaf-401862840": {
   "away": {
@@ -2128,9 +3459,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401862840",
   "news": [
-   "Bottom 10 after Week 12: How the Bruins put the 'L' in UCLA",
-   "What went wrong for Michigan and Ohio State in 2026?",
-   "Best bets for rivalry week: Breaking down Michigan-OSU, Iowa-Nebraska and more"
+   "Kent State TD overturned by replay was incorrect, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
   ],
   "odds": {
    "mlAway": "-105",
@@ -2151,8 +3482,184 @@
   "stars": 1,
   "start": "2026-11-27T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Alamodome, San Antonio"
+ },
+ "ncaaf-401862841": {
+  "_lastPick": "ARMY ML (-205)",
+  "away": {
+   "abbr": "ARMY",
+   "form": "LLLWW",
+   "name": "Army Black Knights",
+   "record": "5-5",
+   "short": "Army",
+   "teamId": "349"
+  },
+  "confidence": 62,
+  "espnId": "401862841",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 71.8,
+   "home": 28.2
+  },
+  "home": {
+   "abbr": "RICE",
+   "form": "WLLLL",
+   "name": "Rice Owls",
+   "record": "2-9",
+   "short": "Rice",
+   "teamId": "242"
+  },
+  "id": "ncaaf-401862841",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401862841",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "-205",
+   "mlAwayOpen": "-298",
+   "mlHome": "+170",
+   "mlHomeOpen": "+240",
+   "provider": "Draft Kings",
+   "spread": "ARMY -6",
+   "spreadOpen": "ARMY -7.5",
+   "total": "47.5",
+   "totalOpen": "50.5"
+  },
+  "pick": "ARMY ML (-205)",
+  "reason": "ARMY are about 64% no-vig at -205; ESPN's model has 72%. For: ESPN model 72% vs market 64%.",
+  "risks": [
+   "line drifted away (-298 → -205)"
+  ],
+  "side": "away",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-28T19:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "First Community Stadium, Houston"
+ },
+ "ncaaf-401862842": {
+  "_lastPick": "NAVY ML (-850)",
+  "away": {
+   "abbr": "NAVY",
+   "form": "WWLLL",
+   "name": "Navy Midshipmen",
+   "record": "4-6",
+   "short": "Navy",
+   "teamId": "2426"
+  },
+  "confidence": 83,
+  "espnId": "401862842",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 87.5,
+   "home": 12.5
+  },
+  "home": {
+   "abbr": "CLT",
+   "form": "LLLLW",
+   "name": "Charlotte 49ers",
+   "record": "1-10",
+   "short": "Charlotte",
+   "teamId": "2429"
+  },
+  "id": "ncaaf-401862842",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401862842",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "-850",
+   "mlAwayOpen": "-900",
+   "mlHome": "+575",
+   "mlHomeOpen": "+600",
+   "provider": "Draft Kings",
+   "spread": "NAVY -16.5",
+   "spreadOpen": "NAVY -16.5",
+   "total": "54.5",
+   "totalOpen": "53.5"
+  },
+  "pick": "NAVY ML (-850)",
+  "reason": "NAVY are about 86% no-vig at -850; ESPN's model has 88%.",
+  "risks": [],
+  "side": "away",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-28T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Jerry Richardson Stadium, Charlotte"
+ },
+ "ncaaf-401862843": {
+  "_lastPick": "UNT ML (-155)",
+  "away": {
+   "abbr": "UAB",
+   "form": "LWWLW",
+   "name": "UAB Blazers",
+   "record": "6-5",
+   "short": "UAB",
+   "teamId": "5"
+  },
+  "confidence": 67,
+  "espnId": "401862843",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 13.5,
+   "home": 86.5
+  },
+  "home": {
+   "abbr": "UNT",
+   "form": "LLWWW",
+   "name": "North Texas Mean Green",
+   "record": "7-4",
+   "short": "North Texas",
+   "teamId": "249"
+  },
+  "id": "ncaaf-401862843",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401862843",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "+130",
+   "mlAwayOpen": "+150",
+   "mlHome": "-155",
+   "mlHomeOpen": "-180",
+   "provider": "Draft Kings",
+   "spread": "UNT -3",
+   "spreadOpen": "UNT -4.5",
+   "total": "45.5",
+   "totalOpen": "48.5"
+  },
+  "pick": "UNT ML (-155)",
+  "reason": "UNT are about 58% no-vig at -155; ESPN's model has 86%. For: ESPN model 86% vs market 58%.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 3,
+  "start": "2026-11-28T21:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "DATCU Stadium, Denton"
  },
  "ncaaf-401864546": {
   "_lastPick": "UNM ML (-258)",
@@ -2185,9 +3692,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864546",
   "market": "Moneyline",
   "news": [
-   "Bottom 10 after Week 12: How the Bruins put the 'L' in UCLA",
-   "What went wrong for Michigan and Ohio State in 2026?",
-   "Best bets for rivalry week: Breaking down Michigan-OSU, Iowa-Nebraska and more"
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
   ],
   "odds": {
    "mlAway": "+210",
@@ -2209,7 +3716,7 @@
   "stars": 2,
   "start": "2026-11-27T21:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "University Stadium (NM), Albuquerque"
  },
  "ncaaf-401864549": {
@@ -2243,9 +3750,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864549",
   "market": "Moneyline",
   "news": [
-   "Bottom 10 after Week 12: How the Bruins put the 'L' in UCLA",
-   "What went wrong for Michigan and Ohio State in 2026?",
-   "Best bets for rivalry week: Breaking down Michigan-OSU, Iowa-Nebraska and more"
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
   ],
   "odds": {
    "mlAway": "-345",
@@ -2255,7 +3762,7 @@
    "provider": "Draft Kings",
    "spread": "NDSU -8.5",
    "spreadOpen": "NDSU -11.5",
-   "total": "40.5",
+   "total": "39.5",
    "totalOpen": "39.5"
   },
   "pick": "NDSU ML (-345)",
@@ -2269,8 +3776,66 @@
   "stars": 3,
   "start": "2026-11-27T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "CEFCU Stadium, San Jose"
+ },
+ "ncaaf-401864550": {
+  "_lastPick": "NIU ML (-192)",
+  "away": {
+   "abbr": "UTEP",
+   "form": "LLLLL",
+   "name": "UTEP Miners",
+   "record": "1-10",
+   "short": "UTEP",
+   "teamId": "2638"
+  },
+  "confidence": 64,
+  "espnId": "401864550",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 25.9,
+   "home": 74.1
+  },
+  "home": {
+   "abbr": "NIU",
+   "form": "LLLLL",
+   "name": "Northern Illinois Huskies",
+   "record": "0-11",
+   "short": "N Illinois",
+   "teamId": "2459"
+  },
+  "id": "ncaaf-401864550",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401864550",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "+160",
+   "mlAwayOpen": "+154",
+   "mlHome": "-192",
+   "mlHomeOpen": "-185",
+   "provider": "Draft Kings",
+   "spread": "NIU -4",
+   "spreadOpen": "NIU -4.5",
+   "total": "50.5",
+   "totalOpen": "49.5"
+  },
+  "pick": "NIU ML (-192)",
+  "reason": "NIU are about 63% no-vig at -192; ESPN's model has 74%. For: ESPN model 74% vs market 63%.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-28T20:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Huskie Stadium, Dekalb"
  },
  "ncaaf-401866470": {
   "_lastPick": "EMU ML (-225)",
@@ -2421,9 +3986,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401866472",
   "market": "Moneyline",
   "news": [
-   "Bottom 10 after Week 12: How the Bruins put the 'L' in UCLA",
-   "What went wrong for Michigan and Ohio State in 2026?",
-   "Best bets for rivalry week: Breaking down Michigan-OSU, Iowa-Nebraska and more"
+   "Kent State TD overturned by replay was incorrect, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
   ],
   "odds": {
    "mlAway": "-305",
@@ -2445,7 +4010,7 @@
   "stars": 4,
   "start": "2026-11-27T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "InfoCision Stadium, Akron"
  },
  "ncaaf-401866473": {
@@ -2477,9 +4042,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401866473",
   "news": [
-   "Bottom 10 after Week 12: How the Bruins put the 'L' in UCLA",
-   "What went wrong for Michigan and Ohio State in 2026?",
-   "Best bets for rivalry week: Breaking down Michigan-OSU, Iowa-Nebraska and more"
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
   ],
   "odds": {
    "mlAway": "-155",
@@ -2500,8 +4065,123 @@
   "stars": 1,
   "start": "2026-11-27T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Peden Stadium, Athens"
+ },
+ "ncaaf-401866474": {
+  "_lastPick": "CMU ML (-192)",
+  "away": {
+   "abbr": "CMU",
+   "form": "LWWLL",
+   "name": "Central Michigan Chippewas",
+   "record": "5-6",
+   "short": "C Michigan",
+   "teamId": "2117"
+  },
+  "confidence": 61,
+  "espnId": "401866474",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 66.4,
+   "home": 33.6
+  },
+  "home": {
+   "abbr": "BALL",
+   "form": "LLLWW",
+   "name": "Ball State Cardinals",
+   "record": "3-8",
+   "short": "Ball State",
+   "teamId": "2050"
+  },
+  "id": "ncaaf-401866474",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401866474",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "-192",
+   "mlAwayOpen": "-205",
+   "mlHome": "+160",
+   "mlHomeOpen": "+170",
+   "provider": "Draft Kings",
+   "spread": "CMU -4",
+   "spreadOpen": "CMU -6.5",
+   "total": "50.5",
+   "totalOpen": "46.5"
+  },
+  "pick": "CMU ML (-192)",
+  "reason": "CMU are about 63% no-vig at -192; ESPN's model has 66%.",
+  "risks": [],
+  "side": "away",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-28T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Scheumann Stadium, Muncie"
+ },
+ "ncaaf-401866475": {
+  "away": {
+   "abbr": "MASS",
+   "form": "LLWLL",
+   "name": "Massachusetts Minutemen",
+   "record": "5-6",
+   "short": "UMass",
+   "teamId": "113"
+  },
+  "confidence": 54,
+  "espnId": "401866475",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 47.3,
+   "home": 52.7
+  },
+  "home": {
+   "abbr": "BGSU",
+   "form": "LWLLL",
+   "name": "Bowling Green Falcons",
+   "record": "3-8",
+   "short": "Bowling Green",
+   "teamId": "189"
+  },
+  "id": "ncaaf-401866475",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401866475",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "+136",
+   "mlAwayOpen": "-102",
+   "mlHome": "-162",
+   "mlHomeOpen": "-118",
+   "provider": "Draft Kings",
+   "spread": "BGSU -3",
+   "spreadOpen": "BGSU -1.5",
+   "total": "42.5",
+   "totalOpen": "43.5"
+  },
+  "pick": "Pass",
+  "reason": "BGSU about 59% no-vig at -162; no edge worth a pick.",
+  "risks": [
+   "ESPN model only 53% vs market 59%"
+  ],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-28T20:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Doyt L. Perry Stadium, Bowling Green"
  },
  "ncaaf-401869930": {
   "_lastPick": "USA ML (-166)",
@@ -2534,9 +4214,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869930",
   "market": "Moneyline",
   "news": [
-   "Bottom 10 after Week 12: How the Bruins put the 'L' in UCLA",
-   "What went wrong for Michigan and Ohio State in 2026?",
-   "Best bets for rivalry week: Breaking down Michigan-OSU, Iowa-Nebraska and more"
+   "Kent State TD overturned by replay was incorrect, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
   ],
   "odds": {
    "mlAway": "+140",
@@ -2558,8 +4238,637 @@
   "stars": 2,
   "start": "2026-11-27T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Hancock Whitney Stadium, Mobile"
+ },
+ "ncaaf-401869939": {
+  "_lastPick": "ARST ML (-185)",
+  "away": {
+   "abbr": "TROY",
+   "form": "LLLWL",
+   "name": "Troy Trojans",
+   "record": "4-7",
+   "short": "Troy",
+   "teamId": "2653"
+  },
+  "confidence": 59,
+  "espnId": "401869939",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 38.8,
+   "home": 61.2
+  },
+  "home": {
+   "abbr": "ARST",
+   "form": "LLLWW",
+   "name": "Arkansas State Red Wolves",
+   "record": "4-7",
+   "short": "Arkansas St",
+   "teamId": "2032"
+  },
+  "id": "ncaaf-401869939",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401869939",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "+154",
+   "mlAwayOpen": "+140",
+   "mlHome": "-185",
+   "mlHomeOpen": "-166",
+   "provider": "Draft Kings",
+   "spread": "ARST -3.5",
+   "spreadOpen": "ARST -3.5",
+   "total": "46.5",
+   "totalOpen": "46.5"
+  },
+  "pick": "ARST ML (-185)",
+  "reason": "ARST are about 62% no-vig at -185; ESPN's model has 61%.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-28T20:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Centennial Bank Stadium, Jonesboro"
+ },
+ "ncaaf-401869947": {
+  "_lastPick": "JMU ML (-850)",
+  "away": {
+   "abbr": "CCU",
+   "form": "LWLWL",
+   "name": "Coastal Carolina Chanticleers",
+   "record": "4-7",
+   "short": "Coastal",
+   "teamId": "324"
+  },
+  "confidence": 84,
+  "espnId": "401869947",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 10.1,
+   "home": 89.9
+  },
+  "home": {
+   "abbr": "JMU",
+   "form": "LWLLW",
+   "name": "James Madison Dukes",
+   "record": "8-3",
+   "short": "James Madison",
+   "teamId": "256"
+  },
+  "id": "ncaaf-401869947",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401869947",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "+575",
+   "mlAwayOpen": "+500",
+   "mlHome": "-850",
+   "mlHomeOpen": "-700",
+   "provider": "Draft Kings",
+   "spread": "JMU -17.5",
+   "spreadOpen": "JMU -13.5",
+   "total": "54.5",
+   "totalOpen": "55.5"
+  },
+  "pick": "JMU ML (-850)",
+  "reason": "JMU are about 86% no-vig at -850; ESPN's model has 90%.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-28T19:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Bridgeforth Stadium, Harrisonburg"
+ },
+ "ncaaf-401869954": {
+  "away": {
+   "abbr": "LT",
+   "form": "WWWWW",
+   "name": "Louisiana Tech Bulldogs",
+   "record": "9-2",
+   "short": "Louisiana Tech",
+   "teamId": "2348"
+  },
+  "confidence": 51,
+  "espnId": "401869954",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 48.4,
+   "home": 51.5
+  },
+  "home": {
+   "abbr": "GASO",
+   "form": "WWWWW",
+   "name": "Georgia Southern Eagles",
+   "record": "7-4",
+   "short": "GA Southern",
+   "teamId": "290"
+  },
+  "id": "ncaaf-401869954",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401869954",
+  "news": [
+   "Kent State TD overturned by replay was incorrect, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "+114",
+   "mlAwayOpen": "-105",
+   "mlHome": "-135",
+   "mlHomeOpen": "-115",
+   "provider": "Draft Kings",
+   "spread": "GASO -2.5",
+   "spreadOpen": "GASO -1.5",
+   "total": "54.5",
+   "totalOpen": "50.5"
+  },
+  "pick": "Pass",
+  "reason": "GASO about 55% no-vig at -135; no edge worth a pick.",
+  "risks": [],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-28T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Allen E. Paulson Stadium, Statesboro"
+ },
+ "ncaaf-401869959": {
+  "_lastPick": "UL ML (-205)",
+  "away": {
+   "abbr": "UL",
+   "form": "WWWLW",
+   "name": "Louisiana Ragin' Cajuns",
+   "record": "8-3",
+   "short": "Louisiana",
+   "teamId": "309"
+  },
+  "confidence": 61,
+  "espnId": "401869959",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 61.3,
+   "home": 38.8
+  },
+  "home": {
+   "abbr": "GAST",
+   "form": "LLWLL",
+   "name": "Georgia State Panthers",
+   "record": "5-6",
+   "short": "Georgia St",
+   "teamId": "2247"
+  },
+  "id": "ncaaf-401869959",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401869959",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "-205",
+   "mlAwayOpen": "-142",
+   "mlHome": "+170",
+   "mlHomeOpen": "+120",
+   "provider": "Draft Kings",
+   "spread": "UL -5.5",
+   "spreadOpen": "UL -3",
+   "total": "55.5",
+   "totalOpen": "56.5"
+  },
+  "pick": "UL ML (-205)",
+  "reason": "UL are about 64% no-vig at -205; ESPN's model has 61%. For: line moved toward UL (-142 → -205); form WWWLW vs LLWLL.",
+  "risks": [],
+  "side": "away",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-28T19:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Center Parc Stadium, Atlanta"
+ },
+ "ncaaf-401870804": {
+  "away": {
+   "abbr": "KENN",
+   "form": "WWWWL",
+   "name": "Kennesaw State Owls",
+   "record": "5-6",
+   "short": "Kennesaw St",
+   "teamId": "338"
+  },
+  "confidence": 57,
+  "espnId": "401870804",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 58.5,
+   "home": 41.5
+  },
+  "home": {
+   "abbr": "WKU",
+   "form": "LWLLW",
+   "name": "Western Kentucky Hilltoppers",
+   "record": "4-7",
+   "short": "Western KY",
+   "teamId": "98"
+  },
+  "id": "ncaaf-401870804",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401870804",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "-170",
+   "mlAwayOpen": "-118",
+   "mlHome": "+142",
+   "mlHomeOpen": "-102",
+   "provider": "Draft Kings",
+   "spread": "KENN -3.5",
+   "spreadOpen": "KENN -1.5",
+   "total": "53.5",
+   "totalOpen": "53.5"
+  },
+  "pick": "Pass",
+  "reason": "KENN about 60% no-vig at -170; no edge worth a pick.",
+  "risks": [],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-28T18:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Houchens Industries-L.T. Smith Stadium, Bowling Green"
+ },
+ "ncaaf-401871062": {
+  "away": {
+   "abbr": "JXST",
+   "form": "WLWWW",
+   "name": "Jacksonville State Gamecocks",
+   "record": "8-3",
+   "short": "Jax State",
+   "teamId": "55"
+  },
+  "confidence": 51,
+  "espnId": "401871062",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 48.3,
+   "home": 51.7
+  },
+  "home": {
+   "abbr": "DEL",
+   "form": "WWLWW",
+   "name": "Delaware Blue Hens",
+   "record": "6-5",
+   "short": "Delaware",
+   "teamId": "48"
+  },
+  "id": "ncaaf-401871062",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401871062",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "+120",
+   "mlAwayOpen": "-105",
+   "mlHome": "-142",
+   "mlHomeOpen": "-115",
+   "provider": "Draft Kings",
+   "spread": "DEL -2.5",
+   "spreadOpen": "DEL -1.5",
+   "total": "58.5",
+   "totalOpen": "57.5"
+  },
+  "pick": "Pass",
+  "reason": "DEL about 56% no-vig at -142; no edge worth a pick.",
+  "risks": [],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-28T20:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Delaware Stadium, Newark"
+ },
+ "ncaaf-401871063": {
+  "_lastPick": "LIB ML (-900)",
+  "away": {
+   "abbr": "LIB",
+   "form": "WWWWW",
+   "name": "Liberty Flames",
+   "record": "10-1",
+   "short": "Liberty",
+   "teamId": "2335"
+  },
+  "confidence": 86,
+  "espnId": "401871063",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 89.5,
+   "home": 10.5
+  },
+  "home": {
+   "abbr": "MOST",
+   "form": "LWLWL",
+   "name": "Missouri State Bears",
+   "record": "4-7",
+   "short": "Missouri St",
+   "teamId": "2623"
+  },
+  "id": "ncaaf-401871063",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401871063",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "-900",
+   "mlAwayOpen": "-575",
+   "mlHome": "+600",
+   "mlHomeOpen": "+425",
+   "provider": "Draft Kings",
+   "spread": "LIB -17.5",
+   "spreadOpen": "LIB -14.5",
+   "total": "53.5",
+   "totalOpen": "51.5"
+  },
+  "pick": "LIB ML (-900)",
+  "reason": "LIB are about 86% no-vig at -900; ESPN's model has 90%. For: line moved toward LIB (-575 → -900); form WWWWW vs LWLWL.",
+  "risks": [],
+  "side": "away",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 3,
+  "start": "2026-11-28T19:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Robert W. Plaster Stadium, Springfield"
+ },
+ "ncaaf-401871082": {
+  "_lastPick": "FIU ML (-455)",
+  "away": {
+   "abbr": "SHSU",
+   "form": "LLLLL",
+   "name": "Sam Houston Bearkats",
+   "record": "1-10",
+   "short": "Sam Houston",
+   "teamId": "2534"
+  },
+  "confidence": 76,
+  "espnId": "401871082",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 19.5,
+   "home": 80.5
+  },
+  "home": {
+   "abbr": "FIU",
+   "form": "LLWLL",
+   "name": "Florida International Panthers",
+   "record": "4-7",
+   "short": "FIU",
+   "teamId": "2229"
+  },
+  "id": "ncaaf-401871082",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401871082",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "+350",
+   "mlAwayOpen": "+310",
+   "mlHome": "-455",
+   "mlHomeOpen": "-395",
+   "provider": "Draft Kings",
+   "spread": "FIU -11.5",
+   "spreadOpen": "FIU -10.5",
+   "total": "41.5",
+   "totalOpen": "39.5"
+  },
+  "pick": "FIU ML (-455)",
+  "reason": "FIU are about 79% no-vig at -455; ESPN's model has 80%.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-28T19:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Pitbull Stadium, Miami"
+ },
+ "ncaaf-401871083": {
+  "_lastPick": "MTSU ML (-162)",
+  "away": {
+   "abbr": "NMSU",
+   "form": "LLLLW",
+   "name": "New Mexico State Aggies",
+   "record": "3-8",
+   "short": "New Mexico St",
+   "teamId": "166"
+  },
+  "confidence": 58,
+  "espnId": "401871083",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 36.6,
+   "home": 63.4
+  },
+  "home": {
+   "abbr": "MTSU",
+   "form": "WLWLW",
+   "name": "Middle Tennessee Blue Raiders",
+   "record": "6-5",
+   "short": "MTSU",
+   "teamId": "2393"
+  },
+  "id": "ncaaf-401871083",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401871083",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "+136",
+   "mlAwayOpen": "+145",
+   "mlHome": "-162",
+   "mlHomeOpen": "-175",
+   "provider": "Draft Kings",
+   "spread": "MTSU -3",
+   "spreadOpen": "MTSU -3.5",
+   "total": "51.5",
+   "totalOpen": "52.5"
+  },
+  "pick": "MTSU ML (-162)",
+  "reason": "MTSU are about 59% no-vig at -162; ESPN's model has 63%.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-28T19:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Johnny \"Red\" Floyd Stadium, Murfreesboro"
+ },
+ "ncaaf-401871102": {
+  "_lastPick": "MRSH ML (-205)",
+  "away": {
+   "abbr": "MRSH",
+   "form": "WLLWW",
+   "name": "Marshall Thundering Herd",
+   "record": "6-5",
+   "short": "Marshall",
+   "teamId": "276"
+  },
+  "confidence": 62,
+  "espnId": "401871102",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 65.9,
+   "home": 34.1
+  },
+  "home": {
+   "abbr": "ULM",
+   "form": "LLWLW",
+   "name": "UL Monroe Warhawks",
+   "record": "2-9",
+   "short": "UL Monroe",
+   "teamId": "2433"
+  },
+  "id": "ncaaf-401871102",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401871102",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "-205",
+   "mlAwayOpen": "-175",
+   "mlHome": "+170",
+   "mlHomeOpen": "+145",
+   "provider": "Draft Kings",
+   "spread": "MRSH -5.5",
+   "spreadOpen": "MRSH -4",
+   "total": "51.5",
+   "totalOpen": "49.5"
+  },
+  "pick": "MRSH ML (-205)",
+  "reason": "MRSH are about 64% no-vig at -205; ESPN's model has 66%.",
+  "risks": [],
+  "side": "away",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-28T18:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Malone Stadium, Monroe"
+ },
+ "ncaaf-401871103": {
+  "_lastPick": "ODU ML (-230)",
+  "away": {
+   "abbr": "USM",
+   "form": "LLLWW",
+   "name": "Southern Miss Golden Eagles",
+   "record": "3-8",
+   "short": "Southern Miss",
+   "teamId": "2572"
+  },
+  "confidence": 62,
+  "espnId": "401871103",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 36.8,
+   "home": 63.2
+  },
+  "home": {
+   "abbr": "ODU",
+   "form": "LWLLL",
+   "name": "Old Dominion Monarchs",
+   "record": "3-8",
+   "short": "Old Dominion",
+   "teamId": "295"
+  },
+  "id": "ncaaf-401871103",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401871103",
+  "market": "Moneyline",
+  "news": [
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
+   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+  ],
+  "odds": {
+   "mlAway": "+190",
+   "mlAwayOpen": "+150",
+   "mlHome": "-230",
+   "mlHomeOpen": "-180",
+   "provider": "Draft Kings",
+   "spread": "ODU -6",
+   "spreadOpen": "ODU -4.5",
+   "total": "50.5",
+   "totalOpen": "50.5"
+  },
+  "pick": "ODU ML (-230)",
+  "reason": "ODU are about 67% no-vig at -230; ESPN's model has 63%. For: line moved toward ODU (-180 → -230).",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-28T18:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "S.B. Ballard Stadium, Norfolk"
  },
  "nfl-401873079": {
   "away": {
@@ -2583,11 +4892,11 @@
    "abbr": "LAR",
    "form": "WWWWL",
    "injuries": [
-    "Justin Dedich (G) – Injured Reserve, Hand",
-    "Kobie Turner (DE) – Injured Reserve, Groin",
     "Coleman Shelton (C) – Out, Hamstring",
     "Terrance Ferguson (TE) – Injured Reserve, Ankle",
-    "Davante Adams (WR) – Injured Reserve, Hamstring"
+    "Davante Adams (WR) – Injured Reserve, Hamstring",
+    "Puka Nacua (WR) – Injured Reserve, Knee - MCL",
+    "Steve Avila (G) – Out, Hamstring"
    ],
    "name": "Los Angeles Rams",
    "record": "6-4",
@@ -2598,20 +4907,6 @@
   "injuriesRaw": {
    "away": [],
    "home": [
-    {
-     "detail": "Hand",
-     "player": "Justin Dedich",
-     "pos": "G",
-     "stale": false,
-     "status": "Injured Reserve"
-    },
-    {
-     "detail": "Groin",
-     "player": "Kobie Turner",
-     "pos": "DE",
-     "stale": false,
-     "status": "Injured Reserve"
-    },
     {
      "detail": "Hamstring",
      "player": "Coleman Shelton",
@@ -2632,46 +4927,65 @@
      "pos": "WR",
      "stale": false,
      "status": "Injured Reserve"
+    },
+    {
+     "detail": "Knee - MCL",
+     "player": "Puka Nacua",
+     "pos": "WR",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "Steve Avila",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
     }
    ]
   },
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873079",
   "news": [
-   "Fantasy football matchup ranks: Tyler Shough, Ashton Jeanty with prime matchups",
-   "How upsets in the 2026 NFL season have upended survivor pools",
-   "2026 NFL Thanksgiving preview: Picks, predictions, schedule, odds, fantasy tips"
+   "Aaron Rodgers' comments on 'The Pat McAfee Show' draw NFL reaction",
+   "Steelers players try to keep focus on Broncos amid Aaron Rodgers fallout",
+   "Sources: Mike McCarthy has Steelers' full support after Aaron Rodgers interview"
   ],
   "odds": {
-   "mlAway": "+116",
+   "mlAway": "+117",
    "mlAwayOpen": "+164",
-   "mlHome": "-137",
+   "mlHome": "-138",
    "mlHomeOpen": "-198",
    "provider": "Draft Kings",
    "spread": "LAR -2.5",
    "spreadOpen": "LAR -3.5",
-   "total": "44.5",
+   "total": "43.5",
    "totalOpen": "49.5"
   },
   "pick": "Pass",
-  "reason": "LAR about 56% no-vig at -137; no edge worth a pick.",
+  "reason": "LAR about 56% no-vig at -138; no edge worth a pick.",
   "risks": [
-   "line drifted away (-198 → -137)"
+   "line drifted away (-198 → -138)"
   ],
   "slug": "nfl",
   "sport": "nfl",
   "stars": 1,
   "start": "2026-11-26T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "SoFi Stadium, Inglewood"
  },
  "nfl-401873080": {
-  "_lastPick": "DAL ML (-474)",
+  "_lastPick": "DAL ML (-480)",
   "away": {
    "abbr": "PHI",
    "form": "WLLLL",
-   "injuries": [],
+   "injuries": [
+    "Arnold Ebiketie (LB) – Out, Oblique",
+    "Jonathan Jones (CB) – Out, Ankle",
+    "Zack Baun (LB) – Injured Reserve, Back",
+    "Dontayvion Wicks (WR) – Injured Reserve, Ankle"
+   ],
    "name": "Philadelphia Eagles",
    "record": "3-7",
    "short": "Eagles",
@@ -2689,8 +5003,10 @@
    "abbr": "DAL",
    "form": "WLWLW",
    "injuries": [
+    "P.J. Locke (S) – Out, Concussion",
+    "Jake Ferguson (TE) – Out, Knee",
     "Devin Moore (CB) – Injured Reserve, Hip",
-    "Jake Ferguson (TE) – Doubtful, Knee"
+    "Jonathan Mingo (WR) – Out, Ankle"
    ],
    "name": "Dallas Cowboys",
    "record": "5-6",
@@ -2699,8 +5015,58 @@
   },
   "id": "nfl-401873080",
   "injuriesRaw": {
-   "away": [],
+   "away": [
+    {
+     "detail": "Oblique",
+     "player": "Arnold Ebiketie",
+     "pos": "LB",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Jonathan Jones",
+     "pos": "CB",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Back",
+     "player": "Zack Baun",
+     "pos": "LB",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Dontayvion Wicks",
+     "pos": "WR",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Calf",
+     "player": "Jalen Hurts",
+     "pos": "QB",
+     "stale": true,
+     "status": "Injured Reserve"
+    }
+   ],
    "home": [
+    {
+     "detail": "Concussion",
+     "player": "P.J. Locke",
+     "pos": "S",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Jake Ferguson",
+     "pos": "TE",
+     "stale": false,
+     "status": "Out"
+    },
     {
      "detail": "Hip",
      "player": "Devin Moore",
@@ -2709,11 +5075,11 @@
      "status": "Injured Reserve"
     },
     {
-     "detail": "Knee",
-     "player": "Jake Ferguson",
-     "pos": "TE",
+     "detail": "Ankle",
+     "player": "Jonathan Mingo",
+     "pos": "WR",
      "stale": false,
-     "status": "Doubtful"
+     "status": "Out"
     }
    ]
   },
@@ -2721,14 +5087,14 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873080",
   "market": "Moneyline",
   "news": [
-   "Fantasy football matchup ranks: Tyler Shough, Ashton Jeanty with prime matchups",
-   "How upsets in the 2026 NFL season have upended survivor pools",
-   "2026 NFL Thanksgiving preview: Picks, predictions, schedule, odds, fantasy tips"
+   "Aaron Rodgers' comments on 'The Pat McAfee Show' draw NFL reaction",
+   "Steelers players try to keep focus on Broncos amid Aaron Rodgers fallout",
+   "Sources: Mike McCarthy has Steelers' full support after Aaron Rodgers interview"
   ],
   "odds": {
-   "mlAway": "+366",
+   "mlAway": "+370",
    "mlAwayOpen": "+100",
-   "mlHome": "-474",
+   "mlHome": "-480",
    "mlHomeOpen": "-120",
    "provider": "Draft Kings",
    "spread": "DAL -8.5",
@@ -2736,8 +5102,8 @@
    "total": "47.5",
    "totalOpen": "49.5"
   },
-  "pick": "DAL ML (-474)",
-  "reason": "DAL are about 79% no-vig at -474; ESPN's model has 83%. For: line moved toward DAL (-120 → -474).",
+  "pick": "DAL ML (-480)",
+  "reason": "DAL are about 80% no-vig at -480; ESPN's model has 83%. For: line moved toward DAL (-120 → -480).",
   "risks": [],
   "side": "home",
   "slug": "nfl",
@@ -2745,7 +5111,7 @@
   "stars": 3,
   "start": "2026-11-26T21:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "AT&T Stadium, Arlington"
  },
  "nfl-401873081": {
@@ -2753,8 +5119,9 @@
    "abbr": "CHI",
    "form": "WWWWW",
    "injuries": [
-    "Elijah Hicks (S) – Out, Concussion",
-    "Zavier Scott (RB) – Injured Reserve, Wrist"
+    "Kyler Gordon (CB) – Out, Shoulder",
+    "Roschon Johnson (RB) – Out, Ankle",
+    "Elijah Hicks (S) – Out, Concussion"
    ],
    "name": "Chicago Bears",
    "record": "8-2",
@@ -2773,7 +5140,8 @@
    "abbr": "DET",
    "form": "WWWWW",
    "injuries": [
-    "Skyler Gill-Howard (DT) – Out, Knee",
+    "Skyler Gill-Howard (DT) – Injured Reserve, Knee",
+    "Ennis Rakestraw Jr. (CB) – Out, Shoulder",
     "Cade Mays (C) – Injured Reserve, Ankle"
    ],
    "name": "Detroit Lions",
@@ -2785,25 +5153,25 @@
   "injuriesRaw": {
    "away": [
     {
+     "detail": "Shoulder",
+     "player": "Kyler Gordon",
+     "pos": "CB",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Roschon Johnson",
+     "pos": "RB",
+     "stale": false,
+     "status": "Out"
+    },
+    {
      "detail": "Concussion",
      "player": "Elijah Hicks",
      "pos": "S",
      "stale": false,
      "status": "Out"
-    },
-    {
-     "detail": "Wrist",
-     "player": "Zavier Scott",
-     "pos": "RB",
-     "stale": false,
-     "status": "Injured Reserve"
-    },
-    {
-     "detail": "Knee",
-     "player": "Kentavius Street",
-     "pos": "DT",
-     "stale": true,
-     "status": "Injured Reserve"
     }
    ],
    "home": [
@@ -2811,6 +5179,13 @@
      "detail": "Knee",
      "player": "Skyler Gill-Howard",
      "pos": "DT",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Shoulder",
+     "player": "Ennis Rakestraw Jr.",
+     "pos": "CB",
      "stale": false,
      "status": "Out"
     },
@@ -2826,14 +5201,14 @@
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873081",
   "news": [
-   "Fantasy football matchup ranks: Tyler Shough, Ashton Jeanty with prime matchups",
-   "How upsets in the 2026 NFL season have upended survivor pools",
-   "2026 NFL Thanksgiving preview: Picks, predictions, schedule, odds, fantasy tips"
+   "Aaron Rodgers' comments on 'The Pat McAfee Show' draw NFL reaction",
+   "Steelers players try to keep focus on Broncos amid Aaron Rodgers fallout",
+   "Sources: Mike McCarthy has Steelers' full support after Aaron Rodgers interview"
   ],
   "odds": {
    "mlAway": "-122",
    "mlAwayOpen": "+114",
-   "mlHome": "+103",
+   "mlHome": "+104",
    "mlHomeOpen": "-135",
    "provider": "Draft Kings",
    "spread": "CHI -1.5",
@@ -2851,7 +5226,7 @@
   "stars": 1,
   "start": "2026-11-26T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Ford Field, Detroit"
  },
  "nfl-401873082": {
@@ -2859,7 +5234,9 @@
    "abbr": "KC",
    "form": "WWWLL",
    "injuries": [
-    "Ben VanSumeren (FB) – Injured Reserve, Knee"
+    "Omarr Norman-Lott (DT) – Out, Knee",
+    "Jaylon Moore (OT) – Out, Ankle",
+    "Kenneth Walker III (RB) – Out, Groin"
    ],
    "name": "Kansas City Chiefs",
    "record": "8-2",
@@ -2888,10 +5265,24 @@
    "away": [
     {
      "detail": "Knee",
-     "player": "Ben VanSumeren",
-     "pos": "FB",
+     "player": "Omarr Norman-Lott",
+     "pos": "DT",
      "stale": false,
-     "status": "Injured Reserve"
+     "status": "Out"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Jaylon Moore",
+     "pos": "OT",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Groin",
+     "player": "Kenneth Walker III",
+     "pos": "RB",
+     "stale": false,
+     "status": "Out"
     }
    ],
    "home": []
@@ -2899,14 +5290,14 @@
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873082",
   "news": [
-   "Fantasy football matchup ranks: Tyler Shough, Ashton Jeanty with prime matchups",
-   "How upsets in the 2026 NFL season have upended survivor pools",
-   "2026 NFL Thanksgiving preview: Picks, predictions, schedule, odds, fantasy tips"
+   "Aaron Rodgers' comments on 'The Pat McAfee Show' draw NFL reaction",
+   "Steelers players try to keep focus on Broncos amid Aaron Rodgers fallout",
+   "Sources: Mike McCarthy has Steelers' full support after Aaron Rodgers interview"
   ],
   "odds": {
-   "mlAway": "+128",
+   "mlAway": "+125",
    "mlAwayOpen": "+114",
-   "mlHome": "-151",
+   "mlHome": "-148",
    "mlHomeOpen": "-135",
    "provider": "Draft Kings",
    "spread": "BUF -3",
@@ -2915,14 +5306,14 @@
    "totalOpen": "49.5"
   },
   "pick": "Pass",
-  "reason": "BUF about 58% no-vig at -151; no edge worth a pick.",
+  "reason": "BUF about 57% no-vig at -148; no edge worth a pick.",
   "risks": [],
   "slug": "nfl",
   "sport": "nfl",
   "stars": 1,
   "start": "2026-11-27T01:20Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Highmark Stadium, Orchard Park"
  },
  "nfl-401873083": {
@@ -2931,8 +5322,7 @@
    "form": "WWWWW",
    "injuries": [
     "Jonah Elliss (LB) – Injured Reserve, Ankle",
-    "Tyler Badie (RB) – Injured Reserve, Thumb",
-    "J.K. Dobbins (RB) – Out, Personal"
+    "Tyler Badie (RB) – Injured Reserve, Thumb"
    ],
    "name": "Denver Broncos",
    "record": "8-2",
@@ -2951,9 +5341,8 @@
    "abbr": "PIT",
    "form": "LLWWW",
    "injuries": [
-    "Gennings Dunker (G) – Injured Reserve, Knee",
     "Michael Pittman Jr. (WR) – Injured Reserve, Foot",
-    "Alex Highsmith (LB) – Doubtful, Ankle"
+    "Gennings Dunker (G) – Injured Reserve, Knee"
    ],
    "name": "Pittsburgh Steelers",
    "record": "6-4",
@@ -2976,23 +5365,9 @@
      "pos": "RB",
      "stale": false,
      "status": "Injured Reserve"
-    },
-    {
-     "detail": "Personal",
-     "player": "J.K. Dobbins",
-     "pos": "RB",
-     "stale": false,
-     "status": "Out"
     }
    ],
    "home": [
-    {
-     "detail": "Knee",
-     "player": "Gennings Dunker",
-     "pos": "G",
-     "stale": false,
-     "status": "Injured Reserve"
-    },
     {
      "detail": "Foot",
      "player": "Michael Pittman Jr.",
@@ -3001,20 +5376,20 @@
      "status": "Injured Reserve"
     },
     {
-     "detail": "Ankle",
-     "player": "Alex Highsmith",
-     "pos": "LB",
+     "detail": "Knee",
+     "player": "Gennings Dunker",
+     "pos": "G",
      "stale": false,
-     "status": "Doubtful"
+     "status": "Injured Reserve"
     }
    ]
   },
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873083",
   "news": [
-   "Fantasy football matchup ranks: Tyler Shough, Ashton Jeanty with prime matchups",
-   "How upsets in the 2026 NFL season have upended survivor pools",
-   "2026 NFL Thanksgiving preview: Picks, predictions, schedule, odds, fantasy tips"
+   "Aaron Rodgers' comments on 'The Pat McAfee Show' draw NFL reaction",
+   "Steelers players try to keep focus on Broncos amid Aaron Rodgers fallout",
+   "Sources: Mike McCarthy has Steelers' full support after Aaron Rodgers interview"
   ],
   "odds": {
    "mlAway": "-202",
@@ -3037,8 +5412,117 @@
   "stars": 1,
   "start": "2026-11-27T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Acrisure Stadium, Pittsburgh"
+ },
+ "soccer-401874826": {
+  "away": {
+   "abbr": "LAZ",
+   "form": "WDWWW",
+   "name": "Lazio",
+   "record": "10-2-0",
+   "short": "Lazio",
+   "teamId": "112"
+  },
+  "confidence": 43,
+  "espnId": "401874826",
+  "espnLeague": "ita.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "TOR",
+   "form": "LDLLW",
+   "name": "Torino",
+   "record": "4-2-6",
+   "short": "Torino",
+   "teamId": "239"
+  },
+  "id": "soccer-401874826",
+  "league": "Serie A",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401874826",
+  "news": [
+   "Transfer rumors, news: Manchester United's Bruno Fernandes eyed by Juventus",
+   "Transfer rumors, news: Arsenal, Newcastle eye Inter's Pio Esposito",
+   "Lazio are top of Serie A despite playing without their fans"
+  ],
+  "odds": {
+   "mlAway": "+105",
+   "mlAwayOpen": "-105",
+   "mlDraw": "+235",
+   "mlHome": "+235",
+   "mlHomeOpen": "+250",
+   "provider": "DraftKings",
+   "spread": "LAZ +105",
+   "spreadOpen": "LAZ -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Lazio about 45% no-vig at +105; no edge worth a pick.",
+  "risks": [],
+  "slug": "ita.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-28T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Stadio Olimpico Grande Torino, Torino"
+ },
+ "soccer-401874977": {
+  "_lastPick": "Inter Milan ML (-330)",
+  "away": {
+   "abbr": "GEN",
+   "form": "WLWWW",
+   "name": "Genoa",
+   "record": "5-1-6",
+   "short": "Genoa",
+   "teamId": "3263"
+  },
+  "confidence": 66,
+  "espnId": "401874977",
+  "espnLeague": "ita.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "INT",
+   "form": "DWWLW",
+   "name": "Internazionale",
+   "record": "9-2-1",
+   "short": "Inter Milan",
+   "teamId": "110"
+  },
+  "id": "soccer-401874977",
+  "league": "Serie A",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401874977",
+  "market": "Moneyline",
+  "news": [
+   "Transfer rumors, news: Manchester United's Bruno Fernandes eyed by Juventus",
+   "Transfer rumors, news: Arsenal, Newcastle eye Inter's Pio Esposito",
+   "Lazio are top of Serie A despite playing without their fans"
+  ],
+  "odds": {
+   "mlAway": "+700",
+   "mlAwayOpen": "+800",
+   "mlDraw": "+425",
+   "mlHome": "-330",
+   "mlHomeOpen": "-425",
+   "provider": "DraftKings",
+   "spread": "INT -330",
+   "spreadOpen": "INT -1.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Inter Milan ML (-330)",
+  "reason": "Inter Milan are about 71% no-vig at -330.",
+  "risks": [
+   "line drifted away (-425 → -330)"
+  ],
+  "side": "home",
+  "slug": "ita.1",
+  "sport": "soccer",
+  "stars": 2,
+  "start": "2026-11-28T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "San Siro, Milano"
  },
  "soccer-401875004": {
   "away": {
@@ -3091,8 +5575,276 @@
   "stars": 1,
   "start": "2026-11-27T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Stadio Pier Luigi Penzo, Venezia"
+ },
+ "soccer-401875081": {
+  "_lastPick": "Frosinone ML (-215)",
+  "away": {
+   "abbr": "PAR",
+   "form": "LLWDL",
+   "name": "Parma",
+   "record": "2-2-8",
+   "short": "Parma",
+   "teamId": "115"
+  },
+  "confidence": 60,
+  "espnId": "401875081",
+  "espnLeague": "ita.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "FRO",
+   "form": "LLWWD",
+   "name": "Frosinone",
+   "record": "6-2-4",
+   "short": "Frosinone",
+   "teamId": "4057"
+  },
+  "id": "soccer-401875081",
+  "league": "Serie A",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401875081",
+  "market": "Moneyline",
+  "news": [
+   "Transfer rumors, news: Manchester United's Bruno Fernandes eyed by Juventus",
+   "Transfer rumors, news: Arsenal, Newcastle eye Inter's Pio Esposito",
+   "Lazio are top of Serie A despite playing without their fans"
+  ],
+  "odds": {
+   "mlAway": "+425",
+   "mlAwayOpen": "+425",
+   "mlDraw": "+380",
+   "mlHome": "-215",
+   "mlHomeOpen": "-225",
+   "provider": "DraftKings",
+   "spread": "FRO -215",
+   "spreadOpen": "FRO -1.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Frosinone ML (-215)",
+  "reason": "Frosinone are about 63% no-vig at -215.",
+  "risks": [],
+  "side": "home",
+  "slug": "ita.1",
+  "sport": "soccer",
+  "stars": 2,
+  "start": "2026-11-28T14:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Stadio Benito Stirpe, Frosinone"
+ },
+ "soccer-401876387": {
+  "_lastPick": "PSG ML (-475)",
+  "away": {
+   "abbr": "LOR",
+   "form": "DWLDW",
+   "name": "Lorient",
+   "record": "4-4-3",
+   "short": "Lorient",
+   "teamId": "273"
+  },
+  "confidence": 77,
+  "espnId": "401876387",
+  "espnLeague": "fra.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "PSG",
+   "form": "WWWWW",
+   "name": "Paris Saint-Germain",
+   "record": "8-2-1",
+   "short": "PSG",
+   "teamId": "160"
+  },
+  "id": "soccer-401876387",
+  "league": "Ligue 1",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401876387",
+  "market": "Moneyline",
+  "news": [
+   "Luis Enrique insists PSG won't 'start crying' over Doué, Kvaratskhelia injuries",
+   "Paris Saint-Germain drop one of this season's best kits in latest Jordan collab",
+   "PSG star Désiré Doué suffers 'serious' knee injury in win over Nice"
+  ],
+  "odds": {
+   "mlAway": "+1100",
+   "mlAwayOpen": "+1000",
+   "mlDraw": "+600",
+   "mlHome": "-475",
+   "mlHomeOpen": "-475",
+   "provider": "DraftKings",
+   "spread": "PSG -475",
+   "spreadOpen": "PSG -1.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "PSG ML (-475)",
+  "reason": "PSG are about 79% no-vig at -475. For: form WWWWW vs DWLDW.",
+  "risks": [],
+  "side": "home",
+  "slug": "fra.1",
+  "sport": "soccer",
+  "stars": 3,
+  "start": "2026-11-28T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Parc des Princes, Paris"
+ },
+ "soccer-401876388": {
+  "away": {
+   "abbr": "TRY",
+   "form": "WLWDL",
+   "name": "Troyes",
+   "record": "3-2-6",
+   "short": "Troyes",
+   "teamId": "170"
+  },
+  "confidence": 54,
+  "espnId": "401876388",
+  "espnLeague": "fra.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "NICE",
+   "form": "LWWWL",
+   "name": "Nice",
+   "record": "5-2-4",
+   "short": "Nice",
+   "teamId": "2502"
+  },
+  "id": "soccer-401876388",
+  "league": "Ligue 1",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401876388",
+  "news": [
+   "Luis Enrique insists PSG won't 'start crying' over Doué, Kvaratskhelia injuries",
+   "Paris Saint-Germain drop one of this season's best kits in latest Jordan collab",
+   "PSG star Désiré Doué suffers 'serious' knee injury in win over Nice"
+  ],
+  "odds": {
+   "mlAway": "+380",
+   "mlAwayOpen": "+350",
+   "mlDraw": "+320",
+   "mlHome": "-150",
+   "mlHomeOpen": "-155",
+   "provider": "DraftKings",
+   "spread": "NICE -150",
+   "spreadOpen": "NICE -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Nice about 57% no-vig at -150; no edge worth a pick.",
+  "risks": [],
+  "slug": "fra.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-28T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Allianz Riviera, Nice"
+ },
+ "soccer-401876390": {
+  "away": {
+   "abbr": "LILL",
+   "form": "LWDWD",
+   "name": "Lille",
+   "record": "6-3-2",
+   "short": "Lille",
+   "teamId": "166"
+  },
+  "confidence": 41,
+  "espnId": "401876390",
+  "espnLeague": "fra.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "MNS",
+   "form": "WDLDL",
+   "name": "Le Mans",
+   "record": "2-5-4",
+   "short": "Le Mans",
+   "teamId": "2697"
+  },
+  "id": "soccer-401876390",
+  "league": "Ligue 1",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401876390",
+  "news": [
+   "Luis Enrique insists PSG won't 'start crying' over Doué, Kvaratskhelia injuries",
+   "Paris Saint-Germain drop one of this season's best kits in latest Jordan collab",
+   "PSG star Désiré Doué suffers 'serious' knee injury in win over Nice"
+  ],
+  "odds": {
+   "mlAway": "+105",
+   "mlAwayOpen": "-115",
+   "mlDraw": "+245",
+   "mlHome": "+265",
+   "mlHomeOpen": "+300",
+   "provider": "DraftKings",
+   "spread": "LILL +105",
+   "spreadOpen": "LILL -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Lille about 46% no-vig at +105; no edge worth a pick.",
+  "risks": [
+   "line drifted away (-115 → +105)"
+  ],
+  "slug": "fra.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-28T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Stade Marie-Marvingt, Le Mans"
+ },
+ "soccer-401876391": {
+  "away": {
+   "abbr": "STR",
+   "form": "LLWLL",
+   "name": "Strasbourg",
+   "record": "3-1-7",
+   "short": "Strasbourg",
+   "teamId": "180"
+  },
+  "confidence": 39,
+  "espnId": "401876391",
+  "espnLeague": "fra.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "HAC",
+   "form": "LLLLL",
+   "name": "Le Havre AC",
+   "record": "0-2-9",
+   "short": "Le Havre AC",
+   "teamId": "3236"
+  },
+  "id": "soccer-401876391",
+  "league": "Ligue 1",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401876391",
+  "news": [
+   "Luis Enrique insists PSG won't 'start crying' over Doué, Kvaratskhelia injuries",
+   "Paris Saint-Germain drop one of this season's best kits in latest Jordan collab",
+   "PSG star Désiré Doué suffers 'serious' knee injury in win over Nice"
+  ],
+  "odds": {
+   "mlAway": "+125",
+   "mlAwayOpen": "+125",
+   "mlDraw": "+265",
+   "mlHome": "+205",
+   "mlHomeOpen": "+190",
+   "provider": "DraftKings",
+   "spread": "STR +125",
+   "spreadOpen": "STR -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Strasbourg about 42% no-vig at +125; no edge worth a pick.",
+  "risks": [],
+  "slug": "fra.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-28T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Stade Océane, Le Havre"
  },
  "soccer-401876392": {
   "away": {
@@ -3143,8 +5895,112 @@
   "stars": 1,
   "start": "2026-11-27T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Stade Francis-Le Blé, Brest"
+ },
+ "soccer-401876394": {
+  "away": {
+   "abbr": "RCL",
+   "form": "LDLLL",
+   "name": "Lens",
+   "record": "4-2-5",
+   "short": "Lens",
+   "teamId": "175"
+  },
+  "confidence": 54,
+  "espnId": "401876394",
+  "espnLeague": "fra.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "ANG",
+   "form": "LLLDL",
+   "name": "Angers",
+   "record": "2-2-7",
+   "short": "Angers",
+   "teamId": "7868"
+  },
+  "id": "soccer-401876394",
+  "league": "Ligue 1",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401876394",
+  "news": [
+   "Luis Enrique insists PSG won't 'start crying' over Doué, Kvaratskhelia injuries",
+   "Paris Saint-Germain drop one of this season's best kits in latest Jordan collab",
+   "PSG star Désiré Doué suffers 'serious' knee injury in win over Nice"
+  ],
+  "odds": {
+   "mlAway": "-150",
+   "mlAwayOpen": "-140",
+   "mlDraw": "+320",
+   "mlHome": "+380",
+   "mlHomeOpen": "+320",
+   "provider": "DraftKings",
+   "spread": "RCL -150",
+   "spreadOpen": "RCL -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Lens about 57% no-vig at -150; no edge worth a pick.",
+  "risks": [],
+  "slug": "fra.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-28T16:15Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Stade Raymond Kopa, Angers"
+ },
+ "soccer-401878752": {
+  "away": {
+   "abbr": "AVL",
+   "form": "LDDLD",
+   "name": "Aston Villa",
+   "record": "3-5-3",
+   "short": "Aston Villa",
+   "teamId": "362"
+  },
+  "confidence": 46,
+  "espnId": "401878752",
+  "espnLeague": "eng.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "IPS",
+   "form": "LLDDL",
+   "name": "Ipswich Town",
+   "record": "3-2-6",
+   "short": "Ipswich",
+   "teamId": "373"
+  },
+  "id": "soccer-401878752",
+  "league": "Premier League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401878752",
+  "news": [
+   "Nottingham Forest boss Glasner hits out at players who don't learn English",
+   "Newcastle owners not considering full sale, only minority deals - reports",
+   "Man City told regulator 'has the stomach' to challenge owners after charges"
+  ],
+  "odds": {
+   "mlAway": "-105",
+   "mlAwayOpen": "+100",
+   "mlDraw": "+290",
+   "mlHome": "+255",
+   "mlHomeOpen": "+230",
+   "provider": "DraftKings",
+   "spread": "AVL -105",
+   "spreadOpen": "AVL -0.5",
+   "total": "3.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Aston Villa about 49% no-vig at -105; no edge worth a pick.",
+  "risks": [],
+  "slug": "eng.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-28T17:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Portman Road, Ipswich"
  },
  "soccer-401879225": {
   "away": {
@@ -3155,7 +6011,7 @@
    "short": "Chelsea",
    "teamId": "363"
   },
-  "confidence": 34,
+  "confidence": 35,
   "espnId": "401879225",
   "espnLeague": "eng.1",
   "espnSport": "soccer",
@@ -3171,32 +6027,246 @@
   "league": "Premier League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401879225",
   "news": [
-   "Raheem Sterling avoids jail for dangerous driving",
-   "Pochettino: Manchester United's situation is fragile not the team",
-   "Man United crisis: How did it start? Who is to blame? Is Pochettino the answer?"
+   "Nottingham Forest boss Glasner hits out at players who don't learn English",
+   "Newcastle owners not considering full sale, only minority deals - reports",
+   "Man City told regulator 'has the stomach' to challenge owners after charges"
   ],
   "odds": {
-   "mlAway": "+175",
+   "mlAway": "+180",
    "mlAwayOpen": "+145",
    "mlDraw": "+240",
-   "mlHome": "+160",
+   "mlHome": "+155",
    "mlHomeOpen": "+170",
    "provider": "DraftKings",
-   "spread": "NFO +160",
+   "spread": "NFO +155",
    "spreadOpen": "CHE -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Nottm Forest about 37% no-vig at +160; no edge worth a pick.",
+  "reason": "Nottm Forest about 38% no-vig at +155; no edge worth a pick.",
   "risks": [],
   "slug": "eng.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-27T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "The City Ground, Nottingham"
+ },
+ "soccer-401879226": {
+  "away": {
+   "abbr": "BRE",
+   "form": "WLWLD",
+   "name": "Brentford",
+   "record": "4-5-2",
+   "short": "Brentford",
+   "teamId": "337"
+  },
+  "confidence": 42,
+  "espnId": "401879226",
+  "espnLeague": "eng.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "MAN",
+   "form": "LDWLL",
+   "name": "Manchester United",
+   "record": "1-5-5",
+   "short": "Man Utd",
+   "teamId": "360"
+  },
+  "id": "soccer-401879226",
+  "league": "Premier League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401879226",
+  "news": [
+   "Nottingham Forest boss Glasner hits out at players who don't learn English",
+   "Newcastle owners not considering full sale, only minority deals - reports",
+   "Man City told regulator 'has the stomach' to challenge owners after charges"
+  ],
+  "odds": {
+   "mlAway": "+225",
+   "mlAwayOpen": "+215",
+   "mlDraw": "+275",
+   "mlHome": "+110",
+   "mlHomeOpen": "+105",
+   "provider": "DraftKings",
+   "spread": "MAN +110",
+   "spreadOpen": "MAN -0.5",
+   "total": "3.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Man Utd about 45% no-vig at +110; no edge worth a pick.",
+  "risks": [],
+  "slug": "eng.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-28T15:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Old Trafford, Manchester"
+ },
+ "soccer-401879227": {
+  "_lastPick": "Leeds ML (-215)",
+  "away": {
+   "abbr": "COV",
+   "form": "WLWLL",
+   "name": "Coventry City",
+   "record": "4-0-7",
+   "short": "Coventry",
+   "teamId": "388"
+  },
+  "confidence": 62,
+  "espnId": "401879227",
+  "espnLeague": "eng.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "LEE",
+   "form": "WWLDD",
+   "name": "Leeds United",
+   "record": "4-5-2",
+   "short": "Leeds",
+   "teamId": "357"
+  },
+  "id": "soccer-401879227",
+  "league": "Premier League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401879227",
+  "market": "Moneyline",
+  "news": [
+   "Nottingham Forest boss Glasner hits out at players who don't learn English",
+   "Newcastle owners not considering full sale, only minority deals - reports",
+   "Man City told regulator 'has the stomach' to challenge owners after charges"
+  ],
+  "odds": {
+   "mlAway": "+550",
+   "mlAwayOpen": "+400",
+   "mlDraw": "+370",
+   "mlHome": "-215",
+   "mlHomeOpen": "-165",
+   "provider": "DraftKings",
+   "spread": "LEE -215",
+   "spreadOpen": "LEE -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Leeds ML (-215)",
+  "reason": "Leeds are about 65% no-vig at -215. For: line moved toward Leeds (-165 → -215).",
+  "risks": [],
+  "side": "home",
+  "slug": "eng.1",
+  "sport": "soccer",
+  "stars": 2,
+  "start": "2026-11-28T15:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Elland Road, Leeds"
+ },
+ "soccer-401882789": {
+  "_lastPick": "Real Madrid ML (-750)",
+  "away": {
+   "abbr": "ALA",
+   "form": "WWDLD",
+   "name": "Alavés",
+   "record": "4-4-5",
+   "short": "Alavés",
+   "teamId": "96"
+  },
+  "confidence": 82,
+  "espnId": "401882789",
+  "espnLeague": "esp.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "RMA",
+   "form": "WWWWW",
+   "name": "Real Madrid",
+   "record": "11-0-2",
+   "short": "Real Madrid",
+   "teamId": "86"
+  },
+  "id": "soccer-401882789",
+  "league": "LaLiga",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401882789",
+  "market": "Moneyline",
+  "news": [
+   "Barcelona to appeal Fermín López's two-match ban - sources",
+   "Bellingham: Being the best player in the world means nothing to me",
+   "Levante vs. Elche - Game Highlights"
+  ],
+  "odds": {
+   "mlAway": "+1600",
+   "mlAwayOpen": "+1200",
+   "mlDraw": "+850",
+   "mlHome": "-750",
+   "mlHomeOpen": "-700",
+   "provider": "DraftKings",
+   "spread": "RMA -750",
+   "spreadOpen": "RMA -2.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Real Madrid ML (-750)",
+  "reason": "Real Madrid are about 84% no-vig at -750. For: form WWWWW vs WWDLD.",
+  "risks": [],
+  "side": "home",
+  "slug": "esp.1",
+  "sport": "soccer",
+  "stars": 3,
+  "start": "2026-11-28T20:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Santiago Bernabéu, Madrid"
+ },
+ "soccer-401882790": {
+  "away": {
+   "abbr": "ATH",
+   "form": "LDWWW",
+   "name": "Athletic Club",
+   "record": "4-4-4",
+   "short": "Athletic",
+   "teamId": "93"
+  },
+  "confidence": 51,
+  "espnId": "401882790",
+  "espnLeague": "esp.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "MCF",
+   "form": "LLLWD",
+   "name": "Málaga",
+   "record": "0-5-8",
+   "short": "Málaga",
+   "teamId": "99"
+  },
+  "id": "soccer-401882790",
+  "league": "LaLiga",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401882790",
+  "news": [
+   "Barcelona to appeal Fermín López's two-match ban - sources",
+   "Bellingham: Being the best player in the world means nothing to me",
+   "Levante vs. Elche - Game Highlights"
+  ],
+  "odds": {
+   "mlAway": "-130",
+   "mlAwayOpen": "-135",
+   "mlDraw": "+280",
+   "mlHome": "+360",
+   "mlHomeOpen": "+340",
+   "provider": "DraftKings",
+   "spread": "ATH -130",
+   "spreadOpen": "ATH -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Athletic about 54% no-vig at -130; no edge worth a pick.",
+  "risks": [],
+  "slug": "esp.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-28T15:15Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "La Rosaleda, Malaga"
  },
  "soccer-401882791": {
   "away": {
@@ -3223,9 +6293,9 @@
   "league": "LaLiga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401882791",
   "news": [
+   "Barcelona to appeal Fermín López's two-match ban - sources",
    "Bellingham: Being the best player in the world means nothing to me",
-   "Levante vs. Elche - Game Highlights",
-   "Diego Simeone takes LaLiga win record with 345th Atlético Madrid victory"
+   "Levante vs. Elche - Game Highlights"
   ],
   "odds": {
    "mlAway": "+220",
@@ -3249,8 +6319,63 @@
   "stars": 1,
   "start": "2026-11-27T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Estadi Ciutat de València, Manises"
+ },
+ "soccer-401882793": {
+  "_lastPick": "Atlético ML (-200)",
+  "away": {
+   "abbr": "ATM",
+   "form": "WLLWW",
+   "name": "Atlético Madrid",
+   "record": "10-1-2",
+   "short": "Atlético",
+   "teamId": "1068"
+  },
+  "confidence": 61,
+  "espnId": "401882793",
+  "espnLeague": "esp.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "ELC",
+   "form": "DLLWW",
+   "name": "Elche",
+   "record": "2-5-6",
+   "short": "Elche",
+   "teamId": "3751"
+  },
+  "id": "soccer-401882793",
+  "league": "LaLiga",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401882793",
+  "market": "Moneyline",
+  "news": [
+   "Barcelona to appeal Fermín López's two-match ban - sources",
+   "Bellingham: Being the best player in the world means nothing to me",
+   "Levante vs. Elche - Game Highlights"
+  ],
+  "odds": {
+   "mlAway": "-200",
+   "mlAwayOpen": "-180",
+   "mlDraw": "+370",
+   "mlHome": "+500",
+   "mlHomeOpen": "+425",
+   "provider": "DraftKings",
+   "spread": "ATM -200",
+   "spreadOpen": "ATM -0.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Atlético ML (-200)",
+  "reason": "Atlético are about 64% no-vig at -200.",
+  "risks": [],
+  "side": "away",
+  "slug": "esp.1",
+  "sport": "soccer",
+  "stars": 2,
+  "start": "2026-11-28T17:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Estadio Martínez Valero, Elche"
  },
  "soccer-401882796": {
   "away": {
@@ -3277,9 +6402,9 @@
   "league": "LaLiga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401882796",
   "news": [
+   "Barcelona to appeal Fermín López's two-match ban - sources",
    "Bellingham: Being the best player in the world means nothing to me",
-   "Levante vs. Elche - Game Highlights",
-   "Diego Simeone takes LaLiga win record with 345th Atlético Madrid victory"
+   "Levante vs. Elche - Game Highlights"
   ],
   "odds": {
    "mlAway": "+400",
@@ -3301,8 +6426,60 @@
   "stars": 1,
   "start": "2026-11-28T13:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Estadio La Cartuja, Sevilla"
+ },
+ "soccer-401884719": {
+  "away": {
+   "abbr": "S04",
+   "form": "DLLLD",
+   "name": "Schalke 04",
+   "record": "1-4-5",
+   "short": "Schalke",
+   "teamId": "133"
+  },
+  "confidence": 36,
+  "espnId": "401884719",
+  "espnLeague": "ger.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "SCP",
+   "form": "LWDDL",
+   "name": "SC Paderborn 07",
+   "record": "2-4-4",
+   "short": "Paderborn",
+   "teamId": "3307"
+  },
+  "id": "soccer-401884719",
+  "league": "Bundesliga",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401884719",
+  "news": [
+   "Bayern Munich, Jamal Musiala mess shows German champs at their worst",
+   "Bayern Munich: Jamal Musiala's health 'top priority' amid contract doubts",
+   "Bayern hold 'constructive' talks with Musiala's agents over health, not money"
+  ],
+  "odds": {
+   "mlAway": "+175",
+   "mlAwayOpen": "+170",
+   "mlDraw": "+235",
+   "mlHome": "+140",
+   "mlHomeOpen": "+130",
+   "provider": "DraftKings",
+   "spread": "SCP +140",
+   "spreadOpen": "SCP -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Paderborn about 39% no-vig at +140; no edge worth a pick.",
+  "risks": [],
+  "slug": "ger.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-28T14:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Home Deluxe Arena, Paderborn"
  },
  "soccer-401884720": {
   "away": {
@@ -3329,9 +6506,9 @@
   "league": "Bundesliga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401884720",
   "news": [
+   "Bayern Munich, Jamal Musiala mess shows German champs at their worst",
    "Bayern Munich: Jamal Musiala's health 'top priority' amid contract doubts",
-   "Bayern hold 'constructive' talks with Musiala's agents over health, not money",
-   "Niko Kovac hails Jobe Bellingham's development after England call-up"
+   "Bayern hold 'constructive' talks with Musiala's agents over health, not money"
   ],
   "odds": {
    "mlAway": "+300",
@@ -3353,8 +6530,202 @@
   "stars": 1,
   "start": "2026-11-27T19:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Weserstadion, Bremen"
+ },
+ "soccer-401884721": {
+  "away": {
+   "abbr": "ELV",
+   "form": "LLWLL",
+   "name": "SV Elversberg",
+   "record": "4-1-5",
+   "short": "Elversberg",
+   "teamId": "10388"
+  },
+  "confidence": 44,
+  "espnId": "401884721",
+  "espnLeague": "ger.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "KOE",
+   "form": "DLDWD",
+   "name": "FC Cologne",
+   "record": "2-4-4",
+   "short": "Cologne",
+   "teamId": "122"
+  },
+  "id": "soccer-401884721",
+  "league": "Bundesliga",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401884721",
+  "news": [
+   "Bayern Munich, Jamal Musiala mess shows German champs at their worst",
+   "Bayern Munich: Jamal Musiala's health 'top priority' amid contract doubts",
+   "Bayern hold 'constructive' talks with Musiala's agents over health, not money"
+  ],
+  "odds": {
+   "mlAway": "+230",
+   "mlAwayOpen": "+225",
+   "mlDraw": "+270",
+   "mlHome": "+100",
+   "mlHomeOpen": "-110",
+   "provider": "DraftKings",
+   "spread": "KOE +100",
+   "spreadOpen": "KOE -0.5",
+   "total": "2.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Pass",
+  "reason": "Cologne about 47% no-vig at +100; no edge worth a pick.",
+  "risks": [],
+  "slug": "ger.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-28T14:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "RheinEnergieStadion, Cologne"
+ },
+ "soccer-401884722": {
+  "away": {
+   "abbr": "MUN",
+   "name": "Bayern Munich",
+   "record": "6-4-0",
+   "short": "Bayern",
+   "teamId": "132"
+  },
+  "espnId": "401884722",
+  "espnLeague": "ger.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "HSV",
+   "name": "Hamburg SV",
+   "record": "4-0-6",
+   "short": "Hamburg",
+   "teamId": "127"
+  },
+  "id": "soccer-401884722",
+  "league": "Bundesliga",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401884722",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "ger.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-28T14:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Volksparkstadion, Hamburg Norderstedt"
+ },
+ "soccer-401884723": {
+  "_lastPick": "Mainz ML (-210)",
+  "away": {
+   "abbr": "FCU",
+   "form": "LLLDL",
+   "name": "1. FC Union Berlin",
+   "record": "1-4-5",
+   "short": "Union Berlin",
+   "teamId": "598"
+  },
+  "confidence": 60,
+  "espnId": "401884723",
+  "espnLeague": "ger.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "M05",
+   "form": "LLLLL",
+   "name": "Mainz",
+   "record": "3-1-6",
+   "short": "Mainz",
+   "teamId": "2950"
+  },
+  "id": "soccer-401884723",
+  "league": "Bundesliga",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401884723",
+  "market": "Moneyline",
+  "news": [
+   "Bayern Munich, Jamal Musiala mess shows German champs at their worst",
+   "Bayern Munich: Jamal Musiala's health 'top priority' amid contract doubts",
+   "Bayern hold 'constructive' talks with Musiala's agents over health, not money"
+  ],
+  "odds": {
+   "mlAway": "+450",
+   "mlAwayOpen": "+425",
+   "mlDraw": "+350",
+   "mlHome": "-210",
+   "mlHomeOpen": "-220",
+   "provider": "DraftKings",
+   "spread": "M05 -210",
+   "spreadOpen": "M05 -1.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Mainz ML (-210)",
+  "reason": "Mainz are about 63% no-vig at -210.",
+  "risks": [],
+  "side": "home",
+  "slug": "ger.1",
+  "sport": "soccer",
+  "stars": 2,
+  "start": "2026-11-28T14:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "MEWA ARENA, Mainz"
+ },
+ "soccer-401884726": {
+  "away": {
+   "abbr": "SGE",
+   "form": "WDWWL",
+   "name": "Eintracht Frankfurt",
+   "record": "4-3-3",
+   "short": "Frankfurt",
+   "teamId": "125"
+  },
+  "confidence": 51,
+  "espnId": "401884726",
+  "espnLeague": "ger.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "VFB",
+   "form": "DWLWW",
+   "name": "VfB Stuttgart",
+   "record": "4-1-5",
+   "short": "Stuttgart",
+   "teamId": "134"
+  },
+  "id": "soccer-401884726",
+  "league": "Bundesliga",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401884726",
+  "news": [
+   "Bayern Munich, Jamal Musiala mess shows German champs at their worst",
+   "Bayern Munich: Jamal Musiala's health 'top priority' amid contract doubts",
+   "Bayern hold 'constructive' talks with Musiala's agents over health, not money"
+  ],
+  "odds": {
+   "mlAway": "+265",
+   "mlAwayOpen": "+285",
+   "mlDraw": "+340",
+   "mlHome": "-140",
+   "mlHomeOpen": "-160",
+   "provider": "DraftKings",
+   "spread": "VFB -140",
+   "spreadOpen": "VFB -0.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Pass",
+  "reason": "Stuttgart about 54% no-vig at -140; no edge worth a pick.",
+  "risks": [],
+  "slug": "ger.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-28T17:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "MHPArena, Stuttgart"
  },
  "soccer-401915291": {
   "_lastPick": "Atlético ML (-900)",
@@ -3362,7 +6733,7 @@
    "abbr": "VFK",
    "form": "LWWLW",
    "name": "Viking FK",
-   "record": "1-1-2",
+   "record": "1-1-3",
    "short": "Viking FK",
    "teamId": "510"
   },
@@ -3374,7 +6745,7 @@
    "abbr": "ATM",
    "form": "WLLWW",
    "name": "Atlético Madrid",
-   "record": "1-1-2",
+   "record": "2-1-2",
    "short": "Atlético",
    "teamId": "1068"
   },
@@ -3407,7 +6778,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-25T20:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-25T13:29:33Z",
   "venue": "Riyadh Air Metropolitano, Madrid"
  },
@@ -3416,7 +6787,7 @@
    "abbr": "LIV",
    "form": "WWLLW",
    "name": "Liverpool",
-   "record": "3-0-1",
+   "record": "4-0-1",
    "short": "Liverpool",
    "teamId": "364"
   },
@@ -3428,7 +6799,7 @@
    "abbr": "BRU",
    "form": "WDWWW",
    "name": "Club Brugge",
-   "record": "3-0-1",
+   "record": "3-0-2",
    "short": "Club Brugge",
    "teamId": "570"
   },
@@ -3459,7 +6830,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-25T20:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-25T13:29:33Z",
   "venue": "Jan Breydel Stadium, Brugge"
  },
@@ -3468,7 +6839,7 @@
    "abbr": "VIL",
    "form": "LWLLW",
    "name": "Villarreal",
-   "record": "1-0-3",
+   "record": "2-0-3",
    "short": "Villarreal",
    "teamId": "102"
   },
@@ -3480,7 +6851,7 @@
    "abbr": "SLP",
    "form": "LDLL",
    "name": "Slavia Prague",
-   "record": "0-1-3",
+   "record": "0-1-4",
    "short": "Slavia Prague",
    "teamId": "494"
   },
@@ -3511,226 +6882,9 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-25T17:45Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-25T13:29:33Z",
   "venue": "Fortuna Arena, Prague"
- },
- "soccer-401915294": {
-  "away": {
-   "abbr": "FCP",
-   "form": "WWWWW",
-   "name": "FC Porto",
-   "record": "1-0-3",
-   "short": "FC Porto",
-   "teamId": "437"
-  },
-  "confidence": 42,
-  "espnId": "401915294",
-  "espnLeague": "uefa.champions",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "FEY",
-   "form": "LLLDD",
-   "name": "Feyenoord Rotterdam",
-   "record": "1-0-3",
-   "short": "Feyenoord",
-   "teamId": "142"
-  },
-  "id": "soccer-401915294",
-  "league": "Champions League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401915294",
-  "news": [
-   "Premier League's set-piece goal surge is over, but Arsenal are No. 1 anyway",
-   "Burley questions Man United's desire after Anfield collapse",
-   "Kevin De Bruyne: Man City achievements will not be tainted if appeal fails"
-  ],
-  "odds": {
-   "mlAway": "-105",
-   "mlAwayOpen": "+125",
-   "mlDraw": "+280",
-   "mlHome": "+275",
-   "mlHomeOpen": "+180",
-   "provider": "DraftKings",
-   "spread": "FCP -105",
-   "spreadOpen": "FCP -0.5",
-   "total": "2.5",
-   "totalOpen": "2.5"
-  },
-  "pick": "Pass",
-  "reason": "FC Porto about 44% no-vig at +120; no edge worth a pick.",
-  "risks": [],
-  "slug": "uefa.champions",
-  "sport": "soccer",
-  "stars": 1,
-  "start": "2026-11-24T20:00Z",
-  "state": "in",
-  "updatedAt": "2026-11-24T09:45:15Z",
-  "venue": "De Kuip, Rotterdam"
- },
- "soccer-401915295": {
-  "_lastPick": "Arsenal ML (-220)",
-  "away": {
-   "abbr": "DOR",
-   "form": "WWWDW",
-   "name": "Borussia Dortmund",
-   "record": "3-0-1",
-   "short": "Dortmund",
-   "teamId": "124"
-  },
-  "confidence": 63,
-  "espnId": "401915295",
-  "espnLeague": "uefa.champions",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "ARS",
-   "form": "DWWWL",
-   "name": "Arsenal",
-   "record": "3-1-0",
-   "short": "Arsenal",
-   "teamId": "359"
-  },
-  "id": "soccer-401915295",
-  "league": "Champions League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401915295",
-  "market": "Moneyline",
-  "news": [
-   "Premier League's set-piece goal surge is over, but Arsenal are No. 1 anyway",
-   "Burley questions Man United's desire after Anfield collapse",
-   "Kevin De Bruyne: Man City achievements will not be tainted if appeal fails"
-  ],
-  "odds": {
-   "mlAway": "+600",
-   "mlAwayOpen": "+600",
-   "mlDraw": "+360",
-   "mlHome": "-215",
-   "mlHomeOpen": "-250",
-   "provider": "DraftKings",
-   "spread": "ARS -215",
-   "spreadOpen": "ARS -1.5",
-   "total": "2.5",
-   "totalOpen": "2.5"
-  },
-  "pick": "Arsenal ML (-220)",
-  "reason": "Arsenal are about 66% no-vig at -220.",
-  "risks": [],
-  "side": "home",
-  "slug": "uefa.champions",
-  "sport": "soccer",
-  "stars": 2,
-  "start": "2026-11-24T20:00Z",
-  "state": "in",
-  "updatedAt": "2026-11-24T09:45:15Z",
-  "venue": "Emirates Stadium, London"
- },
- "soccer-401915296": {
-  "_lastPick": "Como ML (-380)",
-  "away": {
-   "abbr": "AEK",
-   "form": "WWLLW",
-   "name": "AEK Athens",
-   "record": "1-0-3",
-   "short": "AEK Athens",
-   "teamId": "887"
-  },
-  "confidence": 72,
-  "espnId": "401915296",
-  "espnLeague": "uefa.champions",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "COMO",
-   "form": "WLWWW",
-   "name": "Como",
-   "record": "3-0-1",
-   "short": "Como",
-   "teamId": "2572"
-  },
-  "id": "soccer-401915296",
-  "league": "Champions League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401915296",
-  "market": "Moneyline",
-  "news": [
-   "Premier League's set-piece goal surge is over, but Arsenal are No. 1 anyway",
-   "Burley questions Man United's desire after Anfield collapse",
-   "Kevin De Bruyne: Man City achievements will not be tainted if appeal fails"
-  ],
-  "odds": {
-   "mlAway": "+900",
-   "mlAwayOpen": "+600",
-   "mlDraw": "+550",
-   "mlHome": "-380",
-   "mlHomeOpen": "-320",
-   "provider": "DraftKings",
-   "spread": "COMO -380",
-   "spreadOpen": "COMO -1.5",
-   "total": "3.5",
-   "totalOpen": "3.5"
-  },
-  "pick": "Como ML (-380)",
-  "reason": "Como are about 75% no-vig at -380.",
-  "risks": [],
-  "side": "home",
-  "slug": "uefa.champions",
-  "sport": "soccer",
-  "stars": 2,
-  "start": "2026-11-24T20:00Z",
-  "state": "in",
-  "updatedAt": "2026-11-24T09:45:15Z",
-  "venue": "Giuseppe Sinigaglia, Como"
- },
- "soccer-401915297": {
-  "_lastPick": "Betis ML (-380)",
-  "away": {
-   "abbr": "BET",
-   "form": "DWWLW",
-   "name": "Real Betis",
-   "record": "3-0-1",
-   "short": "Betis",
-   "teamId": "244"
-  },
-  "confidence": 72,
-  "espnId": "401915297",
-  "espnLeague": "uefa.champions",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "SLB",
-   "form": "LLLLW",
-   "name": "Slovan Bratislava",
-   "record": "0-0-4",
-   "short": "S Bratislava",
-   "teamId": "521"
-  },
-  "id": "soccer-401915297",
-  "league": "Champions League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401915297",
-  "market": "Moneyline",
-  "news": [
-   "Premier League's set-piece goal surge is over, but Arsenal are No. 1 anyway",
-   "Burley questions Man United's desire after Anfield collapse",
-   "Kevin De Bruyne: Man City achievements will not be tainted if appeal fails"
-  ],
-  "odds": {
-   "mlAway": "-260",
-   "mlAwayOpen": "-350",
-   "mlDraw": "+425",
-   "mlHome": "+650",
-   "mlHomeOpen": "+700",
-   "provider": "DraftKings",
-   "spread": "BET -260",
-   "spreadOpen": "BET -1.5",
-   "total": "3.5",
-   "totalOpen": "3.5"
-  },
-  "pick": "Betis ML (-380)",
-  "reason": "Betis are about 75% no-vig at -380.",
-  "risks": [],
-  "side": "away",
-  "slug": "uefa.champions",
-  "sport": "soccer",
-  "stars": 2,
-  "start": "2026-11-24T20:00Z",
-  "state": "in",
-  "updatedAt": "2026-11-24T09:45:15Z",
-  "venue": "Národny Futbalovy Stadión, Bratislava"
  },
  "soccer-401915298": {
   "_lastPick": "Real Madrid ML (-700)",
@@ -3787,121 +6941,12 @@
   "updatedAt": "2026-11-24T09:45:15Z",
   "venue": "Santiago Bernabéu, Madrid"
  },
- "soccer-401915299": {
-  "_lastPick": "RB Leipzig ML (-275)",
-  "away": {
-   "abbr": "RCL",
-   "form": "DLLLW",
-   "name": "Lens",
-   "record": "1-0-3",
-   "short": "Lens",
-   "teamId": "175"
-  },
-  "confidence": 67,
-  "espnId": "401915299",
-  "espnLeague": "uefa.champions",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "RBL",
-   "form": "WLWLW",
-   "name": "RB Leipzig",
-   "record": "1-0-3",
-   "short": "RB Leipzig",
-   "teamId": "11420"
-  },
-  "id": "soccer-401915299",
-  "league": "Champions League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401915299",
-  "market": "Moneyline",
-  "news": [
-   "Premier League's set-piece goal surge is over, but Arsenal are No. 1 anyway",
-   "Burley questions Man United's desire after Anfield collapse",
-   "Kevin De Bruyne: Man City achievements will not be tainted if appeal fails"
-  ],
-  "odds": {
-   "mlAway": "+600",
-   "mlAwayOpen": "+450",
-   "mlDraw": "+450",
-   "mlHome": "-260",
-   "mlHomeOpen": "-230",
-   "provider": "DraftKings",
-   "spread": "RBL -260",
-   "spreadOpen": "RBL -1.5",
-   "total": "3.5",
-   "totalOpen": "3.5"
-  },
-  "pick": "RB Leipzig ML (-275)",
-  "reason": "RB Leipzig are about 70% no-vig at -275.",
-  "risks": [],
-  "side": "home",
-  "slug": "uefa.champions",
-  "sport": "soccer",
-  "stars": 2,
-  "start": "2026-11-24T20:00Z",
-  "state": "in",
-  "updatedAt": "2026-11-24T09:45:15Z",
-  "venue": "Red Bull Arena, Leipzig"
- },
- "soccer-401915300": {
-  "away": {
-   "abbr": "AVL",
-   "form": "DDLDL",
-   "name": "Aston Villa",
-   "record": "3-0-2",
-   "short": "Aston Villa",
-   "teamId": "362"
-  },
-  "confidence": 40,
-  "espnId": "401915300",
-  "espnLeague": "uefa.champions",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "GAL",
-   "form": "WWWWW",
-   "name": "Galatasaray",
-   "record": "3-0-2",
-   "short": "Galatasaray",
-   "teamId": "432"
-  },
-  "id": "soccer-401915300",
-  "league": "Champions League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401915300",
-  "news": [
-   "Premier League's set-piece goal surge is over, but Arsenal are No. 1 anyway",
-   "Burley questions Man United's desire after Anfield collapse",
-   "Kevin De Bruyne: Man City achievements will not be tainted if appeal fails"
-  ],
-  "odds": {
-   "mlAway": "+115",
-   "mlAwayOpen": "+145",
-   "mlDraw": "+285",
-   "mlHome": "+205",
-   "mlHomeOpen": "+155",
-   "provider": "DraftKings",
-   "spread": "AVL +115",
-   "spreadOpen": "AVL -0.5",
-   "total": "3.5",
-   "totalOpen": "3.5"
-  },
-  "pick": "Pass",
-  "reason": "Aston Villa about 44% no-vig at +115; no edge worth a pick.",
-  "risks": [
-   "opponent in better form (WWWWW)"
-  ],
-  "slug": "uefa.champions",
-  "sport": "soccer",
-  "stars": 1,
-  "start": "2026-11-24T17:45Z",
-  "state": "post",
-  "updatedAt": "2026-11-24T09:45:15Z",
-  "venue": "RAMS Park, Istanbul"
- },
  "soccer-401915373": {
   "away": {
    "abbr": "MAN",
    "form": "LDWLL",
    "name": "Manchester United",
-   "record": "2-0-2",
+   "record": "2-1-2",
    "short": "Man Utd",
    "teamId": "360"
   },
@@ -3913,7 +6958,7 @@
    "abbr": "SCP",
    "form": "WWWWL",
    "name": "Sporting CP",
-   "record": "3-0-1",
+   "record": "3-1-1",
    "short": "Sporting",
    "teamId": "2250"
   },
@@ -3946,7 +6991,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-25T20:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-25T13:29:33Z",
   "venue": "Estádio José Alvalade, Lisbon"
  },
@@ -3956,7 +7001,7 @@
    "abbr": "ROMA",
    "form": "WWLWW",
    "name": "AS Roma",
-   "record": "1-1-2",
+   "record": "1-2-2",
    "short": "AS Roma",
    "teamId": "104"
   },
@@ -3968,7 +7013,7 @@
    "abbr": "PSG",
    "form": "WWWWW",
    "name": "Paris Saint-Germain",
-   "record": "4-0-0",
+   "record": "4-1-0",
    "short": "PSG",
    "teamId": "160"
   },
@@ -4003,7 +7048,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-25T20:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-25T13:29:33Z",
   "venue": "Parc des Princes, Paris"
  },
@@ -4012,7 +7057,7 @@
    "abbr": "FEN",
    "form": "DWWLL",
    "name": "Fenerbahce",
-   "record": "1-2-1",
+   "record": "2-2-1",
    "short": "Fenerbahce",
    "teamId": "436"
   },
@@ -4024,7 +7069,7 @@
    "abbr": "SHK",
    "form": "LLWWD",
    "name": "Shakhtar Donetsk",
-   "record": "1-1-2",
+   "record": "1-1-3",
    "short": "Shakhtar",
    "teamId": "493"
   },
@@ -4055,7 +7100,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-25T20:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-25T13:29:33Z",
   "venue": "Stamford Bridge, London"
  },
@@ -4065,7 +7110,7 @@
    "abbr": "VFB",
    "form": "DWLWW",
    "name": "VfB Stuttgart",
-   "record": "2-1-1",
+   "record": "2-1-2",
    "short": "Stuttgart",
    "teamId": "134"
   },
@@ -4077,7 +7122,7 @@
    "abbr": "INT",
    "form": "DWWLW",
    "name": "Internazionale",
-   "record": "2-0-2",
+   "record": "3-0-2",
    "short": "Inter Milan",
    "teamId": "110"
   },
@@ -4110,7 +7155,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-25T20:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-25T13:29:33Z",
   "venue": "San Siro, Milano"
  },
@@ -4119,7 +7164,7 @@
    "abbr": "MUN",
    "form": "DWWDW",
    "name": "Bayern Munich",
-   "record": "2-2-0",
+   "record": "2-2-1",
    "short": "Bayern",
    "teamId": "132"
   },
@@ -4131,7 +7176,7 @@
    "abbr": "LILL",
    "form": "LWDWD",
    "name": "Lille",
-   "record": "0-1-3",
+   "record": "1-1-3",
    "short": "Lille",
    "teamId": "166"
   },
@@ -4164,7 +7209,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-25T20:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-25T13:29:33Z",
   "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille"
  },
@@ -4174,7 +7219,7 @@
    "abbr": "BAR",
    "form": "WWWWL",
    "name": "Barcelona",
-   "record": "3-0-1",
+   "record": "4-0-1",
    "short": "Barcelona",
    "teamId": "83"
   },
@@ -4186,7 +7231,7 @@
    "abbr": "SAB",
    "form": "LLWLW",
    "name": "Sabah FK",
-   "record": "1-0-3",
+   "record": "1-0-4",
    "short": "Sabah",
    "teamId": "21922"
   },
@@ -4219,119 +7264,9 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-25T17:45Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-25T13:29:33Z",
   "venue": "Baku Olympic Stadium, Baku"
- },
- "soccer-401915379": {
-  "_lastPick": "Man City ML (-340)",
-  "away": {
-   "abbr": "NAP",
-   "form": "WDLLW",
-   "name": "Napoli",
-   "record": "1-0-3",
-   "short": "Napoli",
-   "teamId": "114"
-  },
-  "confidence": 71,
-  "espnId": "401915379",
-  "espnLeague": "uefa.champions",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "MNC",
-   "form": "DLWLW",
-   "name": "Manchester City",
-   "record": "3-0-1",
-   "short": "Man City",
-   "teamId": "382"
-  },
-  "id": "soccer-401915379",
-  "league": "Champions League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401915379",
-  "market": "Moneyline",
-  "news": [
-   "Premier League's set-piece goal surge is over, but Arsenal are No. 1 anyway",
-   "Burley questions Man United's desire after Anfield collapse",
-   "Kevin De Bruyne: Man City achievements will not be tainted if appeal fails"
-  ],
-  "odds": {
-   "mlAway": "+950",
-   "mlAwayOpen": "+850",
-   "mlDraw": "+550",
-   "mlHome": "-390",
-   "mlHomeOpen": "-425",
-   "provider": "DraftKings",
-   "spread": "MNC -390",
-   "spreadOpen": "MNC -1.5",
-   "total": "3.5",
-   "totalOpen": "3.5"
-  },
-  "pick": "Man City ML (-340)",
-  "reason": "Man City are about 74% no-vig at -340.",
-  "risks": [],
-  "side": "home",
-  "slug": "uefa.champions",
-  "sport": "soccer",
-  "stars": 2,
-  "start": "2026-11-24T20:00Z",
-  "state": "in",
-  "updatedAt": "2026-11-24T09:45:15Z",
-  "venue": "Etihad Stadium, Manchester"
- },
- "soccer-401915380": {
-  "_lastPick": "Bodo/Glimt ML (-225)",
-  "away": {
-   "abbr": "LAS",
-   "form": "WWWWL",
-   "name": "LASK Linz",
-   "record": "2-0-3",
-   "short": "LASK Linz",
-   "teamId": "4411"
-  },
-  "confidence": 63,
-  "espnId": "401915380",
-  "espnLeague": "uefa.champions",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "BODO",
-   "form": "WWDWL",
-   "name": "Bodo/Glimt",
-   "record": "2-1-2",
-   "short": "Bodo/Glimt",
-   "teamId": "2980"
-  },
-  "id": "soccer-401915380",
-  "league": "Champions League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401915380",
-  "market": "Moneyline",
-  "news": [
-   "Premier League's set-piece goal surge is over, but Arsenal are No. 1 anyway",
-   "Burley questions Man United's desire after Anfield collapse",
-   "Kevin De Bruyne: Man City achievements will not be tainted if appeal fails"
-  ],
-  "odds": {
-   "mlAway": "+500",
-   "mlAwayOpen": "+400",
-   "mlDraw": "+425",
-   "mlHome": "-225",
-   "mlHomeOpen": "-195",
-   "provider": "DraftKings",
-   "spread": "BODO -225",
-   "spreadOpen": "BODO -1.5",
-   "total": "3.5",
-   "totalOpen": "3.5"
-  },
-  "pick": "Bodo/Glimt ML (-225)",
-  "reason": "Bodo/Glimt are about 66% no-vig at -225.",
-  "risks": [],
-  "side": "home",
-  "slug": "uefa.champions",
-  "sport": "soccer",
-  "stars": 2,
-  "start": "2026-11-24T17:45Z",
-  "state": "post",
-  "updatedAt": "2026-11-24T09:45:15Z",
-  "venue": "Aspmyra Stadion, Bodø/Glimt"
  },
  "soccer-401915501": {
   "_lastPick": "Lyon ML (-525)",
@@ -4382,7 +7317,7 @@
   "stars": 2,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Groupama Stadium, Lyon"
  },
  "soccer-401915502": {
@@ -4432,7 +7367,7 @@
   "stars": 2,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Allianz Stadium, Torino"
  },
  "soccer-401915503": {
@@ -4479,7 +7414,7 @@
   "stars": 1,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Pankritio Stadium, Crete"
  },
  "soccer-401915504": {
@@ -4526,7 +7461,7 @@
   "stars": 1,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Selhurst Park, London"
  },
  "soccer-401915505": {
@@ -4538,7 +7473,7 @@
    "short": "Rennes",
    "teamId": "169"
   },
-  "confidence": 41,
+  "confidence": 42,
   "espnId": "401915505",
   "espnLeague": "uefa.europa",
   "espnSport": "soccer",
@@ -4554,30 +7489,30 @@
   "league": "Europa League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401915505",
   "odds": {
-   "mlAway": "+115",
+   "mlAway": "+110",
    "mlAwayOpen": "+130",
-   "mlDraw": "+290",
-   "mlHome": "+200",
+   "mlDraw": "+295",
+   "mlHome": "+210",
    "mlHomeOpen": "+175",
    "provider": "DraftKings",
-   "spread": "REN +115",
+   "spread": "REN +110",
    "spreadOpen": "REN -0.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
   "pick": "Pass",
-  "reason": "Rennes about 44% no-vig at +115; no edge worth a pick.",
+  "reason": "Rennes about 45% no-vig at +110; no edge worth a pick.",
   "risks": [],
   "slug": "uefa.europa",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Goffertstadion, Nijmegen"
  },
  "soccer-401915506": {
-  "_lastPick": "Besiktas ML (-475)",
+  "_lastPick": "Besiktas ML (-425)",
   "away": {
    "abbr": "HBE",
    "form": "LLLDL",
@@ -4586,7 +7521,7 @@
    "short": "Hapoel Be'er",
    "teamId": "13083"
   },
-  "confidence": 77,
+  "confidence": 74,
   "espnId": "401915506",
   "espnLeague": "uefa.europa",
   "espnSport": "soccer",
@@ -4603,19 +7538,19 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401915506",
   "market": "Moneyline",
   "odds": {
-   "mlAway": "+1100",
+   "mlAway": "+950",
    "mlAwayOpen": "+850",
-   "mlDraw": "+600",
-   "mlHome": "-475",
+   "mlDraw": "+550",
+   "mlHome": "-425",
    "mlHomeOpen": "-400",
    "provider": "DraftKings",
-   "spread": "BES -475",
+   "spread": "BES -425",
    "spreadOpen": "BES -1.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
-  "pick": "Besiktas ML (-475)",
-  "reason": "Besiktas are about 79% no-vig at -475. For: form WWLDW vs LLLDL. Capped at 2★: Europa League capped by lessons.",
+  "pick": "Besiktas ML (-425)",
+  "reason": "Besiktas are about 76% no-vig at -425. For: form WWLDW vs LLLDL. Capped at 2★: Europa League capped by lessons.",
   "risks": [],
   "side": "home",
   "slug": "uefa.europa",
@@ -4623,11 +7558,11 @@
   "stars": 2,
   "start": "2026-11-26T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Batumi Stadium (Adjarabet Arena), Batumi"
  },
  "soccer-401915507": {
-  "_lastPick": "Marseille ML (-275)",
+  "_lastPick": "Marseille ML (-285)",
   "away": {
    "abbr": "LEV",
    "form": "WWDLL",
@@ -4636,7 +7571,7 @@
    "short": "Levski Sofia",
    "teamId": "490"
   },
-  "confidence": 67,
+  "confidence": 68,
   "espnId": "401915507",
   "espnLeague": "uefa.europa",
   "espnSport": "soccer",
@@ -4653,19 +7588,19 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401915507",
   "market": "Moneyline",
   "odds": {
-   "mlAway": "+700",
+   "mlAway": "+750",
    "mlAwayOpen": "+500",
-   "mlDraw": "+425",
-   "mlHome": "-275",
+   "mlDraw": "+450",
+   "mlHome": "-285",
    "mlHomeOpen": "-210",
    "provider": "DraftKings",
-   "spread": "OLM -275",
+   "spread": "OLM -285",
    "spreadOpen": "OLM -1.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
-  "pick": "Marseille ML (-275)",
-  "reason": "Marseille are about 70% no-vig at -275. For: line moved toward Marseille (-210 → -275). Capped at 2★: Europa League capped by lessons.",
+  "pick": "Marseille ML (-285)",
+  "reason": "Marseille are about 71% no-vig at -285. For: line moved toward Marseille (-210 → -285). Capped at 2★: Europa League capped by lessons.",
   "risks": [],
   "side": "home",
   "slug": "uefa.europa",
@@ -4673,11 +7608,11 @@
   "stars": 2,
   "start": "2026-11-26T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Stade Vélodrome, Marseille"
  },
  "soccer-401915508": {
-  "_lastPick": "Union SG ML (-290)",
+  "_lastPick": "Union SG ML (-280)",
   "away": {
    "abbr": "LECH",
    "form": "LDLDL",
@@ -4686,7 +7621,7 @@
    "short": "Lech Poznan",
    "teamId": "2990"
   },
-  "confidence": 69,
+  "confidence": 68,
   "espnId": "401915508",
   "espnLeague": "uefa.europa",
   "espnSport": "soccer",
@@ -4703,19 +7638,19 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401915508",
   "market": "Moneyline",
   "odds": {
-   "mlAway": "+700",
+   "mlAway": "+650",
    "mlAwayOpen": "+550",
-   "mlDraw": "+475",
-   "mlHome": "-290",
+   "mlDraw": "+450",
+   "mlHome": "-280",
    "mlHomeOpen": "-260",
    "provider": "DraftKings",
-   "spread": "USG -290",
+   "spread": "USG -280",
    "spreadOpen": "USG -1.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
-  "pick": "Union SG ML (-290)",
-  "reason": "Union SG are about 71% no-vig at -290. For: form WWWWW vs LDLDL. Capped at 2★: Europa League capped by lessons.",
+  "pick": "Union SG ML (-280)",
+  "reason": "Union SG are about 70% no-vig at -280. For: form WWWWW vs LDLDL. Capped at 2★: Europa League capped by lessons.",
   "risks": [],
   "side": "home",
   "slug": "uefa.europa",
@@ -4723,7 +7658,7 @@
   "stars": 2,
   "start": "2026-11-26T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "King Power at Den Dreef Stadion, Leuven"
  },
  "soccer-401915512": {
@@ -4770,11 +7705,11 @@
   "stars": 1,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Estádio Dr. Magalhaes Pessoa, Leiria"
  },
  "soccer-401915513": {
-  "_lastPick": "Sunderland ML (-425)",
+  "_lastPick": "Sunderland ML (-390)",
   "away": {
    "abbr": "JAG",
    "form": "LLWLW",
@@ -4783,7 +7718,7 @@
    "short": "Jagiellonia ",
    "teamId": "11505"
   },
-  "confidence": 74,
+  "confidence": 73,
   "espnId": "401915513",
   "espnLeague": "uefa.europa",
   "espnSport": "soccer",
@@ -4802,17 +7737,17 @@
   "odds": {
    "mlAway": "+1000",
    "mlAwayOpen": "+900",
-   "mlDraw": "+550",
-   "mlHome": "-425",
+   "mlDraw": "+500",
+   "mlHome": "-390",
    "mlHomeOpen": "-380",
    "provider": "DraftKings",
-   "spread": "SUN -425",
+   "spread": "SUN -390",
    "spreadOpen": "SUN -1.5",
    "total": "3.5",
    "totalOpen": "2.5"
   },
-  "pick": "Sunderland ML (-425)",
-  "reason": "Sunderland are about 77% no-vig at -425.",
+  "pick": "Sunderland ML (-390)",
+  "reason": "Sunderland are about 76% no-vig at -390.",
   "risks": [],
   "side": "home",
   "slug": "uefa.europa",
@@ -4820,7 +7755,7 @@
   "stars": 2,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Stadium of Light, Sunderland"
  },
  "soccer-401915514": {
@@ -4867,7 +7802,7 @@
   "stars": 1,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Generali Arena, Prague"
  },
  "soccer-401915515": {
@@ -4917,7 +7852,7 @@
   "stars": 2,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "PreZero Arena, Sinsheim"
  },
  "soccer-401915516": {
@@ -4967,7 +7902,7 @@
   "stars": 2,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Groupama Arena, Budapest"
  },
  "soccer-401915517": {
@@ -5014,11 +7949,11 @@
   "stars": 1,
   "start": "2026-11-26T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Maksimir Stadium, Zagreb"
  },
  "soccer-401915518": {
-  "_lastPick": "Benfica ML (-215)",
+  "_lastPick": "Benfica ML (-205)",
   "away": {
    "abbr": "SLB",
    "form": "WWWWW",
@@ -5027,7 +7962,7 @@
    "short": "Benfica",
    "teamId": "1929"
   },
-  "confidence": 63,
+  "confidence": 62,
   "espnId": "401915518",
   "espnLeague": "uefa.europa",
   "espnSport": "soccer",
@@ -5044,19 +7979,19 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401915518",
   "market": "Moneyline",
   "odds": {
-   "mlAway": "-215",
+   "mlAway": "-205",
    "mlAwayOpen": "-195",
    "mlDraw": "+400",
-   "mlHome": "+500",
+   "mlHome": "+475",
    "mlHomeOpen": "+400",
    "provider": "DraftKings",
-   "spread": "SLB -215",
+   "spread": "SLB -205",
    "spreadOpen": "SLB -1.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
-  "pick": "Benfica ML (-215)",
-  "reason": "Benfica are about 65% no-vig at -215. For: form WWWWW vs WLLLW.",
+  "pick": "Benfica ML (-205)",
+  "reason": "Benfica are about 64% no-vig at -205. For: form WWWWW vs WLLLW.",
   "risks": [],
   "side": "away",
   "slug": "uefa.europa",
@@ -5064,7 +7999,7 @@
   "stars": 2,
   "start": "2026-11-26T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Doosan Arena, Plzen"
  },
  "soccer-401915519": {
@@ -5076,7 +8011,7 @@
    "short": "Bournemouth",
    "teamId": "349"
   },
-  "confidence": 42,
+  "confidence": 41,
   "espnId": "401915519",
   "espnLeague": "uefa.europa",
   "espnSport": "soccer",
@@ -5095,7 +8030,7 @@
    "mlAway": "+110",
    "mlAwayOpen": "-115",
    "mlDraw": "+250",
-   "mlHome": "+255",
+   "mlHome": "+245",
    "mlHomeOpen": "+290",
    "provider": "DraftKings",
    "spread": "BOU +110",
@@ -5104,7 +8039,7 @@
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Bournemouth about 46% no-vig at +110; no edge worth a pick.",
+  "reason": "Bournemouth about 45% no-vig at +110; no edge worth a pick.",
   "risks": [
    "line drifted away (-115 → +110)"
   ],
@@ -5113,7 +8048,7 @@
   "stars": 1,
   "start": "2026-11-26T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Balaidos, Vigo"
  },
  "soccer-401915520": {
@@ -5163,7 +8098,7 @@
   "stars": 2,
   "start": "2026-11-26T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Red Bull Arena Salzburg, Salzburg"
  },
  "soccer-401915521": {
@@ -5175,7 +8110,7 @@
    "short": "Milan",
    "teamId": "103"
   },
-  "confidence": 37,
+  "confidence": 36,
   "espnId": "401915521",
   "espnLeague": "uefa.europa",
   "espnSport": "soccer",
@@ -5191,26 +8126,26 @@
   "league": "Europa League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401915521",
   "odds": {
-   "mlAway": "+140",
+   "mlAway": "+145",
    "mlAwayOpen": "+185",
-   "mlDraw": "+250",
-   "mlHome": "+195",
+   "mlDraw": "+245",
+   "mlHome": "+185",
    "mlHomeOpen": "+135",
    "provider": "DraftKings",
-   "spread": "MIL +140",
+   "spread": "MIL +145",
    "spreadOpen": "OLY -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Milan about 40% no-vig at +140; no edge worth a pick.",
+  "reason": "Milan about 39% no-vig at +145; no edge worth a pick.",
   "risks": [],
   "slug": "uefa.europa",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-26T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Georgios Karaiskakis Stadium, Piraeus"
  },
  "soccer-401931982": {
@@ -5258,7 +8193,7 @@
   "stars": 1,
   "start": "2026-11-27T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Estadio Hidalgo, Pachuca"
  },
  "soccer-401931986": {
@@ -5309,7 +8244,7 @@
   "stars": 2,
   "start": "2026-11-26T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Estadio Nemesio Díez Riega, Toluca"
  },
  "soccer-401931995": {
@@ -5357,7 +8292,7 @@
   "stars": 1,
   "start": "2026-11-27T03:10Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Estadio León, León de los Aldamas"
  },
  "soccer-401931998": {
@@ -5368,7 +8303,7 @@
    "short": "América",
    "teamId": "227"
   },
-  "confidence": 37,
+  "confidence": 39,
   "espnId": "401931998",
   "espnLeague": "mex.1",
   "espnSport": "soccer",
@@ -5386,27 +8321,129 @@
    "Liga MX Apertura playoff preview: Will Cruz Azul win back-to-back titles?"
   ],
   "odds": {
-   "mlAway": "+200",
+   "mlAway": "+215",
    "mlAwayOpen": "+190",
-   "mlDraw": "+235",
-   "mlHome": "+135",
+   "mlDraw": "+230",
+   "mlHome": "+125",
    "mlHomeOpen": "+135",
    "provider": "DraftKings",
-   "spread": "MTY +135",
+   "spread": "MTY +125",
    "spreadOpen": "MTY -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Monterrey about 40% no-vig at +135; no edge worth a pick.",
+  "reason": "Monterrey about 42% no-vig at +125; no edge worth a pick.",
   "risks": [],
   "slug": "mex.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-26T03:10Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Estadio BBVA, Guadalupe"
+ },
+ "soccer-401933723": {
+  "away": {
+   "abbr": "NE",
+   "form": "WLLWW",
+   "name": "New England Revolution",
+   "short": "New England",
+   "teamId": "189"
+  },
+  "confidence": 56,
+  "espnId": "401933723",
+  "espnLeague": "usa.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "PHI",
+   "form": "LWLDL",
+   "name": "Philadelphia Union",
+   "short": "Philadelphia",
+   "teamId": "10739"
+  },
+  "id": "soccer-401933723",
+  "league": "MLS",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401933723",
+  "news": [
+   "Source: MLS owners agree new 16-team playoff format starting in 2027-28",
+   "Luis Suárez says 'no excuses left' as Miami looks to avoid early playoff exit",
+   "Is your team out of the MLS playoffs? Adopt these chaos clubs as your 2nd side"
+  ],
+  "odds": {
+   "mlAway": "+380",
+   "mlAwayOpen": "+400",
+   "mlDraw": "+350",
+   "mlHome": "-185",
+   "mlHomeOpen": "-205",
+   "provider": "DraftKings",
+   "spread": "PHI -185",
+   "spreadOpen": "PHI -1.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Pass",
+  "reason": "Philadelphia about 60% no-vig at -185; no edge worth a pick.",
+  "risks": [
+   "opponent in better form (WLLWW)"
+  ],
+  "slug": "usa.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-28T21:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Subaru Park, Chester, Pennsylvania"
+ },
+ "soccer-401933724": {
+  "away": {
+   "abbr": "SJ",
+   "form": "WLWDL",
+   "name": "San Jose Earthquakes",
+   "short": "San Jose",
+   "teamId": "191"
+  },
+  "confidence": 46,
+  "espnId": "401933724",
+  "espnLeague": "usa.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "HOU",
+   "form": "LLLWD",
+   "name": "Houston Dynamo FC",
+   "short": "Houston",
+   "teamId": "6077"
+  },
+  "id": "soccer-401933724",
+  "league": "MLS",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401933724",
+  "news": [
+   "Source: MLS owners agree new 16-team playoff format starting in 2027-28",
+   "Luis Suárez says 'no excuses left' as Miami looks to avoid early playoff exit",
+   "Is your team out of the MLS playoffs? Adopt these chaos clubs as your 2nd side"
+  ],
+  "odds": {
+   "mlAway": "+255",
+   "mlAwayOpen": "+250",
+   "mlDraw": "+270",
+   "mlHome": "-115",
+   "mlHomeOpen": "-115",
+   "provider": "DraftKings",
+   "spread": "HOU -115",
+   "spreadOpen": "HOU -0.5",
+   "total": "2.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Pass",
+  "reason": "Houston about 49% no-vig at -115; no edge worth a pick.",
+  "risks": [],
+  "slug": "usa.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-28T19:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Shell Energy Stadium, Houston, Texas"
  },
  "soccer-401933725": {
   "away": {
@@ -5431,9 +8468,9 @@
   "league": "MLS",
   "link": "https://www.espn.com/soccer/match/_/gameId/401933725",
   "news": [
-   "Is your team out of the MLS playoffs? Adopt these chaos clubs as your 2nd side",
-   "San Jose Earthquakes vs. Houston Dynamo - Game Highlights",
-   "Fiona the hippo to be honored by FC Cincinnati with tifo after untimely death"
+   "Source: MLS owners agree new 16-team playoff format starting in 2027-28",
+   "Luis Suárez says 'no excuses left' as Miami looks to avoid early playoff exit",
+   "Is your team out of the MLS playoffs? Adopt these chaos clubs as your 2nd side"
   ],
   "odds": {
    "mlAway": "+130",
@@ -5455,7 +8492,7 @@
   "stars": 1,
   "start": "2026-11-28T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "America First Field, Sandy, Utah"
  },
  "soccer-401933727": {
@@ -5481,9 +8518,9 @@
   "league": "MLS",
   "link": "https://www.espn.com/soccer/match/_/gameId/401933727",
   "news": [
-   "Is your team out of the MLS playoffs? Adopt these chaos clubs as your 2nd side",
-   "San Jose Earthquakes vs. Houston Dynamo - Game Highlights",
-   "Fiona the hippo to be honored by FC Cincinnati with tifo after untimely death"
+   "Source: MLS owners agree new 16-team playoff format starting in 2027-28",
+   "Luis Suárez says 'no excuses left' as Miami looks to avoid early playoff exit",
+   "Is your team out of the MLS playoffs? Adopt these chaos clubs as your 2nd side"
   ],
   "odds": {
    "mlAway": "+135",
@@ -5507,8 +8544,58 @@
   "stars": 1,
   "start": "2026-11-28T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T13:29:33Z",
+  "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "ScottsMiracle-Gro Field, Columbus, Ohio"
+ },
+ "soccer-401933737": {
+  "away": {
+   "abbr": "CHI",
+   "form": "LLWDW",
+   "name": "Chicago Fire FC",
+   "short": "Chicago",
+   "teamId": "182"
+  },
+  "confidence": 37,
+  "espnId": "401933737",
+  "espnLeague": "usa.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "CLT",
+   "form": "WDWWL",
+   "name": "Charlotte FC",
+   "short": "Charlotte",
+   "teamId": "21300"
+  },
+  "id": "soccer-401933737",
+  "league": "MLS",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401933737",
+  "news": [
+   "Source: MLS owners agree new 16-team playoff format starting in 2027-28",
+   "Luis Suárez says 'no excuses left' as Miami looks to avoid early playoff exit",
+   "Is your team out of the MLS playoffs? Adopt these chaos clubs as your 2nd side"
+  ],
+  "odds": {
+   "mlAway": "+130",
+   "mlAwayOpen": "+125",
+   "mlDraw": "+270",
+   "mlHome": "+165",
+   "mlHomeOpen": "+170",
+   "provider": "DraftKings",
+   "spread": "CHI +130",
+   "spreadOpen": "CHI -0.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Pass",
+  "reason": "Chicago about 40% no-vig at +130; no edge worth a pick.",
+  "risks": [],
+  "slug": "usa.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-28T17:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-25T22:41:04Z",
+  "venue": "Bank of America Stadium, Charlotte, North Carolina"
  },
  "soccer-401933738": {
   "away": {
