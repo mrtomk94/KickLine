@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401866471",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-25T00:00Z",
+ "home": {
+  "name": "Western Michigan Broncos",
+  "abbr": "WMU",
+  "teamId": "2711",
+  "score": 24.0
+ },
+ "away": {
+  "name": "Miami (OH) RedHawks",
+  "abbr": "M-OH",
+  "teamId": "193",
+  "score": 28.0
+ },
+ "odds": {
+  "mlAway": "+190",
+  "mlAwayOpen": "+240",
+  "mlHome": "-230",
+  "mlHomeOpen": "-298",
+  "provider": "DraftKings",
+  "spread": "WMU -4.5",
+  "spreadOpen": "WMU -7.5",
+  "total": "45.5",
+  "totalOpen": "46.5"
+ },
+ "espnWinProb": {
+  "away": 29.2,
+  "home": 70.8
+ },
+ "teams": {
+  "away": {
+   "abbr": "M-OH",
+   "stats": {
+    "firstDowns": "19",
+    "thirdDownEff": "5-12",
+    "fourthDownEff": "1-2",
+    "totalYards": "404",
+    "netPassingYards": "214",
+    "completionAttempts": "13/26",
+    "yardsPerPass": "8.2",
+    "rushingYards": "190",
+    "rushingAttempts": "32",
+    "yardsPerRushAttempt": "5.9",
+    "totalPenaltiesYards": "8-72",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "27:27"
+   }
+  },
+  "home": {
+   "abbr": "WMU",
+   "stats": {
+    "firstDowns": "21",
+    "thirdDownEff": "10-17",
+    "fourthDownEff": "0-1",
+    "totalYards": "411",
+    "netPassingYards": "114",
+    "completionAttempts": "9/23",
+    "yardsPerPass": "5.0",
+    "rushingYards": "297",
+    "rushingAttempts": "50",
+    "yardsPerRushAttempt": "5.9",
+    "totalPenaltiesYards": "7-64",
+    "turnovers": "2",
+    "fumblesLost": "0",
+    "interceptions": "2",
+    "possessionTime": "32:31"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "12:35",
+   "team": "M-OH",
+   "text": "D. Bellisari pass to S. Smith for 31 yds, for a TD (K. McLaughlin KICK)"
+  },
+  {
+   "period": 1,
+   "clock": "6:58",
+   "team": "WMU",
+   "text": "D. Kelly 33 yd FG GOOD"
+  },
+  {
+   "period": 1,
+   "clock": "2:46",
+   "team": "M-OH",
+   "text": "D. Bellisari pass to B. Loftus for 14 yds, for a TD (K. McLaughlin KICK)"
+  },
+  {
+   "period": 3,
+   "clock": "10:54",
+   "team": "WMU",
+   "text": "J. Buckley run for 3 yds, for a TD (P. Domschke KICK)"
+  },
+  {
+   "period": 3,
+   "clock": "7:27",
+   "team": "M-OH",
+   "text": "D. Bellisari run for 18 yds, for a TD (B. Stidham KICK)"
+  },
+  {
+   "period": 3,
+   "clock": "4:39",
+   "team": "WMU",
+   "text": "B. Lowry pass to A. Chenault for 13 yds, for a TD (Two-Point Conversion failed) (Two-Point Conversion failed), Miami (OH) Penalty, passinterference (J"
+  },
+  {
+   "period": 4,
+   "clock": "8:02",
+   "team": "WMU",
+   "text": "J. Buckley run for 23 yds, for a TD (B. Lowry pass  GOOD for Two-Point Conversion) (B. Lowry pass to C. Cabana GOOD for Two-Point Conversion)"
+  },
+  {
+   "period": 4,
+   "clock": "5:40",
+   "team": "M-OH",
+   "text": "D. Bellisari run for 12 yds, for a TD (B. Stidham KICK)"
+  }
+ ]
+}

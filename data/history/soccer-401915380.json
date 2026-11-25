@@ -1,0 +1,222 @@
+{
+ "id": "soccer-401915380",
+ "sport": "soccer",
+ "league": "Champions League",
+ "start": "2026-11-24T17:45Z",
+ "home": {
+  "name": "Bodo/Glimt",
+  "abbr": "BODO",
+  "teamId": "2980",
+  "score": 1.0
+ },
+ "away": {
+  "name": "LASK Linz",
+  "abbr": "LAS",
+  "teamId": "4411",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+500",
+  "mlAwayOpen": "+400",
+  "mlDraw": "+425",
+  "mlHome": "-225",
+  "mlHomeOpen": "-195",
+  "provider": "DraftKings",
+  "spread": "BODO -225",
+  "spreadOpen": "BODO -1.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "BODO",
+   "stats": {
+    "foulsCommitted": "5",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "4",
+    "saves": "0",
+    "possessionPct": "65.8",
+    "totalShots": "9",
+    "shotsOnTarget": "2",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "728",
+    "totalPasses": "801",
+    "passPct": "0.9",
+    "accurateCrosses": "1",
+    "totalCrosses": "10",
+    "crossPct": "0.1",
+    "totalLongBalls": "32",
+    "accurateLongBalls": "16",
+    "longballPct": "0.5",
+    "blockedShots": "4",
+    "effectiveTackles": "5",
+    "totalTackles": "11",
+    "tacklePct": "0.5",
+    "interceptions": "5",
+    "effectiveClearance": "11",
+    "totalClearance": "11"
+   }
+  },
+  "away": {
+   "abbr": "LAS",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "0",
+    "saves": "1",
+    "possessionPct": "34.2",
+    "totalShots": "5",
+    "shotsOnTarget": "0",
+    "shotPct": "0.0",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "336",
+    "totalPasses": "408",
+    "passPct": "0.8",
+    "accurateCrosses": "4",
+    "totalCrosses": "15",
+    "crossPct": "0.3",
+    "totalLongBalls": "48",
+    "accurateLongBalls": "16",
+    "longballPct": "0.3",
+    "blockedShots": "0",
+    "effectiveTackles": "7",
+    "totalTackles": "14",
+    "tacklePct": "0.5",
+    "interceptions": "10",
+    "effectiveClearance": "21",
+    "totalClearance": "21"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, Bodø/Glimt 0, LASK 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "60'",
+   "team": null,
+   "text": "Delay in match because of an injury Christoph Lang (LASK)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "60'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "61'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "61'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, LASK. Moses Usor replaces Christoph Lang because of an injury."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, LASK. Sascha Horvath replaces Alessandro Schöpf."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "71'",
+   "team": null,
+   "text": "Krystof Danek (LASK) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, LASK. Daniel Elfadli replaces Krystof Danek."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Bodø/Glimt. Ulrik Saltnes replaces Sondre Fet."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Bodø/Glimt. Joshua Kitolano replaces Sondre Auklend."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Bodø/Glimt. Andreas Helmersen replaces Ola Brynhildsen."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, LASK. Sasa Kalajdzic replaces Samuel Adeniran."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, LASK. Melayro Bogarde replaces Kasper Jørgensen."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "89'",
+   "team": null,
+   "text": "Jostein Gundersen (Bodø/Glimt) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Substitution, Bodø/Glimt. Isak Määttä replaces Jens Petter Hauge."
+  },
+  {
+   "type": "Own Goal",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Own Goal by Melayro Bogarde, LASK. Bodø/Glimt 1, LASK 0."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Second Half ends, Bodø/Glimt 1, LASK 0."
+  }
+ ],
+ "scoringPlays": []
+}

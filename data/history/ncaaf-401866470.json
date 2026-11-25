@@ -1,0 +1,108 @@
+{
+ "id": "ncaaf-401866470",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-25T00:00Z",
+ "home": {
+  "name": "Eastern Michigan Eagles",
+  "abbr": "EMU",
+  "teamId": "2199",
+  "score": 17.0
+ },
+ "away": {
+  "name": "Kent State Golden Flashes",
+  "abbr": "KENT",
+  "teamId": "2309",
+  "score": 12.0
+ },
+ "odds": {
+  "mlAway": "+185",
+  "mlAwayOpen": "+185",
+  "mlHome": "-225",
+  "mlHomeOpen": "-225",
+  "provider": "DraftKings",
+  "spread": "EMU -6",
+  "spreadOpen": "EMU -6.5",
+  "total": "46.5",
+  "totalOpen": "46.5"
+ },
+ "espnWinProb": {
+  "away": 24.4,
+  "home": 75.5
+ },
+ "teams": {
+  "away": {
+   "abbr": "KENT",
+   "stats": {
+    "firstDowns": "15",
+    "thirdDownEff": "3-12",
+    "fourthDownEff": "0-2",
+    "totalYards": "305",
+    "netPassingYards": "234",
+    "completionAttempts": "16/27",
+    "yardsPerPass": "8.7",
+    "rushingYards": "71",
+    "rushingAttempts": "30",
+    "yardsPerRushAttempt": "2.4",
+    "totalPenaltiesYards": "4-32",
+    "turnovers": "3",
+    "fumblesLost": "1",
+    "interceptions": "2",
+    "possessionTime": "29:50"
+   }
+  },
+  "home": {
+   "abbr": "EMU",
+   "stats": {
+    "firstDowns": "14",
+    "thirdDownEff": "4-15",
+    "fourthDownEff": "1-2",
+    "totalYards": "234",
+    "netPassingYards": "95",
+    "completionAttempts": "12/27",
+    "yardsPerPass": "3.5",
+    "rushingYards": "139",
+    "rushingAttempts": "37",
+    "yardsPerRushAttempt": "3.8",
+    "totalPenaltiesYards": "3-25",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "30:10"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "14:14",
+   "team": "EMU",
+   "text": "Amareon Blue 61 Yd Run (Rudy Kessinger Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "4:18",
+   "team": "KENT",
+   "text": "Brendyn Smith 17 Yd pass from Ethan Thanthanavong (Two-Point Run Conversion Failed)"
+  },
+  {
+   "period": 2,
+   "clock": "2:26",
+   "team": "EMU",
+   "text": "Decorie Johnson 7 Yd Run (Rudy Kessinger Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "2:12",
+   "team": "KENT",
+   "text": "Brendyn Smith 100 Yd Kickoff Return (Two-Point Pass Conversion Failed)"
+  },
+  {
+   "period": 4,
+   "clock": "1:57",
+   "team": "EMU",
+   "text": "Rudy Kessinger 28 Yd Field Goal  "
+  }
+ ]
+}

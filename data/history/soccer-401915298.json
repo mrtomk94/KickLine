@@ -1,0 +1,270 @@
+{
+ "id": "soccer-401915298",
+ "sport": "soccer",
+ "league": "Champions League",
+ "start": "2026-11-24T20:00Z",
+ "home": {
+  "name": "Real Madrid",
+  "abbr": "RMA",
+  "teamId": "86",
+  "score": 5.0
+ },
+ "away": {
+  "name": "PSV Eindhoven",
+  "abbr": "PSV",
+  "teamId": "148",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+1500",
+  "mlAwayOpen": "+850",
+  "mlDraw": "+900",
+  "mlHome": "-750",
+  "mlHomeOpen": "-500",
+  "provider": "DraftKings",
+  "spread": "RMA -750",
+  "spreadOpen": "RMA -2.5",
+  "total": "4.5",
+  "totalOpen": "4.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "RMA",
+   "stats": {
+    "foulsCommitted": "6",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "4",
+    "wonCorners": "4",
+    "saves": "0",
+    "possessionPct": "61.5",
+    "totalShots": "24",
+    "shotsOnTarget": "9",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "571",
+    "totalPasses": "632",
+    "passPct": "0.9",
+    "accurateCrosses": "1",
+    "totalCrosses": "3",
+    "crossPct": "0.3",
+    "totalLongBalls": "51",
+    "accurateLongBalls": "27",
+    "longballPct": "0.5",
+    "blockedShots": "5",
+    "effectiveTackles": "14",
+    "totalTackles": "23",
+    "tacklePct": "0.6",
+    "interceptions": "8",
+    "effectiveClearance": "11",
+    "totalClearance": "11"
+   }
+  },
+  "away": {
+   "abbr": "PSV",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "1",
+    "saves": "4",
+    "possessionPct": "38.5",
+    "totalShots": "10",
+    "shotsOnTarget": "1",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "318",
+    "totalPasses": "388",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "8",
+    "crossPct": "0.4",
+    "totalLongBalls": "42",
+    "accurateLongBalls": "15",
+    "longballPct": "0.4",
+    "blockedShots": "2",
+    "effectiveTackles": "13",
+    "totalTackles": "28",
+    "tacklePct": "0.5",
+    "interceptions": "11",
+    "effectiveClearance": "10",
+    "totalClearance": "10"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "29'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "30'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "30'",
+   "team": null,
+   "text": "Aurélien Tchouaméni (Real Madrid) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "32'",
+   "team": null,
+   "text": "Goal! Real Madrid 0, PSV Eindhoven 1. Ivan Perisic (PSV Eindhoven) converts the penalty with a right footed shot to the bottom right corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "42'",
+   "team": null,
+   "text": "Filip Kostic (PSV Eindhoven) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "44'",
+   "team": null,
+   "text": "Antonio Rüdiger (Real Madrid) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+4'",
+   "team": null,
+   "text": "First Half ends, Real Madrid 0, PSV Eindhoven 1."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Real Madrid. Ibrahima Konaté replaces Antonio Rüdiger."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Real Madrid. Jude Bellingham replaces Aurélien Tchouaméni."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Real Madrid. Dean Huijsen replaces Éder Militão."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, PSV Eindhoven. Esmir Bajraktarevic replaces Ivan Perisic."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Real Madrid 0, PSV Eindhoven 1."
+  },
+  {
+   "type": "Goal",
+   "clock": "50'",
+   "team": null,
+   "text": "Goal! Real Madrid 1, PSV Eindhoven 1. Federico Valverde (Real Madrid) right footed shot from the centre of the box to the bottom right corner. Assisted by Arda Güler."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "56'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "56'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal - Volley",
+   "clock": "60'",
+   "team": null,
+   "text": "Goal! Real Madrid 2, PSV Eindhoven 1. Jude Bellingham (Real Madrid) right footed shot from outside the box to the bottom right corner. Assisted by Kylian Mbappé."
+  },
+  {
+   "type": "Goal",
+   "clock": "64'",
+   "team": null,
+   "text": "Goal! Real Madrid 3, PSV Eindhoven 1. Kylian Mbappé (Real Madrid) right footed shot from the centre of the box to the top left corner. Assisted by Arda Güler."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, PSV Eindhoven. Noah Fernandez replaces Paul Wanner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, PSV Eindhoven. Yarek Gasiorowski replaces Filip Kostic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Real Madrid. Eduardo Camavinga replaces Arda Güler."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, PSV Eindhoven. Ryan Flamingo replaces Kodai Sano."
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Real Madrid. Brahim Díaz replaces Yan Diomande."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "81'",
+   "team": null,
+   "text": "Eduardo Camavinga (Real Madrid) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, PSV Eindhoven. Ayoni Santos replaces Ruben van Bommel."
+  },
+  {
+   "type": "Goal",
+   "clock": "84'",
+   "team": null,
+   "text": "Goal! Real Madrid 4, PSV Eindhoven 1. Kylian Mbappé (Real Madrid) right footed shot from the centre of the box to the bottom right corner. Assisted by Brahim Díaz with a through ball."
+  },
+  {
+   "type": "Goal",
+   "clock": "87'",
+   "team": null,
+   "text": "Goal! Real Madrid 5, PSV Eindhoven 1. Vinícius Júnior (Real Madrid) right footed shot from the centre of the box to the centre of the goal. Assisted by Jude Bellingham following a fast break."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Second Half ends, Real Madrid 5, PSV Eindhoven 1."
+  }
+ ],
+ "scoringPlays": []
+}

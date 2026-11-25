@@ -1,0 +1,210 @@
+{
+ "id": "soccer-401915295",
+ "sport": "soccer",
+ "league": "Champions League",
+ "start": "2026-11-24T20:00Z",
+ "home": {
+  "name": "Arsenal",
+  "abbr": "ARS",
+  "teamId": "359",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Borussia Dortmund",
+  "abbr": "DOR",
+  "teamId": "124",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+600",
+  "mlAwayOpen": "+600",
+  "mlDraw": "+360",
+  "mlHome": "-215",
+  "mlHomeOpen": "-250",
+  "provider": "DraftKings",
+  "spread": "ARS -215",
+  "spreadOpen": "ARS -1.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "ARS",
+   "stats": {
+    "foulsCommitted": "7",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "8",
+    "saves": "3",
+    "possessionPct": "63.2",
+    "totalShots": "30",
+    "shotsOnTarget": "4",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "501",
+    "totalPasses": "574",
+    "passPct": "0.9",
+    "accurateCrosses": "8",
+    "totalCrosses": "26",
+    "crossPct": "0.3",
+    "totalLongBalls": "44",
+    "accurateLongBalls": "24",
+    "longballPct": "0.5",
+    "blockedShots": "10",
+    "effectiveTackles": "10",
+    "totalTackles": "15",
+    "tacklePct": "0.7",
+    "interceptions": "8",
+    "effectiveClearance": "18",
+    "totalClearance": "18"
+   }
+  },
+  "away": {
+   "abbr": "DOR",
+   "stats": {
+    "foulsCommitted": "13",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "4",
+    "wonCorners": "5",
+    "saves": "3",
+    "possessionPct": "36.8",
+    "totalShots": "13",
+    "shotsOnTarget": "4",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "273",
+    "totalPasses": "336",
+    "passPct": "0.8",
+    "accurateCrosses": "2",
+    "totalCrosses": "14",
+    "crossPct": "0.1",
+    "totalLongBalls": "50",
+    "accurateLongBalls": "22",
+    "longballPct": "0.4",
+    "blockedShots": "3",
+    "effectiveTackles": "10",
+    "totalTackles": "18",
+    "tacklePct": "0.6",
+    "interceptions": "10",
+    "effectiveClearance": "53",
+    "totalClearance": "53"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal",
+   "clock": "10'",
+   "team": null,
+   "text": "Goal! Arsenal 1, Borussia Dortmund 0. Viktor Gyökeres (Arsenal) right footed shot from outside the box to the high centre of the goal. Assisted by Noni Madueke."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, Arsenal 1, Borussia Dortmund 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "55'",
+   "team": null,
+   "text": "Goal! Arsenal 1, Borussia Dortmund 1. Maximilian Beier (Borussia Dortmund) left footed shot from the centre of the box to the bottom right corner. Assisted by Joane Gadou."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Borussia Dortmund. Konstantinos Karetsas replaces Maximilian Beier."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Borussia Dortmund. Serhou Guirassy replaces Fábio Silva."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Arsenal. Eberechi Eze replaces Christos Tzolis."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Arsenal. Jurriën Timber replaces Ben White."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Arsenal. Bruno Guimarães replaces Myles Lewis-Skelly."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Borussia Dortmund. Marcel Sabitzer replaces Jobe Bellingham."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "80'",
+   "team": null,
+   "text": "Delay in match because of an injury Gregor Kobel (Borussia Dortmund)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "80'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "81'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "81'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, Arsenal. Mikel Merino replaces Viktor Gyökeres."
+  },
+  {
+   "type": "Substitution",
+   "clock": "89'",
+   "team": null,
+   "text": "Substitution, Borussia Dortmund. Filippo Mane replaces Joane Gadou."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Second Half ends, Arsenal 1, Borussia Dortmund 1."
+  }
+ ],
+ "scoringPlays": []
+}

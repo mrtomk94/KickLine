@@ -1,0 +1,204 @@
+{
+ "id": "soccer-401915297",
+ "sport": "soccer",
+ "league": "Champions League",
+ "start": "2026-11-24T20:00Z",
+ "home": {
+  "name": "Slovan Bratislava",
+  "abbr": "SLB",
+  "teamId": "521",
+  "score": 0.0
+ },
+ "away": {
+  "name": "Real Betis",
+  "abbr": "BET",
+  "teamId": "244",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "-260",
+  "mlAwayOpen": "-350",
+  "mlDraw": "+425",
+  "mlHome": "+650",
+  "mlHomeOpen": "+700",
+  "provider": "DraftKings",
+  "spread": "BET -260",
+  "spreadOpen": "BET -1.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "SLB",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "1",
+    "saves": "4",
+    "possessionPct": "31.6",
+    "totalShots": "12",
+    "shotsOnTarget": "2",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "267",
+    "totalPasses": "340",
+    "passPct": "0.8",
+    "accurateCrosses": "1",
+    "totalCrosses": "7",
+    "crossPct": "0.1",
+    "totalLongBalls": "40",
+    "accurateLongBalls": "13",
+    "longballPct": "0.3",
+    "blockedShots": "3",
+    "effectiveTackles": "3",
+    "totalTackles": "9",
+    "tacklePct": "0.3",
+    "interceptions": "7",
+    "effectiveClearance": "14",
+    "totalClearance": "14"
+   }
+  },
+  "away": {
+   "abbr": "BET",
+   "stats": {
+    "foulsCommitted": "6",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "4",
+    "saves": "2",
+    "possessionPct": "68.4",
+    "totalShots": "18",
+    "shotsOnTarget": "6",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "673",
+    "totalPasses": "743",
+    "passPct": "0.9",
+    "accurateCrosses": "5",
+    "totalCrosses": "17",
+    "crossPct": "0.3",
+    "totalLongBalls": "40",
+    "accurateLongBalls": "26",
+    "longballPct": "0.7",
+    "blockedShots": "6",
+    "effectiveTackles": "9",
+    "totalTackles": "13",
+    "tacklePct": "0.7",
+    "interceptions": "13",
+    "effectiveClearance": "18",
+    "totalClearance": "18"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "7'",
+   "team": null,
+   "text": "Facundo Bernal (Real Betis) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "29'",
+   "team": null,
+   "text": "Rahim Ibrahim (Slovan Bratislava) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "43'",
+   "team": null,
+   "text": "Goal! Slovan Bratislava 0, Real Betis 1. Cucho Hernández (Real Betis) header from the centre of the box to the bottom left corner. Assisted by Ángel Ortiz with a cross."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, Slovan Bratislava 0, Real Betis 1."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Real Betis. Marc Roca replaces Facundo Bernal."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "57'",
+   "team": null,
+   "text": "Goal! Slovan Bratislava 0, Real Betis 2. Cucho Hernández (Real Betis) header from the centre of the box to the high centre of the goal. Assisted by Isco with a cross following a corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, Real Betis. Álvaro Fidalgo replaces Isco."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, Real Betis. Troy Parrott replaces Cucho Hernández."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Slovan Bratislava. Alasana Yirajang replaces Nino Marcelli."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Slovan Bratislava. Cristian Martínez replaces Rahim Ibrahim."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Real Betis. Aitor Ruibal replaces Antony."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Slovan Bratislava. Adam Griger replaces Andraz Sporar."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Slovan Bratislava. Alexej Maros replaces Tigran Barseghyan."
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, Real Betis. Rodrigo Riquelme replaces Abde Ezzalzouli."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Second Half ends, Slovan Bratislava 0, Real Betis 2."
+  }
+ ],
+ "scoringPlays": []
+}

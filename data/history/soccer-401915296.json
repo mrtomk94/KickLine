@@ -1,0 +1,282 @@
+{
+ "id": "soccer-401915296",
+ "sport": "soccer",
+ "league": "Champions League",
+ "start": "2026-11-24T20:00Z",
+ "home": {
+  "name": "Como",
+  "abbr": "COMO",
+  "teamId": "2572",
+  "score": 1.0
+ },
+ "away": {
+  "name": "AEK Athens",
+  "abbr": "AEK",
+  "teamId": "887",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+900",
+  "mlAwayOpen": "+600",
+  "mlDraw": "+550",
+  "mlHome": "-380",
+  "mlHomeOpen": "-320",
+  "provider": "DraftKings",
+  "spread": "COMO -380",
+  "spreadOpen": "COMO -1.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "COMO",
+   "stats": {
+    "foulsCommitted": "15",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "2",
+    "saves": "3",
+    "possessionPct": "60.9",
+    "totalShots": "19",
+    "shotsOnTarget": "4",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "521",
+    "totalPasses": "571",
+    "passPct": "0.9",
+    "accurateCrosses": "4",
+    "totalCrosses": "24",
+    "crossPct": "0.2",
+    "totalLongBalls": "36",
+    "accurateLongBalls": "25",
+    "longballPct": "0.7",
+    "blockedShots": "4",
+    "effectiveTackles": "8",
+    "totalTackles": "15",
+    "tacklePct": "0.5",
+    "interceptions": "13",
+    "effectiveClearance": "9",
+    "totalClearance": "9"
+   }
+  },
+  "away": {
+   "abbr": "AEK",
+   "stats": {
+    "foulsCommitted": "17",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "1",
+    "saves": "3",
+    "possessionPct": "39.1",
+    "totalShots": "7",
+    "shotsOnTarget": "3",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "310",
+    "totalPasses": "371",
+    "passPct": "0.8",
+    "accurateCrosses": "0",
+    "totalCrosses": "8",
+    "crossPct": "0.0",
+    "totalLongBalls": "48",
+    "accurateLongBalls": "25",
+    "longballPct": "0.5",
+    "blockedShots": "0",
+    "effectiveTackles": "7",
+    "totalTackles": "15",
+    "tacklePct": "0.5",
+    "interceptions": "8",
+    "effectiveClearance": "22",
+    "totalClearance": "22"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "12'",
+   "team": null,
+   "text": "Nico Paz (Como) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "18'",
+   "team": null,
+   "text": "Delay in match (Como)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "18'",
+   "team": null,
+   "text": "Delay in match (AEK Athens)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "20'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "20'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Penalty - Missed",
+   "clock": "29'",
+   "team": null,
+   "text": "Penalty missed. Lucas da Cunha (Como) left footed shot is close, but misses to the left."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Como 0, AEK Athens 0."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "48'",
+   "team": null,
+   "text": "Yan Couto (Como) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "57'",
+   "team": null,
+   "text": "Goal! Como 1, AEK Athens 0. Luis Milla (Como) right footed shot from outside the box to the top right corner. Assisted by Martin Baturina."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, AEK Athens. Barnabás Varga replaces Dereck Kutesa."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "65'",
+   "team": null,
+   "text": "Lovro Majer (AEK Athens) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Como. Ivan Smolcic replaces Yan Couto."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, AEK Athens. Zine replaces Luka Jovic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, AEK Athens. Petros Mantalos replaces Mijat Gacinovic."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "75'",
+   "team": null,
+   "text": "Delay in match because of an injury Jacobo Ramón (Como)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "75'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "76'",
+   "team": null,
+   "text": "Razvan Marin (AEK Athens) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Delay",
+   "clock": "76'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "76'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "78'",
+   "team": null,
+   "text": "Stavros Pilios (AEK Athens) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, AEK Athens. Kaan Kairinen replaces Lovro Majer."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, AEK Athens. João Mário replaces Milán Vitális."
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Como. Kaiki replaces Martin Baturina."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Como. Marc Oliver Kempf replaces Trevoh Chalobah."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "81'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "82'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "88'",
+   "team": null,
+   "text": "Substitution, Como. Samuele Ricci replaces Lucas da Cunha."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+3'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

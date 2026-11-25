@@ -1,0 +1,180 @@
+{
+ "id": "soccer-401915379",
+ "sport": "soccer",
+ "league": "Champions League",
+ "start": "2026-11-24T20:00Z",
+ "home": {
+  "name": "Manchester City",
+  "abbr": "MNC",
+  "teamId": "382",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Napoli",
+  "abbr": "NAP",
+  "teamId": "114",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "+950",
+  "mlAwayOpen": "+850",
+  "mlDraw": "+550",
+  "mlHome": "-390",
+  "mlHomeOpen": "-425",
+  "provider": "DraftKings",
+  "spread": "MNC -390",
+  "spreadOpen": "MNC -1.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "MNC",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "9",
+    "saves": "1",
+    "possessionPct": "62.7",
+    "totalShots": "18",
+    "shotsOnTarget": "7",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "610",
+    "totalPasses": "665",
+    "passPct": "0.9",
+    "accurateCrosses": "9",
+    "totalCrosses": "34",
+    "crossPct": "0.3",
+    "totalLongBalls": "19",
+    "accurateLongBalls": "14",
+    "longballPct": "0.7",
+    "blockedShots": "6",
+    "effectiveTackles": "6",
+    "totalTackles": "10",
+    "tacklePct": "0.6",
+    "interceptions": "8",
+    "effectiveClearance": "10",
+    "totalClearance": "10"
+   }
+  },
+  "away": {
+   "abbr": "NAP",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "3",
+    "saves": "5",
+    "possessionPct": "37.3",
+    "totalShots": "9",
+    "shotsOnTarget": "3",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "330",
+    "totalPasses": "400",
+    "passPct": "0.8",
+    "accurateCrosses": "5",
+    "totalCrosses": "13",
+    "crossPct": "0.4",
+    "totalLongBalls": "43",
+    "accurateLongBalls": "19",
+    "longballPct": "0.4",
+    "blockedShots": "1",
+    "effectiveTackles": "10",
+    "totalTackles": "17",
+    "tacklePct": "0.6",
+    "interceptions": "8",
+    "effectiveClearance": "42",
+    "totalClearance": "42"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, Manchester City 0, Napoli 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "55'",
+   "team": null,
+   "text": "Substitution, Manchester City. Jérémy Doku replaces Allan."
+  },
+  {
+   "type": "Goal",
+   "clock": "55'",
+   "team": null,
+   "text": "Goal! Manchester City 0, Napoli 1. Rasmus Højlund (Napoli) left footed shot from the centre of the box to the centre of the goal. Assisted by Billy Gilmour with a through ball."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, Manchester City. Iliman Ndiaye replaces Enzo Fernández."
+  },
+  {
+   "type": "Goal",
+   "clock": "67'",
+   "team": null,
+   "text": "Goal! Manchester City 1, Napoli 1. Ayyoub Bouaddi (Manchester City) left footed shot from the centre of the box to the high centre of the goal. Assisted by Jérémy Doku following a corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Napoli. Giovane replaces Rasmus Højlund."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Napoli. Frank Anguissa replaces Kevin De Bruyne."
+  },
+  {
+   "type": "Goal",
+   "clock": "76'",
+   "team": null,
+   "text": "Goal! Manchester City 1, Napoli 2. Noa Lang (Napoli) right footed shot from the centre of the box to the centre of the goal. Assisted by Leonardo Spinazzola with a cross."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "82'",
+   "team": null,
+   "text": "Marc Guéhi (Manchester City) is shown the yellow card."
+  },
+  {
+   "type": "Goal",
+   "clock": "86'",
+   "team": null,
+   "text": "Goal! Manchester City 2, Napoli 2. Rayan Cherki (Manchester City) right footed shot from a difficult angle on the right to the bottom left corner. Assisted by Iliman Ndiaye."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Second Half ends, Manchester City 2, Napoli 2."
+  }
+ ],
+ "scoringPlays": []
+}
