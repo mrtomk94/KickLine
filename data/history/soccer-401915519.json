@@ -1,0 +1,264 @@
+{
+ "id": "soccer-401915519",
+ "sport": "soccer",
+ "league": "Europa League",
+ "start": "2026-11-26T17:45Z",
+ "home": {
+  "name": "Celta Vigo",
+  "abbr": "CEL",
+  "teamId": "85",
+  "score": 1.0
+ },
+ "away": {
+  "name": "AFC Bournemouth",
+  "abbr": "BOU",
+  "teamId": "349",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "-110",
+  "mlAwayOpen": "-115",
+  "mlDraw": "+265",
+  "mlHome": "+295",
+  "mlHomeOpen": "+290",
+  "provider": "DraftKings",
+  "spread": "BOU -110",
+  "spreadOpen": "BOU -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "CEL",
+   "stats": {
+    "foulsCommitted": "16",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "6",
+    "wonCorners": "6",
+    "saves": "4",
+    "possessionPct": "64.5",
+    "totalShots": "20",
+    "shotsOnTarget": "5",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "529",
+    "totalPasses": "608",
+    "passPct": "0.9",
+    "accurateCrosses": "4",
+    "totalCrosses": "16",
+    "crossPct": "0.3",
+    "totalLongBalls": "31",
+    "accurateLongBalls": "15",
+    "longballPct": "0.5",
+    "blockedShots": "7",
+    "effectiveTackles": "4",
+    "totalTackles": "9",
+    "tacklePct": "0.4",
+    "interceptions": "6",
+    "effectiveClearance": "20",
+    "totalClearance": "20"
+   }
+  },
+  "away": {
+   "abbr": "BOU",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "2",
+    "redCards": "1",
+    "offsides": "1",
+    "wonCorners": "5",
+    "saves": "4",
+    "possessionPct": "35.5",
+    "totalShots": "10",
+    "shotsOnTarget": "6",
+    "shotPct": "0.6",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "265",
+    "totalPasses": "333",
+    "passPct": "0.8",
+    "accurateCrosses": "2",
+    "totalCrosses": "11",
+    "crossPct": "0.2",
+    "totalLongBalls": "51",
+    "accurateLongBalls": "18",
+    "longballPct": "0.4",
+    "blockedShots": "2",
+    "effectiveTackles": "7",
+    "totalTackles": "14",
+    "tacklePct": "0.5",
+    "interceptions": "10",
+    "effectiveClearance": "29",
+    "totalClearance": "29"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "11'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "13'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "19'",
+   "team": null,
+   "text": "Goal! Celta Vigo 1, Bournemouth 0. Iago Aspas (Celta Vigo) left footed shot from the right side of the box to the bottom left corner. Assisted by Javi Rueda."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "23'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "23'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Red Card",
+   "clock": "23'",
+   "team": null,
+   "text": "Bafodé Diakité (Bournemouth) is shown the red card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "30'",
+   "team": null,
+   "text": "Álvaro Rodríguez (Bournemouth) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "33'",
+   "team": null,
+   "text": "Alex Scott (Bournemouth) is shown the yellow card."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+4'",
+   "team": null,
+   "text": "First Half ends, Celta Vigo 1, Bournemouth 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Bournemouth. Tyler Adams replaces Justin Kluivert."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Celta Vigo 1, Bournemouth 0."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "47'",
+   "team": null,
+   "text": "Goal! Celta Vigo 1, Bournemouth 1. Álvaro Rodríguez (Bournemouth) header from the centre of the box to the bottom left corner. Assisted by Amine Adli with a cross following a set piece situation."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "58'",
+   "team": null,
+   "text": "Javi Rodríguez (Celta Vigo) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "60'",
+   "team": null,
+   "text": "Javi Rueda (Celta Vigo) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Bournemouth. Ryan Christie replaces Alex Scott."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Celta Vigo. Álvaro Núñez replaces Couhaib Driouech."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Celta Vigo. Hugo Álvarez replaces Javi Rueda."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Bournemouth. Adrien Truffert replaces Julio Soler."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Bournemouth. Rayan replaces Amine Adli."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Bournemouth. Marcus Tavernier replaces David Brooks."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Celta Vigo. Ferran Jutglà replaces Pablo Durán."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Celta Vigo. Williot Swedberg replaces Javi Rodríguez."
+  },
+  {
+   "type": "Goal",
+   "clock": "78'",
+   "team": null,
+   "text": "Goal! Celta Vigo 1, Bournemouth 2. Rayan (Bournemouth) left footed shot from the centre of the box to the centre of the goal. Assisted by Marcus Tavernier following a fast break."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "78'",
+   "team": null,
+   "text": "Iago Aspas (Celta Vigo) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Celta Vigo. Ángel Arcos replaces Hugo Burcio."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+4'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

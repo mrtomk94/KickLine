@@ -1,0 +1,246 @@
+{
+ "id": "soccer-401915518",
+ "sport": "soccer",
+ "league": "Europa League",
+ "start": "2026-11-26T17:45Z",
+ "home": {
+  "name": "Viktoria Plzen",
+  "abbr": "PLZ",
+  "teamId": "11706",
+  "score": 4.0
+ },
+ "away": {
+  "name": "Benfica",
+  "abbr": "SLB",
+  "teamId": "1929",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "-215",
+  "mlAwayOpen": "-195",
+  "mlDraw": "+400",
+  "mlHome": "+500",
+  "mlHomeOpen": "+400",
+  "provider": "DraftKings",
+  "spread": "SLB -215",
+  "spreadOpen": "SLB -1.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "PLZ",
+   "stats": {
+    "foulsCommitted": "15",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "4",
+    "saves": "2",
+    "possessionPct": "30.7",
+    "totalShots": "15",
+    "shotsOnTarget": "11",
+    "shotPct": "0.7",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "263",
+    "totalPasses": "319",
+    "passPct": "0.8",
+    "accurateCrosses": "7",
+    "totalCrosses": "14",
+    "crossPct": "0.5",
+    "totalLongBalls": "44",
+    "accurateLongBalls": "29",
+    "longballPct": "0.7",
+    "blockedShots": "1",
+    "effectiveTackles": "7",
+    "totalTackles": "15",
+    "tacklePct": "0.5",
+    "interceptions": "22",
+    "effectiveClearance": "30",
+    "totalClearance": "30"
+   }
+  },
+  "away": {
+   "abbr": "SLB",
+   "stats": {
+    "foulsCommitted": "8",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "10",
+    "saves": "7",
+    "possessionPct": "69.3",
+    "totalShots": "16",
+    "shotsOnTarget": "2",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "640",
+    "totalPasses": "724",
+    "passPct": "0.9",
+    "accurateCrosses": "4",
+    "totalCrosses": "25",
+    "crossPct": "0.2",
+    "totalLongBalls": "47",
+    "accurateLongBalls": "29",
+    "longballPct": "0.6",
+    "blockedShots": "6",
+    "effectiveTackles": "17",
+    "totalTackles": "22",
+    "tacklePct": "0.8",
+    "interceptions": "6",
+    "effectiveClearance": "9",
+    "totalClearance": "9"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "30'",
+   "team": null,
+   "text": "Goal! Viktoria Plzen 1, Benfica 0. Patrik Hrosovsky (Viktoria Plzen) right footed shot from the right side of the box to the bottom left corner. Assisted by Lukás Cerv."
+  },
+  {
+   "type": "Goal",
+   "clock": "43'",
+   "team": null,
+   "text": "Goal! Viktoria Plzen 2, Benfica 0. Prince Adu (Viktoria Plzen) right footed shot from the centre of the box to the bottom right corner. Assisted by Christophe Kabongo."
+  },
+  {
+   "type": "Goal",
+   "clock": "44'",
+   "team": null,
+   "text": "Goal! Viktoria Plzen 3, Benfica 0. Christophe Kabongo (Viktoria Plzen) right footed shot from the centre of the box to the top right corner."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": "First Half ends, Viktoria Plzen 3, Benfica 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Benfica. Heorhiy Sudakov replaces Enzo Barrenechea."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "46'",
+   "team": null,
+   "text": "Goal! Viktoria Plzen 4, Benfica 0. Christophe Kabongo (Viktoria Plzen) right footed shot from the centre of the box to the centre of the goal. Assisted by Patrik Hrosovsky following a fast break."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Benfica. João Palhinha replaces Manu Silva."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Benfica. Andreas Schjelderup replaces Rafa."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Benfica. Claudio Echeverri replaces Dodi Lukébakio."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Viktoria Plzen. Denis Visinsky replaces Amar Memic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Viktoria Plzen. Stefan Pirgic replaces Lukás Cerv."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Viktoria Plzen. Tomás Ladra replaces Christophe Kabongo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Viktoria Plzen. Matej Vydra replaces Prince Adu."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "77'",
+   "team": null,
+   "text": "Adam Gabriel (Viktoria Plzen) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "78'",
+   "team": null,
+   "text": "Delay in match because of an injury Andreas Schjelderup (Benfica)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "78'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "78'",
+   "team": null,
+   "text": "Andreas Schjelderup (Benfica) is shown the yellow card."
+  },
+  {
+   "type": "End Delay",
+   "clock": "78'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "78'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Viktoria Plzen. Alexandr Sojka replaces Patrik Hrosovsky."
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, Benfica. Jhon Durán replaces Vangelis Pavlidis."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Second Half ends, Viktoria Plzen 4, Benfica 0."
+  }
+ ],
+ "scoringPlays": []
+}

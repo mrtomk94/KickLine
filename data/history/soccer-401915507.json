@@ -1,0 +1,240 @@
+{
+ "id": "soccer-401915507",
+ "sport": "soccer",
+ "league": "Europa League",
+ "start": "2026-11-26T17:45Z",
+ "home": {
+  "name": "Marseille",
+  "abbr": "OLM",
+  "teamId": "176",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Levski Sofia",
+  "abbr": "LEV",
+  "teamId": "490",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+650",
+  "mlAwayOpen": "+500",
+  "mlDraw": "+400",
+  "mlHome": "-255",
+  "mlHomeOpen": "-210",
+  "provider": "DraftKings",
+  "spread": "OLM -255",
+  "spreadOpen": "OLM -1.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "OLM",
+   "stats": {
+    "foulsCommitted": "7",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "3",
+    "saves": "1",
+    "possessionPct": "51.8",
+    "totalShots": "12",
+    "shotsOnTarget": "5",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "2",
+    "accuratePasses": "523",
+    "totalPasses": "590",
+    "passPct": "0.9",
+    "accurateCrosses": "2",
+    "totalCrosses": "9",
+    "crossPct": "0.2",
+    "totalLongBalls": "41",
+    "accurateLongBalls": "25",
+    "longballPct": "0.6",
+    "blockedShots": "2",
+    "effectiveTackles": "11",
+    "totalTackles": "15",
+    "tacklePct": "0.7",
+    "interceptions": "10",
+    "effectiveClearance": "11",
+    "totalClearance": "11"
+   }
+  },
+  "away": {
+   "abbr": "LEV",
+   "stats": {
+    "foulsCommitted": "15",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "2",
+    "saves": "4",
+    "possessionPct": "48.2",
+    "totalShots": "8",
+    "shotsOnTarget": "1",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "474",
+    "totalPasses": "550",
+    "passPct": "0.9",
+    "accurateCrosses": "2",
+    "totalCrosses": "5",
+    "crossPct": "0.4",
+    "totalLongBalls": "69",
+    "accurateLongBalls": "34",
+    "longballPct": "0.5",
+    "blockedShots": "1",
+    "effectiveTackles": "15",
+    "totalTackles": "19",
+    "tacklePct": "0.8",
+    "interceptions": "8",
+    "effectiveClearance": "17",
+    "totalClearance": "17"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "10'",
+   "team": null,
+   "text": "Delay in match because of an injury Angel Gomes (Marseille)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "10'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "11'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "11'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "27'",
+   "team": null,
+   "text": "Aldair (Levski Sofia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "28'",
+   "team": null,
+   "text": "Goal! Marseille 1, Levski Sofia 0. Amine Gouiri (Marseille) converts the penalty with a right footed shot to the bottom left corner."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "49'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "50'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Saved",
+   "clock": "51'",
+   "team": null,
+   "text": "Penalty saved. Amine Gouiri (Marseille) right footed shot saved in the top centre of the goal by Svetoslav Vutsov (Levski Sofia)."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, Marseille. Neal Maupay replaces Amine Gouiri."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Levski Sofia. Everton Bala replaces Armstrong Oko-Flex."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "66'",
+   "team": null,
+   "text": "Álex Centelles (Levski Sofia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "70'",
+   "team": null,
+   "text": "Neal Maupay (Marseille) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Levski Sofia. Mazire Soula replaces Aldair."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Levski Sofia. Maicon replaces Álex Centelles."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Marseille. Amine Harit replaces Igor Paixão."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Marseille. Tochukwu Nnadi replaces Angel Gomes."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Levski Sofia. Asen Mitkov replaces Mehdi El Moubarik."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Levski Sofia. Juan Esteban Perea Sanchez replaces Akram Bouras."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+4'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

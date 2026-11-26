@@ -1,0 +1,174 @@
+{
+ "id": "nfl-401873081",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-26T18:00Z",
+ "home": {
+  "name": "Detroit Lions",
+  "abbr": "DET",
+  "teamId": "8",
+  "score": 35.0
+ },
+ "away": {
+  "name": "Chicago Bears",
+  "abbr": "CHI",
+  "teamId": "3",
+  "score": 39.0
+ },
+ "odds": {
+  "mlAway": "-116",
+  "mlAwayOpen": "+114",
+  "mlHome": "-101",
+  "mlHomeOpen": "-135",
+  "provider": "Draft Kings",
+  "spread": "CHI -1.5",
+  "spreadOpen": "DET -2.5",
+  "total": "56.5",
+  "totalOpen": "51.5"
+ },
+ "espnWinProb": {
+  "away": 43.9,
+  "home": 55.7
+ },
+ "teams": {
+  "away": {
+   "abbr": "CHI",
+   "stats": {
+    "firstDowns": "27",
+    "firstDownsPassing": "18",
+    "firstDownsRushing": "7",
+    "firstDownsPenalty": "2",
+    "thirdDownEff": "7-14",
+    "fourthDownEff": "2-3",
+    "totalOffensivePlays": "72",
+    "totalYards": "458",
+    "yardsPerPlay": "6.4",
+    "totalDrives": "12",
+    "netPassingYards": "312",
+    "completionAttempts": "30/44",
+    "yardsPerPass": "6.5",
+    "interceptions": "0",
+    "sacksYardsLost": "4-33",
+    "rushingYards": "146",
+    "rushingAttempts": "24",
+    "yardsPerRushAttempt": "6.1",
+    "redZoneAttempts": "3-4",
+    "totalPenaltiesYards": "4-25",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "29:27"
+   }
+  },
+  "home": {
+   "abbr": "DET",
+   "stats": {
+    "firstDowns": "27",
+    "firstDownsPassing": "14",
+    "firstDownsRushing": "11",
+    "firstDownsPenalty": "2",
+    "thirdDownEff": "4-12",
+    "fourthDownEff": "1-2",
+    "totalOffensivePlays": "68",
+    "totalYards": "549",
+    "yardsPerPlay": "8.1",
+    "totalDrives": "12",
+    "netPassingYards": "303",
+    "completionAttempts": "25/36",
+    "yardsPerPass": "8.2",
+    "interceptions": "1",
+    "sacksYardsLost": "1-10",
+    "rushingYards": "246",
+    "rushingAttempts": "31",
+    "yardsPerRushAttempt": "7.9",
+    "redZoneAttempts": "3-4",
+    "totalPenaltiesYards": "9-70",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "30:33"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "11:28",
+   "team": "DET",
+   "text": "Jake Bates 24 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "12:51",
+   "team": "DET",
+   "text": "Jahmyr Gibbs 1 Yd Rush (Jake Bates Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "10:52",
+   "team": "CHI",
+   "text": "Cairo Santos 40 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "4:07",
+   "team": "CHI",
+   "text": "Kyle Monangai 1 Yd Rush (Cairo Santos Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:13",
+   "team": "DET",
+   "text": "Team Safety"
+  },
+  {
+   "period": 2,
+   "clock": "0:06",
+   "team": "DET",
+   "text": "Sam LaPorta 11 Yd pass from Jared Goff (Jake Bates Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "10:40",
+   "team": "CHI",
+   "text": "Kyle Monangai 2 Yd Rush (Cairo Santos Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "5:45",
+   "team": "DET",
+   "text": "Jahmyr Gibbs 1 Yd Rush (Jake Bates Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "3:09",
+   "team": "CHI",
+   "text": "D'Andre Swift 30 Yd Rush (Cairo Santos Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "14:57",
+   "team": "DET",
+   "text": "Jake Bates 40 Yd Field Goal "
+  },
+  {
+   "period": 4,
+   "clock": "8:20",
+   "team": "DET",
+   "text": "Jahmyr Gibbs 70 Yd Rush (Jake Bates PAT Failed)"
+  },
+  {
+   "period": 4,
+   "clock": "7:20",
+   "team": "CHI",
+   "text": "Rome Odunze 41 Yd pass from Caleb Williams (Caleb Williams Run for Two-Point Conversion)"
+  },
+  {
+   "period": 4,
+   "clock": "0:03",
+   "team": "CHI",
+   "text": "Rome Odunze 6 Yd pass from Caleb Williams (Cairo Santos Kick)"
+  }
+ ]
+}

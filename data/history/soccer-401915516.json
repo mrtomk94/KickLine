@@ -1,0 +1,198 @@
+{
+ "id": "soccer-401915516",
+ "sport": "soccer",
+ "league": "Europa League",
+ "start": "2026-11-26T20:00Z",
+ "home": {
+  "name": "Ferencvaros",
+  "abbr": "FER",
+  "teamId": "622",
+  "score": 0.0
+ },
+ "away": {
+  "name": "NK Celje",
+  "abbr": "NKC",
+  "teamId": "3362",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+650",
+  "mlAwayOpen": "+600",
+  "mlDraw": "+425",
+  "mlHome": "-265",
+  "mlHomeOpen": "-290",
+  "provider": "DraftKings",
+  "spread": "FER -265",
+  "spreadOpen": "FER -1.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "FER",
+   "stats": {
+    "foulsCommitted": "13",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "6",
+    "saves": "2",
+    "possessionPct": "48.8",
+    "totalShots": "27",
+    "shotsOnTarget": "6",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "383",
+    "totalPasses": "461",
+    "passPct": "0.8",
+    "accurateCrosses": "8",
+    "totalCrosses": "27",
+    "crossPct": "0.3",
+    "totalLongBalls": "51",
+    "accurateLongBalls": "24",
+    "longballPct": "0.5",
+    "blockedShots": "8",
+    "effectiveTackles": "4",
+    "totalTackles": "10",
+    "tacklePct": "0.4",
+    "interceptions": "7",
+    "effectiveClearance": "11",
+    "totalClearance": "11"
+   }
+  },
+  "away": {
+   "abbr": "NKC",
+   "stats": {
+    "foulsCommitted": "16",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "2",
+    "saves": "6",
+    "possessionPct": "51.2",
+    "totalShots": "6",
+    "shotsOnTarget": "2",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "431",
+    "totalPasses": "496",
+    "passPct": "0.9",
+    "accurateCrosses": "1",
+    "totalCrosses": "15",
+    "crossPct": "0.1",
+    "totalLongBalls": "61",
+    "accurateLongBalls": "36",
+    "longballPct": "0.6",
+    "blockedShots": "2",
+    "effectiveTackles": "5",
+    "totalTackles": "13",
+    "tacklePct": "0.4",
+    "interceptions": "10",
+    "effectiveClearance": "39",
+    "totalClearance": "39"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "42'",
+   "team": null,
+   "text": "Artemijus Tutyskinas (Celje) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "45'",
+   "team": null,
+   "text": "Delay in match because of an injury Lukasz Bejger (Celje)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "45'+1'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": "First Half ends, Ferencváros 0, Celje 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Celje. Zan Zuzek replaces Lukasz Bejger because of an injury."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Celje. Armandas Kucys replaces Blaz Kramer."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Ferencváros. Krisztián Lisztes replaces Lenny Joseph."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Celje. Yaya Dukuly replaces Benjamin Verbic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Ferencváros. Callum O'Dowda replaces Daniel Arzani."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Ferencváros. Jonathan Levi replaces Matús Bero."
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Celje. Papa Daniel replaces Mario Kvesic."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Second Half ends, Ferencváros 0, Celje 0."
+  }
+ ],
+ "scoringPlays": []
+}

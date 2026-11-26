@@ -1,0 +1,252 @@
+{
+ "id": "soccer-401915512",
+ "sport": "soccer",
+ "league": "Europa League",
+ "start": "2026-11-26T20:00Z",
+ "home": {
+  "name": "Torreense",
+  "abbr": "TOR",
+  "teamId": "21615",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Celtic",
+  "abbr": "CEL",
+  "teamId": "256",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "-155",
+  "mlAwayOpen": "-140",
+  "mlDraw": "+340",
+  "mlHome": "+370",
+  "mlHomeOpen": "+320",
+  "provider": "DraftKings",
+  "spread": "CEL -155",
+  "spreadOpen": "CEL -0.5",
+  "total": "3.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "TOR",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "3",
+    "saves": "5",
+    "possessionPct": "38.1",
+    "totalShots": "11",
+    "shotsOnTarget": "3",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "273",
+    "totalPasses": "349",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "13",
+    "crossPct": "0.2",
+    "totalLongBalls": "57",
+    "accurateLongBalls": "23",
+    "longballPct": "0.4",
+    "blockedShots": "2",
+    "effectiveTackles": "11",
+    "totalTackles": "19",
+    "tacklePct": "0.6",
+    "interceptions": "13",
+    "effectiveClearance": "28",
+    "totalClearance": "28"
+   }
+  },
+  "away": {
+   "abbr": "CEL",
+   "stats": {
+    "foulsCommitted": "16",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "7",
+    "saves": "2",
+    "possessionPct": "61.9",
+    "totalShots": "14",
+    "shotsOnTarget": "6",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "496",
+    "totalPasses": "566",
+    "passPct": "0.9",
+    "accurateCrosses": "6",
+    "totalCrosses": "24",
+    "crossPct": "0.3",
+    "totalLongBalls": "23",
+    "accurateLongBalls": "11",
+    "longballPct": "0.5",
+    "blockedShots": "5",
+    "effectiveTackles": "8",
+    "totalTackles": "14",
+    "tacklePct": "0.6",
+    "interceptions": "9",
+    "effectiveClearance": "18",
+    "totalClearance": "18"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "5'",
+   "team": null,
+   "text": "Delay in match because of an injury Kasper Høgh (Celtic)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "5'",
+   "team": null,
+   "text": "Delay in match because of an injury Stopira (Torreense)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "8'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "8'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Own Goal",
+   "clock": "9'",
+   "team": null,
+   "text": "Own Goal by Javi Vázquez, Torreense. Torreense 0, Celtic 1."
+  },
+  {
+   "type": "Goal",
+   "clock": "19'",
+   "team": null,
+   "text": "Goal! Torreense 1, Celtic 1. Dany Jean (Torreense) left footed shot from the left side of the six yard box to the centre of the goal."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "35'",
+   "team": null,
+   "text": "Jota (Celtic) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "40'",
+   "team": null,
+   "text": "Javi Vázquez (Torreense) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+4'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Celtic. Cameron Carter-Vickers replaces Dane Murray."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Celtic. Oliver Sørensen replaces Alex Oxlade-Chamberlain."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Celtic. Camilo Durán replaces Kasper Høgh."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "61'",
+   "team": null,
+   "text": "Mohamed Ali Diadie (Torreense) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Torreense. André Simões replaces João Marques."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Torreense. Amine Oudrhiri replaces Stopira."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "71'",
+   "team": null,
+   "text": "Jonathan Mutombo (Torreense) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Celtic. James Forrest replaces Jota."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Torreense. Luis Quintero replaces Manu Pozo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Torreense. David Bruno replaces Jonathan Mutombo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Celtic. Sebastian Tounekti replaces Yang Hyun-Jun."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "84'",
+   "team": null,
+   "text": "Goal! Torreense 1, Celtic 2. Camilo Durán (Celtic) header from the left side of the six yard box to the bottom left corner. Assisted by James Forrest with a cross."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Torreense. Karem Zoabi replaces Alejandro Alfaro."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Second Half ends, Torreense 1, Celtic 2."
+  }
+ ],
+ "scoringPlays": []
+}

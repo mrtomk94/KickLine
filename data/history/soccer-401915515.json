@@ -1,0 +1,276 @@
+{
+ "id": "soccer-401915515",
+ "sport": "soccer",
+ "league": "Europa League",
+ "start": "2026-11-26T20:00Z",
+ "home": {
+  "name": "TSG Hoffenheim",
+  "abbr": "TSG",
+  "teamId": "7911",
+  "score": 3.0
+ },
+ "away": {
+  "name": "SK Sturm Graz",
+  "abbr": "STG",
+  "teamId": "3746",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+700",
+  "mlAwayOpen": "+600",
+  "mlDraw": "+500",
+  "mlHome": "-310",
+  "mlHomeOpen": "-290",
+  "provider": "DraftKings",
+  "spread": "TSG -310",
+  "spreadOpen": "TSG -1.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "TSG",
+   "stats": {
+    "foulsCommitted": "13",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "10",
+    "saves": "5",
+    "possessionPct": "61.6",
+    "totalShots": "24",
+    "shotsOnTarget": "7",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "396",
+    "totalPasses": "494",
+    "passPct": "0.8",
+    "accurateCrosses": "6",
+    "totalCrosses": "22",
+    "crossPct": "0.3",
+    "totalLongBalls": "74",
+    "accurateLongBalls": "33",
+    "longballPct": "0.4",
+    "blockedShots": "7",
+    "effectiveTackles": "19",
+    "totalTackles": "28",
+    "tacklePct": "0.7",
+    "interceptions": "9",
+    "effectiveClearance": "21",
+    "totalClearance": "21"
+   }
+  },
+  "away": {
+   "abbr": "STG",
+   "stats": {
+    "foulsCommitted": "16",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "4",
+    "saves": "4",
+    "possessionPct": "38.4",
+    "totalShots": "12",
+    "shotsOnTarget": "6",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "223",
+    "totalPasses": "312",
+    "passPct": "0.7",
+    "accurateCrosses": "2",
+    "totalCrosses": "8",
+    "crossPct": "0.3",
+    "totalLongBalls": "65",
+    "accurateLongBalls": "33",
+    "longballPct": "0.5",
+    "blockedShots": "3",
+    "effectiveTackles": "15",
+    "totalTackles": "24",
+    "tacklePct": "0.6",
+    "interceptions": "11",
+    "effectiveClearance": "33",
+    "totalClearance": "33"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "5'",
+   "team": null,
+   "text": "Luís Balbo (Sturm Graz) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "20'",
+   "team": null,
+   "text": "Delay in match because of an injury Luca Weinhandl (Sturm Graz)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "20'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "21'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "21'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "30'",
+   "team": null,
+   "text": "Delay in match because of an injury Wouter Burger (Hoffenheim)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "30'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "32'",
+   "team": null,
+   "text": "Substitution, Hoffenheim. Tim Lemperle replaces Wouter Burger because of an injury."
+  },
+  {
+   "type": "End Delay",
+   "clock": "32'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "32'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "43'",
+   "team": null,
+   "text": "Goal! Hoffenheim 0, Sturm Graz 1. Oumar Diakité (Sturm Graz) left footed shot from very close range to the bottom left corner following a corner."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+4'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Hoffenheim 0, Sturm Graz 1."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "56'",
+   "team": null,
+   "text": "Albert Vallci (Sturm Graz) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "60'",
+   "team": null,
+   "text": "Substitution, Hoffenheim. Patrick Wimmer replaces Adam Daghim."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Hoffenheim. Bambasé Conté replaces Mats Rots."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Hoffenheim. Andrej Kramaric replaces Fisnik Asllani."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Sturm Graz. Simon Seidl replaces Seedy Jatta."
+  },
+  {
+   "type": "Goal",
+   "clock": "72'",
+   "team": null,
+   "text": "Goal! Hoffenheim 1, Sturm Graz 1. Adam Hlozek (Hoffenheim) left footed shot from the centre of the box to the centre of the goal."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Sturm Graz. Nelson Weiper replaces Oumar Diakité."
+  },
+  {
+   "type": "Goal",
+   "clock": "80'",
+   "team": null,
+   "text": "Goal! Hoffenheim 2, Sturm Graz 1. Bambasé Conté (Hoffenheim) right footed shot from the centre of the box to the centre of the goal. Assisted by Tim Lemperle."
+  },
+  {
+   "type": "Substitution",
+   "clock": "84'",
+   "team": null,
+   "text": "Substitution, Sturm Graz. Jürgen Heil replaces Arjan Malic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "84'",
+   "team": null,
+   "text": "Substitution, Sturm Graz. Emran Soglo replaces Luís Balbo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "84'",
+   "team": null,
+   "text": "Substitution, Sturm Graz. Gizo Mamageishvili replaces Valmir Matoshi."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "89'",
+   "team": null,
+   "text": "Jon Gorenc Stankovic (Sturm Graz) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "89'",
+   "team": null,
+   "text": "Substitution, Hoffenheim. Max Moerstedt replaces Adam Hlozek."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'",
+   "team": null,
+   "text": "Goal! Hoffenheim 3, Sturm Graz 1. Max Moerstedt (Hoffenheim) right footed shot from the left side of the box to the bottom right corner. Assisted by Andrej Kramaric following a fast break."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+4'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

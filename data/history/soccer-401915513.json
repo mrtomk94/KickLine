@@ -1,0 +1,216 @@
+{
+ "id": "soccer-401915513",
+ "sport": "soccer",
+ "league": "Europa League",
+ "start": "2026-11-26T20:00Z",
+ "home": {
+  "name": "Sunderland",
+  "abbr": "SUN",
+  "teamId": "366",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Jagiellonia Bialystok",
+  "abbr": "JAG",
+  "teamId": "11505",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+1100",
+  "mlAwayOpen": "+900",
+  "mlDraw": "+500",
+  "mlHome": "-400",
+  "mlHomeOpen": "-380",
+  "provider": "DraftKings",
+  "spread": "SUN -400",
+  "spreadOpen": "SUN -1.5",
+  "total": "3.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "SUN",
+   "stats": {
+    "foulsCommitted": "15",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "8",
+    "saves": "4",
+    "possessionPct": "50.1",
+    "totalShots": "16",
+    "shotsOnTarget": "7",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "336",
+    "totalPasses": "435",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "17",
+    "crossPct": "0.2",
+    "totalLongBalls": "60",
+    "accurateLongBalls": "19",
+    "longballPct": "0.3",
+    "blockedShots": "4",
+    "effectiveTackles": "9",
+    "totalTackles": "15",
+    "tacklePct": "0.6",
+    "interceptions": "6",
+    "effectiveClearance": "30",
+    "totalClearance": "30"
+   }
+  },
+  "away": {
+   "abbr": "JAG",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "3",
+    "saves": "5",
+    "possessionPct": "49.9",
+    "totalShots": "12",
+    "shotsOnTarget": "5",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "330",
+    "totalPasses": "437",
+    "passPct": "0.8",
+    "accurateCrosses": "4",
+    "totalCrosses": "15",
+    "crossPct": "0.3",
+    "totalLongBalls": "67",
+    "accurateLongBalls": "26",
+    "longballPct": "0.4",
+    "blockedShots": "3",
+    "effectiveTackles": "9",
+    "totalTackles": "14",
+    "tacklePct": "0.6",
+    "interceptions": "12",
+    "effectiveClearance": "31",
+    "totalClearance": "31"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "37'",
+   "team": null,
+   "text": "Chris Rigg (Sunderland) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "39'",
+   "team": null,
+   "text": "Substitution, Sunderland. Luke O'Nien replaces Omar Alderete because of an injury."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": "First Half ends, Sunderland 0, Jagiellonia Białystok 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Sunderland. Thomas Meunier replaces Trai Hume."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Sunderland. Jules Ahoka replaces Noah Sadiki."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Sunderland 0, Jagiellonia Białystok 0."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "47'",
+   "team": null,
+   "text": "Goal! Sunderland 1, Jagiellonia Białystok 0. Tymur Tutierov (Sunderland) header from very close range to the centre of the goal. Assisted by Enzo Le Fée."
+  },
+  {
+   "type": "Goal",
+   "clock": "52'",
+   "team": null,
+   "text": "Goal! Sunderland 1, Jagiellonia Białystok 1. Kamil Józwiak (Jagiellonia Białystok) right footed shot from the right side of the six yard box to the centre of the goal."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Sunderland. Chemsdine Talbi replaces Enzo Le Fée."
+  },
+  {
+   "type": "Substitution",
+   "clock": "65'",
+   "team": null,
+   "text": "Substitution, Jagiellonia Białystok. Jesús Imaz replaces Anders Klynge."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Jagiellonia Białystok. Norbert Wojtuszek replaces Rodrigo Conceição."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "67'",
+   "team": null,
+   "text": "Eryk Kozlowski (Jagiellonia Białystok) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Jagiellonia Białystok. Jeremy Agbonifo replaces Kajetan Szmyt."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Sunderland. Wilson Isidor replaces Tymur Tutierov."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "81'",
+   "team": null,
+   "text": "Jeremy Agbonifo (Jagiellonia Białystok) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, Jagiellonia Białystok. Sergio Lozano replaces Eryk Kozlowski."
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, Jagiellonia Białystok. Ousmane Sow replaces Kamil Józwiak."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Second Half ends, Sunderland 1, Jagiellonia Białystok 1."
+  }
+ ],
+ "scoringPlays": []
+}

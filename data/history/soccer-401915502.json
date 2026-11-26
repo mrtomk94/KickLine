@@ -1,0 +1,282 @@
+{
+ "id": "soccer-401915502",
+ "sport": "soccer",
+ "league": "Europa League",
+ "start": "2026-11-26T20:00Z",
+ "home": {
+  "name": "Juventus",
+  "abbr": "JUV",
+  "teamId": "111",
+  "score": 4.0
+ },
+ "away": {
+  "name": "Omonia Nicosia",
+  "abbr": "OMON",
+  "teamId": "617",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+1200",
+  "mlAwayOpen": "+1100",
+  "mlDraw": "+600",
+  "mlHome": "-500",
+  "mlHomeOpen": "-550",
+  "provider": "DraftKings",
+  "spread": "JUV -500",
+  "spreadOpen": "JUV -2.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "JUV",
+   "stats": {
+    "foulsCommitted": "8",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "5",
+    "saves": "4",
+    "possessionPct": "60.1",
+    "totalShots": "23",
+    "shotsOnTarget": "9",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "570",
+    "totalPasses": "618",
+    "passPct": "0.9",
+    "accurateCrosses": "2",
+    "totalCrosses": "17",
+    "crossPct": "0.1",
+    "totalLongBalls": "48",
+    "accurateLongBalls": "30",
+    "longballPct": "0.6",
+    "blockedShots": "5",
+    "effectiveTackles": "6",
+    "totalTackles": "11",
+    "tacklePct": "0.5",
+    "interceptions": "7",
+    "effectiveClearance": "11",
+    "totalClearance": "11"
+   }
+  },
+  "away": {
+   "abbr": "OMON",
+   "stats": {
+    "foulsCommitted": "3",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "3",
+    "saves": "5",
+    "possessionPct": "39.9",
+    "totalShots": "13",
+    "shotsOnTarget": "5",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "353",
+    "totalPasses": "411",
+    "passPct": "0.9",
+    "accurateCrosses": "3",
+    "totalCrosses": "11",
+    "crossPct": "0.3",
+    "totalLongBalls": "41",
+    "accurateLongBalls": "24",
+    "longballPct": "0.6",
+    "blockedShots": "3",
+    "effectiveTackles": "7",
+    "totalTackles": "10",
+    "tacklePct": "0.7",
+    "interceptions": "7",
+    "effectiveClearance": "25",
+    "totalClearance": "25"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "10'",
+   "team": null,
+   "text": "Florin Tanase (Omonia Nicosia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "15'",
+   "team": null,
+   "text": "Goal! Juventus 0, Omonia Nicosia 1. Lubomír Satka (Omonia Nicosia) header from the right side of the six yard box to the bottom right corner. Assisted by Muamer Tankovic with a cross following a corne"
+  },
+  {
+   "type": "Start Delay",
+   "clock": "20'",
+   "team": null,
+   "text": "Delay in match because of an injury Thomas Kaminski (Omonia Nicosia)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "20'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "21'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "21'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "34'",
+   "team": null,
+   "text": "Jhon Lucumí (Juventus) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "37'",
+   "team": null,
+   "text": "Goal! Juventus 1, Omonia Nicosia 1. Andrea Cambiaso (Juventus) left footed shot from outside the box to the top left corner. Assisted by Francisco Conceição."
+  },
+  {
+   "type": "Goal",
+   "clock": "43'",
+   "team": null,
+   "text": "Goal! Juventus 2, Omonia Nicosia 1. Jeff Ekhator (Juventus) right footed shot from the right side of the box to the centre of the goal. Assisted by Francisco Conceição."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Juventus. Zeki Çelik replaces Juan Cabal."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Omonia Nicosia. Loïs Diony replaces Andronikos Kakoullis."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Omonia Nicosia. Ewandro replaces Florin Tanase."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Juventus 2, Omonia Nicosia 1."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "55'",
+   "team": null,
+   "text": "Delay in match because of an injury Loïs Diony (Omonia Nicosia)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "55'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "56'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "56'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Omonia Nicosia. Luuk Brouwers replaces Panagiotis Andreou."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Omonia Nicosia. Jure Balkovec replaces Loïc Négo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Juventus. Teun Koopmeiners replaces Douglas Luiz."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Juventus. Nick Woltemade replaces Jeff Ekhator."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Weston McKennie (Juventus) Substitution at 66'"
+  },
+  {
+   "type": "Goal",
+   "clock": "68'",
+   "team": null,
+   "text": "Goal! Juventus 3, Omonia Nicosia 1. Francisco Conceição (Juventus) left footed shot from the centre of the box to the bottom right corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Omonia Nicosia. Angelos Neophytou replaces Muamer Tankovic."
+  },
+  {
+   "type": "Goal",
+   "clock": "73'",
+   "team": null,
+   "text": "Goal! Juventus 4, Omonia Nicosia 1. Jérémie Boga (Juventus) right footed shot from outside the box to the top right corner. Assisted by Andrea Cambiaso."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "81'",
+   "team": null,
+   "text": "Jure Balkovec (Omonia Nicosia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Juventus. Randal Kolo Muani replaces Francisco Conceição."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Second Half ends, Juventus 4, Omonia Nicosia 1."
+  }
+ ],
+ "scoringPlays": []
+}

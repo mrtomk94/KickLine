@@ -1,0 +1,276 @@
+{
+ "id": "soccer-401915501",
+ "sport": "soccer",
+ "league": "Europa League",
+ "start": "2026-11-26T20:00Z",
+ "home": {
+  "name": "Lyon",
+  "abbr": "LYON",
+  "teamId": "167",
+  "score": 0.0
+ },
+ "away": {
+  "name": "Lillestrom",
+  "abbr": "LSK",
+  "teamId": "987",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+1200",
+  "mlAwayOpen": "+1000",
+  "mlDraw": "+650",
+  "mlHome": "-500",
+  "mlHomeOpen": "-525",
+  "provider": "DraftKings",
+  "spread": "LYON -500",
+  "spreadOpen": "LYON -1.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "LYON",
+   "stats": {
+    "foulsCommitted": "10",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "9",
+    "saves": "1",
+    "possessionPct": "63.5",
+    "totalShots": "22",
+    "shotsOnTarget": "7",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "533",
+    "totalPasses": "588",
+    "passPct": "0.9",
+    "accurateCrosses": "4",
+    "totalCrosses": "22",
+    "crossPct": "0.2",
+    "totalLongBalls": "34",
+    "accurateLongBalls": "20",
+    "longballPct": "0.6",
+    "blockedShots": "7",
+    "effectiveTackles": "9",
+    "totalTackles": "15",
+    "tacklePct": "0.6",
+    "interceptions": "8",
+    "effectiveClearance": "20",
+    "totalClearance": "20"
+   }
+  },
+  "away": {
+   "abbr": "LSK",
+   "stats": {
+    "foulsCommitted": "15",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "6",
+    "saves": "7",
+    "possessionPct": "36.5",
+    "totalShots": "10",
+    "shotsOnTarget": "1",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "256",
+    "totalPasses": "339",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "10",
+    "crossPct": "0.3",
+    "totalLongBalls": "58",
+    "accurateLongBalls": "18",
+    "longballPct": "0.3",
+    "blockedShots": "3",
+    "effectiveTackles": "7",
+    "totalTackles": "16",
+    "tacklePct": "0.4",
+    "interceptions": "5",
+    "effectiveClearance": "25",
+    "totalClearance": "25"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "43'",
+   "team": null,
+   "text": "Vá (Lillestrøm) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, Lyon 0, Lillestrøm 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Lyon. Keito Nakamura replaces Julien Duranville."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Lyon 0, Lillestrøm 0."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "49'",
+   "team": null,
+   "text": "Gustav Nyheim (Lillestrøm) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "53'",
+   "team": null,
+   "text": "Steeve Kango (Lyon) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Lyon. Tanner Tessmann replaces Corentin Tolisso."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Lyon. Ernest Nuamah replaces Rémi Himbert."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Lyon. Zachary Athekame replaces Steeve Kango."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Lillestrøm. Gustav Nordh replaces Camil Jebara."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Lillestrøm. Ylldren Ibrahimaj replaces Henrik Melland."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "73'",
+   "team": null,
+   "text": "Delay in match because of an injury Stian Kristiansen (Lillestrøm)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "73'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Lillestrøm. Sturla Ottesen replaces Stian Kristiansen because of an injury."
+  },
+  {
+   "type": "End Delay",
+   "clock": "74'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "74'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "75'",
+   "team": null,
+   "text": "Delay in match because of an injury Filip Ottosson (Lillestrøm)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "75'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "76'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "76'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Lyon. Loïs Openda replaces Khalis Merah."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "86'",
+   "team": null,
+   "text": "Zachary Athekame (Lyon) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "89'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'",
+   "team": null,
+   "text": "Substitution, Lillestrøm. Linus Alperud replaces Eric Kitolano."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "90'+3'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'+4'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+6'",
+   "team": null,
+   "text": "Second Half ends, Lyon 0, Lillestrøm 0."
+  }
+ ],
+ "scoringPlays": []
+}

@@ -1,0 +1,330 @@
+{
+ "id": "soccer-401915505",
+ "sport": "soccer",
+ "league": "Europa League",
+ "start": "2026-11-26T20:00Z",
+ "home": {
+  "name": "NEC Nijmegen",
+  "abbr": "NEC",
+  "teamId": "147",
+  "score": 3.0
+ },
+ "away": {
+  "name": "Stade Rennais",
+  "abbr": "REN",
+  "teamId": "169",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+115",
+  "mlAwayOpen": "+130",
+  "mlDraw": "+290",
+  "mlHome": "+210",
+  "mlHomeOpen": "+175",
+  "provider": "DraftKings",
+  "spread": "REN +115",
+  "spreadOpen": "REN -0.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "NEC",
+   "stats": {
+    "foulsCommitted": "18",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "1",
+    "saves": "7",
+    "possessionPct": "52.2",
+    "totalShots": "16",
+    "shotsOnTarget": "4",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "370",
+    "totalPasses": "468",
+    "passPct": "0.8",
+    "accurateCrosses": "5",
+    "totalCrosses": "11",
+    "crossPct": "0.5",
+    "totalLongBalls": "57",
+    "accurateLongBalls": "21",
+    "longballPct": "0.4",
+    "blockedShots": "3",
+    "effectiveTackles": "13",
+    "totalTackles": "22",
+    "tacklePct": "0.6",
+    "interceptions": "19",
+    "effectiveClearance": "21",
+    "totalClearance": "21"
+   }
+  },
+  "away": {
+   "abbr": "REN",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "5",
+    "saves": "1",
+    "possessionPct": "47.8",
+    "totalShots": "21",
+    "shotsOnTarget": "8",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "332",
+    "totalPasses": "426",
+    "passPct": "0.8",
+    "accurateCrosses": "2",
+    "totalCrosses": "13",
+    "crossPct": "0.2",
+    "totalLongBalls": "68",
+    "accurateLongBalls": "25",
+    "longballPct": "0.4",
+    "blockedShots": "9",
+    "effectiveTackles": "12",
+    "totalTackles": "17",
+    "tacklePct": "0.7",
+    "interceptions": "8",
+    "effectiveClearance": "24",
+    "totalClearance": "24"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "7'",
+   "team": null,
+   "text": "Delay in match (NEC)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "7'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "7'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "7'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "15'",
+   "team": null,
+   "text": "Deveron Fonville (NEC) is shown the yellow card."
+  },
+  {
+   "type": "Goal",
+   "clock": "29'",
+   "team": null,
+   "text": "Goal! NEC 1, Rennes 0. Bryan Linssen (NEC) right footed shot from very close range to the centre of the goal."
+  },
+  {
+   "type": "Goal",
+   "clock": "36'",
+   "team": null,
+   "text": "Goal! NEC 1, Rennes 1. Adrien Thomasson (Rennes) right footed shot from the centre of the box to the bottom right corner. Assisted by Sebastian Szymanski.Goal awarded following VAR Review."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "36'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "38'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "43'",
+   "team": null,
+   "text": "Delay in match because of an injury Clement Bischoff (NEC)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "43'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "43'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "43'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": "First Half ends, NEC 1, Rennes 1."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "56'",
+   "team": null,
+   "text": "Adrien Thomasson (Rennes) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "59'",
+   "team": null,
+   "text": "Abdelhamid Aït Boudlal (Rennes) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, NEC. Gabriel Brás replaces Tobias Storm."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "62'",
+   "team": null,
+   "text": "Delay in match because of an injury Sebastian Szymanski (Rennes)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "62'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "63'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "63'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Rennes. Issa Soumaré replaces Estéban Lepaul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Rennes. Mousa Al Tamari replaces Boulaye Dia."
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "81'",
+   "team": null,
+   "text": "Goal! NEC 2, Rennes 1. Tjaronn Chery (NEC) converts the penalty with a left footed shot to the bottom right corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Rennes. Eliezer Mayenda replaces Sebastian Szymanski."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Rennes. Henrick Do Marcolino replaces Djaoui Cissé."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Rennes. Ludovic Blas replaces Abdelhamid Aït Boudlal."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "83'",
+   "team": null,
+   "text": "Willum Willumsson (NEC) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, NEC. Dennis Geiger replaces Tjaronn Chery."
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, NEC. Jamiro Monteiro replaces Dusan Tadic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, NEC. Kevin Kers replaces Willum Willumsson."
+  },
+  {
+   "type": "Goal - Volley",
+   "clock": "89'",
+   "team": null,
+   "text": "Goal! NEC 3, Rennes 1. Clement Bischoff (NEC) right footed shot from the centre of the box to the bottom left corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Charlie Cresswell (Rennes) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Substitution, NEC. Kaj Sierhuis replaces Noé Lebreton."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Kevin Kers (NEC) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

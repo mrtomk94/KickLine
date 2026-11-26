@@ -1,0 +1,342 @@
+{
+ "id": "soccer-401915506",
+ "sport": "soccer",
+ "league": "Europa League",
+ "start": "2026-11-26T17:45Z",
+ "home": {
+  "name": "Besiktas",
+  "abbr": "BES",
+  "teamId": "1895",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Hapoel Be'er",
+  "abbr": "HBE",
+  "teamId": "13083",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+900",
+  "mlAwayOpen": "+850",
+  "mlDraw": "+550",
+  "mlHome": "-400",
+  "mlHomeOpen": "-400",
+  "provider": "DraftKings",
+  "spread": "BES -400",
+  "spreadOpen": "BES -1.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "BES",
+   "stats": {
+    "foulsCommitted": "10",
+    "yellowCards": "5",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "11",
+    "saves": "8",
+    "possessionPct": "54.4",
+    "totalShots": "28",
+    "shotsOnTarget": "10",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "391",
+    "totalPasses": "506",
+    "passPct": "0.8",
+    "accurateCrosses": "8",
+    "totalCrosses": "26",
+    "crossPct": "0.3",
+    "totalLongBalls": "74",
+    "accurateLongBalls": "27",
+    "longballPct": "0.4",
+    "blockedShots": "10",
+    "effectiveTackles": "17",
+    "totalTackles": "28",
+    "tacklePct": "0.6",
+    "interceptions": "8",
+    "effectiveClearance": "13",
+    "totalClearance": "13"
+   }
+  },
+  "away": {
+   "abbr": "HBE",
+   "stats": {
+    "foulsCommitted": "13",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "4",
+    "saves": "8",
+    "possessionPct": "45.6",
+    "totalShots": "9",
+    "shotsOnTarget": "9",
+    "shotPct": "1.0",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "335",
+    "totalPasses": "439",
+    "passPct": "0.8",
+    "accurateCrosses": "0",
+    "totalCrosses": "9",
+    "crossPct": "0.0",
+    "totalLongBalls": "59",
+    "accurateLongBalls": "19",
+    "longballPct": "0.3",
+    "blockedShots": "0",
+    "effectiveTackles": "8",
+    "totalTackles": "15",
+    "tacklePct": "0.5",
+    "interceptions": "8",
+    "effectiveClearance": "38",
+    "totalClearance": "38"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "11'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "12'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "22'",
+   "team": null,
+   "text": "Salih Özcan (Besiktas) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "22'",
+   "team": null,
+   "text": "Jonas Malede (Hapoel Be'er Sheva) is shown the yellow card."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "27'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "27'",
+   "team": null,
+   "text": "Delay in match (Besiktas)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "27'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "27'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "31'",
+   "team": null,
+   "text": "Delay in match because of an injury Emirhan Topçu (Besiktas)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "31'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "33'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "33'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "45'+2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "45'+3'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Saved",
+   "clock": "45'+4'",
+   "team": null,
+   "text": "Penalty saved. Orkun Kökçü (Besiktas) right footed shot saved in the bottom left corner by Marco Wolff (Hapoel Be'er Sheva)."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+5'",
+   "team": null,
+   "text": "First Half ends, Besiktas 0, Hapoel Be'er Sheva 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Besiktas. Yasin Özcan replaces Emirhan Topçu because of an injury."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Besiktas 0, Hapoel Be'er Sheva 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Besiktas. Dusan Vlahovic replaces Oh Hyeon-Gyu."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Besiktas. Junior Olaïtan replaces Wilfred Ndidi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Besiktas. Leandro Trossard replaces Ilhan Fakılı."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Hapoel Be'er Sheva. João Victor replaces Jonas Malede."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Hapoel Be'er Sheva. Adrián Ugarriza replaces Muhammad Abu Rumi."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "73'",
+   "team": null,
+   "text": "Amankwah Forson (Hapoel Be'er Sheva) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "73'",
+   "team": null,
+   "text": "Delay in match because of an injury Leandro Trossard (Besiktas)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "73'",
+   "team": null,
+   "text": "Delay in match (Hapoel Be'er Sheva)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "74'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "74'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Goal",
+   "clock": "75'",
+   "team": null,
+   "text": "Goal! Besiktas 1, Hapoel Be'er Sheva 0. Junior Olaïtan (Besiktas) right footed shot from the centre of the box to the bottom right corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "76'",
+   "team": null,
+   "text": "Junior Olaïtan (Besiktas) is shown the yellow card for excessive celebration."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Hapoel Be'er Sheva. Javon East replaces Igor Zlatanovic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Hapoel Be'er Sheva. Eliel Peretz replaces Zahi Ahmed."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Hapoel Be'er Sheva. Idan Nachmias replaces Guy Mizrahi."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "77'",
+   "team": null,
+   "text": "Delay in match (Besiktas)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "77'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "78'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "78'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "81'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "81'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

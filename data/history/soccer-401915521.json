@@ -1,0 +1,288 @@
+{
+ "id": "soccer-401915521",
+ "sport": "soccer",
+ "league": "Europa League",
+ "start": "2026-11-26T17:45Z",
+ "home": {
+  "name": "Olympiacos",
+  "abbr": "OLY",
+  "teamId": "435",
+  "score": 2.0
+ },
+ "away": {
+  "name": "AC Milan",
+  "abbr": "MIL",
+  "teamId": "103",
+  "score": 4.0
+ },
+ "odds": {
+  "mlAway": "+155",
+  "mlAwayOpen": "+185",
+  "mlDraw": "+245",
+  "mlHome": "+175",
+  "mlHomeOpen": "+135",
+  "provider": "DraftKings",
+  "spread": "MIL +155",
+  "spreadOpen": "OLY -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "OLY",
+   "stats": {
+    "foulsCommitted": "13",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "6",
+    "saves": "1",
+    "possessionPct": "40.5",
+    "totalShots": "18",
+    "shotsOnTarget": "5",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "273",
+    "totalPasses": "345",
+    "passPct": "0.8",
+    "accurateCrosses": "9",
+    "totalCrosses": "25",
+    "crossPct": "0.4",
+    "totalLongBalls": "41",
+    "accurateLongBalls": "17",
+    "longballPct": "0.4",
+    "blockedShots": "5",
+    "effectiveTackles": "9",
+    "totalTackles": "23",
+    "tacklePct": "0.4",
+    "interceptions": "16",
+    "effectiveClearance": "15",
+    "totalClearance": "15"
+   }
+  },
+  "away": {
+   "abbr": "MIL",
+   "stats": {
+    "foulsCommitted": "15",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "1",
+    "saves": "4",
+    "possessionPct": "59.5",
+    "totalShots": "12",
+    "shotsOnTarget": "6",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "463",
+    "totalPasses": "534",
+    "passPct": "0.9",
+    "accurateCrosses": "3",
+    "totalCrosses": "11",
+    "crossPct": "0.3",
+    "totalLongBalls": "48",
+    "accurateLongBalls": "23",
+    "longballPct": "0.5",
+    "blockedShots": "0",
+    "effectiveTackles": "3",
+    "totalTackles": "8",
+    "tacklePct": "0.4",
+    "interceptions": "7",
+    "effectiveClearance": "29",
+    "totalClearance": "29"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Own Goal",
+   "clock": "31'",
+   "team": null,
+   "text": "Own Goal by Mike Maignan, AC Milan. Olympiakos 1, AC Milan 0."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "42'",
+   "team": null,
+   "text": "Delay in match because of an injury Panagiotis Retsos (Olympiakos)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "42'",
+   "team": null,
+   "text": "Delay in match (AC Milan)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "42'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "42'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "43'",
+   "team": null,
+   "text": "Koni De Winter (AC Milan) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "43'",
+   "team": null,
+   "text": "Jota Silva (Olympiakos) is shown the yellow card."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": "First Half ends, Olympiakos 1, AC Milan 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, AC Milan. Yunus Musah replaces Pervis Estupiñán."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, AC Milan. Christian Pulisic replaces Gonçalo Ramos."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Olympiakos 1, AC Milan 0."
+  },
+  {
+   "type": "Goal",
+   "clock": "49'",
+   "team": null,
+   "text": "Goal! Olympiakos 2, AC Milan 0. Jota Silva (Olympiakos) right footed shot from the centre of the box to the top left corner. Assisted by Remo Freuler."
+  },
+  {
+   "type": "Substitution",
+   "clock": "53'",
+   "team": null,
+   "text": "Substitution, AC Milan. Fikayo Tomori replaces Koni De Winter."
+  },
+  {
+   "type": "Goal",
+   "clock": "56'",
+   "team": null,
+   "text": "Goal! Olympiakos 2, AC Milan 1. Omari Hutchinson (AC Milan) left footed shot from outside the box to the bottom left corner following a fast break."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "58'",
+   "team": null,
+   "text": "Remo Freuler (Olympiakos) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "61'",
+   "team": null,
+   "text": "Panagiotis Retsos (Olympiakos) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "61'",
+   "team": null,
+   "text": "Sankhoun Diawara (AC Milan) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "63'",
+   "team": null,
+   "text": "Goal! Olympiakos 2, AC Milan 2. Alphadjo Cisse (AC Milan) header from the left side of the six yard box to the bottom left corner. Assisted by Omari Hutchinson with a cross."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, AC Milan. Filippo Terracciano replaces Sankhoun Diawara."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Olympiakos. Manolis Saliakas replaces Marcus Pedersen."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Olympiakos. Roman Yaremchuk replaces Armando González."
+  },
+  {
+   "type": "Goal",
+   "clock": "71'",
+   "team": null,
+   "text": "Goal! Olympiakos 2, AC Milan 3. Christian Pulisic (AC Milan) right footed shot from the centre of the box to the bottom right corner. Assisted by Omari Hutchinson with a cross."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Olympiakos. Konstantinos Fortounis replaces Gelson Martins."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Olympiakos. Paschalis Toufakis replaces Panagiotis Retsos."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Olympiakos. Nayair Tiknizyan replaces Bruno Onyemaechi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, AC Milan. Christian Comotto replaces Alphadjo Cisse."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "89'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "89'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Goal! Olympiakos 2, AC Milan 4. Diego Moreira (AC Milan) left footed shot from the centre of the box to the bottom left corner. Assisted by Christian Pulisic following a fast break."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+6'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

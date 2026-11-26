@@ -1,0 +1,276 @@
+{
+ "id": "soccer-401915508",
+ "sport": "soccer",
+ "league": "Europa League",
+ "start": "2026-11-26T17:45Z",
+ "home": {
+  "name": "Union St.-Gilloise",
+  "abbr": "USG",
+  "teamId": "5807",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Lech Poznan",
+  "abbr": "LECH",
+  "teamId": "2990",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "+700",
+  "mlAwayOpen": "+550",
+  "mlDraw": "+450",
+  "mlHome": "-280",
+  "mlHomeOpen": "-260",
+  "provider": "DraftKings",
+  "spread": "USG -280",
+  "spreadOpen": "USG -1.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "USG",
+   "stats": {
+    "foulsCommitted": "15",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "9",
+    "saves": "0",
+    "possessionPct": "58.6",
+    "totalShots": "24",
+    "shotsOnTarget": "10",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "372",
+    "totalPasses": "457",
+    "passPct": "0.8",
+    "accurateCrosses": "11",
+    "totalCrosses": "36",
+    "crossPct": "0.3",
+    "totalLongBalls": "44",
+    "accurateLongBalls": "20",
+    "longballPct": "0.5",
+    "blockedShots": "4",
+    "effectiveTackles": "14",
+    "totalTackles": "20",
+    "tacklePct": "0.7",
+    "interceptions": "7",
+    "effectiveClearance": "30",
+    "totalClearance": "30"
+   }
+  },
+  "away": {
+   "abbr": "LECH",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "0",
+    "saves": "8",
+    "possessionPct": "41.4",
+    "totalShots": "5",
+    "shotsOnTarget": "2",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "238",
+    "totalPasses": "337",
+    "passPct": "0.7",
+    "accurateCrosses": "0",
+    "totalCrosses": "7",
+    "crossPct": "0.0",
+    "totalLongBalls": "69",
+    "accurateLongBalls": "24",
+    "longballPct": "0.3",
+    "blockedShots": "1",
+    "effectiveTackles": "12",
+    "totalTackles": "18",
+    "tacklePct": "0.7",
+    "interceptions": "9",
+    "effectiveClearance": "48",
+    "totalClearance": "48"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "15'",
+   "team": null,
+   "text": "Goal! Union Saint-Gilloise 0, Lech Poznań 1. Yannick Agnero (Lech Poznań) left footed shot from the left side of the box to the top left corner. Assisted by Luis Palma."
+  },
+  {
+   "type": "Goal",
+   "clock": "18'",
+   "team": null,
+   "text": "Goal! Union Saint-Gilloise 0, Lech Poznań 2. Luis Palma (Lech Poznań) right footed shot from the centre of the box to the bottom right corner."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "26'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "28'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Saved",
+   "clock": "29'",
+   "team": null,
+   "text": "Penalty saved. Raul Florucz (Union Saint-Gilloise) left footed shot saved in the bottom left corner by Mateusz Lis (Lech Poznań)."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "42'",
+   "team": null,
+   "text": "Ross Sykes (Union Saint-Gilloise) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "44'",
+   "team": null,
+   "text": "Guilherme Smith (Union Saint-Gilloise) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "Robert Gumny (Lech Poznań) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "54'",
+   "team": null,
+   "text": "Goal! Union Saint-Gilloise 1, Lech Poznań 2. Raul Florucz (Union Saint-Gilloise) left footed shot from outside the box to the bottom right corner. Assisted by Louis Patris."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "60'",
+   "team": null,
+   "text": "Delay in match (Union Saint-Gilloise)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "60'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "60'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "60'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Lech Poznań. Radoslaw Murawski replaces Gustav Berggren."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Lech Poznań. Daniel Håkans replaces Luis Palma."
+  },
+  {
+   "type": "Goal",
+   "clock": "66'",
+   "team": null,
+   "text": "Goal! Union Saint-Gilloise 2, Lech Poznań 2. Kevin Rodríguez (Union Saint-Gilloise) left footed shot from the centre of the box to the top right corner. Assisted by Louis Patris following a fast break"
+  },
+  {
+   "type": "Substitution",
+   "clock": "69'",
+   "team": null,
+   "text": "Substitution, Union Saint-Gilloise. Dylan Aquino replaces Besfort Zeneli."
+  },
+  {
+   "type": "Substitution",
+   "clock": "69'",
+   "team": null,
+   "text": "Substitution, Union Saint-Gilloise. Relebohile Mofokeng replaces Kevin Rodríguez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Lech Poznań. Joel Pereira replaces Robert Gumny."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Lech Poznań. Allahyar Sayyadmanesh replaces Leo Bengtsson."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Union Saint-Gilloise. Ilan Hurtevent replaces Raul Florucz."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Union Saint-Gilloise. Rob Schoofs replaces Adem Zorgane."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Lech Poznań. Wojciech Szymczak replaces Yannick Agnero."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'",
+   "team": null,
+   "text": "Michal Gurgul (Lech Poznań) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Radoslaw Murawski (Lech Poznań) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Second Half ends, Union Saint-Gilloise 2, Lech Poznań 2."
+  }
+ ],
+ "scoringPlays": []
+}

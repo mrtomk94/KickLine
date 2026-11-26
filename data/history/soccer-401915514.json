@@ -1,0 +1,252 @@
+{
+ "id": "soccer-401915514",
+ "sport": "soccer",
+ "league": "Europa League",
+ "start": "2026-11-26T20:00Z",
+ "home": {
+  "name": "Sparta Prague",
+  "abbr": "SPP",
+  "teamId": "433",
+  "score": 2.0
+ },
+ "away": {
+  "name": "AZ Alkmaar",
+  "abbr": "AZ",
+  "teamId": "140",
+  "score": 4.0
+ },
+ "odds": {
+  "mlAway": "+140",
+  "mlAwayOpen": "+145",
+  "mlDraw": "+260",
+  "mlHome": "+185",
+  "mlHomeOpen": "+165",
+  "provider": "DraftKings",
+  "spread": "AZ +140",
+  "spreadOpen": "AZ -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "SPP",
+   "stats": {
+    "foulsCommitted": "13",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "2",
+    "saves": "2",
+    "possessionPct": "38",
+    "totalShots": "19",
+    "shotsOnTarget": "5",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "314",
+    "totalPasses": "380",
+    "passPct": "0.8",
+    "accurateCrosses": "6",
+    "totalCrosses": "17",
+    "crossPct": "0.4",
+    "totalLongBalls": "50",
+    "accurateLongBalls": "23",
+    "longballPct": "0.5",
+    "blockedShots": "4",
+    "effectiveTackles": "11",
+    "totalTackles": "16",
+    "tacklePct": "0.7",
+    "interceptions": "5",
+    "effectiveClearance": "14",
+    "totalClearance": "14"
+   }
+  },
+  "away": {
+   "abbr": "AZ",
+   "stats": {
+    "foulsCommitted": "10",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "0",
+    "saves": "3",
+    "possessionPct": "62",
+    "totalShots": "18",
+    "shotsOnTarget": "6",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "555",
+    "totalPasses": "635",
+    "passPct": "0.9",
+    "accurateCrosses": "2",
+    "totalCrosses": "13",
+    "crossPct": "0.2",
+    "totalLongBalls": "58",
+    "accurateLongBalls": "21",
+    "longballPct": "0.4",
+    "blockedShots": "7",
+    "effectiveTackles": "10",
+    "totalTackles": "21",
+    "tacklePct": "0.5",
+    "interceptions": "12",
+    "effectiveClearance": "21",
+    "totalClearance": "21"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "4'",
+   "team": null,
+   "text": "Goal! Sparta Prague 1, AZ 0. Jonatan Braut Brunes (Sparta Prague) header from very close range to the bottom left corner. Assisted by John Mercado with a cross."
+  },
+  {
+   "type": "Goal",
+   "clock": "27'",
+   "team": null,
+   "text": "Goal! Sparta Prague 2, AZ 0. Patrik Vydra (Sparta Prague) right footed shot from the right side of the box to the bottom right corner. Assisted by Jonatan Braut Brunes."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "44'",
+   "team": null,
+   "text": "Josimar Alcócer (Sparta Prague) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": "First Half ends, Sparta Prague 2, AZ 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Sparta Prague 2, AZ 0."
+  },
+  {
+   "type": "Goal",
+   "clock": "52'",
+   "team": null,
+   "text": "Goal! Sparta Prague 2, AZ 1. Peer Koopmeiners (AZ) left footed shot from the left side of the box to the bottom left corner. Assisted by Wassim Bouziane."
+  },
+  {
+   "type": "Substitution",
+   "clock": "56'",
+   "team": null,
+   "text": "Substitution, AZ. Dave Kwakman replaces Wouter Goes."
+  },
+  {
+   "type": "Substitution",
+   "clock": "56'",
+   "team": null,
+   "text": "Substitution, AZ. Ro-Zangelo Daal replaces Wassim Bouziane."
+  },
+  {
+   "type": "Substitution",
+   "clock": "56'",
+   "team": null,
+   "text": "Substitution, AZ. Ayoub Oufkir replaces Valdemar Byskov."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "58'",
+   "team": null,
+   "text": "Peer Koopmeiners (AZ) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Sparta Prague. Ebrima Singhateh replaces Josimar Alcócer."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "64'",
+   "team": null,
+   "text": "Ayoub Oufkir (AZ) is shown the yellow card."
+  },
+  {
+   "type": "Goal",
+   "clock": "68'",
+   "team": null,
+   "text": "Goal! Sparta Prague 2, AZ 2. Ro-Zangelo Daal (AZ) right footed shot from outside the box to the top right corner. Assisted by Dave Kwakman."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Sparta Prague. Roman Macek replaces Andy Irving."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Sparta Prague. Matej Jurásek replaces Jonatan Braut Brunes."
+  },
+  {
+   "type": "Goal",
+   "clock": "73'",
+   "team": null,
+   "text": "Goal! Sparta Prague 2, AZ 3. Ayoub Oufkir (AZ) left footed shot from outside the box to the bottom left corner. Assisted by Ro-Zangelo Daal."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, AZ. Seiya Maikuma replaces Denso Kasius."
+  },
+  {
+   "type": "Goal",
+   "clock": "84'",
+   "team": null,
+   "text": "Goal! Sparta Prague 2, AZ 4. Ayoub Oufkir (AZ) right footed shot from the right side of the box to the top left corner. Assisted by Calvin Stengs following a fast break."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Sparta Prague. Matyás Vojta replaces Viktor Vitályos."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "86'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, AZ. Rion Ichihara replaces Calvin Stengs."
+  },
+  {
+   "type": "End Delay",
+   "clock": "87'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Wesley Hoedt (AZ) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Second Half ends, Sparta Prague 2, AZ 4."
+  }
+ ],
+ "scoringPlays": []
+}

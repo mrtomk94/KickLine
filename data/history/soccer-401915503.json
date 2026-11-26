@@ -1,0 +1,312 @@
+{
+ "id": "soccer-401915503",
+ "sport": "soccer",
+ "league": "Europa League",
+ "start": "2026-11-26T20:00Z",
+ "home": {
+  "name": "OFI Crete",
+  "abbr": "OFI",
+  "teamId": "1010",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Anderlecht",
+  "abbr": "AND",
+  "teamId": "441",
+  "score": 3.0
+ },
+ "odds": {
+  "mlAway": "-130",
+  "mlAwayOpen": "-115",
+  "mlDraw": "+290",
+  "mlHome": "+350",
+  "mlHomeOpen": "+290",
+  "provider": "DraftKings",
+  "spread": "AND -130",
+  "spreadOpen": "AND -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "OFI",
+   "stats": {
+    "foulsCommitted": "10",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "3",
+    "saves": "5",
+    "possessionPct": "48.5",
+    "totalShots": "6",
+    "shotsOnTarget": "2",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "372",
+    "totalPasses": "448",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "12",
+    "crossPct": "0.3",
+    "totalLongBalls": "56",
+    "accurateLongBalls": "26",
+    "longballPct": "0.5",
+    "blockedShots": "0",
+    "effectiveTackles": "8",
+    "totalTackles": "12",
+    "tacklePct": "0.7",
+    "interceptions": "8",
+    "effectiveClearance": "21",
+    "totalClearance": "21"
+   }
+  },
+  "away": {
+   "abbr": "AND",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "4",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "7",
+    "saves": "1",
+    "possessionPct": "51.5",
+    "totalShots": "17",
+    "shotsOnTarget": "8",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "414",
+    "totalPasses": "480",
+    "passPct": "0.9",
+    "accurateCrosses": "4",
+    "totalCrosses": "17",
+    "crossPct": "0.2",
+    "totalLongBalls": "53",
+    "accurateLongBalls": "29",
+    "longballPct": "0.5",
+    "blockedShots": "4",
+    "effectiveTackles": "7",
+    "totalTackles": "11",
+    "tacklePct": "0.6",
+    "interceptions": "8",
+    "effectiveClearance": "16",
+    "totalClearance": "16"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "1'",
+   "team": null,
+   "text": "Delay in match because of an injury Lorenzo Dickmann (OFI)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "1'",
+   "team": null,
+   "text": "Delay in match because of an injury Marten Winkler (Anderlecht)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "2'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "11'",
+   "team": null,
+   "text": "Konstantinos Kostoulas (OFI) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "15'",
+   "team": null,
+   "text": "Delay in match because of an injury Lukás Ambros (Anderlecht)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "15'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "16'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "16'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "20'",
+   "team": null,
+   "text": "Goal! OFI 0, Anderlecht 1. Tawfik Bentayeb (Anderlecht) left footed shot from the right side of the box to the centre of the goal. Assisted by Mihajlo Cvetkovic."
+  },
+  {
+   "type": "Goal",
+   "clock": "39'",
+   "team": null,
+   "text": "Goal! OFI 0, Anderlecht 2. Thelo Aasgaard (Anderlecht) right footed shot from outside the box to the bottom left corner. Assisted by Oleg Reabciuk."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "51'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "53'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "54'",
+   "team": null,
+   "text": "Goal! OFI 1, Anderlecht 2. Taxiarchis Fountas (OFI) converts the penalty with a right footed shot to the high centre of the goal."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, OFI. Giannis Apostolakis replaces Lorenzo Dickmann because of an injury."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "65'",
+   "team": null,
+   "text": "Ali Maamar (Anderlecht) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "67'",
+   "team": null,
+   "text": "Mihajlo Cvetkovic (Anderlecht) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "69'",
+   "team": null,
+   "text": "Nikolaos Athanasiou (OFI) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "69'",
+   "team": null,
+   "text": "Giulian Biancone (Anderlecht) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Anderlecht. Killian Sardella replaces Ali Maamar."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Anderlecht. Adriano Bertaccini replaces Mihajlo Cvetkovic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, OFI. Georgios Kanellopoulos replaces Andreas Bouchalakis."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "84'",
+   "team": null,
+   "text": "Mario Stroeykens (Anderlecht) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "84'",
+   "team": null,
+   "text": "Substitution, OFI. Giannis Theodosoulakis replaces Taxiarchis Fountas."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, OFI. Thanasis Sitmalidis replaces Thiago Nuss."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, OFI. Zisis Karachalios replaces Konstantinos Kostoulas."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Anderlecht. Enric Llansana replaces Tawfik Bentayeb."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Anderlecht. Jayden Onia-Seke replaces Marten Winkler."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Substitution, Anderlecht. Oliver Antman replaces Lukás Ambros."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Giannis Theodosoulakis (OFI) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Goal! OFI 1, Anderlecht 3. Adriano Bertaccini (Anderlecht) right footed shot from the centre of the box to the top right corner."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+8'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

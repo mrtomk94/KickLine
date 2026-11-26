@@ -1,76 +1,4 @@
 {
- "nba-401909317": {
-  "away": {
-   "abbr": "MIA",
-   "form": "WWWWW",
-   "injuries": [],
-   "name": "Miami Heat",
-   "record": "10-6",
-   "short": "Heat",
-   "teamId": "14"
-  },
-  "confidence": 51,
-  "espnId": "401909317",
-  "espnLeague": "nba",
-  "espnSport": "basketball",
-  "espnWinProb": {
-   "away": 34.7,
-   "home": 65.3
-  },
-  "home": {
-   "abbr": "PHI",
-   "form": "LWWWW",
-   "injuries": [],
-   "name": "Philadelphia 76ers",
-   "record": "14-4",
-   "short": "76ers",
-   "teamId": "20"
-  },
-  "id": "nba-401909317",
-  "injuriesRaw": {
-   "away": [],
-   "home": [
-    {
-     "detail": "Achilles",
-     "player": "Ariel Hukporti",
-     "pos": "C",
-     "stale": true,
-     "status": "Out"
-    }
-   ]
-  },
-  "league": "NBA",
-  "link": "https://www.espn.com/nba/game/_/gameId/401909317",
-  "news": [
-   "Inside LeBron's first game in Philly -- more than two decades ago",
-   "LaMelo Ball and the 'collective' carrying Minnesota without Anthony Edwards",
-   "NBA Power Rankings: Whom is each team most thankful for this year?"
-  ],
-  "odds": {
-   "mlAway": "-102",
-   "mlAwayOpen": "+136",
-   "mlHome": "-116",
-   "mlHomeOpen": "-162",
-   "provider": "Draft Kings",
-   "spread": "PHI -1.5",
-   "spreadOpen": "PHI -3.5",
-   "total": "237.5",
-   "totalOpen": "238.5"
-  },
-  "pick": "Pass",
-  "reason": "PHI about 52% no-vig at -116; no edge worth a pick.",
-  "risks": [
-   "line drifted away (-162 → -116)",
-   "history stats favor the opponent"
-  ],
-  "slug": "nba",
-  "sport": "nba",
-  "stars": 1,
-  "start": "2026-11-25T22:00Z",
-  "state": "in",
-  "updatedAt": "2026-11-25T13:29:33Z",
-  "venue": "Xfinity Mobile Arena, Philadelphia"
- },
  "nba-401909318": {
   "away": {
    "abbr": "CHI",
@@ -963,8 +891,8 @@
    "abbr": "NY",
    "form": "WWWWW",
    "injuries": [
-    "OG Anunoby (F) – Out, Calf",
-    "Jordan Clarkson (G) – Out, Foot"
+    "Jordan Clarkson (G) – Out, Foot",
+    "OG Anunoby (F) – Out, Calf"
    ],
    "name": "New York Knicks",
    "record": "12-6",
@@ -976,16 +904,16 @@
    "away": [],
    "home": [
     {
-     "detail": "Calf",
-     "player": "OG Anunoby",
-     "pos": "F",
+     "detail": "Foot",
+     "player": "Jordan Clarkson",
+     "pos": "G",
      "stale": false,
      "status": "Out"
     },
     {
-     "detail": "Foot",
-     "player": "Jordan Clarkson",
-     "pos": "G",
+     "detail": "Calf",
+     "player": "OG Anunoby",
+     "pos": "F",
      "stale": false,
      "status": "Out"
     }
@@ -995,9 +923,9 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909326",
   "market": "Moneyline",
   "news": [
-   "Clippers host Pelicans Friday for NBA Cup group stage game",
-   "Nuggets visit Jazz Friday in NBA Cup group stage",
-   "76ers visit Pacers Friday in NBA Cup group stage"
+   "Jaylen Brown out against Pacers; Joel Embiid (illness) questionable",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows",
+   "Clippers host Pelicans Friday for NBA Cup group stage game"
   ],
   "odds": {
    "mlAway": "+142",
@@ -1019,42 +947,115 @@
   "stars": 2,
   "start": "2026-11-28T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Madison Square Garden, New York"
  },
  "nba-401909327": {
+  "_lastPick": "DET ML (-407)",
   "away": {
    "abbr": "MIL",
+   "form": "LWLLL",
+   "injuries": [],
    "name": "Milwaukee Bucks",
    "record": "2-17",
    "short": "Bucks",
    "teamId": "15"
   },
+  "confidence": 77,
   "espnId": "401909327",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 13.2,
+   "home": 86.8
+  },
   "home": {
    "abbr": "DET",
+   "form": "WLLWW",
+   "injuries": [
+    "Duncan Robinson (F) – Out, Quadriceps",
+    "Cade Cunningham (G) – Out, Knee",
+    "Jalen Duren (C) – Out, Hamstring",
+    "Ebuka Okorie (G) – Out, Oblique",
+    "Taurean Prince (F) – Out, Knee"
+   ],
    "name": "Detroit Pistons",
    "record": "11-6",
    "short": "Pistons",
    "teamId": "8"
   },
   "id": "nba-401909327",
+  "injuriesRaw": {
+   "away": [],
+   "home": [
+    {
+     "detail": "Quadriceps",
+     "player": "Duncan Robinson",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Cade Cunningham",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "Jalen Duren",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Oblique",
+     "player": "Ebuka Okorie",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Taurean Prince",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909327",
+  "market": "Moneyline",
+  "news": [
+   "Jaylen Brown out against Pacers; Joel Embiid (illness) questionable",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows",
+   "Clippers host Pelicans Friday for NBA Cup group stage game"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+320",
+   "mlAwayOpen": "+420",
+   "mlHome": "-407",
+   "mlHomeOpen": "-561",
+   "provider": "Draft Kings",
+   "spread": "DET -8.5",
+   "spreadOpen": "DET -11.5",
+   "total": "219.5",
+   "totalOpen": "221.5"
   },
-  "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
-  "risks": [],
+  "pick": "DET ML (-407)",
+  "reason": "DET are about 77% no-vig at -407; ESPN's model has 87%. For: ESPN model 87% vs market 77%; last-5 scoring margin: DET +6.0, MIL -4.4. Capped at 2★: NBA capped by lessons.",
+  "risks": [
+   "line drifted away (-561 → -407)"
+  ],
+  "side": "home",
   "slug": "nba",
   "sport": "nba",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-28T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Little Caesars Arena, Detroit"
  },
  "nba-401909328": {
@@ -1062,13 +1063,15 @@
   "away": {
    "abbr": "PHI",
    "form": "WLWWW",
-   "injuries": [],
+   "injuries": [
+    "Jaylen Brown (G) – Out, Hamstring"
+   ],
    "name": "Philadelphia 76ers",
    "record": "15-4",
    "short": "76ers",
    "teamId": "20"
   },
-  "confidence": 61,
+  "confidence": 57,
   "espnId": "401909328",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -1090,6 +1093,13 @@
   "id": "nba-401909328",
   "injuriesRaw": {
    "away": [
+    {
+     "detail": "Hamstring",
+     "player": "Jaylen Brown",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
     {
      "detail": "Achilles",
      "player": "Ariel Hukporti",
@@ -1117,72 +1127,147 @@
   },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909328",
-  "market": "Moneyline",
+  "market": null,
   "news": [
-   "Clippers host Pelicans Friday for NBA Cup group stage game",
-   "Nuggets visit Jazz Friday in NBA Cup group stage",
-   "76ers visit Pacers Friday in NBA Cup group stage"
+   "Jaylen Brown out against Pacers; Joel Embiid (illness) questionable",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows",
+   "Clippers host Pelicans Friday for NBA Cup group stage game"
   ],
   "odds": {
-   "mlAway": "-180",
+   "mlAway": "-155",
    "mlAwayOpen": "-185",
-   "mlHome": "+151",
+   "mlHome": "+130",
    "mlHomeOpen": "+155",
    "provider": "Draft Kings",
-   "spread": "PHI -4.5",
+   "spread": "PHI -1.5",
    "spreadOpen": "PHI -4.5",
-   "total": "234.5",
+   "total": "232.5",
    "totalOpen": "234.5"
   },
-  "pick": "PHI ML (-180)",
-  "reason": "PHI are about 62% no-vig at -180; ESPN's model has 62%. For: form WLWWW vs WLLLL; last-5 scoring margin: IND -6.6, PHI +2.0.",
-  "risks": [],
-  "side": "away",
+  "pick": "Pass",
+  "reason": "PHI about 58% no-vig at -155; no edge worth a pick.",
+  "risks": [
+   "line drifted away (-185 → -155)"
+  ],
+  "side": null,
   "slug": "nba",
   "sport": "nba",
-  "stars": 2,
+  "stars": 1,
   "start": "2026-11-28T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Gainbridge Fieldhouse, Indianapolis"
  },
  "nba-401909329": {
+  "_lastPick": "TOR ML (-333)",
   "away": {
    "abbr": "BKN",
+   "form": "WLLLL",
+   "injuries": [
+    "Moritz Wagner (C) – Out, Knee",
+    "Nolan Traore (G) – Out, Hamstring"
+   ],
    "name": "Brooklyn Nets",
    "record": "4-13",
    "short": "Nets",
    "teamId": "17"
   },
+  "confidence": 72,
   "espnId": "401909329",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 25.7,
+   "home": 74.3
+  },
   "home": {
    "abbr": "TOR",
+   "form": "LWLLL",
+   "injuries": [
+    "Kawhi Leonard (F) – Out, Knee",
+    "Nate Bittle (C) – Out, Foot",
+    "RJ Barrett (F) – Out, Hamstring"
+   ],
    "name": "Toronto Raptors",
    "record": "6-11",
    "short": "Raptors",
    "teamId": "28"
   },
   "id": "nba-401909329",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Knee",
+     "player": "Moritz Wagner",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "Nolan Traore",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Knee",
+     "player": "Kawhi Leonard",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Foot",
+     "player": "Nate Bittle",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "RJ Barrett",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909329",
+  "market": "Moneyline",
+  "news": [
+   "Jaylen Brown out against Pacers; Joel Embiid (illness) questionable",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows",
+   "Clippers host Pelicans Friday for NBA Cup group stage game"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+268",
+   "mlAwayOpen": "+268",
+   "mlHome": "-333",
+   "mlHomeOpen": "-333",
+   "provider": "Draft Kings",
+   "spread": "TOR -7.5",
+   "spreadOpen": "TOR -7.5",
+   "total": "219.5",
+   "totalOpen": "221.5"
   },
-  "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "pick": "TOR ML (-333)",
+  "reason": "TOR are about 74% no-vig at -333; ESPN's model has 74%. For: last-5 scoring margin: TOR -3.8, BKN -12.6. Capped at 2★: NBA capped by lessons.",
   "risks": [],
+  "side": "home",
   "slug": "nba",
   "sport": "nba",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-28T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Scotiabank Arena, Toronto"
  },
  "nba-401909330": {
-  "_lastPick": "BOS ML (-361)",
+  "_lastPick": "BOS ML (-410)",
   "away": {
    "abbr": "ATL",
    "form": "WWWWL",
@@ -1197,7 +1282,7 @@
    "short": "Hawks",
    "teamId": "1"
   },
-  "confidence": 69,
+  "confidence": 71,
   "espnId": "401909330",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -1269,24 +1354,25 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909330",
   "market": "Moneyline",
   "news": [
-   "Clippers host Pelicans Friday for NBA Cup group stage game",
-   "Nuggets visit Jazz Friday in NBA Cup group stage",
-   "76ers visit Pacers Friday in NBA Cup group stage"
+   "Jaylen Brown out against Pacers; Joel Embiid (illness) questionable",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows",
+   "Clippers host Pelicans Friday for NBA Cup group stage game"
   ],
   "odds": {
-   "mlAway": "+288",
+   "mlAway": "+322",
    "mlAwayOpen": "+288",
-   "mlHome": "-361",
+   "mlHome": "-410",
    "mlHomeOpen": "-361",
    "provider": "Draft Kings",
    "spread": "BOS -9.5",
    "spreadOpen": "BOS -9.5",
-   "total": "220.5",
+   "total": "222.5",
    "totalOpen": "222.5"
   },
-  "pick": "BOS ML (-361)",
-  "reason": "BOS are about 75% no-vig at -361; ESPN's model has 71%.",
+  "pick": "BOS ML (-410)",
+  "reason": "BOS are about 77% no-vig at -410; ESPN's model has 71%.",
   "risks": [
+   "ESPN model only 71% vs market 77%",
    "opponent in better form (WWWWL)"
   ],
   "side": "home",
@@ -1295,77 +1381,233 @@
   "stars": 2,
   "start": "2026-11-28T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "TD Garden, Boston"
  },
  "nba-401909331": {
+  "_lastPick": "MIN ML (-155)",
   "away": {
    "abbr": "MEM",
+   "form": "WWLWW",
+   "injuries": [
+    "Scotty Pippen Jr. (G) – Out, Back",
+    "Cameron Boozer (F) – Out, Ankle",
+    "Jerami Grant (F) – Out, Calf",
+    "GG Jackson (F) – Out, Foot"
+   ],
    "name": "Memphis Grizzlies",
    "record": "14-5",
    "short": "Grizzlies",
    "teamId": "29"
   },
+  "confidence": 59,
   "espnId": "401909331",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 32.8,
+   "home": 67.2
+  },
   "home": {
    "abbr": "MIN",
+   "form": "WWWLW",
+   "injuries": [
+    "Donte DiVincenzo (G) – Out, Achilles",
+    "Jaylen Clark (G) – Out, Hamstring"
+   ],
    "name": "Minnesota Timberwolves",
    "record": "14-5",
    "short": "Timberwolves",
    "teamId": "16"
   },
   "id": "nba-401909331",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Back",
+     "player": "Scotty Pippen Jr.",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Cameron Boozer",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Calf",
+     "player": "Jerami Grant",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Foot",
+     "player": "GG Jackson",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Achilles",
+     "player": "Donte DiVincenzo",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "Jaylen Clark",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Anthony Edwards",
+     "pos": "G",
+     "stale": true,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909331",
+  "market": "Moneyline",
+  "news": [
+   "Jaylen Brown out against Pacers; Joel Embiid (illness) questionable",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows",
+   "Clippers host Pelicans Friday for NBA Cup group stage game"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+130",
+   "mlAwayOpen": "+117",
+   "mlHome": "-155",
+   "mlHomeOpen": "-139",
+   "provider": "Draft Kings",
+   "spread": "MIN -3.5",
+   "spreadOpen": "MIN -2.5",
+   "total": "220.5",
+   "totalOpen": "223.5"
   },
-  "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "pick": "MIN ML (-155)",
+  "reason": "MIN are about 58% no-vig at -155; ESPN's model has 67%. For: ESPN model 67% vs market 58%.",
   "risks": [],
+  "side": "home",
   "slug": "nba",
   "sport": "nba",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-28T01:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Target Center, Minneapolis"
  },
  "nba-401909332": {
   "away": {
    "abbr": "DAL",
+   "form": "WWWWL",
+   "injuries": [
+    "Tobi Lawal (F) – Out, Groin",
+    "Dereck Lively II (C) – Out, Foot",
+    "Sergio de Larrea (F) – Out, Knee",
+    "Tarik Biberovic (F) – Out, Heel"
+   ],
    "name": "Dallas Mavericks",
    "record": "11-7",
    "short": "Mavericks",
    "teamId": "6"
   },
+  "confidence": 53,
   "espnId": "401909332",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 45.3,
+   "home": 54.7
+  },
   "home": {
    "abbr": "PHX",
+   "form": "LWWWW",
+   "injuries": [],
    "name": "Phoenix Suns",
    "record": "9-8",
    "short": "Suns",
    "teamId": "21"
   },
   "id": "nba-401909332",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Groin",
+     "player": "Tobi Lawal",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Foot",
+     "player": "Dereck Lively II",
+     "pos": "C",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Sergio de Larrea",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Heel",
+     "player": "Tarik Biberovic",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Shoulder",
+     "player": "Mark Williams",
+     "pos": "C",
+     "stale": true,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909332",
+  "news": [
+   "Jaylen Brown out against Pacers; Joel Embiid (illness) questionable",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows",
+   "Clippers host Pelicans Friday for NBA Cup group stage game"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+120",
+   "mlAwayOpen": "+120",
+   "mlHome": "-142",
+   "mlHomeOpen": "-142",
+   "provider": "Draft Kings",
+   "spread": "PHX -1.5",
+   "spreadOpen": "PHX -3.5",
+   "total": "227.5",
+   "totalOpen": "227.5"
   },
   "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "reason": "PHX about 56% no-vig at -142; no edge worth a pick.",
   "risks": [],
   "slug": "nba",
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-28T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Mortgage Matchup Center, Phoenix"
  },
  "nba-401909333": {
@@ -1440,9 +1682,9 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909333",
   "market": "Moneyline",
   "news": [
-   "Clippers host Pelicans Friday for NBA Cup group stage game",
-   "Nuggets visit Jazz Friday in NBA Cup group stage",
-   "76ers visit Pacers Friday in NBA Cup group stage"
+   "Jaylen Brown out against Pacers; Joel Embiid (illness) questionable",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows",
+   "Clippers host Pelicans Friday for NBA Cup group stage game"
   ],
   "odds": {
    "mlAway": "+171",
@@ -1450,7 +1692,7 @@
    "mlHome": "-205",
    "mlHomeOpen": "-285",
    "provider": "Draft Kings",
-   "spread": "SA -6.5",
+   "spread": "SA -5.5",
    "spreadOpen": "LAL -7.5",
    "total": "225.5",
    "totalOpen": "232.5"
@@ -1466,11 +1708,11 @@
   "stars": 2,
   "start": "2026-11-28T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Frost Bank Center, San Antonio"
  },
  "nba-401909334": {
-  "_lastPick": "DEN ML (-345)",
+  "_lastPick": "DEN ML (-416)",
   "away": {
    "abbr": "DEN",
    "form": "LWWWL",
@@ -1480,7 +1722,7 @@
    "short": "Nuggets",
    "teamId": "7"
   },
-  "confidence": 70,
+  "confidence": 72,
   "espnId": "401909334",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -1531,101 +1773,265 @@
   "link": "https://www.espn.com/nba/game/_/gameId/401909334",
   "market": "Moneyline",
   "news": [
-   "Clippers host Pelicans Friday for NBA Cup group stage game",
-   "Nuggets visit Jazz Friday in NBA Cup group stage",
-   "76ers visit Pacers Friday in NBA Cup group stage"
+   "Jaylen Brown out against Pacers; Joel Embiid (illness) questionable",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows",
+   "Clippers host Pelicans Friday for NBA Cup group stage game"
   ],
   "odds": {
-   "mlAway": "-345",
+   "mlAway": "-416",
    "mlAwayOpen": "-336",
-   "mlHome": "+277",
+   "mlHome": "+326",
    "mlHomeOpen": "+270",
    "provider": "Draft Kings",
    "spread": "DEN -9.5",
    "spreadOpen": "DEN -9.5",
-   "total": "228.5",
+   "total": "229.5",
    "totalOpen": "228.5"
   },
-  "pick": "DEN ML (-345)",
-  "reason": "DEN are about 75% no-vig at -345; ESPN's model has 70%.",
-  "risks": [],
+  "pick": "DEN ML (-416)",
+  "reason": "DEN are about 77% no-vig at -416; ESPN's model has 70%.",
+  "risks": [
+   "ESPN model only 70% vs market 77%"
+  ],
   "side": "away",
   "slug": "nba",
   "sport": "nba",
   "stars": 2,
   "start": "2026-11-28T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Delta Center, Salt Lake City"
  },
  "nba-401909335": {
   "away": {
    "abbr": "NO",
+   "form": "LLLLW",
+   "injuries": [
+    "Trendon Watford (F) – Out, Ankle",
+    "Bennedict Mathurin (G) – Out, Foot",
+    "Dejounte Murray (G) – Out, Ankle"
+   ],
    "name": "New Orleans Pelicans",
    "record": "5-14",
    "short": "Pelicans",
    "teamId": "3"
   },
+  "confidence": 54,
   "espnId": "401909335",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 44.5,
+   "home": 55.5
+  },
   "home": {
    "abbr": "LAC",
+   "form": "LLLLL",
+   "injuries": [],
    "name": "LA Clippers",
    "record": "4-13",
    "short": "Clippers",
    "teamId": "12"
   },
   "id": "nba-401909335",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Ankle",
+     "player": "Trendon Watford",
+     "pos": "F",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Foot",
+     "player": "Bennedict Mathurin",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Dejounte Murray",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Knee",
+     "player": "Bradley Beal",
+     "pos": "G",
+     "stale": true,
+     "status": "Out"
+    },
+    {
+     "detail": "Shoulder",
+     "player": "Jordan Miller",
+     "pos": "G",
+     "stale": true,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909335",
+  "news": [
+   "Jaylen Brown out against Pacers; Joel Embiid (illness) questionable",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows",
+   "Clippers host Pelicans Friday for NBA Cup group stage game"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+136",
+   "mlAwayOpen": "+124",
+   "mlHome": "-162",
+   "mlHomeOpen": "-147",
+   "provider": "Draft Kings",
+   "spread": "LAC -3.5",
+   "spreadOpen": "LAC -2.5",
+   "total": "231.5",
+   "totalOpen": "228.5"
   },
   "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
-  "risks": [],
+  "reason": "LAC about 59% no-vig at -162; no edge worth a pick.",
+  "risks": [
+   "history stats favor the opponent"
+  ],
   "slug": "nba",
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-28T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Intuit Dome, Inglewood"
  },
  "nba-401909336": {
+  "_lastPick": "POR ML (-344)",
   "away": {
    "abbr": "GS",
+   "form": "WWLLL",
+   "injuries": [
+    "Stephen Curry (G) – Out, Abdomen"
+   ],
    "name": "Golden State Warriors",
    "record": "10-8",
    "short": "Warriors",
    "teamId": "9"
   },
+  "confidence": 75,
   "espnId": "401909336",
   "espnLeague": "nba",
   "espnSport": "basketball",
+  "espnWinProb": {
+   "away": 18.5,
+   "home": 81.5
+  },
   "home": {
    "abbr": "POR",
+   "form": "WWLWL",
+   "injuries": [
+    "Chris Youngblood (G) – Out, Heel",
+    "Vit Krejci (G) – Out, Ankle",
+    "Ja Morant (G) – Out, Hamstring"
+   ],
    "name": "Portland Trail Blazers",
    "record": "12-6",
    "short": "Trail Blazers",
    "teamId": "22"
   },
   "id": "nba-401909336",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Abdomen",
+     "player": "Stephen Curry",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Illness",
+     "player": "Kristaps Porzingis",
+     "pos": "C",
+     "stale": true,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Moses Moody",
+     "pos": "G",
+     "stale": true,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Jimmy Butler III",
+     "pos": "F",
+     "stale": true,
+     "status": "Out"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Heel",
+     "player": "Chris Youngblood",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Vit Krejci",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "Ja Morant",
+     "pos": "G",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Knee",
+     "player": "Shaedon Sharpe",
+     "pos": "G",
+     "stale": true,
+     "status": "Out"
+    }
+   ]
+  },
   "league": "NBA",
   "link": "https://www.espn.com/nba/game/_/gameId/401909336",
+  "market": "Moneyline",
+  "news": [
+   "Jaylen Brown out against Pacers; Joel Embiid (illness) questionable",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows",
+   "Clippers host Pelicans Friday for NBA Cup group stage game"
+  ],
   "odds": {
-   "provider": "DraftKings"
+   "mlAway": "+276",
+   "mlAwayOpen": "+262",
+   "mlHome": "-344",
+   "mlHomeOpen": "-325",
+   "provider": "Draft Kings",
+   "spread": "POR -8.5",
+   "spreadOpen": "POR -9.5",
+   "total": "220.5",
+   "totalOpen": "221.5"
   },
-  "pick": "Pass",
-  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "pick": "POR ML (-344)",
+  "reason": "POR are about 74% no-vig at -344; ESPN's model has 82%. For: ESPN model 82% vs market 74%; last-5 scoring margin: POR +6.0, GS -10.2. Capped at 2★: NBA capped by lessons.",
   "risks": [],
+  "side": "home",
   "slug": "nba",
   "sport": "nba",
-  "stars": 1,
+  "stars": 2,
   "start": "2026-11-28T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Moda Center, Portland"
  },
  "nba-401910046": {
@@ -1660,7 +2066,7 @@
   "stars": 1,
   "start": "2026-11-28T22:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Capital One Arena, Washington"
  },
  "nba-401910047": {
@@ -1695,7 +2101,7 @@
   "stars": 1,
   "start": "2026-11-28T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Spectrum Center, Charlotte"
  },
  "nba-401910048": {
@@ -1730,7 +2136,7 @@
   "stars": 1,
   "start": "2026-11-29T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "United Center, Chicago"
  },
  "nba-401910049": {
@@ -1765,7 +2171,7 @@
   "stars": 1,
   "start": "2026-11-29T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Fiserv Forum, Milwaukee"
  },
  "nba-401910050": {
@@ -1800,8 +2206,288 @@
   "stars": 1,
   "start": "2026-11-29T01:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Toyota Center (Houston), Houston"
+ },
+ "nba-401910051": {
+  "away": {
+   "abbr": "LAL",
+   "name": "Los Angeles Lakers",
+   "record": "15-3",
+   "short": "Lakers",
+   "teamId": "13"
+  },
+  "espnId": "401910051",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "MEM",
+   "name": "Memphis Grizzlies",
+   "record": "14-5",
+   "short": "Grizzlies",
+   "teamId": "29"
+  },
+  "id": "nba-401910051",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401910051",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-29T21:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "FedExForum, Memphis"
+ },
+ "nba-401910052": {
+  "away": {
+   "abbr": "BOS",
+   "name": "Boston Celtics",
+   "record": "12-6",
+   "short": "Celtics",
+   "teamId": "2"
+  },
+  "espnId": "401910052",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "SA",
+   "name": "San Antonio Spurs",
+   "record": "15-4",
+   "short": "Spurs",
+   "teamId": "24"
+  },
+  "id": "nba-401910052",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401910052",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-29T21:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "Frost Bank Center, San Antonio"
+ },
+ "nba-401910053": {
+  "away": {
+   "abbr": "PHX",
+   "name": "Phoenix Suns",
+   "record": "9-8",
+   "short": "Suns",
+   "teamId": "21"
+  },
+  "espnId": "401910053",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "UTAH",
+   "name": "Utah Jazz",
+   "record": "3-16",
+   "short": "Jazz",
+   "teamId": "26"
+  },
+  "id": "nba-401910053",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401910053",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-29T22:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "Delta Center, Salt Lake City"
+ },
+ "nba-401910054": {
+  "away": {
+   "abbr": "MIA",
+   "name": "Miami Heat",
+   "record": "10-7",
+   "short": "Heat",
+   "teamId": "14"
+  },
+  "espnId": "401910054",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "CLE",
+   "name": "Cleveland Cavaliers",
+   "record": "9-10",
+   "short": "Cavaliers",
+   "teamId": "5"
+  },
+  "id": "nba-401910054",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401910054",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-29T20:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "Rocket Arena, Cleveland"
+ },
+ "nba-401910055": {
+  "away": {
+   "abbr": "ORL",
+   "name": "Orlando Magic",
+   "record": "7-10",
+   "short": "Magic",
+   "teamId": "19"
+  },
+  "espnId": "401910055",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "DET",
+   "name": "Detroit Pistons",
+   "record": "11-6",
+   "short": "Pistons",
+   "teamId": "8"
+  },
+  "id": "nba-401910055",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401910055",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-29T23:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "Little Caesars Arena, Detroit"
+ },
+ "nba-401910056": {
+  "away": {
+   "abbr": "ATL",
+   "name": "Atlanta Hawks",
+   "record": "11-6",
+   "short": "Hawks",
+   "teamId": "1"
+  },
+  "espnId": "401910056",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "NY",
+   "name": "New York Knicks",
+   "record": "12-6",
+   "short": "Knicks",
+   "teamId": "18"
+  },
+  "id": "nba-401910056",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401910056",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-29T23:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "Madison Square Garden, New York"
+ },
+ "nba-401910057": {
+  "away": {
+   "abbr": "DEN",
+   "name": "Denver Nuggets",
+   "record": "10-6",
+   "short": "Nuggets",
+   "teamId": "7"
+  },
+  "espnId": "401910057",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "TOR",
+   "name": "Toronto Raptors",
+   "record": "6-11",
+   "short": "Raptors",
+   "teamId": "28"
+  },
+  "id": "nba-401910057",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401910057",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-29T23:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "Scotiabank Arena, Toronto"
+ },
+ "nba-401910058": {
+  "away": {
+   "abbr": "NO",
+   "name": "New Orleans Pelicans",
+   "record": "5-14",
+   "short": "Pelicans",
+   "teamId": "3"
+  },
+  "espnId": "401910058",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "POR",
+   "name": "Portland Trail Blazers",
+   "record": "12-6",
+   "short": "Trail Blazers",
+   "teamId": "22"
+  },
+  "id": "nba-401910058",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401910058",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-29T23:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "Moda Center, Portland"
  },
  "ncaaf-401856756": {
   "_lastPick": "TEX ML (-455)",
@@ -1834,9 +2520,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856756",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "-455",
@@ -1844,7 +2530,7 @@
    "mlHome": "+350",
    "mlHomeOpen": "+124",
    "provider": "Draft Kings",
-   "spread": "TEX -10.5",
+   "spread": "TEX -11.5",
    "spreadOpen": "TEX -2.5",
    "total": "40.5",
    "totalOpen": "53.5"
@@ -1858,7 +2544,7 @@
   "stars": 3,
   "start": "2026-11-28T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Kyle Field, College Station"
  },
  "ncaaf-401856757": {
@@ -1892,9 +2578,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856757",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+525",
@@ -1916,7 +2602,7 @@
   "stars": 3,
   "start": "2026-11-29T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Bryant-Denny Stadium, Tuscaloosa"
  },
  "ncaaf-401856758": {
@@ -1950,9 +2636,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856758",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "-625",
@@ -1974,7 +2660,7 @@
   "stars": 3,
   "start": "2026-11-28T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Donald W. Reynolds Razorback Stadium, Fayetteville"
  },
  "ncaaf-401856759": {
@@ -2008,9 +2694,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856759",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "-238",
@@ -2032,7 +2718,7 @@
   "stars": 2,
   "start": "2026-11-27T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Doak Campbell Stadium, Tallahassee"
  },
  "ncaaf-401856760": {
@@ -2066,9 +2752,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856760",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+2200",
@@ -2090,7 +2776,7 @@
   "stars": 2,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Sanford Stadium, Athens"
  },
  "ncaaf-401856761": {
@@ -2124,9 +2810,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856761",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "-142",
@@ -2136,7 +2822,7 @@
    "provider": "Draft Kings",
    "spread": "LOU -3",
    "spreadOpen": "UK -1.5",
-   "total": "54.5",
+   "total": "53.5",
    "totalOpen": "54.5"
   },
   "pick": "LOU ML (-142)",
@@ -2148,7 +2834,7 @@
   "stars": 2,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Kroger Field, Lexington"
  },
  "ncaaf-401856762": {
@@ -2182,9 +2868,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856762",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+675",
@@ -2206,7 +2892,7 @@
   "stars": 3,
   "start": "2026-11-27T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Vaught-Hemingway Stadium, Oxford"
  },
  "ncaaf-401856763": {
@@ -2238,9 +2924,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856763",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+102",
@@ -2263,7 +2949,7 @@
   "stars": 1,
   "start": "2026-11-28T21:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Memorial Stadium, Columbia"
  },
  "ncaaf-401856764": {
@@ -2297,9 +2983,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856764",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "-230",
@@ -2323,7 +3009,7 @@
   "stars": 2,
   "start": "2026-11-28T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Memorial Stadium (Clemson, SC), Clemson"
  },
  "ncaaf-401856765": {
@@ -2357,9 +3043,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856765",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "-550",
@@ -2381,11 +3067,11 @@
   "stars": 3,
   "start": "2026-11-29T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "FirstBank Stadium, Nashville"
  },
  "ncaaf-401856873": {
-  "_lastPick": "ARIZ ML (-325)",
+  "_lastPick": "ARIZ ML (-310)",
   "away": {
    "abbr": "ASU",
    "form": "LWWLW",
@@ -2415,31 +3101,31 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856873",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
-   "mlAway": "+260",
+   "mlAway": "+250",
    "mlAwayOpen": "+180",
-   "mlHome": "-325",
+   "mlHome": "-310",
    "mlHomeOpen": "-218",
    "provider": "Draft Kings",
-   "spread": "ARIZ -8.5",
+   "spread": "ARIZ -7.5",
    "spreadOpen": "ARIZ -4.5",
    "total": "53.5",
    "totalOpen": "52.5"
   },
-  "pick": "ARIZ ML (-325)",
-  "reason": "ARIZ are about 73% no-vig at -325; ESPN's model has 78%. For: line moved toward ARIZ (-218 → -325).",
+  "pick": "ARIZ ML (-310)",
+  "reason": "ARIZ are about 73% no-vig at -310; ESPN's model has 78%. For: ESPN model 78% vs market 73%; line moved toward ARIZ (-218 → -310).",
   "risks": [],
   "side": "home",
   "slug": "college-football",
   "sport": "ncaaf",
-  "stars": 3,
+  "stars": 4,
   "start": "2026-11-29T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Casino Del Sol Stadium, Tucson"
  },
  "ncaaf-401856874": {
@@ -2473,9 +3159,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856874",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+164",
@@ -2497,7 +3183,7 @@
   "stars": 2,
   "start": "2026-11-29T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "TDECU Stadium, Houston"
  },
  "ncaaf-401856875": {
@@ -2509,7 +3195,7 @@
    "short": "UCF",
    "teamId": "2116"
   },
-  "confidence": 48,
+  "confidence": 49,
   "espnId": "401856875",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -2529,14 +3215,14 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856875",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
-   "mlAway": "+105",
+   "mlAway": "+110",
    "mlAwayOpen": "-105",
-   "mlHome": "-125",
+   "mlHome": "-130",
    "mlHomeOpen": "-115",
    "provider": "Draft Kings",
    "spread": "COLO -2.5",
@@ -2545,16 +3231,16 @@
    "totalOpen": "50.5"
   },
   "pick": "Pass",
-  "reason": "COLO about 53% no-vig at -125; no edge worth a pick.",
+  "reason": "COLO about 54% no-vig at -130; no edge worth a pick.",
   "risks": [
-   "ESPN model only 48% vs market 53%"
+   "ESPN model only 48% vs market 54%"
   ],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-28T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Folsom Field, Boulder"
  },
  "ncaaf-401856876": {
@@ -2588,9 +3274,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856876",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+500",
@@ -2612,7 +3298,7 @@
   "stars": 3,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "LaVell Edwards Stadium, Provo"
  },
  "ncaaf-401856877": {
@@ -2646,9 +3332,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856877",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+190",
@@ -2670,7 +3356,7 @@
   "stars": 2,
   "start": "2026-11-28T23:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Boone Pickens Stadium, Stillwater"
  },
  "ncaaf-401856878": {
@@ -2702,9 +3388,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856878",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+154",
@@ -2725,11 +3411,11 @@
   "stars": 1,
   "start": "2026-11-28T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Jack Trice Stadium, Ames"
  },
  "ncaaf-401856879": {
-  "_lastPick": "TTU ML (-700)",
+  "_lastPick": "TTU ML (-625)",
   "away": {
    "abbr": "TCU",
    "form": "LWLWL",
@@ -2759,23 +3445,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856879",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
-   "mlAway": "+500",
+   "mlAway": "+455",
    "mlAwayOpen": "+575",
-   "mlHome": "-700",
+   "mlHome": "-625",
    "mlHomeOpen": "-850",
    "provider": "Draft Kings",
-   "spread": "TTU -15.5",
+   "spread": "TTU -14",
    "spreadOpen": "TTU -16.5",
    "total": "46.5",
    "totalOpen": "55.5"
   },
-  "pick": "TTU ML (-700)",
-  "reason": "TTU are about 84% no-vig at -700; ESPN's model has 82%.",
+  "pick": "TTU ML (-625)",
+  "reason": "TTU are about 83% no-vig at -625; ESPN's model has 82%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -2783,7 +3469,7 @@
   "stars": 2,
   "start": "2026-11-27T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Galaxy Stadium, Lubbock"
  },
  "ncaaf-401856880": {
@@ -2817,9 +3503,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856880",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+1300",
@@ -2841,7 +3527,7 @@
   "stars": 2,
   "start": "2026-11-28T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Rice-Eccles Stadium, Salt Lake City"
  },
  "ncaaf-401858311": {
@@ -2875,9 +3561,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858311",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+1300",
@@ -2885,7 +3571,7 @@
    "mlHome": "-2800",
    "mlHomeOpen": "-3600",
    "provider": "Draft Kings",
-   "spread": "MIA -25.5",
+   "spread": "MIA -24.5",
    "spreadOpen": "MIA -26.5",
    "total": "53.5",
    "totalOpen": "53.5"
@@ -2899,7 +3585,7 @@
   "stars": 2,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Hard Rock Stadium, Miami Gardens"
  },
  "ncaaf-401858312": {
@@ -2933,9 +3619,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858312",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+470",
@@ -2959,7 +3645,7 @@
   "stars": 2,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Allegacy Federal Credit Union Stadium, Winston-Salem"
  },
  "ncaaf-401858313": {
@@ -2993,9 +3679,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858313",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+185",
@@ -3017,7 +3703,7 @@
   "stars": 4,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Kenan Stadium, Chapel Hill"
  },
  "ncaaf-401858314": {
@@ -3051,9 +3737,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858314",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "-2800",
@@ -3063,7 +3749,7 @@
    "provider": "Draft Kings",
    "spread": "ND -25.5",
    "spreadOpen": "ND -21",
-   "total": "52.5",
+   "total": "53.5",
    "totalOpen": "54.5"
   },
   "pick": "ND ML (-2800)",
@@ -3075,7 +3761,7 @@
   "stars": 2,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "JMA Wireless Dome, Syracuse"
  },
  "ncaaf-401858315": {
@@ -3109,9 +3795,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858315",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "-355",
@@ -3133,11 +3819,11 @@
   "stars": 3,
   "start": "2026-11-29T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "California Memorial Stadium, Berkeley"
  },
  "ncaaf-401858316": {
-  "_lastPick": "SMU ML (-298)",
+  "_lastPick": "SMU ML (-285)",
   "away": {
    "abbr": "SMU",
    "form": "LLWLW",
@@ -3146,7 +3832,7 @@
    "short": "SMU",
    "teamId": "2567"
   },
-  "confidence": 71,
+  "confidence": 70,
   "espnId": "401858316",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -3167,23 +3853,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858316",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
-   "mlAway": "-298",
+   "mlAway": "-285",
    "mlAwayOpen": "-340",
-   "mlHome": "+240",
+   "mlHome": "+230",
    "mlHomeOpen": "+270",
    "provider": "Draft Kings",
-   "spread": "SMU -7.5",
+   "spread": "SMU -7",
    "spreadOpen": "SMU -10",
    "total": "61.5",
    "totalOpen": "60.5"
   },
-  "pick": "SMU ML (-298)",
-  "reason": "SMU are about 72% no-vig at -298; ESPN's model has 79%. For: ESPN model 79% vs market 72%.",
+  "pick": "SMU ML (-285)",
+  "reason": "SMU are about 71% no-vig at -285; ESPN's model has 79%. For: ESPN model 79% vs market 71%.",
   "risks": [
    "opponent in better form (WWLWW)"
   ],
@@ -3193,7 +3879,7 @@
   "stars": 3,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Stanford Stadium, Stanford"
  },
  "ncaaf-401858317": {
@@ -3225,9 +3911,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858317",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+130",
@@ -3250,11 +3936,11 @@
   "stars": 1,
   "start": "2026-11-28T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Lane Stadium, Blacksburg"
  },
  "ncaaf-401858536": {
-  "_lastPick": "IOWA ML (-205)",
+  "_lastPick": "IOWA ML (-198)",
   "away": {
    "abbr": "NEB",
    "form": "WWLLL",
@@ -3284,23 +3970,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858536",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
-   "mlAway": "+170",
+   "mlAway": "+164",
    "mlAwayOpen": "+190",
-   "mlHome": "-205",
+   "mlHome": "-198",
    "mlHomeOpen": "-230",
    "provider": "Draft Kings",
-   "spread": "IOWA -4.5",
+   "spread": "IOWA -3.5",
    "spreadOpen": "IOWA -6.5",
    "total": "40.5",
    "totalOpen": "38.5"
   },
-  "pick": "IOWA ML (-205)",
-  "reason": "IOWA are about 64% no-vig at -205; ESPN's model has 58%.",
+  "pick": "IOWA ML (-198)",
+  "reason": "IOWA are about 64% no-vig at -198; ESPN's model has 58%.",
   "risks": [
    "ESPN model only 58% vs market 64%"
   ],
@@ -3310,7 +3996,7 @@
   "stars": 2,
   "start": "2026-11-27T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Kinnick Stadium, Iowa City"
  },
  "ncaaf-401858537": {
@@ -3344,9 +4030,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858537",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+120",
@@ -3370,7 +4056,7 @@
   "stars": 2,
   "start": "2026-11-28T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Ryan Field, Evanston"
  },
  "ncaaf-401858538": {
@@ -3404,9 +4090,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858538",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+1100",
@@ -3428,7 +4114,7 @@
   "stars": 2,
   "start": "2026-11-29T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Memorial Stadium (Bloomington, IN), Bloomington"
  },
  "ncaaf-401858539": {
@@ -3462,9 +4148,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858539",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "-278",
@@ -3486,7 +4172,7 @@
   "stars": 3,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "SECU Stadium, College Park"
  },
  "ncaaf-401858540": {
@@ -3520,9 +4206,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858540",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+330",
@@ -3530,7 +4216,7 @@
    "mlHome": "-425",
    "mlHomeOpen": "-535",
    "provider": "Draft Kings",
-   "spread": "OSU -10.5",
+   "spread": "OSU -10",
    "spreadOpen": "OSU -14",
    "total": "37.5",
    "totalOpen": "46.5"
@@ -3544,7 +4230,7 @@
   "stars": 3,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Ohio Stadium, Columbus"
  },
  "ncaaf-401858541": {
@@ -3578,9 +4264,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858541",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+455",
@@ -3588,7 +4274,7 @@
    "mlHome": "-625",
    "mlHomeOpen": "-625",
    "provider": "Draft Kings",
-   "spread": "ORE -14",
+   "spread": "ORE -13.5",
    "spreadOpen": "ORE -15.5",
    "total": "50.5",
    "totalOpen": "54.5"
@@ -3602,7 +4288,7 @@
   "stars": 2,
   "start": "2026-11-29T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Autzen Stadium, Eugene"
  },
  "ncaaf-401858542": {
@@ -3614,7 +4300,7 @@
    "short": "Michigan St",
    "teamId": "127"
   },
-  "confidence": 56,
+  "confidence": 55,
   "espnId": "401858542",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -3634,14 +4320,14 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858542",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
-   "mlAway": "-155",
+   "mlAway": "-148",
    "mlAwayOpen": "-142",
-   "mlHome": "+130",
+   "mlHome": "+124",
    "mlHomeOpen": "+120",
    "provider": "Draft Kings",
    "spread": "MSU -3",
@@ -3650,14 +4336,14 @@
    "totalOpen": "48.5"
   },
   "pick": "Pass",
-  "reason": "MSU about 58% no-vig at -155; no edge worth a pick.",
+  "reason": "MSU about 57% no-vig at -148; no edge worth a pick.",
   "risks": [],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-28T21:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "SHI Stadium, Piscataway"
  },
  "ncaaf-401858543": {
@@ -3689,9 +4375,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858543",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "-250",
@@ -3715,7 +4401,7 @@
   "stars": 1,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Rose Bowl, Pasadena"
  },
  "ncaaf-401858544": {
@@ -3749,9 +4435,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858544",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+245",
@@ -3759,7 +4445,7 @@
    "mlHome": "-305",
    "mlHomeOpen": "-218",
    "provider": "Draft Kings",
-   "spread": "WIS -8.5",
+   "spread": "WIS -7.5",
    "spreadOpen": "WIS -6",
    "total": "37.5",
    "totalOpen": "38.5"
@@ -3773,7 +4459,7 @@
   "stars": 4,
   "start": "2026-11-28T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Camp Randall Stadium, Madison"
  },
  "ncaaf-401860926": {
@@ -3807,9 +4493,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401860926",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "-1800",
@@ -3831,7 +4517,7 @@
   "stars": 2,
   "start": "2026-11-28T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Canvas Stadium, Fort Collins"
  },
  "ncaaf-401860927": {
@@ -3863,9 +4549,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401860927",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+130",
@@ -3888,7 +4574,7 @@
   "stars": 1,
   "start": "2026-11-29T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Valley Children's Stadium, Fresno"
  },
  "ncaaf-401860928": {
@@ -3922,9 +4608,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401860928",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "-270",
@@ -3946,7 +4632,7 @@
   "stars": 2,
   "start": "2026-11-29T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Maverik Stadium, Logan"
  },
  "ncaaf-401860929": {
@@ -3978,9 +4664,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401860929",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+120",
@@ -4003,7 +4689,7 @@
   "stars": 1,
   "start": "2026-11-28T23:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Martin Stadium, Pullman"
  },
  "ncaaf-401861969": {
@@ -4035,9 +4721,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401861969",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "-155",
@@ -4058,7 +4744,7 @@
   "stars": 1,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "War Memorial Stadium, Laramie"
  },
  "ncaaf-401862837": {
@@ -4090,9 +4776,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401862837",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "-102",
@@ -4113,7 +4799,7 @@
   "stars": 1,
   "start": "2026-11-28T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Dowdy-Ficklen Stadium, Greenville"
  },
  "ncaaf-401862838": {
@@ -4147,9 +4833,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862838",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+650",
@@ -4171,7 +4857,7 @@
   "stars": 3,
   "start": "2026-11-27T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Simmons Bank Liberty Stadium, Memphis"
  },
  "ncaaf-401862839": {
@@ -4205,9 +4891,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862839",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+195",
@@ -4231,7 +4917,7 @@
   "stars": 2,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Raymond James Stadium, Tampa"
  },
  "ncaaf-401862840": {
@@ -4243,7 +4929,7 @@
    "short": "Tulsa",
    "teamId": "202"
   },
-  "confidence": 47,
+  "confidence": 49,
   "espnId": "401862840",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -4263,30 +4949,30 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401862840",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
-   "mlAway": "-105",
+   "mlAway": "-122",
    "mlAwayOpen": "+110",
-   "mlHome": "-115",
+   "mlHome": "+102",
    "mlHomeOpen": "-130",
    "provider": "Draft Kings",
-   "spread": "UTSA -1.5",
+   "spread": "TLSA -1.5",
    "spreadOpen": "UTSA -2.5",
    "total": "57.5",
    "totalOpen": "58.5"
   },
   "pick": "Pass",
-  "reason": "UTSA about 51% no-vig at -115; no edge worth a pick.",
+  "reason": "TLSA about 53% no-vig at -122; no edge worth a pick.",
   "risks": [],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-27T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Alamodome, San Antonio"
  },
  "ncaaf-401862841": {
@@ -4320,9 +5006,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862841",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "-205",
@@ -4330,7 +5016,7 @@
    "mlHome": "+170",
    "mlHomeOpen": "+240",
    "provider": "Draft Kings",
-   "spread": "ARMY -6",
+   "spread": "ARMY -5.5",
    "spreadOpen": "ARMY -7.5",
    "total": "47.5",
    "totalOpen": "50.5"
@@ -4346,7 +5032,7 @@
   "stars": 2,
   "start": "2026-11-28T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "First Community Stadium, Houston"
  },
  "ncaaf-401862842": {
@@ -4380,9 +5066,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862842",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "-850",
@@ -4404,7 +5090,7 @@
   "stars": 2,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Jerry Richardson Stadium, Charlotte"
  },
  "ncaaf-401862843": {
@@ -4438,9 +5124,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862843",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+130",
@@ -4462,7 +5148,7 @@
   "stars": 3,
   "start": "2026-11-28T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "DATCU Stadium, Denton"
  },
  "ncaaf-401864546": {
@@ -4496,9 +5182,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864546",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+210",
@@ -4520,7 +5206,7 @@
   "stars": 2,
   "start": "2026-11-27T21:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "University Stadium (NM), Albuquerque"
  },
  "ncaaf-401864547": {
@@ -4554,9 +5240,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864547",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+425",
@@ -4578,7 +5264,7 @@
   "stars": 3,
   "start": "2026-11-29T04:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Clarence T.C. Ching Athletics Complex, Honolulu"
  },
  "ncaaf-401864548": {
@@ -4612,9 +5298,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864548",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+185",
@@ -4636,7 +5322,7 @@
   "stars": 2,
   "start": "2026-11-29T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Allegiant Stadium, Las Vegas"
  },
  "ncaaf-401864549": {
@@ -4670,9 +5356,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864549",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "-345",
@@ -4680,9 +5366,9 @@
    "mlHome": "+275",
    "mlHomeOpen": "+410",
    "provider": "Draft Kings",
-   "spread": "NDSU -7.5",
+   "spread": "NDSU -8.5",
    "spreadOpen": "NDSU -11.5",
-   "total": "40.5",
+   "total": "39.5",
    "totalOpen": "39.5"
   },
   "pick": "NDSU ML (-345)",
@@ -4696,7 +5382,7 @@
   "stars": 3,
   "start": "2026-11-27T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "CEFCU Stadium, San Jose"
  },
  "ncaaf-401864550": {
@@ -4730,9 +5416,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864550",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+160",
@@ -4740,7 +5426,7 @@
    "mlHome": "-192",
    "mlHomeOpen": "-185",
    "provider": "Draft Kings",
-   "spread": "NIU -4",
+   "spread": "NIU -4.5",
    "spreadOpen": "NIU -4.5",
    "total": "50.5",
    "totalOpen": "49.5"
@@ -4754,7 +5440,7 @@
   "stars": 2,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Huskie Stadium, Dekalb"
  },
  "ncaaf-401866472": {
@@ -4788,9 +5474,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401866472",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "-305",
@@ -4800,7 +5486,7 @@
    "provider": "Draft Kings",
    "spread": "BUF -7.5",
    "spreadOpen": "BUFF -10",
-   "total": "47.5",
+   "total": "48.5",
    "totalOpen": "49.5"
   },
   "pick": "BUFF ML (-305)",
@@ -4812,7 +5498,7 @@
   "stars": 4,
   "start": "2026-11-27T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "InfoCision Stadium, Akron"
  },
  "ncaaf-401866473": {
@@ -4844,9 +5530,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401866473",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "-155",
@@ -4867,7 +5553,7 @@
   "stars": 1,
   "start": "2026-11-27T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Peden Stadium, Athens"
  },
  "ncaaf-401866474": {
@@ -4901,9 +5587,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401866474",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "-192",
@@ -4925,7 +5611,7 @@
   "stars": 2,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Scheumann Stadium, Muncie"
  },
  "ncaaf-401866475": {
@@ -4957,9 +5643,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401866475",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+136",
@@ -4982,7 +5668,7 @@
   "stars": 1,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Doyt L. Perry Stadium, Bowling Green"
  },
  "ncaaf-401869930": {
@@ -5016,9 +5702,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869930",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+140",
@@ -5040,7 +5726,7 @@
   "stars": 2,
   "start": "2026-11-27T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Hancock Whitney Stadium, Mobile"
  },
  "ncaaf-401869939": {
@@ -5074,9 +5760,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869939",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+154",
@@ -5098,7 +5784,7 @@
   "stars": 2,
   "start": "2026-11-28T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Centennial Bank Stadium, Jonesboro"
  },
  "ncaaf-401869947": {
@@ -5132,9 +5818,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869947",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+575",
@@ -5156,7 +5842,7 @@
   "stars": 2,
   "start": "2026-11-28T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Bridgeforth Stadium, Harrisonburg"
  },
  "ncaaf-401869954": {
@@ -5188,9 +5874,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401869954",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+114",
@@ -5200,7 +5886,7 @@
    "provider": "Draft Kings",
    "spread": "GASO -2.5",
    "spreadOpen": "GASO -1.5",
-   "total": "54.5",
+   "total": "53.5",
    "totalOpen": "50.5"
   },
   "pick": "Pass",
@@ -5211,7 +5897,7 @@
   "stars": 1,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Allen E. Paulson Stadium, Statesboro"
  },
  "ncaaf-401869959": {
@@ -5245,9 +5931,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869959",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "-205",
@@ -5269,7 +5955,7 @@
   "stars": 2,
   "start": "2026-11-28T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Center Parc Stadium, Atlanta"
  },
  "ncaaf-401870804": {
@@ -5301,9 +5987,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401870804",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "-170",
@@ -5313,7 +5999,7 @@
    "provider": "Draft Kings",
    "spread": "KENN -3.5",
    "spreadOpen": "KENN -1.5",
-   "total": "53.5",
+   "total": "54.5",
    "totalOpen": "53.5"
   },
   "pick": "Pass",
@@ -5324,7 +6010,7 @@
   "stars": 1,
   "start": "2026-11-28T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Houchens Industries-L.T. Smith Stadium, Bowling Green"
  },
  "ncaaf-401871062": {
@@ -5356,9 +6042,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401871062",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+120",
@@ -5379,11 +6065,11 @@
   "stars": 1,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Delaware Stadium, Newark"
  },
  "ncaaf-401871063": {
-  "_lastPick": "LIB ML (-900)",
+  "_lastPick": "LIB ML (-950)",
   "away": {
    "abbr": "LIB",
    "form": "WWWWW",
@@ -5413,23 +6099,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871063",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
-   "mlAway": "-900",
+   "mlAway": "-950",
    "mlAwayOpen": "-575",
-   "mlHome": "+600",
+   "mlHome": "+625",
    "mlHomeOpen": "+425",
    "provider": "Draft Kings",
    "spread": "LIB -17.5",
    "spreadOpen": "LIB -14.5",
-   "total": "53.5",
+   "total": "52.5",
    "totalOpen": "51.5"
   },
-  "pick": "LIB ML (-900)",
-  "reason": "LIB are about 86% no-vig at -900; ESPN's model has 90%. For: line moved toward LIB (-575 → -900); form WWWWW vs LWLWL.",
+  "pick": "LIB ML (-950)",
+  "reason": "LIB are about 87% no-vig at -950; ESPN's model has 90%. For: line moved toward LIB (-575 → -950); form WWWWW vs LWLWL.",
   "risks": [],
   "side": "away",
   "slug": "college-football",
@@ -5437,7 +6123,7 @@
   "stars": 3,
   "start": "2026-11-28T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Robert W. Plaster Stadium, Springfield"
  },
  "ncaaf-401871082": {
@@ -5471,9 +6157,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871082",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+350",
@@ -5495,7 +6181,7 @@
   "stars": 2,
   "start": "2026-11-28T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Pitbull Stadium, Miami"
  },
  "ncaaf-401871083": {
@@ -5529,9 +6215,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871083",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+136",
@@ -5553,7 +6239,7 @@
   "stars": 2,
   "start": "2026-11-28T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Johnny \"Red\" Floyd Stadium, Murfreesboro"
  },
  "ncaaf-401871102": {
@@ -5587,9 +6273,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871102",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "-205",
@@ -5611,7 +6297,7 @@
   "stars": 2,
   "start": "2026-11-28T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Malone Stadium, Monroe"
  },
  "ncaaf-401871103": {
@@ -5645,9 +6331,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871103",
   "market": "Moneyline",
   "news": [
-   "The oldest grudge in football",
-   "Take a 360-degree look at college football's iconic rivalry trophies",
-   "USC band won't perform at UCLA football game after members vandalized campus"
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
+   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
   ],
   "odds": {
    "mlAway": "+190",
@@ -5669,7 +6355,7 @@
   "stars": 2,
   "start": "2026-11-28T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "S.B. Ballard Stadium, Norfolk"
  },
  "nfl-401873079": {
@@ -5912,7 +6598,7 @@
   "sport": "nfl",
   "stars": 3,
   "start": "2026-11-26T21:30Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-26T14:16:59Z",
   "venue": "AT&T Stadium, Arlington"
  },
@@ -5926,7 +6612,7 @@
     "Elijah Hicks (S) – Out, Concussion"
    ],
    "name": "Chicago Bears",
-   "record": "8-2",
+   "record": "9-2",
    "short": "Bears",
    "teamId": "3"
   },
@@ -5947,7 +6633,7 @@
     "Cade Mays (C) – Injured Reserve, Ankle"
    ],
    "name": "Detroit Lions",
-   "record": "8-2",
+   "record": "8-3",
    "short": "Lions",
    "teamId": "8"
   },
@@ -6027,7 +6713,7 @@
   "sport": "nfl",
   "stars": 1,
   "start": "2026-11-26T18:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-26T14:16:59Z",
   "venue": "Ford Field, Detroit"
  },
@@ -6092,14 +6778,14 @@
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873082",
   "news": [
-   "Fantasy football rankings Week 12: PPR and superflex",
-   "Fantasy football rankings for Week 12: Running back",
-   "Fantasy football rankings for Week 12: Wide receiver"
+   "NFL Week 12: Highlights of Thanksgiving games",
+   "Eagles' Cooper DeJean leaves game at Cowboys because of concussion",
+   "Aaron Rodgers officially a free agent after clearing waivers"
   ],
   "odds": {
-   "mlAway": "+127",
+   "mlAway": "+129",
    "mlAwayOpen": "+114",
-   "mlHome": "-150",
+   "mlHome": "-153",
    "mlHomeOpen": "-135",
    "provider": "Draft Kings",
    "spread": "BUF -3",
@@ -6108,7 +6794,7 @@
    "totalOpen": "49.5"
   },
   "pick": "Pass",
-  "reason": "BUF about 58% no-vig at -150; no edge worth a pick.",
+  "reason": "BUF about 58% no-vig at -153; no edge worth a pick.",
   "risks": [
    "ESPN model only 53% vs market 58%"
   ],
@@ -6117,7 +6803,7 @@
   "stars": 1,
   "start": "2026-11-27T01:20Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Highmark Stadium, Orchard Park"
  },
  "nfl-401873083": {
@@ -6125,17 +6811,17 @@
    "abbr": "DEN",
    "form": "WWWWW",
    "injuries": [
+    "Tyler Badie (RB) – Injured Reserve, Thumb",
     "Sai'vion Jones (DE) – Out, Hamstring",
     "Taylor Rapp (S) – Out, Quadriceps",
-    "Jonah Elliss (LB) – Injured Reserve, Ankle",
-    "Tyler Badie (RB) – Injured Reserve, Thumb"
+    "Jonah Elliss (LB) – Injured Reserve, Ankle"
    ],
    "name": "Denver Broncos",
    "record": "8-2",
    "short": "Broncos",
    "teamId": "7"
   },
-  "confidence": 56,
+  "confidence": 57,
   "espnId": "401873083",
   "espnLeague": "nfl",
   "espnSport": "football",
@@ -6147,8 +6833,10 @@
    "abbr": "PIT",
    "form": "LLWWW",
    "injuries": [
-    "Michael Pittman Jr. (WR) – Injured Reserve, Foot",
-    "Gennings Dunker (G) – Injured Reserve, Knee"
+    "Alex Highsmith (LB) – Out, Ankle",
+    "Ben Skowronek (WR) – Injured Reserve, Calf",
+    "Gennings Dunker (G) – Injured Reserve, Knee",
+    "Mason McCormick (G) – Injured Reserve, Ankle"
    ],
    "name": "Pittsburgh Steelers",
    "record": "6-4",
@@ -6158,6 +6846,13 @@
   "id": "nfl-401873083",
   "injuriesRaw": {
    "away": [
+    {
+     "detail": "Thumb",
+     "player": "Tyler Badie",
+     "pos": "RB",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
     {
      "detail": "Hamstring",
      "player": "Sai'vion Jones",
@@ -6178,19 +6873,19 @@
      "pos": "LB",
      "stale": false,
      "status": "Injured Reserve"
-    },
-    {
-     "detail": "Thumb",
-     "player": "Tyler Badie",
-     "pos": "RB",
-     "stale": false,
-     "status": "Injured Reserve"
     }
    ],
    "home": [
     {
-     "detail": "Foot",
-     "player": "Michael Pittman Jr.",
+     "detail": "Ankle",
+     "player": "Alex Highsmith",
+     "pos": "LB",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Calf",
+     "player": "Ben Skowronek",
      "pos": "WR",
      "stale": false,
      "status": "Injured Reserve"
@@ -6201,20 +6896,27 @@
      "pos": "G",
      "stale": false,
      "status": "Injured Reserve"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Mason McCormick",
+     "pos": "G",
+     "stale": false,
+     "status": "Injured Reserve"
     }
    ]
   },
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873083",
   "news": [
-   "Fantasy football rankings Week 12: PPR and superflex",
-   "Fantasy football rankings for Week 12: Running back",
-   "Fantasy football rankings for Week 12: Wide receiver"
+   "NFL Week 12: Highlights of Thanksgiving games",
+   "Eagles' Cooper DeJean leaves game at Cowboys because of concussion",
+   "Aaron Rodgers officially a free agent after clearing waivers"
   ],
   "odds": {
-   "mlAway": "-229",
+   "mlAway": "-254",
    "mlAwayOpen": "-118",
-   "mlHome": "+190",
+   "mlHome": "+209",
    "mlHomeOpen": "-102",
    "provider": "Draft Kings",
    "spread": "DEN -4.5",
@@ -6223,17 +6925,825 @@
    "totalOpen": "41.5"
   },
   "pick": "Pass",
-  "reason": "DEN about 67% no-vig at -229; no edge worth a pick.",
+  "reason": "DEN about 69% no-vig at -254; no edge worth a pick.",
   "risks": [
-   "ESPN model only 48% vs market 67%"
+   "ESPN model only 48% vs market 69%"
   ],
   "slug": "nfl",
   "sport": "nfl",
   "stars": 1,
   "start": "2026-11-27T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Acrisure Stadium, Pittsburgh"
+ },
+ "nfl-401873084": {
+  "_lastPick": "MIN ML (-310)",
+  "away": {
+   "abbr": "ATL",
+   "form": "LLLWL",
+   "injuries": [],
+   "name": "Atlanta Falcons",
+   "record": "3-7",
+   "short": "Falcons",
+   "teamId": "1"
+  },
+  "confidence": 73,
+  "espnId": "401873084",
+  "espnLeague": "nfl",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 19.0,
+   "home": 80.8
+  },
+  "home": {
+   "abbr": "MIN",
+   "form": "LWLLW",
+   "injuries": [
+    "Jordan Addison (WR) – Doubtful, Thumb"
+   ],
+   "name": "Minnesota Vikings",
+   "record": "7-3",
+   "short": "Vikings",
+   "teamId": "16"
+  },
+  "id": "nfl-401873084",
+  "injuriesRaw": {
+   "away": [],
+   "home": [
+    {
+     "detail": "Thumb",
+     "player": "Jordan Addison",
+     "pos": "WR",
+     "stale": false,
+     "status": "Doubtful"
+    }
+   ]
+  },
+  "league": "NFL",
+  "link": "https://www.espn.com/nfl/game/_/gameId/401873084",
+  "market": "Moneyline",
+  "news": [
+   "NFL Week 12: Highlights of Thanksgiving games",
+   "Eagles' Cooper DeJean leaves game at Cowboys because of concussion",
+   "Aaron Rodgers officially a free agent after clearing waivers"
+  ],
+  "odds": {
+   "mlAway": "+252",
+   "mlAwayOpen": "+180",
+   "mlHome": "-310",
+   "mlHomeOpen": "-218",
+   "provider": "Draft Kings",
+   "spread": "MIN -7",
+   "spreadOpen": "MIN -4.5",
+   "total": "41.5",
+   "totalOpen": "43.5"
+  },
+  "pick": "MIN ML (-310)",
+  "reason": "MIN are about 73% no-vig at -310; ESPN's model has 81%. For: ESPN model 81% vs market 73%; line moved toward MIN (-218 → -310).",
+  "risks": [],
+  "side": "home",
+  "slug": "nfl",
+  "sport": "nfl",
+  "stars": 4,
+  "start": "2026-11-29T18:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "U.S. Bank Stadium, Minneapolis"
+ },
+ "nfl-401873085": {
+  "_lastPick": "HOU ML (-332)",
+  "away": {
+   "abbr": "BAL",
+   "form": "LLLLL",
+   "name": "Baltimore Ravens",
+   "record": "4-7",
+   "short": "Ravens",
+   "teamId": "33"
+  },
+  "confidence": 76,
+  "espnId": "401873085",
+  "espnLeague": "nfl",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 16.6,
+   "home": 83.2
+  },
+  "home": {
+   "abbr": "HOU",
+   "form": "WLWLW",
+   "name": "Houston Texans",
+   "record": "4-6",
+   "short": "Texans",
+   "teamId": "34"
+  },
+  "id": "nfl-401873085",
+  "league": "NFL",
+  "link": "https://www.espn.com/nfl/game/_/gameId/401873085",
+  "market": "Moneyline",
+  "news": [
+   "NFL Week 12: Highlights of Thanksgiving games",
+   "Eagles' Cooper DeJean leaves game at Cowboys because of concussion",
+   "Aaron Rodgers officially a free agent after clearing waivers"
+  ],
+  "odds": {
+   "mlAway": "+267",
+   "mlAwayOpen": "-102",
+   "mlHome": "-332",
+   "mlHomeOpen": "-118",
+   "provider": "Draft Kings",
+   "spread": "HOU -6.5",
+   "spreadOpen": "HOU -1.5",
+   "total": "47.5",
+   "totalOpen": "45.5"
+  },
+  "pick": "HOU ML (-332)",
+  "reason": "HOU are about 74% no-vig at -332; ESPN's model has 83%. For: ESPN model 83% vs market 74%; line moved toward HOU (-118 → -332); form WLWLW vs LLLLL.",
+  "risks": [],
+  "side": "home",
+  "slug": "nfl",
+  "sport": "nfl",
+  "stars": 5,
+  "start": "2026-11-29T18:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "Reliant Stadium, Houston"
+ },
+ "nfl-401873087": {
+  "_lastPick": "CIN ML (-562)",
+  "away": {
+   "abbr": "NO",
+   "form": "LLWLW",
+   "injuries": [],
+   "name": "New Orleans Saints",
+   "record": "3-7",
+   "short": "Saints",
+   "teamId": "18"
+  },
+  "confidence": 78,
+  "espnId": "401873087",
+  "espnLeague": "nfl",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 19.1,
+   "home": 80.8
+  },
+  "home": {
+   "abbr": "CIN",
+   "form": "LWWWW",
+   "injuries": [
+    "Jalen Davis (CB) – Injured Reserve, Hamstring",
+    "Andrei Iosivas (WR) – Injured Reserve, Thumb",
+    "Oren Burks (LB) – Injured Reserve, Groin"
+   ],
+   "name": "Cincinnati Bengals",
+   "record": "7-3",
+   "short": "Bengals",
+   "teamId": "4"
+  },
+  "id": "nfl-401873087",
+  "injuriesRaw": {
+   "away": [],
+   "home": [
+    {
+     "detail": "Hamstring",
+     "player": "Jalen Davis",
+     "pos": "CB",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Thumb",
+     "player": "Andrei Iosivas",
+     "pos": "WR",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Groin",
+     "player": "Oren Burks",
+     "pos": "LB",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Wrist",
+     "player": "Cashius Howell",
+     "pos": "DE",
+     "stale": true,
+     "status": "Injured Reserve"
+    }
+   ]
+  },
+  "league": "NFL",
+  "link": "https://www.espn.com/nfl/game/_/gameId/401873087",
+  "market": "Moneyline",
+  "news": [
+   "NFL Week 12: Highlights of Thanksgiving games",
+   "Eagles' Cooper DeJean leaves game at Cowboys because of concussion",
+   "Aaron Rodgers officially a free agent after clearing waivers"
+  ],
+  "odds": {
+   "mlAway": "+423",
+   "mlAwayOpen": "+235",
+   "mlHome": "-562",
+   "mlHomeOpen": "-290",
+   "provider": "Draft Kings",
+   "spread": "CIN -10",
+   "spreadOpen": "CIN -6.5",
+   "total": "49.5",
+   "totalOpen": "48.5"
+  },
+  "pick": "CIN ML (-562)",
+  "reason": "CIN are about 82% no-vig at -562; ESPN's model has 81%. For: line moved toward CIN (-290 → -562).",
+  "risks": [],
+  "side": "home",
+  "slug": "nfl",
+  "sport": "nfl",
+  "stars": 3,
+  "start": "2026-11-29T18:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "Paycor Stadium, Cincinnati"
+ },
+ "nfl-401873088": {
+  "_lastPick": "NYG ML (-286)",
+  "away": {
+   "abbr": "NYG",
+   "form": "WLWWL",
+   "injuries": [],
+   "name": "New York Giants",
+   "record": "6-3-1",
+   "short": "Giants",
+   "teamId": "19"
+  },
+  "confidence": 58,
+  "espnId": "401873088",
+  "espnLeague": "nfl",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 46.4,
+   "home": 53.2
+  },
+  "home": {
+   "abbr": "IND",
+   "form": "LWLLL",
+   "injuries": [
+    "Caden Curry (LB) – Injured Reserve, Wrist",
+    "Cam Taylor-Britt (CB) – Injured Reserve, Groin",
+    "Alec Pierce (WR) – Injured Reserve, Heel"
+   ],
+   "name": "Indianapolis Colts",
+   "record": "3-8",
+   "short": "Colts",
+   "teamId": "11"
+  },
+  "id": "nfl-401873088",
+  "injuriesRaw": {
+   "away": [],
+   "home": [
+    {
+     "detail": "Wrist",
+     "player": "Caden Curry",
+     "pos": "LB",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Groin",
+     "player": "Cam Taylor-Britt",
+     "pos": "CB",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Heel",
+     "player": "Alec Pierce",
+     "pos": "WR",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ]
+  },
+  "league": "NFL",
+  "link": "https://www.espn.com/nfl/game/_/gameId/401873088",
+  "market": "Moneyline",
+  "news": [
+   "NFL Week 12: Highlights of Thanksgiving games",
+   "Eagles' Cooper DeJean leaves game at Cowboys because of concussion",
+   "Aaron Rodgers officially a free agent after clearing waivers"
+  ],
+  "odds": {
+   "mlAway": "-286",
+   "mlAwayOpen": "+114",
+   "mlHome": "+235",
+   "mlHomeOpen": "-135",
+   "provider": "Draft Kings",
+   "spread": "NYG -6",
+   "spreadOpen": "IND -2.5",
+   "total": "41.5",
+   "totalOpen": "47.5"
+  },
+  "pick": "NYG ML (-286)",
+  "reason": "NYG are about 71% no-vig at -286; ESPN's model has 46%. For: line moved toward NYG (+114 → -286).",
+  "risks": [
+   "ESPN model only 46% vs market 71%"
+  ],
+  "side": "away",
+  "slug": "nfl",
+  "sport": "nfl",
+  "stars": 2,
+  "start": "2026-11-29T18:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "Lucas Oil Stadium, Indianapolis"
+ },
+ "nfl-401873089": {
+  "_lastPick": "NYJ ML (-241)",
+  "away": {
+   "abbr": "NYJ",
+   "form": "WLLLL",
+   "injuries": [
+    "David Onyemata (DT) – Injured Reserve, Abdomen",
+    "T'Vondre Sweat (DT) – Injured Reserve, Knee"
+   ],
+   "name": "New York Jets",
+   "record": "3-8",
+   "short": "Jets",
+   "teamId": "20"
+  },
+  "confidence": 65,
+  "espnId": "401873089",
+  "espnLeague": "nfl",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 69.3,
+   "home": 30.4
+  },
+  "home": {
+   "abbr": "MIA",
+   "form": "LLLLW",
+   "injuries": [],
+   "name": "Miami Dolphins",
+   "record": "1-9",
+   "short": "Dolphins",
+   "teamId": "15"
+  },
+  "id": "nfl-401873089",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Abdomen",
+     "player": "David Onyemata",
+     "pos": "DT",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Knee",
+     "player": "T'Vondre Sweat",
+     "pos": "DT",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ],
+   "home": []
+  },
+  "league": "NFL",
+  "link": "https://www.espn.com/nfl/game/_/gameId/401873089",
+  "market": "Moneyline",
+  "news": [
+   "NFL Week 12: Highlights of Thanksgiving games",
+   "Eagles' Cooper DeJean leaves game at Cowboys because of concussion",
+   "Aaron Rodgers officially a free agent after clearing waivers"
+  ],
+  "odds": {
+   "mlAway": "-241",
+   "mlAwayOpen": "+105",
+   "mlHome": "+200",
+   "mlHomeOpen": "-125",
+   "provider": "Draft Kings",
+   "spread": "NYJ -4.5",
+   "spreadOpen": "MIA -1.5",
+   "total": "39.5",
+   "totalOpen": "41.5"
+  },
+  "pick": "NYJ ML (-241)",
+  "reason": "NYJ are about 68% no-vig at -241; ESPN's model has 69%. For: line moved toward NYJ (+105 → -241).",
+  "risks": [],
+  "side": "away",
+  "slug": "nfl",
+  "sport": "nfl",
+  "stars": 3,
+  "start": "2026-11-29T18:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "Hard Rock Stadium, Miami Gardens"
+ },
+ "nfl-401873090": {
+  "_lastPick": "JAX ML (-1260)",
+  "away": {
+   "abbr": "TEN",
+   "form": "LLLLW",
+   "injuries": [
+    "Jaylen Harrell (LB) – Injured Reserve, Knee - ACL"
+   ],
+   "name": "Tennessee Titans",
+   "record": "1-9",
+   "short": "Titans",
+   "teamId": "10"
+  },
+  "confidence": 86,
+  "espnId": "401873090",
+  "espnLeague": "nfl",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 10.4,
+   "home": 89.5
+  },
+  "home": {
+   "abbr": "JAX",
+   "form": "LWWWL",
+   "injuries": [
+    "Patrick Mekari (G) – Injured Reserve, Back"
+   ],
+   "name": "Jacksonville Jaguars",
+   "record": "7-3",
+   "short": "Jaguars",
+   "teamId": "30"
+  },
+  "id": "nfl-401873090",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Knee - ACL",
+     "player": "Jaylen Harrell",
+     "pos": "LB",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Back",
+     "player": "Patrick Mekari",
+     "pos": "G",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ]
+  },
+  "league": "NFL",
+  "link": "https://www.espn.com/nfl/game/_/gameId/401873090",
+  "market": "Moneyline",
+  "news": [
+   "NFL Week 12: Highlights of Thanksgiving games",
+   "Eagles' Cooper DeJean leaves game at Cowboys because of concussion",
+   "Aaron Rodgers officially a free agent after clearing waivers"
+  ],
+  "odds": {
+   "mlAway": "+780",
+   "mlAwayOpen": "+210",
+   "mlHome": "-1260",
+   "mlHomeOpen": "-258",
+   "provider": "Draft Kings",
+   "spread": "JAX -14.5",
+   "spreadOpen": "JAX -5.5",
+   "total": "49.5",
+   "totalOpen": "45.5"
+  },
+  "pick": "JAX ML (-1260)",
+  "reason": "JAX are about 89% no-vig at -1260; ESPN's model has 90%. For: line moved toward JAX (-258 → -1260).",
+  "risks": [],
+  "side": "home",
+  "slug": "nfl",
+  "sport": "nfl",
+  "stars": 3,
+  "start": "2026-11-29T18:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "EverBank Stadium, Jacksonville"
+ },
+ "nfl-401873091": {
+  "_lastPick": "SF ML (-152)",
+  "away": {
+   "abbr": "SEA",
+   "form": "WWLWL",
+   "injuries": [],
+   "name": "Seattle Seahawks",
+   "record": "6-4",
+   "short": "Seahawks",
+   "teamId": "26"
+  },
+  "confidence": 59,
+  "espnId": "401873091",
+  "espnLeague": "nfl",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 31.6,
+   "home": 68.1
+  },
+  "home": {
+   "abbr": "SF",
+   "form": "WWWLW",
+   "injuries": [
+    "Austen Pleasants (OT) – Injured Reserve, Knee",
+    "Colton McKivitz (OT) – Injured Reserve, Ankle"
+   ],
+   "name": "San Francisco 49ers",
+   "record": "9-1",
+   "short": "49ers",
+   "teamId": "25"
+  },
+  "id": "nfl-401873091",
+  "injuriesRaw": {
+   "away": [],
+   "home": [
+    {
+     "detail": "Knee",
+     "player": "Austen Pleasants",
+     "pos": "OT",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Colton McKivitz",
+     "pos": "OT",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ]
+  },
+  "league": "NFL",
+  "link": "https://www.espn.com/nfl/game/_/gameId/401873091",
+  "market": "Moneyline",
+  "news": [
+   "NFL Week 12: Highlights of Thanksgiving games",
+   "Eagles' Cooper DeJean leaves game at Cowboys because of concussion",
+   "Aaron Rodgers officially a free agent after clearing waivers"
+  ],
+  "odds": {
+   "mlAway": "+129",
+   "mlAwayOpen": "-108",
+   "mlHome": "-152",
+   "mlHomeOpen": "-112",
+   "provider": "Draft Kings",
+   "spread": "SF -3",
+   "spreadOpen": "SF -1.5",
+   "total": "43.5",
+   "totalOpen": "46.5"
+  },
+  "pick": "SF ML (-152)",
+  "reason": "SF are about 58% no-vig at -152; ESPN's model has 68%. For: ESPN model 68% vs market 58%; line moved toward SF (-112 → -152).",
+  "risks": [],
+  "side": "home",
+  "slug": "nfl",
+  "sport": "nfl",
+  "stars": 2,
+  "start": "2026-11-29T21:25Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "Levi's Stadium, Santa Clara"
+ },
+ "nfl-401873092": {
+  "_lastPick": "WSH ML (-352)",
+  "away": {
+   "abbr": "WSH",
+   "form": "WWLWL",
+   "injuries": [
+    "Laremy Tunsil (OT) – Injured Reserve, Triceps"
+   ],
+   "name": "Washington Commanders",
+   "record": "4-5-1",
+   "short": "Commanders",
+   "teamId": "28"
+  },
+  "confidence": 67,
+  "espnId": "401873092",
+  "espnLeague": "nfl",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 62.2,
+   "home": 37.5
+  },
+  "home": {
+   "abbr": "ARI",
+   "form": "LLLWL",
+   "injuries": [
+    "Jeremiyah Love (RB) – Injured Reserve, Ankle"
+   ],
+   "name": "Arizona Cardinals",
+   "record": "3-8",
+   "short": "Cardinals",
+   "teamId": "22"
+  },
+  "id": "nfl-401873092",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Triceps",
+     "player": "Laremy Tunsil",
+     "pos": "OT",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Calf",
+     "player": "Dyami Brown",
+     "pos": "WR",
+     "stale": true,
+     "status": "Injured Reserve"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Ankle",
+     "player": "Jeremiyah Love",
+     "pos": "RB",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ]
+  },
+  "league": "NFL",
+  "link": "https://www.espn.com/nfl/game/_/gameId/401873092",
+  "market": "Moneyline",
+  "news": [
+   "NFL Week 12: Highlights of Thanksgiving games",
+   "Eagles' Cooper DeJean leaves game at Cowboys because of concussion",
+   "Aaron Rodgers officially a free agent after clearing waivers"
+  ],
+  "odds": {
+   "mlAway": "-352",
+   "mlAwayOpen": "-218",
+   "mlHome": "+282",
+   "mlHomeOpen": "+180",
+   "provider": "Draft Kings",
+   "spread": "WSH -6.5",
+   "spreadOpen": "WSH -4.5",
+   "total": "41.5",
+   "totalOpen": "47.5"
+  },
+  "pick": "WSH ML (-352)",
+  "reason": "WSH are about 75% no-vig at -352; ESPN's model has 62%. For: line moved toward WSH (-218 → -352).",
+  "risks": [
+   "ESPN model only 62% vs market 75%"
+  ],
+  "side": "away",
+  "slug": "nfl",
+  "sport": "nfl",
+  "stars": 2,
+  "start": "2026-11-29T21:25Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "State Farm Stadium, Glendale"
+ },
+ "nfl-401873093": {
+  "away": {
+   "abbr": "NE",
+   "form": "LLWLW",
+   "injuries": [
+    "Romeo Doubs (WR) – Injured Reserve, Shoulder",
+    "A.J. Brown (WR) – Doubtful, Hamstring"
+   ],
+   "name": "New England Patriots",
+   "record": "5-5",
+   "short": "Patriots",
+   "teamId": "17"
+  },
+  "confidence": 46,
+  "espnId": "401873093",
+  "espnLeague": "nfl",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 39.6,
+   "home": 60.1
+  },
+  "home": {
+   "abbr": "LAC",
+   "form": "LWLLL",
+   "injuries": [
+    "Deane Leonard (CB) – Injured Reserve, Groin"
+   ],
+   "name": "Los Angeles Chargers",
+   "record": "1-9",
+   "short": "Chargers",
+   "teamId": "24"
+  },
+  "id": "nfl-401873093",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Shoulder",
+     "player": "Romeo Doubs",
+     "pos": "WR",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Hamstring",
+     "player": "A.J. Brown",
+     "pos": "WR",
+     "stale": false,
+     "status": "Doubtful"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Groin",
+     "player": "Deane Leonard",
+     "pos": "CB",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ]
+  },
+  "league": "NFL",
+  "link": "https://www.espn.com/nfl/game/_/gameId/401873093",
+  "news": [
+   "NFL Week 12: Highlights of Thanksgiving games",
+   "Eagles' Cooper DeJean leaves game at Cowboys because of concussion",
+   "Aaron Rodgers officially a free agent after clearing waivers"
+  ],
+  "odds": {
+   "mlAway": "-137",
+   "mlAwayOpen": "+114",
+   "mlHome": "+116",
+   "mlHomeOpen": "-135",
+   "provider": "Draft Kings",
+   "spread": "NE -2.5",
+   "spreadOpen": "LAC -2.5",
+   "total": "35.5",
+   "totalOpen": "45.5"
+  },
+  "pick": "Pass",
+  "reason": "NE about 56% no-vig at -137; no edge worth a pick.",
+  "risks": [
+   "ESPN model only 40% vs market 56%"
+  ],
+  "slug": "nfl",
+  "sport": "nfl",
+  "stars": 1,
+  "start": "2026-11-29T21:05Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "SoFi Stadium, Inglewood"
+ },
+ "soccer-401874769": {
+  "_lastPick": "AS Roma ML (-525)",
+  "away": {
+   "abbr": "MON",
+   "form": "WLLLL",
+   "name": "Monza",
+   "record": "3-1-8",
+   "short": "Monza",
+   "teamId": "4007"
+  },
+  "confidence": 74,
+  "espnId": "401874769",
+  "espnLeague": "ita.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "ROMA",
+   "form": "DWWLW",
+   "name": "AS Roma",
+   "record": "9-3-0",
+   "short": "AS Roma",
+   "teamId": "104"
+  },
+  "id": "soccer-401874769",
+  "league": "Serie A",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401874769",
+  "market": "Moneyline",
+  "news": [
+   "Cesc Fàbregas plays down Barcelona links, pledges immediate future to Como",
+   "Transfer rumors, news: Arsenal, Newcastle eye Inter's Pio Esposito",
+   "Lazio are top of Serie A despite playing without their fans"
+  ],
+  "odds": {
+   "mlAway": "+950",
+   "mlAwayOpen": "+800",
+   "mlDraw": "+550",
+   "mlHome": "-525",
+   "mlHomeOpen": "-475",
+   "provider": "DraftKings",
+   "spread": "ROMA -525",
+   "spreadOpen": "ROMA -1.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "AS Roma ML (-525)",
+  "reason": "AS Roma are about 77% no-vig at -525.",
+  "risks": [],
+  "side": "home",
+  "slug": "ita.1",
+  "sport": "soccer",
+  "stars": 2,
+  "start": "2026-11-29T17:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "Olimpico, Roma"
  },
  "soccer-401874826": {
   "away": {
@@ -6284,7 +7794,7 @@
   "stars": 1,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Stadio Olimpico Grande Torino, Torino"
  },
  "soccer-401874977": {
@@ -6339,7 +7849,7 @@
   "stars": 2,
   "start": "2026-11-28T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "San Siro, Milano"
  },
  "soccer-401874992": {
@@ -6380,7 +7890,7 @@
    "provider": "DraftKings",
    "spread": "NAP -160",
    "spreadOpen": "NAP -0.5",
-   "total": "3.5",
+   "total": "2.5",
    "totalOpen": "3.5"
   },
   "pick": "Pass",
@@ -6391,8 +7901,60 @@
   "stars": 1,
   "start": "2026-11-29T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Mapei Stadium, Reggio Emilia"
+ },
+ "soccer-401874994": {
+  "away": {
+   "abbr": "JUV",
+   "form": "WDWWL",
+   "name": "Juventus",
+   "record": "6-3-3",
+   "short": "Juventus",
+   "teamId": "111"
+  },
+  "confidence": 45,
+  "espnId": "401874994",
+  "espnLeague": "ita.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "COMO",
+   "form": "WWLWW",
+   "name": "Como",
+   "record": "8-2-2",
+   "short": "Como",
+   "teamId": "2572"
+  },
+  "id": "soccer-401874994",
+  "league": "Serie A",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401874994",
+  "news": [
+   "Cesc Fàbregas plays down Barcelona links, pledges immediate future to Como",
+   "Transfer rumors, news: Arsenal, Newcastle eye Inter's Pio Esposito",
+   "Lazio are top of Serie A despite playing without their fans"
+  ],
+  "odds": {
+   "mlAway": "+265",
+   "mlAwayOpen": "+195",
+   "mlDraw": "+245",
+   "mlHome": "-105",
+   "mlHomeOpen": "+115",
+   "provider": "DraftKings",
+   "spread": "COMO -105",
+   "spreadOpen": "COMO -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Como about 48% no-vig at -105; no edge worth a pick.",
+  "risks": [],
+  "slug": "ita.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-29T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "Giuseppe Sinigaglia, Como"
  },
  "soccer-401875004": {
   "away": {
@@ -6445,7 +8007,7 @@
   "stars": 1,
   "start": "2026-11-27T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Stadio Pier Luigi Penzo, Venezia"
  },
  "soccer-401875031": {
@@ -6497,7 +8059,7 @@
   "stars": 1,
   "start": "2026-11-29T11:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Stadio Friuli, Udine"
  },
  "soccer-401875081": {
@@ -6552,8 +8114,60 @@
   "stars": 2,
   "start": "2026-11-28T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Stadio Benito Stirpe, Frosinone"
+ },
+ "soccer-401876386": {
+  "away": {
+   "abbr": "REN",
+   "form": "DLDLW",
+   "name": "Stade Rennais",
+   "record": "5-2-4",
+   "short": "Rennes",
+   "teamId": "169"
+  },
+  "confidence": 34,
+  "espnId": "401876386",
+  "espnLeague": "fra.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "TOU",
+   "form": "DWLDW",
+   "name": "Toulouse",
+   "record": "3-5-3",
+   "short": "Toulouse",
+   "teamId": "179"
+  },
+  "id": "soccer-401876386",
+  "league": "Ligue 1",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401876386",
+  "news": [
+   "Luis Enrique insists PSG won't 'start crying' over Doué, Kvaratskhelia injuries",
+   "Paris Saint-Germain drop one of this season's best kits in latest Jordan collab",
+   "PSG star Désiré Doué suffers 'serious' knee injury in win over Nice"
+  ],
+  "odds": {
+   "mlAway": "+160",
+   "mlAwayOpen": "+160",
+   "mlDraw": "+260",
+   "mlHome": "+155",
+   "mlHomeOpen": "+155",
+   "provider": "DraftKings",
+   "spread": "TOU +155",
+   "spreadOpen": "TOU -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Toulouse about 37% no-vig at +155; no edge worth a pick.",
+  "risks": [],
+  "slug": "fra.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-29T16:15Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "Stadium Municipal de Toulouse, Toulouse"
  },
  "soccer-401876387": {
   "_lastPick": "PSG ML (-475)",
@@ -6607,7 +8221,7 @@
   "stars": 2,
   "start": "2026-11-28T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Parc des Princes, Paris"
  },
  "soccer-401876388": {
@@ -6659,8 +8273,60 @@
   "stars": 1,
   "start": "2026-11-28T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Allianz Riviera, Nice"
+ },
+ "soccer-401876389": {
+  "away": {
+   "abbr": "MON",
+   "form": "DDWLD",
+   "name": "AS Monaco",
+   "record": "4-5-2",
+   "short": "Monaco",
+   "teamId": "174"
+  },
+  "confidence": 37,
+  "espnId": "401876389",
+  "espnLeague": "fra.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "LYON",
+   "form": "WLDWL",
+   "name": "Lyon",
+   "record": "6-2-3",
+   "short": "Lyon",
+   "teamId": "167"
+  },
+  "id": "soccer-401876389",
+  "league": "Ligue 1",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401876389",
+  "news": [
+   "Luis Enrique insists PSG won't 'start crying' over Doué, Kvaratskhelia injuries",
+   "Paris Saint-Germain drop one of this season's best kits in latest Jordan collab",
+   "PSG star Désiré Doué suffers 'serious' knee injury in win over Nice"
+  ],
+  "odds": {
+   "mlAway": "+205",
+   "mlAwayOpen": "+195",
+   "mlDraw": "+235",
+   "mlHome": "+140",
+   "mlHomeOpen": "+130",
+   "provider": "DraftKings",
+   "spread": "LYON +140",
+   "spreadOpen": "LYON -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Lyon about 40% no-vig at +140; no edge worth a pick.",
+  "risks": [],
+  "slug": "fra.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-29T19:45Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "Groupama Stadium, Lyon"
  },
  "soccer-401876390": {
   "away": {
@@ -6713,7 +8379,7 @@
   "stars": 1,
   "start": "2026-11-28T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Stade Marie-Marvingt, Le Mans"
  },
  "soccer-401876391": {
@@ -6765,7 +8431,7 @@
   "stars": 1,
   "start": "2026-11-28T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Stade Océane, Le Havre"
  },
  "soccer-401876392": {
@@ -6817,7 +8483,7 @@
   "stars": 1,
   "start": "2026-11-27T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Stade Francis-Le Blé, Brest"
  },
  "soccer-401876393": {
@@ -6869,7 +8535,7 @@
   "stars": 1,
   "start": "2026-11-29T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Stade de l'Abbé-Deschamps, Auxerre"
  },
  "soccer-401876394": {
@@ -6921,7 +8587,7 @@
   "stars": 1,
   "start": "2026-11-28T16:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Stade Raymond Kopa, Angers"
  },
  "soccer-401878752": {
@@ -6949,9 +8615,9 @@
   "league": "Premier League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401878752",
   "news": [
-   "FA panel details 'obvious error' in Leny Yoro red card against Liverpool",
-   "Transfer rumors, news: Barcelona among clubs eyeing Man United's Ayden Heaven",
-   "Viktor Gyökeres: Arsenal not wasting energy on Man City's possible sanctions"
+   "Man United-linked Dominic Calvert-Lewin signs new Leeds contract",
+   "Transfer rumors, news: Barça, Madrid jockey for position in Erling Haaland chase",
+   "Hislop: Next games a 'barometer' in Man United relegation battle"
   ],
   "odds": {
    "mlAway": "-105",
@@ -6973,8 +8639,60 @@
   "stars": 1,
   "start": "2026-11-28T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Portman Road, Ipswich"
+ },
+ "soccer-401878753": {
+  "away": {
+   "abbr": "MNC",
+   "form": "DDLWL",
+   "name": "Manchester City",
+   "record": "7-1-3",
+   "short": "Man City",
+   "teamId": "382"
+  },
+  "confidence": 45,
+  "espnId": "401878753",
+  "espnLeague": "eng.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "ARS",
+   "form": "DDWWW",
+   "name": "Arsenal",
+   "record": "9-1-1",
+   "short": "Arsenal",
+   "teamId": "359"
+  },
+  "id": "soccer-401878753",
+  "league": "Premier League",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401878753",
+  "news": [
+   "Man United-linked Dominic Calvert-Lewin signs new Leeds contract",
+   "Transfer rumors, news: Barça, Madrid jockey for position in Erling Haaland chase",
+   "Hislop: Next games a 'barometer' in Man United relegation battle"
+  ],
+  "odds": {
+   "mlAway": "+255",
+   "mlAwayOpen": "+230",
+   "mlDraw": "+280",
+   "mlHome": "+100",
+   "mlHomeOpen": "+100",
+   "provider": "DraftKings",
+   "spread": "ARS +100",
+   "spreadOpen": "ARS -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Arsenal about 48% no-vig at +100; no edge worth a pick.",
+  "risks": [],
+  "slug": "eng.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-29T16:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "Emirates Stadium, London"
  },
  "soccer-401879224": {
   "away": {
@@ -6985,7 +8703,7 @@
    "short": "Spurs",
    "teamId": "367"
   },
-  "confidence": 43,
+  "confidence": 44,
   "espnId": "401879224",
   "espnLeague": "eng.1",
   "espnSport": "soccer",
@@ -7001,31 +8719,31 @@
   "league": "Premier League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401879224",
   "news": [
-   "FA panel details 'obvious error' in Leny Yoro red card against Liverpool",
-   "Transfer rumors, news: Barcelona among clubs eyeing Man United's Ayden Heaven",
-   "Viktor Gyökeres: Arsenal not wasting energy on Man City's possible sanctions"
+   "Man United-linked Dominic Calvert-Lewin signs new Leeds contract",
+   "Transfer rumors, news: Barça, Madrid jockey for position in Erling Haaland chase",
+   "Hislop: Next games a 'barometer' in Man United relegation battle"
   ],
   "odds": {
-   "mlAway": "+110",
+   "mlAway": "+105",
    "mlAwayOpen": "+125",
-   "mlDraw": "+235",
-   "mlHome": "+270",
+   "mlDraw": "+240",
+   "mlHome": "+275",
    "mlHomeOpen": "+220",
    "provider": "DraftKings",
-   "spread": "TOT +110",
+   "spread": "TOT +105",
    "spreadOpen": "TOT -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Spurs about 46% no-vig at +110; no edge worth a pick.",
+  "reason": "Spurs about 47% no-vig at +105; no edge worth a pick.",
   "risks": [],
   "slug": "eng.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-29T14:05Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Stadium of Light, Sunderland"
  },
  "soccer-401879225": {
@@ -7053,9 +8771,9 @@
   "league": "Premier League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401879225",
   "news": [
-   "FA panel details 'obvious error' in Leny Yoro red card against Liverpool",
-   "Transfer rumors, news: Barcelona among clubs eyeing Man United's Ayden Heaven",
-   "Viktor Gyökeres: Arsenal not wasting energy on Man City's possible sanctions"
+   "Man United-linked Dominic Calvert-Lewin signs new Leeds contract",
+   "Transfer rumors, news: Barça, Madrid jockey for position in Erling Haaland chase",
+   "Hislop: Next games a 'barometer' in Man United relegation battle"
   ],
   "odds": {
    "mlAway": "+185",
@@ -7077,7 +8795,7 @@
   "stars": 1,
   "start": "2026-11-27T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "The City Ground, Nottingham"
  },
  "soccer-401879226": {
@@ -7105,9 +8823,9 @@
   "league": "Premier League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401879226",
   "news": [
-   "FA panel details 'obvious error' in Leny Yoro red card against Liverpool",
-   "Transfer rumors, news: Barcelona among clubs eyeing Man United's Ayden Heaven",
-   "Viktor Gyökeres: Arsenal not wasting energy on Man City's possible sanctions"
+   "Man United-linked Dominic Calvert-Lewin signs new Leeds contract",
+   "Transfer rumors, news: Barça, Madrid jockey for position in Erling Haaland chase",
+   "Hislop: Next games a 'barometer' in Man United relegation battle"
   ],
   "odds": {
    "mlAway": "+220",
@@ -7129,7 +8847,7 @@
   "stars": 1,
   "start": "2026-11-28T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Old Trafford, Manchester"
  },
  "soccer-401879227": {
@@ -7159,9 +8877,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401879227",
   "market": "Moneyline",
   "news": [
-   "FA panel details 'obvious error' in Leny Yoro red card against Liverpool",
-   "Transfer rumors, news: Barcelona among clubs eyeing Man United's Ayden Heaven",
-   "Viktor Gyökeres: Arsenal not wasting energy on Man City's possible sanctions"
+   "Man United-linked Dominic Calvert-Lewin signs new Leeds contract",
+   "Transfer rumors, news: Barça, Madrid jockey for position in Erling Haaland chase",
+   "Hislop: Next games a 'barometer' in Man United relegation battle"
   ],
   "odds": {
    "mlAway": "+550",
@@ -7184,7 +8902,7 @@
   "stars": 2,
   "start": "2026-11-28T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Elland Road, Leeds"
  },
  "soccer-401879228": {
@@ -7212,9 +8930,9 @@
   "league": "Premier League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401879228",
   "news": [
-   "FA panel details 'obvious error' in Leny Yoro red card against Liverpool",
-   "Transfer rumors, news: Barcelona among clubs eyeing Man United's Ayden Heaven",
-   "Viktor Gyökeres: Arsenal not wasting energy on Man City's possible sanctions"
+   "Man United-linked Dominic Calvert-Lewin signs new Leeds contract",
+   "Transfer rumors, news: Barça, Madrid jockey for position in Erling Haaland chase",
+   "Hislop: Next games a 'barometer' in Man United relegation battle"
   ],
   "odds": {
    "mlAway": "+155",
@@ -7236,7 +8954,7 @@
   "stars": 1,
   "start": "2026-11-29T14:05Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Craven Cottage, London"
  },
  "soccer-401879229": {
@@ -7264,9 +8982,9 @@
   "league": "Premier League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401879229",
   "news": [
-   "FA panel details 'obvious error' in Leny Yoro red card against Liverpool",
-   "Transfer rumors, news: Barcelona among clubs eyeing Man United's Ayden Heaven",
-   "Viktor Gyökeres: Arsenal not wasting energy on Man City's possible sanctions"
+   "Man United-linked Dominic Calvert-Lewin signs new Leeds contract",
+   "Transfer rumors, news: Barça, Madrid jockey for position in Erling Haaland chase",
+   "Hislop: Next games a 'barometer' in Man United relegation battle"
   ],
   "odds": {
    "mlAway": "-125",
@@ -7288,7 +9006,7 @@
   "stars": 1,
   "start": "2026-11-29T12:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Hill Dickinson Stadium, Liverpool"
  },
  "soccer-401879230": {
@@ -7300,7 +9018,7 @@
    "short": "Hull",
    "teamId": "306"
   },
-  "confidence": 48,
+  "confidence": 47,
   "espnId": "401879230",
   "espnLeague": "eng.1",
   "espnSport": "soccer",
@@ -7316,35 +9034,35 @@
   "league": "Premier League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401879230",
   "news": [
-   "FA panel details 'obvious error' in Leny Yoro red card against Liverpool",
-   "Transfer rumors, news: Barcelona among clubs eyeing Man United's Ayden Heaven",
-   "Viktor Gyökeres: Arsenal not wasting energy on Man City's possible sanctions"
+   "Man United-linked Dominic Calvert-Lewin signs new Leeds contract",
+   "Transfer rumors, news: Barça, Madrid jockey for position in Erling Haaland chase",
+   "Hislop: Next games a 'barometer' in Man United relegation battle"
   ],
   "odds": {
-   "mlAway": "+300",
+   "mlAway": "+285",
    "mlAwayOpen": "+295",
-   "mlDraw": "+285",
-   "mlHome": "-115",
+   "mlDraw": "+275",
+   "mlHome": "-110",
    "mlHomeOpen": "-125",
    "provider": "DraftKings",
-   "spread": "CRY -115",
+   "spread": "CRY -110",
    "spreadOpen": "CRY -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "C Palace about 51% no-vig at -115; no edge worth a pick.",
+  "reason": "C Palace about 50% no-vig at -110; no edge worth a pick.",
   "risks": [],
   "slug": "eng.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-29T14:05Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Selhurst Park, London"
  },
  "soccer-401879231": {
-  "_lastPick": "Brighton ML (-185)",
+  "_lastPick": "Brighton ML (-180)",
   "away": {
    "abbr": "NEW",
    "form": "DDLLW",
@@ -7353,7 +9071,7 @@
    "short": "Newcastle",
    "teamId": "361"
   },
-  "confidence": 59,
+  "confidence": 58,
   "espnId": "401879231",
   "espnLeague": "eng.1",
   "espnSport": "soccer",
@@ -7370,24 +9088,24 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401879231",
   "market": "Moneyline",
   "news": [
-   "FA panel details 'obvious error' in Leny Yoro red card against Liverpool",
-   "Transfer rumors, news: Barcelona among clubs eyeing Man United's Ayden Heaven",
-   "Viktor Gyökeres: Arsenal not wasting energy on Man City's possible sanctions"
+   "Man United-linked Dominic Calvert-Lewin signs new Leeds contract",
+   "Transfer rumors, news: Barça, Madrid jockey for position in Erling Haaland chase",
+   "Hislop: Next games a 'barometer' in Man United relegation battle"
   ],
   "odds": {
    "mlAway": "+450",
    "mlAwayOpen": "+425",
    "mlDraw": "+350",
-   "mlHome": "-185",
+   "mlHome": "-180",
    "mlHomeOpen": "-185",
    "provider": "DraftKings",
-   "spread": "BHA -185",
+   "spread": "BHA -180",
    "spreadOpen": "BHA -1.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
-  "pick": "Brighton ML (-185)",
-  "reason": "Brighton are about 62% no-vig at -185.",
+  "pick": "Brighton ML (-180)",
+  "reason": "Brighton are about 61% no-vig at -180.",
   "risks": [],
   "side": "home",
   "slug": "eng.1",
@@ -7395,7 +9113,7 @@
   "stars": 2,
   "start": "2026-11-29T14:05Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "American Express Stadium, Falmer"
  },
  "soccer-401882787": {
@@ -7423,7 +9141,7 @@
   "league": "LaLiga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401882787",
   "news": [
-   "Transfer rumors, news: Barcelona among clubs eyeing Man United's Ayden Heaven",
+   "Transfer rumors, news: Barça, Madrid jockey for position in Erling Haaland chase",
    "Transfer rumors, news: Man United, Barcelona eye USMNT's Mathis Albert",
    "Barcelona to appeal Fermín López's two-match ban - sources"
   ],
@@ -7447,11 +9165,63 @@
   "stars": 1,
   "start": "2026-11-29T13:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Mestalla Stadium, Manises"
  },
+ "soccer-401882788": {
+  "away": {
+   "abbr": "SEV",
+   "form": "DDLWW",
+   "name": "Sevilla",
+   "record": "5-4-4",
+   "short": "Sevilla",
+   "teamId": "243"
+  },
+  "confidence": 41,
+  "espnId": "401882788",
+  "espnLeague": "esp.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "RSO",
+   "form": "LWDLW",
+   "name": "Real Sociedad",
+   "record": "7-1-5",
+   "short": "Real Sociedad",
+   "teamId": "89"
+  },
+  "id": "soccer-401882788",
+  "league": "LaLiga",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401882788",
+  "news": [
+   "Transfer rumors, news: Barça, Madrid jockey for position in Erling Haaland chase",
+   "Transfer rumors, news: Man United, Barcelona eye USMNT's Mathis Albert",
+   "Barcelona to appeal Fermín López's two-match ban - sources"
+  ],
+  "odds": {
+   "mlAway": "+220",
+   "mlAwayOpen": "+200",
+   "mlDraw": "+270",
+   "mlHome": "+115",
+   "mlHomeOpen": "+120",
+   "provider": "DraftKings",
+   "spread": "RSO +115",
+   "spreadOpen": "RSO -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Real Sociedad about 44% no-vig at +115; no edge worth a pick.",
+  "risks": [],
+  "slug": "esp.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-29T20:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "Reale Arena, San Sebastian"
+ },
  "soccer-401882789": {
-  "_lastPick": "Real Madrid ML (-750)",
+  "_lastPick": "Real Madrid ML (-800)",
   "away": {
    "abbr": "ALA",
    "form": "WWDLD",
@@ -7460,7 +9230,7 @@
    "short": "Alavés",
    "teamId": "96"
   },
-  "confidence": 82,
+  "confidence": 83,
   "espnId": "401882789",
   "espnLeague": "esp.1",
   "espnSport": "soccer",
@@ -7477,24 +9247,24 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401882789",
   "market": "Moneyline",
   "news": [
-   "Transfer rumors, news: Barcelona among clubs eyeing Man United's Ayden Heaven",
+   "Transfer rumors, news: Barça, Madrid jockey for position in Erling Haaland chase",
    "Transfer rumors, news: Man United, Barcelona eye USMNT's Mathis Albert",
    "Barcelona to appeal Fermín López's two-match ban - sources"
   ],
   "odds": {
-   "mlAway": "+1600",
+   "mlAway": "+1700",
    "mlAwayOpen": "+1200",
-   "mlDraw": "+850",
-   "mlHome": "-750",
+   "mlDraw": "+900",
+   "mlHome": "-800",
    "mlHomeOpen": "-700",
    "provider": "DraftKings",
-   "spread": "RMA -750",
+   "spread": "RMA -800",
    "spreadOpen": "RMA -2.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
-  "pick": "Real Madrid ML (-750)",
-  "reason": "Real Madrid are about 84% no-vig at -750. For: form WWWWW vs WWDLD.",
+  "pick": "Real Madrid ML (-800)",
+  "reason": "Real Madrid are about 85% no-vig at -800. For: form WWWWW vs WWDLD.",
   "risks": [],
   "side": "home",
   "slug": "esp.1",
@@ -7502,7 +9272,7 @@
   "stars": 3,
   "start": "2026-11-28T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Santiago Bernabéu, Madrid"
  },
  "soccer-401882790": {
@@ -7530,7 +9300,7 @@
   "league": "LaLiga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401882790",
   "news": [
-   "Transfer rumors, news: Barcelona among clubs eyeing Man United's Ayden Heaven",
+   "Transfer rumors, news: Barça, Madrid jockey for position in Erling Haaland chase",
    "Transfer rumors, news: Man United, Barcelona eye USMNT's Mathis Albert",
    "Barcelona to appeal Fermín López's two-match ban - sources"
   ],
@@ -7554,7 +9324,7 @@
   "stars": 1,
   "start": "2026-11-28T15:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "La Rosaleda, Malaga"
  },
  "soccer-401882791": {
@@ -7566,7 +9336,7 @@
    "short": "Racing",
    "teamId": "87"
   },
-  "confidence": 42,
+  "confidence": 43,
   "espnId": "401882791",
   "espnLeague": "esp.1",
   "espnSport": "soccer",
@@ -7582,24 +9352,24 @@
   "league": "LaLiga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401882791",
   "news": [
-   "Transfer rumors, news: Barcelona among clubs eyeing Man United's Ayden Heaven",
+   "Transfer rumors, news: Barça, Madrid jockey for position in Erling Haaland chase",
    "Transfer rumors, news: Man United, Barcelona eye USMNT's Mathis Albert",
    "Barcelona to appeal Fermín López's two-match ban - sources"
   ],
   "odds": {
-   "mlAway": "+220",
+   "mlAway": "+230",
    "mlAwayOpen": "+215",
-   "mlDraw": "+290",
-   "mlHome": "+110",
+   "mlDraw": "+300",
+   "mlHome": "+100",
    "mlHomeOpen": "+105",
    "provider": "DraftKings",
-   "spread": "LEV +110",
+   "spread": "LEV +100",
    "spreadOpen": "LEV -0.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
   "pick": "Pass",
-  "reason": "Levante about 46% no-vig at +110; no edge worth a pick.",
+  "reason": "Levante about 47% no-vig at +100; no edge worth a pick.",
   "risks": [
    "opponent in better form (WWLWW)"
   ],
@@ -7608,7 +9378,7 @@
   "stars": 1,
   "start": "2026-11-27T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Estadi Ciutat de València, Manises"
  },
  "soccer-401882793": {
@@ -7638,7 +9408,7 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401882793",
   "market": "Moneyline",
   "news": [
-   "Transfer rumors, news: Barcelona among clubs eyeing Man United's Ayden Heaven",
+   "Transfer rumors, news: Barça, Madrid jockey for position in Erling Haaland chase",
    "Transfer rumors, news: Man United, Barcelona eye USMNT's Mathis Albert",
    "Barcelona to appeal Fermín López's two-match ban - sources"
   ],
@@ -7663,8 +9433,115 @@
   "stars": 2,
   "start": "2026-11-28T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Estadio Martínez Valero, Elche"
+ },
+ "soccer-401882794": {
+  "_lastPick": "Barcelona ML (-450)",
+  "away": {
+   "abbr": "BAR",
+   "form": "WWWWW",
+   "name": "Barcelona",
+   "record": "12-0-1",
+   "short": "Barcelona",
+   "teamId": "83"
+  },
+  "confidence": 76,
+  "espnId": "401882794",
+  "espnLeague": "esp.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "DEP",
+   "form": "LDWWL",
+   "name": "Deportivo",
+   "record": "3-6-4",
+   "short": "Deportivo",
+   "teamId": "90"
+  },
+  "id": "soccer-401882794",
+  "league": "LaLiga",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401882794",
+  "market": "Moneyline",
+  "news": [
+   "Transfer rumors, news: Barça, Madrid jockey for position in Erling Haaland chase",
+   "Transfer rumors, news: Man United, Barcelona eye USMNT's Mathis Albert",
+   "Barcelona to appeal Fermín López's two-match ban - sources"
+  ],
+  "odds": {
+   "mlAway": "-450",
+   "mlAwayOpen": "-330",
+   "mlDraw": "+650",
+   "mlHome": "+900",
+   "mlHomeOpen": "+700",
+   "provider": "DraftKings",
+   "spread": "BAR -450",
+   "spreadOpen": "BAR -1.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Barcelona ML (-450)",
+  "reason": "Barcelona are about 78% no-vig at -450. For: line moved toward Barcelona (-330 → -450); form WWWWW vs LDWWL.",
+  "risks": [],
+  "side": "away",
+  "slug": "esp.1",
+  "sport": "soccer",
+  "stars": 3,
+  "start": "2026-11-29T15:15Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "Riazor, La Coruña"
+ },
+ "soccer-401882795": {
+  "away": {
+   "abbr": "VIL",
+   "form": "WLWLL",
+   "name": "Villarreal",
+   "record": "4-3-6",
+   "short": "Villarreal",
+   "teamId": "102"
+  },
+  "confidence": 35,
+  "espnId": "401882795",
+  "espnLeague": "esp.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "CEL",
+   "form": "LWDLL",
+   "name": "Celta Vigo",
+   "record": "2-7-4",
+   "short": "Celta Vigo",
+   "teamId": "85"
+  },
+  "id": "soccer-401882795",
+  "league": "LaLiga",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401882795",
+  "news": [
+   "Transfer rumors, news: Barça, Madrid jockey for position in Erling Haaland chase",
+   "Transfer rumors, news: Man United, Barcelona eye USMNT's Mathis Albert",
+   "Barcelona to appeal Fermín López's two-match ban - sources"
+  ],
+  "odds": {
+   "mlAway": "+150",
+   "mlAwayOpen": "+150",
+   "mlDraw": "+255",
+   "mlHome": "+175",
+   "mlHomeOpen": "+165",
+   "provider": "DraftKings",
+   "spread": "VIL +150",
+   "spreadOpen": "VIL -0.5",
+   "total": "2.5",
+   "totalOpen": "2.5"
+  },
+  "pick": "Pass",
+  "reason": "Villarreal about 38% no-vig at +150; no edge worth a pick.",
+  "risks": [],
+  "slug": "esp.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-29T17:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "Balaidos, Vigo"
  },
  "soccer-401882796": {
   "away": {
@@ -7691,7 +9568,7 @@
   "league": "LaLiga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401882796",
   "news": [
-   "Transfer rumors, news: Barcelona among clubs eyeing Man United's Ayden Heaven",
+   "Transfer rumors, news: Barça, Madrid jockey for position in Erling Haaland chase",
    "Transfer rumors, news: Man United, Barcelona eye USMNT's Mathis Albert",
    "Barcelona to appeal Fermín López's two-match ban - sources"
   ],
@@ -7704,7 +9581,7 @@
    "provider": "DraftKings",
    "spread": "BET -165",
    "spreadOpen": "BET -1.5",
-   "total": "2.5",
+   "total": "3.5",
    "totalOpen": "3.5"
   },
   "pick": "Pass",
@@ -7715,7 +9592,7 @@
   "stars": 1,
   "start": "2026-11-28T13:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Estadio La Cartuja, Sevilla"
  },
  "soccer-401884719": {
@@ -7727,7 +9604,7 @@
    "short": "Schalke",
    "teamId": "133"
   },
-  "confidence": 36,
+  "confidence": 35,
   "espnId": "401884719",
   "espnLeague": "ger.1",
   "espnSport": "soccer",
@@ -7748,26 +9625,26 @@
    "Bayern Munich, Jamal Musiala mess shows German champs at their worst"
   ],
   "odds": {
-   "mlAway": "+175",
+   "mlAway": "+165",
    "mlAwayOpen": "+170",
    "mlDraw": "+235",
-   "mlHome": "+140",
+   "mlHome": "+145",
    "mlHomeOpen": "+130",
    "provider": "DraftKings",
-   "spread": "SCP +140",
+   "spread": "SCP +145",
    "spreadOpen": "SCP -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Paderborn about 39% no-vig at +140; no edge worth a pick.",
+  "reason": "Paderborn about 38% no-vig at +145; no edge worth a pick.",
   "risks": [],
   "slug": "ger.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-28T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Home Deluxe Arena, Paderborn"
  },
  "soccer-401884720": {
@@ -7779,7 +9656,7 @@
    "short": "Gladbach",
    "teamId": "268"
   },
-  "confidence": 52,
+  "confidence": 53,
   "espnId": "401884720",
   "espnLeague": "ger.1",
   "espnSport": "soccer",
@@ -7800,26 +9677,26 @@
    "Bayern Munich, Jamal Musiala mess shows German champs at their worst"
   ],
   "odds": {
-   "mlAway": "+300",
+   "mlAway": "+320",
    "mlAwayOpen": "+280",
    "mlDraw": "+320",
-   "mlHome": "-145",
+   "mlHome": "-150",
    "mlHomeOpen": "-145",
    "provider": "DraftKings",
-   "spread": "SVW -145",
+   "spread": "SVW -150",
    "spreadOpen": "SVW -0.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
   "pick": "Pass",
-  "reason": "Bremen about 55% no-vig at -145; no edge worth a pick.",
+  "reason": "Bremen about 56% no-vig at -150; no edge worth a pick.",
   "risks": [],
   "slug": "ger.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-27T19:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Weserstadion, Bremen"
  },
  "soccer-401884721": {
@@ -7871,7 +9748,7 @@
   "stars": 1,
   "start": "2026-11-28T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "RheinEnergieStadion, Cologne"
  },
  "soccer-401884722": {
@@ -7906,7 +9783,7 @@
   "stars": 1,
   "start": "2026-11-28T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Volksparkstadion, Hamburg Norderstedt"
  },
  "soccer-401884723": {
@@ -7961,8 +9838,114 @@
   "stars": 2,
   "start": "2026-11-28T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "MEWA ARENA, Mainz"
+ },
+ "soccer-401884724": {
+  "away": {
+   "abbr": "RBL",
+   "form": "WWLWL",
+   "name": "RB Leipzig",
+   "record": "7-0-3",
+   "short": "RB Leipzig",
+   "teamId": "11420"
+  },
+  "confidence": 36,
+  "espnId": "401884724",
+  "espnLeague": "ger.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "SCF",
+   "form": "WWWWW",
+   "name": "SC Freiburg",
+   "record": "7-1-2",
+   "short": "Freiburg",
+   "teamId": "126"
+  },
+  "id": "soccer-401884724",
+  "league": "Bundesliga",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401884724",
+  "news": [
+   "Joshua Kimmich blasts Bayern Munich over Jamal Musiala treatment: 'Absolute no-go'",
+   "Transfer rumors, news: Man United, Barcelona eye USMNT's Mathis Albert",
+   "Bayern Munich, Jamal Musiala mess shows German champs at their worst"
+  ],
+  "odds": {
+   "mlAway": "+130",
+   "mlAwayOpen": "+135",
+   "mlDraw": "+270",
+   "mlHome": "+165",
+   "mlHomeOpen": "+145",
+   "provider": "DraftKings",
+   "spread": "RBL +130",
+   "spreadOpen": "RBL -0.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Pass",
+  "reason": "RB Leipzig about 40% no-vig at +130; no edge worth a pick.",
+  "risks": [
+   "opponent in better form (WWWWW)"
+  ],
+  "slug": "ger.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-29T14:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "Europa-Park Stadion, Freiburg im Breisgau"
+ },
+ "soccer-401884725": {
+  "away": {
+   "abbr": "FCA",
+   "form": "WLLWD",
+   "name": "FC Augsburg",
+   "record": "3-3-4",
+   "short": "Augsburg",
+   "teamId": "3841"
+  },
+  "confidence": 52,
+  "espnId": "401884725",
+  "espnLeague": "ger.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "TSG",
+   "form": "LWDLL",
+   "name": "TSG Hoffenheim",
+   "record": "4-0-6",
+   "short": "Hoffenheim",
+   "teamId": "7911"
+  },
+  "id": "soccer-401884725",
+  "league": "Bundesliga",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401884725",
+  "news": [
+   "Joshua Kimmich blasts Bayern Munich over Jamal Musiala treatment: 'Absolute no-go'",
+   "Transfer rumors, news: Man United, Barcelona eye USMNT's Mathis Albert",
+   "Bayern Munich, Jamal Musiala mess shows German champs at their worst"
+  ],
+  "odds": {
+   "mlAway": "+280",
+   "mlAwayOpen": "+290",
+   "mlDraw": "+350",
+   "mlHome": "-145",
+   "mlHomeOpen": "-165",
+   "provider": "DraftKings",
+   "spread": "TSG -145",
+   "spreadOpen": "TSG -0.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Pass",
+  "reason": "Hoffenheim about 55% no-vig at -145; no edge worth a pick.",
+  "risks": [],
+  "slug": "ger.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-29T16:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "PreZero Arena, Sinsheim"
  },
  "soccer-401884726": {
   "away": {
@@ -8013,8 +9996,60 @@
   "stars": 1,
   "start": "2026-11-28T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "MHPArena, Stuttgart"
+ },
+ "soccer-401884727": {
+  "away": {
+   "abbr": "B04",
+   "form": "WWLLW",
+   "name": "Bayer Leverkusen",
+   "record": "6-1-3",
+   "short": "Leverkusen",
+   "teamId": "131"
+  },
+  "confidence": 42,
+  "espnId": "401884727",
+  "espnLeague": "ger.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "DOR",
+   "form": "DWWWD",
+   "name": "Borussia Dortmund",
+   "record": "7-3-0",
+   "short": "Dortmund",
+   "teamId": "124"
+  },
+  "id": "soccer-401884727",
+  "league": "Bundesliga",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401884727",
+  "news": [
+   "Joshua Kimmich blasts Bayern Munich over Jamal Musiala treatment: 'Absolute no-go'",
+   "Transfer rumors, news: Man United, Barcelona eye USMNT's Mathis Albert",
+   "Bayern Munich, Jamal Musiala mess shows German champs at their worst"
+  ],
+  "odds": {
+   "mlAway": "+200",
+   "mlAwayOpen": "+185",
+   "mlDraw": "+280",
+   "mlHome": "+105",
+   "mlHomeOpen": "+105",
+   "provider": "DraftKings",
+   "spread": "DOR +105",
+   "spreadOpen": "DOR -0.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Pass",
+  "reason": "Dortmund about 45% no-vig at +105; no edge worth a pick.",
+  "risks": [],
+  "slug": "ger.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-29T18:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T23:04:26Z",
+  "venue": "Signal Iduna Park, Aue"
  },
  "soccer-401915291": {
   "_lastPick": "Atlético ML (-900)",
@@ -8070,437 +10105,6 @@
   "state": "post",
   "updatedAt": "2026-11-25T13:29:33Z",
   "venue": "Riyadh Air Metropolitano, Madrid"
- },
- "soccer-401915292": {
-  "away": {
-   "abbr": "LIV",
-   "form": "WWLLW",
-   "name": "Liverpool",
-   "record": "4-0-1",
-   "short": "Liverpool",
-   "teamId": "364"
-  },
-  "confidence": 56,
-  "espnId": "401915292",
-  "espnLeague": "uefa.champions",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "BRU",
-   "form": "WDWWW",
-   "name": "Club Brugge",
-   "record": "3-0-2",
-   "short": "Club Brugge",
-   "teamId": "570"
-  },
-  "id": "soccer-401915292",
-  "league": "Champions League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401915292",
-  "news": [
-   "Pep Guardiola: Lionel Messi, Cristiano Ronaldo rivalry prolonged their careers",
-   "Mourinho: Bellingham is the best midfield player in the world",
-   "Vinícius Júnior praised by Jude Bellingham: Critics want 'excuse to hammer him'"
-  ],
-  "odds": {
-   "mlAway": "-165",
-   "mlAwayOpen": "-145",
-   "mlDraw": "+380",
-   "mlHome": "+360",
-   "mlHomeOpen": "+310",
-   "provider": "DraftKings",
-   "spread": "LIV -165",
-   "spreadOpen": "LIV -0.5",
-   "total": "3.5",
-   "totalOpen": "3.5"
-  },
-  "pick": "Pass",
-  "reason": "Liverpool about 59% no-vig at -165; no edge worth a pick.",
-  "risks": [],
-  "slug": "uefa.champions",
-  "sport": "soccer",
-  "stars": 1,
-  "start": "2026-11-25T20:00Z",
-  "state": "post",
-  "updatedAt": "2026-11-25T13:29:33Z",
-  "venue": "Jan Breydel Stadium, Brugge"
- },
- "soccer-401915293": {
-  "away": {
-   "abbr": "VIL",
-   "form": "LWLLW",
-   "name": "Villarreal",
-   "record": "2-0-3",
-   "short": "Villarreal",
-   "teamId": "102"
-  },
-  "confidence": 39,
-  "espnId": "401915293",
-  "espnLeague": "uefa.champions",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "SLP",
-   "form": "LDLL",
-   "name": "Slavia Prague",
-   "record": "0-1-4",
-   "short": "Slavia Prague",
-   "teamId": "494"
-  },
-  "id": "soccer-401915293",
-  "league": "Champions League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401915293",
-  "news": [
-   "Pep Guardiola: Lionel Messi, Cristiano Ronaldo rivalry prolonged their careers",
-   "Mourinho: Bellingham is the best midfield player in the world",
-   "Vinícius Júnior praised by Jude Bellingham: Critics want 'excuse to hammer him'"
-  ],
-  "odds": {
-   "mlAway": "+125",
-   "mlAwayOpen": "+125",
-   "mlDraw": "+265",
-   "mlHome": "+205",
-   "mlHomeOpen": "+175",
-   "provider": "DraftKings",
-   "spread": "VIL +125",
-   "spreadOpen": "VIL -0.5",
-   "total": "2.5",
-   "totalOpen": "3.5"
-  },
-  "pick": "Pass",
-  "reason": "Villarreal about 42% no-vig at +125; no edge worth a pick.",
-  "risks": [],
-  "slug": "uefa.champions",
-  "sport": "soccer",
-  "stars": 1,
-  "start": "2026-11-25T17:45Z",
-  "state": "post",
-  "updatedAt": "2026-11-25T13:29:33Z",
-  "venue": "Fortuna Arena, Prague"
- },
- "soccer-401915298": {
-  "_lastPick": "Real Madrid ML (-700)",
-  "away": {
-   "abbr": "PSV",
-   "form": "WWLWD",
-   "name": "PSV Eindhoven",
-   "record": "1-1-2",
-   "short": "PSV",
-   "teamId": "148"
-  },
-  "confidence": 81,
-  "espnId": "401915298",
-  "espnLeague": "uefa.champions",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "RMA",
-   "form": "WWWWW",
-   "name": "Real Madrid",
-   "record": "4-0-0",
-   "short": "Real Madrid",
-   "teamId": "86"
-  },
-  "id": "soccer-401915298",
-  "league": "Champions League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401915298",
-  "market": "Moneyline",
-  "news": [
-   "Premier League's set-piece goal surge is over, but Arsenal are No. 1 anyway",
-   "Burley questions Man United's desire after Anfield collapse",
-   "Kevin De Bruyne: Man City achievements will not be tainted if appeal fails"
-  ],
-  "odds": {
-   "mlAway": "+1500",
-   "mlAwayOpen": "+850",
-   "mlDraw": "+900",
-   "mlHome": "-750",
-   "mlHomeOpen": "-500",
-   "provider": "DraftKings",
-   "spread": "RMA -750",
-   "spreadOpen": "RMA -2.5",
-   "total": "4.5",
-   "totalOpen": "4.5"
-  },
-  "pick": "Real Madrid ML (-700)",
-  "reason": "Real Madrid are about 84% no-vig at -700. For: line moved toward Real Madrid (-500 → -700).",
-  "risks": [],
-  "side": "home",
-  "slug": "uefa.champions",
-  "sport": "soccer",
-  "stars": 3,
-  "start": "2026-11-24T20:00Z",
-  "state": "in",
-  "updatedAt": "2026-11-24T09:45:15Z",
-  "venue": "Santiago Bernabéu, Madrid"
- },
- "soccer-401915373": {
-  "away": {
-   "abbr": "MAN",
-   "form": "LDWLL",
-   "name": "Manchester United",
-   "record": "2-1-2",
-   "short": "Man Utd",
-   "teamId": "360"
-  },
-  "confidence": 34,
-  "espnId": "401915373",
-  "espnLeague": "uefa.champions",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "SCP",
-   "form": "WWWWL",
-   "name": "Sporting CP",
-   "record": "3-1-1",
-   "short": "Sporting",
-   "teamId": "2250"
-  },
-  "id": "soccer-401915373",
-  "league": "Champions League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401915373",
-  "news": [
-   "Pep Guardiola: Lionel Messi, Cristiano Ronaldo rivalry prolonged their careers",
-   "Mourinho: Bellingham is the best midfield player in the world",
-   "Vinícius Júnior praised by Jude Bellingham: Critics want 'excuse to hammer him'"
-  ],
-  "odds": {
-   "mlAway": "+150",
-   "mlAwayOpen": "+160",
-   "mlDraw": "+275",
-   "mlHome": "+165",
-   "mlHomeOpen": "+145",
-   "provider": "DraftKings",
-   "spread": "MAN +150",
-   "spreadOpen": "SCP -0.5",
-   "total": "3.5",
-   "totalOpen": "2.5"
-  },
-  "pick": "Pass",
-  "reason": "Man Utd about 38% no-vig at +150; no edge worth a pick.",
-  "risks": [
-   "opponent in better form (WWWWL)"
-  ],
-  "slug": "uefa.champions",
-  "sport": "soccer",
-  "stars": 1,
-  "start": "2026-11-25T20:00Z",
-  "state": "post",
-  "updatedAt": "2026-11-25T13:29:33Z",
-  "venue": "Estádio José Alvalade, Lisbon"
- },
- "soccer-401915374": {
-  "_lastPick": "PSG ML (-205)",
-  "away": {
-   "abbr": "ROMA",
-   "form": "WWLWW",
-   "name": "AS Roma",
-   "record": "1-2-2",
-   "short": "AS Roma",
-   "teamId": "104"
-  },
-  "confidence": 59,
-  "espnId": "401915374",
-  "espnLeague": "uefa.champions",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "PSG",
-   "form": "WWWWW",
-   "name": "Paris Saint-Germain",
-   "record": "4-1-0",
-   "short": "PSG",
-   "teamId": "160"
-  },
-  "id": "soccer-401915374",
-  "league": "Champions League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401915374",
-  "market": "Moneyline",
-  "news": [
-   "Pep Guardiola: Lionel Messi, Cristiano Ronaldo rivalry prolonged their careers",
-   "Mourinho: Bellingham is the best midfield player in the world",
-   "Vinícius Júnior praised by Jude Bellingham: Critics want 'excuse to hammer him'"
-  ],
-  "odds": {
-   "mlAway": "+475",
-   "mlAwayOpen": "+600",
-   "mlDraw": "+390",
-   "mlHome": "-205",
-   "mlHomeOpen": "-285",
-   "provider": "DraftKings",
-   "spread": "PSG -205",
-   "spreadOpen": "PSG -1.5",
-   "total": "3.5",
-   "totalOpen": "3.5"
-  },
-  "pick": "PSG ML (-205)",
-  "reason": "PSG are about 64% no-vig at -205.",
-  "risks": [
-   "line drifted away (-285 → -205)"
-  ],
-  "side": "home",
-  "slug": "uefa.champions",
-  "sport": "soccer",
-  "stars": 2,
-  "start": "2026-11-25T20:00Z",
-  "state": "post",
-  "updatedAt": "2026-11-25T13:29:33Z",
-  "venue": "Parc des Princes, Paris"
- },
- "soccer-401915375": {
-  "away": {
-   "abbr": "FEN",
-   "form": "DWWLL",
-   "name": "Fenerbahce",
-   "record": "2-2-1",
-   "short": "Fenerbahce",
-   "teamId": "436"
-  },
-  "confidence": 34,
-  "espnId": "401915375",
-  "espnLeague": "uefa.champions",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "SHK",
-   "form": "LLWWD",
-   "name": "Shakhtar Donetsk",
-   "record": "1-1-3",
-   "short": "Shakhtar",
-   "teamId": "493"
-  },
-  "id": "soccer-401915375",
-  "league": "Champions League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401915375",
-  "news": [
-   "Pep Guardiola: Lionel Messi, Cristiano Ronaldo rivalry prolonged their careers",
-   "Mourinho: Bellingham is the best midfield player in the world",
-   "Vinícius Júnior praised by Jude Bellingham: Critics want 'excuse to hammer him'"
-  ],
-  "odds": {
-   "mlAway": "+160",
-   "mlAwayOpen": "+160",
-   "mlDraw": "+245",
-   "mlHome": "+170",
-   "mlHomeOpen": "+150",
-   "provider": "DraftKings",
-   "spread": "FEN +160",
-   "spreadOpen": "SHK -0.5",
-   "total": "2.5",
-   "totalOpen": "2.5"
-  },
-  "pick": "Pass",
-  "reason": "Fenerbahce about 37% no-vig at +160; no edge worth a pick.",
-  "risks": [],
-  "slug": "uefa.champions",
-  "sport": "soccer",
-  "stars": 1,
-  "start": "2026-11-25T20:00Z",
-  "state": "post",
-  "updatedAt": "2026-11-25T13:29:33Z",
-  "venue": "Stamford Bridge, London"
- },
- "soccer-401915376": {
-  "_lastPick": "Inter Milan ML (-240)",
-  "away": {
-   "abbr": "VFB",
-   "form": "DWLWW",
-   "name": "VfB Stuttgart",
-   "record": "2-1-2",
-   "short": "Stuttgart",
-   "teamId": "134"
-  },
-  "confidence": 65,
-  "espnId": "401915376",
-  "espnLeague": "uefa.champions",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "INT",
-   "form": "DWWLW",
-   "name": "Internazionale",
-   "record": "3-0-2",
-   "short": "Inter Milan",
-   "teamId": "110"
-  },
-  "id": "soccer-401915376",
-  "league": "Champions League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401915376",
-  "market": "Moneyline",
-  "news": [
-   "Pep Guardiola: Lionel Messi, Cristiano Ronaldo rivalry prolonged their careers",
-   "Mourinho: Bellingham is the best midfield player in the world",
-   "Vinícius Júnior praised by Jude Bellingham: Critics want 'excuse to hammer him'"
-  ],
-  "odds": {
-   "mlAway": "+550",
-   "mlAwayOpen": "+400",
-   "mlDraw": "+450",
-   "mlHome": "-240",
-   "mlHomeOpen": "-205",
-   "provider": "DraftKings",
-   "spread": "INT -240",
-   "spreadOpen": "INT -1.5",
-   "total": "3.5",
-   "totalOpen": "3.5"
-  },
-  "pick": "Inter Milan ML (-240)",
-  "reason": "Inter Milan are about 68% no-vig at -240.",
-  "risks": [],
-  "side": "home",
-  "slug": "uefa.champions",
-  "sport": "soccer",
-  "stars": 2,
-  "start": "2026-11-25T20:00Z",
-  "state": "post",
-  "updatedAt": "2026-11-25T13:29:33Z",
-  "venue": "San Siro, Milano"
- },
- "soccer-401915377": {
-  "away": {
-   "abbr": "MUN",
-   "form": "DWWDW",
-   "name": "Bayern Munich",
-   "record": "2-2-1",
-   "short": "Bayern",
-   "teamId": "132"
-  },
-  "confidence": 54,
-  "espnId": "401915377",
-  "espnLeague": "uefa.champions",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "LILL",
-   "form": "LWDWD",
-   "name": "Lille",
-   "record": "1-1-3",
-   "short": "Lille",
-   "teamId": "166"
-  },
-  "id": "soccer-401915377",
-  "league": "Champions League",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401915377",
-  "news": [
-   "Pep Guardiola: Lionel Messi, Cristiano Ronaldo rivalry prolonged their careers",
-   "Mourinho: Bellingham is the best midfield player in the world",
-   "Vinícius Júnior praised by Jude Bellingham: Critics want 'excuse to hammer him'"
-  ],
-  "odds": {
-   "mlAway": "-165",
-   "mlAwayOpen": "-320",
-   "mlDraw": "+310",
-   "mlHome": "+425",
-   "mlHomeOpen": "+600",
-   "provider": "DraftKings",
-   "spread": "MUN -165",
-   "spreadOpen": "MUN -1.5",
-   "total": "2.5",
-   "totalOpen": "3.5"
-  },
-  "pick": "Pass",
-  "reason": "Bayern about 59% no-vig at -165; no edge worth a pick.",
-  "risks": [
-   "line drifted away (-320 → -165)"
-  ],
-  "slug": "uefa.champions",
-  "sport": "soccer",
-  "stars": 1,
-  "start": "2026-11-25T20:00Z",
-  "state": "post",
-  "updatedAt": "2026-11-25T13:29:33Z",
-  "venue": "Decathlon Arena - Stade Pierre-Mauroy, Lille"
  },
  "soccer-401915378": {
   "_lastPick": "Barcelona ML (-1400)",
@@ -8563,7 +10167,7 @@
    "abbr": "LSK",
    "form": "WWLWW",
    "name": "Lillestrom",
-   "record": "0-1-3",
+   "record": "0-2-3",
    "short": "Lillestrom",
    "teamId": "987"
   },
@@ -8575,7 +10179,7 @@
    "abbr": "LYON",
    "form": "WLDWL",
    "name": "Lyon",
-   "record": "2-1-1",
+   "record": "2-2-1",
    "short": "Lyon",
    "teamId": "167"
   },
@@ -8605,7 +10209,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-26T20:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-26T14:16:59Z",
   "venue": "Groupama Stadium, Lyon"
  },
@@ -8615,7 +10219,7 @@
    "abbr": "OMON",
    "form": "LLWWW",
    "name": "Omonia Nicosia",
-   "record": "2-0-2",
+   "record": "2-0-3",
    "short": "Omonia",
    "teamId": "617"
   },
@@ -8627,7 +10231,7 @@
    "abbr": "JUV",
    "form": "WDWWL",
    "name": "Juventus",
-   "record": "3-1-0",
+   "record": "4-1-0",
    "short": "Juventus",
    "teamId": "111"
   },
@@ -8655,7 +10259,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-26T20:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-26T14:16:59Z",
   "venue": "Allianz Stadium, Torino"
  },
@@ -8664,7 +10268,7 @@
    "abbr": "AND",
    "form": "WDWWL",
    "name": "Anderlecht",
-   "record": "2-0-2",
+   "record": "3-0-2",
    "short": "Anderlecht",
    "teamId": "441"
   },
@@ -8676,7 +10280,7 @@
    "abbr": "OFI",
    "form": "LDWWW",
    "name": "OFI Crete",
-   "record": "2-0-2",
+   "record": "2-0-3",
    "short": "OFI Crete",
    "teamId": "1010"
   },
@@ -8702,7 +10306,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-26T20:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-26T14:16:59Z",
   "venue": "Pankritio Stadium, Crete"
  },
@@ -8711,7 +10315,7 @@
    "abbr": "RSO",
    "form": "LWDLW",
    "name": "Real Sociedad",
-   "record": "1-2-1",
+   "record": "1-2-2",
    "short": "Real Sociedad",
    "teamId": "89"
   },
@@ -8723,7 +10327,7 @@
    "abbr": "CRY",
    "form": "LLDLW",
    "name": "Crystal Palace",
-   "record": "1-2-1",
+   "record": "2-2-1",
    "short": "C Palace",
    "teamId": "384"
   },
@@ -8749,7 +10353,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-26T20:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-26T14:16:59Z",
   "venue": "Selhurst Park, London"
  },
@@ -8758,7 +10362,7 @@
    "abbr": "REN",
    "form": "DLDLW",
    "name": "Stade Rennais",
-   "record": "1-3-0",
+   "record": "1-3-1",
    "short": "Rennes",
    "teamId": "169"
   },
@@ -8770,7 +10374,7 @@
    "abbr": "NEC",
    "form": "LWWLD",
    "name": "NEC Nijmegen",
-   "record": "2-1-1",
+   "record": "3-1-1",
    "short": "NEC",
    "teamId": "147"
   },
@@ -8796,7 +10400,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-26T20:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-26T14:16:59Z",
   "venue": "Goffertstadion, Nijmegen"
  },
@@ -8806,7 +10410,7 @@
    "abbr": "HBE",
    "form": "LLLDL",
    "name": "Hapoel Be'er",
-   "record": "0-1-3",
+   "record": "0-1-4",
    "short": "Hapoel Be'er",
    "teamId": "13083"
   },
@@ -8818,7 +10422,7 @@
    "abbr": "BES",
    "form": "WWLDW",
    "name": "Besiktas",
-   "record": "2-1-1",
+   "record": "3-1-1",
    "short": "Besiktas",
    "teamId": "1895"
   },
@@ -8846,7 +10450,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-26T17:45Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-26T14:16:59Z",
   "venue": "Batumi Stadium (Adjarabet Arena), Batumi"
  },
@@ -8856,7 +10460,7 @@
    "abbr": "LEV",
    "form": "WWDLL",
    "name": "Levski Sofia",
-   "record": "2-1-1",
+   "record": "2-1-2",
    "short": "Levski Sofia",
    "teamId": "490"
   },
@@ -8868,7 +10472,7 @@
    "abbr": "OLM",
    "form": "LWWWW",
    "name": "Marseille",
-   "record": "1-0-3",
+   "record": "2-0-3",
    "short": "Marseille",
    "teamId": "176"
   },
@@ -8896,7 +10500,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-26T17:45Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-26T14:16:59Z",
   "venue": "Stade Vélodrome, Marseille"
  },
@@ -8906,7 +10510,7 @@
    "abbr": "LECH",
    "form": "LDLDL",
    "name": "Lech Poznan",
-   "record": "0-1-3",
+   "record": "0-2-3",
    "short": "Lech Poznan",
    "teamId": "2990"
   },
@@ -8918,7 +10522,7 @@
    "abbr": "USG",
    "form": "WWWWW",
    "name": "Union St.-Gilloise",
-   "record": "3-1-0",
+   "record": "3-2-0",
    "short": "Union SG",
    "teamId": "5807"
   },
@@ -8946,7 +10550,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-26T17:45Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-26T14:16:59Z",
   "venue": "King Power at Den Dreef Stadion, Leuven"
  },
@@ -8955,7 +10559,7 @@
    "abbr": "CEL",
    "form": "WWWLD",
    "name": "Celtic",
-   "record": "1-0-3",
+   "record": "2-0-3",
    "short": "Celtic",
    "teamId": "256"
   },
@@ -8967,7 +10571,7 @@
    "abbr": "TOR",
    "form": "LWLLW",
    "name": "Torreense",
-   "record": "2-0-2",
+   "record": "2-0-3",
    "short": "Torreense",
    "teamId": "21615"
   },
@@ -8993,7 +10597,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-26T20:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-26T14:16:59Z",
   "venue": "Estádio Dr. Magalhaes Pessoa, Leiria"
  },
@@ -9003,7 +10607,7 @@
    "abbr": "JAG",
    "form": "LLWLW",
    "name": "Jagiellonia Bialystok",
-   "record": "1-0-3",
+   "record": "1-1-3",
    "short": "Jagiellonia ",
    "teamId": "11505"
   },
@@ -9015,7 +10619,7 @@
    "abbr": "SUN",
    "form": "DWLLW",
    "name": "Sunderland",
-   "record": "2-1-1",
+   "record": "2-2-1",
    "short": "Sunderland",
    "teamId": "366"
   },
@@ -9043,7 +10647,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-26T20:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-26T14:16:59Z",
   "venue": "Stadium of Light, Sunderland"
  },
@@ -9052,7 +10656,7 @@
    "abbr": "AZ",
    "form": "WWLLL",
    "name": "AZ Alkmaar",
-   "record": "2-0-2",
+   "record": "3-0-2",
    "short": "AZ Alkmaar",
    "teamId": "140"
   },
@@ -9064,7 +10668,7 @@
    "abbr": "SPP",
    "form": "LLDWW",
    "name": "Sparta Prague",
-   "record": "1-1-2",
+   "record": "1-1-3",
    "short": "Sparta",
    "teamId": "433"
   },
@@ -9090,7 +10694,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-26T20:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-26T14:16:59Z",
   "venue": "Generali Arena, Prague"
  },
@@ -9100,7 +10704,7 @@
    "abbr": "STG",
    "form": "LLLDD",
    "name": "SK Sturm Graz",
-   "record": "1-1-2",
+   "record": "1-1-3",
    "short": "Sturm Graz",
    "teamId": "3746"
   },
@@ -9112,7 +10716,7 @@
    "abbr": "TSG",
    "form": "LWDLL",
    "name": "TSG Hoffenheim",
-   "record": "1-1-2",
+   "record": "2-1-2",
    "short": "Hoffenheim",
    "teamId": "7911"
   },
@@ -9140,7 +10744,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-26T20:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-26T14:16:59Z",
   "venue": "PreZero Arena, Sinsheim"
  },
@@ -9150,7 +10754,7 @@
    "abbr": "NKC",
    "form": "WDLLL",
    "name": "NK Celje",
-   "record": "1-1-2",
+   "record": "1-2-2",
    "short": "NK Celje",
    "teamId": "3362"
   },
@@ -9162,7 +10766,7 @@
    "abbr": "FER",
    "form": "WWWWW",
    "name": "Ferencvaros",
-   "record": "4-0-0",
+   "record": "4-1-0",
    "short": "Ferencvaros",
    "teamId": "622"
   },
@@ -9190,7 +10794,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-26T20:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-26T14:16:59Z",
   "venue": "Groupama Arena, Budapest"
  },
@@ -9199,7 +10803,7 @@
    "abbr": "B04",
    "form": "WWLLW",
    "name": "Bayer Leverkusen",
-   "record": "3-0-1",
+   "record": "4-0-1",
    "short": "Leverkusen",
    "teamId": "131"
   },
@@ -9211,7 +10815,7 @@
    "abbr": "DZG",
    "form": "WLWDL",
    "name": "Dinamo Zagreb",
-   "record": "2-1-1",
+   "record": "2-1-2",
    "short": "Dinamo Zagreb",
    "teamId": "597"
   },
@@ -9237,7 +10841,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-26T17:45Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-26T14:16:59Z",
   "venue": "Maksimir Stadium, Zagreb"
  },
@@ -9247,7 +10851,7 @@
    "abbr": "SLB",
    "form": "WWWWW",
    "name": "Benfica",
-   "record": "4-0-0",
+   "record": "4-0-1",
    "short": "Benfica",
    "teamId": "1929"
   },
@@ -9259,7 +10863,7 @@
    "abbr": "PLZ",
    "form": "WLLLW",
    "name": "Viktoria Plzen",
-   "record": "1-0-3",
+   "record": "2-0-3",
    "short": "Viktoria Plzen",
    "teamId": "11706"
   },
@@ -9287,7 +10891,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-26T17:45Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-26T14:16:59Z",
   "venue": "Doosan Arena, Plzen"
  },
@@ -9296,7 +10900,7 @@
    "abbr": "BOU",
    "form": "WWWWW",
    "name": "AFC Bournemouth",
-   "record": "4-0-0",
+   "record": "5-0-0",
    "short": "Bournemouth",
    "teamId": "349"
   },
@@ -9308,7 +10912,7 @@
    "abbr": "CEL",
    "form": "LWDLL",
    "name": "Celta Vigo",
-   "record": "1-0-3",
+   "record": "1-0-4",
    "short": "Celta Vigo",
    "teamId": "85"
   },
@@ -9334,7 +10938,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-26T17:45Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-26T14:16:59Z",
   "venue": "Balaidos, Vigo"
  },
@@ -9344,7 +10948,7 @@
    "abbr": "ARA",
    "form": "LLLWL",
    "name": "Ararat-Armenia",
-   "record": "0-0-4",
+   "record": "0-0-5",
    "short": "Ararat-Armenia",
    "teamId": "20024"
   },
@@ -9356,7 +10960,7 @@
    "abbr": "SLZ",
    "form": "LWLWW",
    "name": "RB Salzburg",
-   "record": "1-1-2",
+   "record": "2-1-2",
    "short": "RB Salzburg",
    "teamId": "2790"
   },
@@ -9384,7 +10988,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-26T17:45Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-26T14:16:59Z",
   "venue": "Red Bull Arena Salzburg, Salzburg"
  },
@@ -9393,7 +10997,7 @@
    "abbr": "MIL",
    "form": "WWLWL",
    "name": "AC Milan",
-   "record": "1-0-3",
+   "record": "2-0-3",
    "short": "Milan",
    "teamId": "103"
   },
@@ -9405,7 +11009,7 @@
    "abbr": "OLY",
    "form": "WDDWW",
    "name": "Olympiacos",
-   "record": "3-1-0",
+   "record": "3-1-1",
    "short": "Olympiacos",
    "teamId": "435"
   },
@@ -9431,7 +11035,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-26T17:45Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-26T14:16:59Z",
   "venue": "Georgios Karaiskakis Stadium, Piraeus"
  },
@@ -9443,7 +11047,7 @@
    "short": "Guadalajara",
    "teamId": "219"
   },
-  "confidence": 33,
+  "confidence": 36,
   "espnId": "401931982",
   "espnLeague": "mex.1",
   "espnSport": "soccer",
@@ -9461,26 +11065,26 @@
    "Liga MX Apertura playoff preview: Will Cruz Azul win back-to-back titles?"
   ],
   "odds": {
-   "mlAway": "+160",
+   "mlAway": "+140",
    "mlAwayOpen": "+155",
-   "mlDraw": "+220",
-   "mlHome": "+175",
+   "mlDraw": "+215",
+   "mlHome": "+205",
    "mlHomeOpen": "+165",
    "provider": "DraftKings",
-   "spread": "GDL +160",
+   "spread": "GDL +140",
    "spreadOpen": "GDL -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Guadalajara about 36% no-vig at +160; no edge worth a pick.",
+  "reason": "Guadalajara about 39% no-vig at +140; no edge worth a pick.",
   "risks": [],
   "slug": "mex.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-27T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Estadio Hidalgo, Pachuca"
  },
  "soccer-401931986": {
@@ -9542,7 +11146,7 @@
    "short": "Cruz Azul",
    "teamId": "218"
   },
-  "confidence": 40,
+  "confidence": 41,
   "espnId": "401931995",
   "espnLeague": "mex.1",
   "espnSport": "soccer",
@@ -9560,26 +11164,26 @@
    "Liga MX Apertura playoff preview: Will Cruz Azul win back-to-back titles?"
   ],
   "odds": {
-   "mlAway": "+120",
+   "mlAway": "+115",
    "mlAwayOpen": "+120",
-   "mlDraw": "+250",
-   "mlHome": "+215",
+   "mlDraw": "+260",
+   "mlHome": "+220",
    "mlHomeOpen": "+210",
    "provider": "DraftKings",
-   "spread": "CAZ +120",
+   "spread": "CAZ +115",
    "spreadOpen": "CAZ -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Cruz Azul about 43% no-vig at +120; no edge worth a pick.",
+  "reason": "Cruz Azul about 44% no-vig at +115; no edge worth a pick.",
   "risks": [],
   "slug": "mex.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-27T03:10Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Estadio León, León de los Aldamas"
  },
  "soccer-401931996": {
@@ -9590,7 +11194,7 @@
    "short": "Monterrey",
    "teamId": "220"
   },
-  "confidence": 36,
+  "confidence": 37,
   "espnId": "401931996",
   "espnLeague": "mex.1",
   "espnSport": "soccer",
@@ -9610,17 +11214,17 @@
   "odds": {
    "mlAway": "+235",
    "mlAwayOpen": "+230",
-   "mlDraw": "+185",
-   "mlHome": "+135",
+   "mlDraw": "+195",
+   "mlHome": "+130",
    "mlHomeOpen": "+160",
    "provider": "DraftKings",
-   "spread": "AME +135",
+   "spread": "AME +130",
    "spreadOpen": "AME -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "América about 40% no-vig at +135; no edge worth a pick.",
+  "reason": "América about 41% no-vig at +130; no edge worth a pick.",
   "risks": [
    "opponent in better form (DWWLD)"
   ],
@@ -9629,7 +11233,7 @@
   "stars": 1,
   "start": "2026-11-29T03:10Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Estadio Banorte, Mexico City"
  },
  "soccer-401931997": {
@@ -9662,7 +11266,7 @@
   "stars": 1,
   "start": "2026-11-29T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Estadio Jalisco, Guadalajara"
  },
  "soccer-401931998": {
@@ -9760,7 +11364,7 @@
   "stars": 1,
   "start": "2026-11-29T03:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Providence Park, Portland, Oregon"
  },
  "soccer-401933722": {
@@ -9810,7 +11414,7 @@
   "stars": 1,
   "start": "2026-11-28T23:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "TQL Stadium, Cincinnati, Ohio"
  },
  "soccer-401933723": {
@@ -9862,7 +11466,7 @@
   "stars": 1,
   "start": "2026-11-28T21:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Subaru Park, Chester, Pennsylvania"
  },
  "soccer-401933724": {
@@ -9912,7 +11516,7 @@
   "stars": 1,
   "start": "2026-11-28T19:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Shell Energy Stadium, Houston, Texas"
  },
  "soccer-401933725": {
@@ -9962,7 +11566,7 @@
   "stars": 1,
   "start": "2026-11-28T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "America First Field, Sandy, Utah"
  },
  "soccer-401933726": {
@@ -10014,7 +11618,7 @@
   "stars": 1,
   "start": "2026-11-29T01:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "BMO Stadium, Los Angeles, California"
  },
  "soccer-401933727": {
@@ -10066,7 +11670,7 @@
   "stars": 1,
   "start": "2026-11-28T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "ScottsMiracle-Gro Field, Columbus, Ohio"
  },
  "soccer-401933737": {
@@ -10077,7 +11681,7 @@
    "short": "Chicago",
    "teamId": "182"
   },
-  "confidence": 37,
+  "confidence": 36,
   "espnId": "401933737",
   "espnLeague": "usa.1",
   "espnSport": "soccer",
@@ -10097,26 +11701,26 @@
    "Is your team out of the MLS playoffs? Adopt these chaos clubs as your 2nd side"
   ],
   "odds": {
-   "mlAway": "+130",
+   "mlAway": "+135",
    "mlAwayOpen": "+125",
    "mlDraw": "+270",
-   "mlHome": "+165",
+   "mlHome": "+160",
    "mlHomeOpen": "+170",
    "provider": "DraftKings",
-   "spread": "CHI +130",
+   "spread": "CHI +135",
    "spreadOpen": "CHI -0.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
   "pick": "Pass",
-  "reason": "Chicago about 40% no-vig at +130; no edge worth a pick.",
+  "reason": "Chicago about 39% no-vig at +135; no edge worth a pick.",
   "risks": [],
   "slug": "usa.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-28T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T14:16:59Z",
+  "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Bank of America Stadium, Charlotte, North Carolina"
  }
 }
