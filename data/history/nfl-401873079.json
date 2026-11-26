@@ -1,0 +1,150 @@
+{
+ "id": "nfl-401873079",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-26T01:00Z",
+ "home": {
+  "name": "Los Angeles Rams",
+  "abbr": "LAR",
+  "teamId": "14",
+  "score": 26.0
+ },
+ "away": {
+  "name": "Green Bay Packers",
+  "abbr": "GB",
+  "teamId": "9",
+  "score": 13.0
+ },
+ "odds": {
+  "mlAway": "+117",
+  "mlAwayOpen": "+164",
+  "mlHome": "-138",
+  "mlHomeOpen": "-198",
+  "provider": "Draft Kings",
+  "spread": "LAR -2.5",
+  "spreadOpen": "LAR -3.5",
+  "total": "43.5",
+  "totalOpen": "49.5"
+ },
+ "espnWinProb": {
+  "away": 32.6,
+  "home": 67.2
+ },
+ "teams": {
+  "away": {
+   "abbr": "GB",
+   "stats": {
+    "firstDowns": "11",
+    "firstDownsPassing": "7",
+    "firstDownsRushing": "3",
+    "firstDownsPenalty": "1",
+    "thirdDownEff": "2-8",
+    "fourthDownEff": "1-1",
+    "totalOffensivePlays": "44",
+    "totalYards": "244",
+    "yardsPerPlay": "5.5",
+    "totalDrives": "10",
+    "netPassingYards": "189",
+    "completionAttempts": "17/29",
+    "yardsPerPass": "6.3",
+    "interceptions": "2",
+    "sacksYardsLost": "1-9",
+    "rushingYards": "55",
+    "rushingAttempts": "14",
+    "yardsPerRushAttempt": "3.9",
+    "redZoneAttempts": "1-1",
+    "totalPenaltiesYards": "8-78",
+    "turnovers": "3",
+    "fumblesLost": "1",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "19:20"
+   }
+  },
+  "home": {
+   "abbr": "LAR",
+   "stats": {
+    "firstDowns": "23",
+    "firstDownsPassing": "7",
+    "firstDownsRushing": "12",
+    "firstDownsPenalty": "4",
+    "thirdDownEff": "8-15",
+    "fourthDownEff": "0-0",
+    "totalOffensivePlays": "71",
+    "totalYards": "373",
+    "yardsPerPlay": "5.3",
+    "totalDrives": "10",
+    "netPassingYards": "132",
+    "completionAttempts": "16/23",
+    "yardsPerPass": "5.5",
+    "interceptions": "1",
+    "sacksYardsLost": "1-8",
+    "rushingYards": "241",
+    "rushingAttempts": "47",
+    "yardsPerRushAttempt": "5.1",
+    "redZoneAttempts": "2-3",
+    "totalPenaltiesYards": "5-35",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "40:40"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "9:55",
+   "team": "LAR",
+   "text": "Brandon McManus 43 Yd Field Goal"
+  },
+  {
+   "period": 1,
+   "clock": "3:12",
+   "team": "LAR",
+   "text": "Brandon McManus 41 Yd Field Goal"
+  },
+  {
+   "period": 1,
+   "clock": "1:28",
+   "team": "GB",
+   "text": "Trey Smack 54 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "11:29",
+   "team": "LAR",
+   "text": "Kyren Williams 7 Yd Rush (Brandon McManus Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "8:06",
+   "team": "GB",
+   "text": "Christian Watson 6 Yd pass from Jordan Love (Trey Smack Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:50",
+   "team": "GB",
+   "text": "Trey Smack 48 Yd Field Goal"
+  },
+  {
+   "period": 3,
+   "clock": "6:58",
+   "team": "LAR",
+   "text": "Blake Corum 1 Yd Rush (Brandon McManus Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "6:13",
+   "team": "LAR",
+   "text": "Brandon McManus 40 Yd Field Goal"
+  },
+  {
+   "period": 4,
+   "clock": "0:27",
+   "team": "LAR",
+   "text": "Brandon McManus 30 Yd Field Goal "
+  }
+ ]
+}

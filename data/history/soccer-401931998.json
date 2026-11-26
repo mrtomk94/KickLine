@@ -1,0 +1,276 @@
+{
+ "id": "soccer-401931998",
+ "sport": "soccer",
+ "league": "Liga MX",
+ "start": "2026-11-26T03:10Z",
+ "home": {
+  "name": "Monterrey",
+  "abbr": "MTY",
+  "teamId": "220",
+  "score": 0.0
+ },
+ "away": {
+  "name": "América",
+  "abbr": "AME",
+  "teamId": "227",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+240",
+  "mlAwayOpen": "+190",
+  "mlDraw": "+245",
+  "mlHome": "+110",
+  "mlHomeOpen": "+135",
+  "provider": "DraftKings",
+  "spread": "MTY +110",
+  "spreadOpen": "MTY -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "MTY",
+   "stats": {
+    "foulsCommitted": "5",
+    "yellowCards": "0",
+    "redCards": "1",
+    "offsides": "3",
+    "wonCorners": "3",
+    "saves": "8",
+    "possessionPct": "30.9",
+    "totalShots": "8",
+    "shotsOnTarget": "1",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "145",
+    "totalPasses": "217",
+    "passPct": "0.7",
+    "accurateCrosses": "2",
+    "totalCrosses": "15",
+    "crossPct": "0.1",
+    "totalLongBalls": "56",
+    "accurateLongBalls": "26",
+    "longballPct": "0.5",
+    "blockedShots": "0",
+    "effectiveTackles": "16",
+    "totalTackles": "21",
+    "tacklePct": "0.8",
+    "interceptions": "9",
+    "effectiveClearance": "38",
+    "totalClearance": "38"
+   }
+  },
+  "away": {
+   "abbr": "AME",
+   "stats": {
+    "foulsCommitted": "21",
+    "yellowCards": "6",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "12",
+    "saves": "1",
+    "possessionPct": "69.1",
+    "totalShots": "19",
+    "shotsOnTarget": "8",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "426",
+    "totalPasses": "505",
+    "passPct": "0.8",
+    "accurateCrosses": "2",
+    "totalCrosses": "20",
+    "crossPct": "0.1",
+    "totalLongBalls": "37",
+    "accurateLongBalls": "21",
+    "longballPct": "0.6",
+    "blockedShots": "7",
+    "effectiveTackles": "13",
+    "totalTackles": "17",
+    "tacklePct": "0.8",
+    "interceptions": "10",
+    "effectiveClearance": "25",
+    "totalClearance": "25"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "10'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "11'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Red Card",
+   "clock": "11'",
+   "team": null,
+   "text": "Ricardo Chávez (Monterrey) is shown the red card for violent conduct."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "44'",
+   "team": null,
+   "text": "Érick Sánchez (Club América) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+4'",
+   "team": null,
+   "text": "First Half ends, Monterrey 0, Club América 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Club América. Brian Rodríguez replaces Érick Sánchez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Monterrey. Fidel Ambríz replaces Luca Orellano."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "50'",
+   "team": null,
+   "text": "Óscar Perea (Club América) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "58'",
+   "team": null,
+   "text": "Edwin Cerrillo (Club América) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "69'",
+   "team": null,
+   "text": "Substitution, Club América. Isaías Violante replaces Óscar Perea."
+  },
+  {
+   "type": "Substitution",
+   "clock": "69'",
+   "team": null,
+   "text": "Substitution, Club América. Cristián Borja replaces Santiago Bueno."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "76'",
+   "team": null,
+   "text": "Alan Cervantes (Club América) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Club América. Carlos Álvarez replaces Álex Zendejas."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Monterrey. Luis Reyes replaces Jesús Corona."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "81'",
+   "team": null,
+   "text": "Delay in match because of an injury Hugo Cuypers (Monterrey)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "81'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "82'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "82'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Monterrey. Cristian Reyes replaces Hugo Cuypers because of an injury."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Monterrey. César Garza replaces Óliver Torres."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "88'",
+   "team": null,
+   "text": "Israel Reyes (Club América) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Carlos Álvarez (Club América) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Delay in match because of an injury Israel Reyes (Club América)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Delay in match because of an injury Fidel Ambríz (Monterrey)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'+4'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+7'",
+   "team": null,
+   "text": "Second Half ends, Monterrey 0, Club América 0."
+  }
+ ],
+ "scoringPlays": []
+}
