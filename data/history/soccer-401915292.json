@@ -1,0 +1,276 @@
+{
+ "id": "soccer-401915292",
+ "sport": "soccer",
+ "league": "Champions League",
+ "start": "2026-11-25T20:00Z",
+ "home": {
+  "name": "Club Brugge",
+  "abbr": "BRU",
+  "teamId": "570",
+  "score": 0.0
+ },
+ "away": {
+  "name": "Liverpool",
+  "abbr": "LIV",
+  "teamId": "364",
+  "score": 3.0
+ },
+ "odds": {
+  "mlAway": "-165",
+  "mlAwayOpen": "-145",
+  "mlDraw": "+380",
+  "mlHome": "+360",
+  "mlHomeOpen": "+310",
+  "provider": "DraftKings",
+  "spread": "LIV -165",
+  "spreadOpen": "LIV -0.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "BRU",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "8",
+    "saves": "1",
+    "possessionPct": "53.5",
+    "totalShots": "17",
+    "shotsOnTarget": "5",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "459",
+    "totalPasses": "542",
+    "passPct": "0.8",
+    "accurateCrosses": "6",
+    "totalCrosses": "20",
+    "crossPct": "0.3",
+    "totalLongBalls": "46",
+    "accurateLongBalls": "16",
+    "longballPct": "0.3",
+    "blockedShots": "7",
+    "effectiveTackles": "16",
+    "totalTackles": "23",
+    "tacklePct": "0.7",
+    "interceptions": "6",
+    "effectiveClearance": "23",
+    "totalClearance": "23"
+   }
+  },
+  "away": {
+   "abbr": "LIV",
+   "stats": {
+    "foulsCommitted": "13",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "4",
+    "saves": "5",
+    "possessionPct": "46.5",
+    "totalShots": "13",
+    "shotsOnTarget": "4",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "387",
+    "totalPasses": "471",
+    "passPct": "0.8",
+    "accurateCrosses": "5",
+    "totalCrosses": "13",
+    "crossPct": "0.4",
+    "totalLongBalls": "45",
+    "accurateLongBalls": "20",
+    "longballPct": "0.4",
+    "blockedShots": "3",
+    "effectiveTackles": "7",
+    "totalTackles": "11",
+    "tacklePct": "0.6",
+    "interceptions": "12",
+    "effectiveClearance": "21",
+    "totalClearance": "21"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal",
+   "clock": "13'",
+   "team": null,
+   "text": "Goal! Club Brugge 0, Liverpool 1. Alexander Isak (Liverpool) right footed shot from the centre of the box to the bottom left corner. Assisted by Dominik Szoboszlai."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "38'",
+   "team": null,
+   "text": "Delay in match because of an injury Víctor Muñoz (Liverpool)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "38'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "42'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "42'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "42'",
+   "team": null,
+   "text": "Substitution, Liverpool. Rio Ngumoha replaces Víctor Muñoz because of an injury."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+5'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Club Brugge 0, Liverpool 1."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "50'",
+   "team": null,
+   "text": "Delay in match because of an injury Brandon Mechele (Club Brugge)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "50'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "51'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "51'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "63'",
+   "team": null,
+   "text": "Delay in match because of an injury Joaquin Seys (Club Brugge)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "63'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "65'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "65'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Liverpool. Virgil van Dijk replaces Jeremie Frimpong."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Liverpool. Alexis Mac Allister replaces Trey Nyoni."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Club Brugge. Romeo Vermant replaces Hugo Vetlesen."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Club Brugge. Mamadou Diakhon replaces Félix Lemaréchal."
+  },
+  {
+   "type": "Goal",
+   "clock": "79'",
+   "team": null,
+   "text": "Goal! Club Brugge 0, Liverpool 2. Florian Wirtz (Liverpool) right footed shot from outside the box to the bottom left corner. Assisted by Rio Ngumoha following a fast break."
+  },
+  {
+   "type": "Goal",
+   "clock": "82'",
+   "team": null,
+   "text": "Goal! Club Brugge 0, Liverpool 3. Alexander Isak (Liverpool) right footed shot from the centre of the box to the centre of the goal. Assisted by Alisson Becker following a fast break."
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, Club Brugge. Hugo Siquet replaces Kyriani Sabbe."
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, Club Brugge. Cheveyo Tsawa replaces Freddie Potts."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Liverpool. Luke Chambers replaces Bradley Barcola."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Liverpool. Lewis Koumas replaces Alexander Isak."
+  },
+  {
+   "type": "Substitution",
+   "clock": "89'",
+   "team": null,
+   "text": "Substitution, Club Brugge. Matteo Dams replaces Joaquin Seys."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Second Half ends, Club Brugge 0, Liverpool 3."
+  }
+ ],
+ "scoringPlays": []
+}

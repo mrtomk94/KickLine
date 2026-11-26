@@ -1,0 +1,312 @@
+{
+ "id": "soccer-401915373",
+ "sport": "soccer",
+ "league": "Champions League",
+ "start": "2026-11-25T20:00Z",
+ "home": {
+  "name": "Sporting CP",
+  "abbr": "SCP",
+  "teamId": "2250",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Manchester United",
+  "abbr": "MAN",
+  "teamId": "360",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "+150",
+  "mlAwayOpen": "+160",
+  "mlDraw": "+275",
+  "mlHome": "+165",
+  "mlHomeOpen": "+145",
+  "provider": "DraftKings",
+  "spread": "MAN +150",
+  "spreadOpen": "SCP -0.5",
+  "total": "3.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "SCP",
+   "stats": {
+    "foulsCommitted": "18",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "3",
+    "saves": "0",
+    "possessionPct": "50.8",
+    "totalShots": "11",
+    "shotsOnTarget": "4",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "2",
+    "accuratePasses": "413",
+    "totalPasses": "470",
+    "passPct": "0.9",
+    "accurateCrosses": "2",
+    "totalCrosses": "15",
+    "crossPct": "0.1",
+    "totalLongBalls": "50",
+    "accurateLongBalls": "29",
+    "longballPct": "0.6",
+    "blockedShots": "1",
+    "effectiveTackles": "7",
+    "totalTackles": "13",
+    "tacklePct": "0.5",
+    "interceptions": "15",
+    "effectiveClearance": "13",
+    "totalClearance": "13"
+   }
+  },
+  "away": {
+   "abbr": "MAN",
+   "stats": {
+    "foulsCommitted": "13",
+    "yellowCards": "1",
+    "redCards": "1",
+    "offsides": "6",
+    "wonCorners": "2",
+    "saves": "2",
+    "possessionPct": "49.2",
+    "totalShots": "7",
+    "shotsOnTarget": "2",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "395",
+    "totalPasses": "460",
+    "passPct": "0.9",
+    "accurateCrosses": "0",
+    "totalCrosses": "7",
+    "crossPct": "0.0",
+    "totalLongBalls": "49",
+    "accurateLongBalls": "18",
+    "longballPct": "0.4",
+    "blockedShots": "1",
+    "effectiveTackles": "14",
+    "totalTackles": "20",
+    "tacklePct": "0.7",
+    "interceptions": "11",
+    "effectiveClearance": "14",
+    "totalClearance": "14"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "10'",
+   "team": null,
+   "text": "Delay in match because of an injury Noussair Mazraoui (Manchester United)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "10'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "11'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "11'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Saved",
+   "clock": "30'",
+   "team": null,
+   "text": "Penalty saved. Luis Suárez (Sporting Lisbon) right footed shot saved in the centre of the goal by Senne Lammens (Manchester United)."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "31'",
+   "team": null,
+   "text": "Senne Lammens (Manchester United) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "33'",
+   "team": null,
+   "text": "Goal! Sporting Lisbon 1, Manchester United 0. Luis Suárez (Sporting Lisbon) converts the penalty with a right footed shot to the bottom left corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "40'",
+   "team": null,
+   "text": "Youri Tielemans (Manchester United) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "41'",
+   "team": null,
+   "text": "Delay in match because of an injury Gonçalo Inácio (Sporting Lisbon)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "41'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "42'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "42'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+4'",
+   "team": null,
+   "text": "First Half ends, Sporting Lisbon 1, Manchester United 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Sporting Lisbon 1, Manchester United 0."
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "48'",
+   "team": null,
+   "text": "Goal! Sporting Lisbon 1, Manchester United 1. Bruno Fernandes (Manchester United) converts the penalty with a right footed shot to the bottom left corner."
+  },
+  {
+   "type": "Goal",
+   "clock": "50'",
+   "team": null,
+   "text": "Goal! Sporting Lisbon 1, Manchester United 2. Bruno Fernandes (Manchester United) left footed shot from outside the box to the high centre of the goal. Assisted by Amad Diallo."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "53'",
+   "team": null,
+   "text": "Eduardo Quaresma (Sporting Lisbon) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Manchester United. Patrick Dorgu replaces Joshua Zirkzee."
+  },
+  {
+   "type": "Substitution",
+   "clock": "64'",
+   "team": null,
+   "text": "Substitution, Manchester United. Diogo Dalot replaces Noussair Mazraoui."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Sporting Lisbon. Rodrigo Zalazar replaces Geny Catamo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Sporting Lisbon. Nestory Irankunda replaces Issa Doumbia."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Sporting Lisbon. Ibrahima Ba replaces Eduardo Quaresma."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Manchester United. Shea Lacey replaces Amad Diallo because of an injury."
+  },
+  {
+   "type": "Goal",
+   "clock": "80'",
+   "team": null,
+   "text": "Goal! Sporting Lisbon 2, Manchester United 2. Luis Suárez (Sporting Lisbon) right footed shot from very close range to the centre of the goal.Goal confirmed following VAR Review."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "80'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "81'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "82'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "84'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Sporting Lisbon. Fotis Ioannidis replaces Luis Suárez."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "87'",
+   "team": null,
+   "text": "Nestory Irankunda (Sporting Lisbon) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Substitution, Manchester United. Mason Mount replaces Bryan Mbeumo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Substitution, Manchester United. Andrey Santos replaces Bruno Fernandes."
+  },
+  {
+   "type": "Red Card",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Second yellow card to Youri Tielemans (Manchester United) for a bad foul."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+7'",
+   "team": null,
+   "text": "Second Half ends, Sporting Lisbon 2, Manchester United 2."
+  }
+ ],
+ "scoringPlays": []
+}

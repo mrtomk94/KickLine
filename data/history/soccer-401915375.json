@@ -1,0 +1,276 @@
+{
+ "id": "soccer-401915375",
+ "sport": "soccer",
+ "league": "Champions League",
+ "start": "2026-11-25T20:00Z",
+ "home": {
+  "name": "Shakhtar Donetsk",
+  "abbr": "SHK",
+  "teamId": "493",
+  "score": 0.0
+ },
+ "away": {
+  "name": "Fenerbahce",
+  "abbr": "FEN",
+  "teamId": "436",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "+160",
+  "mlAwayOpen": "+160",
+  "mlDraw": "+245",
+  "mlHome": "+170",
+  "mlHomeOpen": "+150",
+  "provider": "DraftKings",
+  "spread": "FEN +160",
+  "spreadOpen": "SHK -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "SHK",
+   "stats": {
+    "foulsCommitted": "12",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "3",
+    "saves": "4",
+    "possessionPct": "54.2",
+    "totalShots": "8",
+    "shotsOnTarget": "2",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "426",
+    "totalPasses": "481",
+    "passPct": "0.9",
+    "accurateCrosses": "1",
+    "totalCrosses": "12",
+    "crossPct": "0.1",
+    "totalLongBalls": "31",
+    "accurateLongBalls": "15",
+    "longballPct": "0.5",
+    "blockedShots": "1",
+    "effectiveTackles": "12",
+    "totalTackles": "18",
+    "tacklePct": "0.7",
+    "interceptions": "5",
+    "effectiveClearance": "22",
+    "totalClearance": "22"
+   }
+  },
+  "away": {
+   "abbr": "FEN",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "5",
+    "saves": "2",
+    "possessionPct": "45.8",
+    "totalShots": "13",
+    "shotsOnTarget": "5",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "338",
+    "totalPasses": "393",
+    "passPct": "0.9",
+    "accurateCrosses": "7",
+    "totalCrosses": "22",
+    "crossPct": "0.3",
+    "totalLongBalls": "54",
+    "accurateLongBalls": "33",
+    "longballPct": "0.6",
+    "blockedShots": "2",
+    "effectiveTackles": "17",
+    "totalTackles": "22",
+    "tacklePct": "0.8",
+    "interceptions": "6",
+    "effectiveClearance": "18",
+    "totalClearance": "18"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "19'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "19'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "44'",
+   "team": null,
+   "text": "Delay in match because of an injury Marlon Gomes (Shakhtar Donetsk)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "44'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "45'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": "First Half ends, Shakhtar Donetsk 0, Fenerbahce 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "49'",
+   "team": null,
+   "text": "Delay in match because of an injury Milan Skriniar (Fenerbahce)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "49'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "51'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "51'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "52'",
+   "team": null,
+   "text": "Delay in match because of an injury Alisson Santana (Shakhtar Donetsk)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "52'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "52'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "52'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "53'",
+   "team": null,
+   "text": "İsmail Yüksek (Fenerbahce) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "55'",
+   "team": null,
+   "text": "Substitution, Shakhtar Donetsk. Isaque replaces Marlon Gomes."
+  },
+  {
+   "type": "Goal",
+   "clock": "56'",
+   "team": null,
+   "text": "Goal! Shakhtar Donetsk 0, Fenerbahce 1. Vedat Muriqi (Fenerbahce) left footed shot from very close range to the centre of the goal."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "69'",
+   "team": null,
+   "text": "Valerii Bondar (Shakhtar Donetsk) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "69'",
+   "team": null,
+   "text": "Substitution, Fenerbahce. Irfan Can Kahveci replaces Kerem Aktürkoglu."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "73'",
+   "team": null,
+   "text": "Pedro Henrique (Shakhtar Donetsk) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Fenerbahce. Mattéo Guendouzi replaces Mason Greenwood."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Shakhtar Donetsk. Irakli Azarovi replaces Vinícius Tobias."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Shakhtar Donetsk. Luca Meirelles replaces Lassina Traoré."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Fenerbahce. Romelu Lukaku replaces Vedat Muriqi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "89'",
+   "team": null,
+   "text": "Substitution, Shakhtar Donetsk. Prosper Obah replaces Yehor Nazaryna."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

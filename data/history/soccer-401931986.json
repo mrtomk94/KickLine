@@ -1,0 +1,342 @@
+{
+ "id": "soccer-401931986",
+ "sport": "soccer",
+ "league": "Liga MX",
+ "start": "2026-11-26T01:00Z",
+ "home": {
+  "name": "Toluca",
+  "abbr": "TOL",
+  "teamId": "223",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Atlas",
+  "abbr": "ATS",
+  "teamId": "216",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+550",
+  "mlAwayOpen": "+500",
+  "mlDraw": "+400",
+  "mlHome": "-230",
+  "mlHomeOpen": "-230",
+  "provider": "DraftKings",
+  "spread": "TOL -230",
+  "spreadOpen": "TOL -1.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "TOL",
+   "stats": {
+    "foulsCommitted": "7",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "7",
+    "saves": "5",
+    "possessionPct": "59",
+    "totalShots": "19",
+    "shotsOnTarget": "6",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "432",
+    "totalPasses": "485",
+    "passPct": "0.9",
+    "accurateCrosses": "6",
+    "totalCrosses": "19",
+    "crossPct": "0.3",
+    "totalLongBalls": "53",
+    "accurateLongBalls": "37",
+    "longballPct": "0.7",
+    "blockedShots": "4",
+    "effectiveTackles": "6",
+    "totalTackles": "11",
+    "tacklePct": "0.5",
+    "interceptions": "5",
+    "effectiveClearance": "16",
+    "totalClearance": "16"
+   }
+  },
+  "away": {
+   "abbr": "ATS",
+   "stats": {
+    "foulsCommitted": "7",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "5",
+    "saves": "4",
+    "possessionPct": "41",
+    "totalShots": "11",
+    "shotsOnTarget": "5",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "277",
+    "totalPasses": "329",
+    "passPct": "0.8",
+    "accurateCrosses": "4",
+    "totalCrosses": "20",
+    "crossPct": "0.2",
+    "totalLongBalls": "26",
+    "accurateLongBalls": "12",
+    "longballPct": "0.5",
+    "blockedShots": "3",
+    "effectiveTackles": "13",
+    "totalTackles": "17",
+    "tacklePct": "0.8",
+    "interceptions": "6",
+    "effectiveClearance": "16",
+    "totalClearance": "16"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "15'",
+   "team": null,
+   "text": "Goal! Toluca 1, Atlas 0. Helinho (Toluca) left footed shot from outside the box to the top left corner. Assisted by Nicolás Castro."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "21'",
+   "team": null,
+   "text": "Alexis Vega (Toluca) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "21'",
+   "team": null,
+   "text": "Delay in match because of an injury Florián Monzón (Atlas)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "21'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "22'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "22'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": "First Half ends, Toluca 1, Atlas 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Toluca. Everardo López replaces Jesús Angulo."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "50'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "51'",
+   "team": null,
+   "text": "Delay in match because of an injury Paulinho (Toluca)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "51'",
+   "team": null,
+   "text": "Delay in match (Atlas)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "52'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "52'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "52'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "54'",
+   "team": null,
+   "text": "Goal! Toluca 2, Atlas 0. Helinho (Toluca) converts the penalty with a left footed shot to the bottom right corner."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "56'",
+   "team": null,
+   "text": "Delay in match because of an injury Milton Valenzuela (Atlas)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "56'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "57'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "57'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, Atlas. Jorge Rodríguez replaces Milton Valenzuela because of an injury."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Atlas. Arturo González replaces Édgar Zaldívar."
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Atlas. Ryan Mmaee replaces Florián Monzón."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Toluca. Fernando Arce replaces Paulinho."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Toluca. Federico Viñas replaces Alexis Vega."
+  },
+  {
+   "type": "Substitution",
+   "clock": "78'",
+   "team": null,
+   "text": "Substitution, Toluca. Jorge Díaz replaces Helinho."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Atlas. Víctor Ríos replaces Aldo Rocha."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Atlas. Rivaldo Lozano replaces Luís Esteves."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "85'",
+   "team": null,
+   "text": "Delay in match because of an injury Luis García (Toluca)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "85'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Toluca. Antonio Briseño replaces Luan."
+  },
+  {
+   "type": "End Delay",
+   "clock": "86'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "86'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Antonio Briseño (Toluca) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Ryan Mmaee (Atlas) is shown the yellow card."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Delay in match because of an injury Manuel Capasso (Atlas)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Delay in match because of an injury Luis García (Toluca)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'+3'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  }
+ ],
+ "scoringPlays": []
+}

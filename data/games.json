@@ -1,337 +1,4 @@
 {
- "nba-401909314": {
-  "away": {
-   "abbr": "DET",
-   "form": "LLWWL",
-   "injuries": [
-    "Ebuka Okorie (G) – Out, Oblique",
-    "Taurean Prince (F) – Out, Knee",
-    "Duncan Robinson (F) – Out, Quadriceps",
-    "Jalen Duren (C) – Out, Hamstring"
-   ],
-   "name": "Detroit Pistons",
-   "record": "11-6",
-   "short": "Pistons",
-   "teamId": "8"
-  },
-  "confidence": 51,
-  "espnId": "401909314",
-  "espnLeague": "nba",
-  "espnSport": "basketball",
-  "espnWinProb": {
-   "away": 53.9,
-   "home": 46.1
-  },
-  "home": {
-   "abbr": "ORL",
-   "form": "LWLWW",
-   "injuries": [
-    "Jonathan Isaac (F) – Out, Knee",
-    "Izaiyah Nelson (F) – Out, Ankle",
-    "Noah Penda (F) – Out, Hamstring"
-   ],
-   "name": "Orlando Magic",
-   "record": "7-10",
-   "short": "Magic",
-   "teamId": "19"
-  },
-  "id": "nba-401909314",
-  "injuriesRaw": {
-   "away": [
-    {
-     "detail": "Oblique",
-     "player": "Ebuka Okorie",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Taurean Prince",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Quadriceps",
-     "player": "Duncan Robinson",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Hamstring",
-     "player": "Jalen Duren",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    }
-   ],
-   "home": [
-    {
-     "detail": "Knee",
-     "player": "Jonathan Isaac",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Ankle",
-     "player": "Izaiyah Nelson",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Hamstring",
-     "player": "Noah Penda",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Ankle",
-     "player": "Paolo Banchero",
-     "pos": "F",
-     "stale": true,
-     "status": "Out"
-    }
-   ]
-  },
-  "league": "NBA",
-  "link": "https://www.espn.com/nba/game/_/gameId/401909314",
-  "news": [
-   "Fantasy notebook: Karabell on Paul George, Tyler Herro, De'Aaron Fox, more",
-   "Fantasy basketball adds and NBA bets: Hot streaks for Paul Reed, Jamal Murray",
-   "Sources: Wolves' Donte DiVincenzo eyes New Year's for season debut"
-  ],
-  "odds": {
-   "mlAway": "-130",
-   "mlAwayOpen": "-125",
-   "mlHome": "+110",
-   "mlHomeOpen": "+106",
-   "provider": "DraftKings",
-   "spread": "DET -2.5",
-   "spreadOpen": "DET -1.5",
-   "total": "212.5",
-   "totalOpen": "214.5"
-  },
-  "pick": "Pass",
-  "reason": "DET about 54% no-vig at -130; no edge worth a pick.",
-  "risks": [],
-  "slug": "nba",
-  "sport": "nba",
-  "stars": 1,
-  "start": "2026-11-25T00:00Z",
-  "state": "post",
-  "updatedAt": "2026-11-24T20:23:02Z",
-  "venue": "Kia Center, Orlando"
- },
- "nba-401909315": {
-  "_lastPick": "BOS ML (-453)",
-  "away": {
-   "abbr": "BOS",
-   "form": "LLLLW",
-   "injuries": [
-    "Mitchell Robinson (C) – Out, Illness"
-   ],
-   "name": "Boston Celtics",
-   "record": "12-6",
-   "short": "Celtics",
-   "teamId": "2"
-  },
-  "confidence": 75,
-  "espnId": "401909315",
-  "espnLeague": "nba",
-  "espnSport": "basketball",
-  "espnWinProb": {
-   "away": 75.9,
-   "home": 24.1
-  },
-  "home": {
-   "abbr": "WSH",
-   "form": "WWWLL",
-   "injuries": [
-    "Tristan Vukcevic (F) – Out, Hip"
-   ],
-   "name": "Washington Wizards",
-   "record": "7-12",
-   "short": "Wizards",
-   "teamId": "27"
-  },
-  "id": "nba-401909315",
-  "injuriesRaw": {
-   "away": [
-    {
-     "detail": "Illness",
-     "player": "Mitchell Robinson",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    }
-   ],
-   "home": [
-    {
-     "detail": "Hip",
-     "player": "Tristan Vukcevic",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Shoulder",
-     "player": "Reece Beekman",
-     "pos": "G",
-     "stale": true,
-     "status": "Out"
-    },
-    {
-     "detail": "Foot",
-     "player": "Justin Champagnie",
-     "pos": "F",
-     "stale": true,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Jamir Watkins",
-     "pos": "G",
-     "stale": true,
-     "status": "Out"
-    }
-   ]
-  },
-  "league": "NBA",
-  "link": "https://www.espn.com/nba/game/_/gameId/401909315",
-  "market": "Moneyline",
-  "news": [
-   "Fantasy notebook: Karabell on Paul George, Tyler Herro, De'Aaron Fox, more",
-   "Fantasy basketball adds and NBA bets: Hot streaks for Paul Reed, Jamal Murray",
-   "Sources: Wolves' Donte DiVincenzo eyes New Year's for season debut"
-  ],
-  "odds": {
-   "mlAway": "-453",
-   "mlAwayOpen": "-198",
-   "mlHome": "+351",
-   "mlHomeOpen": "+164",
-   "provider": "DraftKings",
-   "spread": "BOS -11.5",
-   "spreadOpen": "BOS -5.5",
-   "total": "218.5",
-   "totalOpen": "230.5"
-  },
-  "pick": "BOS ML (-453)",
-  "reason": "BOS are about 79% no-vig at -453; ESPN's model has 76%. For: line moved toward BOS (-198 → -453); last-5 scoring margin: WSH -3.2, BOS +4.2.",
-  "risks": [
-   "opponent in better form (WWWLL)"
-  ],
-  "side": "away",
-  "slug": "nba",
-  "sport": "nba",
-  "stars": 2,
-  "start": "2026-11-25T01:00Z",
-  "state": "post",
-  "updatedAt": "2026-11-24T20:23:02Z",
-  "venue": "Capital One Arena, Washington"
- },
- "nba-401909316": {
-  "_lastPick": "DEN ML (-310)",
-  "away": {
-   "abbr": "DAL",
-   "form": "WWWLL",
-   "injuries": [
-    "Tobi Lawal (F) – Out, Groin",
-    "Dereck Lively II (C) – Out, Foot",
-    "Sergio de Larrea (F) – Out, Knee",
-    "Tarik Biberovic (F) – Out, Heel"
-   ],
-   "name": "Dallas Mavericks",
-   "record": "10-7",
-   "short": "Mavericks",
-   "teamId": "6"
-  },
-  "confidence": 68,
-  "espnId": "401909316",
-  "espnLeague": "nba",
-  "espnSport": "basketball",
-  "espnWinProb": {
-   "away": 30.4,
-   "home": 69.6
-  },
-  "home": {
-   "abbr": "DEN",
-   "form": "WWWLW",
-   "injuries": [],
-   "name": "Denver Nuggets",
-   "record": "10-5",
-   "short": "Nuggets",
-   "teamId": "7"
-  },
-  "id": "nba-401909316",
-  "injuriesRaw": {
-   "away": [
-    {
-     "detail": "Groin",
-     "player": "Tobi Lawal",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Foot",
-     "player": "Dereck Lively II",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Sergio de Larrea",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Heel",
-     "player": "Tarik Biberovic",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    }
-   ],
-   "home": []
-  },
-  "league": "NBA",
-  "link": "https://www.espn.com/nba/game/_/gameId/401909316",
-  "market": "Moneyline",
-  "news": [
-   "Fantasy notebook: Karabell on Paul George, Tyler Herro, De'Aaron Fox, more",
-   "Fantasy basketball adds and NBA bets: Hot streaks for Paul Reed, Jamal Murray",
-   "Sources: Wolves' Donte DiVincenzo eyes New Year's for season debut"
-  ],
-  "odds": {
-   "mlAway": "+251",
-   "mlAwayOpen": "+275",
-   "mlHome": "-310",
-   "mlHomeOpen": "-345",
-   "provider": "DraftKings",
-   "spread": "DEN -8.5",
-   "spreadOpen": "DEN -8.5",
-   "total": "234.5",
-   "totalOpen": "236.5"
-  },
-  "pick": "DEN ML (-310)",
-  "reason": "DEN are about 73% no-vig at -310; ESPN's model has 70%.",
-  "risks": [],
-  "side": "home",
-  "slug": "nba",
-  "sport": "nba",
-  "stars": 2,
-  "start": "2026-11-25T03:00Z",
-  "state": "in",
-  "updatedAt": "2026-11-24T20:23:02Z",
-  "venue": "Ball Arena, Denver"
- },
  "nba-401909317": {
   "away": {
    "abbr": "MIA",
@@ -414,7 +81,7 @@
     "Caleb Wilson (F) – Out, Hand"
    ],
    "name": "Chicago Bulls",
-   "record": "5-12",
+   "record": "6-12",
    "short": "Bulls",
    "teamId": "4"
   },
@@ -436,7 +103,7 @@
     "Kon Knueppel (G) – Out, Hamstring"
    ],
    "name": "Charlotte Hornets",
-   "record": "4-12",
+   "record": "4-13",
    "short": "Hornets",
    "teamId": "30"
   },
@@ -525,7 +192,7 @@
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-26T00:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Spectrum Center, Charlotte"
  },
@@ -539,7 +206,7 @@
     "Evan Mobley (C) – Out, Toe"
    ],
    "name": "Cleveland Cavaliers",
-   "record": "9-9",
+   "record": "9-10",
    "short": "Cavaliers",
    "teamId": "5"
   },
@@ -559,7 +226,7 @@
     "Jordan Clarkson (G) – Out, Foot"
    ],
    "name": "New York Knicks",
-   "record": "11-6",
+   "record": "12-6",
    "short": "Knicks",
    "teamId": "18"
   },
@@ -628,7 +295,7 @@
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-26T00:30Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Madison Square Garden, New York"
  },
@@ -641,7 +308,7 @@
     "Jaylen Clark (G) – Out, Hamstring"
    ],
    "name": "Minnesota Timberwolves",
-   "record": "13-5",
+   "record": "14-5",
    "short": "Timberwolves",
    "teamId": "16"
   },
@@ -664,7 +331,7 @@
     "Thomas Sorber (C) – Out, Knee"
    ],
    "name": "Oklahoma City Thunder",
-   "record": "10-8",
+   "record": "10-9",
    "short": "Thunder",
    "teamId": "25"
   },
@@ -760,7 +427,7 @@
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-26T00:30Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Paycom Center, Oklahoma City"
  },
@@ -771,7 +438,7 @@
    "form": "LLLLW",
    "injuries": [],
    "name": "LA Clippers",
-   "record": "4-12",
+   "record": "4-13",
    "short": "Clippers",
    "teamId": "12"
   },
@@ -794,7 +461,7 @@
     "Richie Saunders (G) – Out, Knee"
    ],
    "name": "Memphis Grizzlies",
-   "record": "13-5",
+   "record": "14-5",
    "short": "Grizzlies",
    "teamId": "29"
   },
@@ -881,7 +548,7 @@
   "sport": "nba",
   "stars": 2,
   "start": "2026-11-26T01:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "FedExForum, Memphis"
  },
@@ -893,7 +560,7 @@
     "Nolan Traore (G) – Out, Hamstring"
    ],
    "name": "Brooklyn Nets",
-   "record": "3-13",
+   "record": "4-13",
    "short": "Nets",
    "teamId": "17"
   },
@@ -910,7 +577,7 @@
    "form": "WLLLL",
    "injuries": [],
    "name": "Milwaukee Bucks",
-   "record": "2-16",
+   "record": "2-17",
    "short": "Bucks",
    "teamId": "15"
   },
@@ -952,7 +619,7 @@
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-26T01:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Fiserv Forum, Milwaukee"
  },
@@ -963,7 +630,7 @@
    "form": "WWWWL",
    "injuries": [],
    "name": "Phoenix Suns",
-   "record": "9-7",
+   "record": "9-8",
    "short": "Suns",
    "teamId": "21"
   },
@@ -980,7 +647,7 @@
    "form": "WLWLW",
    "injuries": [],
    "name": "Houston Rockets",
-   "record": "13-5",
+   "record": "14-5",
    "short": "Rockets",
    "teamId": "10"
   },
@@ -1024,7 +691,7 @@
   "sport": "nba",
   "stars": 2,
   "start": "2026-11-26T01:30Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Toyota Center (Houston), Houston"
  },
@@ -1148,7 +815,7 @@
   "sport": "nba",
   "stars": 2,
   "start": "2026-11-26T03:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Chase Center, San Francisco"
  },
@@ -1269,7 +936,7 @@
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-26T03:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Moda Center, Portland"
  },
@@ -1277,7 +944,7 @@
   "away": {
    "abbr": "MIA",
    "name": "Miami Heat",
-   "record": "10-6",
+   "record": "10-7",
    "short": "Heat",
    "teamId": "14"
   },
@@ -1287,7 +954,7 @@
   "home": {
    "abbr": "NY",
    "name": "New York Knicks",
-   "record": "11-6",
+   "record": "12-6",
    "short": "Knicks",
    "teamId": "18"
   },
@@ -1305,14 +972,14 @@
   "stars": 1,
   "start": "2026-11-28T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Madison Square Garden, New York"
  },
  "nba-401909327": {
   "away": {
    "abbr": "MIL",
    "name": "Milwaukee Bucks",
-   "record": "2-16",
+   "record": "2-17",
    "short": "Bucks",
    "teamId": "15"
   },
@@ -1340,14 +1007,14 @@
   "stars": 1,
   "start": "2026-11-28T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Little Caesars Arena, Detroit"
  },
  "nba-401909328": {
   "away": {
    "abbr": "PHI",
    "name": "Philadelphia 76ers",
-   "record": "14-4",
+   "record": "15-4",
    "short": "76ers",
    "teamId": "20"
   },
@@ -1375,14 +1042,14 @@
   "stars": 1,
   "start": "2026-11-28T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Gainbridge Fieldhouse, Indianapolis"
  },
  "nba-401909329": {
   "away": {
    "abbr": "BKN",
    "name": "Brooklyn Nets",
-   "record": "3-13",
+   "record": "4-13",
    "short": "Nets",
    "teamId": "17"
   },
@@ -1410,7 +1077,7 @@
   "stars": 1,
   "start": "2026-11-28T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Scotiabank Arena, Toronto"
  },
  "nba-401909330": {
@@ -1445,14 +1112,14 @@
   "stars": 1,
   "start": "2026-11-28T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "TD Garden, Boston"
  },
  "nba-401909331": {
   "away": {
    "abbr": "MEM",
    "name": "Memphis Grizzlies",
-   "record": "13-5",
+   "record": "14-5",
    "short": "Grizzlies",
    "teamId": "29"
   },
@@ -1462,7 +1129,7 @@
   "home": {
    "abbr": "MIN",
    "name": "Minnesota Timberwolves",
-   "record": "13-5",
+   "record": "14-5",
    "short": "Timberwolves",
    "teamId": "16"
   },
@@ -1480,7 +1147,7 @@
   "stars": 1,
   "start": "2026-11-28T01:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Target Center, Minneapolis"
  },
  "nba-401909332": {
@@ -1497,7 +1164,7 @@
   "home": {
    "abbr": "PHX",
    "name": "Phoenix Suns",
-   "record": "9-7",
+   "record": "9-8",
    "short": "Suns",
    "teamId": "21"
   },
@@ -1515,7 +1182,7 @@
   "stars": 1,
   "start": "2026-11-28T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Mortgage Matchup Center, Phoenix"
  },
  "nba-401909333": {
@@ -1550,7 +1217,7 @@
   "stars": 1,
   "start": "2026-11-28T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Frost Bank Center, San Antonio"
  },
  "nba-401909334": {
@@ -1585,7 +1252,7 @@
   "stars": 1,
   "start": "2026-11-28T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Delta Center, Salt Lake City"
  },
  "nba-401909335": {
@@ -1602,7 +1269,7 @@
   "home": {
    "abbr": "LAC",
    "name": "LA Clippers",
-   "record": "4-12",
+   "record": "4-13",
    "short": "Clippers",
    "teamId": "12"
   },
@@ -1620,7 +1287,7 @@
   "stars": 1,
   "start": "2026-11-28T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Intuit Dome, Inglewood"
  },
  "nba-401909336": {
@@ -1655,7 +1322,7 @@
   "stars": 1,
   "start": "2026-11-28T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Moda Center, Portland"
  },
  "nba-401910046": {
@@ -1690,8 +1357,148 @@
   "stars": 1,
   "start": "2026-11-28T22:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Capital One Arena, Washington"
+ },
+ "nba-401910047": {
+  "away": {
+   "abbr": "BKN",
+   "name": "Brooklyn Nets",
+   "record": "4-13",
+   "short": "Nets",
+   "teamId": "17"
+  },
+  "espnId": "401910047",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "CHA",
+   "name": "Charlotte Hornets",
+   "record": "4-13",
+   "short": "Hornets",
+   "teamId": "30"
+  },
+  "id": "nba-401910047",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401910047",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-28T23:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T04:29:33Z",
+  "venue": "Spectrum Center, Charlotte"
+ },
+ "nba-401910048": {
+  "away": {
+   "abbr": "IND",
+   "name": "Indiana Pacers",
+   "record": "6-12",
+   "short": "Pacers",
+   "teamId": "11"
+  },
+  "espnId": "401910048",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "CHI",
+   "name": "Chicago Bulls",
+   "record": "6-12",
+   "short": "Bulls",
+   "teamId": "4"
+  },
+  "id": "nba-401910048",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401910048",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-29T01:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T04:29:33Z",
+  "venue": "United Center, Chicago"
+ },
+ "nba-401910049": {
+  "away": {
+   "abbr": "OKC",
+   "name": "Oklahoma City Thunder",
+   "record": "10-9",
+   "short": "Thunder",
+   "teamId": "25"
+  },
+  "espnId": "401910049",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "MIL",
+   "name": "Milwaukee Bucks",
+   "record": "2-17",
+   "short": "Bucks",
+   "teamId": "15"
+  },
+  "id": "nba-401910049",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401910049",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-29T01:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T04:29:33Z",
+  "venue": "Fiserv Forum, Milwaukee"
+ },
+ "nba-401910050": {
+  "away": {
+   "abbr": "PHI",
+   "name": "Philadelphia 76ers",
+   "record": "15-4",
+   "short": "76ers",
+   "teamId": "20"
+  },
+  "espnId": "401910050",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "HOU",
+   "name": "Houston Rockets",
+   "record": "14-5",
+   "short": "Rockets",
+   "teamId": "10"
+  },
+  "id": "nba-401910050",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401910050",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-29T01:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T04:29:33Z",
+  "venue": "Toyota Center (Houston), Houston"
  },
  "ncaaf-401856756": {
   "_lastPick": "TEX ML (-455)",
@@ -1724,9 +1531,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856756",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "-455",
@@ -1748,8 +1555,66 @@
   "stars": 3,
   "start": "2026-11-28T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Kyle Field, College Station"
+ },
+ "ncaaf-401856757": {
+  "_lastPick": "ALA ML (-750)",
+  "away": {
+   "abbr": "AUB",
+   "form": "WWWLL",
+   "name": "Auburn Tigers",
+   "record": "7-4",
+   "short": "Auburn",
+   "teamId": "2"
+  },
+  "confidence": 83,
+  "espnId": "401856757",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 11.7,
+   "home": 88.3
+  },
+  "home": {
+   "abbr": "ALA",
+   "form": "WWWWL",
+   "name": "#6 Alabama",
+   "record": "9-2",
+   "short": "Alabama",
+   "teamId": "333"
+  },
+  "id": "ncaaf-401856757",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401856757",
+  "market": "Moneyline",
+  "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
+  ],
+  "odds": {
+   "mlAway": "+525",
+   "mlAwayOpen": "+320",
+   "mlHome": "-750",
+   "mlHomeOpen": "-410",
+   "provider": "Draft Kings",
+   "spread": "ALA -15.5",
+   "spreadOpen": "ALA -10",
+   "total": "49.5",
+   "totalOpen": "52.5"
+  },
+  "pick": "ALA ML (-750)",
+  "reason": "ALA are about 85% no-vig at -750; ESPN's model has 88%. For: line moved toward ALA (-410 → -750).",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 3,
+  "start": "2026-11-29T00:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T04:29:33Z",
+  "venue": "Bryant-Denny Stadium, Tuscaloosa"
  },
  "ncaaf-401856758": {
   "_lastPick": "LSU ML (-625)",
@@ -1782,9 +1647,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856758",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "-625",
@@ -1806,11 +1671,11 @@
   "stars": 3,
   "start": "2026-11-28T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Donald W. Reynolds Razorback Stadium, Fayetteville"
  },
  "ncaaf-401856759": {
-  "_lastPick": "FLA ML (-230)",
+  "_lastPick": "FLA ML (-238)",
   "away": {
    "abbr": "FLA",
    "form": "WWLLW",
@@ -1840,23 +1705,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856759",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
-   "mlAway": "-230",
+   "mlAway": "-238",
    "mlAwayOpen": "-218",
-   "mlHome": "+190",
+   "mlHome": "+195",
    "mlHomeOpen": "+180",
    "provider": "Draft Kings",
-   "spread": "FLA -6",
+   "spread": "FLA -6.5",
    "spreadOpen": "FLA -4.5",
    "total": "53.5",
    "totalOpen": "52.5"
   },
-  "pick": "FLA ML (-230)",
-  "reason": "FLA are about 67% no-vig at -230; ESPN's model has 65%.",
+  "pick": "FLA ML (-238)",
+  "reason": "FLA are about 68% no-vig at -238; ESPN's model has 65%.",
   "risks": [],
   "side": "away",
   "slug": "college-football",
@@ -1864,7 +1729,7 @@
   "stars": 2,
   "start": "2026-11-27T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Doak Campbell Stadium, Tallahassee"
  },
  "ncaaf-401856760": {
@@ -1898,9 +1763,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856760",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "+2200",
@@ -1922,7 +1787,7 @@
   "stars": 2,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Sanford Stadium, Athens"
  },
  "ncaaf-401856761": {
@@ -1956,9 +1821,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856761",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "-142",
@@ -1980,7 +1845,7 @@
   "stars": 2,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Kroger Field, Lexington"
  },
  "ncaaf-401856762": {
@@ -2014,9 +1879,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856762",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "+675",
@@ -2038,7 +1903,7 @@
   "stars": 3,
   "start": "2026-11-27T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Vaught-Hemingway Stadium, Oxford"
  },
  "ncaaf-401856763": {
@@ -2070,9 +1935,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856763",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "+102",
@@ -2095,7 +1960,7 @@
   "stars": 1,
   "start": "2026-11-28T21:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Memorial Stadium, Columbia"
  },
  "ncaaf-401856764": {
@@ -2129,9 +1994,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856764",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "-230",
@@ -2155,8 +2020,182 @@
   "stars": 2,
   "start": "2026-11-28T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Memorial Stadium (Clemson, SC), Clemson"
+ },
+ "ncaaf-401856765": {
+  "_lastPick": "TENN ML (-550)",
+  "away": {
+   "abbr": "TENN",
+   "form": "WWWLW",
+   "name": "#5 Tennessee",
+   "record": "9-2",
+   "short": "Tennessee",
+   "teamId": "2633"
+  },
+  "confidence": 82,
+  "espnId": "401856765",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 87.2,
+   "home": 12.8
+  },
+  "home": {
+   "abbr": "VAN",
+   "form": "LLWLL",
+   "name": "Vanderbilt Commodores",
+   "record": "4-7",
+   "short": "Vanderbilt",
+   "teamId": "238"
+  },
+  "id": "ncaaf-401856765",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401856765",
+  "market": "Moneyline",
+  "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
+  ],
+  "odds": {
+   "mlAway": "-550",
+   "mlAwayOpen": "-155",
+   "mlHome": "+410",
+   "mlHomeOpen": "+130",
+   "provider": "Draft Kings",
+   "spread": "TENN -13.5",
+   "spreadOpen": "TENN -3",
+   "total": "42.5",
+   "totalOpen": "57.5"
+  },
+  "pick": "TENN ML (-550)",
+  "reason": "TENN are about 81% no-vig at -550; ESPN's model has 87%. For: ESPN model 87% vs market 81%; line moved toward TENN (-155 → -550); form WWWLW vs LLWLL. Capped at 3★: prices of -400 or shorter pay too little for 4-5★.",
+  "risks": [],
+  "side": "away",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 3,
+  "start": "2026-11-29T00:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T04:29:33Z",
+  "venue": "FirstBank Stadium, Nashville"
+ },
+ "ncaaf-401856873": {
+  "_lastPick": "ARIZ ML (-325)",
+  "away": {
+   "abbr": "ASU",
+   "form": "LWWLW",
+   "name": "Arizona State Sun Devils",
+   "record": "6-5",
+   "short": "Arizona St",
+   "teamId": "9"
+  },
+  "confidence": 72,
+  "espnId": "401856873",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 22.0,
+   "home": 78.0
+  },
+  "home": {
+   "abbr": "ARIZ",
+   "form": "WLWLW",
+   "name": "#16 Arizona",
+   "record": "8-3",
+   "short": "Arizona",
+   "teamId": "12"
+  },
+  "id": "ncaaf-401856873",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401856873",
+  "market": "Moneyline",
+  "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
+  ],
+  "odds": {
+   "mlAway": "+260",
+   "mlAwayOpen": "+180",
+   "mlHome": "-325",
+   "mlHomeOpen": "-218",
+   "provider": "Draft Kings",
+   "spread": "ARIZ -8.5",
+   "spreadOpen": "ARIZ -4.5",
+   "total": "53.5",
+   "totalOpen": "52.5"
+  },
+  "pick": "ARIZ ML (-325)",
+  "reason": "ARIZ are about 73% no-vig at -325; ESPN's model has 78%. For: line moved toward ARIZ (-218 → -325).",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 3,
+  "start": "2026-11-29T02:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T04:29:33Z",
+  "venue": "Casino Del Sol Stadium, Tucson"
+ },
+ "ncaaf-401856874": {
+  "_lastPick": "HOU ML (-198)",
+  "away": {
+   "abbr": "BAY",
+   "form": "LLWWL",
+   "name": "Baylor Bears",
+   "record": "6-5",
+   "short": "Baylor",
+   "teamId": "239"
+  },
+  "confidence": 59,
+  "espnId": "401856874",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 40.6,
+   "home": 59.5
+  },
+  "home": {
+   "abbr": "HOU",
+   "form": "WLWLW",
+   "name": "#18 Houston",
+   "record": "8-3",
+   "short": "Houston",
+   "teamId": "248"
+  },
+  "id": "ncaaf-401856874",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401856874",
+  "market": "Moneyline",
+  "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
+  ],
+  "odds": {
+   "mlAway": "+164",
+   "mlAwayOpen": "+154",
+   "mlHome": "-198",
+   "mlHomeOpen": "-185",
+   "provider": "Draft Kings",
+   "spread": "HOU -4.5",
+   "spreadOpen": "HOU -4.5",
+   "total": "55.5",
+   "totalOpen": "54.5"
+  },
+  "pick": "HOU ML (-198)",
+  "reason": "HOU are about 64% no-vig at -198; ESPN's model has 60%.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-29T02:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T04:29:33Z",
+  "venue": "TDECU Stadium, Houston"
  },
  "ncaaf-401856875": {
   "away": {
@@ -2187,9 +2226,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856875",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "+105",
@@ -2212,11 +2251,11 @@
   "stars": 1,
   "start": "2026-11-28T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Folsom Field, Boulder"
  },
  "ncaaf-401856876": {
-  "_lastPick": "BYU ML (-675)",
+  "_lastPick": "BYU ML (-700)",
   "away": {
    "abbr": "CIN",
    "form": "WLLLW",
@@ -2246,32 +2285,90 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856876",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
-   "mlAway": "+490",
+   "mlAway": "+500",
    "mlAwayOpen": "+380",
-   "mlHome": "-675",
+   "mlHome": "-700",
    "mlHomeOpen": "-500",
    "provider": "Draft Kings",
    "spread": "BYU -15.5",
    "spreadOpen": "BYU -12.5",
-   "total": "55.5",
+   "total": "56.5",
    "totalOpen": "56.5"
   },
-  "pick": "BYU ML (-675)",
-  "reason": "BYU are about 84% no-vig at -675; ESPN's model has 88%.",
+  "pick": "BYU ML (-700)",
+  "reason": "BYU are about 84% no-vig at -700; ESPN's model has 88%. For: line moved toward BYU (-500 → -700).",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 3,
+  "start": "2026-11-28T20:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T04:29:33Z",
+  "venue": "LaVell Edwards Stadium, Provo"
+ },
+ "ncaaf-401856877": {
+  "_lastPick": "OKST ML (-230)",
+  "away": {
+   "abbr": "KU",
+   "form": "LWLLW",
+   "name": "Kansas Jayhawks",
+   "record": "4-7",
+   "short": "Kansas",
+   "teamId": "2305"
+  },
+  "confidence": 65,
+  "espnId": "401856877",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 29.4,
+   "home": 70.6
+  },
+  "home": {
+   "abbr": "OKST",
+   "form": "WLWLW",
+   "name": "Oklahoma State Cowboys",
+   "record": "7-4",
+   "short": "Oklahoma St",
+   "teamId": "197"
+  },
+  "id": "ncaaf-401856877",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401856877",
+  "market": "Moneyline",
+  "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
+  ],
+  "odds": {
+   "mlAway": "+190",
+   "mlAwayOpen": "+185",
+   "mlHome": "-230",
+   "mlHomeOpen": "-225",
+   "provider": "Draft Kings",
+   "spread": "OKST -6.5",
+   "spreadOpen": "OKST -6.5",
+   "total": "64.5",
+   "totalOpen": "67.5"
+  },
+  "pick": "OKST ML (-230)",
+  "reason": "OKST are about 67% no-vig at -230; ESPN's model has 71%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 2,
-  "start": "2026-11-28T20:30Z",
+  "start": "2026-11-28T23:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
-  "venue": "LaVell Edwards Stadium, Provo"
+  "updatedAt": "2026-11-26T04:29:33Z",
+  "venue": "Boone Pickens Stadium, Stillwater"
  },
  "ncaaf-401856878": {
   "away": {
@@ -2302,9 +2399,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856878",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "+154",
@@ -2325,7 +2422,7 @@
   "stars": 1,
   "start": "2026-11-28T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Jack Trice Stadium, Ames"
  },
  "ncaaf-401856879": {
@@ -2359,9 +2456,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856879",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "+500",
@@ -2383,7 +2480,7 @@
   "stars": 2,
   "start": "2026-11-27T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Galaxy Stadium, Lubbock"
  },
  "ncaaf-401856880": {
@@ -2417,9 +2514,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856880",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "+1300",
@@ -2427,7 +2524,7 @@
    "mlHome": "-2800",
    "mlHomeOpen": "-1350",
    "provider": "Draft Kings",
-   "spread": "UTAH -25.5",
+   "spread": "UTAH -26.5",
    "spreadOpen": "UTAH -20.5",
    "total": "66.5",
    "totalOpen": "68.5"
@@ -2441,7 +2538,7 @@
   "stars": 2,
   "start": "2026-11-28T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Rice-Eccles Stadium, Salt Lake City"
  },
  "ncaaf-401858311": {
@@ -2475,9 +2572,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858311",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "+1300",
@@ -2499,7 +2596,7 @@
   "stars": 2,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Hard Rock Stadium, Miami Gardens"
  },
  "ncaaf-401858312": {
@@ -2533,9 +2630,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858312",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "+470",
@@ -2559,11 +2656,11 @@
   "stars": 2,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Allegacy Federal Credit Union Stadium, Winston-Salem"
  },
  "ncaaf-401858313": {
-  "_lastPick": "UNC ML (-218)",
+  "_lastPick": "UNC ML (-225)",
   "away": {
    "abbr": "NCSU",
    "form": "WLLWL",
@@ -2593,23 +2690,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858313",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
-   "mlAway": "+180",
+   "mlAway": "+185",
    "mlAwayOpen": "-118",
-   "mlHome": "-218",
+   "mlHome": "-225",
    "mlHomeOpen": "-102",
    "provider": "Draft Kings",
    "spread": "UNC -5.5",
    "spreadOpen": "NCSU -1.5",
-   "total": "53.5",
+   "total": "54.5",
    "totalOpen": "55.5"
   },
-  "pick": "UNC ML (-218)",
-  "reason": "UNC are about 66% no-vig at -218; ESPN's model has 73%. For: ESPN model 73% vs market 66%; line moved toward UNC (-102 → -218).",
+  "pick": "UNC ML (-225)",
+  "reason": "UNC are about 66% no-vig at -225; ESPN's model has 73%. For: ESPN model 73% vs market 66%; line moved toward UNC (-102 → -225).",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -2617,7 +2714,7 @@
   "stars": 4,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Kenan Stadium, Chapel Hill"
  },
  "ncaaf-401858314": {
@@ -2651,9 +2748,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858314",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "-2800",
@@ -2663,7 +2760,7 @@
    "provider": "Draft Kings",
    "spread": "ND -25.5",
    "spreadOpen": "ND -21",
-   "total": "53.5",
+   "total": "52.5",
    "totalOpen": "54.5"
   },
   "pick": "ND ML (-2800)",
@@ -2675,8 +2772,66 @@
   "stars": 2,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "JMA Wireless Dome, Syracuse"
+ },
+ "ncaaf-401858315": {
+  "_lastPick": "PITT ML (-355)",
+  "away": {
+   "abbr": "PITT",
+   "form": "LLWLL",
+   "name": "Pittsburgh Panthers",
+   "record": "6-5",
+   "short": "Pitt",
+   "teamId": "221"
+  },
+  "confidence": 73,
+  "espnId": "401858315",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 77.3,
+   "home": 22.7
+  },
+  "home": {
+   "abbr": "CAL",
+   "form": "LLLLL",
+   "name": "California Golden Bears",
+   "record": "3-8",
+   "short": "California",
+   "teamId": "25"
+  },
+  "id": "ncaaf-401858315",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858315",
+  "market": "Moneyline",
+  "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
+  ],
+  "odds": {
+   "mlAway": "-355",
+   "mlAwayOpen": "+235",
+   "mlHome": "+280",
+   "mlHomeOpen": "-290",
+   "provider": "Draft Kings",
+   "spread": "PITT -9.5",
+   "spreadOpen": "CAL -7.5",
+   "total": "47.5",
+   "totalOpen": "47.5"
+  },
+  "pick": "PITT ML (-355)",
+  "reason": "PITT are about 75% no-vig at -355; ESPN's model has 77%. For: line moved toward PITT (+235 → -355).",
+  "risks": [],
+  "side": "away",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 3,
+  "start": "2026-11-29T00:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T04:29:33Z",
+  "venue": "California Memorial Stadium, Berkeley"
  },
  "ncaaf-401858316": {
   "_lastPick": "SMU ML (-298)",
@@ -2709,9 +2864,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858316",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "-298",
@@ -2735,7 +2890,7 @@
   "stars": 3,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Stanford Stadium, Stanford"
  },
  "ncaaf-401858317": {
@@ -2767,9 +2922,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858317",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "+130",
@@ -2792,7 +2947,7 @@
   "stars": 1,
   "start": "2026-11-28T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Lane Stadium, Blacksburg"
  },
  "ncaaf-401858536": {
@@ -2826,9 +2981,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858536",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "+170",
@@ -2852,11 +3007,11 @@
   "stars": 2,
   "start": "2026-11-27T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Kinnick Stadium, Iowa City"
  },
  "ncaaf-401858537": {
-  "_lastPick": "NU ML (-155)",
+  "_lastPick": "NU ML (-142)",
   "away": {
    "abbr": "ILL",
    "form": "LLWWW",
@@ -2865,7 +3020,7 @@
    "short": "Illinois",
    "teamId": "356"
   },
-  "confidence": 59,
+  "confidence": 58,
   "espnId": "401858537",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -2886,23 +3041,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858537",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
-   "mlAway": "+130",
+   "mlAway": "+120",
    "mlAwayOpen": "-170",
-   "mlHome": "-155",
+   "mlHome": "-142",
    "mlHomeOpen": "+142",
    "provider": "Draft Kings",
-   "spread": "NU -3",
+   "spread": "NU -2.5",
    "spreadOpen": "ILL -3.5",
    "total": "50.5",
    "totalOpen": "52.5"
   },
-  "pick": "NU ML (-155)",
-  "reason": "NU are about 58% no-vig at -155; ESPN's model has 70%. For: ESPN model 70% vs market 58%; line moved toward NU (+142 → -155).",
+  "pick": "NU ML (-142)",
+  "reason": "NU are about 56% no-vig at -142; ESPN's model has 70%. For: ESPN model 70% vs market 56%; line moved toward NU (+142 → -142).",
   "risks": [
    "opponent in better form (LLWWW)"
   ],
@@ -2912,8 +3067,66 @@
   "stars": 2,
   "start": "2026-11-28T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Ryan Field, Evanston"
+ },
+ "ncaaf-401858538": {
+  "_lastPick": "IU ML (-2100)",
+  "away": {
+   "abbr": "PUR",
+   "form": "LLLLL",
+   "name": "Purdue Boilermakers",
+   "record": "3-8",
+   "short": "Purdue",
+   "teamId": "2509"
+  },
+  "confidence": 91,
+  "espnId": "401858538",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 5.1,
+   "home": 94.9
+  },
+  "home": {
+   "abbr": "IU",
+   "form": "LWWWL",
+   "name": "#14 Indiana",
+   "record": "9-2",
+   "short": "Indiana",
+   "teamId": "84"
+  },
+  "id": "ncaaf-401858538",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858538",
+  "market": "Moneyline",
+  "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
+  ],
+  "odds": {
+   "mlAway": "+1100",
+   "mlAwayOpen": "+750",
+   "mlHome": "-2100",
+   "mlHomeOpen": "-1200",
+   "provider": "Draft Kings",
+   "spread": "IU -23.5",
+   "spreadOpen": "IU -22.5",
+   "total": "52.5",
+   "totalOpen": "52.5"
+  },
+  "pick": "IU ML (-2100)",
+  "reason": "IU are about 92% no-vig at -2100; ESPN's model has 95%. For: form LWWWL vs LLLLL. Capped at 2★: huge college spread.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-29T00:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T04:29:33Z",
+  "venue": "Memorial Stadium (Bloomington, IN), Bloomington"
  },
  "ncaaf-401858539": {
   "_lastPick": "PSU ML (-278)",
@@ -2946,9 +3159,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858539",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "-278",
@@ -2970,7 +3183,7 @@
   "stars": 3,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "SECU Stadium, College Park"
  },
  "ncaaf-401858540": {
@@ -3004,9 +3217,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858540",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "+330",
@@ -3028,8 +3241,66 @@
   "stars": 3,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Ohio Stadium, Columbus"
+ },
+ "ncaaf-401858541": {
+  "_lastPick": "ORE ML (-625)",
+  "away": {
+   "abbr": "WASH",
+   "form": "WWLWW",
+   "name": "#24 Washington",
+   "record": "7-4",
+   "short": "Washington",
+   "teamId": "264"
+  },
+  "confidence": 82,
+  "espnId": "401858541",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 12.6,
+   "home": 87.4
+  },
+  "home": {
+   "abbr": "ORE",
+   "form": "WWWWL",
+   "name": "#12 Oregon",
+   "record": "8-3",
+   "short": "Oregon",
+   "teamId": "2483"
+  },
+  "id": "ncaaf-401858541",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401858541",
+  "market": "Moneyline",
+  "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
+  ],
+  "odds": {
+   "mlAway": "+455",
+   "mlAwayOpen": "+455",
+   "mlHome": "-625",
+   "mlHomeOpen": "-625",
+   "provider": "Draft Kings",
+   "spread": "ORE -14",
+   "spreadOpen": "ORE -15.5",
+   "total": "50.5",
+   "totalOpen": "54.5"
+  },
+  "pick": "ORE ML (-625)",
+  "reason": "ORE are about 83% no-vig at -625; ESPN's model has 87%.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-29T00:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T04:29:33Z",
+  "venue": "Autzen Stadium, Eugene"
  },
  "ncaaf-401858542": {
   "away": {
@@ -3040,7 +3311,7 @@
    "short": "Michigan St",
    "teamId": "127"
   },
-  "confidence": 57,
+  "confidence": 56,
   "espnId": "401858542",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -3060,30 +3331,30 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858542",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
-   "mlAway": "-170",
+   "mlAway": "-155",
    "mlAwayOpen": "-142",
-   "mlHome": "+142",
+   "mlHome": "+130",
    "mlHomeOpen": "+120",
    "provider": "Draft Kings",
-   "spread": "MSU -3.5",
+   "spread": "MSU -3",
    "spreadOpen": "MSU -3.5",
    "total": "46.5",
    "totalOpen": "48.5"
   },
   "pick": "Pass",
-  "reason": "MSU about 60% no-vig at -170; no edge worth a pick.",
+  "reason": "MSU about 58% no-vig at -155; no edge worth a pick.",
   "risks": [],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-28T21:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "SHI Stadium, Piscataway"
  },
  "ncaaf-401858543": {
@@ -3115,9 +3386,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858543",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "-250",
@@ -3125,7 +3396,7 @@
    "mlHome": "+205",
    "mlHomeOpen": "+330",
    "provider": "Draft Kings",
-   "spread": "USC -7",
+   "spread": "USC -6.5",
    "spreadOpen": "USC -11.5",
    "total": "45.5",
    "totalOpen": "55.5"
@@ -3141,7 +3412,7 @@
   "stars": 1,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Rose Bowl, Pasadena"
  },
  "ncaaf-401858544": {
@@ -3175,9 +3446,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858544",
   "market": "Moneyline",
   "news": [
-   "Kent State TD overturned by replay was incorrect, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "USC band won't perform at UCLA football game after members vandalized campus",
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "+245",
@@ -3185,7 +3456,7 @@
    "mlHome": "-305",
    "mlHomeOpen": "-218",
    "provider": "Draft Kings",
-   "spread": "WIS -7.5",
+   "spread": "WIS -8.5",
    "spreadOpen": "WIS -6",
    "total": "37.5",
    "totalOpen": "38.5"
@@ -3199,8 +3470,238 @@
   "stars": 4,
   "start": "2026-11-28T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Camp Randall Stadium, Madison"
+ },
+ "ncaaf-401860926": {
+  "_lastPick": "BOIS ML (-1800)",
+  "away": {
+   "abbr": "BOIS",
+   "form": "LWWWW",
+   "name": "Boise State Broncos",
+   "record": "9-2",
+   "short": "Boise St",
+   "teamId": "68"
+  },
+  "confidence": 91,
+  "espnId": "401860926",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 94.5,
+   "home": 5.5
+  },
+  "home": {
+   "abbr": "CSU",
+   "form": "LLLLW",
+   "name": "Colorado State Rams",
+   "record": "3-8",
+   "short": "Colorado St",
+   "teamId": "36"
+  },
+  "id": "ncaaf-401860926",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401860926",
+  "market": "Moneyline",
+  "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
+  ],
+  "odds": {
+   "mlAway": "-1800",
+   "mlAwayOpen": "-1800",
+   "mlHome": "+1000",
+   "mlHomeOpen": "+1000",
+   "provider": "Draft Kings",
+   "spread": "BOIS -21",
+   "spreadOpen": "BOIS -21",
+   "total": "76.5",
+   "totalOpen": "75.5"
+  },
+  "pick": "BOIS ML (-1800)",
+  "reason": "BOIS are about 91% no-vig at -1800; ESPN's model has 94%. For: form LWWWW vs LLLLW. Capped at 2★: huge college spread.",
+  "risks": [],
+  "side": "away",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-28T23:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T04:29:33Z",
+  "venue": "Canvas Stadium, Fort Collins"
+ },
+ "ncaaf-401860927": {
+  "away": {
+   "abbr": "ORST",
+   "form": "WLLLW",
+   "name": "Oregon State Beavers",
+   "record": "6-5",
+   "short": "Oregon St",
+   "teamId": "204"
+  },
+  "confidence": 52,
+  "espnId": "401860927",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 48.8,
+   "home": 51.2
+  },
+  "home": {
+   "abbr": "FRES",
+   "form": "WLLWL",
+   "name": "Fresno State Bulldogs",
+   "record": "6-5",
+   "short": "Fresno St",
+   "teamId": "278"
+  },
+  "id": "ncaaf-401860927",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401860927",
+  "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
+  ],
+  "odds": {
+   "mlAway": "+130",
+   "mlAwayOpen": "-108",
+   "mlHome": "-155",
+   "mlHomeOpen": "-112",
+   "provider": "Draft Kings",
+   "spread": "FRES -3",
+   "spreadOpen": "FRES -1.5",
+   "total": "58.5",
+   "totalOpen": "56.5"
+  },
+  "pick": "Pass",
+  "reason": "FRES about 58% no-vig at -155; no edge worth a pick.",
+  "risks": [
+   "ESPN model only 51% vs market 58%"
+  ],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-29T03:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T04:29:33Z",
+  "venue": "Valley Children's Stadium, Fresno"
+ },
+ "ncaaf-401860928": {
+  "_lastPick": "TXST ML (-270)",
+  "away": {
+   "abbr": "TXST",
+   "form": "WWWLW",
+   "name": "Texas State Bobcats",
+   "record": "7-4",
+   "short": "Texas St",
+   "teamId": "326"
+  },
+  "confidence": 67,
+  "espnId": "401860928",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 70.7,
+   "home": 29.3
+  },
+  "home": {
+   "abbr": "USU",
+   "form": "LLWWL",
+   "name": "Utah State Aggies",
+   "record": "4-7",
+   "short": "Utah State",
+   "teamId": "328"
+  },
+  "id": "ncaaf-401860928",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401860928",
+  "market": "Moneyline",
+  "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
+  ],
+  "odds": {
+   "mlAway": "-270",
+   "mlAwayOpen": "-285",
+   "mlHome": "+220",
+   "mlHomeOpen": "+230",
+   "provider": "Draft Kings",
+   "spread": "TXST -7",
+   "spreadOpen": "TXST -7.5",
+   "total": "52.5",
+   "totalOpen": "53.5"
+  },
+  "pick": "TXST ML (-270)",
+  "reason": "TXST are about 70% no-vig at -270; ESPN's model has 71%.",
+  "risks": [],
+  "side": "away",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-29T02:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T04:29:33Z",
+  "venue": "Maverik Stadium, Logan"
+ },
+ "ncaaf-401860929": {
+  "away": {
+   "abbr": "SDSU",
+   "form": "WWWLW",
+   "name": "San Diego State Aztecs",
+   "record": "6-5",
+   "short": "San Diego St",
+   "teamId": "21"
+  },
+  "confidence": 53,
+  "espnId": "401860929",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 41.3,
+   "home": 58.7
+  },
+  "home": {
+   "abbr": "WSU",
+   "form": "LWLLL",
+   "name": "Washington State Cougars",
+   "record": "2-9",
+   "short": "Washington St",
+   "teamId": "265"
+  },
+  "id": "ncaaf-401860929",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401860929",
+  "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
+  ],
+  "odds": {
+   "mlAway": "+120",
+   "mlAwayOpen": "-148",
+   "mlHome": "-142",
+   "mlHomeOpen": "+124",
+   "provider": "Draft Kings",
+   "spread": "WSU -2.5",
+   "spreadOpen": "SDSU -3",
+   "total": "46.5",
+   "totalOpen": "46.5"
+  },
+  "pick": "Pass",
+  "reason": "WSU about 56% no-vig at -142; no edge worth a pick.",
+  "risks": [
+   "opponent in better form (WWWLW)"
+  ],
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 1,
+  "start": "2026-11-28T23:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T04:29:33Z",
+  "venue": "Martin Stadium, Pullman"
  },
  "ncaaf-401861969": {
   "away": {
@@ -3231,9 +3732,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401861969",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "-155",
@@ -3254,7 +3755,7 @@
   "stars": 1,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "War Memorial Stadium, Laramie"
  },
  "ncaaf-401862837": {
@@ -3286,9 +3787,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401862837",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "-102",
@@ -3309,11 +3810,11 @@
   "stars": 1,
   "start": "2026-11-28T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Dowdy-Ficklen Stadium, Greenville"
  },
  "ncaaf-401862838": {
-  "_lastPick": "MEM ML (-950)",
+  "_lastPick": "MEM ML (-1000)",
   "away": {
    "abbr": "TEM",
    "form": "LLLLL",
@@ -3322,7 +3823,7 @@
    "short": "Temple",
    "teamId": "218"
   },
-  "confidence": 86,
+  "confidence": 87,
   "espnId": "401862838",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -3343,23 +3844,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862838",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
-   "mlAway": "+625",
+   "mlAway": "+650",
    "mlAwayOpen": "+575",
-   "mlHome": "-950",
+   "mlHome": "-1000",
    "mlHomeOpen": "-850",
    "provider": "Draft Kings",
-   "spread": "MEM -17.5",
+   "spread": "MEM -18.5",
    "spreadOpen": "MEM -17.5",
    "total": "66.5",
    "totalOpen": "64.5"
   },
-  "pick": "MEM ML (-950)",
-  "reason": "MEM are about 87% no-vig at -950; ESPN's model has 91%. For: form LWWWL vs LLLLL.",
+  "pick": "MEM ML (-1000)",
+  "reason": "MEM are about 87% no-vig at -1000; ESPN's model has 91%. For: form LWWWL vs LLLLL.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -3367,7 +3868,7 @@
   "stars": 3,
   "start": "2026-11-27T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Simmons Bank Liberty Stadium, Memphis"
  },
  "ncaaf-401862839": {
@@ -3401,9 +3902,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862839",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "+195",
@@ -3427,7 +3928,7 @@
   "stars": 2,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Raymond James Stadium, Tampa"
  },
  "ncaaf-401862840": {
@@ -3459,9 +3960,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401862840",
   "news": [
-   "Kent State TD overturned by replay was incorrect, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "USC band won't perform at UCLA football game after members vandalized campus",
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "-105",
@@ -3482,7 +3983,7 @@
   "stars": 1,
   "start": "2026-11-27T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Alamodome, San Antonio"
  },
  "ncaaf-401862841": {
@@ -3516,9 +4017,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862841",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "-205",
@@ -3542,7 +4043,7 @@
   "stars": 2,
   "start": "2026-11-28T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "First Community Stadium, Houston"
  },
  "ncaaf-401862842": {
@@ -3576,9 +4077,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862842",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "-850",
@@ -3600,7 +4101,7 @@
   "stars": 2,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Jerry Richardson Stadium, Charlotte"
  },
  "ncaaf-401862843": {
@@ -3634,9 +4135,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862843",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "+130",
@@ -3658,7 +4159,7 @@
   "stars": 3,
   "start": "2026-11-28T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "DATCU Stadium, Denton"
  },
  "ncaaf-401864546": {
@@ -3692,9 +4193,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864546",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "+210",
@@ -3716,8 +4217,124 @@
   "stars": 2,
   "start": "2026-11-27T21:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "University Stadium (NM), Albuquerque"
+ },
+ "ncaaf-401864547": {
+  "_lastPick": "HAW ML (-575)",
+  "away": {
+   "abbr": "SAC",
+   "form": "LLWLL",
+   "name": "Sacramento State Hornets",
+   "record": "2-9",
+   "short": "Sacramento St",
+   "teamId": "16"
+  },
+  "confidence": 84,
+  "espnId": "401864547",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 6.1,
+   "home": 93.9
+  },
+  "home": {
+   "abbr": "HAW",
+   "form": "LLWWL",
+   "name": "Hawai'i Rainbow Warriors",
+   "record": "3-8",
+   "short": "Hawai'i",
+   "teamId": "62"
+  },
+  "id": "ncaaf-401864547",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401864547",
+  "market": "Moneyline",
+  "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
+  ],
+  "odds": {
+   "mlAway": "+425",
+   "mlAwayOpen": "+455",
+   "mlHome": "-575",
+   "mlHomeOpen": "-625",
+   "provider": "Draft Kings",
+   "spread": "HAW -13.5",
+   "spreadOpen": "HAW -14.5",
+   "total": "39.5",
+   "totalOpen": "44.5"
+  },
+  "pick": "HAW ML (-575)",
+  "reason": "HAW are about 82% no-vig at -575; ESPN's model has 94%. For: ESPN model 94% vs market 82%.",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 3,
+  "start": "2026-11-29T04:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T04:29:33Z",
+  "venue": "Clarence T.C. Ching Athletics Complex, Honolulu"
+ },
+ "ncaaf-401864548": {
+  "_lastPick": "UNLV ML (-225)",
+  "away": {
+   "abbr": "NEV",
+   "form": "WWLLW",
+   "name": "Nevada Wolf Pack",
+   "record": "5-6",
+   "short": "Nevada",
+   "teamId": "2440"
+  },
+  "confidence": 64,
+  "espnId": "401864548",
+  "espnLeague": "college-football",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 31.9,
+   "home": 68.1
+  },
+  "home": {
+   "abbr": "UNLV",
+   "form": "WWLWL",
+   "name": "UNLV Rebels",
+   "record": "7-4",
+   "short": "UNLV",
+   "teamId": "2439"
+  },
+  "id": "ncaaf-401864548",
+  "league": "College Football",
+  "link": "https://www.espn.com/college-football/game/_/gameId/401864548",
+  "market": "Moneyline",
+  "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
+  ],
+  "odds": {
+   "mlAway": "+185",
+   "mlAwayOpen": "+154",
+   "mlHome": "-225",
+   "mlHomeOpen": "-185",
+   "provider": "Draft Kings",
+   "spread": "UNLV -5.5",
+   "spreadOpen": "UNLV -4.5",
+   "total": "44.5",
+   "totalOpen": "45.5"
+  },
+  "pick": "UNLV ML (-225)",
+  "reason": "UNLV are about 66% no-vig at -225; ESPN's model has 68%. For: line moved toward UNLV (-185 → -225).",
+  "risks": [],
+  "side": "home",
+  "slug": "college-football",
+  "sport": "ncaaf",
+  "stars": 2,
+  "start": "2026-11-29T02:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T04:29:33Z",
+  "venue": "Allegiant Stadium, Las Vegas"
  },
  "ncaaf-401864549": {
   "_lastPick": "NDSU ML (-345)",
@@ -3750,9 +4367,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864549",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "-345",
@@ -3760,9 +4377,9 @@
    "mlHome": "+275",
    "mlHomeOpen": "+410",
    "provider": "Draft Kings",
-   "spread": "NDSU -8.5",
+   "spread": "NDSU -7.5",
    "spreadOpen": "NDSU -11.5",
-   "total": "39.5",
+   "total": "40.5",
    "totalOpen": "39.5"
   },
   "pick": "NDSU ML (-345)",
@@ -3776,7 +4393,7 @@
   "stars": 3,
   "start": "2026-11-27T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "CEFCU Stadium, San Jose"
  },
  "ncaaf-401864550": {
@@ -3810,9 +4427,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864550",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "+160",
@@ -3834,126 +4451,8 @@
   "stars": 2,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Huskie Stadium, Dekalb"
- },
- "ncaaf-401866470": {
-  "_lastPick": "EMU ML (-225)",
-  "away": {
-   "abbr": "KENT",
-   "form": "LLLWL",
-   "name": "Kent State Golden Flashes",
-   "record": "3-9",
-   "short": "Kent State",
-   "teamId": "2309"
-  },
-  "confidence": 67,
-  "espnId": "401866470",
-  "espnLeague": "college-football",
-  "espnSport": "football",
-  "espnWinProb": {
-   "away": 24.4,
-   "home": 75.5
-  },
-  "home": {
-   "abbr": "EMU",
-   "form": "LLLLW",
-   "name": "Eastern Michigan Eagles",
-   "record": "5-7",
-   "short": "E Michigan",
-   "teamId": "2199"
-  },
-  "id": "ncaaf-401866470",
-  "league": "College Football",
-  "link": "https://www.espn.com/college-football/game/_/gameId/401866470",
-  "market": "Moneyline",
-  "news": [
-   "Memphis' Charles Huff says he's not candidate for Maryland head coaching job",
-   "NCAA sanctions Liberty over tampering with two players before entering portal",
-   "Five-star OT Lincoln Fa'alafi commits to Notre Dame, to join 2028 class"
-  ],
-  "odds": {
-   "mlAway": "+185",
-   "mlAwayOpen": "+185",
-   "mlHome": "-225",
-   "mlHomeOpen": "-225",
-   "provider": "DraftKings",
-   "spread": "EMU -6",
-   "spreadOpen": "EMU -6.5",
-   "total": "46.5",
-   "totalOpen": "46.5"
-  },
-  "pick": "EMU ML (-225)",
-  "reason": "EMU are about 66% no-vig at -225; ESPN's model has 76%. For: ESPN model 76% vs market 66%.",
-  "risks": [],
-  "side": "home",
-  "slug": "college-football",
-  "sport": "ncaaf",
-  "stars": 3,
-  "start": "2026-11-25T00:00Z",
-  "state": "post",
-  "updatedAt": "2026-11-24T20:23:02Z",
-  "venue": "Rynearson Stadium, Ypsilanti"
- },
- "ncaaf-401866471": {
-  "_lastPick": "WMU ML (-230)",
-  "away": {
-   "abbr": "M-OH",
-   "form": "WWLWW",
-   "name": "Miami (OH) RedHawks",
-   "record": "8-4",
-   "short": "Miami OH",
-   "teamId": "193"
-  },
-  "confidence": 63,
-  "espnId": "401866471",
-  "espnLeague": "college-football",
-  "espnSport": "football",
-  "espnWinProb": {
-   "away": 29.2,
-   "home": 70.8
-  },
-  "home": {
-   "abbr": "WMU",
-   "form": "WWWLW",
-   "name": "Western Michigan Broncos",
-   "record": "8-4",
-   "short": "W Michigan",
-   "teamId": "2711"
-  },
-  "id": "ncaaf-401866471",
-  "league": "College Football",
-  "link": "https://www.espn.com/college-football/game/_/gameId/401866471",
-  "market": "Moneyline",
-  "news": [
-   "Memphis' Charles Huff says he's not candidate for Maryland head coaching job",
-   "NCAA sanctions Liberty over tampering with two players before entering portal",
-   "Five-star OT Lincoln Fa'alafi commits to Notre Dame, to join 2028 class"
-  ],
-  "odds": {
-   "mlAway": "+190",
-   "mlAwayOpen": "+240",
-   "mlHome": "-230",
-   "mlHomeOpen": "-298",
-   "provider": "DraftKings",
-   "spread": "WMU -4.5",
-   "spreadOpen": "WMU -7.5",
-   "total": "45.5",
-   "totalOpen": "46.5"
-  },
-  "pick": "WMU ML (-230)",
-  "reason": "WMU are about 67% no-vig at -230; ESPN's model has 71%.",
-  "risks": [
-   "line drifted away (-298 → -230)"
-  ],
-  "side": "home",
-  "slug": "college-football",
-  "sport": "ncaaf",
-  "stars": 2,
-  "start": "2026-11-25T00:00Z",
-  "state": "post",
-  "updatedAt": "2026-11-24T20:23:02Z",
-  "venue": "Waldo Stadium, Kalamazoo"
  },
  "ncaaf-401866472": {
   "_lastPick": "BUFF ML (-305)",
@@ -3986,9 +4485,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401866472",
   "market": "Moneyline",
   "news": [
-   "Kent State TD overturned by replay was incorrect, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "USC band won't perform at UCLA football game after members vandalized campus",
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "-305",
@@ -3998,7 +4497,7 @@
    "provider": "Draft Kings",
    "spread": "BUF -7.5",
    "spreadOpen": "BUFF -10",
-   "total": "48.5",
+   "total": "47.5",
    "totalOpen": "49.5"
   },
   "pick": "BUFF ML (-305)",
@@ -4010,7 +4509,7 @@
   "stars": 4,
   "start": "2026-11-27T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "InfoCision Stadium, Akron"
  },
  "ncaaf-401866473": {
@@ -4042,9 +4541,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401866473",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "-155",
@@ -4065,7 +4564,7 @@
   "stars": 1,
   "start": "2026-11-27T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Peden Stadium, Athens"
  },
  "ncaaf-401866474": {
@@ -4099,9 +4598,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401866474",
   "market": "Moneyline",
   "news": [
-   "Kent State TD overturned by replay was incorrect, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "USC band won't perform at UCLA football game after members vandalized campus",
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "-192",
@@ -4123,7 +4622,7 @@
   "stars": 2,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Scheumann Stadium, Muncie"
  },
  "ncaaf-401866475": {
@@ -4155,9 +4654,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401866475",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "+136",
@@ -4180,7 +4679,7 @@
   "stars": 1,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Doyt L. Perry Stadium, Bowling Green"
  },
  "ncaaf-401869930": {
@@ -4214,9 +4713,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869930",
   "market": "Moneyline",
   "news": [
-   "Kent State TD overturned by replay was incorrect, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "USC band won't perform at UCLA football game after members vandalized campus",
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "+140",
@@ -4238,7 +4737,7 @@
   "stars": 2,
   "start": "2026-11-27T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Hancock Whitney Stadium, Mobile"
  },
  "ncaaf-401869939": {
@@ -4272,9 +4771,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869939",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "+154",
@@ -4296,7 +4795,7 @@
   "stars": 2,
   "start": "2026-11-28T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Centennial Bank Stadium, Jonesboro"
  },
  "ncaaf-401869947": {
@@ -4330,9 +4829,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869947",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "+575",
@@ -4354,7 +4853,7 @@
   "stars": 2,
   "start": "2026-11-28T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Bridgeforth Stadium, Harrisonburg"
  },
  "ncaaf-401869954": {
@@ -4386,9 +4885,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401869954",
   "news": [
-   "Kent State TD overturned by replay was incorrect, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "USC band won't perform at UCLA football game after members vandalized campus",
+   "Kent State TD overturned by replay was incorrect decision, MAC says",
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "+114",
@@ -4409,7 +4908,7 @@
   "stars": 1,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Allen E. Paulson Stadium, Statesboro"
  },
  "ncaaf-401869959": {
@@ -4443,9 +4942,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869959",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "-205",
@@ -4467,7 +4966,7 @@
   "stars": 2,
   "start": "2026-11-28T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Center Parc Stadium, Atlanta"
  },
  "ncaaf-401870804": {
@@ -4499,9 +4998,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401870804",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "-170",
@@ -4522,7 +5021,7 @@
   "stars": 1,
   "start": "2026-11-28T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Houchens Industries-L.T. Smith Stadium, Bowling Green"
  },
  "ncaaf-401871062": {
@@ -4554,9 +5053,9 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401871062",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "+120",
@@ -4577,7 +5076,7 @@
   "stars": 1,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Delaware Stadium, Newark"
  },
  "ncaaf-401871063": {
@@ -4611,9 +5110,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871063",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "-900",
@@ -4635,7 +5134,7 @@
   "stars": 3,
   "start": "2026-11-28T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Robert W. Plaster Stadium, Springfield"
  },
  "ncaaf-401871082": {
@@ -4669,9 +5168,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871082",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "+350",
@@ -4693,7 +5192,7 @@
   "stars": 2,
   "start": "2026-11-28T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Pitbull Stadium, Miami"
  },
  "ncaaf-401871083": {
@@ -4727,9 +5226,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871083",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "+136",
@@ -4751,7 +5250,7 @@
   "stars": 2,
   "start": "2026-11-28T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Johnny \"Red\" Floyd Stadium, Murfreesboro"
  },
  "ncaaf-401871102": {
@@ -4785,9 +5284,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871102",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "-205",
@@ -4809,7 +5308,7 @@
   "stars": 2,
   "start": "2026-11-28T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Malone Stadium, Monroe"
  },
  "ncaaf-401871103": {
@@ -4843,9 +5342,9 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871103",
   "market": "Moneyline",
   "news": [
+   "USC band won't perform at UCLA football game after members vandalized campus",
    "Kent State TD overturned by replay was incorrect decision, MAC says",
-   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown",
-   "No. 3 Notre Dame aims to solidify College Football Playoff position at Syracuse"
+   "Miami looking to finish 9-0, Boston College looking for bowl eligibility in ACC showdown"
   ],
   "odds": {
    "mlAway": "+190",
@@ -4867,7 +5366,7 @@
   "stars": 2,
   "start": "2026-11-28T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "S.B. Ballard Stadium, Norfolk"
  },
  "nfl-401873079": {
@@ -4971,12 +5470,12 @@
   "sport": "nfl",
   "stars": 1,
   "start": "2026-11-26T01:00Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "SoFi Stadium, Inglewood"
  },
  "nfl-401873080": {
-  "_lastPick": "DAL ML (-480)",
+  "_lastPick": "DAL ML (-450)",
   "away": {
    "abbr": "PHI",
    "form": "WLLLL",
@@ -4991,7 +5490,7 @@
    "short": "Eagles",
    "teamId": "21"
   },
-  "confidence": 78,
+  "confidence": 77,
   "espnId": "401873080",
   "espnLeague": "nfl",
   "espnSport": "football",
@@ -5003,10 +5502,10 @@
    "abbr": "DAL",
    "form": "WLWLW",
    "injuries": [
-    "P.J. Locke (S) – Out, Concussion",
-    "Jake Ferguson (TE) – Out, Knee",
     "Devin Moore (CB) – Injured Reserve, Hip",
-    "Jonathan Mingo (WR) – Out, Ankle"
+    "P.J. Locke (S) – Out, Concussion",
+    "Jonathan Mingo (WR) – Out, Ankle",
+    "Jake Ferguson (TE) – Out, Knee"
    ],
    "name": "Dallas Cowboys",
    "record": "5-6",
@@ -5054,9 +5553,23 @@
    ],
    "home": [
     {
+     "detail": "Hip",
+     "player": "Devin Moore",
+     "pos": "CB",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
+    {
      "detail": "Concussion",
      "player": "P.J. Locke",
      "pos": "S",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Ankle",
+     "player": "Jonathan Mingo",
+     "pos": "WR",
      "stale": false,
      "status": "Out"
     },
@@ -5066,20 +5579,6 @@
      "pos": "TE",
      "stale": false,
      "status": "Out"
-    },
-    {
-     "detail": "Hip",
-     "player": "Devin Moore",
-     "pos": "CB",
-     "stale": false,
-     "status": "Injured Reserve"
-    },
-    {
-     "detail": "Ankle",
-     "player": "Jonathan Mingo",
-     "pos": "WR",
-     "stale": false,
-     "status": "Out"
     }
    ]
   },
@@ -5087,23 +5586,23 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873080",
   "market": "Moneyline",
   "news": [
-   "Aaron Rodgers' comments on 'The Pat McAfee Show' draw NFL reaction",
-   "Steelers players try to keep focus on Broncos amid Aaron Rodgers fallout",
-   "Sources: Mike McCarthy has Steelers' full support after Aaron Rodgers interview"
+   "Rams' Kam Kinchens ejected as hit leaves Packers' Christian Watson concussed",
+   "Buccaneers will need more from Baker Mayfield and struggling passing attack to beat the Panthers",
+   "Tony Romo takes job with sports gambling company co-founded by Jake Paul"
   ],
   "odds": {
-   "mlAway": "+370",
+   "mlAway": "+350",
    "mlAwayOpen": "+100",
-   "mlHome": "-480",
+   "mlHome": "-450",
    "mlHomeOpen": "-120",
    "provider": "Draft Kings",
    "spread": "DAL -8.5",
    "spreadOpen": "DAL -1.5",
-   "total": "47.5",
+   "total": "48.5",
    "totalOpen": "49.5"
   },
-  "pick": "DAL ML (-480)",
-  "reason": "DAL are about 80% no-vig at -480; ESPN's model has 83%. For: line moved toward DAL (-120 → -480).",
+  "pick": "DAL ML (-450)",
+  "reason": "DAL are about 79% no-vig at -450; ESPN's model has 83%. For: line moved toward DAL (-120 → -450).",
   "risks": [],
   "side": "home",
   "slug": "nfl",
@@ -5111,7 +5610,7 @@
   "stars": 3,
   "start": "2026-11-26T21:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "AT&T Stadium, Arlington"
  },
  "nfl-401873081": {
@@ -5201,14 +5700,14 @@
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873081",
   "news": [
-   "Aaron Rodgers' comments on 'The Pat McAfee Show' draw NFL reaction",
-   "Steelers players try to keep focus on Broncos amid Aaron Rodgers fallout",
-   "Sources: Mike McCarthy has Steelers' full support after Aaron Rodgers interview"
+   "Rams' Kam Kinchens ejected as hit leaves Packers' Christian Watson concussed",
+   "Buccaneers will need more from Baker Mayfield and struggling passing attack to beat the Panthers",
+   "Tony Romo takes job with sports gambling company co-founded by Jake Paul"
   ],
   "odds": {
-   "mlAway": "-122",
+   "mlAway": "-120",
    "mlAwayOpen": "+114",
-   "mlHome": "+104",
+   "mlHome": "+102",
    "mlHomeOpen": "-135",
    "provider": "Draft Kings",
    "spread": "CHI -1.5",
@@ -5217,16 +5716,16 @@
    "totalOpen": "51.5"
   },
   "pick": "Pass",
-  "reason": "CHI about 53% no-vig at -122; no edge worth a pick.",
+  "reason": "CHI about 52% no-vig at -120; no edge worth a pick.",
   "risks": [
-   "ESPN model only 44% vs market 53%"
+   "ESPN model only 44% vs market 52%"
   ],
   "slug": "nfl",
   "sport": "nfl",
   "stars": 1,
   "start": "2026-11-26T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Ford Field, Detroit"
  },
  "nfl-401873082": {
@@ -5290,9 +5789,9 @@
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873082",
   "news": [
-   "Aaron Rodgers' comments on 'The Pat McAfee Show' draw NFL reaction",
-   "Steelers players try to keep focus on Broncos amid Aaron Rodgers fallout",
-   "Sources: Mike McCarthy has Steelers' full support after Aaron Rodgers interview"
+   "Rams' Kam Kinchens ejected as hit leaves Packers' Christian Watson concussed",
+   "Buccaneers will need more from Baker Mayfield and struggling passing attack to beat the Panthers",
+   "Tony Romo takes job with sports gambling company co-founded by Jake Paul"
   ],
   "odds": {
    "mlAway": "+125",
@@ -5302,7 +5801,7 @@
    "provider": "Draft Kings",
    "spread": "BUF -3",
    "spreadOpen": "BUF -2.5",
-   "total": "46.5",
+   "total": "45.5",
    "totalOpen": "49.5"
   },
   "pick": "Pass",
@@ -5313,7 +5812,7 @@
   "stars": 1,
   "start": "2026-11-27T01:20Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Highmark Stadium, Orchard Park"
  },
  "nfl-401873083": {
@@ -5321,6 +5820,8 @@
    "abbr": "DEN",
    "form": "WWWWW",
    "injuries": [
+    "Sai'vion Jones (DE) – Out, Hamstring",
+    "Taylor Rapp (S) – Out, Quadriceps",
     "Jonah Elliss (LB) – Injured Reserve, Ankle",
     "Tyler Badie (RB) – Injured Reserve, Thumb"
    ],
@@ -5352,6 +5853,20 @@
   "id": "nfl-401873083",
   "injuriesRaw": {
    "away": [
+    {
+     "detail": "Hamstring",
+     "player": "Sai'vion Jones",
+     "pos": "DE",
+     "stale": false,
+     "status": "Out"
+    },
+    {
+     "detail": "Quadriceps",
+     "player": "Taylor Rapp",
+     "pos": "S",
+     "stale": false,
+     "status": "Out"
+    },
     {
      "detail": "Ankle",
      "player": "Jonah Elliss",
@@ -5387,9 +5902,9 @@
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873083",
   "news": [
-   "Aaron Rodgers' comments on 'The Pat McAfee Show' draw NFL reaction",
-   "Steelers players try to keep focus on Broncos amid Aaron Rodgers fallout",
-   "Sources: Mike McCarthy has Steelers' full support after Aaron Rodgers interview"
+   "Rams' Kam Kinchens ejected as hit leaves Packers' Christian Watson concussed",
+   "Buccaneers will need more from Baker Mayfield and struggling passing attack to beat the Panthers",
+   "Tony Romo takes job with sports gambling company co-founded by Jake Paul"
   ],
   "odds": {
    "mlAway": "-202",
@@ -5412,7 +5927,7 @@
   "stars": 1,
   "start": "2026-11-27T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Acrisure Stadium, Pittsburgh"
  },
  "soccer-401874826": {
@@ -5440,9 +5955,9 @@
   "league": "Serie A",
   "link": "https://www.espn.com/soccer/match/_/gameId/401874826",
   "news": [
-   "Transfer rumors, news: Manchester United's Bruno Fernandes eyed by Juventus",
    "Transfer rumors, news: Arsenal, Newcastle eye Inter's Pio Esposito",
-   "Lazio are top of Serie A despite playing without their fans"
+   "Lazio are top of Serie A despite playing without their fans",
+   "Milan into top four as classy Pulisic solo goal caps Serie A rout"
   ],
   "odds": {
    "mlAway": "+105",
@@ -5464,7 +5979,7 @@
   "stars": 1,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Stadio Olimpico Grande Torino, Torino"
  },
  "soccer-401874977": {
@@ -5483,7 +5998,7 @@
   "espnSport": "soccer",
   "home": {
    "abbr": "INT",
-   "form": "DWWLW",
+   "form": "WDWWL",
    "name": "Internazionale",
    "record": "9-2-1",
    "short": "Inter Milan",
@@ -5494,9 +6009,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401874977",
   "market": "Moneyline",
   "news": [
-   "Transfer rumors, news: Manchester United's Bruno Fernandes eyed by Juventus",
    "Transfer rumors, news: Arsenal, Newcastle eye Inter's Pio Esposito",
-   "Lazio are top of Serie A despite playing without their fans"
+   "Lazio are top of Serie A despite playing without their fans",
+   "Milan into top four as classy Pulisic solo goal caps Serie A rout"
   ],
   "odds": {
    "mlAway": "+700",
@@ -5521,7 +6036,7 @@
   "stars": 2,
   "start": "2026-11-28T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "San Siro, Milano"
  },
  "soccer-401875004": {
@@ -5549,9 +6064,9 @@
   "league": "Serie A",
   "link": "https://www.espn.com/soccer/match/_/gameId/401875004",
   "news": [
-   "Transfer rumors, news: Manchester United's Bruno Fernandes eyed by Juventus",
    "Transfer rumors, news: Arsenal, Newcastle eye Inter's Pio Esposito",
-   "Lazio are top of Serie A despite playing without their fans"
+   "Lazio are top of Serie A despite playing without their fans",
+   "Milan into top four as classy Pulisic solo goal caps Serie A rout"
   ],
   "odds": {
    "mlAway": "+115",
@@ -5575,7 +6090,7 @@
   "stars": 1,
   "start": "2026-11-27T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Stadio Pier Luigi Penzo, Venezia"
  },
  "soccer-401875081": {
@@ -5605,9 +6120,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401875081",
   "market": "Moneyline",
   "news": [
-   "Transfer rumors, news: Manchester United's Bruno Fernandes eyed by Juventus",
    "Transfer rumors, news: Arsenal, Newcastle eye Inter's Pio Esposito",
-   "Lazio are top of Serie A despite playing without their fans"
+   "Lazio are top of Serie A despite playing without their fans",
+   "Milan into top four as classy Pulisic solo goal caps Serie A rout"
   ],
   "odds": {
    "mlAway": "+425",
@@ -5630,7 +6145,7 @@
   "stars": 2,
   "start": "2026-11-28T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Stadio Benito Stirpe, Frosinone"
  },
  "soccer-401876387": {
@@ -5643,13 +6158,13 @@
    "short": "Lorient",
    "teamId": "273"
   },
-  "confidence": 77,
+  "confidence": 76,
   "espnId": "401876387",
   "espnLeague": "fra.1",
   "espnSport": "soccer",
   "home": {
    "abbr": "PSG",
-   "form": "WWWWW",
+   "form": "DWWWW",
    "name": "Paris Saint-Germain",
    "record": "8-2-1",
    "short": "PSG",
@@ -5677,15 +6192,15 @@
    "totalOpen": "3.5"
   },
   "pick": "PSG ML (-475)",
-  "reason": "PSG are about 79% no-vig at -475. For: form WWWWW vs DWLDW.",
+  "reason": "PSG are about 79% no-vig at -475.",
   "risks": [],
   "side": "home",
   "slug": "fra.1",
   "sport": "soccer",
-  "stars": 3,
+  "stars": 2,
   "start": "2026-11-28T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Parc des Princes, Paris"
  },
  "soccer-401876388": {
@@ -5737,13 +6252,13 @@
   "stars": 1,
   "start": "2026-11-28T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Allianz Riviera, Nice"
  },
  "soccer-401876390": {
   "away": {
    "abbr": "LILL",
-   "form": "LWDWD",
+   "form": "WLWDW",
    "name": "Lille",
    "record": "6-3-2",
    "short": "Lille",
@@ -5791,7 +6306,7 @@
   "stars": 1,
   "start": "2026-11-28T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Stade Marie-Marvingt, Le Mans"
  },
  "soccer-401876391": {
@@ -5843,7 +6358,7 @@
   "stars": 1,
   "start": "2026-11-28T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Stade Océane, Le Havre"
  },
  "soccer-401876392": {
@@ -5895,7 +6410,7 @@
   "stars": 1,
   "start": "2026-11-27T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Stade Francis-Le Blé, Brest"
  },
  "soccer-401876394": {
@@ -5947,7 +6462,7 @@
   "stars": 1,
   "start": "2026-11-28T16:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Stade Raymond Kopa, Angers"
  },
  "soccer-401878752": {
@@ -5975,9 +6490,9 @@
   "league": "Premier League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401878752",
   "news": [
-   "Nottingham Forest boss Glasner hits out at players who don't learn English",
-   "Newcastle owners not considering full sale, only minority deals - reports",
-   "Man City told regulator 'has the stomach' to challenge owners after charges"
+   "VAR review: Why Man United should've gotten winner vs. Sporting",
+   "Man United's costly errors overshadow early progress under Mauricio Pochettino",
+   "Andoni Iraola: Alexander Isak in a 'great moment' after brace vs. Club Brugge"
   ],
   "odds": {
    "mlAway": "-105",
@@ -5999,7 +6514,7 @@
   "stars": 1,
   "start": "2026-11-28T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Portman Road, Ipswich"
  },
  "soccer-401879225": {
@@ -6027,9 +6542,9 @@
   "league": "Premier League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401879225",
   "news": [
-   "Nottingham Forest boss Glasner hits out at players who don't learn English",
-   "Newcastle owners not considering full sale, only minority deals - reports",
-   "Man City told regulator 'has the stomach' to challenge owners after charges"
+   "VAR review: Why Man United should've gotten winner vs. Sporting",
+   "Man United's costly errors overshadow early progress under Mauricio Pochettino",
+   "Andoni Iraola: Alexander Isak in a 'great moment' after brace vs. Club Brugge"
   ],
   "odds": {
    "mlAway": "+180",
@@ -6051,7 +6566,7 @@
   "stars": 1,
   "start": "2026-11-27T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "The City Ground, Nottingham"
  },
  "soccer-401879226": {
@@ -6069,7 +6584,7 @@
   "espnSport": "soccer",
   "home": {
    "abbr": "MAN",
-   "form": "LDWLL",
+   "form": "DLDWL",
    "name": "Manchester United",
    "record": "1-5-5",
    "short": "Man Utd",
@@ -6079,9 +6594,9 @@
   "league": "Premier League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401879226",
   "news": [
-   "Nottingham Forest boss Glasner hits out at players who don't learn English",
-   "Newcastle owners not considering full sale, only minority deals - reports",
-   "Man City told regulator 'has the stomach' to challenge owners after charges"
+   "VAR review: Why Man United should've gotten winner vs. Sporting",
+   "Man United's costly errors overshadow early progress under Mauricio Pochettino",
+   "Andoni Iraola: Alexander Isak in a 'great moment' after brace vs. Club Brugge"
   ],
   "odds": {
    "mlAway": "+225",
@@ -6092,7 +6607,7 @@
    "provider": "DraftKings",
    "spread": "MAN +110",
    "spreadOpen": "MAN -0.5",
-   "total": "3.5",
+   "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
@@ -6103,7 +6618,7 @@
   "stars": 1,
   "start": "2026-11-28T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Old Trafford, Manchester"
  },
  "soccer-401879227": {
@@ -6133,9 +6648,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401879227",
   "market": "Moneyline",
   "news": [
-   "Nottingham Forest boss Glasner hits out at players who don't learn English",
-   "Newcastle owners not considering full sale, only minority deals - reports",
-   "Man City told regulator 'has the stomach' to challenge owners after charges"
+   "VAR review: Why Man United should've gotten winner vs. Sporting",
+   "Man United's costly errors overshadow early progress under Mauricio Pochettino",
+   "Andoni Iraola: Alexander Isak in a 'great moment' after brace vs. Club Brugge"
   ],
   "odds": {
    "mlAway": "+550",
@@ -6158,7 +6673,7 @@
   "stars": 2,
   "start": "2026-11-28T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Elland Road, Leeds"
  },
  "soccer-401882789": {
@@ -6188,9 +6703,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401882789",
   "market": "Moneyline",
   "news": [
+   "Transfer rumors, news: Man United, Barcelona eye USMNT's Mathis Albert",
    "Barcelona to appeal Fermín López's two-match ban - sources",
-   "Bellingham: Being the best player in the world means nothing to me",
-   "Levante vs. Elche - Game Highlights"
+   "Bellingham: Being the best player in the world means nothing to me"
   ],
   "odds": {
    "mlAway": "+1600",
@@ -6213,7 +6728,7 @@
   "stars": 3,
   "start": "2026-11-28T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Santiago Bernabéu, Madrid"
  },
  "soccer-401882790": {
@@ -6225,7 +6740,7 @@
    "short": "Athletic",
    "teamId": "93"
   },
-  "confidence": 51,
+  "confidence": 52,
   "espnId": "401882790",
   "espnLeague": "esp.1",
   "espnSport": "soccer",
@@ -6241,31 +6756,31 @@
   "league": "LaLiga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401882790",
   "news": [
+   "Transfer rumors, news: Man United, Barcelona eye USMNT's Mathis Albert",
    "Barcelona to appeal Fermín López's two-match ban - sources",
-   "Bellingham: Being the best player in the world means nothing to me",
-   "Levante vs. Elche - Game Highlights"
+   "Bellingham: Being the best player in the world means nothing to me"
   ],
   "odds": {
-   "mlAway": "-130",
+   "mlAway": "-135",
    "mlAwayOpen": "-135",
-   "mlDraw": "+280",
-   "mlHome": "+360",
+   "mlDraw": "+290",
+   "mlHome": "+370",
    "mlHomeOpen": "+340",
    "provider": "DraftKings",
-   "spread": "ATH -130",
+   "spread": "ATH -135",
    "spreadOpen": "ATH -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Athletic about 54% no-vig at -130; no edge worth a pick.",
+  "reason": "Athletic about 55% no-vig at -135; no edge worth a pick.",
   "risks": [],
   "slug": "esp.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-28T15:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "La Rosaleda, Malaga"
  },
  "soccer-401882791": {
@@ -6293,9 +6808,9 @@
   "league": "LaLiga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401882791",
   "news": [
+   "Transfer rumors, news: Man United, Barcelona eye USMNT's Mathis Albert",
    "Barcelona to appeal Fermín López's two-match ban - sources",
-   "Bellingham: Being the best player in the world means nothing to me",
-   "Levante vs. Elche - Game Highlights"
+   "Bellingham: Being the best player in the world means nothing to me"
   ],
   "odds": {
    "mlAway": "+220",
@@ -6319,14 +6834,14 @@
   "stars": 1,
   "start": "2026-11-27T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Estadi Ciutat de València, Manises"
  },
  "soccer-401882793": {
-  "_lastPick": "Atlético ML (-200)",
+  "_lastPick": "Atlético ML (-210)",
   "away": {
    "abbr": "ATM",
-   "form": "WLLWW",
+   "form": "WWLLW",
    "name": "Atlético Madrid",
    "record": "10-1-2",
    "short": "Atlético",
@@ -6349,24 +6864,24 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401882793",
   "market": "Moneyline",
   "news": [
+   "Transfer rumors, news: Man United, Barcelona eye USMNT's Mathis Albert",
    "Barcelona to appeal Fermín López's two-match ban - sources",
-   "Bellingham: Being the best player in the world means nothing to me",
-   "Levante vs. Elche - Game Highlights"
+   "Bellingham: Being the best player in the world means nothing to me"
   ],
   "odds": {
-   "mlAway": "-200",
+   "mlAway": "-210",
    "mlAwayOpen": "-180",
-   "mlDraw": "+370",
+   "mlDraw": "+380",
    "mlHome": "+500",
    "mlHomeOpen": "+425",
    "provider": "DraftKings",
-   "spread": "ATM -200",
+   "spread": "ATM -210",
    "spreadOpen": "ATM -0.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
-  "pick": "Atlético ML (-200)",
-  "reason": "Atlético are about 64% no-vig at -200.",
+  "pick": "Atlético ML (-210)",
+  "reason": "Atlético are about 64% no-vig at -210.",
   "risks": [],
   "side": "away",
   "slug": "esp.1",
@@ -6374,7 +6889,7 @@
   "stars": 2,
   "start": "2026-11-28T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Estadio Martínez Valero, Elche"
  },
  "soccer-401882796": {
@@ -6402,9 +6917,9 @@
   "league": "LaLiga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401882796",
   "news": [
+   "Transfer rumors, news: Man United, Barcelona eye USMNT's Mathis Albert",
    "Barcelona to appeal Fermín López's two-match ban - sources",
-   "Bellingham: Being the best player in the world means nothing to me",
-   "Levante vs. Elche - Game Highlights"
+   "Bellingham: Being the best player in the world means nothing to me"
   ],
   "odds": {
    "mlAway": "+400",
@@ -6426,7 +6941,7 @@
   "stars": 1,
   "start": "2026-11-28T13:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Estadio La Cartuja, Sevilla"
  },
  "soccer-401884719": {
@@ -6454,9 +6969,9 @@
   "league": "Bundesliga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401884719",
   "news": [
+   "Transfer rumors, news: Man United, Barcelona eye USMNT's Mathis Albert",
    "Bayern Munich, Jamal Musiala mess shows German champs at their worst",
-   "Bayern Munich: Jamal Musiala's health 'top priority' amid contract doubts",
-   "Bayern hold 'constructive' talks with Musiala's agents over health, not money"
+   "Bayern Munich: Jamal Musiala's health 'top priority' amid contract doubts"
   ],
   "odds": {
    "mlAway": "+175",
@@ -6478,7 +6993,7 @@
   "stars": 1,
   "start": "2026-11-28T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Home Deluxe Arena, Paderborn"
  },
  "soccer-401884720": {
@@ -6506,9 +7021,9 @@
   "league": "Bundesliga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401884720",
   "news": [
+   "Transfer rumors, news: Man United, Barcelona eye USMNT's Mathis Albert",
    "Bayern Munich, Jamal Musiala mess shows German champs at their worst",
-   "Bayern Munich: Jamal Musiala's health 'top priority' amid contract doubts",
-   "Bayern hold 'constructive' talks with Musiala's agents over health, not money"
+   "Bayern Munich: Jamal Musiala's health 'top priority' amid contract doubts"
   ],
   "odds": {
    "mlAway": "+300",
@@ -6530,7 +7045,7 @@
   "stars": 1,
   "start": "2026-11-27T19:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Weserstadion, Bremen"
  },
  "soccer-401884721": {
@@ -6558,9 +7073,9 @@
   "league": "Bundesliga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401884721",
   "news": [
+   "Transfer rumors, news: Man United, Barcelona eye USMNT's Mathis Albert",
    "Bayern Munich, Jamal Musiala mess shows German champs at their worst",
-   "Bayern Munich: Jamal Musiala's health 'top priority' amid contract doubts",
-   "Bayern hold 'constructive' talks with Musiala's agents over health, not money"
+   "Bayern Munich: Jamal Musiala's health 'top priority' amid contract doubts"
   ],
   "odds": {
    "mlAway": "+230",
@@ -6582,7 +7097,7 @@
   "stars": 1,
   "start": "2026-11-28T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "RheinEnergieStadion, Cologne"
  },
  "soccer-401884722": {
@@ -6617,7 +7132,7 @@
   "stars": 1,
   "start": "2026-11-28T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Volksparkstadion, Hamburg Norderstedt"
  },
  "soccer-401884723": {
@@ -6647,9 +7162,9 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401884723",
   "market": "Moneyline",
   "news": [
+   "Transfer rumors, news: Man United, Barcelona eye USMNT's Mathis Albert",
    "Bayern Munich, Jamal Musiala mess shows German champs at their worst",
-   "Bayern Munich: Jamal Musiala's health 'top priority' amid contract doubts",
-   "Bayern hold 'constructive' talks with Musiala's agents over health, not money"
+   "Bayern Munich: Jamal Musiala's health 'top priority' amid contract doubts"
   ],
   "odds": {
    "mlAway": "+450",
@@ -6672,7 +7187,7 @@
   "stars": 2,
   "start": "2026-11-28T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "MEWA ARENA, Mainz"
  },
  "soccer-401884726": {
@@ -6690,7 +7205,7 @@
   "espnSport": "soccer",
   "home": {
    "abbr": "VFB",
-   "form": "DWLWW",
+   "form": "LDWLW",
    "name": "VfB Stuttgart",
    "record": "4-1-5",
    "short": "Stuttgart",
@@ -6700,9 +7215,9 @@
   "league": "Bundesliga",
   "link": "https://www.espn.com/soccer/match/_/gameId/401884726",
   "news": [
+   "Transfer rumors, news: Man United, Barcelona eye USMNT's Mathis Albert",
    "Bayern Munich, Jamal Musiala mess shows German champs at their worst",
-   "Bayern Munich: Jamal Musiala's health 'top priority' amid contract doubts",
-   "Bayern hold 'constructive' talks with Musiala's agents over health, not money"
+   "Bayern Munich: Jamal Musiala's health 'top priority' amid contract doubts"
   ],
   "odds": {
    "mlAway": "+265",
@@ -6724,7 +7239,7 @@
   "stars": 1,
   "start": "2026-11-28T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "MHPArena, Stuttgart"
  },
  "soccer-401915291": {
@@ -7269,7 +7784,7 @@
   "venue": "Baku Olympic Stadium, Baku"
  },
  "soccer-401915501": {
-  "_lastPick": "Lyon ML (-525)",
+  "_lastPick": "Lyon ML (-475)",
   "away": {
    "abbr": "LSK",
    "form": "WWLWW",
@@ -7278,7 +7793,7 @@
    "short": "Lillestrom",
    "teamId": "987"
   },
-  "confidence": 76,
+  "confidence": 75,
   "espnId": "401915501",
   "espnLeague": "uefa.europa",
   "espnSport": "soccer",
@@ -7295,19 +7810,19 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401915501",
   "market": "Moneyline",
   "odds": {
-   "mlAway": "+1200",
+   "mlAway": "+1100",
    "mlAwayOpen": "+1000",
-   "mlDraw": "+650",
-   "mlHome": "-525",
+   "mlDraw": "+600",
+   "mlHome": "-475",
    "mlHomeOpen": "-525",
    "provider": "DraftKings",
-   "spread": "LYON -525",
+   "spread": "LYON -475",
    "spreadOpen": "LYON -1.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
-  "pick": "Lyon ML (-525)",
-  "reason": "Lyon are about 80% no-vig at -525.",
+  "pick": "Lyon ML (-475)",
+  "reason": "Lyon are about 79% no-vig at -475.",
   "risks": [
    "opponent in better form (WWLWW)"
   ],
@@ -7317,11 +7832,11 @@
   "stars": 2,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Groupama Stadium, Lyon"
  },
  "soccer-401915502": {
-  "_lastPick": "Juventus ML (-550)",
+  "_lastPick": "Juventus ML (-575)",
   "away": {
    "abbr": "OMON",
    "form": "LLWWW",
@@ -7330,7 +7845,7 @@
    "short": "Omonia",
    "teamId": "617"
   },
-  "confidence": 78,
+  "confidence": 79,
   "espnId": "401915502",
   "espnLeague": "uefa.europa",
   "espnSport": "soccer",
@@ -7347,19 +7862,19 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401915502",
   "market": "Moneyline",
   "odds": {
-   "mlAway": "+1300",
+   "mlAway": "+1400",
    "mlAwayOpen": "+1100",
-   "mlDraw": "+650",
-   "mlHome": "-550",
+   "mlDraw": "+700",
+   "mlHome": "-575",
    "mlHomeOpen": "-550",
    "provider": "DraftKings",
-   "spread": "JUV -550",
+   "spread": "JUV -575",
    "spreadOpen": "JUV -2.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
-  "pick": "Juventus ML (-550)",
-  "reason": "Juventus are about 81% no-vig at -550.",
+  "pick": "Juventus ML (-575)",
+  "reason": "Juventus are about 82% no-vig at -575.",
   "risks": [],
   "side": "home",
   "slug": "uefa.europa",
@@ -7367,7 +7882,7 @@
   "stars": 2,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Allianz Stadium, Torino"
  },
  "soccer-401915503": {
@@ -7414,7 +7929,7 @@
   "stars": 1,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Pankritio Stadium, Crete"
  },
  "soccer-401915504": {
@@ -7461,7 +7976,7 @@
   "stars": 1,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Selhurst Park, London"
  },
  "soccer-401915505": {
@@ -7508,11 +8023,11 @@
   "stars": 1,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Goffertstadion, Nijmegen"
  },
  "soccer-401915506": {
-  "_lastPick": "Besiktas ML (-425)",
+  "_lastPick": "Besiktas ML (-380)",
   "away": {
    "abbr": "HBE",
    "form": "LLLDL",
@@ -7538,19 +8053,19 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401915506",
   "market": "Moneyline",
   "odds": {
-   "mlAway": "+950",
+   "mlAway": "+900",
    "mlAwayOpen": "+850",
    "mlDraw": "+550",
-   "mlHome": "-425",
+   "mlHome": "-380",
    "mlHomeOpen": "-400",
    "provider": "DraftKings",
-   "spread": "BES -425",
+   "spread": "BES -380",
    "spreadOpen": "BES -1.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
-  "pick": "Besiktas ML (-425)",
-  "reason": "Besiktas are about 76% no-vig at -425. For: form WWLDW vs LLLDL. Capped at 2★: Europa League capped by lessons.",
+  "pick": "Besiktas ML (-380)",
+  "reason": "Besiktas are about 76% no-vig at -380. For: form WWLDW vs LLLDL. Capped at 2★: Europa League capped by lessons.",
   "risks": [],
   "side": "home",
   "slug": "uefa.europa",
@@ -7558,7 +8073,7 @@
   "stars": 2,
   "start": "2026-11-26T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Batumi Stadium (Adjarabet Arena), Batumi"
  },
  "soccer-401915507": {
@@ -7608,7 +8123,7 @@
   "stars": 2,
   "start": "2026-11-26T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Stade Vélodrome, Marseille"
  },
  "soccer-401915508": {
@@ -7658,7 +8173,7 @@
   "stars": 2,
   "start": "2026-11-26T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "King Power at Den Dreef Stadion, Leuven"
  },
  "soccer-401915512": {
@@ -7689,7 +8204,7 @@
    "mlAway": "-155",
    "mlAwayOpen": "-140",
    "mlDraw": "+330",
-   "mlHome": "+370",
+   "mlHome": "+390",
    "mlHomeOpen": "+320",
    "provider": "DraftKings",
    "spread": "CEL -155",
@@ -7705,7 +8220,7 @@
   "stars": 1,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Estádio Dr. Magalhaes Pessoa, Leiria"
  },
  "soccer-401915513": {
@@ -7755,7 +8270,7 @@
   "stars": 2,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Stadium of Light, Sunderland"
  },
  "soccer-401915514": {
@@ -7802,7 +8317,7 @@
   "stars": 1,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Generali Arena, Prague"
  },
  "soccer-401915515": {
@@ -7852,7 +8367,7 @@
   "stars": 2,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "PreZero Arena, Sinsheim"
  },
  "soccer-401915516": {
@@ -7902,7 +8417,7 @@
   "stars": 2,
   "start": "2026-11-26T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Groupama Arena, Budapest"
  },
  "soccer-401915517": {
@@ -7949,7 +8464,7 @@
   "stars": 1,
   "start": "2026-11-26T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Maksimir Stadium, Zagreb"
  },
  "soccer-401915518": {
@@ -7999,7 +8514,7 @@
   "stars": 2,
   "start": "2026-11-26T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Doosan Arena, Plzen"
  },
  "soccer-401915519": {
@@ -8011,7 +8526,7 @@
    "short": "Bournemouth",
    "teamId": "349"
   },
-  "confidence": 41,
+  "confidence": 46,
   "espnId": "401915519",
   "espnLeague": "uefa.europa",
   "espnSport": "soccer",
@@ -8027,32 +8542,30 @@
   "league": "Europa League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401915519",
   "odds": {
-   "mlAway": "+110",
+   "mlAway": "+100",
    "mlAwayOpen": "-115",
-   "mlDraw": "+250",
-   "mlHome": "+245",
+   "mlDraw": "+260",
+   "mlHome": "+270",
    "mlHomeOpen": "+290",
    "provider": "DraftKings",
-   "spread": "BOU +110",
+   "spread": "BOU +100",
    "spreadOpen": "BOU -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Bournemouth about 45% no-vig at +110; no edge worth a pick.",
-  "risks": [
-   "line drifted away (-115 → +110)"
-  ],
+  "reason": "Bournemouth about 48% no-vig at +100; no edge worth a pick.",
+  "risks": [],
   "slug": "uefa.europa",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-26T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Balaidos, Vigo"
  },
  "soccer-401915520": {
-  "_lastPick": "RB Salzburg ML (-600)",
+  "_lastPick": "RB Salzburg ML (-650)",
   "away": {
    "abbr": "ARA",
    "form": "LLLWL",
@@ -8078,19 +8591,19 @@
   "link": "https://www.espn.com/soccer/match/_/gameId/401915520",
   "market": "Moneyline",
   "odds": {
-   "mlAway": "+1300",
+   "mlAway": "+1400",
    "mlAwayOpen": "+1000",
    "mlDraw": "+750",
-   "mlHome": "-600",
+   "mlHome": "-650",
    "mlHomeOpen": "-500",
    "provider": "DraftKings",
-   "spread": "SLZ -600",
+   "spread": "SLZ -650",
    "spreadOpen": "SLZ -2.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
-  "pick": "RB Salzburg ML (-600)",
-  "reason": "RB Salzburg are about 82% no-vig at -600.",
+  "pick": "RB Salzburg ML (-650)",
+  "reason": "RB Salzburg are about 82% no-vig at -650.",
   "risks": [],
   "side": "home",
   "slug": "uefa.europa",
@@ -8098,7 +8611,7 @@
   "stars": 2,
   "start": "2026-11-26T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Red Bull Arena Salzburg, Salzburg"
  },
  "soccer-401915521": {
@@ -8110,7 +8623,7 @@
    "short": "Milan",
    "teamId": "103"
   },
-  "confidence": 36,
+  "confidence": 37,
   "espnId": "401915521",
   "espnLeague": "uefa.europa",
   "espnSport": "soccer",
@@ -8126,26 +8639,26 @@
   "league": "Europa League",
   "link": "https://www.espn.com/soccer/match/_/gameId/401915521",
   "odds": {
-   "mlAway": "+145",
+   "mlAway": "+140",
    "mlAwayOpen": "+185",
-   "mlDraw": "+245",
-   "mlHome": "+185",
+   "mlDraw": "+250",
+   "mlHome": "+190",
    "mlHomeOpen": "+135",
    "provider": "DraftKings",
-   "spread": "MIL +145",
+   "spread": "MIL +140",
    "spreadOpen": "OLY -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Milan about 39% no-vig at +145; no edge worth a pick.",
+  "reason": "Milan about 40% no-vig at +140; no edge worth a pick.",
   "risks": [],
   "slug": "uefa.europa",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-26T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Georgios Karaiskakis Stadium, Piraeus"
  },
  "soccer-401931982": {
@@ -8176,8 +8689,8 @@
   "odds": {
    "mlAway": "+160",
    "mlAwayOpen": "+155",
-   "mlDraw": "+230",
-   "mlHome": "+165",
+   "mlDraw": "+220",
+   "mlHome": "+175",
    "mlHomeOpen": "+165",
    "provider": "DraftKings",
    "spread": "GDL +160",
@@ -8193,7 +8706,7 @@
   "stars": 1,
   "start": "2026-11-27T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Estadio Hidalgo, Pachuca"
  },
  "soccer-401931986": {
@@ -8243,7 +8756,7 @@
   "sport": "soccer",
   "stars": 2,
   "start": "2026-11-26T01:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Estadio Nemesio Díez Riega, Toluca"
  },
@@ -8275,8 +8788,8 @@
   "odds": {
    "mlAway": "+120",
    "mlAwayOpen": "+120",
-   "mlDraw": "+245",
-   "mlHome": "+210",
+   "mlDraw": "+250",
+   "mlHome": "+215",
    "mlHomeOpen": "+210",
    "provider": "DraftKings",
    "spread": "CAZ +120",
@@ -8292,8 +8805,74 @@
   "stars": 1,
   "start": "2026-11-27T03:10Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Estadio León, León de los Aldamas"
+ },
+ "soccer-401931996": {
+  "away": {
+   "abbr": "MTY",
+   "name": "Monterrey",
+   "short": "Monterrey",
+   "teamId": "220"
+  },
+  "espnId": "401931996",
+  "espnLeague": "mex.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "AME",
+   "name": "América",
+   "short": "América",
+   "teamId": "227"
+  },
+  "id": "soccer-401931996",
+  "league": "Liga MX",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401931996",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "mex.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-29T03:10Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T04:29:33Z",
+  "venue": "Estadio Banorte, Mexico City"
+ },
+ "soccer-401931997": {
+  "away": {
+   "abbr": "TOL",
+   "name": "Toluca",
+   "short": "Toluca",
+   "teamId": "223"
+  },
+  "espnId": "401931997",
+  "espnLeague": "mex.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "ATS",
+   "name": "Atlas",
+   "short": "Atlas",
+   "teamId": "216"
+  },
+  "id": "soccer-401931997",
+  "league": "Liga MX",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401931997",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "mex.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-29T01:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T04:29:33Z",
+  "venue": "Estadio Jalisco, Guadalajara"
  },
  "soccer-401931998": {
   "away": {
@@ -8321,13 +8900,13 @@
    "Liga MX Apertura playoff preview: Will Cruz Azul win back-to-back titles?"
   ],
   "odds": {
-   "mlAway": "+215",
+   "mlAway": "+240",
    "mlAwayOpen": "+190",
-   "mlDraw": "+230",
-   "mlHome": "+125",
+   "mlDraw": "+245",
+   "mlHome": "+110",
    "mlHomeOpen": "+135",
    "provider": "DraftKings",
-   "spread": "MTY +125",
+   "spread": "MTY +110",
    "spreadOpen": "MTY -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
@@ -8339,9 +8918,109 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-26T03:10Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-25T22:41:04Z",
   "venue": "Estadio BBVA, Guadalupe"
+ },
+ "soccer-401933721": {
+  "away": {
+   "abbr": "DAL",
+   "form": "WWDLW",
+   "name": "FC Dallas",
+   "short": "Dallas",
+   "teamId": "185"
+  },
+  "confidence": 41,
+  "espnId": "401933721",
+  "espnLeague": "usa.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "POR",
+   "form": "LWWWW",
+   "name": "Portland Timbers",
+   "short": "Portland",
+   "teamId": "9723"
+  },
+  "id": "soccer-401933721",
+  "league": "MLS",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401933721",
+  "news": [
+   "Source: MLS owners agree new 16-team playoff format starting in 2027-28",
+   "Luis Suárez says 'no excuses left' as Miami looks to avoid early playoff exit",
+   "Is your team out of the MLS playoffs? Adopt these chaos clubs as your 2nd side"
+  ],
+  "odds": {
+   "mlAway": "+190",
+   "mlAwayOpen": "+190",
+   "mlDraw": "+285",
+   "mlHome": "+110",
+   "mlHomeOpen": "+105",
+   "provider": "DraftKings",
+   "spread": "POR +110",
+   "spreadOpen": "POR -0.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Pass",
+  "reason": "Portland about 44% no-vig at +110; no edge worth a pick.",
+  "risks": [],
+  "slug": "usa.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-29T03:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T04:29:33Z",
+  "venue": "Providence Park, Portland, Oregon"
+ },
+ "soccer-401933722": {
+  "away": {
+   "abbr": "NSH",
+   "form": "LWWDW",
+   "name": "Nashville SC",
+   "short": "Nashville",
+   "teamId": "18986"
+  },
+  "confidence": 42,
+  "espnId": "401933722",
+  "espnLeague": "usa.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "CIN",
+   "form": "WWLWD",
+   "name": "FC Cincinnati",
+   "short": "Cincinnati",
+   "teamId": "18267"
+  },
+  "id": "soccer-401933722",
+  "league": "MLS",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401933722",
+  "news": [
+   "Source: MLS owners agree new 16-team playoff format starting in 2027-28",
+   "Luis Suárez says 'no excuses left' as Miami looks to avoid early playoff exit",
+   "Is your team out of the MLS playoffs? Adopt these chaos clubs as your 2nd side"
+  ],
+  "odds": {
+   "mlAway": "+105",
+   "mlAwayOpen": "+125",
+   "mlDraw": "+265",
+   "mlHome": "+215",
+   "mlHomeOpen": "+180",
+   "provider": "DraftKings",
+   "spread": "NSH +105",
+   "spreadOpen": "NSH -0.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Pass",
+  "reason": "Nashville about 45% no-vig at +105; no edge worth a pick.",
+  "risks": [],
+  "slug": "usa.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-28T23:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T04:29:33Z",
+  "venue": "TQL Stadium, Cincinnati, Ohio"
  },
  "soccer-401933723": {
   "away": {
@@ -8392,7 +9071,7 @@
   "stars": 1,
   "start": "2026-11-28T21:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Subaru Park, Chester, Pennsylvania"
  },
  "soccer-401933724": {
@@ -8442,7 +9121,7 @@
   "stars": 1,
   "start": "2026-11-28T19:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Shell Energy Stadium, Houston, Texas"
  },
  "soccer-401933725": {
@@ -8492,8 +9171,60 @@
   "stars": 1,
   "start": "2026-11-28T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "America First Field, Sandy, Utah"
+ },
+ "soccer-401933726": {
+  "away": {
+   "abbr": "STL",
+   "form": "WWLLL",
+   "name": "St. Louis CITY SC",
+   "short": "St. Louis",
+   "teamId": "21812"
+  },
+  "confidence": 53,
+  "espnId": "401933726",
+  "espnLeague": "usa.1",
+  "espnSport": "soccer",
+  "home": {
+   "abbr": "LAFC",
+   "form": "LLLDD",
+   "name": "LAFC",
+   "short": "LAFC",
+   "teamId": "18966"
+  },
+  "id": "soccer-401933726",
+  "league": "MLS",
+  "link": "https://www.espn.com/soccer/match/_/gameId/401933726",
+  "news": [
+   "Source: MLS owners agree new 16-team playoff format starting in 2027-28",
+   "Luis Suárez says 'no excuses left' as Miami looks to avoid early playoff exit",
+   "Is your team out of the MLS playoffs? Adopt these chaos clubs as your 2nd side"
+  ],
+  "odds": {
+   "mlAway": "+340",
+   "mlAwayOpen": "+300",
+   "mlDraw": "+320",
+   "mlHome": "-160",
+   "mlHomeOpen": "-145",
+   "provider": "DraftKings",
+   "spread": "LAFC -160",
+   "spreadOpen": "LAFC -0.5",
+   "total": "3.5",
+   "totalOpen": "3.5"
+  },
+  "pick": "Pass",
+  "reason": "LAFC about 57% no-vig at -160; no edge worth a pick.",
+  "risks": [
+   "opponent in better form (WWLLL)"
+  ],
+  "slug": "usa.1",
+  "sport": "soccer",
+  "stars": 1,
+  "start": "2026-11-29T01:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-26T04:29:33Z",
+  "venue": "BMO Stadium, Los Angeles, California"
  },
  "soccer-401933727": {
   "away": {
@@ -8544,7 +9275,7 @@
   "stars": 1,
   "start": "2026-11-28T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "ScottsMiracle-Gro Field, Columbus, Ohio"
  },
  "soccer-401933737": {
@@ -8594,57 +9325,7 @@
   "stars": 1,
   "start": "2026-11-28T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-25T22:41:04Z",
+  "updatedAt": "2026-11-26T04:29:33Z",
   "venue": "Bank of America Stadium, Charlotte, North Carolina"
- },
- "soccer-401933738": {
-  "away": {
-   "abbr": "HOU",
-   "form": "LLWDD",
-   "name": "Houston Dynamo FC",
-   "short": "Houston",
-   "teamId": "6077"
-  },
-  "confidence": 47,
-  "espnId": "401933738",
-  "espnLeague": "usa.1",
-  "espnSport": "soccer",
-  "home": {
-   "abbr": "SJ",
-   "form": "LWDLD",
-   "name": "San Jose Earthquakes",
-   "short": "San Jose",
-   "teamId": "191"
-  },
-  "id": "soccer-401933738",
-  "league": "MLS",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401933738",
-  "news": [
-   "Fiona the hippo to be honored by FC Cincinnati with tifo after untimely death",
-   "Gomez: MLS won't change format for relegation",
-   "St. Louis City holds off LAFC in 3-2 victory to take first-round lead"
-  ],
-  "odds": {
-   "mlAway": "+260",
-   "mlAwayOpen": "+200",
-   "mlDraw": "+260",
-   "mlHome": "-110",
-   "mlHomeOpen": "+105",
-   "provider": "DraftKings",
-   "spread": "SJ -110",
-   "spreadOpen": "SJ -0.5",
-   "total": "2.5",
-   "totalOpen": "2.5"
-  },
-  "pick": "Pass",
-  "reason": "San Jose about 50% no-vig at -120; no edge worth a pick.",
-  "risks": [],
-  "slug": "usa.1",
-  "sport": "soccer",
-  "stars": 1,
-  "start": "2026-11-25T03:00Z",
-  "state": "in",
-  "updatedAt": "2026-11-24T20:23:02Z",
-  "venue": "PayPal Park, San Jose, California"
  }
 }

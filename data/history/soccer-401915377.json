@@ -1,0 +1,222 @@
+{
+ "id": "soccer-401915377",
+ "sport": "soccer",
+ "league": "Champions League",
+ "start": "2026-11-25T20:00Z",
+ "home": {
+  "name": "Lille",
+  "abbr": "LILL",
+  "teamId": "166",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Bayern Munich",
+  "abbr": "MUN",
+  "teamId": "132",
+  "score": 1.0
+ },
+ "odds": {
+  "mlAway": "-165",
+  "mlAwayOpen": "-320",
+  "mlDraw": "+310",
+  "mlHome": "+425",
+  "mlHomeOpen": "+600",
+  "provider": "DraftKings",
+  "spread": "MUN -165",
+  "spreadOpen": "MUN -1.5",
+  "total": "2.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "LILL",
+   "stats": {
+    "foulsCommitted": "2",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "3",
+    "saves": "7",
+    "possessionPct": "35.2",
+    "totalShots": "15",
+    "shotsOnTarget": "3",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "329",
+    "totalPasses": "406",
+    "passPct": "0.8",
+    "accurateCrosses": "2",
+    "totalCrosses": "7",
+    "crossPct": "0.3",
+    "totalLongBalls": "44",
+    "accurateLongBalls": "22",
+    "longballPct": "0.5",
+    "blockedShots": "6",
+    "effectiveTackles": "10",
+    "totalTackles": "18",
+    "tacklePct": "0.6",
+    "interceptions": "12",
+    "effectiveClearance": "17",
+    "totalClearance": "17"
+   }
+  },
+  "away": {
+   "abbr": "MUN",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "1",
+    "redCards": "0",
+    "offsides": "4",
+    "wonCorners": "4",
+    "saves": "2",
+    "possessionPct": "64.8",
+    "totalShots": "12",
+    "shotsOnTarget": "7",
+    "shotPct": "0.6",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "681",
+    "totalPasses": "754",
+    "passPct": "0.9",
+    "accurateCrosses": "4",
+    "totalCrosses": "17",
+    "crossPct": "0.2",
+    "totalLongBalls": "48",
+    "accurateLongBalls": "30",
+    "longballPct": "0.6",
+    "blockedShots": "3",
+    "effectiveTackles": "5",
+    "totalTackles": "11",
+    "tacklePct": "0.5",
+    "interceptions": "13",
+    "effectiveClearance": "9",
+    "totalClearance": "9"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "15'",
+   "team": null,
+   "text": "Goal! Lille 0, Bayern Munich 1. Dayot Upamecano (Bayern Munich) header from very close range to the centre of the goal. Assisted by Tom Bischof with a cross following a corner."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, Lille 0, Bayern Munich 1."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "48'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "49'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "53'",
+   "team": null,
+   "text": "Konrad Laimer (Bayern Munich) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "62'",
+   "team": null,
+   "text": "Goal! Lille 1, Bayern Munich 1. Ayase Ueda (Lille) right footed shot from the left side of the box to the bottom right corner. Assisted by Nathan Ngoy with a through ball."
+  },
+  {
+   "type": "Own Goal",
+   "clock": "65'",
+   "team": null,
+   "text": "Own Goal by Aleksandar Pavlovic, Bayern Munich. Lille 2, Bayern Munich 1."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Bayern Munich. Jamal Musiala replaces Tom Bischof."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Bayern Munich. Luis Díaz replaces Josip Stanisic."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Bayern Munich. Tim Binder replaces Hiroki Ito."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Lille. Soriba Diaoune replaces Ethan Mbappé."
+  },
+  {
+   "type": "Substitution",
+   "clock": "77'",
+   "team": null,
+   "text": "Substitution, Lille. Basar Önal replaces Ayase Ueda."
+  },
+  {
+   "type": "Substitution",
+   "clock": "81'",
+   "team": null,
+   "text": "Substitution, Bayern Munich. Noah Codjo-Evora replaces Lennart Karl."
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, Lille. Olivier Giroud replaces Hákon Haraldsson."
+  },
+  {
+   "type": "Substitution",
+   "clock": "87'",
+   "team": null,
+   "text": "Substitution, Lille. Isaac Cossier replaces Benjamin André."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Substitution, Bayern Munich. Jonathan Tah replaces Kim Min-Jae."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Substitution, Lille. Romain Perraud replaces Calvin Verdonk."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

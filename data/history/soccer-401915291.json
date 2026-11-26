@@ -1,0 +1,222 @@
+{
+ "id": "soccer-401915291",
+ "sport": "soccer",
+ "league": "Champions League",
+ "start": "2026-11-25T20:00Z",
+ "home": {
+  "name": "Atlético Madrid",
+  "abbr": "ATM",
+  "teamId": "1068",
+  "score": 2.0
+ },
+ "away": {
+  "name": "Viking FK",
+  "abbr": "VFK",
+  "teamId": "510",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+1800",
+  "mlAwayOpen": "+1800",
+  "mlDraw": "+900",
+  "mlHome": "-900",
+  "mlHomeOpen": "-1000",
+  "provider": "DraftKings",
+  "spread": "ATM -900",
+  "spreadOpen": "ATM -2.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "ATM",
+   "stats": {
+    "foulsCommitted": "7",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "6",
+    "saves": "1",
+    "possessionPct": "48.4",
+    "totalShots": "20",
+    "shotsOnTarget": "9",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "479",
+    "totalPasses": "556",
+    "passPct": "0.9",
+    "accurateCrosses": "2",
+    "totalCrosses": "11",
+    "crossPct": "0.2",
+    "totalLongBalls": "51",
+    "accurateLongBalls": "25",
+    "longballPct": "0.5",
+    "blockedShots": "8",
+    "effectiveTackles": "10",
+    "totalTackles": "13",
+    "tacklePct": "0.8",
+    "interceptions": "13",
+    "effectiveClearance": "21",
+    "totalClearance": "21"
+   }
+  },
+  "away": {
+   "abbr": "VFK",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "1",
+    "redCards": "1",
+    "offsides": "1",
+    "wonCorners": "1",
+    "saves": "7",
+    "possessionPct": "51.6",
+    "totalShots": "9",
+    "shotsOnTarget": "1",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "511",
+    "totalPasses": "590",
+    "passPct": "0.9",
+    "accurateCrosses": "4",
+    "totalCrosses": "13",
+    "crossPct": "0.3",
+    "totalLongBalls": "60",
+    "accurateLongBalls": "27",
+    "longballPct": "0.5",
+    "blockedShots": "1",
+    "effectiveTackles": "5",
+    "totalTackles": "6",
+    "tacklePct": "0.8",
+    "interceptions": "7",
+    "effectiveClearance": "20",
+    "totalClearance": "20"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "19'",
+   "team": null,
+   "text": "Goal! Atletico Madrid 1, Viking 0. Alexander Sørloth (Atletico Madrid) left footed shot from the centre of the box to the high centre of the goal. Assisted by Alejandro Grimaldo."
+  },
+  {
+   "type": "Goal - Free-kick",
+   "clock": "24'",
+   "team": null,
+   "text": "Goal! Atletico Madrid 2, Viking 0. Julián Alvarez (Atletico Madrid) from a free kick with a right footed shot to the bottom left corner."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": "First Half ends, Atletico Madrid 2, Viking 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Atletico Madrid. Pablo Barrios replaces Álex Baena."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "46'",
+   "team": null,
+   "text": "Gianni Stensness (Viking) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "57'",
+   "team": null,
+   "text": "Substitution, Atletico Madrid. Giuliano Simeone replaces Julián Alvarez."
+  },
+  {
+   "type": "Substitution",
+   "clock": "57'",
+   "team": null,
+   "text": "Substitution, Atletico Madrid. Jonathan David replaces Lee Kang-In."
+  },
+  {
+   "type": "Substitution",
+   "clock": "57'",
+   "team": null,
+   "text": "Substitution, Viking. Peter Christiansen replaces Simen Kvia-Egeskog."
+  },
+  {
+   "type": "Substitution",
+   "clock": "57'",
+   "team": null,
+   "text": "Substitution, Viking. Vetle Auklend replaces Henrik Heggheim."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "61'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "62'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "68'",
+   "team": null,
+   "text": "Substitution, Atletico Madrid. Morten Hjulmand replaces Koke."
+  },
+  {
+   "type": "Substitution",
+   "clock": "71'",
+   "team": null,
+   "text": "Substitution, Atletico Madrid. Rodrigo Mendoza replaces Alexander Sørloth because of an injury."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Viking. Niklas Fuglestad replaces Herman Haugen."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Viking. Amin Cosic replaces Tobias Moi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "82'",
+   "team": null,
+   "text": "Substitution, Viking. Joe Bell replaces Kristoffer Askildsen."
+  },
+  {
+   "type": "Red Card",
+   "clock": "90'+1'",
+   "team": null,
+   "text": "Henrik Falchener (Viking) is shown the red card."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+4'",
+   "team": null,
+   "text": "Second Half ends, Atletico Madrid 2, Viking 0."
+  }
+ ],
+ "scoringPlays": []
+}

@@ -1,0 +1,258 @@
+{
+ "id": "soccer-401915374",
+ "sport": "soccer",
+ "league": "Champions League",
+ "start": "2026-11-25T20:00Z",
+ "home": {
+  "name": "Paris Saint-Germain",
+  "abbr": "PSG",
+  "teamId": "160",
+  "score": 2.0
+ },
+ "away": {
+  "name": "AS Roma",
+  "abbr": "ROMA",
+  "teamId": "104",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "+475",
+  "mlAwayOpen": "+600",
+  "mlDraw": "+390",
+  "mlHome": "-205",
+  "mlHomeOpen": "-285",
+  "provider": "DraftKings",
+  "spread": "PSG -205",
+  "spreadOpen": "PSG -1.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "PSG",
+   "stats": {
+    "foulsCommitted": "5",
+    "yellowCards": "0",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "3",
+    "saves": "2",
+    "possessionPct": "66",
+    "totalShots": "15",
+    "shotsOnTarget": "4",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "623",
+    "totalPasses": "698",
+    "passPct": "0.9",
+    "accurateCrosses": "3",
+    "totalCrosses": "8",
+    "crossPct": "0.4",
+    "totalLongBalls": "46",
+    "accurateLongBalls": "28",
+    "longballPct": "0.6",
+    "blockedShots": "5",
+    "effectiveTackles": "8",
+    "totalTackles": "10",
+    "tacklePct": "0.8",
+    "interceptions": "5",
+    "effectiveClearance": "22",
+    "totalClearance": "22"
+   }
+  },
+  "away": {
+   "abbr": "ROMA",
+   "stats": {
+    "foulsCommitted": "18",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "4",
+    "saves": "2",
+    "possessionPct": "34",
+    "totalShots": "13",
+    "shotsOnTarget": "4",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "270",
+    "totalPasses": "348",
+    "passPct": "0.8",
+    "accurateCrosses": "2",
+    "totalCrosses": "13",
+    "crossPct": "0.2",
+    "totalLongBalls": "54",
+    "accurateLongBalls": "29",
+    "longballPct": "0.5",
+    "blockedShots": "2",
+    "effectiveTackles": "11",
+    "totalTackles": "24",
+    "tacklePct": "0.5",
+    "interceptions": "13",
+    "effectiveClearance": "18",
+    "totalClearance": "18"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "5'",
+   "team": null,
+   "text": "Goal! Paris Saint Germain 0, Roma 1. Mario Hermoso (Roma) left footed shot from the centre of the box to the centre of the goal. Assisted by Matías Soulé."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "31'",
+   "team": null,
+   "text": "Goal! Paris Saint Germain 1, Roma 1. Illia Zabarnyi (Paris Saint Germain) header from the right side of the six yard box to the top right corner. Assisted by Senny Mayulu with a cross following a corn"
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "41'",
+   "team": null,
+   "text": "Gianluca Mancini (Roma) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Paris Saint Germain. Warren Zaïre-Emery replaces Nuno Mendes."
+  },
+  {
+   "type": "Substitution",
+   "clock": "59'",
+   "team": null,
+   "text": "Substitution, Paris Saint Germain. Ousmane Dembélé replaces Ferran Torres."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "60'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "60'",
+   "team": null,
+   "text": "Wesley (Roma) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "End Delay",
+   "clock": "61'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "62'",
+   "team": null,
+   "text": "Goal! Paris Saint Germain 2, Roma 1. Ousmane Dembélé (Paris Saint Germain) converts the penalty with a right footed shot to the bottom right corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "62'",
+   "team": null,
+   "text": "Substitution, Roma. Bryan Cristante replaces Manu Koné."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, Roma. Paulo Dybala replaces Santiago Castro."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Roma. Daniele Ghilardi replaces Gianluca Mancini."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Roma. Donyell Malen replaces Nahuel Molina."
+  },
+  {
+   "type": "Substitution",
+   "clock": "67'",
+   "team": null,
+   "text": "Substitution, Paris Saint Germain. Mika Godts replaces Senny Mayulu."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "71'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "71'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "75'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "77'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "78'",
+   "team": null,
+   "text": "Goal! Paris Saint Germain 2, Roma 2. Donyell Malen (Roma) converts the penalty with a right footed shot to the bottom left corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Paris Saint Germain. Quentin Ndjantou replaces Maghnes Akliouche."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Paris Saint Germain. Lucas Hernández replaces João Neves."
+  },
+  {
+   "type": "Substitution",
+   "clock": "83'",
+   "team": null,
+   "text": "Substitution, Roma. Emanuele Lulli replaces Matías Soulé."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+6'",
+   "team": null,
+   "text": "Second Half ends, Paris Saint Germain 2, Roma 2."
+  }
+ ],
+ "scoringPlays": []
+}
