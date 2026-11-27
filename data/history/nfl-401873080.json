@@ -1,0 +1,174 @@
+{
+ "id": "nfl-401873080",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-26T21:30Z",
+ "home": {
+  "name": "Dallas Cowboys",
+  "abbr": "DAL",
+  "teamId": "6",
+  "score": 38.0
+ },
+ "away": {
+  "name": "Philadelphia Eagles",
+  "abbr": "PHI",
+  "teamId": "21",
+  "score": 39.0
+ },
+ "odds": {
+  "mlAway": "+337",
+  "mlAwayOpen": "+100",
+  "mlHome": "-431",
+  "mlHomeOpen": "-120",
+  "provider": "Draft Kings",
+  "spread": "DAL -8.5",
+  "spreadOpen": "DAL -1.5",
+  "total": "49.5",
+  "totalOpen": "49.5"
+ },
+ "espnWinProb": {
+  "away": 17.6,
+  "home": 82.2
+ },
+ "teams": {
+  "away": {
+   "abbr": "PHI",
+   "stats": {
+    "firstDowns": "18",
+    "firstDownsPassing": "13",
+    "firstDownsRushing": "2",
+    "firstDownsPenalty": "3",
+    "thirdDownEff": "3-10",
+    "fourthDownEff": "0-1",
+    "totalOffensivePlays": "54",
+    "totalYards": "369",
+    "yardsPerPlay": "6.8",
+    "totalDrives": "12",
+    "netPassingYards": "301",
+    "completionAttempts": "21/31",
+    "yardsPerPass": "8.4",
+    "interceptions": "1",
+    "sacksYardsLost": "5-30",
+    "rushingYards": "68",
+    "rushingAttempts": "18",
+    "yardsPerRushAttempt": "3.8",
+    "redZoneAttempts": "1-1",
+    "totalPenaltiesYards": "8-86",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "1",
+    "possessionTime": "24:59"
+   }
+  },
+  "home": {
+   "abbr": "DAL",
+   "stats": {
+    "firstDowns": "24",
+    "firstDownsPassing": "14",
+    "firstDownsRushing": "6",
+    "firstDownsPenalty": "4",
+    "thirdDownEff": "7-14",
+    "fourthDownEff": "0-1",
+    "totalOffensivePlays": "68",
+    "totalYards": "416",
+    "yardsPerPlay": "6.1",
+    "totalDrives": "13",
+    "netPassingYards": "265",
+    "completionAttempts": "19/28",
+    "yardsPerPass": "8.5",
+    "interceptions": "1",
+    "sacksYardsLost": "3-26",
+    "rushingYards": "151",
+    "rushingAttempts": "37",
+    "yardsPerRushAttempt": "4.1",
+    "redZoneAttempts": "4-4",
+    "totalPenaltiesYards": "11-86",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "35:01"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "8:50",
+   "team": "DAL",
+   "text": "Javonte Williams 1 Yd Rush (Brandon Aubrey Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "0:36",
+   "team": "DAL",
+   "text": "KaVontae Turpin 31 Yd pass from Dak Prescott (Brandon Aubrey Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "8:09",
+   "team": "PHI",
+   "text": "Jake Elliott 48 Yd Field Goal "
+  },
+  {
+   "period": 2,
+   "clock": "5:09",
+   "team": "DAL",
+   "text": "Javonte Williams 12 Yd Rush (Brandon Aubrey Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "4:06",
+   "team": "PHI",
+   "text": "DeVonta Smith 50 Yd pass from Joe Milton (Jake Elliott Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:04",
+   "team": "DAL",
+   "text": "Javonte Williams 12 Yd pass from Dak Prescott (Brandon Aubrey Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "3:35",
+   "team": "DAL",
+   "text": "Brandon Aubrey 59 Yd Field Goal "
+  },
+  {
+   "period": 3,
+   "clock": "0:15",
+   "team": "PHI",
+   "text": "DeVonta Smith 45 Yd pass from Joe Milton (Jake Elliott Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "13:46",
+   "team": "PHI",
+   "text": "Kenny Moore II 3 Yd return of blocked punt. (Jake Elliott Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "10:11",
+   "team": "DAL",
+   "text": "Dak Prescott 14 Yd Rush (Brandon Aubrey Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "9:09",
+   "team": "PHI",
+   "text": "Joe Milton 15 Yd Rush (Two-Point Pass Conversion Failed)"
+  },
+  {
+   "period": 4,
+   "clock": "2:10",
+   "team": "PHI",
+   "text": "Makai Lemon 24 Yd pass from Joe Milton (Two-Point Pass Conversion Failed)"
+  },
+  {
+   "period": 4,
+   "clock": "0:02",
+   "team": "PHI",
+   "text": "Jake Elliott 59 Yd Field Goal"
+  }
+ ]
+}

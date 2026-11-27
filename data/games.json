@@ -1,875 +1,6 @@
 {
- "nba-401909318": {
-  "away": {
-   "abbr": "CHI",
-   "form": "WLLWL",
-   "injuries": [
-    "Jalen Smith (F) – Out, Illness",
-    "Norman Powell (G) – Out, Hamstring",
-    "Caleb Wilson (F) – Out, Hand"
-   ],
-   "name": "Chicago Bulls",
-   "record": "6-12",
-   "short": "Bulls",
-   "teamId": "4"
-  },
-  "confidence": 53,
-  "espnId": "401909318",
-  "espnLeague": "nba",
-  "espnSport": "basketball",
-  "espnWinProb": {
-   "away": 48.2,
-   "home": 51.8
-  },
-  "home": {
-   "abbr": "CHA",
-   "form": "LLLLL",
-   "injuries": [
-    "Ryan Kalkbrenner (C) – Out, Hip",
-    "Grayson Allen (G) – Out, Concussion",
-    "Dennis Schroder (G) – Out, Hamstring",
-    "Kon Knueppel (G) – Out, Hamstring"
-   ],
-   "name": "Charlotte Hornets",
-   "record": "4-13",
-   "short": "Hornets",
-   "teamId": "30"
-  },
-  "id": "nba-401909318",
-  "injuriesRaw": {
-   "away": [
-    {
-     "detail": "Illness",
-     "player": "Jalen Smith",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Hamstring",
-     "player": "Norman Powell",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Hand",
-     "player": "Caleb Wilson",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    }
-   ],
-   "home": [
-    {
-     "detail": "Hip",
-     "player": "Ryan Kalkbrenner",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Concussion",
-     "player": "Grayson Allen",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Hamstring",
-     "player": "Dennis Schroder",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Hamstring",
-     "player": "Kon Knueppel",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    }
-   ]
-  },
-  "league": "NBA",
-  "link": "https://www.espn.com/nba/game/_/gameId/401909318",
-  "news": [
-   "2026 NBA Cup: Schedule, format, groups, updates and more",
-   "Austin Reaves rejoins Lakers for full practice, no call yet on facing Spurs",
-   "The Spurs look to stay undefeated on the road as they take on the Trail Blazers"
-  ],
-  "odds": {
-   "mlAway": "+151",
-   "mlAwayOpen": "+137",
-   "mlHome": "-180",
-   "mlHomeOpen": "-163",
-   "provider": "Draft Kings",
-   "spread": "CHA -3.5",
-   "spreadOpen": "CHA -3.5",
-   "total": "218.5",
-   "totalOpen": "222.5"
-  },
-  "pick": "Pass",
-  "reason": "CHA about 62% no-vig at -180; no edge worth a pick.",
-  "risks": [
-   "ESPN model only 52% vs market 62%",
-   "opponent in better form (WLLWL)",
-   "history stats favor the opponent"
-  ],
-  "slug": "nba",
-  "sport": "nba",
-  "stars": 1,
-  "start": "2026-11-26T00:00Z",
-  "state": "post",
-  "updatedAt": "2026-11-25T22:41:04Z",
-  "venue": "Spectrum Center, Charlotte"
- },
- "nba-401909319": {
-  "_lastPick": "NY ML (-224)",
-  "away": {
-   "abbr": "CLE",
-   "form": "LWLWW",
-   "injuries": [
-    "Nae'Qwan Tomlin (F) – Out, Back",
-    "Evan Mobley (C) – Out, Toe"
-   ],
-   "name": "Cleveland Cavaliers",
-   "record": "9-10",
-   "short": "Cavaliers",
-   "teamId": "5"
-  },
-  "confidence": 53,
-  "espnId": "401909319",
-  "espnLeague": "nba",
-  "espnSport": "basketball",
-  "espnWinProb": {
-   "away": 48.0,
-   "home": 52.0
-  },
-  "home": {
-   "abbr": "NY",
-   "form": "WWWWW",
-   "injuries": [
-    "Miles McBride (G) – Out, Groin",
-    "Jordan Clarkson (G) – Out, Foot"
-   ],
-   "name": "New York Knicks",
-   "record": "12-6",
-   "short": "Knicks",
-   "teamId": "18"
-  },
-  "id": "nba-401909319",
-  "injuriesRaw": {
-   "away": [
-    {
-     "detail": "Back",
-     "player": "Nae'Qwan Tomlin",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Toe",
-     "player": "Evan Mobley",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    }
-   ],
-   "home": [
-    {
-     "detail": "Groin",
-     "player": "Miles McBride",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Foot",
-     "player": "Jordan Clarkson",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    }
-   ]
-  },
-  "league": "NBA",
-  "link": "https://www.espn.com/nba/game/_/gameId/401909319",
-  "market": null,
-  "news": [
-   "2026 NBA Cup: Schedule, format, groups, updates and more",
-   "Austin Reaves rejoins Lakers for full practice, no call yet on facing Spurs",
-   "The Spurs look to stay undefeated on the road as they take on the Trail Blazers"
-  ],
-  "odds": {
-   "mlAway": "+151",
-   "mlAwayOpen": "+186",
-   "mlHome": "-180",
-   "mlHomeOpen": "-224",
-   "provider": "Draft Kings",
-   "spread": "NY -4.5",
-   "spreadOpen": "NY -5.5",
-   "total": "219.5",
-   "totalOpen": "220.5"
-  },
-  "pick": "Pass",
-  "reason": "NY about 62% no-vig at -180; no edge worth a pick.",
-  "risks": [
-   "ESPN model only 52% vs market 62%",
-   "line drifted away (-224 → -180)"
-  ],
-  "side": null,
-  "slug": "nba",
-  "sport": "nba",
-  "stars": 1,
-  "start": "2026-11-26T00:30Z",
-  "state": "post",
-  "updatedAt": "2026-11-25T22:41:04Z",
-  "venue": "Madison Square Garden, New York"
- },
- "nba-401909320": {
-  "away": {
-   "abbr": "MIN",
-   "form": "WWLWW",
-   "injuries": [
-    "Donte DiVincenzo (G) – Out, Achilles",
-    "Jaylen Clark (G) – Out, Hamstring"
-   ],
-   "name": "Minnesota Timberwolves",
-   "record": "14-5",
-   "short": "Timberwolves",
-   "teamId": "16"
-  },
-  "confidence": 48,
-  "espnId": "401909320",
-  "espnLeague": "nba",
-  "espnSport": "basketball",
-  "espnWinProb": {
-   "away": 44.2,
-   "home": 55.8
-  },
-  "home": {
-   "abbr": "OKC",
-   "form": "LLWLW",
-   "injuries": [
-    "Nikola Topic (G) – Out, Hip",
-    "Jaylin Williams (F) – Out, Back",
-    "Aday Mara (C) – Out, Lower Leg",
-    "Jalen Williams (G) – Out, Leg",
-    "Thomas Sorber (C) – Out, Knee"
-   ],
-   "name": "Oklahoma City Thunder",
-   "record": "10-9",
-   "short": "Thunder",
-   "teamId": "25"
-  },
-  "id": "nba-401909320",
-  "injuriesRaw": {
-   "away": [
-    {
-     "detail": "Achilles",
-     "player": "Donte DiVincenzo",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Hamstring",
-     "player": "Jaylen Clark",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Anthony Edwards",
-     "pos": "G",
-     "stale": true,
-     "status": "Out"
-    }
-   ],
-   "home": [
-    {
-     "detail": "Hip",
-     "player": "Nikola Topic",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Back",
-     "player": "Jaylin Williams",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Lower Leg",
-     "player": "Aday Mara",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Leg",
-     "player": "Jalen Williams",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Thomas Sorber",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    }
-   ]
-  },
-  "league": "NBA",
-  "link": "https://www.espn.com/nba/game/_/gameId/401909320",
-  "news": [
-   "2026 NBA Cup: Schedule, format, groups, updates and more",
-   "Austin Reaves rejoins Lakers for full practice, no call yet on facing Spurs",
-   "The Spurs look to stay undefeated on the road as they take on the Trail Blazers"
-  ],
-  "odds": {
-   "mlAway": "+114",
-   "mlAwayOpen": "+275",
-   "mlHome": "-135",
-   "mlHomeOpen": "-345",
-   "provider": "Draft Kings",
-   "spread": "OKC -2.5",
-   "spreadOpen": "MIN -9.5",
-   "total": "222.5",
-   "totalOpen": "232.5"
-  },
-  "pick": "Pass",
-  "reason": "OKC about 55% no-vig at -135; no edge worth a pick.",
-  "risks": [
-   "line drifted away (-345 → -135)",
-   "opponent in better form (WWLWW)",
-   "history stats favor the opponent"
-  ],
-  "slug": "nba",
-  "sport": "nba",
-  "stars": 1,
-  "start": "2026-11-26T00:30Z",
-  "state": "post",
-  "updatedAt": "2026-11-25T22:41:04Z",
-  "venue": "Paycom Center, Oklahoma City"
- },
- "nba-401909321": {
-  "_lastPick": "MEM ML (-269)",
-  "away": {
-   "abbr": "LAC",
-   "form": "LLLLW",
-   "injuries": [],
-   "name": "LA Clippers",
-   "record": "4-13",
-   "short": "Clippers",
-   "teamId": "12"
-  },
-  "confidence": 70,
-  "espnId": "401909321",
-  "espnLeague": "nba",
-  "espnSport": "basketball",
-  "espnWinProb": {
-   "away": 26.5,
-   "home": 73.5
-  },
-  "home": {
-   "abbr": "MEM",
-   "form": "WLWWW",
-   "injuries": [
-    "Scotty Pippen Jr. (G) – Out, Back",
-    "Cameron Boozer (F) – Out, Ankle",
-    "Jerami Grant (F) – Out, Calf",
-    "GG Jackson (F) – Out, Foot",
-    "Richie Saunders (G) – Out, Knee"
-   ],
-   "name": "Memphis Grizzlies",
-   "record": "14-5",
-   "short": "Grizzlies",
-   "teamId": "29"
-  },
-  "id": "nba-401909321",
-  "injuriesRaw": {
-   "away": [
-    {
-     "detail": "Knee",
-     "player": "Bradley Beal",
-     "pos": "G",
-     "stale": true,
-     "status": "Out"
-    },
-    {
-     "detail": "Shoulder",
-     "player": "Jordan Miller",
-     "pos": "G",
-     "stale": true,
-     "status": "Out"
-    }
-   ],
-   "home": [
-    {
-     "detail": "Back",
-     "player": "Scotty Pippen Jr.",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Ankle",
-     "player": "Cameron Boozer",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Calf",
-     "player": "Jerami Grant",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Foot",
-     "player": "GG Jackson",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Richie Saunders",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    }
-   ]
-  },
-  "league": "NBA",
-  "link": "https://www.espn.com/nba/game/_/gameId/401909321",
-  "market": "Moneyline",
-  "news": [
-   "2026 NBA Cup: Schedule, format, groups, updates and more",
-   "Austin Reaves rejoins Lakers for full practice, no call yet on facing Spurs",
-   "The Spurs look to stay undefeated on the road as they take on the Trail Blazers"
-  ],
-  "odds": {
-   "mlAway": "+220",
-   "mlAwayOpen": "+226",
-   "mlHome": "-269",
-   "mlHomeOpen": "-276",
-   "provider": "Draft Kings",
-   "spread": "MEM -7.5",
-   "spreadOpen": "MEM -6.5",
-   "total": "227.5",
-   "totalOpen": "229.5"
-  },
-  "pick": "MEM ML (-269)",
-  "reason": "MEM are about 70% no-vig at -269; ESPN's model has 74%. For: form WLWWW vs LLLLW; last-5 scoring margin: MEM +8.8, LAC -10.2. Capped at 2★: NBA capped by lessons.",
-  "risks": [],
-  "side": "home",
-  "slug": "nba",
-  "sport": "nba",
-  "stars": 2,
-  "start": "2026-11-26T01:00Z",
-  "state": "post",
-  "updatedAt": "2026-11-25T22:41:04Z",
-  "venue": "FedExForum, Memphis"
- },
- "nba-401909322": {
-  "away": {
-   "abbr": "BKN",
-   "form": "LLLLL",
-   "injuries": [
-    "Nolan Traore (G) – Out, Hamstring"
-   ],
-   "name": "Brooklyn Nets",
-   "record": "4-13",
-   "short": "Nets",
-   "teamId": "17"
-  },
-  "confidence": 51,
-  "espnId": "401909322",
-  "espnLeague": "nba",
-  "espnSport": "basketball",
-  "espnWinProb": {
-   "away": 45.1,
-   "home": 54.9
-  },
-  "home": {
-   "abbr": "MIL",
-   "form": "WLLLL",
-   "injuries": [],
-   "name": "Milwaukee Bucks",
-   "record": "2-17",
-   "short": "Bucks",
-   "teamId": "15"
-  },
-  "id": "nba-401909322",
-  "injuriesRaw": {
-   "away": [
-    {
-     "detail": "Hamstring",
-     "player": "Nolan Traore",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    }
-   ],
-   "home": []
-  },
-  "league": "NBA",
-  "link": "https://www.espn.com/nba/game/_/gameId/401909322",
-  "news": [
-   "2026 NBA Cup: Schedule, format, groups, updates and more",
-   "Austin Reaves rejoins Lakers for full practice, no call yet on facing Spurs",
-   "The Spurs look to stay undefeated on the road as they take on the Trail Blazers"
-  ],
-  "odds": {
-   "mlAway": "-101",
-   "mlAwayOpen": "+101",
-   "mlHome": "-117",
-   "mlHomeOpen": "-119",
-   "provider": "Draft Kings",
-   "spread": "MIL -1.5",
-   "spreadOpen": "MIL -1.5",
-   "total": "234.5",
-   "totalOpen": "229.5"
-  },
-  "pick": "Pass",
-  "reason": "MIL about 52% no-vig at -117; no edge worth a pick.",
-  "risks": [],
-  "slug": "nba",
-  "sport": "nba",
-  "stars": 1,
-  "start": "2026-11-26T01:00Z",
-  "state": "post",
-  "updatedAt": "2026-11-25T22:41:04Z",
-  "venue": "Fiserv Forum, Milwaukee"
- },
- "nba-401909323": {
-  "_lastPick": "HOU ML (-395)",
-  "away": {
-   "abbr": "PHX",
-   "form": "WWWWL",
-   "injuries": [],
-   "name": "Phoenix Suns",
-   "record": "9-8",
-   "short": "Suns",
-   "teamId": "21"
-  },
-  "confidence": 72,
-  "espnId": "401909323",
-  "espnLeague": "nba",
-  "espnSport": "basketball",
-  "espnWinProb": {
-   "away": 26.6,
-   "home": 73.4
-  },
-  "home": {
-   "abbr": "HOU",
-   "form": "WLWLW",
-   "injuries": [],
-   "name": "Houston Rockets",
-   "record": "14-5",
-   "short": "Rockets",
-   "teamId": "10"
-  },
-  "id": "nba-401909323",
-  "injuriesRaw": {
-   "away": [
-    {
-     "detail": "Shoulder",
-     "player": "Mark Williams",
-     "pos": "C",
-     "stale": true,
-     "status": "Out"
-    }
-   ],
-   "home": []
-  },
-  "league": "NBA",
-  "link": "https://www.espn.com/nba/game/_/gameId/401909323",
-  "market": "Moneyline",
-  "news": [
-   "2026 NBA Cup: Schedule, format, groups, updates and more",
-   "Austin Reaves rejoins Lakers for full practice, no call yet on facing Spurs",
-   "The Spurs look to stay undefeated on the road as they take on the Trail Blazers"
-  ],
-  "odds": {
-   "mlAway": "+312",
-   "mlAwayOpen": "+294",
-   "mlHome": "-395",
-   "mlHomeOpen": "-369",
-   "provider": "Draft Kings",
-   "spread": "HOU -9.5",
-   "spreadOpen": "HOU -10.5",
-   "total": "222.5",
-   "totalOpen": "223.5"
-  },
-  "pick": "HOU ML (-395)",
-  "reason": "HOU are about 77% no-vig at -395; ESPN's model has 73%.",
-  "risks": [],
-  "side": "home",
-  "slug": "nba",
-  "sport": "nba",
-  "stars": 2,
-  "start": "2026-11-26T01:30Z",
-  "state": "post",
-  "updatedAt": "2026-11-25T22:41:04Z",
-  "venue": "Toyota Center (Houston), Houston"
- },
- "nba-401909324": {
-  "_lastPick": "GS ML (-319)",
-  "away": {
-   "abbr": "SAC",
-   "form": "LWLLL",
-   "injuries": [
-    "Zach LaVine (G) – Out, Knee",
-    "Maxime Raynaud (C) – Out, Knee"
-   ],
-   "name": "Sacramento Kings",
-   "record": "2-15",
-   "short": "Kings",
-   "teamId": "23"
-  },
-  "confidence": 69,
-  "espnId": "401909324",
-  "espnLeague": "nba",
-  "espnSport": "basketball",
-  "espnWinProb": {
-   "away": 27.4,
-   "home": 72.6
-  },
-  "home": {
-   "abbr": "GS",
-   "form": "WLLLL",
-   "injuries": [
-    "Brandon Williams (G) – Out, Hamstring",
-    "Stephen Curry (G) – Out, Abdomen",
-    "Kristaps Porzingis (C) – Out, Illness"
-   ],
-   "name": "Golden State Warriors",
-   "record": "9-8",
-   "short": "Warriors",
-   "teamId": "9"
-  },
-  "id": "nba-401909324",
-  "injuriesRaw": {
-   "away": [
-    {
-     "detail": "Knee",
-     "player": "Zach LaVine",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Maxime Raynaud",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Achilles",
-     "player": "Ben Simmons",
-     "pos": "G",
-     "stale": true,
-     "status": "Out"
-    }
-   ],
-   "home": [
-    {
-     "detail": "Hamstring",
-     "player": "Brandon Williams",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Abdomen",
-     "player": "Stephen Curry",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Illness",
-     "player": "Kristaps Porzingis",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Moses Moody",
-     "pos": "G",
-     "stale": true,
-     "status": "Out"
-    }
-   ]
-  },
-  "league": "NBA",
-  "link": "https://www.espn.com/nba/game/_/gameId/401909324",
-  "market": "Moneyline",
-  "news": [
-   "2026 NBA Cup: Schedule, format, groups, updates and more",
-   "Austin Reaves rejoins Lakers for full practice, no call yet on facing Spurs",
-   "The Spurs look to stay undefeated on the road as they take on the Trail Blazers"
-  ],
-  "odds": {
-   "mlAway": "+257",
-   "mlAwayOpen": "+199",
-   "mlHome": "-319",
-   "mlHomeOpen": "-241",
-   "provider": "Draft Kings",
-   "spread": "GS -7.5",
-   "spreadOpen": "GS -5.5",
-   "total": "214.5",
-   "totalOpen": "218.5"
-  },
-  "pick": "GS ML (-319)",
-  "reason": "GS are about 73% no-vig at -319; ESPN's model has 73%. For: line moved toward GS (-241 → -319). Capped at 2★: NBA capped by lessons.",
-  "risks": [
-   "history stats favor the opponent"
-  ],
-  "side": "home",
-  "slug": "nba",
-  "sport": "nba",
-  "stars": 2,
-  "start": "2026-11-26T03:00Z",
-  "state": "in",
-  "updatedAt": "2026-11-25T22:41:04Z",
-  "venue": "Chase Center, San Francisco"
- },
- "nba-401909325": {
-  "away": {
-   "abbr": "SA",
-   "form": "WWWLW",
-   "injuries": [
-    "Dylan Harper (G) – Out, Hip",
-    "Tobias Harris (F) – Out, Calf"
-   ],
-   "name": "San Antonio Spurs",
-   "record": "15-3",
-   "short": "Spurs",
-   "teamId": "24"
-  },
-  "confidence": 53,
-  "espnId": "401909325",
-  "espnLeague": "nba",
-  "espnSport": "basketball",
-  "espnWinProb": {
-   "away": 48.8,
-   "home": 51.2
-  },
-  "home": {
-   "abbr": "POR",
-   "form": "WLWLL",
-   "injuries": [
-    "Chris Youngblood (G) – Out, Heel",
-    "Vit Krejci (G) – Out, Ankle",
-    "Ja Morant (G) – Out, Hamstring"
-   ],
-   "name": "Portland Trail Blazers",
-   "record": "11-6",
-   "short": "Trail Blazers",
-   "teamId": "22"
-  },
-  "id": "nba-401909325",
-  "injuriesRaw": {
-   "away": [
-    {
-     "detail": "Hip",
-     "player": "Dylan Harper",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Calf",
-     "player": "Tobias Harris",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Jayden Quaintance",
-     "pos": "F",
-     "stale": true,
-     "status": "Out"
-    }
-   ],
-   "home": [
-    {
-     "detail": "Heel",
-     "player": "Chris Youngblood",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Ankle",
-     "player": "Vit Krejci",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Hamstring",
-     "player": "Ja Morant",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Knee",
-     "player": "Shaedon Sharpe",
-     "pos": "G",
-     "stale": true,
-     "status": "Out"
-    }
-   ]
-  },
-  "league": "NBA",
-  "link": "https://www.espn.com/nba/game/_/gameId/401909325",
-  "news": [
-   "2026 NBA Cup: Schedule, format, groups, updates and more",
-   "Austin Reaves rejoins Lakers for full practice, no call yet on facing Spurs",
-   "The Spurs look to stay undefeated on the road as they take on the Trail Blazers"
-  ],
-  "odds": {
-   "mlAway": "-162",
-   "mlAwayOpen": "-170",
-   "mlHome": "+136",
-   "mlHomeOpen": "+142",
-   "provider": "Draft Kings",
-   "spread": "SA -3.5",
-   "spreadOpen": "SA -4.5",
-   "total": "225.5",
-   "totalOpen": "237.5"
-  },
-  "pick": "Pass",
-  "reason": "SA about 59% no-vig at -162; no edge worth a pick.",
-  "risks": [
-   "ESPN model only 49% vs market 59%"
-  ],
-  "slug": "nba",
-  "sport": "nba",
-  "stars": 1,
-  "start": "2026-11-26T03:00Z",
-  "state": "in",
-  "updatedAt": "2026-11-25T22:41:04Z",
-  "venue": "Moda Center, Portland"
- },
  "nba-401909326": {
-  "_lastPick": "NY ML (-169)",
+  "_lastPick": "NY ML (-174)",
   "away": {
    "abbr": "MIA",
    "form": "LWWWW",
@@ -879,13 +10,13 @@
    "short": "Heat",
    "teamId": "14"
   },
-  "confidence": 61,
+  "confidence": 64,
   "espnId": "401909326",
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 30.1,
-   "home": 69.9
+   "away": 23.2,
+   "home": 76.8
   },
   "home": {
    "abbr": "NY",
@@ -928,18 +59,18 @@
    "Clippers host Pelicans Friday for NBA Cup group stage game"
   ],
   "odds": {
-   "mlAway": "+142",
+   "mlAway": "+146",
    "mlAwayOpen": "+164",
-   "mlHome": "-169",
+   "mlHome": "-174",
    "mlHomeOpen": "-198",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "NY -3.5",
    "spreadOpen": "MIA -5.5",
-   "total": "223.5",
+   "total": "222.5",
    "totalOpen": "232.5"
   },
-  "pick": "NY ML (-169)",
-  "reason": "NY are about 60% no-vig at -169; ESPN's model has 70%. For: ESPN model 70% vs market 60%.",
+  "pick": "NY ML (-174)",
+  "reason": "NY are about 61% no-vig at -174; ESPN's model has 77%. For: ESPN model 77% vs market 61%.",
   "risks": [],
   "side": "home",
   "slug": "nba",
@@ -947,11 +78,11 @@
   "stars": 2,
   "start": "2026-11-28T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Madison Square Garden, New York"
  },
  "nba-401909327": {
-  "_lastPick": "DET ML (-407)",
+  "_lastPick": "DET ML (-410)",
   "away": {
    "abbr": "MIL",
    "form": "LWLLL",
@@ -966,8 +97,8 @@
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 13.2,
-   "home": 86.8
+   "away": 14.0,
+   "home": 86.0
   },
   "home": {
    "abbr": "DET",
@@ -1034,20 +165,20 @@
    "Clippers host Pelicans Friday for NBA Cup group stage game"
   ],
   "odds": {
-   "mlAway": "+320",
+   "mlAway": "+322",
    "mlAwayOpen": "+420",
-   "mlHome": "-407",
+   "mlHome": "-410",
    "mlHomeOpen": "-561",
-   "provider": "Draft Kings",
-   "spread": "DET -8.5",
+   "provider": "DraftKings",
+   "spread": "DET -9.5",
    "spreadOpen": "DET -11.5",
    "total": "219.5",
    "totalOpen": "221.5"
   },
-  "pick": "DET ML (-407)",
-  "reason": "DET are about 77% no-vig at -407; ESPN's model has 87%. For: ESPN model 87% vs market 77%; last-5 scoring margin: DET +6.0, MIL -4.4. Capped at 2★: NBA capped by lessons.",
+  "pick": "DET ML (-410)",
+  "reason": "DET are about 77% no-vig at -410; ESPN's model has 86%. For: ESPN model 86% vs market 77%; last-5 scoring margin: DET +6.0, MIL -4.4. Capped at 2★: NBA capped by lessons.",
   "risks": [
-   "line drifted away (-561 → -407)"
+   "line drifted away (-561 → -410)"
   ],
   "side": "home",
   "slug": "nba",
@@ -1055,7 +186,7 @@
   "stars": 2,
   "start": "2026-11-28T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Little Caesars Arena, Detroit"
  },
  "nba-401909328": {
@@ -1076,8 +207,8 @@
   "espnLeague": "nba",
   "espnSport": "basketball",
   "espnWinProb": {
-   "away": 62.1,
-   "home": 37.9
+   "away": 61.6,
+   "home": 38.4
   },
   "home": {
    "abbr": "IND",
@@ -1138,10 +269,10 @@
    "mlAwayOpen": "-185",
    "mlHome": "+130",
    "mlHomeOpen": "+155",
-   "provider": "Draft Kings",
-   "spread": "PHI -1.5",
+   "provider": "DraftKings",
+   "spread": "PHI -3.5",
    "spreadOpen": "PHI -4.5",
-   "total": "232.5",
+   "total": "231.5",
    "totalOpen": "234.5"
   },
   "pick": "Pass",
@@ -1155,11 +286,11 @@
   "stars": 1,
   "start": "2026-11-28T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Gainbridge Fieldhouse, Indianapolis"
  },
  "nba-401909329": {
-  "_lastPick": "TOR ML (-333)",
+  "_lastPick": "TOR ML (-310)",
   "away": {
    "abbr": "BKN",
    "form": "WLLLL",
@@ -1172,7 +303,7 @@
    "short": "Nets",
    "teamId": "17"
   },
-  "confidence": 72,
+  "confidence": 71,
   "espnId": "401909329",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -1244,18 +375,18 @@
    "Clippers host Pelicans Friday for NBA Cup group stage game"
   ],
   "odds": {
-   "mlAway": "+268",
+   "mlAway": "+251",
    "mlAwayOpen": "+268",
-   "mlHome": "-333",
+   "mlHome": "-310",
    "mlHomeOpen": "-333",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "TOR -7.5",
    "spreadOpen": "TOR -7.5",
    "total": "219.5",
    "totalOpen": "221.5"
   },
-  "pick": "TOR ML (-333)",
-  "reason": "TOR are about 74% no-vig at -333; ESPN's model has 74%. For: last-5 scoring margin: TOR -3.8, BKN -12.6. Capped at 2★: NBA capped by lessons.",
+  "pick": "TOR ML (-310)",
+  "reason": "TOR are about 73% no-vig at -310; ESPN's model has 74%. For: last-5 scoring margin: TOR -3.8, BKN -12.6. Capped at 2★: NBA capped by lessons.",
   "risks": [],
   "side": "home",
   "slug": "nba",
@@ -1263,11 +394,11 @@
   "stars": 2,
   "start": "2026-11-28T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Scotiabank Arena, Toronto"
  },
  "nba-401909330": {
-  "_lastPick": "BOS ML (-410)",
+  "_lastPick": "BOS ML (-423)",
   "away": {
    "abbr": "ATL",
    "form": "WWWWL",
@@ -1359,20 +490,20 @@
    "Clippers host Pelicans Friday for NBA Cup group stage game"
   ],
   "odds": {
-   "mlAway": "+322",
+   "mlAway": "+331",
    "mlAwayOpen": "+288",
-   "mlHome": "-410",
+   "mlHome": "-423",
    "mlHomeOpen": "-361",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "BOS -9.5",
    "spreadOpen": "BOS -9.5",
-   "total": "222.5",
+   "total": "221.5",
    "totalOpen": "222.5"
   },
-  "pick": "BOS ML (-410)",
-  "reason": "BOS are about 77% no-vig at -410; ESPN's model has 71%.",
+  "pick": "BOS ML (-423)",
+  "reason": "BOS are about 78% no-vig at -423; ESPN's model has 71%.",
   "risks": [
-   "ESPN model only 71% vs market 77%",
+   "ESPN model only 71% vs market 78%",
    "opponent in better form (WWWWL)"
   ],
   "side": "home",
@@ -1381,19 +512,18 @@
   "stars": 2,
   "start": "2026-11-28T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "TD Garden, Boston"
  },
  "nba-401909331": {
-  "_lastPick": "MIN ML (-155)",
+  "_lastPick": "MIN ML (-162)",
   "away": {
    "abbr": "MEM",
    "form": "WWLWW",
    "injuries": [
     "Scotty Pippen Jr. (G) – Out, Back",
     "Cameron Boozer (F) – Out, Ankle",
-    "Jerami Grant (F) – Out, Calf",
-    "GG Jackson (F) – Out, Foot"
+    "Jerami Grant (F) – Out, Calf"
    ],
    "name": "Memphis Grizzlies",
    "record": "14-5",
@@ -1443,13 +573,6 @@
      "pos": "F",
      "stale": false,
      "status": "Out"
-    },
-    {
-     "detail": "Foot",
-     "player": "GG Jackson",
-     "pos": "F",
-     "stale": false,
-     "status": "Out"
     }
    ],
    "home": [
@@ -1485,18 +608,18 @@
    "Clippers host Pelicans Friday for NBA Cup group stage game"
   ],
   "odds": {
-   "mlAway": "+130",
+   "mlAway": "+136",
    "mlAwayOpen": "+117",
-   "mlHome": "-155",
+   "mlHome": "-162",
    "mlHomeOpen": "-139",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "MIN -3.5",
    "spreadOpen": "MIN -2.5",
    "total": "220.5",
    "totalOpen": "223.5"
   },
-  "pick": "MIN ML (-155)",
-  "reason": "MIN are about 58% no-vig at -155; ESPN's model has 67%. For: ESPN model 67% vs market 58%.",
+  "pick": "MIN ML (-162)",
+  "reason": "MIN are about 59% no-vig at -162; ESPN's model has 67%. For: ESPN model 67% vs market 59%.",
   "risks": [],
   "side": "home",
   "slug": "nba",
@@ -1504,7 +627,7 @@
   "stars": 2,
   "start": "2026-11-28T01:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Target Center, Minneapolis"
  },
  "nba-401909332": {
@@ -1513,8 +636,8 @@
    "form": "WWWWL",
    "injuries": [
     "Tobi Lawal (F) – Out, Groin",
-    "Dereck Lively II (C) – Out, Foot",
     "Sergio de Larrea (F) – Out, Knee",
+    "Dereck Lively II (C) – Out, Foot",
     "Tarik Biberovic (F) – Out, Heel"
    ],
    "name": "Dallas Mavericks",
@@ -1522,7 +645,7 @@
    "short": "Mavericks",
    "teamId": "6"
   },
-  "confidence": 53,
+  "confidence": 52,
   "espnId": "401909332",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -1550,16 +673,16 @@
      "status": "Out"
     },
     {
-     "detail": "Foot",
-     "player": "Dereck Lively II",
-     "pos": "C",
+     "detail": "Knee",
+     "player": "Sergio de Larrea",
+     "pos": "F",
      "stale": false,
      "status": "Out"
     },
     {
-     "detail": "Knee",
-     "player": "Sergio de Larrea",
-     "pos": "F",
+     "detail": "Foot",
+     "player": "Dereck Lively II",
+     "pos": "C",
      "stale": false,
      "status": "Out"
     },
@@ -1589,29 +712,29 @@
    "Clippers host Pelicans Friday for NBA Cup group stage game"
   ],
   "odds": {
-   "mlAway": "+120",
+   "mlAway": "+115",
    "mlAwayOpen": "+120",
-   "mlHome": "-142",
+   "mlHome": "-136",
    "mlHomeOpen": "-142",
-   "provider": "Draft Kings",
-   "spread": "PHX -1.5",
+   "provider": "DraftKings",
+   "spread": "PHX -2.5",
    "spreadOpen": "PHX -3.5",
    "total": "227.5",
    "totalOpen": "227.5"
   },
   "pick": "Pass",
-  "reason": "PHX about 56% no-vig at -142; no edge worth a pick.",
+  "reason": "PHX about 55% no-vig at -136; no edge worth a pick.",
   "risks": [],
   "slug": "nba",
   "sport": "nba",
   "stars": 1,
   "start": "2026-11-28T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Mortgage Matchup Center, Phoenix"
  },
  "nba-401909333": {
-  "_lastPick": "SA ML (-205)",
+  "_lastPick": "SA ML (-217)",
   "away": {
    "abbr": "LAL",
    "form": "WWLWW",
@@ -1687,20 +810,20 @@
    "Clippers host Pelicans Friday for NBA Cup group stage game"
   ],
   "odds": {
-   "mlAway": "+171",
+   "mlAway": "+180",
    "mlAwayOpen": "+230",
-   "mlHome": "-205",
+   "mlHome": "-217",
    "mlHomeOpen": "-285",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "SA -5.5",
    "spreadOpen": "LAL -7.5",
    "total": "225.5",
    "totalOpen": "232.5"
   },
-  "pick": "SA ML (-205)",
-  "reason": "SA are about 65% no-vig at -205; ESPN's model has 72%. For: ESPN model 72% vs market 65%.",
+  "pick": "SA ML (-217)",
+  "reason": "SA are about 66% no-vig at -217; ESPN's model has 72%. For: ESPN model 72% vs market 66%.",
   "risks": [
-   "line drifted away (-285 → -205)"
+   "line drifted away (-285 → -217)"
   ],
   "side": "home",
   "slug": "nba",
@@ -1708,11 +831,11 @@
   "stars": 2,
   "start": "2026-11-28T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Frost Bank Center, San Antonio"
  },
  "nba-401909334": {
-  "_lastPick": "DEN ML (-416)",
+  "_lastPick": "DEN ML (-468)",
   "away": {
    "abbr": "DEN",
    "form": "LWWWL",
@@ -1722,7 +845,7 @@
    "short": "Nuggets",
    "teamId": "7"
   },
-  "confidence": 72,
+  "confidence": 73,
   "espnId": "401909334",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -1778,20 +901,20 @@
    "Clippers host Pelicans Friday for NBA Cup group stage game"
   ],
   "odds": {
-   "mlAway": "-416",
+   "mlAway": "-468",
    "mlAwayOpen": "-336",
-   "mlHome": "+326",
+   "mlHome": "+361",
    "mlHomeOpen": "+270",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "DEN -9.5",
    "spreadOpen": "DEN -9.5",
-   "total": "229.5",
+   "total": "228.5",
    "totalOpen": "228.5"
   },
-  "pick": "DEN ML (-416)",
-  "reason": "DEN are about 77% no-vig at -416; ESPN's model has 70%.",
+  "pick": "DEN ML (-468)",
+  "reason": "DEN are about 79% no-vig at -468; ESPN's model has 70%. For: line moved toward DEN (-336 → -468).",
   "risks": [
-   "ESPN model only 70% vs market 77%"
+   "ESPN model only 70% vs market 79%"
   ],
   "side": "away",
   "slug": "nba",
@@ -1799,7 +922,7 @@
   "stars": 2,
   "start": "2026-11-28T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Delta Center, Salt Lake City"
  },
  "nba-401909335": {
@@ -1816,7 +939,7 @@
    "short": "Pelicans",
    "teamId": "3"
   },
-  "confidence": 54,
+  "confidence": 53,
   "espnId": "401909335",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -1883,18 +1006,18 @@
    "Clippers host Pelicans Friday for NBA Cup group stage game"
   ],
   "odds": {
-   "mlAway": "+136",
+   "mlAway": "+133",
    "mlAwayOpen": "+124",
-   "mlHome": "-162",
+   "mlHome": "-158",
    "mlHomeOpen": "-147",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "LAC -3.5",
    "spreadOpen": "LAC -2.5",
    "total": "231.5",
    "totalOpen": "228.5"
   },
   "pick": "Pass",
-  "reason": "LAC about 59% no-vig at -162; no edge worth a pick.",
+  "reason": "LAC about 59% no-vig at -158; no edge worth a pick.",
   "risks": [
    "history stats favor the opponent"
   ],
@@ -1903,11 +1026,11 @@
   "stars": 1,
   "start": "2026-11-28T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Intuit Dome, Inglewood"
  },
  "nba-401909336": {
-  "_lastPick": "POR ML (-344)",
+  "_lastPick": "POR ML (-396)",
   "away": {
    "abbr": "GS",
    "form": "WWLLL",
@@ -1919,7 +1042,7 @@
    "short": "Warriors",
    "teamId": "9"
   },
-  "confidence": 75,
+  "confidence": 77,
   "espnId": "401909336",
   "espnLeague": "nba",
   "espnSport": "basketball",
@@ -2012,18 +1135,18 @@
    "Clippers host Pelicans Friday for NBA Cup group stage game"
   ],
   "odds": {
-   "mlAway": "+276",
+   "mlAway": "+312",
    "mlAwayOpen": "+262",
-   "mlHome": "-344",
+   "mlHome": "-396",
    "mlHomeOpen": "-325",
-   "provider": "Draft Kings",
-   "spread": "POR -8.5",
+   "provider": "DraftKings",
+   "spread": "POR -9.5",
    "spreadOpen": "POR -9.5",
    "total": "220.5",
    "totalOpen": "221.5"
   },
-  "pick": "POR ML (-344)",
-  "reason": "POR are about 74% no-vig at -344; ESPN's model has 82%. For: ESPN model 82% vs market 74%; last-5 scoring margin: POR +6.0, GS -10.2. Capped at 2★: NBA capped by lessons.",
+  "pick": "POR ML (-396)",
+  "reason": "POR are about 77% no-vig at -396; ESPN's model has 82%. For: last-5 scoring margin: POR +6.0, GS -10.2. Capped at 2★: NBA capped by lessons.",
   "risks": [],
   "side": "home",
   "slug": "nba",
@@ -2031,7 +1154,7 @@
   "stars": 2,
   "start": "2026-11-28T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Moda Center, Portland"
  },
  "nba-401910046": {
@@ -2066,7 +1189,7 @@
   "stars": 1,
   "start": "2026-11-28T22:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Capital One Arena, Washington"
  },
  "nba-401910047": {
@@ -2101,7 +1224,7 @@
   "stars": 1,
   "start": "2026-11-28T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Spectrum Center, Charlotte"
  },
  "nba-401910048": {
@@ -2136,7 +1259,7 @@
   "stars": 1,
   "start": "2026-11-29T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "United Center, Chicago"
  },
  "nba-401910049": {
@@ -2171,7 +1294,7 @@
   "stars": 1,
   "start": "2026-11-29T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Fiserv Forum, Milwaukee"
  },
  "nba-401910050": {
@@ -2206,7 +1329,7 @@
   "stars": 1,
   "start": "2026-11-29T01:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Toyota Center (Houston), Houston"
  },
  "nba-401910051": {
@@ -2241,7 +1364,7 @@
   "stars": 1,
   "start": "2026-11-29T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "FedExForum, Memphis"
  },
  "nba-401910052": {
@@ -2276,7 +1399,7 @@
   "stars": 1,
   "start": "2026-11-29T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Frost Bank Center, San Antonio"
  },
  "nba-401910053": {
@@ -2311,7 +1434,7 @@
   "stars": 1,
   "start": "2026-11-29T22:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Delta Center, Salt Lake City"
  },
  "nba-401910054": {
@@ -2346,7 +1469,7 @@
   "stars": 1,
   "start": "2026-11-29T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Rocket Arena, Cleveland"
  },
  "nba-401910055": {
@@ -2381,7 +1504,7 @@
   "stars": 1,
   "start": "2026-11-29T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Little Caesars Arena, Detroit"
  },
  "nba-401910056": {
@@ -2416,7 +1539,7 @@
   "stars": 1,
   "start": "2026-11-29T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Madison Square Garden, New York"
  },
  "nba-401910057": {
@@ -2451,7 +1574,7 @@
   "stars": 1,
   "start": "2026-11-29T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Scotiabank Arena, Toronto"
  },
  "nba-401910058": {
@@ -2486,8 +1609,78 @@
   "stars": 1,
   "start": "2026-11-29T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Moda Center, Portland"
+ },
+ "nba-401910059": {
+  "away": {
+   "abbr": "LAC",
+   "name": "LA Clippers",
+   "record": "4-13",
+   "short": "Clippers",
+   "teamId": "12"
+  },
+  "espnId": "401910059",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "GS",
+   "name": "Golden State Warriors",
+   "record": "10-8",
+   "short": "Warriors",
+   "teamId": "9"
+  },
+  "id": "nba-401910059",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401910059",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-30T01:30Z",
+  "state": "pre",
+  "updatedAt": "2026-11-27T04:57:20Z",
+  "venue": "Chase Center, San Francisco"
+ },
+ "nba-401910060": {
+  "away": {
+   "abbr": "MIN",
+   "name": "Minnesota Timberwolves",
+   "record": "14-5",
+   "short": "Timberwolves",
+   "teamId": "16"
+  },
+  "espnId": "401910060",
+  "espnLeague": "nba",
+  "espnSport": "basketball",
+  "home": {
+   "abbr": "SAC",
+   "name": "Sacramento Kings",
+   "record": "2-16",
+   "short": "Kings",
+   "teamId": "23"
+  },
+  "id": "nba-401910060",
+  "league": "NBA",
+  "link": "https://www.espn.com/nba/game/_/gameId/401910060",
+  "odds": {
+   "provider": "DraftKings"
+  },
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
+  "risks": [],
+  "slug": "nba",
+  "sport": "nba",
+  "stars": 1,
+  "start": "2026-11-30T02:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-27T04:57:20Z",
+  "venue": "Golden 1 Center, Sacramento"
  },
  "ncaaf-401856756": {
   "_lastPick": "TEX ML (-455)",
@@ -2520,17 +1713,17 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856756",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "-455",
    "mlAwayOpen": "-148",
    "mlHome": "+350",
    "mlHomeOpen": "+124",
-   "provider": "Draft Kings",
-   "spread": "TEX -11.5",
+   "provider": "DraftKings",
+   "spread": "TEX -10.5",
    "spreadOpen": "TEX -2.5",
    "total": "40.5",
    "totalOpen": "53.5"
@@ -2544,7 +1737,7 @@
   "stars": 3,
   "start": "2026-11-28T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Kyle Field, College Station"
  },
  "ncaaf-401856757": {
@@ -2578,16 +1771,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856757",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+525",
    "mlAwayOpen": "+320",
    "mlHome": "-750",
    "mlHomeOpen": "-410",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "ALA -15.5",
    "spreadOpen": "ALA -10",
    "total": "49.5",
@@ -2602,7 +1795,7 @@
   "stars": 3,
   "start": "2026-11-29T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Bryant-Denny Stadium, Tuscaloosa"
  },
  "ncaaf-401856758": {
@@ -2636,16 +1829,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856758",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "-625",
    "mlAwayOpen": "-625",
    "mlHome": "+455",
    "mlHomeOpen": "+455",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "LSU -14.5",
    "spreadOpen": "LSU -13.5",
    "total": "49.5",
@@ -2660,7 +1853,7 @@
   "stars": 3,
   "start": "2026-11-28T17:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Donald W. Reynolds Razorback Stadium, Fayetteville"
  },
  "ncaaf-401856759": {
@@ -2694,16 +1887,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856759",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "-238",
    "mlAwayOpen": "-218",
    "mlHome": "+195",
    "mlHomeOpen": "+180",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "FLA -6.5",
    "spreadOpen": "FLA -4.5",
    "total": "53.5",
@@ -2718,7 +1911,7 @@
   "stars": 2,
   "start": "2026-11-27T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Doak Campbell Stadium, Tallahassee"
  },
  "ncaaf-401856760": {
@@ -2752,16 +1945,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856760",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+2200",
    "mlAwayOpen": "+4000",
    "mlHome": "-8000",
    "mlHomeOpen": "-50000",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UGA -35.5",
    "spreadOpen": "UGA -35.5",
    "total": "55.5",
@@ -2776,7 +1969,7 @@
   "stars": 2,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Sanford Stadium, Athens"
  },
  "ncaaf-401856761": {
@@ -2810,16 +2003,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856761",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "-142",
    "mlAwayOpen": "-102",
    "mlHome": "+120",
    "mlHomeOpen": "-118",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "LOU -3",
    "spreadOpen": "UK -1.5",
    "total": "53.5",
@@ -2834,11 +2027,11 @@
   "stars": 2,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Kroger Field, Lexington"
  },
  "ncaaf-401856762": {
-  "_lastPick": "MISS ML (-1050)",
+  "_lastPick": "MISS ML (-950)",
   "away": {
    "abbr": "MSST",
    "form": "WLLLL",
@@ -2847,7 +2040,7 @@
    "short": "Mississippi St",
    "teamId": "344"
   },
-  "confidence": 85,
+  "confidence": 84,
   "espnId": "401856762",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -2868,31 +2061,31 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856762",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
-   "mlAway": "+675",
+   "mlAway": "+625",
    "mlAwayOpen": "+490",
-   "mlHome": "-1050",
+   "mlHome": "-950",
    "mlHomeOpen": "-675",
-   "provider": "Draft Kings",
-   "spread": "MISS -18.5",
+   "provider": "DraftKings",
+   "spread": "MISS -17.5",
    "spreadOpen": "MISS -14.5",
    "total": "56.5",
    "totalOpen": "57.5"
   },
-  "pick": "MISS ML (-1050)",
-  "reason": "MISS are about 88% no-vig at -1050; ESPN's model has 88%. For: line moved toward MISS (-675 → -1050).",
+  "pick": "MISS ML (-950)",
+  "reason": "MISS are about 87% no-vig at -950; ESPN's model has 88%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
   "sport": "ncaaf",
-  "stars": 3,
+  "stars": 2,
   "start": "2026-11-27T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Vaught-Hemingway Stadium, Oxford"
  },
  "ncaaf-401856763": {
@@ -2924,16 +2117,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856763",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+102",
    "mlAwayOpen": "-102",
    "mlHome": "-122",
    "mlHomeOpen": "-118",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "MIZ -2.5",
    "spreadOpen": "MIZ -1.5",
    "total": "41.5",
@@ -2949,7 +2142,7 @@
   "stars": 1,
   "start": "2026-11-28T21:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Memorial Stadium, Columbia"
  },
  "ncaaf-401856764": {
@@ -2983,19 +2176,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856764",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "-230",
    "mlAwayOpen": "+130",
    "mlHome": "+190",
    "mlHomeOpen": "-155",
-   "provider": "Draft Kings",
-   "spread": "SC -6",
+   "provider": "DraftKings",
+   "spread": "SC -6.5",
    "spreadOpen": "CLEM -3",
-   "total": "41.5",
+   "total": "42.5",
    "totalOpen": "53.5"
   },
   "pick": "SC ML (-230)",
@@ -3009,7 +2202,7 @@
   "stars": 2,
   "start": "2026-11-28T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Memorial Stadium (Clemson, SC), Clemson"
  },
  "ncaaf-401856765": {
@@ -3043,16 +2236,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856765",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "-550",
    "mlAwayOpen": "-155",
    "mlHome": "+410",
    "mlHomeOpen": "+130",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "TENN -13.5",
    "spreadOpen": "TENN -3",
    "total": "42.5",
@@ -3067,7 +2260,7 @@
   "stars": 3,
   "start": "2026-11-29T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "FirstBank Stadium, Nashville"
  },
  "ncaaf-401856873": {
@@ -3101,16 +2294,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856873",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+250",
    "mlAwayOpen": "+180",
    "mlHome": "-310",
    "mlHomeOpen": "-218",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "ARIZ -7.5",
    "spreadOpen": "ARIZ -4.5",
    "total": "53.5",
@@ -3125,7 +2318,7 @@
   "stars": 4,
   "start": "2026-11-29T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Casino Del Sol Stadium, Tucson"
  },
  "ncaaf-401856874": {
@@ -3159,16 +2352,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856874",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+164",
    "mlAwayOpen": "+154",
    "mlHome": "-198",
    "mlHomeOpen": "-185",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "HOU -4.5",
    "spreadOpen": "HOU -4.5",
    "total": "55.5",
@@ -3183,7 +2376,7 @@
   "stars": 2,
   "start": "2026-11-29T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "TDECU Stadium, Houston"
  },
  "ncaaf-401856875": {
@@ -3195,7 +2388,7 @@
    "short": "UCF",
    "teamId": "2116"
   },
-  "confidence": 49,
+  "confidence": 48,
   "espnId": "401856875",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -3215,32 +2408,32 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856875",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
-   "mlAway": "+110",
+   "mlAway": "+105",
    "mlAwayOpen": "-105",
-   "mlHome": "-130",
+   "mlHome": "-125",
    "mlHomeOpen": "-115",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "COLO -2.5",
    "spreadOpen": "COLO -1.5",
    "total": "49.5",
    "totalOpen": "50.5"
   },
   "pick": "Pass",
-  "reason": "COLO about 54% no-vig at -130; no edge worth a pick.",
+  "reason": "COLO about 53% no-vig at -125; no edge worth a pick.",
   "risks": [
-   "ESPN model only 48% vs market 54%"
+   "ESPN model only 48% vs market 53%"
   ],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-28T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Folsom Field, Boulder"
  },
  "ncaaf-401856876": {
@@ -3274,16 +2467,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856876",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+500",
    "mlAwayOpen": "+380",
    "mlHome": "-700",
    "mlHomeOpen": "-500",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "BYU -15.5",
    "spreadOpen": "BYU -12.5",
    "total": "56.5",
@@ -3298,7 +2491,7 @@
   "stars": 3,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "LaVell Edwards Stadium, Provo"
  },
  "ncaaf-401856877": {
@@ -3332,17 +2525,17 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856877",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+190",
    "mlAwayOpen": "+185",
    "mlHome": "-230",
    "mlHomeOpen": "-225",
-   "provider": "Draft Kings",
-   "spread": "OKST -6.5",
+   "provider": "DraftKings",
+   "spread": "OKST -6",
    "spreadOpen": "OKST -6.5",
    "total": "64.5",
    "totalOpen": "67.5"
@@ -3356,7 +2549,7 @@
   "stars": 2,
   "start": "2026-11-28T23:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Boone Pickens Stadium, Stillwater"
  },
  "ncaaf-401856878": {
@@ -3388,17 +2581,17 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401856878",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+154",
    "mlAwayOpen": "+154",
    "mlHome": "-185",
    "mlHomeOpen": "-185",
-   "provider": "Draft Kings",
-   "spread": "ISU -3.5",
+   "provider": "DraftKings",
+   "spread": "ISU -4",
    "spreadOpen": "ISU -5.5",
    "total": "53.5",
    "totalOpen": "54.5"
@@ -3411,7 +2604,7 @@
   "stars": 1,
   "start": "2026-11-28T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Jack Trice Stadium, Ames"
  },
  "ncaaf-401856879": {
@@ -3420,7 +2613,7 @@
    "abbr": "TCU",
    "form": "LWLWL",
    "name": "TCU Horned Frogs",
-   "record": "5-6",
+   "record": "5-7",
    "short": "TCU",
    "teamId": "2628"
   },
@@ -3436,7 +2629,7 @@
    "abbr": "TTU",
    "form": "WWWWL",
    "name": "#11 Texas Tech",
-   "record": "10-1",
+   "record": "11-1",
    "short": "Texas Tech",
    "teamId": "2641"
   },
@@ -3468,7 +2661,7 @@
   "sport": "ncaaf",
   "stars": 2,
   "start": "2026-11-27T01:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Galaxy Stadium, Lubbock"
  },
@@ -3503,16 +2696,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401856880",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+1300",
    "mlAwayOpen": "+800",
    "mlHome": "-2800",
    "mlHomeOpen": "-1350",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UTAH -26.5",
    "spreadOpen": "UTAH -20.5",
    "total": "66.5",
@@ -3527,7 +2720,7 @@
   "stars": 2,
   "start": "2026-11-28T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Rice-Eccles Stadium, Salt Lake City"
  },
  "ncaaf-401858311": {
@@ -3561,17 +2754,17 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858311",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+1300",
    "mlAwayOpen": "+1500",
    "mlHome": "-2800",
    "mlHomeOpen": "-3600",
-   "provider": "Draft Kings",
-   "spread": "MIA -24.5",
+   "provider": "DraftKings",
+   "spread": "MIA -25.5",
    "spreadOpen": "MIA -26.5",
    "total": "53.5",
    "totalOpen": "53.5"
@@ -3585,7 +2778,7 @@
   "stars": 2,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Hard Rock Stadium, Miami Gardens"
  },
  "ncaaf-401858312": {
@@ -3619,16 +2812,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858312",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+470",
    "mlAwayOpen": "+280",
    "mlHome": "-650",
    "mlHomeOpen": "-355",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "WAKE -14.5",
    "spreadOpen": "WAKE -10.5",
    "total": "55.5",
@@ -3645,7 +2838,7 @@
   "stars": 2,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Allegacy Federal Credit Union Stadium, Winston-Salem"
  },
  "ncaaf-401858313": {
@@ -3679,19 +2872,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858313",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+185",
    "mlAwayOpen": "-118",
    "mlHome": "-225",
    "mlHomeOpen": "-102",
-   "provider": "Draft Kings",
-   "spread": "UNC -6",
+   "provider": "DraftKings",
+   "spread": "UNC -5.5",
    "spreadOpen": "NCSU -1.5",
-   "total": "54.5",
+   "total": "53.5",
    "totalOpen": "55.5"
   },
   "pick": "UNC ML (-225)",
@@ -3703,7 +2896,7 @@
   "stars": 4,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Kenan Stadium, Chapel Hill"
  },
  "ncaaf-401858314": {
@@ -3737,16 +2930,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858314",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "-2800",
    "mlAwayOpen": "-1350",
    "mlHome": "+1300",
    "mlHomeOpen": "+800",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "ND -25.5",
    "spreadOpen": "ND -21",
    "total": "53.5",
@@ -3761,7 +2954,7 @@
   "stars": 2,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "JMA Wireless Dome, Syracuse"
  },
  "ncaaf-401858315": {
@@ -3795,16 +2988,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858315",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "-355",
    "mlAwayOpen": "+235",
    "mlHome": "+280",
    "mlHomeOpen": "-290",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "PITT -9.5",
    "spreadOpen": "CAL -7.5",
    "total": "47.5",
@@ -3819,7 +3012,7 @@
   "stars": 3,
   "start": "2026-11-29T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "California Memorial Stadium, Berkeley"
  },
  "ncaaf-401858316": {
@@ -3853,16 +3046,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858316",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "-285",
    "mlAwayOpen": "-340",
    "mlHome": "+230",
    "mlHomeOpen": "+270",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "SMU -7",
    "spreadOpen": "SMU -10",
    "total": "61.5",
@@ -3879,7 +3072,7 @@
   "stars": 3,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Stanford Stadium, Stanford"
  },
  "ncaaf-401858317": {
@@ -3911,16 +3104,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858317",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+130",
    "mlAwayOpen": "+105",
    "mlHome": "-155",
    "mlHomeOpen": "-125",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "VT -3",
    "spreadOpen": "VT -1.5",
    "total": "50.5",
@@ -3936,7 +3129,7 @@
   "stars": 1,
   "start": "2026-11-28T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Lane Stadium, Blacksburg"
  },
  "ncaaf-401858536": {
@@ -3970,16 +3163,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858536",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+164",
    "mlAwayOpen": "+190",
    "mlHome": "-198",
    "mlHomeOpen": "-230",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "IOWA -3.5",
    "spreadOpen": "IOWA -6.5",
    "total": "40.5",
@@ -3994,9 +3187,9 @@
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 2,
-  "start": "2026-11-27T17:00Z",
+  "start": "2026-11-27T17:08Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Kinnick Stadium, Iowa City"
  },
  "ncaaf-401858537": {
@@ -4030,16 +3223,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858537",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+120",
    "mlAwayOpen": "-170",
    "mlHome": "-142",
    "mlHomeOpen": "+142",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "NU -2.5",
    "spreadOpen": "ILL -3.5",
    "total": "50.5",
@@ -4056,7 +3249,7 @@
   "stars": 2,
   "start": "2026-11-28T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Ryan Field, Evanston"
  },
  "ncaaf-401858538": {
@@ -4090,16 +3283,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858538",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+1100",
    "mlAwayOpen": "+750",
    "mlHome": "-2100",
    "mlHomeOpen": "-1200",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "IU -23.5",
    "spreadOpen": "IU -22.5",
    "total": "52.5",
@@ -4114,7 +3307,7 @@
   "stars": 2,
   "start": "2026-11-29T00:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Memorial Stadium (Bloomington, IN), Bloomington"
  },
  "ncaaf-401858539": {
@@ -4148,16 +3341,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858539",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "-278",
    "mlAwayOpen": "-290",
    "mlHome": "+225",
    "mlHomeOpen": "+235",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "PSU -7",
    "spreadOpen": "PSU -7.5",
    "total": "48.5",
@@ -4172,7 +3365,7 @@
   "stars": 3,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "SECU Stadium, College Park"
  },
  "ncaaf-401858540": {
@@ -4206,16 +3399,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858540",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+330",
    "mlAwayOpen": "+400",
    "mlHome": "-425",
    "mlHomeOpen": "-535",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "OSU -10",
    "spreadOpen": "OSU -14",
    "total": "37.5",
@@ -4230,7 +3423,7 @@
   "stars": 3,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Ohio Stadium, Columbus"
  },
  "ncaaf-401858541": {
@@ -4264,16 +3457,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858541",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+455",
    "mlAwayOpen": "+455",
    "mlHome": "-625",
    "mlHomeOpen": "-625",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "ORE -13.5",
    "spreadOpen": "ORE -15.5",
    "total": "50.5",
@@ -4288,7 +3481,7 @@
   "stars": 2,
   "start": "2026-11-29T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Autzen Stadium, Eugene"
  },
  "ncaaf-401858542": {
@@ -4320,30 +3513,30 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858542",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
-   "mlAway": "-148",
+   "mlAway": "-142",
    "mlAwayOpen": "-142",
-   "mlHome": "+124",
+   "mlHome": "+120",
    "mlHomeOpen": "+120",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "MSU -3",
    "spreadOpen": "MSU -3.5",
    "total": "46.5",
    "totalOpen": "48.5"
   },
   "pick": "Pass",
-  "reason": "MSU about 57% no-vig at -148; no edge worth a pick.",
+  "reason": "MSU about 56% no-vig at -142; no edge worth a pick.",
   "risks": [],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-28T21:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "SHI Stadium, Piscataway"
  },
  "ncaaf-401858543": {
@@ -4375,19 +3568,19 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401858543",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "-250",
    "mlAwayOpen": "-425",
    "mlHome": "+205",
    "mlHomeOpen": "+330",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "USC -6.5",
    "spreadOpen": "USC -11.5",
-   "total": "45.5",
+   "total": "46.5",
    "totalOpen": "55.5"
   },
   "pick": "Pass",
@@ -4401,11 +3594,11 @@
   "stars": 1,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Rose Bowl, Pasadena"
  },
  "ncaaf-401858544": {
-  "_lastPick": "WIS ML (-305)",
+  "_lastPick": "WIS ML (-340)",
   "away": {
    "abbr": "MINN",
    "form": "WLLLW",
@@ -4414,7 +3607,7 @@
    "short": "Minnesota",
    "teamId": "135"
   },
-  "confidence": 72,
+  "confidence": 73,
   "espnId": "401858544",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -4435,23 +3628,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401858544",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
-   "mlAway": "+245",
+   "mlAway": "+270",
    "mlAwayOpen": "+180",
-   "mlHome": "-305",
+   "mlHome": "-340",
    "mlHomeOpen": "-218",
-   "provider": "Draft Kings",
-   "spread": "WIS -7.5",
+   "provider": "DraftKings",
+   "spread": "WIS -9.5",
    "spreadOpen": "WIS -6",
    "total": "37.5",
    "totalOpen": "38.5"
   },
-  "pick": "WIS ML (-305)",
-  "reason": "WIS are about 72% no-vig at -305; ESPN's model has 80%. For: ESPN model 80% vs market 72%; line moved toward WIS (-218 → -305).",
+  "pick": "WIS ML (-340)",
+  "reason": "WIS are about 74% no-vig at -340; ESPN's model has 80%. For: ESPN model 80% vs market 74%; line moved toward WIS (-218 → -340).",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -4459,7 +3652,7 @@
   "stars": 4,
   "start": "2026-11-28T00:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Camp Randall Stadium, Madison"
  },
  "ncaaf-401860926": {
@@ -4493,16 +3686,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401860926",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "-1800",
    "mlAwayOpen": "-1800",
    "mlHome": "+1000",
    "mlHomeOpen": "+1000",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "BOIS -21",
    "spreadOpen": "BOIS -21",
    "total": "76.5",
@@ -4517,7 +3710,7 @@
   "stars": 2,
   "start": "2026-11-28T23:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Canvas Stadium, Fort Collins"
  },
  "ncaaf-401860927": {
@@ -4549,16 +3742,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401860927",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+130",
    "mlAwayOpen": "-108",
    "mlHome": "-155",
    "mlHomeOpen": "-112",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "FRES -3",
    "spreadOpen": "FRES -1.5",
    "total": "58.5",
@@ -4574,11 +3767,11 @@
   "stars": 1,
   "start": "2026-11-29T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Valley Children's Stadium, Fresno"
  },
  "ncaaf-401860928": {
-  "_lastPick": "TXST ML (-270)",
+  "_lastPick": "TXST ML (-285)",
   "away": {
    "abbr": "TXST",
    "form": "WWWLW",
@@ -4587,7 +3780,7 @@
    "short": "Texas St",
    "teamId": "326"
   },
-  "confidence": 67,
+  "confidence": 68,
   "espnId": "401860928",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -4608,23 +3801,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401860928",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
-   "mlAway": "-270",
+   "mlAway": "-285",
    "mlAwayOpen": "-285",
-   "mlHome": "+220",
+   "mlHome": "+230",
    "mlHomeOpen": "+230",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "TXST -7",
    "spreadOpen": "TXST -7.5",
    "total": "52.5",
    "totalOpen": "53.5"
   },
-  "pick": "TXST ML (-270)",
-  "reason": "TXST are about 70% no-vig at -270; ESPN's model has 71%.",
+  "pick": "TXST ML (-285)",
+  "reason": "TXST are about 71% no-vig at -285; ESPN's model has 71%.",
   "risks": [],
   "side": "away",
   "slug": "college-football",
@@ -4632,7 +3825,7 @@
   "stars": 2,
   "start": "2026-11-29T02:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Maverik Stadium, Logan"
  },
  "ncaaf-401860929": {
@@ -4664,16 +3857,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401860929",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+120",
    "mlAwayOpen": "-148",
    "mlHome": "-142",
    "mlHomeOpen": "+124",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "WSU -2.5",
    "spreadOpen": "SDSU -3",
    "total": "46.5",
@@ -4689,7 +3882,7 @@
   "stars": 1,
   "start": "2026-11-28T23:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Martin Stadium, Pullman"
  },
  "ncaaf-401861969": {
@@ -4701,7 +3894,7 @@
    "short": "UConn",
    "teamId": "41"
   },
-  "confidence": 55,
+  "confidence": 57,
   "espnId": "401861969",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -4721,30 +3914,30 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401861969",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
-   "mlAway": "-155",
+   "mlAway": "-170",
    "mlAwayOpen": "-130",
-   "mlHome": "+130",
+   "mlHome": "+142",
    "mlHomeOpen": "+120",
-   "provider": "Draft Kings",
-   "spread": "CONN -3",
+   "provider": "DraftKings",
+   "spread": "CONN -3.5",
    "spreadOpen": "CONN -2.5",
    "total": "45.5",
    "totalOpen": "49.5"
   },
   "pick": "Pass",
-  "reason": "CONN about 58% no-vig at -155; no edge worth a pick.",
+  "reason": "CONN about 60% no-vig at -170; no edge worth a pick.",
   "risks": [],
   "slug": "college-football",
   "sport": "ncaaf",
   "stars": 1,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "War Memorial Stadium, Laramie"
  },
  "ncaaf-401862837": {
@@ -4776,16 +3969,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401862837",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "-102",
    "mlAwayOpen": "+110",
    "mlHome": "-118",
    "mlHomeOpen": "-130",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "ECU -1.5",
    "spreadOpen": "ECU -2.5",
    "total": "57.5",
@@ -4799,11 +3992,11 @@
   "stars": 1,
   "start": "2026-11-28T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Dowdy-Ficklen Stadium, Greenville"
  },
  "ncaaf-401862838": {
-  "_lastPick": "MEM ML (-1000)",
+  "_lastPick": "MEM ML (-1050)",
   "away": {
    "abbr": "TEM",
    "form": "LLLLL",
@@ -4833,23 +4026,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862838",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
-   "mlAway": "+650",
+   "mlAway": "+675",
    "mlAwayOpen": "+575",
-   "mlHome": "-1000",
+   "mlHome": "-1050",
    "mlHomeOpen": "-850",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "MEM -18.5",
    "spreadOpen": "MEM -17.5",
    "total": "66.5",
    "totalOpen": "64.5"
   },
-  "pick": "MEM ML (-1000)",
-  "reason": "MEM are about 87% no-vig at -1000; ESPN's model has 91%. For: form LWWWL vs LLLLL.",
+  "pick": "MEM ML (-1050)",
+  "reason": "MEM are about 88% no-vig at -1050; ESPN's model has 91%. For: form LWWWL vs LLLLL.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -4857,7 +4050,7 @@
   "stars": 3,
   "start": "2026-11-27T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Simmons Bank Liberty Stadium, Memphis"
  },
  "ncaaf-401862839": {
@@ -4891,19 +4084,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862839",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+195",
    "mlAwayOpen": "+245",
    "mlHome": "-238",
    "mlHomeOpen": "-305",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "USF -6.5",
    "spreadOpen": "USF -8.5",
-   "total": "43.5",
+   "total": "44.5",
    "totalOpen": "45.5"
   },
   "pick": "USF ML (-238)",
@@ -4917,7 +4110,7 @@
   "stars": 2,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Raymond James Stadium, Tampa"
  },
  "ncaaf-401862840": {
@@ -4949,16 +4142,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401862840",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "-122",
    "mlAwayOpen": "+110",
    "mlHome": "+102",
    "mlHomeOpen": "-130",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "TLSA -1.5",
    "spreadOpen": "UTSA -2.5",
    "total": "57.5",
@@ -4972,11 +4165,11 @@
   "stars": 1,
   "start": "2026-11-27T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Alamodome, San Antonio"
  },
  "ncaaf-401862841": {
-  "_lastPick": "ARMY ML (-205)",
+  "_lastPick": "ARMY ML (-198)",
   "away": {
    "abbr": "ARMY",
    "form": "LLLWW",
@@ -5006,25 +4199,25 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862841",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
-   "mlAway": "-205",
+   "mlAway": "-198",
    "mlAwayOpen": "-298",
-   "mlHome": "+170",
+   "mlHome": "+164",
    "mlHomeOpen": "+240",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "ARMY -5.5",
    "spreadOpen": "ARMY -7.5",
    "total": "47.5",
    "totalOpen": "50.5"
   },
-  "pick": "ARMY ML (-205)",
-  "reason": "ARMY are about 64% no-vig at -205; ESPN's model has 72%. For: ESPN model 72% vs market 64%.",
+  "pick": "ARMY ML (-198)",
+  "reason": "ARMY are about 64% no-vig at -198; ESPN's model has 72%. For: ESPN model 72% vs market 64%.",
   "risks": [
-   "line drifted away (-298 → -205)"
+   "line drifted away (-298 → -198)"
   ],
   "side": "away",
   "slug": "college-football",
@@ -5032,11 +4225,11 @@
   "stars": 2,
   "start": "2026-11-28T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "First Community Stadium, Houston"
  },
  "ncaaf-401862842": {
-  "_lastPick": "NAVY ML (-850)",
+  "_lastPick": "NAVY ML (-800)",
   "away": {
    "abbr": "NAVY",
    "form": "WWLLL",
@@ -5066,23 +4259,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862842",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
-   "mlAway": "-850",
+   "mlAway": "-800",
    "mlAwayOpen": "-900",
-   "mlHome": "+575",
+   "mlHome": "+550",
    "mlHomeOpen": "+600",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "NAVY -16.5",
    "spreadOpen": "NAVY -16.5",
-   "total": "54.5",
+   "total": "53.5",
    "totalOpen": "53.5"
   },
-  "pick": "NAVY ML (-850)",
-  "reason": "NAVY are about 86% no-vig at -850; ESPN's model has 88%.",
+  "pick": "NAVY ML (-800)",
+  "reason": "NAVY are about 85% no-vig at -800; ESPN's model has 88%.",
   "risks": [],
   "side": "away",
   "slug": "college-football",
@@ -5090,11 +4283,11 @@
   "stars": 2,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Jerry Richardson Stadium, Charlotte"
  },
  "ncaaf-401862843": {
-  "_lastPick": "UNT ML (-155)",
+  "_lastPick": "UNT ML (-142)",
   "away": {
    "abbr": "UAB",
    "form": "LWWLW",
@@ -5103,7 +4296,7 @@
    "short": "UAB",
    "teamId": "5"
   },
-  "confidence": 67,
+  "confidence": 63,
   "espnId": "401862843",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -5124,31 +4317,33 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401862843",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
-   "mlAway": "+130",
+   "mlAway": "+120",
    "mlAwayOpen": "+150",
-   "mlHome": "-155",
+   "mlHome": "-142",
    "mlHomeOpen": "-180",
-   "provider": "Draft Kings",
-   "spread": "UNT -3",
+   "provider": "DraftKings",
+   "spread": "UNT -2.5",
    "spreadOpen": "UNT -4.5",
    "total": "45.5",
    "totalOpen": "48.5"
   },
-  "pick": "UNT ML (-155)",
-  "reason": "UNT are about 58% no-vig at -155; ESPN's model has 86%. For: ESPN model 86% vs market 58%.",
-  "risks": [],
+  "pick": "UNT ML (-142)",
+  "reason": "UNT are about 56% no-vig at -142; ESPN's model has 86%. For: ESPN model 86% vs market 56%.",
+  "risks": [
+   "line drifted away (-180 → -142)"
+  ],
   "side": "home",
   "slug": "college-football",
   "sport": "ncaaf",
-  "stars": 3,
+  "stars": 2,
   "start": "2026-11-28T21:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "DATCU Stadium, Denton"
  },
  "ncaaf-401864546": {
@@ -5182,16 +4377,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864546",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+210",
    "mlAwayOpen": "+195",
    "mlHome": "-258",
    "mlHomeOpen": "-238",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UNM -6.5",
    "spreadOpen": "UNM -7",
    "total": "42.5",
@@ -5206,7 +4401,7 @@
   "stars": 2,
   "start": "2026-11-27T21:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "University Stadium (NM), Albuquerque"
  },
  "ncaaf-401864547": {
@@ -5240,16 +4435,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864547",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+425",
    "mlAwayOpen": "+455",
    "mlHome": "-575",
    "mlHomeOpen": "-625",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "HAW -13.5",
    "spreadOpen": "HAW -14.5",
    "total": "39.5",
@@ -5264,7 +4459,7 @@
   "stars": 3,
   "start": "2026-11-29T04:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Clarence T.C. Ching Athletics Complex, Honolulu"
  },
  "ncaaf-401864548": {
@@ -5298,16 +4493,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864548",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+185",
    "mlAwayOpen": "+154",
    "mlHome": "-225",
    "mlHomeOpen": "-185",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "UNLV -5.5",
    "spreadOpen": "UNLV -4.5",
    "total": "44.5",
@@ -5322,7 +4517,7 @@
   "stars": 2,
   "start": "2026-11-29T02:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Allegiant Stadium, Las Vegas"
  },
  "ncaaf-401864549": {
@@ -5356,16 +4551,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864549",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "-345",
    "mlAwayOpen": "-550",
    "mlHome": "+275",
    "mlHomeOpen": "+410",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "NDSU -8.5",
    "spreadOpen": "NDSU -11.5",
    "total": "39.5",
@@ -5382,7 +4577,7 @@
   "stars": 3,
   "start": "2026-11-27T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "CEFCU Stadium, San Jose"
  },
  "ncaaf-401864550": {
@@ -5416,16 +4611,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401864550",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+160",
    "mlAwayOpen": "+154",
    "mlHome": "-192",
    "mlHomeOpen": "-185",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "NIU -4.5",
    "spreadOpen": "NIU -4.5",
    "total": "50.5",
@@ -5440,7 +4635,7 @@
   "stars": 2,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Huskie Stadium, Dekalb"
  },
  "ncaaf-401866472": {
@@ -5474,16 +4669,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401866472",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "-305",
    "mlAwayOpen": "-375",
    "mlHome": "+245",
    "mlHomeOpen": "+295",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "BUF -7.5",
    "spreadOpen": "BUFF -10",
    "total": "48.5",
@@ -5498,7 +4693,7 @@
   "stars": 4,
   "start": "2026-11-27T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "InfoCision Stadium, Akron"
  },
  "ncaaf-401866473": {
@@ -5530,19 +4725,19 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401866473",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "-155",
    "mlAwayOpen": "-180",
    "mlHome": "+130",
    "mlHomeOpen": "+150",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "TOL -3",
    "spreadOpen": "TOL -4.5",
-   "total": "45.5",
+   "total": "44.5",
    "totalOpen": "48.5"
   },
   "pick": "Pass",
@@ -5553,11 +4748,11 @@
   "stars": 1,
   "start": "2026-11-27T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Peden Stadium, Athens"
  },
  "ncaaf-401866474": {
-  "_lastPick": "CMU ML (-192)",
+  "_lastPick": "CMU ML (-180)",
   "away": {
    "abbr": "CMU",
    "form": "LWWLL",
@@ -5587,23 +4782,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401866474",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
-   "mlAway": "-192",
+   "mlAway": "-180",
    "mlAwayOpen": "-205",
-   "mlHome": "+160",
+   "mlHome": "+150",
    "mlHomeOpen": "+170",
-   "provider": "Draft Kings",
-   "spread": "CMU -4",
+   "provider": "DraftKings",
+   "spread": "CMU -3.5",
    "spreadOpen": "CMU -6.5",
    "total": "50.5",
    "totalOpen": "46.5"
   },
-  "pick": "CMU ML (-192)",
-  "reason": "CMU are about 63% no-vig at -192; ESPN's model has 66%.",
+  "pick": "CMU ML (-180)",
+  "reason": "CMU are about 62% no-vig at -180; ESPN's model has 66%.",
   "risks": [],
   "side": "away",
   "slug": "college-football",
@@ -5611,7 +4806,7 @@
   "stars": 2,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Scheumann Stadium, Muncie"
  },
  "ncaaf-401866475": {
@@ -5643,19 +4838,19 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401866475",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+136",
    "mlAwayOpen": "-102",
    "mlHome": "-162",
    "mlHomeOpen": "-118",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "BGSU -3",
    "spreadOpen": "BGSU -1.5",
-   "total": "42.5",
+   "total": "41.5",
    "totalOpen": "43.5"
   },
   "pick": "Pass",
@@ -5668,7 +4863,7 @@
   "stars": 1,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Doyt L. Perry Stadium, Bowling Green"
  },
  "ncaaf-401869930": {
@@ -5702,16 +4897,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869930",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+140",
    "mlAwayOpen": "+105",
    "mlHome": "-166",
    "mlHomeOpen": "-125",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "USA -3.5",
    "spreadOpen": "USA -2.5",
    "total": "56.5",
@@ -5726,7 +4921,7 @@
   "stars": 2,
   "start": "2026-11-27T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Hancock Whitney Stadium, Mobile"
  },
  "ncaaf-401869939": {
@@ -5760,16 +4955,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869939",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+154",
    "mlAwayOpen": "+140",
    "mlHome": "-185",
    "mlHomeOpen": "-166",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "ARST -3.5",
    "spreadOpen": "ARST -3.5",
    "total": "46.5",
@@ -5784,11 +4979,11 @@
   "stars": 2,
   "start": "2026-11-28T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Centennial Bank Stadium, Jonesboro"
  },
  "ncaaf-401869947": {
-  "_lastPick": "JMU ML (-850)",
+  "_lastPick": "JMU ML (-950)",
   "away": {
    "abbr": "CCU",
    "form": "LWLWL",
@@ -5797,7 +4992,7 @@
    "short": "Coastal",
    "teamId": "324"
   },
-  "confidence": 84,
+  "confidence": 85,
   "espnId": "401869947",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -5818,23 +5013,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869947",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
-   "mlAway": "+575",
+   "mlAway": "+625",
    "mlAwayOpen": "+500",
-   "mlHome": "-850",
+   "mlHome": "-950",
    "mlHomeOpen": "-700",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "JMU -17.5",
    "spreadOpen": "JMU -13.5",
    "total": "54.5",
    "totalOpen": "55.5"
   },
-  "pick": "JMU ML (-850)",
-  "reason": "JMU are about 86% no-vig at -850; ESPN's model has 90%.",
+  "pick": "JMU ML (-950)",
+  "reason": "JMU are about 87% no-vig at -950; ESPN's model has 90%.",
   "risks": [],
   "side": "home",
   "slug": "college-football",
@@ -5842,7 +5037,7 @@
   "stars": 2,
   "start": "2026-11-28T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Bridgeforth Stadium, Harrisonburg"
  },
  "ncaaf-401869954": {
@@ -5874,16 +5069,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401869954",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+114",
    "mlAwayOpen": "-105",
    "mlHome": "-135",
    "mlHomeOpen": "-115",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "GASO -2.5",
    "spreadOpen": "GASO -1.5",
    "total": "53.5",
@@ -5897,11 +5092,11 @@
   "stars": 1,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Allen E. Paulson Stadium, Statesboro"
  },
  "ncaaf-401869959": {
-  "_lastPick": "UL ML (-205)",
+  "_lastPick": "UL ML (-198)",
   "away": {
    "abbr": "UL",
    "form": "WWWLW",
@@ -5931,23 +5126,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401869959",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
-   "mlAway": "-205",
+   "mlAway": "-198",
    "mlAwayOpen": "-142",
-   "mlHome": "+170",
+   "mlHome": "+164",
    "mlHomeOpen": "+120",
-   "provider": "Draft Kings",
-   "spread": "UL -5.5",
+   "provider": "DraftKings",
+   "spread": "UL -4.5",
    "spreadOpen": "UL -3",
    "total": "55.5",
    "totalOpen": "56.5"
   },
-  "pick": "UL ML (-205)",
-  "reason": "UL are about 64% no-vig at -205; ESPN's model has 61%. For: line moved toward UL (-142 → -205); form WWWLW vs LLWLL.",
+  "pick": "UL ML (-198)",
+  "reason": "UL are about 64% no-vig at -198; ESPN's model has 61%. For: line moved toward UL (-142 → -198); form WWWLW vs LLWLL.",
   "risks": [],
   "side": "away",
   "slug": "college-football",
@@ -5955,7 +5150,7 @@
   "stars": 2,
   "start": "2026-11-28T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Center Parc Stadium, Atlanta"
  },
  "ncaaf-401870804": {
@@ -5987,19 +5182,19 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401870804",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "-170",
    "mlAwayOpen": "-118",
    "mlHome": "+142",
    "mlHomeOpen": "-102",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "KENN -3.5",
    "spreadOpen": "KENN -1.5",
-   "total": "54.5",
+   "total": "53.5",
    "totalOpen": "53.5"
   },
   "pick": "Pass",
@@ -6010,7 +5205,7 @@
   "stars": 1,
   "start": "2026-11-28T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Houchens Industries-L.T. Smith Stadium, Bowling Green"
  },
  "ncaaf-401871062": {
@@ -6042,16 +5237,16 @@
   "league": "College Football",
   "link": "https://www.espn.com/college-football/game/_/gameId/401871062",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+120",
    "mlAwayOpen": "-105",
    "mlHome": "-142",
    "mlHomeOpen": "-115",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "DEL -2.5",
    "spreadOpen": "DEL -1.5",
    "total": "58.5",
@@ -6065,7 +5260,7 @@
   "stars": 1,
   "start": "2026-11-28T20:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Delaware Stadium, Newark"
  },
  "ncaaf-401871063": {
@@ -6099,17 +5294,17 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871063",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "-950",
    "mlAwayOpen": "-575",
    "mlHome": "+625",
    "mlHomeOpen": "+425",
-   "provider": "Draft Kings",
-   "spread": "LIB -17.5",
+   "provider": "DraftKings",
+   "spread": "LIB -18.5",
    "spreadOpen": "LIB -14.5",
    "total": "52.5",
    "totalOpen": "51.5"
@@ -6123,7 +5318,7 @@
   "stars": 3,
   "start": "2026-11-28T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Robert W. Plaster Stadium, Springfield"
  },
  "ncaaf-401871082": {
@@ -6157,19 +5352,19 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871082",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+350",
    "mlAwayOpen": "+310",
    "mlHome": "-455",
    "mlHomeOpen": "-395",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "FIU -11.5",
    "spreadOpen": "FIU -10.5",
-   "total": "41.5",
+   "total": "40.5",
    "totalOpen": "39.5"
   },
   "pick": "FIU ML (-455)",
@@ -6181,7 +5376,7 @@
   "stars": 2,
   "start": "2026-11-28T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Pitbull Stadium, Miami"
  },
  "ncaaf-401871083": {
@@ -6215,16 +5410,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871083",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+136",
    "mlAwayOpen": "+145",
    "mlHome": "-162",
    "mlHomeOpen": "-175",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "MTSU -3",
    "spreadOpen": "MTSU -3.5",
    "total": "51.5",
@@ -6239,11 +5434,11 @@
   "stars": 2,
   "start": "2026-11-28T19:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Johnny \"Red\" Floyd Stadium, Murfreesboro"
  },
  "ncaaf-401871102": {
-  "_lastPick": "MRSH ML (-205)",
+  "_lastPick": "MRSH ML (-218)",
   "away": {
    "abbr": "MRSH",
    "form": "WLLWW",
@@ -6252,7 +5447,7 @@
    "short": "Marshall",
    "teamId": "276"
   },
-  "confidence": 62,
+  "confidence": 63,
   "espnId": "401871102",
   "espnLeague": "college-football",
   "espnSport": "football",
@@ -6273,23 +5468,23 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871102",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
-   "mlAway": "-205",
+   "mlAway": "-218",
    "mlAwayOpen": "-175",
-   "mlHome": "+170",
+   "mlHome": "+180",
    "mlHomeOpen": "+145",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "MRSH -5.5",
    "spreadOpen": "MRSH -4",
    "total": "51.5",
    "totalOpen": "49.5"
   },
-  "pick": "MRSH ML (-205)",
-  "reason": "MRSH are about 64% no-vig at -205; ESPN's model has 66%.",
+  "pick": "MRSH ML (-218)",
+  "reason": "MRSH are about 66% no-vig at -218; ESPN's model has 66%. For: line moved toward MRSH (-175 → -218).",
   "risks": [],
   "side": "away",
   "slug": "college-football",
@@ -6297,7 +5492,7 @@
   "stars": 2,
   "start": "2026-11-28T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Malone Stadium, Monroe"
  },
  "ncaaf-401871103": {
@@ -6331,16 +5526,16 @@
   "link": "https://www.espn.com/college-football/game/_/gameId/401871103",
   "market": "Moneyline",
   "news": [
-   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-   "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
-   "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows"
+   "No. 9 Texas Tech beats TCU 48-27 to secure spot against No. 2 Utah in Big 12 title game",
+   "TCU Horned Frogs vs. Texas Tech Red Raiders: Full Highlights",
+   "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment"
   ],
   "odds": {
    "mlAway": "+190",
    "mlAwayOpen": "+150",
    "mlHome": "-230",
    "mlHomeOpen": "-180",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "ODU -6",
    "spreadOpen": "ODU -4.5",
    "total": "50.5",
@@ -6355,113 +5550,8 @@
   "stars": 2,
   "start": "2026-11-28T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "S.B. Ballard Stadium, Norfolk"
- },
- "nfl-401873079": {
-  "away": {
-   "abbr": "GB",
-   "form": "LWWLW",
-   "injuries": [],
-   "name": "Green Bay Packers",
-   "record": "6-4",
-   "short": "Packers",
-   "teamId": "9"
-  },
-  "confidence": 55,
-  "espnId": "401873079",
-  "espnLeague": "nfl",
-  "espnSport": "football",
-  "espnWinProb": {
-   "away": 32.6,
-   "home": 67.2
-  },
-  "home": {
-   "abbr": "LAR",
-   "form": "WWWWL",
-   "injuries": [
-    "Coleman Shelton (C) – Out, Hamstring",
-    "Terrance Ferguson (TE) – Injured Reserve, Ankle",
-    "Davante Adams (WR) – Injured Reserve, Hamstring",
-    "Puka Nacua (WR) – Injured Reserve, Knee - MCL",
-    "Steve Avila (G) – Out, Hamstring"
-   ],
-   "name": "Los Angeles Rams",
-   "record": "6-4",
-   "short": "Rams",
-   "teamId": "14"
-  },
-  "id": "nfl-401873079",
-  "injuriesRaw": {
-   "away": [],
-   "home": [
-    {
-     "detail": "Hamstring",
-     "player": "Coleman Shelton",
-     "pos": "C",
-     "stale": false,
-     "status": "Out"
-    },
-    {
-     "detail": "Ankle",
-     "player": "Terrance Ferguson",
-     "pos": "TE",
-     "stale": false,
-     "status": "Injured Reserve"
-    },
-    {
-     "detail": "Hamstring",
-     "player": "Davante Adams",
-     "pos": "WR",
-     "stale": false,
-     "status": "Injured Reserve"
-    },
-    {
-     "detail": "Knee - MCL",
-     "player": "Puka Nacua",
-     "pos": "WR",
-     "stale": false,
-     "status": "Injured Reserve"
-    },
-    {
-     "detail": "Hamstring",
-     "player": "Steve Avila",
-     "pos": "G",
-     "stale": false,
-     "status": "Out"
-    }
-   ]
-  },
-  "league": "NFL",
-  "link": "https://www.espn.com/nfl/game/_/gameId/401873079",
-  "news": [
-   "Aaron Rodgers' comments on 'The Pat McAfee Show' draw NFL reaction",
-   "Steelers players try to keep focus on Broncos amid Aaron Rodgers fallout",
-   "Sources: Mike McCarthy has Steelers' full support after Aaron Rodgers interview"
-  ],
-  "odds": {
-   "mlAway": "+117",
-   "mlAwayOpen": "+164",
-   "mlHome": "-138",
-   "mlHomeOpen": "-198",
-   "provider": "Draft Kings",
-   "spread": "LAR -2.5",
-   "spreadOpen": "LAR -3.5",
-   "total": "43.5",
-   "totalOpen": "49.5"
-  },
-  "pick": "Pass",
-  "reason": "LAR about 56% no-vig at -138; no edge worth a pick.",
-  "risks": [
-   "line drifted away (-198 → -138)"
-  ],
-  "slug": "nfl",
-  "sport": "nfl",
-  "stars": 1,
-  "start": "2026-11-26T01:00Z",
-  "state": "in",
-  "updatedAt": "2026-11-25T22:41:04Z",
-  "venue": "SoFi Stadium, Inglewood"
  },
  "nfl-401873080": {
   "_lastPick": "DAL ML (-431)",
@@ -6727,7 +5817,7 @@
     "Kenneth Walker III (RB) – Out, Groin"
    ],
    "name": "Kansas City Chiefs",
-   "record": "8-2",
+   "record": "8-3",
    "short": "Chiefs",
    "teamId": "12"
   },
@@ -6744,7 +5834,7 @@
    "form": "WWWWW",
    "injuries": [],
    "name": "Buffalo Bills",
-   "record": "9-1",
+   "record": "10-1",
    "short": "Bills",
    "teamId": "2"
   },
@@ -6802,7 +5892,7 @@
   "sport": "nfl",
   "stars": 1,
   "start": "2026-11-27T01:20Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Highmark Stadium, Orchard Park"
  },
@@ -6811,10 +5901,9 @@
    "abbr": "DEN",
    "form": "WWWWW",
    "injuries": [
-    "Tyler Badie (RB) – Injured Reserve, Thumb",
-    "Sai'vion Jones (DE) – Out, Hamstring",
-    "Taylor Rapp (S) – Out, Quadriceps",
-    "Jonah Elliss (LB) – Injured Reserve, Ankle"
+    "Sai'vion Jones (DE) – Injured Reserve, Hamstring",
+    "Caleb Lohner (TE) – Injured Reserve, Foot",
+    "Taylor Rapp (S) – Out, Quadriceps"
    ],
    "name": "Denver Broncos",
    "record": "8-2",
@@ -6833,9 +5922,9 @@
    "abbr": "PIT",
    "form": "LLWWW",
    "injuries": [
+    "Gennings Dunker (G) – Injured Reserve, Knee",
     "Alex Highsmith (LB) – Out, Ankle",
     "Ben Skowronek (WR) – Injured Reserve, Calf",
-    "Gennings Dunker (G) – Injured Reserve, Knee",
     "Mason McCormick (G) – Injured Reserve, Ankle"
    ],
    "name": "Pittsburgh Steelers",
@@ -6847,18 +5936,18 @@
   "injuriesRaw": {
    "away": [
     {
-     "detail": "Thumb",
-     "player": "Tyler Badie",
-     "pos": "RB",
-     "stale": false,
-     "status": "Injured Reserve"
-    },
-    {
      "detail": "Hamstring",
      "player": "Sai'vion Jones",
      "pos": "DE",
      "stale": false,
-     "status": "Out"
+     "status": "Injured Reserve"
+    },
+    {
+     "detail": "Foot",
+     "player": "Caleb Lohner",
+     "pos": "TE",
+     "stale": false,
+     "status": "Injured Reserve"
     },
     {
      "detail": "Quadriceps",
@@ -6866,16 +5955,16 @@
      "pos": "S",
      "stale": false,
      "status": "Out"
-    },
-    {
-     "detail": "Ankle",
-     "player": "Jonah Elliss",
-     "pos": "LB",
-     "stale": false,
-     "status": "Injured Reserve"
     }
    ],
    "home": [
+    {
+     "detail": "Knee",
+     "player": "Gennings Dunker",
+     "pos": "G",
+     "stale": false,
+     "status": "Injured Reserve"
+    },
     {
      "detail": "Ankle",
      "player": "Alex Highsmith",
@@ -6891,13 +5980,6 @@
      "status": "Injured Reserve"
     },
     {
-     "detail": "Knee",
-     "player": "Gennings Dunker",
-     "pos": "G",
-     "stale": false,
-     "status": "Injured Reserve"
-    },
-    {
      "detail": "Ankle",
      "player": "Mason McCormick",
      "pos": "G",
@@ -6909,32 +5991,32 @@
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873083",
   "news": [
-   "NFL Week 12: Highlights of Thanksgiving games",
-   "Eagles' Cooper DeJean leaves game at Cowboys because of concussion",
-   "Aaron Rodgers officially a free agent after clearing waivers"
+   "Kansas City Chiefs vs. Buffalo Bills: Game Highlight",
+   "Tyler Bass hits 57-yard field goal as time expires to lift Bills past Chiefs, 13-10",
+   "Eagles QB Joe Milton wows teammates with breakout game in Dallas"
   ],
   "odds": {
-   "mlAway": "-254",
+   "mlAway": "-247",
    "mlAwayOpen": "-118",
-   "mlHome": "+209",
+   "mlHome": "+204",
    "mlHomeOpen": "-102",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "DEN -4.5",
    "spreadOpen": "DEN -1.5",
-   "total": "36.5",
+   "total": "37.5",
    "totalOpen": "41.5"
   },
   "pick": "Pass",
-  "reason": "DEN about 69% no-vig at -254; no edge worth a pick.",
+  "reason": "DEN about 68% no-vig at -247; no edge worth a pick.",
   "risks": [
-   "ESPN model only 48% vs market 69%"
+   "ESPN model only 48% vs market 68%"
   ],
   "slug": "nfl",
   "sport": "nfl",
   "stars": 1,
   "start": "2026-11-27T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Acrisure Stadium, Pittsburgh"
  },
  "nfl-401873084": {
@@ -6984,16 +6066,16 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873084",
   "market": "Moneyline",
   "news": [
-   "NFL Week 12: Highlights of Thanksgiving games",
-   "Eagles' Cooper DeJean leaves game at Cowboys because of concussion",
-   "Aaron Rodgers officially a free agent after clearing waivers"
+   "Kansas City Chiefs vs. Buffalo Bills: Game Highlight",
+   "Tyler Bass hits 57-yard field goal as time expires to lift Bills past Chiefs, 13-10",
+   "Eagles QB Joe Milton wows teammates with breakout game in Dallas"
   ],
   "odds": {
    "mlAway": "+252",
    "mlAwayOpen": "+180",
    "mlHome": "-310",
    "mlHomeOpen": "-218",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "MIN -7",
    "spreadOpen": "MIN -4.5",
    "total": "41.5",
@@ -7008,7 +6090,7 @@
   "stars": 4,
   "start": "2026-11-29T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "U.S. Bank Stadium, Minneapolis"
  },
  "nfl-401873085": {
@@ -7042,16 +6124,16 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873085",
   "market": "Moneyline",
   "news": [
-   "NFL Week 12: Highlights of Thanksgiving games",
-   "Eagles' Cooper DeJean leaves game at Cowboys because of concussion",
-   "Aaron Rodgers officially a free agent after clearing waivers"
+   "Kansas City Chiefs vs. Buffalo Bills: Game Highlight",
+   "Tyler Bass hits 57-yard field goal as time expires to lift Bills past Chiefs, 13-10",
+   "Eagles QB Joe Milton wows teammates with breakout game in Dallas"
   ],
   "odds": {
    "mlAway": "+267",
    "mlAwayOpen": "-102",
    "mlHome": "-332",
    "mlHomeOpen": "-118",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "HOU -6.5",
    "spreadOpen": "HOU -1.5",
    "total": "47.5",
@@ -7066,8 +6148,92 @@
   "stars": 5,
   "start": "2026-11-29T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Reliant Stadium, Houston"
+ },
+ "nfl-401873086": {
+  "_lastPick": "CLE ML (-244)",
+  "away": {
+   "abbr": "LV",
+   "form": "LLLWL",
+   "injuries": [
+    "Patrick Johnson (DE) – Injured Reserve, Neck"
+   ],
+   "name": "Las Vegas Raiders",
+   "record": "4-7",
+   "short": "Raiders",
+   "teamId": "13"
+  },
+  "confidence": 65,
+  "espnId": "401873086",
+  "espnLeague": "nfl",
+  "espnSport": "football",
+  "espnWinProb": {
+   "away": 32.1,
+   "home": 67.6
+  },
+  "home": {
+   "abbr": "CLE",
+   "form": "WLLWW",
+   "injuries": [
+    "Raheim Sanders (RB) – Injured Reserve, Hip"
+   ],
+   "name": "Cleveland Browns",
+   "record": "6-4",
+   "short": "Browns",
+   "teamId": "5"
+  },
+  "id": "nfl-401873086",
+  "injuriesRaw": {
+   "away": [
+    {
+     "detail": "Neck",
+     "player": "Patrick Johnson",
+     "pos": "DE",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ],
+   "home": [
+    {
+     "detail": "Hip",
+     "player": "Raheim Sanders",
+     "pos": "RB",
+     "stale": false,
+     "status": "Injured Reserve"
+    }
+   ]
+  },
+  "league": "NFL",
+  "link": "https://www.espn.com/nfl/game/_/gameId/401873086",
+  "market": "Moneyline",
+  "news": [
+   "Kansas City Chiefs vs. Buffalo Bills: Game Highlight",
+   "Tyler Bass hits 57-yard field goal as time expires to lift Bills past Chiefs, 13-10",
+   "Eagles QB Joe Milton wows teammates with breakout game in Dallas"
+  ],
+  "odds": {
+   "mlAway": "+201",
+   "mlAwayOpen": "+110",
+   "mlHome": "-244",
+   "mlHomeOpen": "-130",
+   "provider": "DraftKings",
+   "spread": "CLE -4.5",
+   "spreadOpen": "CLE -2.5",
+   "total": "40.5",
+   "totalOpen": "39.5"
+  },
+  "pick": "CLE ML (-244)",
+  "reason": "CLE are about 68% no-vig at -244; ESPN's model has 68%. For: line moved toward CLE (-130 → -244).",
+  "risks": [],
+  "side": "home",
+  "slug": "nfl",
+  "sport": "nfl",
+  "stars": 3,
+  "start": "2026-11-30T01:20Z",
+  "state": "pre",
+  "updatedAt": "2026-11-27T04:57:20Z",
+  "venue": "Huntington Bank Field, Cleveland"
  },
  "nfl-401873087": {
   "_lastPick": "CIN ML (-562)",
@@ -7139,16 +6305,16 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873087",
   "market": "Moneyline",
   "news": [
-   "NFL Week 12: Highlights of Thanksgiving games",
-   "Eagles' Cooper DeJean leaves game at Cowboys because of concussion",
-   "Aaron Rodgers officially a free agent after clearing waivers"
+   "Kansas City Chiefs vs. Buffalo Bills: Game Highlight",
+   "Tyler Bass hits 57-yard field goal as time expires to lift Bills past Chiefs, 13-10",
+   "Eagles QB Joe Milton wows teammates with breakout game in Dallas"
   ],
   "odds": {
    "mlAway": "+423",
    "mlAwayOpen": "+235",
    "mlHome": "-562",
    "mlHomeOpen": "-290",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "CIN -10",
    "spreadOpen": "CIN -6.5",
    "total": "49.5",
@@ -7163,11 +6329,11 @@
   "stars": 3,
   "start": "2026-11-29T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Paycor Stadium, Cincinnati"
  },
  "nfl-401873088": {
-  "_lastPick": "NYG ML (-286)",
+  "_lastPick": "NYG ML (-287)",
   "away": {
    "abbr": "NYG",
    "form": "WLWWL",
@@ -7229,23 +6395,23 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873088",
   "market": "Moneyline",
   "news": [
-   "NFL Week 12: Highlights of Thanksgiving games",
-   "Eagles' Cooper DeJean leaves game at Cowboys because of concussion",
-   "Aaron Rodgers officially a free agent after clearing waivers"
+   "Kansas City Chiefs vs. Buffalo Bills: Game Highlight",
+   "Tyler Bass hits 57-yard field goal as time expires to lift Bills past Chiefs, 13-10",
+   "Eagles QB Joe Milton wows teammates with breakout game in Dallas"
   ],
   "odds": {
-   "mlAway": "-286",
+   "mlAway": "-287",
    "mlAwayOpen": "+114",
-   "mlHome": "+235",
+   "mlHome": "+236",
    "mlHomeOpen": "-135",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "NYG -6",
    "spreadOpen": "IND -2.5",
    "total": "41.5",
    "totalOpen": "47.5"
   },
-  "pick": "NYG ML (-286)",
-  "reason": "NYG are about 71% no-vig at -286; ESPN's model has 46%. For: line moved toward NYG (+114 → -286).",
+  "pick": "NYG ML (-287)",
+  "reason": "NYG are about 71% no-vig at -287; ESPN's model has 46%. For: line moved toward NYG (+114 → -287).",
   "risks": [
    "ESPN model only 46% vs market 71%"
   ],
@@ -7255,11 +6421,11 @@
   "stars": 2,
   "start": "2026-11-29T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Lucas Oil Stadium, Indianapolis"
  },
  "nfl-401873089": {
-  "_lastPick": "NYJ ML (-241)",
+  "_lastPick": "NYJ ML (-246)",
   "away": {
    "abbr": "NYJ",
    "form": "WLLLL",
@@ -7272,7 +6438,7 @@
    "short": "Jets",
    "teamId": "20"
   },
-  "confidence": 65,
+  "confidence": 66,
   "espnId": "401873089",
   "espnLeague": "nfl",
   "espnSport": "football",
@@ -7313,23 +6479,23 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873089",
   "market": "Moneyline",
   "news": [
-   "NFL Week 12: Highlights of Thanksgiving games",
-   "Eagles' Cooper DeJean leaves game at Cowboys because of concussion",
-   "Aaron Rodgers officially a free agent after clearing waivers"
+   "Kansas City Chiefs vs. Buffalo Bills: Game Highlight",
+   "Tyler Bass hits 57-yard field goal as time expires to lift Bills past Chiefs, 13-10",
+   "Eagles QB Joe Milton wows teammates with breakout game in Dallas"
   ],
   "odds": {
-   "mlAway": "-241",
+   "mlAway": "-246",
    "mlAwayOpen": "+105",
-   "mlHome": "+200",
+   "mlHome": "+204",
    "mlHomeOpen": "-125",
-   "provider": "Draft Kings",
-   "spread": "NYJ -4.5",
+   "provider": "DraftKings",
+   "spread": "NYJ -5.5",
    "spreadOpen": "MIA -1.5",
    "total": "39.5",
    "totalOpen": "41.5"
   },
-  "pick": "NYJ ML (-241)",
-  "reason": "NYJ are about 68% no-vig at -241; ESPN's model has 69%. For: line moved toward NYJ (+105 → -241).",
+  "pick": "NYJ ML (-246)",
+  "reason": "NYJ are about 68% no-vig at -246; ESPN's model has 69%. For: line moved toward NYJ (+105 → -246).",
   "risks": [],
   "side": "away",
   "slug": "nfl",
@@ -7337,7 +6503,7 @@
   "stars": 3,
   "start": "2026-11-29T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Hard Rock Stadium, Miami Gardens"
  },
  "nfl-401873090": {
@@ -7397,16 +6563,16 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873090",
   "market": "Moneyline",
   "news": [
-   "NFL Week 12: Highlights of Thanksgiving games",
-   "Eagles' Cooper DeJean leaves game at Cowboys because of concussion",
-   "Aaron Rodgers officially a free agent after clearing waivers"
+   "Kansas City Chiefs vs. Buffalo Bills: Game Highlight",
+   "Tyler Bass hits 57-yard field goal as time expires to lift Bills past Chiefs, 13-10",
+   "Eagles QB Joe Milton wows teammates with breakout game in Dallas"
   ],
   "odds": {
    "mlAway": "+780",
    "mlAwayOpen": "+210",
    "mlHome": "-1260",
    "mlHomeOpen": "-258",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "JAX -14.5",
    "spreadOpen": "JAX -5.5",
    "total": "49.5",
@@ -7421,7 +6587,7 @@
   "stars": 3,
   "start": "2026-11-29T18:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "EverBank Stadium, Jacksonville"
  },
  "nfl-401873091": {
@@ -7479,16 +6645,16 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873091",
   "market": "Moneyline",
   "news": [
-   "NFL Week 12: Highlights of Thanksgiving games",
-   "Eagles' Cooper DeJean leaves game at Cowboys because of concussion",
-   "Aaron Rodgers officially a free agent after clearing waivers"
+   "Kansas City Chiefs vs. Buffalo Bills: Game Highlight",
+   "Tyler Bass hits 57-yard field goal as time expires to lift Bills past Chiefs, 13-10",
+   "Eagles QB Joe Milton wows teammates with breakout game in Dallas"
   ],
   "odds": {
    "mlAway": "+129",
    "mlAwayOpen": "-108",
    "mlHome": "-152",
    "mlHomeOpen": "-112",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "SF -3",
    "spreadOpen": "SF -1.5",
    "total": "43.5",
@@ -7503,7 +6669,7 @@
   "stars": 2,
   "start": "2026-11-29T21:25Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Levi's Stadium, Santa Clara"
  },
  "nfl-401873092": {
@@ -7570,16 +6736,16 @@
   "link": "https://www.espn.com/nfl/game/_/gameId/401873092",
   "market": "Moneyline",
   "news": [
-   "NFL Week 12: Highlights of Thanksgiving games",
-   "Eagles' Cooper DeJean leaves game at Cowboys because of concussion",
-   "Aaron Rodgers officially a free agent after clearing waivers"
+   "Kansas City Chiefs vs. Buffalo Bills: Game Highlight",
+   "Tyler Bass hits 57-yard field goal as time expires to lift Bills past Chiefs, 13-10",
+   "Eagles QB Joe Milton wows teammates with breakout game in Dallas"
   ],
   "odds": {
    "mlAway": "-352",
    "mlAwayOpen": "-218",
    "mlHome": "+282",
    "mlHomeOpen": "+180",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "WSH -6.5",
    "spreadOpen": "WSH -4.5",
    "total": "41.5",
@@ -7596,7 +6762,7 @@
   "stars": 2,
   "start": "2026-11-29T21:25Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "State Farm Stadium, Glendale"
  },
  "nfl-401873093": {
@@ -7662,16 +6828,16 @@
   "league": "NFL",
   "link": "https://www.espn.com/nfl/game/_/gameId/401873093",
   "news": [
-   "NFL Week 12: Highlights of Thanksgiving games",
-   "Eagles' Cooper DeJean leaves game at Cowboys because of concussion",
-   "Aaron Rodgers officially a free agent after clearing waivers"
+   "Kansas City Chiefs vs. Buffalo Bills: Game Highlight",
+   "Tyler Bass hits 57-yard field goal as time expires to lift Bills past Chiefs, 13-10",
+   "Eagles QB Joe Milton wows teammates with breakout game in Dallas"
   ],
   "odds": {
    "mlAway": "-137",
    "mlAwayOpen": "+114",
    "mlHome": "+116",
    "mlHomeOpen": "-135",
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "spread": "NE -2.5",
    "spreadOpen": "LAC -2.5",
    "total": "35.5",
@@ -7687,7 +6853,7 @@
   "stars": 1,
   "start": "2026-11-29T21:05Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "SoFi Stadium, Inglewood"
  },
  "soccer-401874769": {
@@ -7742,7 +6908,7 @@
   "stars": 2,
   "start": "2026-11-29T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Olimpico, Roma"
  },
  "soccer-401874826": {
@@ -7794,7 +6960,7 @@
   "stars": 1,
   "start": "2026-11-28T17:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Stadio Olimpico Grande Torino, Torino"
  },
  "soccer-401874977": {
@@ -7849,7 +7015,7 @@
   "stars": 2,
   "start": "2026-11-28T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "San Siro, Milano"
  },
  "soccer-401874992": {
@@ -7901,13 +7067,13 @@
   "stars": 1,
   "start": "2026-11-29T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Mapei Stadium, Reggio Emilia"
  },
  "soccer-401874994": {
   "away": {
    "abbr": "JUV",
-   "form": "WDWWL",
+   "form": "WWDWW",
    "name": "Juventus",
    "record": "6-3-3",
    "short": "Juventus",
@@ -7953,7 +7119,7 @@
   "stars": 1,
   "start": "2026-11-29T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Giuseppe Sinigaglia, Como"
  },
  "soccer-401875004": {
@@ -7965,7 +7131,7 @@
    "short": "Bologna",
    "teamId": "107"
   },
-  "confidence": 38,
+  "confidence": 37,
   "espnId": "401875004",
   "espnLeague": "ita.1",
   "espnSport": "soccer",
@@ -7986,28 +7152,28 @@
    "Lazio are top of Serie A despite playing without their fans"
   ],
   "odds": {
-   "mlAway": "+120",
+   "mlAway": "+125",
    "mlAwayOpen": "-105",
    "mlDraw": "+215",
-   "mlHome": "+225",
+   "mlHome": "+215",
    "mlHomeOpen": "+235",
    "provider": "DraftKings",
-   "spread": "BOL +120",
+   "spread": "BOL +125",
    "spreadOpen": "BOL -0.5",
    "total": "2.5",
    "totalOpen": "2.5"
   },
   "pick": "Pass",
-  "reason": "Bologna about 42% no-vig at +120; no edge worth a pick.",
+  "reason": "Bologna about 41% no-vig at +125; no edge worth a pick.",
   "risks": [
-   "line drifted away (-105 → +120)"
+   "line drifted away (-105 → +125)"
   ],
   "slug": "ita.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-27T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Stadio Pier Luigi Penzo, Venezia"
  },
  "soccer-401875031": {
@@ -8059,7 +7225,7 @@
   "stars": 1,
   "start": "2026-11-29T11:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Stadio Friuli, Udine"
  },
  "soccer-401875081": {
@@ -8114,13 +7280,13 @@
   "stars": 2,
   "start": "2026-11-28T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Stadio Benito Stirpe, Frosinone"
  },
  "soccer-401876386": {
   "away": {
    "abbr": "REN",
-   "form": "DLDLW",
+   "form": "LDLDL",
    "name": "Stade Rennais",
    "record": "5-2-4",
    "short": "Rennes",
@@ -8166,7 +7332,7 @@
   "stars": 1,
   "start": "2026-11-29T16:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Stadium Municipal de Toulouse, Toulouse"
  },
  "soccer-401876387": {
@@ -8221,7 +7387,7 @@
   "stars": 2,
   "start": "2026-11-28T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Parc des Princes, Paris"
  },
  "soccer-401876388": {
@@ -8273,13 +7439,13 @@
   "stars": 1,
   "start": "2026-11-28T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Allianz Riviera, Nice"
  },
  "soccer-401876389": {
   "away": {
    "abbr": "MON",
-   "form": "DDWLD",
+   "form": "WDDWL",
    "name": "AS Monaco",
    "record": "4-5-2",
    "short": "Monaco",
@@ -8291,7 +7457,7 @@
   "espnSport": "soccer",
   "home": {
    "abbr": "LYON",
-   "form": "WLDWL",
+   "form": "DWLDW",
    "name": "Lyon",
    "record": "6-2-3",
    "short": "Lyon",
@@ -8325,7 +7491,7 @@
   "stars": 1,
   "start": "2026-11-29T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Groupama Stadium, Lyon"
  },
  "soccer-401876390": {
@@ -8379,7 +7545,7 @@
   "stars": 1,
   "start": "2026-11-28T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Stade Marie-Marvingt, Le Mans"
  },
  "soccer-401876391": {
@@ -8431,7 +7597,7 @@
   "stars": 1,
   "start": "2026-11-28T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Stade Océane, Le Havre"
  },
  "soccer-401876392": {
@@ -8483,13 +7649,13 @@
   "stars": 1,
   "start": "2026-11-27T19:45Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Stade Francis-Le Blé, Brest"
  },
  "soccer-401876393": {
   "away": {
    "abbr": "OLM",
-   "form": "LWWWW",
+   "form": "WLWWW",
    "name": "Marseille",
    "record": "6-0-5",
    "short": "Marseille",
@@ -8535,7 +7701,7 @@
   "stars": 1,
   "start": "2026-11-29T14:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Stade de l'Abbé-Deschamps, Auxerre"
  },
  "soccer-401876394": {
@@ -8587,7 +7753,7 @@
   "stars": 1,
   "start": "2026-11-28T16:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Stade Raymond Kopa, Angers"
  },
  "soccer-401878752": {
@@ -8639,7 +7805,7 @@
   "stars": 1,
   "start": "2026-11-28T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Portman Road, Ipswich"
  },
  "soccer-401878753": {
@@ -8691,7 +7857,7 @@
   "stars": 1,
   "start": "2026-11-29T16:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Emirates Stadium, London"
  },
  "soccer-401879224": {
@@ -8703,13 +7869,13 @@
    "short": "Spurs",
    "teamId": "367"
   },
-  "confidence": 44,
+  "confidence": 45,
   "espnId": "401879224",
   "espnLeague": "eng.1",
   "espnSport": "soccer",
   "home": {
    "abbr": "SUN",
-   "form": "DWLLW",
+   "form": "DDWLL",
    "name": "Sunderland",
    "record": "2-3-6",
    "short": "Sunderland",
@@ -8743,7 +7909,7 @@
   "stars": 1,
   "start": "2026-11-29T14:05Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Stadium of Light, Sunderland"
  },
  "soccer-401879225": {
@@ -8795,7 +7961,7 @@
   "stars": 1,
   "start": "2026-11-27T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "The City Ground, Nottingham"
  },
  "soccer-401879226": {
@@ -8847,7 +8013,7 @@
   "stars": 1,
   "start": "2026-11-28T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Old Trafford, Manchester"
  },
  "soccer-401879227": {
@@ -8902,7 +8068,7 @@
   "stars": 2,
   "start": "2026-11-28T15:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Elland Road, Leeds"
  },
  "soccer-401879228": {
@@ -8954,7 +8120,7 @@
   "stars": 1,
   "start": "2026-11-29T14:05Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Craven Cottage, London"
  },
  "soccer-401879229": {
@@ -9006,7 +8172,7 @@
   "stars": 1,
   "start": "2026-11-29T12:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Hill Dickinson Stadium, Liverpool"
  },
  "soccer-401879230": {
@@ -9024,7 +8190,7 @@
   "espnSport": "soccer",
   "home": {
    "abbr": "CRY",
-   "form": "LLDLW",
+   "form": "WLLDL",
    "name": "Crystal Palace",
    "record": "2-1-8",
    "short": "C Palace",
@@ -9058,7 +8224,7 @@
   "stars": 1,
   "start": "2026-11-29T14:05Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Selhurst Park, London"
  },
  "soccer-401879231": {
@@ -9071,13 +8237,13 @@
    "short": "Newcastle",
    "teamId": "361"
   },
-  "confidence": 58,
+  "confidence": 59,
   "espnId": "401879231",
   "espnLeague": "eng.1",
   "espnSport": "soccer",
   "home": {
    "abbr": "BHA",
-   "form": "LWWWL",
+   "form": "WLWWW",
    "name": "Brighton & Hove Albion",
    "record": "7-1-3",
    "short": "Brighton",
@@ -9105,7 +8271,7 @@
    "totalOpen": "3.5"
   },
   "pick": "Brighton ML (-180)",
-  "reason": "Brighton are about 61% no-vig at -180.",
+  "reason": "Brighton are about 61% no-vig at -180. For: form WLWWW vs DDLLW.",
   "risks": [],
   "side": "home",
   "slug": "eng.1",
@@ -9113,7 +8279,7 @@
   "stars": 2,
   "start": "2026-11-29T14:05Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "American Express Stadium, Falmer"
  },
  "soccer-401882787": {
@@ -9165,7 +8331,7 @@
   "stars": 1,
   "start": "2026-11-29T13:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Mestalla Stadium, Manises"
  },
  "soccer-401882788": {
@@ -9183,7 +8349,7 @@
   "espnSport": "soccer",
   "home": {
    "abbr": "RSO",
-   "form": "LWDLW",
+   "form": "LLWDL",
    "name": "Real Sociedad",
    "record": "7-1-5",
    "short": "Real Sociedad",
@@ -9217,7 +8383,7 @@
   "stars": 1,
   "start": "2026-11-29T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Reale Arena, San Sebastian"
  },
  "soccer-401882789": {
@@ -9272,7 +8438,7 @@
   "stars": 3,
   "start": "2026-11-28T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Santiago Bernabéu, Madrid"
  },
  "soccer-401882790": {
@@ -9324,7 +8490,7 @@
   "stars": 1,
   "start": "2026-11-28T15:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "La Rosaleda, Malaga"
  },
  "soccer-401882791": {
@@ -9378,11 +8544,11 @@
   "stars": 1,
   "start": "2026-11-27T20:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Estadi Ciutat de València, Manises"
  },
  "soccer-401882793": {
-  "_lastPick": "Atlético ML (-210)",
+  "_lastPick": "Atlético ML (-215)",
   "away": {
    "abbr": "ATM",
    "form": "WWLLW",
@@ -9391,7 +8557,7 @@
    "short": "Atlético",
    "teamId": "1068"
   },
-  "confidence": 61,
+  "confidence": 62,
   "espnId": "401882793",
   "espnLeague": "esp.1",
   "espnSport": "soccer",
@@ -9413,19 +8579,19 @@
    "Barcelona to appeal Fermín López's two-match ban - sources"
   ],
   "odds": {
-   "mlAway": "-210",
+   "mlAway": "-215",
    "mlAwayOpen": "-180",
    "mlDraw": "+380",
-   "mlHome": "+500",
+   "mlHome": "+550",
    "mlHomeOpen": "+425",
    "provider": "DraftKings",
-   "spread": "ATM -210",
+   "spread": "ATM -215",
    "spreadOpen": "ATM -0.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
-  "pick": "Atlético ML (-210)",
-  "reason": "Atlético are about 64% no-vig at -210.",
+  "pick": "Atlético ML (-215)",
+  "reason": "Atlético are about 65% no-vig at -215.",
   "risks": [],
   "side": "away",
   "slug": "esp.1",
@@ -9433,7 +8599,7 @@
   "stars": 2,
   "start": "2026-11-28T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Estadio Martínez Valero, Elche"
  },
  "soccer-401882794": {
@@ -9488,7 +8654,7 @@
   "stars": 3,
   "start": "2026-11-29T15:15Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Riazor, La Coruña"
  },
  "soccer-401882795": {
@@ -9506,7 +8672,7 @@
   "espnSport": "soccer",
   "home": {
    "abbr": "CEL",
-   "form": "LWDLL",
+   "form": "LLWDL",
    "name": "Celta Vigo",
    "record": "2-7-4",
    "short": "Celta Vigo",
@@ -9540,7 +8706,7 @@
   "stars": 1,
   "start": "2026-11-29T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Balaidos, Vigo"
  },
  "soccer-401882796": {
@@ -9592,7 +8758,7 @@
   "stars": 1,
   "start": "2026-11-28T13:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Estadio La Cartuja, Sevilla"
  },
  "soccer-401884719": {
@@ -9644,7 +8810,7 @@
   "stars": 1,
   "start": "2026-11-28T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Home Deluxe Arena, Paderborn"
  },
  "soccer-401884720": {
@@ -9696,7 +8862,7 @@
   "stars": 1,
   "start": "2026-11-27T19:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Weserstadion, Bremen"
  },
  "soccer-401884721": {
@@ -9748,7 +8914,7 @@
   "stars": 1,
   "start": "2026-11-28T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "RheinEnergieStadion, Cologne"
  },
  "soccer-401884722": {
@@ -9783,7 +8949,7 @@
   "stars": 1,
   "start": "2026-11-28T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Volksparkstadion, Hamburg Norderstedt"
  },
  "soccer-401884723": {
@@ -9838,7 +9004,7 @@
   "stars": 2,
   "start": "2026-11-28T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "MEWA ARENA, Mainz"
  },
  "soccer-401884724": {
@@ -9892,7 +9058,7 @@
   "stars": 1,
   "start": "2026-11-29T14:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Europa-Park Stadion, Freiburg im Breisgau"
  },
  "soccer-401884725": {
@@ -9910,7 +9076,7 @@
   "espnSport": "soccer",
   "home": {
    "abbr": "TSG",
-   "form": "LWDLL",
+   "form": "WLWDL",
    "name": "TSG Hoffenheim",
    "record": "4-0-6",
    "short": "Hoffenheim",
@@ -9944,7 +9110,7 @@
   "stars": 1,
   "start": "2026-11-29T16:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "PreZero Arena, Sinsheim"
  },
  "soccer-401884726": {
@@ -9996,13 +9162,13 @@
   "stars": 1,
   "start": "2026-11-28T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "MHPArena, Stuttgart"
  },
  "soccer-401884727": {
   "away": {
    "abbr": "B04",
-   "form": "WWLLW",
+   "form": "WWWLL",
    "name": "Bayer Leverkusen",
    "record": "6-1-3",
    "short": "Leverkusen",
@@ -10048,7 +9214,7 @@
   "stars": 1,
   "start": "2026-11-29T18:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Signal Iduna Park, Aue"
  },
  "soccer-401915291": {
@@ -11083,60 +10249,42 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-27T01:00Z",
-  "state": "pre",
+  "state": "post",
   "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Estadio Hidalgo, Pachuca"
  },
- "soccer-401931986": {
-  "_lastPick": "Toluca ML (-230)",
+ "soccer-401931983": {
   "away": {
-   "abbr": "ATS",
-   "form": "DLWWL",
-   "name": "Atlas",
-   "short": "Atlas",
-   "teamId": "216"
+   "abbr": "PAC",
+   "name": "Pachuca",
+   "short": "Pachuca",
+   "teamId": "234"
   },
-  "confidence": 63,
-  "espnId": "401931986",
+  "espnId": "401931983",
   "espnLeague": "mex.1",
   "espnSport": "soccer",
   "home": {
-   "abbr": "TOL",
-   "form": "LWDDD",
-   "name": "Toluca",
-   "short": "Toluca",
-   "teamId": "223"
+   "abbr": "GDL",
+   "name": "Guadalajara",
+   "short": "Guadalajara",
+   "teamId": "219"
   },
-  "id": "soccer-401931986",
+  "id": "soccer-401931983",
   "league": "Liga MX",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401931986",
-  "market": "Moneyline",
-  "news": [
-   "Liga MX Apertura playoff preview: Will Cruz Azul win back-to-back titles?"
-  ],
+  "link": "https://www.espn.com/soccer/match/_/gameId/401931983",
   "odds": {
-   "mlAway": "+550",
-   "mlAwayOpen": "+500",
-   "mlDraw": "+400",
-   "mlHome": "-230",
-   "mlHomeOpen": "-230",
-   "provider": "DraftKings",
-   "spread": "TOL -230",
-   "spreadOpen": "TOL -1.5",
-   "total": "3.5",
-   "totalOpen": "3.5"
+   "provider": "DraftKings"
   },
-  "pick": "Toluca ML (-230)",
-  "reason": "Toluca are about 66% no-vig at -230.",
+  "pick": "Pass",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
   "risks": [],
-  "side": "home",
   "slug": "mex.1",
   "sport": "soccer",
-  "stars": 2,
-  "start": "2026-11-26T01:00Z",
-  "state": "post",
-  "updatedAt": "2026-11-25T22:41:04Z",
-  "venue": "Estadio Nemesio Díez Riega, Toluca"
+  "stars": 1,
+  "start": "2026-11-30T01:07Z",
+  "state": "pre",
+  "updatedAt": "2026-11-27T04:57:20Z",
+  "venue": "Estadio Akron, Guadalajara"
  },
  "soccer-401931995": {
   "away": {
@@ -11166,8 +10314,8 @@
   "odds": {
    "mlAway": "+115",
    "mlAwayOpen": "+120",
-   "mlDraw": "+260",
-   "mlHome": "+220",
+   "mlDraw": "+250",
+   "mlHome": "+230",
    "mlHomeOpen": "+210",
    "provider": "DraftKings",
    "spread": "CAZ +115",
@@ -11182,7 +10330,7 @@
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-27T03:10Z",
-  "state": "pre",
+  "state": "in",
   "updatedAt": "2026-11-26T23:04:26Z",
   "venue": "Estadio León, León de los Aldamas"
  },
@@ -11212,9 +10360,9 @@
    "Liga MX Apertura playoff preview: Will Cruz Azul win back-to-back titles?"
   ],
   "odds": {
-   "mlAway": "+235",
+   "mlAway": "+230",
    "mlAwayOpen": "+230",
-   "mlDraw": "+195",
+   "mlDraw": "+200",
    "mlHome": "+130",
    "mlHomeOpen": "+160",
    "provider": "DraftKings",
@@ -11233,7 +10381,7 @@
   "stars": 1,
   "start": "2026-11-29T03:10Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Estadio Banorte, Mexico City"
  },
  "soccer-401931997": {
@@ -11266,56 +10414,41 @@
   "stars": 1,
   "start": "2026-11-29T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Estadio Jalisco, Guadalajara"
  },
- "soccer-401931998": {
+ "soccer-401932000": {
   "away": {
-   "abbr": "AME",
-   "form": "LLDDD",
-   "name": "América",
-   "short": "América",
-   "teamId": "227"
+   "abbr": "LEO",
+   "name": "León",
+   "short": "León",
+   "teamId": "228"
   },
-  "confidence": 39,
-  "espnId": "401931998",
+  "espnId": "401932000",
   "espnLeague": "mex.1",
   "espnSport": "soccer",
   "home": {
-   "abbr": "MTY",
-   "form": "WWLDL",
-   "name": "Monterrey",
-   "short": "Monterrey",
-   "teamId": "220"
+   "abbr": "CAZ",
+   "name": "Cruz Azul",
+   "short": "Cruz Azul",
+   "teamId": "218"
   },
-  "id": "soccer-401931998",
+  "id": "soccer-401932000",
   "league": "Liga MX",
-  "link": "https://www.espn.com/soccer/match/_/gameId/401931998",
-  "news": [
-   "Liga MX Apertura playoff preview: Will Cruz Azul win back-to-back titles?"
-  ],
+  "link": "https://www.espn.com/soccer/match/_/gameId/401932000",
   "odds": {
-   "mlAway": "+240",
-   "mlAwayOpen": "+190",
-   "mlDraw": "+245",
-   "mlHome": "+110",
-   "mlHomeOpen": "+135",
-   "provider": "DraftKings",
-   "spread": "MTY +110",
-   "spreadOpen": "MTY -0.5",
-   "total": "2.5",
-   "totalOpen": "2.5"
+   "provider": "DraftKings"
   },
   "pick": "Pass",
-  "reason": "Monterrey about 42% no-vig at +125; no edge worth a pick.",
+  "reason": "No moneyline posted yet; Pass until a price appears.",
   "risks": [],
   "slug": "mex.1",
   "sport": "soccer",
   "stars": 1,
-  "start": "2026-11-26T03:10Z",
-  "state": "in",
-  "updatedAt": "2026-11-25T22:41:04Z",
-  "venue": "Estadio BBVA, Guadalupe"
+  "start": "2026-11-30T03:00Z",
+  "state": "pre",
+  "updatedAt": "2026-11-27T04:57:20Z",
+  "venue": "Estadio Banorte, Mexico City"
  },
  "soccer-401933721": {
   "away": {
@@ -11364,7 +10497,7 @@
   "stars": 1,
   "start": "2026-11-29T03:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Providence Park, Portland, Oregon"
  },
  "soccer-401933722": {
@@ -11414,7 +10547,7 @@
   "stars": 1,
   "start": "2026-11-28T23:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "TQL Stadium, Cincinnati, Ohio"
  },
  "soccer-401933723": {
@@ -11466,7 +10599,7 @@
   "stars": 1,
   "start": "2026-11-28T21:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Subaru Park, Chester, Pennsylvania"
  },
  "soccer-401933724": {
@@ -11516,7 +10649,7 @@
   "stars": 1,
   "start": "2026-11-28T19:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Shell Energy Stadium, Houston, Texas"
  },
  "soccer-401933725": {
@@ -11527,7 +10660,7 @@
    "short": "Vancouver",
    "teamId": "9727"
   },
-  "confidence": 37,
+  "confidence": 36,
   "espnId": "401933725",
   "espnLeague": "usa.1",
   "espnSport": "soccer",
@@ -11547,26 +10680,26 @@
    "Is your team out of the MLS playoffs? Adopt these chaos clubs as your 2nd side"
   ],
   "odds": {
-   "mlAway": "+130",
+   "mlAway": "+135",
    "mlAwayOpen": "+135",
    "mlDraw": "+260",
-   "mlHome": "+170",
+   "mlHome": "+165",
    "mlHomeOpen": "+160",
    "provider": "DraftKings",
-   "spread": "VAN +130",
+   "spread": "VAN +135",
    "spreadOpen": "VAN -0.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
   "pick": "Pass",
-  "reason": "Vancouver about 40% no-vig at +130; no edge worth a pick.",
+  "reason": "Vancouver about 39% no-vig at +135; no edge worth a pick.",
   "risks": [],
   "slug": "usa.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-28T03:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "America First Field, Sandy, Utah"
  },
  "soccer-401933726": {
@@ -11618,7 +10751,7 @@
   "stars": 1,
   "start": "2026-11-29T01:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "BMO Stadium, Los Angeles, California"
  },
  "soccer-401933727": {
@@ -11629,7 +10762,7 @@
    "short": "Miami",
    "teamId": "20232"
   },
-  "confidence": 35,
+  "confidence": 36,
   "espnId": "401933727",
   "espnLeague": "usa.1",
   "espnSport": "soccer",
@@ -11649,28 +10782,26 @@
    "Is your team out of the MLS playoffs? Adopt these chaos clubs as your 2nd side"
   ],
   "odds": {
-   "mlAway": "+135",
+   "mlAway": "+145",
    "mlAwayOpen": "+150",
-   "mlDraw": "+285",
-   "mlHome": "+150",
+   "mlDraw": "+280",
+   "mlHome": "+145",
    "mlHomeOpen": "+135",
    "provider": "DraftKings",
-   "spread": "MIA +135",
+   "spread": "CLB +145",
    "spreadOpen": "CLB -0.5",
    "total": "3.5",
    "totalOpen": "3.5"
   },
   "pick": "Pass",
-  "reason": "Miami about 39% no-vig at +135; no edge worth a pick.",
-  "risks": [
-   "opponent in better form (WWWWW)"
-  ],
+  "reason": "Columbus about 38% no-vig at +145; no edge worth a pick.",
+  "risks": [],
   "slug": "usa.1",
   "sport": "soccer",
   "stars": 1,
   "start": "2026-11-28T01:00Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "ScottsMiracle-Gro Field, Columbus, Ohio"
  },
  "soccer-401933737": {
@@ -11720,7 +10851,7 @@
   "stars": 1,
   "start": "2026-11-28T17:30Z",
   "state": "pre",
-  "updatedAt": "2026-11-26T23:04:26Z",
+  "updatedAt": "2026-11-27T04:57:20Z",
   "venue": "Bank of America Stadium, Charlotte, North Carolina"
  }
 }

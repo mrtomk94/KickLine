@@ -1,0 +1,156 @@
+{
+ "id": "ncaaf-401856879",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-27T01:00Z",
+ "home": {
+  "name": "#11 Texas Tech",
+  "abbr": "TTU",
+  "teamId": "2641",
+  "score": 48.0
+ },
+ "away": {
+  "name": "TCU Horned Frogs",
+  "abbr": "TCU",
+  "teamId": "2628",
+  "score": 27.0
+ },
+ "odds": {
+  "mlAway": "+455",
+  "mlAwayOpen": "+575",
+  "mlHome": "-625",
+  "mlHomeOpen": "-850",
+  "provider": "Draft Kings",
+  "spread": "TTU -14",
+  "spreadOpen": "TTU -16.5",
+  "total": "46.5",
+  "totalOpen": "55.5"
+ },
+ "espnWinProb": {
+  "away": 17.7,
+  "home": 82.3
+ },
+ "teams": {
+  "away": {
+   "abbr": "TCU",
+   "stats": {
+    "firstDowns": "22",
+    "thirdDownEff": "9-18",
+    "fourthDownEff": "1-2",
+    "totalYards": "463",
+    "netPassingYards": "218",
+    "completionAttempts": "24/37",
+    "yardsPerPass": "5.9",
+    "rushingYards": "245",
+    "rushingAttempts": "49",
+    "yardsPerRushAttempt": "5.0",
+    "totalPenaltiesYards": "6-65",
+    "turnovers": "2",
+    "fumblesLost": "2",
+    "interceptions": "0",
+    "possessionTime": "37:31"
+   }
+  },
+  "home": {
+   "abbr": "TTU",
+   "stats": {
+    "firstDowns": "22",
+    "thirdDownEff": "3-8",
+    "fourthDownEff": "0-0",
+    "totalYards": "459",
+    "netPassingYards": "372",
+    "completionAttempts": "22/28",
+    "yardsPerPass": "13.3",
+    "rushingYards": "87",
+    "rushingAttempts": "24",
+    "yardsPerRushAttempt": "3.6",
+    "totalPenaltiesYards": "5-45",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "22:29"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "4:48",
+   "team": "TCU",
+   "text": "Kyle Lemmermann 33 Yd Field Goal  "
+  },
+  {
+   "period": 1,
+   "clock": "0:19",
+   "team": "TCU",
+   "text": "Ed Small 3 Yd pass from Adam Schobel (Kyle Lemmermann Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "12:52",
+   "team": "TTU",
+   "text": "Stone Harrington 54 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "5:54",
+   "team": "TTU",
+   "text": "Stone Harrington 39 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "2:08",
+   "team": "TTU",
+   "text": "Kenny Johnson 19 Yd pass from Thomas Castellanos (Stone Harrington Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "1:51",
+   "team": "TTU",
+   "text": "J'Koby Williams 21 Yd pass from Thomas Castellanos (Stone Harrington Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:53",
+   "team": "TTU",
+   "text": "Malcolm Simmons 79 Yd Punt Return (Stone Harrington Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "12:47",
+   "team": "TTU",
+   "text": "Malcolm Simmons 32 Yd pass from Thomas Castellanos (Stone Harrington Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "8:59",
+   "team": "TTU",
+   "text": "Terrance Carter Jr. 3 Yd Run (Stone Harrington Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "0:00",
+   "team": "TCU",
+   "text": "Kyle Lemmermann 32 Yd Field Goal "
+  },
+  {
+   "period": 4,
+   "clock": "11:20",
+   "team": "TTU",
+   "text": "Cameron Dickey 16 Yd Run (Stone Harrington Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "8:57",
+   "team": "TCU",
+   "text": "Ed Small 4 Yd pass from Adam Schobel (Kyle Lemmermann Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "1:07",
+   "team": "TCU",
+   "text": "Jacobe Hayes 11 Yd pass from Adam Schobel (Kyle Lemmermann Kick)"
+  }
+ ]
+}
