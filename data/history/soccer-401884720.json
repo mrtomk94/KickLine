@@ -1,0 +1,330 @@
+{
+ "id": "soccer-401884720",
+ "sport": "soccer",
+ "league": "Bundesliga",
+ "start": "2026-11-27T19:30Z",
+ "home": {
+  "name": "Werder Bremen",
+  "abbr": "SVW",
+  "teamId": "137",
+  "score": 3.0
+ },
+ "away": {
+  "name": "Borussia Mönchengladbach",
+  "abbr": "BMG",
+  "teamId": "268",
+  "score": 3.0
+ },
+ "odds": {
+  "mlAway": "+340",
+  "mlAwayOpen": "+280",
+  "mlDraw": "+310",
+  "mlHome": "-155",
+  "mlHomeOpen": "-145",
+  "provider": "DraftKings",
+  "spread": "SVW -155",
+  "spreadOpen": "SVW -0.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "SVW",
+   "stats": {
+    "foulsCommitted": "10",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "3",
+    "wonCorners": "7",
+    "saves": "3",
+    "possessionPct": "59.1",
+    "totalShots": "20",
+    "shotsOnTarget": "8",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "464",
+    "totalPasses": "553",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "17",
+    "crossPct": "0.2",
+    "totalLongBalls": "58",
+    "accurateLongBalls": "37",
+    "longballPct": "0.6",
+    "blockedShots": "5",
+    "effectiveTackles": "8",
+    "totalTackles": "16",
+    "tacklePct": "0.5",
+    "interceptions": "12",
+    "effectiveClearance": "29",
+    "totalClearance": "29"
+   }
+  },
+  "away": {
+   "abbr": "BMG",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "4",
+    "saves": "5",
+    "possessionPct": "40.9",
+    "totalShots": "20",
+    "shotsOnTarget": "6",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "297",
+    "totalPasses": "379",
+    "passPct": "0.8",
+    "accurateCrosses": "2",
+    "totalCrosses": "11",
+    "crossPct": "0.2",
+    "totalLongBalls": "47",
+    "accurateLongBalls": "16",
+    "longballPct": "0.3",
+    "blockedShots": "7",
+    "effectiveTackles": "9",
+    "totalTackles": "13",
+    "tacklePct": "0.7",
+    "interceptions": "7",
+    "effectiveClearance": "39",
+    "totalClearance": "39"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "5'",
+   "team": null,
+   "text": "Delay in match (Borussia M'gladbach)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "5'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "5'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "5'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "24'",
+   "team": null,
+   "text": "Delay in match because of an injury Youri Regeer (Werder Bremen)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "24'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "24'",
+   "team": null,
+   "text": "Delay in match (Borussia M'gladbach). VAR checking."
+  },
+  {
+   "type": "End Delay",
+   "clock": "26'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "26'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "26'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "27'",
+   "team": null,
+   "text": "Goal! Werder Bremen 0, Borussia M'gladbach 1. Kevin Diks (Borussia M'gladbach) converts the penalty with a right footed shot to the bottom right corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "36'",
+   "team": null,
+   "text": "Jens Castrop (Borussia M'gladbach) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "38'",
+   "team": null,
+   "text": "Goal! Werder Bremen 1, Borussia M'gladbach 1. Eren Dinkçi (Werder Bremen) right footed shot from the centre of the box to the bottom right corner."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "44'",
+   "team": null,
+   "text": "Niclas Füllkrug (Werder Bremen) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "44'",
+   "team": null,
+   "text": "Philipp Sander (Borussia M'gladbach) is shown the yellow card."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+5'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Werder Bremen. Mick Schmetgens replaces Paul Erevbenagie."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Werder Bremen 1, Borussia M'gladbach 1."
+  },
+  {
+   "type": "Goal",
+   "clock": "46'",
+   "team": null,
+   "text": "Goal! Werder Bremen 1, Borussia M'gladbach 2. Franck Honorat (Borussia M'gladbach) right footed shot from the centre of the box to the bottom left corner. Assisted by Zento Uno with a through ball."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "48'",
+   "team": null,
+   "text": "Delay in match (Werder Bremen)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "48'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "49'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "49'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "55'",
+   "team": null,
+   "text": "Shuto Machino (Borussia M'gladbach) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "57'",
+   "team": null,
+   "text": "Mick Schmetgens (Werder Bremen) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Werder Bremen. Mitchell Weiser replaces Olivier Deman."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Borussia M'gladbach. Mathieu Nguefack replaces Florian Neuhaus."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Borussia M'gladbach. David Herold replaces Jens Castrop."
+  },
+  {
+   "type": "Goal",
+   "clock": "78'",
+   "team": null,
+   "text": "Goal! Werder Bremen 1, Borussia M'gladbach 3. Franck Honorat (Borussia M'gladbach) right footed shot from the right side of the box to the bottom left corner. Assisted by Wael Mohya following a fast b"
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Werder Bremen. Cedric Itten replaces Chuki."
+  },
+  {
+   "type": "Substitution",
+   "clock": "84'",
+   "team": null,
+   "text": "Substitution, Borussia M'gladbach. Fritz Fleck replaces Franck Honorat."
+  },
+  {
+   "type": "Substitution",
+   "clock": "84'",
+   "team": null,
+   "text": "Substitution, Borussia M'gladbach. Ko Itakura replaces Zento Uno."
+  },
+  {
+   "type": "Goal",
+   "clock": "85'",
+   "team": null,
+   "text": "Goal! Werder Bremen 2, Borussia M'gladbach 3. Eren Dinkçi (Werder Bremen) right footed shot from the right side of the box to the bottom right corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "86'",
+   "team": null,
+   "text": "Substitution, Werder Bremen. Senne Lynen replaces Youri Regeer."
+  },
+  {
+   "type": "Substitution",
+   "clock": "89'",
+   "team": null,
+   "text": "Substitution, Borussia M'gladbach. Tim Kleindienst replaces Shuto Machino."
+  },
+  {
+   "type": "Goal - Volley",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Goal! Werder Bremen 3, Borussia M'gladbach 3. Niclas Füllkrug (Werder Bremen) right footed shot from very close range to the bottom right corner."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+6'",
+   "team": null,
+   "text": "Second Half ends, Werder Bremen 3, Borussia M'gladbach 3."
+  }
+ ],
+ "scoringPlays": []
+}

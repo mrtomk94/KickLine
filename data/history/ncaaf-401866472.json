@@ -1,0 +1,108 @@
+{
+ "id": "ncaaf-401866472",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-27T17:00Z",
+ "home": {
+  "name": "Akron Zips",
+  "abbr": "AKR",
+  "teamId": "2006",
+  "score": 9.0
+ },
+ "away": {
+  "name": "Buffalo Bulls",
+  "abbr": "BUFF",
+  "teamId": "2084",
+  "score": 17.0
+ },
+ "odds": {
+  "mlAway": "-305",
+  "mlAwayOpen": "-375",
+  "mlHome": "+245",
+  "mlHomeOpen": "+295",
+  "provider": "DraftKings",
+  "spread": "BUF -7.5",
+  "spreadOpen": "BUFF -10",
+  "total": "50.5",
+  "totalOpen": "49.5"
+ },
+ "espnWinProb": {
+  "away": 79.4,
+  "home": 20.6
+ },
+ "teams": {
+  "away": {
+   "abbr": "BUFF",
+   "stats": {
+    "firstDowns": "14",
+    "thirdDownEff": "3-13",
+    "fourthDownEff": "2-2",
+    "totalYards": "235",
+    "netPassingYards": "88",
+    "completionAttempts": "8/18",
+    "yardsPerPass": "4.9",
+    "rushingYards": "147",
+    "rushingAttempts": "37",
+    "yardsPerRushAttempt": "4.0",
+    "totalPenaltiesYards": "2-15",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "29:38"
+   }
+  },
+  "home": {
+   "abbr": "AKR",
+   "stats": {
+    "firstDowns": "16",
+    "thirdDownEff": "3-12",
+    "fourthDownEff": "1-2",
+    "totalYards": "304",
+    "netPassingYards": "192",
+    "completionAttempts": "11/24",
+    "yardsPerPass": "8.0",
+    "rushingYards": "112",
+    "rushingAttempts": "35",
+    "yardsPerRushAttempt": "3.2",
+    "totalPenaltiesYards": "2-20",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "30:22"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 2,
+   "clock": "8:22",
+   "team": "BUFF",
+   "text": "Terrance Shelton Jr. 21 Yd pass from Jason Wright (Drake Saltarelli Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:40",
+   "team": "AKR",
+   "text": "Miles Burris 18 Yd pass from Cibastian Broughton (Aidan Stire PAT failed)"
+  },
+  {
+   "period": 3,
+   "clock": "10:29",
+   "team": "AKR",
+   "text": "Matthew Schramm 50 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "2:25",
+   "team": "BUFF",
+   "text": "Oliver Hautanen 39 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "9:58",
+   "team": "BUFF",
+   "text": "Messiah Burch 43 Yd Run (Oliver Hautanen Kick)"
+  }
+ ]
+}

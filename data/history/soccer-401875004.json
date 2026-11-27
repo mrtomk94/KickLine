@@ -1,0 +1,234 @@
+{
+ "id": "soccer-401875004",
+ "sport": "soccer",
+ "league": "Serie A",
+ "start": "2026-11-27T19:45Z",
+ "home": {
+  "name": "Venezia",
+  "abbr": "VEN",
+  "teamId": "17530",
+  "score": 0.0
+ },
+ "away": {
+  "name": "Bologna",
+  "abbr": "BOL",
+  "teamId": "107",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+135",
+  "mlAwayOpen": "-105",
+  "mlDraw": "+215",
+  "mlHome": "+195",
+  "mlHomeOpen": "+235",
+  "provider": "DraftKings",
+  "spread": "BOL +135",
+  "spreadOpen": "BOL -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "VEN",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "4",
+    "wonCorners": "3",
+    "saves": "5",
+    "possessionPct": "49.9",
+    "totalShots": "14",
+    "shotsOnTarget": "5",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "356",
+    "totalPasses": "431",
+    "passPct": "0.8",
+    "accurateCrosses": "3",
+    "totalCrosses": "11",
+    "crossPct": "0.3",
+    "totalLongBalls": "59",
+    "accurateLongBalls": "24",
+    "longballPct": "0.4",
+    "blockedShots": "3",
+    "effectiveTackles": "12",
+    "totalTackles": "15",
+    "tacklePct": "0.8",
+    "interceptions": "5",
+    "effectiveClearance": "41",
+    "totalClearance": "41"
+   }
+  },
+  "away": {
+   "abbr": "BOL",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "6",
+    "saves": "5",
+    "possessionPct": "50.1",
+    "totalShots": "13",
+    "shotsOnTarget": "6",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "335",
+    "totalPasses": "416",
+    "passPct": "0.8",
+    "accurateCrosses": "5",
+    "totalCrosses": "27",
+    "crossPct": "0.2",
+    "totalLongBalls": "52",
+    "accurateLongBalls": "24",
+    "longballPct": "0.5",
+    "blockedShots": "1",
+    "effectiveTackles": "7",
+    "totalTackles": "13",
+    "tacklePct": "0.5",
+    "interceptions": "2",
+    "effectiveClearance": "25",
+    "totalClearance": "25"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "14'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "15'",
+   "team": null,
+   "text": "Juan Jesus (Venezia) is shown the yellow card."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "16'",
+   "team": null,
+   "text": "Nadir Zortea (Bologna) is shown the yellow card."
+  },
+  {
+   "type": "End Delay",
+   "clock": "20'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "22'",
+   "team": null,
+   "text": "Martin Vitík (Bologna) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "28'",
+   "team": null,
+   "text": "Antoine Hainaut (Venezia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+5'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Bologna. Matteo Darmian replaces Martin Vitík."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "49'",
+   "team": null,
+   "text": "Jens Odgaard (Bologna) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "56'",
+   "team": null,
+   "text": "Substitution, Bologna. Nicolò Cambiaghi replaces Samuel Mbangula."
+  },
+  {
+   "type": "Substitution",
+   "clock": "56'",
+   "team": null,
+   "text": "Substitution, Bologna. Riccardo Orsolini replaces Federico Bernardeschi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "58'",
+   "team": null,
+   "text": "Substitution, Venezia. Thórir Helgason replaces Gianluca Busio."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Bologna. Roberto Piccoli replaces Jens Odgaard."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Venezia. Albion Rrahmani replaces John Yeboah."
+  },
+  {
+   "type": "Substitution",
+   "clock": "70'",
+   "team": null,
+   "text": "Substitution, Venezia. Lion Lauberbach replaces Akor Adams."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Venezia. Armel Bella-Kotchap replaces Matías Moreno."
+  },
+  {
+   "type": "Substitution",
+   "clock": "76'",
+   "team": null,
+   "text": "Substitution, Venezia. Matteo Dagasso replaces Kike Pérez."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "78'",
+   "team": null,
+   "text": "Albion Rrahmani (Venezia) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "88'",
+   "team": null,
+   "text": "Substitution, Bologna. Marco Libra replaces Tommaso Pobega."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+3'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

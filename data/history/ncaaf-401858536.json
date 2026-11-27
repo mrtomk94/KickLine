@@ -1,0 +1,114 @@
+{
+ "id": "ncaaf-401858536",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-27T17:08Z",
+ "home": {
+  "name": "#13 Iowa",
+  "abbr": "IOWA",
+  "teamId": "2294",
+  "score": 31.0
+ },
+ "away": {
+  "name": "#25 Nebraska",
+  "abbr": "NEB",
+  "teamId": "158",
+  "score": 7.0
+ },
+ "odds": {
+  "mlAway": "+164",
+  "mlAwayOpen": "+190",
+  "mlHome": "-198",
+  "mlHomeOpen": "-230",
+  "provider": "DraftKings",
+  "spread": "IOWA -3.5",
+  "spreadOpen": "IOWA -6.5",
+  "total": "40.5",
+  "totalOpen": "38.5"
+ },
+ "espnWinProb": {
+  "away": 41.5,
+  "home": 58.5
+ },
+ "teams": {
+  "away": {
+   "abbr": "NEB",
+   "stats": {
+    "firstDowns": "16",
+    "thirdDownEff": "4-12",
+    "fourthDownEff": "1-3",
+    "totalYards": "260",
+    "netPassingYards": "153",
+    "completionAttempts": "19/29",
+    "yardsPerPass": "5.3",
+    "rushingYards": "107",
+    "rushingAttempts": "32",
+    "yardsPerRushAttempt": "3.3",
+    "totalPenaltiesYards": "2-20",
+    "turnovers": "3",
+    "fumblesLost": "2",
+    "interceptions": "1",
+    "possessionTime": "29:16"
+   }
+  },
+  "home": {
+   "abbr": "IOWA",
+   "stats": {
+    "firstDowns": "17",
+    "thirdDownEff": "5-13",
+    "fourthDownEff": "1-1",
+    "totalYards": "329",
+    "netPassingYards": "173",
+    "completionAttempts": "13/18",
+    "yardsPerPass": "9.6",
+    "rushingYards": "156",
+    "rushingAttempts": "41",
+    "yardsPerRushAttempt": "3.8",
+    "totalPenaltiesYards": "3-23",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "30:44"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "4:44",
+   "team": "IOWA",
+   "text": "Hank Brown 14 Yd Run (Caden Buhr Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "13:03",
+   "team": "NEB",
+   "text": "Jamal Rule 21 Yd Run (John Hohl Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "9:09",
+   "team": "IOWA",
+   "text": "Caden Buhr 39 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "1:19",
+   "team": "IOWA",
+   "text": "Hank Brown 6 Yd Run (Caden Buhr Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "10:33",
+   "team": "IOWA",
+   "text": "DJ Vonnahme 9 Yd pass from Hank Brown (Caden Buhr Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "4:02",
+   "team": "IOWA",
+   "text": "Hank Brown 29 Yd Run (Caden Buhr Kick)"
+  }
+ ]
+}

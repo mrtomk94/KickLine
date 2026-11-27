@@ -1,0 +1,144 @@
+{
+ "id": "ncaaf-401866473",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-27T17:00Z",
+ "home": {
+  "name": "Ohio Bobcats",
+  "abbr": "OHIO",
+  "teamId": "195",
+  "score": 31.0
+ },
+ "away": {
+  "name": "Toledo Rockets",
+  "abbr": "TOL",
+  "teamId": "2649",
+  "score": 34.0
+ },
+ "odds": {
+  "mlAway": "-162",
+  "mlAwayOpen": "-180",
+  "mlHome": "+136",
+  "mlHomeOpen": "+150",
+  "provider": "DraftKings",
+  "spread": "TOL -3",
+  "spreadOpen": "TOL -4.5",
+  "total": "44.5",
+  "totalOpen": "48.5"
+ },
+ "espnWinProb": {
+  "away": 63.2,
+  "home": 36.8
+ },
+ "teams": {
+  "away": {
+   "abbr": "TOL",
+   "stats": {
+    "firstDowns": "25",
+    "thirdDownEff": "7-13",
+    "fourthDownEff": "0-0",
+    "totalYards": "437",
+    "netPassingYards": "211",
+    "completionAttempts": "18/31",
+    "yardsPerPass": "6.8",
+    "rushingYards": "226",
+    "rushingAttempts": "36",
+    "yardsPerRushAttempt": "6.3",
+    "totalPenaltiesYards": "6-61",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "interceptions": "0",
+    "possessionTime": "25:16"
+   }
+  },
+  "home": {
+   "abbr": "OHIO",
+   "stats": {
+    "firstDowns": "21",
+    "thirdDownEff": "5-14",
+    "fourthDownEff": "2-3",
+    "totalYards": "458",
+    "netPassingYards": "328",
+    "completionAttempts": "21/36",
+    "yardsPerPass": "9.1",
+    "rushingYards": "130",
+    "rushingAttempts": "36",
+    "yardsPerRushAttempt": "3.6",
+    "totalPenaltiesYards": "6-62",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "34:44"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "9:11",
+   "team": "TOL",
+   "text": "Bryson Hammer 43 Yd pass from John Alan Richter (Reice Griffith Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "5:21",
+   "team": "TOL",
+   "text": "Adjatay Dabbs 24 Yd pass from John Alan Richter (Reice Griffith Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "14:14",
+   "team": "TOL",
+   "text": "Reice Griffith 33 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "3:11",
+   "team": "OHIO",
+   "text": "Will Hryszko 18 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "0:08",
+   "team": "OHIO",
+   "text": "Riley Neer 16 Yd pass from Levi Davis (Will Hryszko Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "3:50",
+   "team": "OHIO",
+   "text": "Levi Davis 1 Yd Run (Will Hryszko Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "14:55",
+   "team": "TOL",
+   "text": "CJ Miller 12 Yd Run (Reice Griffith Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "9:47",
+   "team": "OHIO",
+   "text": "Victor Rosa 1 Yd Run (Will Hryszko Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "4:55",
+   "team": "OHIO",
+   "text": "Levi Davis 23 Yd Run (Will Hryszko Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "1:33",
+   "team": "TOL",
+   "text": "CJ Miller 5 Yd Run (Reice Griffith Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "0:00",
+   "team": "TOL",
+   "text": "Reice Griffith 22 Yd Field Goal "
+  }
+ ]
+}

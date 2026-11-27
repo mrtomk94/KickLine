@@ -1,0 +1,258 @@
+{
+ "id": "soccer-401876392",
+ "sport": "soccer",
+ "league": "Ligue 1",
+ "start": "2026-11-27T19:45Z",
+ "home": {
+  "name": "Brest",
+  "abbr": "BRE",
+  "teamId": "6997",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Paris FC",
+  "abbr": "PAR",
+  "teamId": "6851",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+115",
+  "mlAwayOpen": "+125",
+  "mlDraw": "+240",
+  "mlHome": "+245",
+  "mlHomeOpen": "+210",
+  "provider": "DraftKings",
+  "spread": "PAR +115",
+  "spreadOpen": "PAR -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "BRE",
+   "stats": {
+    "foulsCommitted": "9",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "3",
+    "saves": "8",
+    "possessionPct": "33.4",
+    "totalShots": "17",
+    "shotsOnTarget": "3",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "256",
+    "totalPasses": "338",
+    "passPct": "0.8",
+    "accurateCrosses": "4",
+    "totalCrosses": "14",
+    "crossPct": "0.3",
+    "totalLongBalls": "74",
+    "accurateLongBalls": "24",
+    "longballPct": "0.3",
+    "blockedShots": "4",
+    "effectiveTackles": "17",
+    "totalTackles": "26",
+    "tacklePct": "0.7",
+    "interceptions": "19",
+    "effectiveClearance": "21",
+    "totalClearance": "21"
+   }
+  },
+  "away": {
+   "abbr": "PAR",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "4",
+    "wonCorners": "5",
+    "saves": "2",
+    "possessionPct": "66.6",
+    "totalShots": "18",
+    "shotsOnTarget": "8",
+    "shotPct": "0.4",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "617",
+    "totalPasses": "688",
+    "passPct": "0.9",
+    "accurateCrosses": "8",
+    "totalCrosses": "21",
+    "crossPct": "0.4",
+    "totalLongBalls": "36",
+    "accurateLongBalls": "21",
+    "longballPct": "0.6",
+    "blockedShots": "1",
+    "effectiveTackles": "9",
+    "totalTackles": "16",
+    "tacklePct": "0.6",
+    "interceptions": "7",
+    "effectiveClearance": "16",
+    "totalClearance": "16"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": "First Half begins."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "2'",
+   "team": null,
+   "text": "Pierre Lees-Melou (Paris FC) is shown the yellow card for handball."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "16'",
+   "team": null,
+   "text": "Delay in match because of an injury Kamory Doumbia (Brest)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "16'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "17'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "17'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "21'",
+   "team": null,
+   "text": "Goal! Brest 1, Paris FC 0. Luck Zogbé (Brest) right footed shot from the centre of the box to the bottom right corner. Assisted by Kamory Doumbia."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "30'",
+   "team": null,
+   "text": "Lucas Tousart (Brest) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "36'",
+   "team": null,
+   "text": "Luca Koleosho (Paris FC) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+3'",
+   "team": null,
+   "text": "First Half ends, Brest 1, Paris FC 0."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Paris FC. Ilan Kebbal replaces Moses Simon."
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Paris FC. Rudy Matondo replaces Adama Camara."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "60'",
+   "team": null,
+   "text": "Ilan Kebbal (Paris FC) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "63'",
+   "team": null,
+   "text": "Substitution, Brest. Giovani Versini replaces Noah Edjouma."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "63'",
+   "team": null,
+   "text": "Delay in match because of an injury Lucas Tousart (Brest)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "63'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "63'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "63'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Paris FC. Patrick Zabi replaces Pierre Lees-Melou."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Brest. Mama Baldé replaces Pathé Mboup."
+  },
+  {
+   "type": "Substitution",
+   "clock": "73'",
+   "team": null,
+   "text": "Substitution, Brest. Mamady Diambou replaces Kamory Doumbia."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "78'",
+   "team": null,
+   "text": "Egil Selvik (Brest) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Paris FC. Otávio replaces Hamari Traoré."
+  },
+  {
+   "type": "Substitution",
+   "clock": "80'",
+   "team": null,
+   "text": "Substitution, Paris FC. Jonathan Ikoné replaces Luca Koleosho."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

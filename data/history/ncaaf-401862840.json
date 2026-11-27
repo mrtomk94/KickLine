@@ -1,0 +1,132 @@
+{
+ "id": "ncaaf-401862840",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-27T17:00Z",
+ "home": {
+  "name": "UTSA Roadrunners",
+  "abbr": "UTSA",
+  "teamId": "2636",
+  "score": 28.0
+ },
+ "away": {
+  "name": "Tulsa Golden Hurricane",
+  "abbr": "TLSA",
+  "teamId": "202",
+  "score": 22.0
+ },
+ "odds": {
+  "mlAway": "-122",
+  "mlAwayOpen": "+110",
+  "mlHome": "+102",
+  "mlHomeOpen": "-130",
+  "provider": "DraftKings",
+  "spread": "TLSA -1.5",
+  "spreadOpen": "UTSA -2.5",
+  "total": "57.5",
+  "totalOpen": "58.5"
+ },
+ "espnWinProb": {
+  "away": 50.9,
+  "home": 49.1
+ },
+ "teams": {
+  "away": {
+   "abbr": "TLSA",
+   "stats": {
+    "firstDowns": "15",
+    "thirdDownEff": "3-10",
+    "fourthDownEff": "0-1",
+    "totalYards": "274",
+    "netPassingYards": "217",
+    "completionAttempts": "17/26",
+    "yardsPerPass": "8.3",
+    "rushingYards": "57",
+    "rushingAttempts": "27",
+    "yardsPerRushAttempt": "2.1",
+    "totalPenaltiesYards": "4-45",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "21:30"
+   }
+  },
+  "home": {
+   "abbr": "UTSA",
+   "stats": {
+    "firstDowns": "19",
+    "thirdDownEff": "8-17",
+    "fourthDownEff": "2-3",
+    "totalYards": "526",
+    "netPassingYards": "364",
+    "completionAttempts": "23/33",
+    "yardsPerPass": "11.0",
+    "rushingYards": "162",
+    "rushingAttempts": "38",
+    "yardsPerRushAttempt": "4.3",
+    "totalPenaltiesYards": "6-62",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "38:30"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "14:14",
+   "team": "UTSA",
+   "text": "AJ Wilson 64 Yd pass from Owen McCown (Michael Petro Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "11:26",
+   "team": "TLSA",
+   "text": "Jimmy Calloway 38 Yd pass from Baylor Hayes (Owen Carey Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "11:11",
+   "team": "UTSA",
+   "text": "AJ Wilson 79 Yd pass from Owen McCown (Michael Petro Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "12:20",
+   "team": "UTSA",
+   "text": "Team Safety "
+  },
+  {
+   "period": 2,
+   "clock": "7:28",
+   "team": "UTSA",
+   "text": "Team Safety "
+  },
+  {
+   "period": 2,
+   "clock": "2:48",
+   "team": "UTSA",
+   "text": "Brandon High Jr. 1 Yd Run (Michael Petro Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "13:35",
+   "team": "TLSA",
+   "text": "Damari Alston 2 Yd Run (Baylor Hayes Pass to Javon Ross for Two-Point Conversion)"
+  },
+  {
+   "period": 4,
+   "clock": "4:47",
+   "team": "UTSA",
+   "text": "Michael Petro 36 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "3:27",
+   "team": "TLSA",
+   "text": "Grant McAtee 6 Yd pass from Baylor Hayes (Owen Carey Kick)"
+  }
+ ]
+}

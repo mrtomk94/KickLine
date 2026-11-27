@@ -1,0 +1,138 @@
+{
+ "id": "ncaaf-401856762",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-27T17:00Z",
+ "home": {
+  "name": "#22 Ole Miss",
+  "abbr": "MISS",
+  "teamId": "145",
+  "score": 41.0
+ },
+ "away": {
+  "name": "Mississippi State Bulldogs",
+  "abbr": "MSST",
+  "teamId": "344",
+  "score": 17.0
+ },
+ "odds": {
+  "mlAway": "+625",
+  "mlAwayOpen": "+490",
+  "mlHome": "-950",
+  "mlHomeOpen": "-675",
+  "provider": "DraftKings",
+  "spread": "MISS -17.5",
+  "spreadOpen": "MISS -14.5",
+  "total": "56.5",
+  "totalOpen": "57.5"
+ },
+ "espnWinProb": {
+  "away": 12.4,
+  "home": 87.6
+ },
+ "teams": {
+  "away": {
+   "abbr": "MSST",
+   "stats": {
+    "firstDowns": "20",
+    "thirdDownEff": "3-11",
+    "fourthDownEff": "1-2",
+    "totalYards": "332",
+    "netPassingYards": "201",
+    "completionAttempts": "22/27",
+    "yardsPerPass": "7.4",
+    "rushingYards": "131",
+    "rushingAttempts": "33",
+    "yardsPerRushAttempt": "4.0",
+    "totalPenaltiesYards": "10-84",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "33:22"
+   }
+  },
+  "home": {
+   "abbr": "MISS",
+   "stats": {
+    "firstDowns": "24",
+    "thirdDownEff": "8-13",
+    "fourthDownEff": "0-0",
+    "totalYards": "355",
+    "netPassingYards": "237",
+    "completionAttempts": "23/36",
+    "yardsPerPass": "6.6",
+    "rushingYards": "118",
+    "rushingAttempts": "30",
+    "yardsPerRushAttempt": "3.9",
+    "totalPenaltiesYards": "5-60",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "26:38"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "8:06",
+   "team": "MISS",
+   "text": "Lucas Carneiro 33 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "10:14",
+   "team": "MSST",
+   "text": "Fluff Bothwell 16 Yd Run (Kyle Ferrie Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "7:06",
+   "team": "MISS",
+   "text": "Lucas Carneiro 40 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "1:48",
+   "team": "MSST",
+   "text": "Kyle Ferrie 42 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "9:53",
+   "team": "MISS",
+   "text": "Horatio Fields 6 Yd pass from Trinidad Chambliss (Lucas Carneiro Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "4:45",
+   "team": "MISS",
+   "text": "Joshua Dye 4 Yd Run (Lucas Carneiro Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "14:55",
+   "team": "MSST",
+   "text": "Fluff Bothwell 12 Yd pass from Parker Puckett (Kyle Ferrie Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "10:30",
+   "team": "MISS",
+   "text": "Trinidad Chambliss 1 Yd Run (Lucas Carneiro Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "6:16",
+   "team": "MISS",
+   "text": "Michael Smith 21 Yd pass from Trinidad Chambliss (Lucas Carneiro Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "1:57",
+   "team": "MISS",
+   "text": "Joshua Dye 1 Yd Run (Lucas Carneiro Kick)"
+  }
+ ]
+}
