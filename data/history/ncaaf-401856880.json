@@ -1,0 +1,150 @@
+{
+ "id": "ncaaf-401856880",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-28T02:00Z",
+ "home": {
+  "name": "#2 Utah",
+  "abbr": "UTAH",
+  "teamId": "254",
+  "score": 52.0
+ },
+ "away": {
+  "name": "West Virginia Mountaineers",
+  "abbr": "WVU",
+  "teamId": "277",
+  "score": 28.0
+ },
+ "odds": {
+  "mlAway": "+1200",
+  "mlAwayOpen": "+800",
+  "mlHome": "-2400",
+  "mlHomeOpen": "-1350",
+  "provider": "DraftKings",
+  "spread": "UTAH -25.5",
+  "spreadOpen": "UTAH -20.5",
+  "total": "65.5",
+  "totalOpen": "68.5"
+ },
+ "espnWinProb": {
+  "away": 6.4,
+  "home": 93.6
+ },
+ "teams": {
+  "away": {
+   "abbr": "WVU",
+   "stats": {
+    "firstDowns": "23",
+    "thirdDownEff": "7-16",
+    "fourthDownEff": "0-0",
+    "totalYards": "444",
+    "netPassingYards": "253",
+    "completionAttempts": "15/28",
+    "yardsPerPass": "9.0",
+    "rushingYards": "191",
+    "rushingAttempts": "50",
+    "yardsPerRushAttempt": "3.8",
+    "totalPenaltiesYards": "3-30",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "28:41"
+   }
+  },
+  "home": {
+   "abbr": "UTAH",
+   "stats": {
+    "firstDowns": "24",
+    "thirdDownEff": "7-13",
+    "fourthDownEff": "0-1",
+    "totalYards": "531",
+    "netPassingYards": "420",
+    "completionAttempts": "20/31",
+    "yardsPerPass": "13.5",
+    "rushingYards": "111",
+    "rushingAttempts": "38",
+    "yardsPerRushAttempt": "2.9",
+    "totalPenaltiesYards": "6-50",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "31:19"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "10:59",
+   "team": "UTAH",
+   "text": "Wayshawn Parker 12 Yd pass from Devon Dampier (Dillon Curtis Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "4:48",
+   "team": "UTAH",
+   "text": "Dillon Curtis 45 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "14:50",
+   "team": "UTAH",
+   "text": "Braden Pegan 21 Yd pass from Devon Dampier (Dillon Curtis Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "13:08",
+   "team": "UTAH",
+   "text": "Creed Whittemore 92 Yd Punt Return (Dillon Curtis Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "8:20",
+   "team": "UTAH",
+   "text": "Kyri Shoels 45 Yd pass from Devon Dampier (Dillon Curtis Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "2:34",
+   "team": "UTAH",
+   "text": "Daniel Bray 14 Yd Run (Dillon Curtis Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:12",
+   "team": "WVU",
+   "text": "Scotty Fox Jr. 2 Yd Run (Jack Cassidy Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "14:50",
+   "team": "UTAH",
+   "text": "Braden Pegan 75 Yd pass from Devon Dampier (Dillon Curtis Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "8:55",
+   "team": "UTAH",
+   "text": "Larry Simmons 8 Yd pass from Devon Dampier (Dillon Curtis Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "1:03",
+   "team": "WVU",
+   "text": "Armoni Weaver-Bomar 33 Yd pass from Scotty Fox Jr. (Jack Cassidy Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "12:21",
+   "team": "WVU",
+   "text": "DJ Epps 40 Yd pass from Scotty Fox Jr. (Jack Cassidy Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "1:53",
+   "team": "WVU",
+   "text": "Martavious Boswell 40 Yd Run (Jack Cassidy Kick)"
+  }
+ ]
+}
