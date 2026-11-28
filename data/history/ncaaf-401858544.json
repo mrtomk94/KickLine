@@ -1,0 +1,114 @@
+{
+ "id": "ncaaf-401858544",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-28T00:30Z",
+ "home": {
+  "name": "Wisconsin Badgers",
+  "abbr": "WIS",
+  "teamId": "275",
+  "score": 28.0
+ },
+ "away": {
+  "name": "Minnesota Golden Gophers",
+  "abbr": "MINN",
+  "teamId": "135",
+  "score": 5.0
+ },
+ "odds": {
+  "mlAway": "+270",
+  "mlAwayOpen": "+180",
+  "mlHome": "-340",
+  "mlHomeOpen": "-218",
+  "provider": "DraftKings",
+  "spread": "WIS -9.5",
+  "spreadOpen": "WIS -6",
+  "total": "37.5",
+  "totalOpen": "38.5"
+ },
+ "espnWinProb": {
+  "away": 20.4,
+  "home": 79.6
+ },
+ "teams": {
+  "away": {
+   "abbr": "MINN",
+   "stats": {
+    "firstDowns": "6",
+    "thirdDownEff": "2-11",
+    "fourthDownEff": "0-0",
+    "totalYards": "115",
+    "netPassingYards": "104",
+    "completionAttempts": "14/28",
+    "yardsPerPass": "3.7",
+    "rushingYards": "11",
+    "rushingAttempts": "14",
+    "yardsPerRushAttempt": "0.8",
+    "totalPenaltiesYards": "3-23",
+    "turnovers": "0",
+    "fumblesLost": "0",
+    "interceptions": "0",
+    "possessionTime": "21:06"
+   }
+  },
+  "home": {
+   "abbr": "WIS",
+   "stats": {
+    "firstDowns": "23",
+    "thirdDownEff": "9-15",
+    "fourthDownEff": "1-1",
+    "totalYards": "482",
+    "netPassingYards": "217",
+    "completionAttempts": "12/18",
+    "yardsPerPass": "12.1",
+    "rushingYards": "265",
+    "rushingAttempts": "51",
+    "yardsPerRushAttempt": "5.2",
+    "totalPenaltiesYards": "8-70",
+    "turnovers": "2",
+    "fumblesLost": "0",
+    "interceptions": "2",
+    "possessionTime": "38:54"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "9:23",
+   "team": "MINN",
+   "text": "Luke Drzewiecki 53 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "14:55",
+   "team": "WIS",
+   "text": "Tyrell Henry 27 Yd pass from Colton Joseph (Gavin Lahm Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "7:46",
+   "team": "WIS",
+   "text": "Bryan Jackson II 1 Yd Run (Gavin Lahm Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:27",
+   "team": "WIS",
+   "text": "Colton Joseph 7 Yd Run (Gavin Lahm Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "9:25",
+   "team": "MINN",
+   "text": "Team Safety "
+  },
+  {
+   "period": 3,
+   "clock": "1:00",
+   "team": "WIS",
+   "text": "Colton Joseph 1 Yd Run (Gavin Lahm Kick)"
+  }
+ ]
+}

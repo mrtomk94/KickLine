@@ -1,0 +1,126 @@
+{
+ "id": "ncaaf-401856759",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-27T20:30Z",
+ "home": {
+  "name": "Florida State Seminoles",
+  "abbr": "FSU",
+  "teamId": "52",
+  "score": 10.0
+ },
+ "away": {
+  "name": "#20 Florida",
+  "abbr": "FLA",
+  "teamId": "57",
+  "score": 26.0
+ },
+ "odds": {
+  "mlAway": "-238",
+  "mlAwayOpen": "-218",
+  "mlHome": "+195",
+  "mlHomeOpen": "+180",
+  "provider": "DraftKings",
+  "spread": "FLA -6.5",
+  "spreadOpen": "FLA -4.5",
+  "total": "53.5",
+  "totalOpen": "52.5"
+ },
+ "espnWinProb": {
+  "away": 64.6,
+  "home": 35.4
+ },
+ "teams": {
+  "away": {
+   "abbr": "FLA",
+   "stats": {
+    "firstDowns": "10",
+    "thirdDownEff": "3-12",
+    "fourthDownEff": "0-1",
+    "totalYards": "282",
+    "netPassingYards": "136",
+    "completionAttempts": "11/16",
+    "yardsPerPass": "8.5",
+    "rushingYards": "146",
+    "rushingAttempts": "39",
+    "yardsPerRushAttempt": "3.7",
+    "totalPenaltiesYards": "5-64",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "26:44"
+   }
+  },
+  "home": {
+   "abbr": "FSU",
+   "stats": {
+    "firstDowns": "16",
+    "thirdDownEff": "5-17",
+    "fourthDownEff": "1-4",
+    "totalYards": "290",
+    "netPassingYards": "192",
+    "completionAttempts": "20/34",
+    "yardsPerPass": "5.6",
+    "rushingYards": "98",
+    "rushingAttempts": "37",
+    "yardsPerRushAttempt": "2.6",
+    "totalPenaltiesYards": "3-18",
+    "turnovers": "2",
+    "fumblesLost": "0",
+    "interceptions": "2",
+    "possessionTime": "33:16"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "1:41",
+   "team": "FLA",
+   "text": "Jadan Baugh 3 Yd Run (Patrick Durkin Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "10:09",
+   "team": "FSU",
+   "text": "Gabe Panikowski 27 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "4:15",
+   "team": "FLA",
+   "text": "Patrick Durkin 33 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "10:55",
+   "team": "FLA",
+   "text": "Tramell Jones Jr. 1 Yd Run (Patrick Durkin Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "3:01",
+   "team": "FSU",
+   "text": "Landen Thomas 9 Yd pass from Kevin Sperry (Gabe Panikowski Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "13:37",
+   "team": "FLA",
+   "text": "Patrick Durkin 37 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "4:24",
+   "team": "FLA",
+   "text": "Patrick Durkin 42 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "1:56",
+   "team": "FLA",
+   "text": "Patrick Durkin 25 Yd Field Goal  "
+  }
+ ]
+}

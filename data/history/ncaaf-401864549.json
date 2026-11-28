@@ -1,0 +1,144 @@
+{
+ "id": "ncaaf-401864549",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-27T20:30Z",
+ "home": {
+  "name": "San José State Spartans",
+  "abbr": "SJSU",
+  "teamId": "23",
+  "score": 31.0
+ },
+ "away": {
+  "name": "North Dakota State Bison",
+  "abbr": "NDSU",
+  "teamId": "2449",
+  "score": 38.0
+ },
+ "odds": {
+  "mlAway": "-345",
+  "mlAwayOpen": "-550",
+  "mlHome": "+275",
+  "mlHomeOpen": "+410",
+  "provider": "DraftKings",
+  "spread": "NDSU -8.5",
+  "spreadOpen": "NDSU -11.5",
+  "total": "39.5",
+  "totalOpen": "39.5"
+ },
+ "espnWinProb": {
+  "away": 75.1,
+  "home": 24.9
+ },
+ "teams": {
+  "away": {
+   "abbr": "NDSU",
+   "stats": {
+    "firstDowns": "14",
+    "thirdDownEff": "5-16",
+    "fourthDownEff": "1-2",
+    "totalYards": "409",
+    "netPassingYards": "226",
+    "completionAttempts": "12/23",
+    "yardsPerPass": "9.8",
+    "rushingYards": "183",
+    "rushingAttempts": "43",
+    "yardsPerRushAttempt": "4.3",
+    "totalPenaltiesYards": "11-85",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "30:39"
+   }
+  },
+  "home": {
+   "abbr": "SJSU",
+   "stats": {
+    "firstDowns": "23",
+    "thirdDownEff": "7-17",
+    "fourthDownEff": "0-1",
+    "totalYards": "386",
+    "netPassingYards": "306",
+    "completionAttempts": "26/50",
+    "yardsPerPass": "6.1",
+    "rushingYards": "80",
+    "rushingAttempts": "30",
+    "yardsPerRushAttempt": "2.7",
+    "totalPenaltiesYards": "9-73",
+    "turnovers": "3",
+    "fumblesLost": "0",
+    "interceptions": "3",
+    "possessionTime": "29:21"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "11:40",
+   "team": "NDSU",
+   "text": "Jackson Williams 49 Yd pass from Preston Brown (Drew Klein Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "6:38",
+   "team": "SJSU",
+   "text": "Carson Clark 3 Yd pass from Luke Weaver (Trajan Sinatra Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "1:57",
+   "team": "NDSU",
+   "text": "DJ Scott 2 Yd Run (Drew Klein Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "14:09",
+   "team": "NDSU",
+   "text": "DJ Scott 5 Yd Run (Drew Klein Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "11:39",
+   "team": "NDSU",
+   "text": "Drew Klein 31 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "1:07",
+   "team": "SJSU",
+   "text": "Isaiah Carlson 5 Yd Run (Trajan Sinatra Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "7:11",
+   "team": "NDSU",
+   "text": "Ray James Jr. 14 Yd Interception Return (Drew Klein Kick)"
+  },
+  {
+   "period": 3,
+   "clock": "4:02",
+   "team": "SJSU",
+   "text": "Trajan Sinatra 30 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "14:54",
+   "team": "SJSU",
+   "text": "Luke Weaver 5 Yd Run (Trajan Sinatra Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "12:18",
+   "team": "NDSU",
+   "text": "Preston Brown 5 Yd Run (Drew Klein Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "9:52",
+   "team": "SJSU",
+   "text": "Carson Clark 7 Yd pass from Luke Weaver (Trajan Sinatra Kick)"
+  }
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "id": "soccer-401882791",
+ "sport": "soccer",
+ "league": "LaLiga",
+ "start": "2026-11-27T20:00Z",
+ "home": {
+  "name": "Levante",
+  "abbr": "LEV",
+  "teamId": "1538",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Racing Santander",
+  "abbr": "RAC",
+  "teamId": "87",
+  "score": 3.0
+ },
+ "odds": {
+  "mlAway": "+225",
+  "mlAwayOpen": "+215",
+  "mlDraw": "+295",
+  "mlHome": "+105",
+  "mlHomeOpen": "+105",
+  "provider": "DraftKings",
+  "spread": "LEV +105",
+  "spreadOpen": "LEV -0.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "LEV",
+   "stats": {
+    "foulsCommitted": "16",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "9",
+    "saves": "5",
+    "possessionPct": "56.2",
+    "totalShots": "23",
+    "shotsOnTarget": "3",
+    "shotPct": "0.1",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "376",
+    "totalPasses": "450",
+    "passPct": "0.8",
+    "accurateCrosses": "10",
+    "totalCrosses": "34",
+    "crossPct": "0.3",
+    "totalLongBalls": "58",
+    "accurateLongBalls": "31",
+    "longballPct": "0.5",
+    "blockedShots": "7",
+    "effectiveTackles": "17",
+    "totalTackles": "26",
+    "tacklePct": "0.7",
+    "interceptions": "17",
+    "effectiveClearance": "19",
+    "totalClearance": "19"
+   }
+  },
+  "away": {
+   "abbr": "RAC",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "5",
+    "saves": "2",
+    "possessionPct": "43.8",
+    "totalShots": "15",
+    "shotsOnTarget": "8",
+    "shotPct": "0.5",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "291",
+    "totalPasses": "367",
+    "passPct": "0.8",
+    "accurateCrosses": "2",
+    "totalCrosses": "11",
+    "crossPct": "0.2",
+    "totalLongBalls": "58",
+    "accurateLongBalls": "26",
+    "longballPct": "0.4",
+    "blockedShots": "2",
+    "effectiveTackles": "3",
+    "totalTackles": "13",
+    "tacklePct": "0.2",
+    "interceptions": "10",
+    "effectiveClearance": "35",
+    "totalClearance": "35"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "25'",
+   "team": null,
+   "text": "Pedro Felipe (Racing de Santander) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "42'",
+   "team": null,
+   "text": "Goal! Levante 1, Racing de Santander 0. Iván Romero (Levante) right footed shot from outside the box to the bottom left corner. Assisted by Oriol Rey following a fast break."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, Levante 1, Racing de Santander 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Start Delay",
+   "clock": "50'",
+   "team": null,
+   "text": "Delay in match because of an injury Oriol Rey (Levante)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "50'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "End Delay",
+   "clock": "50'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "50'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "50'",
+   "team": null,
+   "text": "Substitution, Levante. Enzo Bardeli replaces Oriol Rey because of an injury."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "57'",
+   "team": null,
+   "text": "Dani Requena (Levante) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Racing de Santander. André Almeida replaces Matteo Prati."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Racing de Santander. Hugo Pérez replaces Pedro Felipe."
+  },
+  {
+   "type": "Substitution",
+   "clock": "61'",
+   "team": null,
+   "text": "Substitution, Racing de Santander. Pablo García replaces Sergio Canales."
+  },
+  {
+   "type": "Goal",
+   "clock": "66'",
+   "team": null,
+   "text": "Goal! Levante 1, Racing de Santander 1. Pablo García (Racing de Santander) left footed shot from the right side of the box to the top left corner. Assisted by André Almeida."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "74'",
+   "team": null,
+   "text": "Iker Luque (Racing de Santander) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Levante. Roger Brugué replaces Víctor García."
+  },
+  {
+   "type": "Substitution",
+   "clock": "75'",
+   "team": null,
+   "text": "Substitution, Levante. Karl Etta Eyong replaces Iván Romero."
+  },
+  {
+   "type": "Substitution",
+   "clock": "79'",
+   "team": null,
+   "text": "Substitution, Racing de Santander. Asier Villalibre replaces Iker Luque."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "79'",
+   "team": null,
+   "text": "Delay in match (Levante)."
+  },
+  {
+   "type": "Start Delay",
+   "clock": "79'",
+   "team": null,
+   "text": "Delay in match (Racing de Santander)."
+  },
+  {
+   "type": "End Delay",
+   "clock": "79'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "End Delay",
+   "clock": "79'",
+   "team": null,
+   "text": "Delay over. They are ready to continue."
+  },
+  {
+   "type": "Goal",
+   "clock": "81'",
+   "team": null,
+   "text": "Goal! Levante 1, Racing de Santander 2. Yassir Zabiri (Racing de Santander) left footed shot from the left side of the box to the bottom right corner. Assisted by Iñigo Vicente with a through ball fol"
+  },
+  {
+   "type": "Substitution",
+   "clock": "88'",
+   "team": null,
+   "text": "Substitution, Levante. Yanis Musuayi replaces Dani Requena."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'",
+   "team": null,
+   "text": "Substitution, Racing de Santander. Andrés Vallecillo replaces Yassir Zabiri."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Jon Ander Olasagasti (Levante) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'+5'",
+   "team": null,
+   "text": "Goal! Levante 1, Racing de Santander 3. Pablo García (Racing de Santander) left footed shot from outside the box to the high centre of the goal. Assisted by Jorge Salinas."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+7'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

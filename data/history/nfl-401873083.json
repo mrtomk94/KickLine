@@ -1,0 +1,138 @@
+{
+ "id": "nfl-401873083",
+ "sport": "nfl",
+ "league": "NFL",
+ "start": "2026-11-27T20:00Z",
+ "home": {
+  "name": "Pittsburgh Steelers",
+  "abbr": "PIT",
+  "teamId": "23",
+  "score": 27.0
+ },
+ "away": {
+  "name": "Denver Broncos",
+  "abbr": "DEN",
+  "teamId": "7",
+  "score": 5.0
+ },
+ "odds": {
+  "mlAway": "-242",
+  "mlAwayOpen": "-118",
+  "mlHome": "+200",
+  "mlHomeOpen": "-102",
+  "provider": "DraftKings",
+  "spread": "DEN -4.5",
+  "spreadOpen": "DEN -1.5",
+  "total": "37.5",
+  "totalOpen": "41.5"
+ },
+ "espnWinProb": {
+  "away": 48.9,
+  "home": 50.7
+ },
+ "teams": {
+  "away": {
+   "abbr": "DEN",
+   "stats": {
+    "firstDowns": "17",
+    "firstDownsPassing": "8",
+    "firstDownsRushing": "7",
+    "firstDownsPenalty": "2",
+    "thirdDownEff": "4-15",
+    "fourthDownEff": "0-1",
+    "totalOffensivePlays": "69",
+    "totalYards": "205",
+    "yardsPerPlay": "3.0",
+    "totalDrives": "13",
+    "netPassingYards": "132",
+    "completionAttempts": "22/40",
+    "yardsPerPass": "3.1",
+    "interceptions": "2",
+    "sacksYardsLost": "3-37",
+    "rushingYards": "73",
+    "rushingAttempts": "26",
+    "yardsPerRushAttempt": "2.8",
+    "redZoneAttempts": "0-1",
+    "totalPenaltiesYards": "6-45",
+    "turnovers": "3",
+    "fumblesLost": "1",
+    "defensiveTouchdowns": "0",
+    "possessionTime": "33:52"
+   }
+  },
+  "home": {
+   "abbr": "PIT",
+   "stats": {
+    "firstDowns": "12",
+    "firstDownsPassing": "4",
+    "firstDownsRushing": "6",
+    "firstDownsPenalty": "2",
+    "thirdDownEff": "6-13",
+    "fourthDownEff": "0-0",
+    "totalOffensivePlays": "47",
+    "totalYards": "247",
+    "yardsPerPlay": "5.3",
+    "totalDrives": "10",
+    "netPassingYards": "130",
+    "completionAttempts": "9/15",
+    "yardsPerPass": "8.1",
+    "interceptions": "0",
+    "sacksYardsLost": "1-12",
+    "rushingYards": "117",
+    "rushingAttempts": "31",
+    "yardsPerRushAttempt": "3.8",
+    "redZoneAttempts": "0-1",
+    "totalPenaltiesYards": "2-20",
+    "turnovers": "1",
+    "fumblesLost": "1",
+    "defensiveTouchdowns": "2",
+    "possessionTime": "26:08"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "6:03",
+   "team": "PIT",
+   "text": "T.J. Watt Fumble Recovery in End Zone (Chris Boswell Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "1:40",
+   "team": "PIT",
+   "text": "DK Metcalf 22 Yd pass from Mason Rudolph (Chris Boswell Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "11:10",
+   "team": "DEN",
+   "text": "Alex Singleton Safety"
+  },
+  {
+   "period": 2,
+   "clock": "5:06",
+   "team": "DEN",
+   "text": "Wil Lutz 44 Yd Field Goal"
+  },
+  {
+   "period": 2,
+   "clock": "1:51",
+   "team": "PIT",
+   "text": "Chris Boswell 47 Yd Field Goal "
+  },
+  {
+   "period": 2,
+   "clock": "1:33",
+   "team": "PIT",
+   "text": "Jalen Ramsey 36 Yd Interception Return (Chris Boswell Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "11:16",
+   "team": "PIT",
+   "text": "Chris Boswell 33 Yd Field Goal"
+  }
+ ]
+}

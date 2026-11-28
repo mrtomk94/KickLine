@@ -1,0 +1,120 @@
+{
+ "id": "ncaaf-401869930",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-27T20:00Z",
+ "home": {
+  "name": "South Alabama Jaguars",
+  "abbr": "USA",
+  "teamId": "6",
+  "score": 20.0
+ },
+ "away": {
+  "name": "App State Mountaineers",
+  "abbr": "APP",
+  "teamId": "2026",
+  "score": 13.0
+ },
+ "odds": {
+  "mlAway": "+130",
+  "mlAwayOpen": "+105",
+  "mlHome": "-155",
+  "mlHomeOpen": "-125",
+  "provider": "DraftKings",
+  "spread": "USA -3",
+  "spreadOpen": "USA -2.5",
+  "total": "56.5",
+  "totalOpen": "55.5"
+ },
+ "espnWinProb": {
+  "away": 37.3,
+  "home": 62.7
+ },
+ "teams": {
+  "away": {
+   "abbr": "APP",
+   "stats": {
+    "firstDowns": "23",
+    "thirdDownEff": "4-12",
+    "fourthDownEff": "0-1",
+    "totalYards": "361",
+    "netPassingYards": "251",
+    "completionAttempts": "23/30",
+    "yardsPerPass": "8.4",
+    "rushingYards": "110",
+    "rushingAttempts": "43",
+    "yardsPerRushAttempt": "2.6",
+    "totalPenaltiesYards": "4-37",
+    "turnovers": "2",
+    "fumblesLost": "0",
+    "interceptions": "2",
+    "possessionTime": "31:05"
+   }
+  },
+  "home": {
+   "abbr": "USA",
+   "stats": {
+    "firstDowns": "15",
+    "thirdDownEff": "6-16",
+    "fourthDownEff": "1-1",
+    "totalYards": "347",
+    "netPassingYards": "211",
+    "completionAttempts": "15/25",
+    "yardsPerPass": "8.4",
+    "rushingYards": "136",
+    "rushingAttempts": "37",
+    "yardsPerRushAttempt": "3.7",
+    "totalPenaltiesYards": "7-56",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "28:55"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "8:08",
+   "team": "USA",
+   "text": "Everett Hunter 6 Yd pass from Bishop Davenport (Dylan Freebury Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "2:46",
+   "team": "USA",
+   "text": "Dylan Freebury 21 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "8:10",
+   "team": "APP",
+   "text": "Jaquari Lewis 1 Yd Run (James London Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "5:55",
+   "team": "APP",
+   "text": "James London 42 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "6:49",
+   "team": "APP",
+   "text": "James London 29 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "1:04",
+   "team": "USA",
+   "text": "Dylan Freebury 34 Yd Field Goal  "
+  },
+  {
+   "period": 4,
+   "clock": "1:46",
+   "team": "USA",
+   "text": "Keenan Phillips 7 Yd Run (Dylan Freebury Kick)"
+  }
+ ]
+}

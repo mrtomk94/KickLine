@@ -1,0 +1,138 @@
+{
+ "id": "ncaaf-401864546",
+ "sport": "ncaaf",
+ "league": "College Football",
+ "start": "2026-11-27T21:30Z",
+ "home": {
+  "name": "New Mexico Lobos",
+  "abbr": "UNM",
+  "teamId": "167",
+  "score": 42.0
+ },
+ "away": {
+  "name": "Air Force Falcons",
+  "abbr": "AFA",
+  "teamId": "2005",
+  "score": 19.0
+ },
+ "odds": {
+  "mlAway": "+215",
+  "mlAwayOpen": "+195",
+  "mlHome": "-265",
+  "mlHomeOpen": "-238",
+  "provider": "DraftKings",
+  "spread": "UNM -6.5",
+  "spreadOpen": "UNM -7",
+  "total": "42.5",
+  "totalOpen": "41.5"
+ },
+ "espnWinProb": {
+  "away": 27.7,
+  "home": 72.3
+ },
+ "teams": {
+  "away": {
+   "abbr": "AFA",
+   "stats": {
+    "firstDowns": "23",
+    "thirdDownEff": "5-15",
+    "fourthDownEff": "3-5",
+    "totalYards": "398",
+    "netPassingYards": "236",
+    "completionAttempts": "13/28",
+    "yardsPerPass": "8.4",
+    "rushingYards": "162",
+    "rushingAttempts": "46",
+    "yardsPerRushAttempt": "3.5",
+    "totalPenaltiesYards": "1-5",
+    "turnovers": "2",
+    "fumblesLost": "1",
+    "interceptions": "1",
+    "possessionTime": "32:13"
+   }
+  },
+  "home": {
+   "abbr": "UNM",
+   "stats": {
+    "firstDowns": "18",
+    "thirdDownEff": "7-12",
+    "fourthDownEff": "2-3",
+    "totalYards": "430",
+    "netPassingYards": "248",
+    "completionAttempts": "19/27",
+    "yardsPerPass": "9.2",
+    "rushingYards": "182",
+    "rushingAttempts": "29",
+    "yardsPerRushAttempt": "6.3",
+    "totalPenaltiesYards": "7-64",
+    "turnovers": "1",
+    "fumblesLost": "0",
+    "interceptions": "1",
+    "possessionTime": "27:47"
+   }
+  }
+ },
+ "keyEvents": [],
+ "scoringPlays": [
+  {
+   "period": 1,
+   "clock": "10:13",
+   "team": "AFA",
+   "text": "Evan Medders 1 Yd Run (Carter Cremascoli Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "3:20",
+   "team": "UNM",
+   "text": "Kiefer Sibley 52 Yd Run (Nick Romero Kick)"
+  },
+  {
+   "period": 1,
+   "clock": "2:26",
+   "team": "UNM",
+   "text": "Ricklan Holmes II 1 Yd Run (Nick Romero Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "10:15",
+   "team": "AFA",
+   "text": "Carter Cremascoli 25 Yd Field Goal  "
+  },
+  {
+   "period": 2,
+   "clock": "2:33",
+   "team": "UNM",
+   "text": "Bailen George 17 Yd pass from Luke Moga (Nick Romero Kick)"
+  },
+  {
+   "period": 2,
+   "clock": "0:02",
+   "team": "AFA",
+   "text": "Carter Cremascoli 25 Yd Field Goal  "
+  },
+  {
+   "period": 3,
+   "clock": "6:23",
+   "team": "AFA",
+   "text": "Evan Medders 6 Yd Run (Two-Point Run Conversion Failed)"
+  },
+  {
+   "period": 3,
+   "clock": "1:41",
+   "team": "UNM",
+   "text": "Kiefer Sibley 1 Yd Run (Nick Romero Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "11:57",
+   "team": "UNM",
+   "text": "Bailen George 17 Yd pass from Luke Moga (Nick Romero Kick)"
+  },
+  {
+   "period": 4,
+   "clock": "1:58",
+   "team": "UNM",
+   "text": "Tripp Walsh 7 Yd pass from Luke Moga (Nick Romero Kick)"
+  }
+ ]
+}

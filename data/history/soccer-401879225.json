@@ -1,0 +1,234 @@
+{
+ "id": "soccer-401879225",
+ "sport": "soccer",
+ "league": "Premier League",
+ "start": "2026-11-27T20:00Z",
+ "home": {
+  "name": "Nottingham Forest",
+  "abbr": "NFO",
+  "teamId": "393",
+  "score": 3.0
+ },
+ "away": {
+  "name": "Chelsea",
+  "abbr": "CHE",
+  "teamId": "363",
+  "score": 2.0
+ },
+ "odds": {
+  "mlAway": "+190",
+  "mlAwayOpen": "+145",
+  "mlDraw": "+240",
+  "mlHome": "+145",
+  "mlHomeOpen": "+170",
+  "provider": "DraftKings",
+  "spread": "NFO +145",
+  "spreadOpen": "CHE -0.5",
+  "total": "2.5",
+  "totalOpen": "2.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "NFO",
+   "stats": {
+    "foulsCommitted": "15",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "1",
+    "saves": "1",
+    "possessionPct": "35.2",
+    "totalShots": "10",
+    "shotsOnTarget": "7",
+    "shotPct": "0.7",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "1",
+    "accuratePasses": "244",
+    "totalPasses": "319",
+    "passPct": "0.8",
+    "accurateCrosses": "1",
+    "totalCrosses": "7",
+    "crossPct": "0.1",
+    "totalLongBalls": "61",
+    "accurateLongBalls": "27",
+    "longballPct": "0.4",
+    "blockedShots": "2",
+    "effectiveTackles": "15",
+    "totalTackles": "21",
+    "tacklePct": "0.7",
+    "interceptions": "4",
+    "effectiveClearance": "32",
+    "totalClearance": "32"
+   }
+  },
+  "away": {
+   "abbr": "CHE",
+   "stats": {
+    "foulsCommitted": "11",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "0",
+    "wonCorners": "2",
+    "saves": "4",
+    "possessionPct": "64.8",
+    "totalShots": "9",
+    "shotsOnTarget": "3",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "505",
+    "totalPasses": "582",
+    "passPct": "0.9",
+    "accurateCrosses": "4",
+    "totalCrosses": "17",
+    "crossPct": "0.2",
+    "totalLongBalls": "57",
+    "accurateLongBalls": "23",
+    "longballPct": "0.4",
+    "blockedShots": "3",
+    "effectiveTackles": "8",
+    "totalTackles": "15",
+    "tacklePct": "0.5",
+    "interceptions": "11",
+    "effectiveClearance": "14",
+    "totalClearance": "14"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Goal",
+   "clock": "5'",
+   "team": null,
+   "text": "Goal! Nottingham Forest 1, Chelsea 0. Igor Jesus (Nottingham Forest) right footed shot from the centre of the box to the top right corner. Assisted by Daniel Muñoz with a cross."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+2'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Substitution",
+   "clock": "45'",
+   "team": null,
+   "text": "Substitution, Chelsea. Emmanuel Emegha replaces Danny Welbeck."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": "Second Half begins Nottingham Forest 1, Chelsea 0."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "49'",
+   "team": null,
+   "text": "Wesley Fofana (Chelsea) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Penalty - Scored",
+   "clock": "51'",
+   "team": null,
+   "text": "Goal! Nottingham Forest 2, Chelsea 0. Morgan Gibbs-White (Nottingham Forest) converts the penalty with a right footed shot to the bottom right corner."
+  },
+  {
+   "type": "Goal",
+   "clock": "54'",
+   "team": null,
+   "text": "Goal! Nottingham Forest 2, Chelsea 1. Emmanuel Emegha (Chelsea) left footed shot from the centre of the box to the bottom right corner."
+  },
+  {
+   "type": "Substitution",
+   "clock": "56'",
+   "team": null,
+   "text": "Substitution, Chelsea. Levi Colwill replaces Wesley Fofana."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "61'",
+   "team": null,
+   "text": "Jordan Henderson (Chelsea) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "71'",
+   "team": null,
+   "text": "Pedro Neto (Chelsea) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "72'",
+   "team": null,
+   "text": "Substitution, Nottingham Forest. Dan Ndoye replaces Igor Jesus."
+  },
+  {
+   "type": "Goal",
+   "clock": "72'",
+   "team": null,
+   "text": "Goal! Nottingham Forest 3, Chelsea 1. Morgan Gibbs-White (Nottingham Forest) right footed shot from the centre of the box to the bottom right corner. Assisted by Xaver Schlager with a through ball fol"
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "80'",
+   "team": null,
+   "text": "Liam Delap (Nottingham Forest) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "84'",
+   "team": null,
+   "text": "Substitution, Nottingham Forest. Chris Wood replaces Liam Delap."
+  },
+  {
+   "type": "Substitution",
+   "clock": "84'",
+   "team": null,
+   "text": "Substitution, Nottingham Forest. Ibrahim Sangaré replaces Xaver Schlager."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Chelsea. Marco Palestra replaces Josh Acheampong."
+  },
+  {
+   "type": "Substitution",
+   "clock": "85'",
+   "team": null,
+   "text": "Substitution, Chelsea. Geovany Quenda replaces Jordan Henderson."
+  },
+  {
+   "type": "Goal - Header",
+   "clock": "89'",
+   "team": null,
+   "text": "Goal! Nottingham Forest 3, Chelsea 2. Emmanuel Emegha (Chelsea) header from the centre of the box to the bottom right corner. Assisted by Pedro Neto with a cross."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Ibrahim Sangaré (Nottingham Forest) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "90'+3'",
+   "team": null,
+   "text": "Substitution, Nottingham Forest. Ryan Yates replaces James McAtee."
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+6'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}

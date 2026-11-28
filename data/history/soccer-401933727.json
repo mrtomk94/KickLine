@@ -1,0 +1,198 @@
+{
+ "id": "soccer-401933727",
+ "sport": "soccer",
+ "league": "MLS",
+ "start": "2026-11-28T01:00Z",
+ "home": {
+  "name": "Columbus Crew",
+  "abbr": "CLB",
+  "teamId": "183",
+  "score": 1.0
+ },
+ "away": {
+  "name": "Inter Miami CF",
+  "abbr": "MIA",
+  "teamId": "20232",
+  "score": 0.0
+ },
+ "odds": {
+  "mlAway": "+135",
+  "mlAwayOpen": "+150",
+  "mlDraw": "+285",
+  "mlHome": "+150",
+  "mlHomeOpen": "+135",
+  "provider": "DraftKings",
+  "spread": "MIA +135",
+  "spreadOpen": "CLB -0.5",
+  "total": "3.5",
+  "totalOpen": "3.5"
+ },
+ "espnWinProb": null,
+ "teams": {
+  "home": {
+   "abbr": "CLB",
+   "stats": {
+    "foulsCommitted": "14",
+    "yellowCards": "3",
+    "redCards": "0",
+    "offsides": "2",
+    "wonCorners": "8",
+    "saves": "2",
+    "possessionPct": "48.3",
+    "totalShots": "18",
+    "shotsOnTarget": "5",
+    "shotPct": "0.3",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "425",
+    "totalPasses": "479",
+    "passPct": "0.9",
+    "accurateCrosses": "3",
+    "totalCrosses": "15",
+    "crossPct": "0.2",
+    "totalLongBalls": "32",
+    "accurateLongBalls": "21",
+    "longballPct": "0.7",
+    "blockedShots": "6",
+    "effectiveTackles": "7",
+    "totalTackles": "9",
+    "tacklePct": "0.8",
+    "interceptions": "11",
+    "effectiveClearance": "16",
+    "totalClearance": "16"
+   }
+  },
+  "away": {
+   "abbr": "MIA",
+   "stats": {
+    "foulsCommitted": "10",
+    "yellowCards": "2",
+    "redCards": "0",
+    "offsides": "1",
+    "wonCorners": "6",
+    "saves": "3",
+    "possessionPct": "51.7",
+    "totalShots": "9",
+    "shotsOnTarget": "2",
+    "shotPct": "0.2",
+    "penaltyKickGoals": "0",
+    "penaltyKickShots": "0",
+    "accuratePasses": "456",
+    "totalPasses": "520",
+    "passPct": "0.9",
+    "accurateCrosses": "3",
+    "totalCrosses": "12",
+    "crossPct": "0.3",
+    "totalLongBalls": "44",
+    "accurateLongBalls": "26",
+    "longballPct": "0.6",
+    "blockedShots": "2",
+    "effectiveTackles": "4",
+    "totalTackles": "8",
+    "tacklePct": "0.5",
+    "interceptions": "14",
+    "effectiveClearance": "16",
+    "totalClearance": "16"
+   }
+  }
+ },
+ "keyEvents": [
+  {
+   "type": "Kickoff",
+   "clock": "",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "18'",
+   "team": null,
+   "text": "Fricio Caicedo (Inter Miami CF) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "45'",
+   "team": null,
+   "text": "Santiago Rodríguez (Columbus Crew) is shown the yellow card for handball."
+  },
+  {
+   "type": "Halftime",
+   "clock": "45'+1'",
+   "team": null,
+   "text": "First Half ends, Columbus Crew 0, Inter Miami CF 0."
+  },
+  {
+   "type": "Start 2nd Half",
+   "clock": "45'",
+   "team": null,
+   "text": ""
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "65'",
+   "team": null,
+   "text": "Gonzalo Tapia (Columbus Crew) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Substitution",
+   "clock": "66'",
+   "team": null,
+   "text": "Substitution, Inter Miami CF. Facundo Mura replaces Fricio Caicedo."
+  },
+  {
+   "type": "Substitution",
+   "clock": "74'",
+   "team": null,
+   "text": "Substitution, Inter Miami CF. Luis Suárez replaces Riquelme Fillipi."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "79'",
+   "team": null,
+   "text": "Matías Galarza (Inter Miami CF) is shown the yellow card for a bad foul."
+  },
+  {
+   "type": "Yellow Card",
+   "clock": "83'",
+   "team": null,
+   "text": "Sean Zawadzki (Columbus Crew) is shown the yellow card."
+  },
+  {
+   "type": "Substitution",
+   "clock": "88'",
+   "team": null,
+   "text": "Substitution, Inter Miami CF. Alexander Shaw replaces Ian Fray."
+  },
+  {
+   "type": "Substitution",
+   "clock": "88'",
+   "team": null,
+   "text": "Substitution, Columbus Crew. Andrés Herrera replaces Mohamed Farsi."
+  },
+  {
+   "type": "Substitution",
+   "clock": "88'",
+   "team": null,
+   "text": "Substitution, Columbus Crew. André Gomes replaces Dylan Chambost."
+  },
+  {
+   "type": "Substitution",
+   "clock": "88'",
+   "team": null,
+   "text": "Substitution, Columbus Crew. Josef Martínez replaces Gonzalo Tapia."
+  },
+  {
+   "type": "Goal",
+   "clock": "90'+2'",
+   "team": null,
+   "text": "Goal! Columbus Crew 1, Inter Miami CF 0. Santiago Rodríguez (Columbus Crew) right footed shot from the right side of the six yard box to the high centre of the goal. Assisted by Anass Zaroury with a c"
+  },
+  {
+   "type": "End Regular Time",
+   "clock": "90'+5'",
+   "team": null,
+   "text": ""
+  }
+ ],
+ "scoringPlays": []
+}
